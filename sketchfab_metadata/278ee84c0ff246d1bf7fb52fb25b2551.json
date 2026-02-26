@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T03:38:47.876098",
+    "embedUrl": "https://sketchfab.com/models/278ee84c0ff246d1bf7fb52fb25b2551/embed",
+    "faceCount": 2166,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Voxel Scene",
+    "publishedAt": "2026-02-23T03:45:35.195723",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "27fd201b121845fd9985dc5497000ef9",
+                "width": 1920,
+                "height": 1080,
+                "size": 326349,
+                "url": "https://media.sketchfab.com/models/278ee84c0ff246d1bf7fb52fb25b2551/thumbnails/5a319e507f9341b6ba6ad44841e2ea6b/973e8287f37b40499612d6c7beb045a1.jpeg"
+            },
+            {
+                "uid": "3550fab2e77f4895929f1167e54959ae",
+                "width": 1024,
+                "height": 576,
+                "size": 68063,
+                "url": "https://media.sketchfab.com/models/278ee84c0ff246d1bf7fb52fb25b2551/thumbnails/5a319e507f9341b6ba6ad44841e2ea6b/f2f2c6901dde48adaa34142defebb536.jpeg"
+            },
+            {
+                "uid": "6f639e78024b4db9948817522e200281",
+                "width": 720,
+                "height": 405,
+                "size": 36710,
+                "url": "https://media.sketchfab.com/models/278ee84c0ff246d1bf7fb52fb25b2551/thumbnails/5a319e507f9341b6ba6ad44841e2ea6b/0a9c5d4efd4f46338cfc1a70920f2147.jpeg"
+            },
+            {
+                "uid": "226594c532784fdf83f1045fbf5da738",
+                "width": 256,
+                "height": 144,
+                "size": 7815,
+                "url": "https://media.sketchfab.com/models/278ee84c0ff246d1bf7fb52fb25b2551/thumbnails/5a319e507f9341b6ba6ad44841e2ea6b/35772a602b26471bb446eb97a91be5dc.jpeg"
+            },
+            {
+                "uid": "0a7c984ec1934dd08873023aa979a22f",
+                "width": 64,
+                "height": 36,
+                "size": 1472,
+                "url": "https://media.sketchfab.com/models/278ee84c0ff246d1bf7fb52fb25b2551/thumbnails/5a319e507f9341b6ba6ad44841e2ea6b/fd8638a8ded74011af8eed5135d77a2c.jpeg"
+            }
+        ]
+    },
+    "uid": "278ee84c0ff246d1bf7fb52fb25b2551",
+    "uri": "https://api.sketchfab.com/v3/models/278ee84c0ff246d1bf7fb52fb25b2551",
+    "user": {
+        "uid": "fa998fa4779e4a27a7235ca79ebaa2e5",
+        "username": "lukepham-holmesglen",
+        "displayName": "lukepham-holmesglen",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/lukepham-holmesglen",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fa998fa4779e4a27a7235ca79ebaa2e5"
+    },
+    "vertexCount": 1063,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/voxel-scene-278ee84c0ff246d1bf7fb52fb25b2551",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/278ee84c0ff246d1bf7fb52fb25b2551/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T03:46:12.773316",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,19 @@
+{
+    "blender": {
+        "executable": "C:/Program Files/Blender Foundation/Blender 4.3/blender.exe",
+        "enabled": true
+    },
+    "api": {
+        "openai_key": "",
+        "huggingface_token": ""
+    },
+    "rendering": {
+        "wait_base_sec": 0.4,
+        "wait_max_sec": 1.5,
+        "poly_factor": 1.0,
+        "tex_factor": 0.5,
+        "render_width": 1280,
+        "render_height": 1280,
+        "zoom_margin": 1.1
+    }
+}

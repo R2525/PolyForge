@@ -1,0 +1,179 @@
+{
+    "animationCount": 3,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T00:44:07.604934",
+    "embedUrl": "https://sketchfab.com/models/10e6db08068641f89ac1dc81013e8ff4/embed",
+    "faceCount": 8584,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "UniCorp Drone",
+    "publishedAt": "2026-02-24T00:50:31.574270",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "uniform",
+            "slug": "uniform",
+            "uri": "https://api.sketchfab.com/v3/tags/uniform"
+        },
+        {
+            "name": "Corporate",
+            "slug": "corporate",
+            "uri": "https://api.sketchfab.com/v3/tags/corporate"
+        },
+        {
+            "name": "low-poly-blender",
+            "slug": "low-poly-blender",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly-blender"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "sterile",
+            "slug": "sterile",
+            "uri": "https://api.sketchfab.com/v3/tags/sterile"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9b79f7dfe0044ec7afdbc9e7c53db1b6",
+                "width": 1920,
+                "height": 1080,
+                "size": 52815,
+                "url": "https://media.sketchfab.com/models/10e6db08068641f89ac1dc81013e8ff4/thumbnails/c452577fd9584c59b98795d04943a823/d21473a5c56347b493d5902e69aa7f39.jpeg"
+            },
+            {
+                "uid": "697da02b5a8843f886d5dd25211a27c2",
+                "width": 1024,
+                "height": 576,
+                "size": 17982,
+                "url": "https://media.sketchfab.com/models/10e6db08068641f89ac1dc81013e8ff4/thumbnails/c452577fd9584c59b98795d04943a823/d50bab017c384b2c9e8ca0fd0171833e.jpeg"
+            },
+            {
+                "uid": "316fe1bc41ac4e1dae6ddfa7b69e25ba",
+                "width": 720,
+                "height": 405,
+                "size": 10614,
+                "url": "https://media.sketchfab.com/models/10e6db08068641f89ac1dc81013e8ff4/thumbnails/c452577fd9584c59b98795d04943a823/a983cda90a244cb3b7e09bd947ce76f0.jpeg"
+            },
+            {
+                "uid": "649bd261569f4fb4a08af94a909d0229",
+                "width": 256,
+                "height": 144,
+                "size": 2441,
+                "url": "https://media.sketchfab.com/models/10e6db08068641f89ac1dc81013e8ff4/thumbnails/c452577fd9584c59b98795d04943a823/1b1521c1d37148088fe9e798b93c64b6.jpeg"
+            },
+            {
+                "uid": "c69b1d3bfac248aaadec55208ffbf4fe",
+                "width": 64,
+                "height": 36,
+                "size": 858,
+                "url": "https://media.sketchfab.com/models/10e6db08068641f89ac1dc81013e8ff4/thumbnails/c452577fd9584c59b98795d04943a823/8b2e274fd6434a9aa926b2eb40c400df.jpeg"
+            }
+        ]
+    },
+    "uid": "10e6db08068641f89ac1dc81013e8ff4",
+    "uri": "https://api.sketchfab.com/v3/models/10e6db08068641f89ac1dc81013e8ff4",
+    "user": {
+        "uid": "6cb279c6ced34d9c8ea51b158dcfc732",
+        "username": "shovelsquid",
+        "displayName": "shovelsquid",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/shovelsquid",
+        "avatar": {
+            "uid": "060e5f2c0ec742ce8285f20afbb0c6e8",
+            "uri": "https://api.sketchfab.com/v3/avatars/060e5f2c0ec742ce8285f20afbb0c6e8",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1814,
+                    "url": "https://media.sketchfab.com/avatars/060e5f2c0ec742ce8285f20afbb0c6e8/3a8db378287141de82b48823ae0f5d00.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3218,
+                    "url": "https://media.sketchfab.com/avatars/060e5f2c0ec742ce8285f20afbb0c6e8/ab1b481dd7fd4393b352e616372e8d2f.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 7564,
+                    "url": "https://media.sketchfab.com/avatars/060e5f2c0ec742ce8285f20afbb0c6e8/599587b023334d818efeb467a29f5b87.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 8574,
+                    "url": "https://media.sketchfab.com/avatars/060e5f2c0ec742ce8285f20afbb0c6e8/10966232f0d546da98c3b12f6d9b3219.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6cb279c6ced34d9c8ea51b158dcfc732"
+    },
+    "vertexCount": 4666,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/unicorp-drone-10e6db08068641f89ac1dc81013e8ff4",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A friendly working drone at UniCorp, ready to carry out all your business needs (and fire you at management's discretion). Don't mess with the best, or you'll get undressed (management's policy). A standard t-24 model of enforcement drone, used widely at corporate headquarters and around the country (for the low low price of $24,999.99!) With friendly facial detection sensors, UniCorp Drone can understand who is friend and who is foe. Just make sure not to have any paint smeared on your face, or be in darkly lit corridors, or close your eyes for too long (R&D's still working out the kinks).",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/10e6db08068641f89ac1dc81013e8ff4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T00:50:31.787586",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 2
+}

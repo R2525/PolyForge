@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-19T07:52:17.778373",
+    "embedUrl": "https://sketchfab.com/models/1f22c855b3d542e495b4ac9857391585/embed",
+    "faceCount": 268384,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Islägg",
+    "publishedAt": "2026-01-19T07:54:40.818869",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "skating",
+            "slug": "skating",
+            "uri": "https://api.sketchfab.com/v3/tags/skating"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "viking-age",
+            "slug": "viking-age",
+            "uri": "https://api.sketchfab.com/v3/tags/viking-age"
+        },
+        {
+            "name": "gotland",
+            "slug": "gotland",
+            "uri": "https://api.sketchfab.com/v3/tags/gotland"
+        },
+        {
+            "name": "gotlandsmuseum",
+            "slug": "gotlandsmuseum",
+            "uri": "https://api.sketchfab.com/v3/tags/gotlandsmuseum"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "81b8b35994be4a69a6162dbc74a835b8",
+                "width": 1920,
+                "height": 1080,
+                "size": 65875,
+                "url": "https://media.sketchfab.com/models/1f22c855b3d542e495b4ac9857391585/thumbnails/322838410207429caf8fde1b8e074c1b/d72c5c6d39da4a809d17f2b048ccdcca.jpeg"
+            },
+            {
+                "uid": "b6e11d6725bb481b81fea6a1f9aff6b0",
+                "width": 1024,
+                "height": 576,
+                "size": 20938,
+                "url": "https://media.sketchfab.com/models/1f22c855b3d542e495b4ac9857391585/thumbnails/322838410207429caf8fde1b8e074c1b/d00630b845ed45db800a7eb9211ddae3.jpeg"
+            },
+            {
+                "uid": "21ac70816c824c19a8effc6eddfc46fe",
+                "width": 720,
+                "height": 405,
+                "size": 11643,
+                "url": "https://media.sketchfab.com/models/1f22c855b3d542e495b4ac9857391585/thumbnails/322838410207429caf8fde1b8e074c1b/191b227aa472446cb41141d78441799b.jpeg"
+            },
+            {
+                "uid": "efa2643326ff444684e6f4bea996458e",
+                "width": 256,
+                "height": 144,
+                "size": 2378,
+                "url": "https://media.sketchfab.com/models/1f22c855b3d542e495b4ac9857391585/thumbnails/322838410207429caf8fde1b8e074c1b/f315afe229bc44908906c10e10428ad3.jpeg"
+            },
+            {
+                "uid": "9220a860fb4c4ffdb4d7696a22c88848",
+                "width": 64,
+                "height": 36,
+                "size": 806,
+                "url": "https://media.sketchfab.com/models/1f22c855b3d542e495b4ac9857391585/thumbnails/322838410207429caf8fde1b8e074c1b/66661c0252f4410cb24ac05934f895b0.jpeg"
+            }
+        ]
+    },
+    "uid": "1f22c855b3d542e495b4ac9857391585",
+    "uri": "https://api.sketchfab.com/v3/models/1f22c855b3d542e495b4ac9857391585",
+    "user": {
+        "uid": "36b36d26c7b84976947498c3aa3d3b38",
+        "username": "gotlandsmuseum",
+        "displayName": "Gotlands Museum",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/gotlandsmuseum",
+        "avatar": {
+            "uid": "3c8fd9971aac45cfb4c26b7d96fe0fb7",
+            "uri": "https://api.sketchfab.com/v3/avatars/3c8fd9971aac45cfb4c26b7d96fe0fb7",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3447,
+                    "url": "https://media.sketchfab.com/avatars/3c8fd9971aac45cfb4c26b7d96fe0fb7/a587904938d44731a1e00c5b57ab33ec.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3076,
+                    "url": "https://media.sketchfab.com/avatars/3c8fd9971aac45cfb4c26b7d96fe0fb7/b469504829364105a7eaeed5026c279f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1329,
+                    "url": "https://media.sketchfab.com/avatars/3c8fd9971aac45cfb4c26b7d96fe0fb7/865615a257ed4c9593137f4487247bd4.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 835,
+                    "url": "https://media.sketchfab.com/avatars/3c8fd9971aac45cfb4c26b7d96fe0fb7/0c890a80c44e46c3860c6db0b7490cda.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/36b36d26c7b84976947498c3aa3d3b38"
+    },
+    "vertexCount": 134198,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/islagg-1f22c855b3d542e495b4ac9857391585",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Isläggar av ben från en grav i Hellvi. Dessa 26 cm långa ”skridskor” användes för snabba färder på blankis under vikingatid och medeltid. Hålen visar att de snörades fast vid fötterna. Mångfalden av fynd i olika storlekar tyder på att isåkning var ett populärt transportmedel för både barn och vuxna.\n\n[Läs mer här.](https://digitaltmuseum.org/0210213407744/islagg)",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/1f22c855b3d542e495b4ac9857391585/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-19T07:56:10.651504",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

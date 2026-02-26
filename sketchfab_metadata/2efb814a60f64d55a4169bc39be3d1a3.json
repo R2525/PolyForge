@@ -1,0 +1,140 @@
+{
+    "animationCount": 4,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T02:00:07.772071",
+    "embedUrl": "https://sketchfab.com/models/2efb814a60f64d55a4169bc39be3d1a3/embed",
+    "faceCount": 372,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Warped creaking",
+    "publishedAt": "2026-02-20T02:02:45.643396",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "reskin",
+            "slug": "reskin",
+            "uri": "https://api.sketchfab.com/v3/tags/reskin"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft-models",
+            "slug": "minecraft-models",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft-models"
+        },
+        {
+            "name": "creaking",
+            "slug": "creaking",
+            "uri": "https://api.sketchfab.com/v3/tags/creaking"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0bfd488ba6014db29b4dcfe5b147d146",
+                "width": 1920,
+                "height": 1080,
+                "size": 67483,
+                "url": "https://media.sketchfab.com/models/2efb814a60f64d55a4169bc39be3d1a3/thumbnails/c5a763ac848e46e0a7b04ac48dcc0f1a/a4a70c9eb7894d9dbd7dfba126d4740e.jpeg"
+            },
+            {
+                "uid": "d99ae011df83448eb509eac0354bf8ca",
+                "width": 1024,
+                "height": 576,
+                "size": 25427,
+                "url": "https://media.sketchfab.com/models/2efb814a60f64d55a4169bc39be3d1a3/thumbnails/c5a763ac848e46e0a7b04ac48dcc0f1a/5c052b1004fd48eeb85eba743fb63bc2.jpeg"
+            },
+            {
+                "uid": "d1ec632150b4481c98ad93677f8d195d",
+                "width": 720,
+                "height": 405,
+                "size": 15402,
+                "url": "https://media.sketchfab.com/models/2efb814a60f64d55a4169bc39be3d1a3/thumbnails/c5a763ac848e46e0a7b04ac48dcc0f1a/659bb43d83c44865985968192876231c.jpeg"
+            },
+            {
+                "uid": "fd82b5fa112f46ffbc4f69a6a2175212",
+                "width": 256,
+                "height": 144,
+                "size": 3749,
+                "url": "https://media.sketchfab.com/models/2efb814a60f64d55a4169bc39be3d1a3/thumbnails/c5a763ac848e46e0a7b04ac48dcc0f1a/4b55af07075a407f85436ba5a65974ec.jpeg"
+            },
+            {
+                "uid": "3f7b6edb6f524b219e9ce19d703c841d",
+                "width": 64,
+                "height": 36,
+                "size": 989,
+                "url": "https://media.sketchfab.com/models/2efb814a60f64d55a4169bc39be3d1a3/thumbnails/c5a763ac848e46e0a7b04ac48dcc0f1a/8d4e3974d80847a888e8b339d59fcbe3.jpeg"
+            }
+        ]
+    },
+    "uid": "2efb814a60f64d55a4169bc39be3d1a3",
+    "uri": "https://api.sketchfab.com/v3/models/2efb814a60f64d55a4169bc39be3d1a3",
+    "user": {
+        "uid": "c72bcb3261af47c38f0480f226f2b076",
+        "username": "NuggetCraft",
+        "displayName": "NuggetCraft",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/NuggetCraft",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c72bcb3261af47c38f0480f226f2b076"
+    },
+    "vertexCount": 248,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/warped-creaking-2efb814a60f64d55a4169bc39be3d1a3",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Just a little reskin of the creaking for the warpped forest",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2efb814a60f64d55a4169bc39be3d1a3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T02:08:20.917573",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

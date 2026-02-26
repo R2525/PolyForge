@@ -1,0 +1,179 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-02T20:44:28.715422",
+    "embedUrl": "https://sketchfab.com/models/46c33925db764636a527ed7fa47a3479/embed",
+    "faceCount": 37533,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "NAND136_TP01_Kit Modulaire_JérémyLachance",
+    "publishedAt": "2026-02-02T20:51:09.752603",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "church",
+            "slug": "church",
+            "uri": "https://api.sketchfab.com/v3/tags/church"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "584bf86530344c5f90a999f0e7dce991",
+                "width": 1920,
+                "height": 1080,
+                "size": 202656,
+                "url": "https://media.sketchfab.com/models/46c33925db764636a527ed7fa47a3479/thumbnails/ae23be2eb5aa4d369be9cc8cd87c7711/d029bf551283483c86bda42eb5787df7.jpeg"
+            },
+            {
+                "uid": "a7bb7d42b9894c69ba7f360a1c4ed182",
+                "width": 1024,
+                "height": 576,
+                "size": 61811,
+                "url": "https://media.sketchfab.com/models/46c33925db764636a527ed7fa47a3479/thumbnails/ae23be2eb5aa4d369be9cc8cd87c7711/0bdd5749df664ab3ae14f2acf25c3416.jpeg"
+            },
+            {
+                "uid": "3e00828884274feea994a15ec9a38277",
+                "width": 720,
+                "height": 405,
+                "size": 33823,
+                "url": "https://media.sketchfab.com/models/46c33925db764636a527ed7fa47a3479/thumbnails/ae23be2eb5aa4d369be9cc8cd87c7711/583adeb43aa642a6969a9018ac9771ba.jpeg"
+            },
+            {
+                "uid": "f885518e3da04ce28cba98516a937a26",
+                "width": 256,
+                "height": 144,
+                "size": 6274,
+                "url": "https://media.sketchfab.com/models/46c33925db764636a527ed7fa47a3479/thumbnails/ae23be2eb5aa4d369be9cc8cd87c7711/a0e984f00ef04a3ca873e3cab433cd12.jpeg"
+            },
+            {
+                "uid": "e59a87b842544f0a915a762b25042eea",
+                "width": 64,
+                "height": 36,
+                "size": 1271,
+                "url": "https://media.sketchfab.com/models/46c33925db764636a527ed7fa47a3479/thumbnails/ae23be2eb5aa4d369be9cc8cd87c7711/8e44e3437c18412a997df140f1dc2a4f.jpeg"
+            }
+        ]
+    },
+    "uid": "46c33925db764636a527ed7fa47a3479",
+    "uri": "https://api.sketchfab.com/v3/models/46c33925db764636a527ed7fa47a3479",
+    "user": {
+        "uid": "9dd7c56b93fc4d229c7d20eb444c0073",
+        "username": "jecool297",
+        "displayName": "Jérémy Lachance",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/jecool297",
+        "avatar": {
+            "uid": "b42da51550e14d4888198ee96738e8b3",
+            "uri": "https://api.sketchfab.com/v3/avatars/b42da51550e14d4888198ee96738e8b3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 933,
+                    "url": "https://media.sketchfab.com/avatars/b42da51550e14d4888198ee96738e8b3/433afc8e7b9945939bdee5b3f0827589.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1138,
+                    "url": "https://media.sketchfab.com/avatars/b42da51550e14d4888198ee96738e8b3/257eb3b29fce4dd885e4a12772059a2f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2094,
+                    "url": "https://media.sketchfab.com/avatars/b42da51550e14d4888198ee96738e8b3/4af1b7a0d24446f390c3fffe57c0f6f5.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2406,
+                    "url": "https://media.sketchfab.com/avatars/b42da51550e14d4888198ee96738e8b3/6f30c2cdd40c46d6bff091bd6d002ad9.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9dd7c56b93fc4d229c7d20eb444c0073"
+    },
+    "vertexCount": 20970,
+    "viewCount": 60,
+    "viewerUrl": "https://sketchfab.com/3d-models/nand136-tp01-kit-modulaire-jeremylachance-46c33925db764636a527ed7fa47a3479",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Remise Kit modulaire TP01 dans le cours : NAND136",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/46c33925db764636a527ed7fa47a3479/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-03T01:21:08.528926",
+    "pbrType": null,
+    "textureCount": 12,
+    "materialCount": 4
+}

@@ -1,0 +1,194 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T07:09:02.890931",
+    "embedUrl": "https://sketchfab.com/models/34467e13b71148188cde33b68f67b241/embed",
+    "faceCount": 8942,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Kraken Blade",
+    "publishedAt": "2026-02-24T07:15:15.385226",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cutlass",
+            "slug": "cutlass",
+            "uri": "https://api.sketchfab.com/v3/tags/cutlass"
+        },
+        {
+            "name": "kraken",
+            "slug": "kraken",
+            "uri": "https://api.sketchfab.com/v3/tags/kraken"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "pirate",
+            "slug": "pirate",
+            "uri": "https://api.sketchfab.com/v3/tags/pirate"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e5b86346231a4a8cbb1ac94cb48d8cca",
+                "width": 1920,
+                "height": 1080,
+                "size": 43666,
+                "url": "https://media.sketchfab.com/models/34467e13b71148188cde33b68f67b241/thumbnails/0d6d5b0a7d0c4148b3686fcb68a6a9a4/fdd78221b70b45338a4a55ec89ae6407.jpeg"
+            },
+            {
+                "uid": "846c6578a3fe41c7ac8bf3db6c21bf3e",
+                "width": 1024,
+                "height": 576,
+                "size": 13864,
+                "url": "https://media.sketchfab.com/models/34467e13b71148188cde33b68f67b241/thumbnails/0d6d5b0a7d0c4148b3686fcb68a6a9a4/2309a3d9e0f142c6847d63c2f403748c.jpeg"
+            },
+            {
+                "uid": "5b0c68e5fd354a9da96b6bdcfeb8f4c5",
+                "width": 720,
+                "height": 405,
+                "size": 7802,
+                "url": "https://media.sketchfab.com/models/34467e13b71148188cde33b68f67b241/thumbnails/0d6d5b0a7d0c4148b3686fcb68a6a9a4/291ffd48beb14e718385530eeeabd21a.jpeg"
+            },
+            {
+                "uid": "b82c7d6b1a6b4a62827355764b66061f",
+                "width": 256,
+                "height": 144,
+                "size": 1762,
+                "url": "https://media.sketchfab.com/models/34467e13b71148188cde33b68f67b241/thumbnails/0d6d5b0a7d0c4148b3686fcb68a6a9a4/2635af7ad33a44a7b1faf0be497ef7df.jpeg"
+            },
+            {
+                "uid": "c9e78bfaae734e1e9945498cf9538e04",
+                "width": 64,
+                "height": 36,
+                "size": 810,
+                "url": "https://media.sketchfab.com/models/34467e13b71148188cde33b68f67b241/thumbnails/0d6d5b0a7d0c4148b3686fcb68a6a9a4/cc28950d6b624d3caf9097dd5c48612c.jpeg"
+            }
+        ]
+    },
+    "uid": "34467e13b71148188cde33b68f67b241",
+    "uri": "https://api.sketchfab.com/v3/models/34467e13b71148188cde33b68f67b241",
+    "user": {
+        "uid": "5e78003162b946a5af518761113da282",
+        "username": "mikanok",
+        "displayName": "mikanok89",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mikanok",
+        "avatar": {
+            "uid": "25e7d0a48ad14882bc894825daba8ac7",
+            "uri": "https://api.sketchfab.com/v3/avatars/25e7d0a48ad14882bc894825daba8ac7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1108,
+                    "url": "https://media.sketchfab.com/avatars/25e7d0a48ad14882bc894825daba8ac7/c59a3faea07a48ed9e2f9158fbd2693d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1615,
+                    "url": "https://media.sketchfab.com/avatars/25e7d0a48ad14882bc894825daba8ac7/4f570a3bec164194930af2a99642278a.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3953,
+                    "url": "https://media.sketchfab.com/avatars/25e7d0a48ad14882bc894825daba8ac7/ba124f705dc843f19bc506eda109bdbd.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4619,
+                    "url": "https://media.sketchfab.com/avatars/25e7d0a48ad14882bc894825daba8ac7/08ecdc8348d84a69b20220561c740fca.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5e78003162b946a5af518761113da282"
+    },
+    "vertexCount": 4547,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/kraken-blade-34467e13b71148188cde33b68f67b241",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/34467e13b71148188cde33b68f67b241/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T07:15:15.714473",
+    "pbrType": "metalness",
+    "textureCount": 36,
+    "materialCount": 9
+}

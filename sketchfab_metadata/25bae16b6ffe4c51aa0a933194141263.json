@@ -1,0 +1,209 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-14T22:12:25.086360",
+    "embedUrl": "https://sketchfab.com/models/25bae16b6ffe4c51aa0a933194141263/embed",
+    "faceCount": 587235,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "St Machar's Cathedral, effigy of Bishop Lichton",
+    "publishedAt": "2026-02-14T22:14:45.932796",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "scotland",
+            "slug": "scotland",
+            "uri": "https://api.sketchfab.com/v3/tags/scotland"
+        },
+        {
+            "name": "grave",
+            "slug": "grave",
+            "uri": "https://api.sketchfab.com/v3/tags/grave"
+        },
+        {
+            "name": "effigy",
+            "slug": "effigy",
+            "uri": "https://api.sketchfab.com/v3/tags/effigy"
+        },
+        {
+            "name": "bishop",
+            "slug": "bishop",
+            "uri": "https://api.sketchfab.com/v3/tags/bishop"
+        },
+        {
+            "name": "Mitre",
+            "slug": "mitre",
+            "uri": "https://api.sketchfab.com/v3/tags/mitre"
+        },
+        {
+            "name": "Tom",
+            "slug": "tom",
+            "uri": "https://api.sketchfab.com/v3/tags/tom"
+        },
+        {
+            "name": "3df-zephyr",
+            "slug": "3df-zephyr",
+            "uri": "https://api.sketchfab.com/v3/tags/3df-zephyr"
+        },
+        {
+            "name": "stmachar",
+            "slug": "stmachar",
+            "uri": "https://api.sketchfab.com/v3/tags/stmachar"
+        },
+        {
+            "name": "oldaberdeen",
+            "slug": "oldaberdeen",
+            "uri": "https://api.sketchfab.com/v3/tags/oldaberdeen"
+        },
+        {
+            "name": "lichton",
+            "slug": "lichton",
+            "uri": "https://api.sketchfab.com/v3/tags/lichton"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "dd2c367158a54ce1b373d520907b4595",
+                "width": 1920,
+                "height": 1080,
+                "size": 210900,
+                "url": "https://media.sketchfab.com/models/25bae16b6ffe4c51aa0a933194141263/thumbnails/a6e7ba41c7254796926eb3119f6f0714/62c7d766f2284134bece665ca5dffbbf.jpeg"
+            },
+            {
+                "uid": "207a9aec9e7d489e9334f54b306c4115",
+                "width": 1024,
+                "height": 576,
+                "size": 66625,
+                "url": "https://media.sketchfab.com/models/25bae16b6ffe4c51aa0a933194141263/thumbnails/a6e7ba41c7254796926eb3119f6f0714/41e2fbaf384844f68ccc976822cad6d9.jpeg"
+            },
+            {
+                "uid": "0741ee1bec5146eba90f518b9197156a",
+                "width": 720,
+                "height": 405,
+                "size": 37401,
+                "url": "https://media.sketchfab.com/models/25bae16b6ffe4c51aa0a933194141263/thumbnails/a6e7ba41c7254796926eb3119f6f0714/e4e01663d76b473bade6c75c7e05f3f3.jpeg"
+            },
+            {
+                "uid": "57963d986d724d8bb584f8b7a1b1e1fc",
+                "width": 256,
+                "height": 144,
+                "size": 6739,
+                "url": "https://media.sketchfab.com/models/25bae16b6ffe4c51aa0a933194141263/thumbnails/a6e7ba41c7254796926eb3119f6f0714/da3a41b078fd4560abb995e5cb6f3a70.jpeg"
+            },
+            {
+                "uid": "ad981ad6118446c4a7b1a4f612d3ac6e",
+                "width": 64,
+                "height": 36,
+                "size": 1284,
+                "url": "https://media.sketchfab.com/models/25bae16b6ffe4c51aa0a933194141263/thumbnails/a6e7ba41c7254796926eb3119f6f0714/0d8ba122c3bd4db6babffdc4135ba520.jpeg"
+            }
+        ]
+    },
+    "uid": "25bae16b6ffe4c51aa0a933194141263",
+    "uri": "https://api.sketchfab.com/v3/models/25bae16b6ffe4c51aa0a933194141263",
+    "user": {
+        "uid": "06143015200e48e096f3d02a67fb2ad0",
+        "username": "Gnomonsland",
+        "displayName": "Gnomonsland",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Gnomonsland",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/06143015200e48e096f3d02a67fb2ad0"
+    },
+    "vertexCount": 345070,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/st-machars-cathedral-effigy-of-bishop-lichton-25bae16b6ffe4c51aa0a933194141263",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "My 3D model generated with photogrammetry software 3DF Zephyr v7.007 processing 347 images",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/25bae16b6ffe4c51aa0a933194141263/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "3DF-Zephyr-Lite",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-14T23:00:23.718294",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 4
+}

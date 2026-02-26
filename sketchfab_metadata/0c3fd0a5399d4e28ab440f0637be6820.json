@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-23T14:47:41.693236",
+    "embedUrl": "https://sketchfab.com/models/0c3fd0a5399d4e28ab440f0637be6820/embed",
+    "faceCount": 125008,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Kilbarchan: Elizabeth Lyndsay Monument",
+    "publishedAt": "2025-12-23T16:14:13.681543",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "scotland",
+            "slug": "scotland",
+            "uri": "https://api.sketchfab.com/v3/tags/scotland"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2a44250eafa14609a6bebdb0776748ae",
+                "width": 1920,
+                "height": 1080,
+                "size": 450307,
+                "url": "https://media.sketchfab.com/models/0c3fd0a5399d4e28ab440f0637be6820/thumbnails/7315b25571004af8a44a43b8f3128cbb/5643be1bed43403890a161aae13f853d.jpeg"
+            },
+            {
+                "uid": "29908db2dc6a4aa495b9064cfe069a7d",
+                "width": 1024,
+                "height": 576,
+                "size": 72965,
+                "url": "https://media.sketchfab.com/models/0c3fd0a5399d4e28ab440f0637be6820/thumbnails/7315b25571004af8a44a43b8f3128cbb/a4a3dacdd8b94bd690f9ac3049fbb2c2.jpeg"
+            },
+            {
+                "uid": "2317cae2241c4873b0ac7d1d5f03917b",
+                "width": 720,
+                "height": 405,
+                "size": 33665,
+                "url": "https://media.sketchfab.com/models/0c3fd0a5399d4e28ab440f0637be6820/thumbnails/7315b25571004af8a44a43b8f3128cbb/4b9fea50aad44cdd956ab66ad1114e8f.jpeg"
+            },
+            {
+                "uid": "d038544f8d9049539516f82cdace9f79",
+                "width": 256,
+                "height": 144,
+                "size": 4546,
+                "url": "https://media.sketchfab.com/models/0c3fd0a5399d4e28ab440f0637be6820/thumbnails/7315b25571004af8a44a43b8f3128cbb/e7c609cc3fe34ffaab16adcedc91daed.jpeg"
+            },
+            {
+                "uid": "a0c4d147a5934978beb3adf5d3b9e24d",
+                "width": 64,
+                "height": 36,
+                "size": 973,
+                "url": "https://media.sketchfab.com/models/0c3fd0a5399d4e28ab440f0637be6820/thumbnails/7315b25571004af8a44a43b8f3128cbb/18fb5a7d7b6f4768ab3905ea7d6f7fa0.jpeg"
+            }
+        ]
+    },
+    "uid": "0c3fd0a5399d4e28ab440f0637be6820",
+    "uri": "https://api.sketchfab.com/v3/models/0c3fd0a5399d4e28ab440f0637be6820",
+    "user": {
+        "uid": "6c120544178a4db6a541419be51c6a3e",
+        "username": "kastenmegan",
+        "displayName": "kastenmegan",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kastenmegan",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6c120544178a4db6a541419be51c6a3e"
+    },
+    "vertexCount": 62499,
+    "viewCount": 31,
+    "viewerUrl": "https://sketchfab.com/3d-models/kilbarchan-elizabeth-lyndsay-monument-0c3fd0a5399d4e28ab440f0637be6820",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A recumbent stone monument dedicated to Elizabeth Lyndsay reused in the fabric of the [Kilbarchan Old Parish Church](https://www.trove.scot/place/196350). Recorded by Dr Megan Kasten using photogrammetry on 16 December 2025, processed using Reality Scan.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0c3fd0a5399d4e28ab440f0637be6820/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-30T15:46:42.794906",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

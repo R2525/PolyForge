@@ -1,0 +1,181 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T04:31:56.764047",
+    "embedUrl": "https://sketchfab.com/models/1a88b80d19774957939822ae05f38b4a/embed",
+    "faceCount": 22211,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Wither Storm (Small) - MCSM",
+    "publishedAt": "2026-02-21T04:32:27.414427",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "enderman",
+            "slug": "enderman",
+            "uri": "https://api.sketchfab.com/v3/tags/enderman"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "mcsm",
+            "slug": "mcsm",
+            "uri": "https://api.sketchfab.com/v3/tags/mcsm"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2306bd273020472c8c6da49d93a2dc13",
+                "width": 1920,
+                "height": 1080,
+                "size": 58995,
+                "url": "https://media.sketchfab.com/models/1a88b80d19774957939822ae05f38b4a/thumbnails/6fc8dd34cb534f86af7b606c81262a07/93e6658436dd4acea2b6dd21c9434c48.jpeg"
+            },
+            {
+                "uid": "78dcd685fe034a88b10b732f9e79390b",
+                "width": 1024,
+                "height": 576,
+                "size": 19883,
+                "url": "https://media.sketchfab.com/models/1a88b80d19774957939822ae05f38b4a/thumbnails/6fc8dd34cb534f86af7b606c81262a07/e804908eeae54efebb2a0e21b6ba842f.jpeg"
+            },
+            {
+                "uid": "249dd26eb72748939546ab538b17f2ea",
+                "width": 720,
+                "height": 405,
+                "size": 11709,
+                "url": "https://media.sketchfab.com/models/1a88b80d19774957939822ae05f38b4a/thumbnails/6fc8dd34cb534f86af7b606c81262a07/219d06ee1d374953b2f26a02d1822de9.jpeg"
+            },
+            {
+                "uid": "0e56e110288f4928906b71633be0ed74",
+                "width": 256,
+                "height": 144,
+                "size": 2564,
+                "url": "https://media.sketchfab.com/models/1a88b80d19774957939822ae05f38b4a/thumbnails/6fc8dd34cb534f86af7b606c81262a07/95a900dfac034b098a0a6b43bce7a29e.jpeg"
+            },
+            {
+                "uid": "c32c6422e51c4d1faed307cbefa8749e",
+                "width": 64,
+                "height": 36,
+                "size": 832,
+                "url": "https://media.sketchfab.com/models/1a88b80d19774957939822ae05f38b4a/thumbnails/6fc8dd34cb534f86af7b606c81262a07/67170c15fd384862b6498d75386e2d78.jpeg"
+            }
+        ]
+    },
+    "uid": "1a88b80d19774957939822ae05f38b4a",
+    "uri": "https://api.sketchfab.com/v3/models/1a88b80d19774957939822ae05f38b4a",
+    "user": {
+        "uid": "ec7347d907ac418aafc1eeca5fcacd32",
+        "username": "captainiskidnaped",
+        "displayName": "captain got kidnapped gobb 6 man",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/captainiskidnaped",
+        "avatar": {
+            "uid": "4bd77edc2c3c471eb70b614bf0abd034",
+            "uri": "https://api.sketchfab.com/v3/avatars/4bd77edc2c3c471eb70b614bf0abd034",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1990,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/ab23047d290e4591b47b0da650d1f639.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3596,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/8e63cc03600e46c09f53c248ee8bc794.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9585,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/0fec64b71df1470885743a9644239991.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10844,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/780d3df0223f436183df3606a31e3d01.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ec7347d907ac418aafc1eeca5fcacd32"
+    },
+    "vertexCount": 12141,
+    "viewCount": 36,
+    "viewerUrl": "https://sketchfab.com/3d-models/wither-storm-small-mcsm-1a88b80d19774957939822ae05f38b4a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "from mcsm",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/1a88b80d19774957939822ae05f38b4a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T04:32:27.587674",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 4
+}

@@ -1,0 +1,175 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T07:25:19.827782",
+    "embedUrl": "https://sketchfab.com/models/38171694e47847f9b54efa5b58ddb279/embed",
+    "faceCount": 7488,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Street Light",
+    "publishedAt": "2026-02-25T07:30:44.806792",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "lamp",
+            "slug": "lamp",
+            "uri": "https://api.sketchfab.com/v3/tags/lamp"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "street",
+            "slug": "street",
+            "uri": "https://api.sketchfab.com/v3/tags/street"
+        },
+        {
+            "name": "light",
+            "slug": "light",
+            "uri": "https://api.sketchfab.com/v3/tags/light"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d96ba0f75e81420ea847c1c682279b90",
+                "width": 1920,
+                "height": 1080,
+                "size": 377395,
+                "url": "https://media.sketchfab.com/models/38171694e47847f9b54efa5b58ddb279/thumbnails/0849a8a1b64f412eac86636a45501996/714240ca1ab04976892a1be0d1d2f5c1.jpeg"
+            },
+            {
+                "uid": "a313e14ae3014025beb302309d052b50",
+                "width": 1024,
+                "height": 576,
+                "size": 36450,
+                "url": "https://media.sketchfab.com/models/38171694e47847f9b54efa5b58ddb279/thumbnails/0849a8a1b64f412eac86636a45501996/0a55f5d2c34c48ff9e762aa9c73c00f0.jpeg"
+            },
+            {
+                "uid": "71a1bdba114e4258931da70fe359e932",
+                "width": 720,
+                "height": 405,
+                "size": 14579,
+                "url": "https://media.sketchfab.com/models/38171694e47847f9b54efa5b58ddb279/thumbnails/0849a8a1b64f412eac86636a45501996/f993e9ba4ad843339130d5cb6c814e3d.jpeg"
+            },
+            {
+                "uid": "3c9b9f3a250b4b7d89c66f78cd581d0f",
+                "width": 256,
+                "height": 144,
+                "size": 2351,
+                "url": "https://media.sketchfab.com/models/38171694e47847f9b54efa5b58ddb279/thumbnails/0849a8a1b64f412eac86636a45501996/a1b57cac26bd4fb881fe23c51a15b2e1.jpeg"
+            },
+            {
+                "uid": "e8f66a49d5da43e4981e4a3d2a905094",
+                "width": 64,
+                "height": 36,
+                "size": 878,
+                "url": "https://media.sketchfab.com/models/38171694e47847f9b54efa5b58ddb279/thumbnails/0849a8a1b64f412eac86636a45501996/b3ea4a384fd2415894f883518cc84c1c.jpeg"
+            }
+        ]
+    },
+    "uid": "38171694e47847f9b54efa5b58ddb279",
+    "uri": "https://api.sketchfab.com/v3/models/38171694e47847f9b54efa5b58ddb279",
+    "user": {
+        "uid": "94ff1aef99a54f78b89ee751f73ef09e",
+        "username": "3DModelerr",
+        "displayName": "3D modeler",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/3DModelerr",
+        "avatar": {
+            "uid": "2645a81769334a8088e43b6e129578d9",
+            "uri": "https://api.sketchfab.com/v3/avatars/2645a81769334a8088e43b6e129578d9",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2323,
+                    "url": "https://media.sketchfab.com/avatars/2645a81769334a8088e43b6e129578d9/613cdc5da14f43449b1e2348eba58e02.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4713,
+                    "url": "https://media.sketchfab.com/avatars/2645a81769334a8088e43b6e129578d9/374e6bf0461e498a9da9f618e1557c59.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14491,
+                    "url": "https://media.sketchfab.com/avatars/2645a81769334a8088e43b6e129578d9/216c00d36c8d491a8c1a820c0c73e448.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17434,
+                    "url": "https://media.sketchfab.com/avatars/2645a81769334a8088e43b6e129578d9/3af4e74e39d14e18adbaac003ad297eb.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/94ff1aef99a54f78b89ee751f73ef09e"
+    },
+    "vertexCount": 4025,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/street-light-38171694e47847f9b54efa5b58ddb279",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/38171694e47847f9b54efa5b58ddb279/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T07:30:45.268236",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

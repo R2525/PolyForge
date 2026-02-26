@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T02:23:59.078722",
+    "embedUrl": "https://sketchfab.com/models/32b1d1a2da4c463ea0c33d3859649841/embed",
+    "faceCount": 2850,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Shovel",
+    "publishedAt": "2026-02-22T02:24:42.573881",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "game_asset",
+            "slug": "game_asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game_asset"
+        },
+        {
+            "name": "Tool",
+            "slug": "tool",
+            "uri": "https://api.sketchfab.com/v3/tags/tool"
+        },
+        {
+            "name": "Handtool",
+            "slug": "handtool",
+            "uri": "https://api.sketchfab.com/v3/tags/handtool"
+        },
+        {
+            "name": "shovel",
+            "slug": "shovel",
+            "uri": "https://api.sketchfab.com/v3/tags/shovel"
+        },
+        {
+            "name": "lowpoly_asset",
+            "slug": "lowpoly_asset",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly_asset"
+        },
+        {
+            "name": "lowpoly_shoel",
+            "slug": "lowpoly_shoel",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly_shoel"
+        },
+        {
+            "name": "dirty_shovel",
+            "slug": "dirty_shovel",
+            "uri": "https://api.sketchfab.com/v3/tags/dirty_shovel"
+        },
+        {
+            "name": "digging_tools",
+            "slug": "digging_tools",
+            "uri": "https://api.sketchfab.com/v3/tags/digging_tools"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "17838f0227b74e7098027689754cdae1",
+                "width": 1920,
+                "height": 1080,
+                "size": 36735,
+                "url": "https://media.sketchfab.com/models/32b1d1a2da4c463ea0c33d3859649841/thumbnails/ee422605d8d0417cbb88038af799a222/efd037f6b65b4a8d9887f94d15cb2be9.jpeg"
+            },
+            {
+                "uid": "c6c797c295f64815ae10c2bed5443e2b",
+                "width": 1024,
+                "height": 576,
+                "size": 11325,
+                "url": "https://media.sketchfab.com/models/32b1d1a2da4c463ea0c33d3859649841/thumbnails/ee422605d8d0417cbb88038af799a222/119c80907c6046c29e0250effc04cb2c.jpeg"
+            },
+            {
+                "uid": "b0cf5deee9cb4a35b5ad9d7a81292795",
+                "width": 720,
+                "height": 405,
+                "size": 6406,
+                "url": "https://media.sketchfab.com/models/32b1d1a2da4c463ea0c33d3859649841/thumbnails/ee422605d8d0417cbb88038af799a222/0ff078f5a4014d098f95c1012224c9d6.jpeg"
+            },
+            {
+                "uid": "598666cad27d4f2ba39089fc8ee6a4e7",
+                "width": 256,
+                "height": 144,
+                "size": 1527,
+                "url": "https://media.sketchfab.com/models/32b1d1a2da4c463ea0c33d3859649841/thumbnails/ee422605d8d0417cbb88038af799a222/63f563be8f7442c6b122c93e8b84584e.jpeg"
+            },
+            {
+                "uid": "df39d656c43746389630fcbb7eff2c50",
+                "width": 64,
+                "height": 36,
+                "size": 751,
+                "url": "https://media.sketchfab.com/models/32b1d1a2da4c463ea0c33d3859649841/thumbnails/ee422605d8d0417cbb88038af799a222/96a747874f994baa99195daed8a51da9.jpeg"
+            }
+        ]
+    },
+    "uid": "32b1d1a2da4c463ea0c33d3859649841",
+    "uri": "https://api.sketchfab.com/v3/models/32b1d1a2da4c463ea0c33d3859649841",
+    "user": {
+        "uid": "18b055c8aa4343278c886ba6064be65b",
+        "username": "SlantEyedJoe",
+        "displayName": "SlantEyedJoe",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/SlantEyedJoe",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/18b055c8aa4343278c886ba6064be65b"
+    },
+    "vertexCount": 1489,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/shovel-32b1d1a2da4c463ea0c33d3859649841",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the source format.The converted file is intended exclusively for browser preview. In the source file, the following are fully preserved:✔ native scene structure✔ all materials without simplification✔ accurate texture maps✔ original object namesIf you are going to integrate the model into a project, download the source file.It s a low poly model can be used as an game asset.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/32b1d1a2da4c463ea0c33d3859649841/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T02:24:42.836378",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

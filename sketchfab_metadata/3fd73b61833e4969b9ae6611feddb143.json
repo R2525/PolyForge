@@ -1,0 +1,192 @@
+{
+    "animationCount": 3,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T23:05:09.314596",
+    "embedUrl": "https://sketchfab.com/models/3fd73b61833e4969b9ae6611feddb143/embed",
+    "faceCount": 28138,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Lucario",
+    "publishedAt": "2026-02-19T23:06:06.961876",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "games",
+            "slug": "games",
+            "uri": "https://api.sketchfab.com/v3/tags/games"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "toy",
+            "slug": "toy",
+            "uri": "https://api.sketchfab.com/v3/tags/toy"
+        },
+        {
+            "name": "pikachu",
+            "slug": "pikachu",
+            "uri": "https://api.sketchfab.com/v3/tags/pikachu"
+        },
+        {
+            "name": "nintendo",
+            "slug": "nintendo",
+            "uri": "https://api.sketchfab.com/v3/tags/nintendo"
+        },
+        {
+            "name": "game_character",
+            "slug": "game_character",
+            "uri": "https://api.sketchfab.com/v3/tags/game_character"
+        },
+        {
+            "name": "fluff",
+            "slug": "fluff",
+            "uri": "https://api.sketchfab.com/v3/tags/fluff"
+        },
+        {
+            "name": "animal",
+            "slug": "animal",
+            "uri": "https://api.sketchfab.com/v3/tags/animal"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "anime_figure",
+            "slug": "anime_figure",
+            "uri": "https://api.sketchfab.com/v3/tags/anime_figure"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7410e7024f7849d69d55b5a63789578e",
+                "width": 1920,
+                "height": 1080,
+                "size": 45154,
+                "url": "https://media.sketchfab.com/models/3fd73b61833e4969b9ae6611feddb143/thumbnails/96cf87edf8df4356add2771f8c8ad432/5bd5b5daa9164a3eaaaffcb416336f0d.jpeg"
+            },
+            {
+                "uid": "697b2f4f3ab24c90bb786f097d1cc248",
+                "width": 1024,
+                "height": 576,
+                "size": 14732,
+                "url": "https://media.sketchfab.com/models/3fd73b61833e4969b9ae6611feddb143/thumbnails/96cf87edf8df4356add2771f8c8ad432/2ff61808d02647829227c38e8a75441b.jpeg"
+            },
+            {
+                "uid": "f7d5fddc4ae344258c6ce233115d0c45",
+                "width": 720,
+                "height": 405,
+                "size": 8490,
+                "url": "https://media.sketchfab.com/models/3fd73b61833e4969b9ae6611feddb143/thumbnails/96cf87edf8df4356add2771f8c8ad432/1768c218c8d14212b04745845ef2618a.jpeg"
+            },
+            {
+                "uid": "4a2b05fc80564c449e5d9456ac59ab75",
+                "width": 256,
+                "height": 144,
+                "size": 1960,
+                "url": "https://media.sketchfab.com/models/3fd73b61833e4969b9ae6611feddb143/thumbnails/96cf87edf8df4356add2771f8c8ad432/8186d951311345858415042ba3a99319.jpeg"
+            },
+            {
+                "uid": "93a590f033e642bd828080dbdc2de32d",
+                "width": 64,
+                "height": 36,
+                "size": 769,
+                "url": "https://media.sketchfab.com/models/3fd73b61833e4969b9ae6611feddb143/thumbnails/96cf87edf8df4356add2771f8c8ad432/7bd1fac8d2334fcd83711ffd1c923a04.jpeg"
+            }
+        ]
+    },
+    "uid": "3fd73b61833e4969b9ae6611feddb143",
+    "uri": "https://api.sketchfab.com/v3/models/3fd73b61833e4969b9ae6611feddb143",
+    "user": {
+        "uid": "037cfc4fa6f645529c9530d3259a0531",
+        "username": "aokibazooka",
+        "displayName": "aokibazooka",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/aokibazooka",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/037cfc4fa6f645529c9530d3259a0531"
+    },
+    "vertexCount": 14904,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/lucario-3fd73b61833e4969b9ae6611feddb143",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "3d fully rigged character of Lucario from pokemon with full rig control and 2 levers to control eyes and mouth combinations and two Circles to control all types of eyes I did not figure out how to control them with one lever but separate works fine .",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/3fd73b61833e4969b9ae6611feddb143/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T23:06:07.336127",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 3
+}

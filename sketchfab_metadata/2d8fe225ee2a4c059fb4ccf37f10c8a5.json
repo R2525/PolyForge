@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-19T12:22:05.006436",
+    "embedUrl": "https://sketchfab.com/models/2d8fe225ee2a4c059fb4ccf37f10c8a5/embed",
+    "faceCount": 17866,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Demogorgon",
+    "publishedAt": "2026-01-19T12:28:26.899212",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "stranger_things",
+            "slug": "stranger_things",
+            "uri": "https://api.sketchfab.com/v3/tags/stranger_things"
+        },
+        {
+            "name": "demogorgon",
+            "slug": "demogorgon",
+            "uri": "https://api.sketchfab.com/v3/tags/demogorgon"
+        },
+        {
+            "name": "2026",
+            "slug": "2026",
+            "uri": "https://api.sketchfab.com/v3/tags/2026"
+        },
+        {
+            "name": "oficin",
+            "slug": "oficin",
+            "uri": "https://api.sketchfab.com/v3/tags/oficin"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d70f00400bad4dab9aa999d271981575",
+                "width": 1920,
+                "height": 1080,
+                "size": 82250,
+                "url": "https://media.sketchfab.com/models/2d8fe225ee2a4c059fb4ccf37f10c8a5/thumbnails/c600c5e41f2a4b349bc667e55e309583/fe4fd4a5c76149c9bf881282478be2e4.jpeg"
+            },
+            {
+                "uid": "c5b000cf1ef7406dac8884af6d70ac09",
+                "width": 1024,
+                "height": 576,
+                "size": 29468,
+                "url": "https://media.sketchfab.com/models/2d8fe225ee2a4c059fb4ccf37f10c8a5/thumbnails/c600c5e41f2a4b349bc667e55e309583/13135002a6974b0482e772a11ad1fa18.jpeg"
+            },
+            {
+                "uid": "b947ea0807b44c47ae09c9f88291d51f",
+                "width": 720,
+                "height": 405,
+                "size": 17236,
+                "url": "https://media.sketchfab.com/models/2d8fe225ee2a4c059fb4ccf37f10c8a5/thumbnails/c600c5e41f2a4b349bc667e55e309583/635d9e39688a45ceb6bc268353821a8a.jpeg"
+            },
+            {
+                "uid": "dc041b449d5d45f6862b2354958aa38a",
+                "width": 256,
+                "height": 144,
+                "size": 3662,
+                "url": "https://media.sketchfab.com/models/2d8fe225ee2a4c059fb4ccf37f10c8a5/thumbnails/c600c5e41f2a4b349bc667e55e309583/5a0259159ed3456d856b3d2af13b1cd6.jpeg"
+            },
+            {
+                "uid": "1dafffe292104247ac33e860c3f43ab0",
+                "width": 64,
+                "height": 36,
+                "size": 1003,
+                "url": "https://media.sketchfab.com/models/2d8fe225ee2a4c059fb4ccf37f10c8a5/thumbnails/c600c5e41f2a4b349bc667e55e309583/666bc61718314d3f8642289efc862c66.jpeg"
+            }
+        ]
+    },
+    "uid": "2d8fe225ee2a4c059fb4ccf37f10c8a5",
+    "uri": "https://api.sketchfab.com/v3/models/2d8fe225ee2a4c059fb4ccf37f10c8a5",
+    "user": {
+        "uid": "524a5f8a24424587bd29d9f646ddecaf",
+        "username": "a14544",
+        "displayName": "a14544",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/a14544",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/524a5f8a24424587bd29d9f646ddecaf"
+    },
+    "vertexCount": 8688,
+    "viewCount": 29,
+    "viewerUrl": "https://sketchfab.com/3d-models/demogorgon-2d8fe225ee2a4c059fb4ccf37f10c8a5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "ING - Voxel art of the Demogorgon from Stranger Things, created in MagicaVoxel. The character emerges from a glowing Upside Down portal, with a dark atmosphere and red volumetric lighting emphasizing its menacing presence\n\nPT - Arte voxel do Demogorgon de Stranger Things, criada no MagicaVoxel. O personagem emerge de um portal brilhante do Mundo Invertido, com uma atmosfera sombria e iluminação vermelha que reforça sua presença ameaçadora.",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/2d8fe225ee2a4c059fb4ccf37f10c8a5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-23T11:16:38.141487",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

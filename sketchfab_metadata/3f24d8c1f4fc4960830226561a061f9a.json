@@ -1,0 +1,181 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+            "name": "Places & Travel",
+            "slug": "places-travel",
+            "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-09T19:19:48.908324",
+    "embedUrl": "https://sketchfab.com/models/3f24d8c1f4fc4960830226561a061f9a/embed",
+    "faceCount": 1464,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Traffic Conus",
+    "publishedAt": "2026-02-09T19:27:43.506407",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "road",
+            "slug": "road",
+            "uri": "https://api.sketchfab.com/v3/tags/road"
+        },
+        {
+            "name": "mossy",
+            "slug": "mossy",
+            "uri": "https://api.sketchfab.com/v3/tags/mossy"
+        },
+        {
+            "name": "roadblock",
+            "slug": "roadblock",
+            "uri": "https://api.sketchfab.com/v3/tags/roadblock"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cd9ac89328e142d2b017cdc11d95fec4",
+                "width": 1920,
+                "height": 1080,
+                "size": 347752,
+                "url": "https://media.sketchfab.com/models/3f24d8c1f4fc4960830226561a061f9a/thumbnails/34cb9718b6214a2880e5ac8ed03b3ac5/54f7c187be594abcade795e7133e15ec.jpeg"
+            },
+            {
+                "uid": "4f49a0b3530440e6a5eed37f724a0096",
+                "width": 1024,
+                "height": 576,
+                "size": 43152,
+                "url": "https://media.sketchfab.com/models/3f24d8c1f4fc4960830226561a061f9a/thumbnails/34cb9718b6214a2880e5ac8ed03b3ac5/ea3a54f515c24d4f91e32c99d52805fe.jpeg"
+            },
+            {
+                "uid": "3434bea9b47a41318540bf862381a8ad",
+                "width": 720,
+                "height": 405,
+                "size": 19685,
+                "url": "https://media.sketchfab.com/models/3f24d8c1f4fc4960830226561a061f9a/thumbnails/34cb9718b6214a2880e5ac8ed03b3ac5/71d51e6d49dd4c07babe5c79031cc52a.jpeg"
+            },
+            {
+                "uid": "8c409696552440eb978bc1c9ce7a48f5",
+                "width": 256,
+                "height": 144,
+                "size": 3393,
+                "url": "https://media.sketchfab.com/models/3f24d8c1f4fc4960830226561a061f9a/thumbnails/34cb9718b6214a2880e5ac8ed03b3ac5/41fc244a71904007a9dbc84b223a21ef.jpeg"
+            },
+            {
+                "uid": "ded40a78a7d94c5eaf81d5dedf60f7cf",
+                "width": 64,
+                "height": 36,
+                "size": 1067,
+                "url": "https://media.sketchfab.com/models/3f24d8c1f4fc4960830226561a061f9a/thumbnails/34cb9718b6214a2880e5ac8ed03b3ac5/9679968da3a747bcb39dac424db2ef73.jpeg"
+            }
+        ]
+    },
+    "uid": "3f24d8c1f4fc4960830226561a061f9a",
+    "uri": "https://api.sketchfab.com/v3/models/3f24d8c1f4fc4960830226561a061f9a",
+    "user": {
+        "uid": "513d28377c4c456598e49493443ba310",
+        "username": "ipaw7104",
+        "displayName": "Nanachi",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ipaw7104",
+        "avatar": {
+            "uid": "0f0189afa682423cb810ef0e3be52676",
+            "uri": "https://api.sketchfab.com/v3/avatars/0f0189afa682423cb810ef0e3be52676",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1214,
+                    "url": "https://media.sketchfab.com/avatars/0f0189afa682423cb810ef0e3be52676/c2bec6927b88465e87ed8de3ddd8c201.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1792,
+                    "url": "https://media.sketchfab.com/avatars/0f0189afa682423cb810ef0e3be52676/ee7ad8cad2894fc1860d3acecf8ec5e4.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4005,
+                    "url": "https://media.sketchfab.com/avatars/0f0189afa682423cb810ef0e3be52676/b1b9b1d9314c4809a66b129ebe91cb37.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4658,
+                    "url": "https://media.sketchfab.com/avatars/0f0189afa682423cb810ef0e3be52676/dbd33a13b8fe4e808df796dab73b528e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/513d28377c4c456598e49493443ba310"
+    },
+    "vertexCount": 680,
+    "viewCount": 34,
+    "viewerUrl": "https://sketchfab.com/3d-models/traffic-conus-3f24d8c1f4fc4960830226561a061f9a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A simple post-apocalyptic traffic conus. \n**The effects of scuffing, dirt and moss.** 4K Textures: BaseColor, Metallic, Normal, Roughness.\n\nI used Stylized Moss from, link (support author): https://substance3d.adobe.com/community-assets/assets/77f9f74bb50ed059af3b01e75e2753982146a4c9",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/3f24d8c1f4fc4960830226561a061f9a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-10T14:47:55.184521",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

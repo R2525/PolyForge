@@ -1,0 +1,174 @@
+{
+    "animationCount": 5,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-31T16:55:17.131444",
+    "embedUrl": "https://sketchfab.com/models/1f3c849877ae452fb4b8e09b0c6485e4/embed",
+    "faceCount": 2064,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "American Quarter Horse",
+    "publishedAt": "2026-01-31T17:06:35.424128",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "horse",
+            "slug": "horse",
+            "uri": "https://api.sketchfab.com/v3/tags/horse"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a72e14baf9494d968e030799ef284a37",
+                "width": 1920,
+                "height": 1080,
+                "size": 65158,
+                "url": "https://media.sketchfab.com/models/1f3c849877ae452fb4b8e09b0c6485e4/thumbnails/80676926d2b24cfab1cf6e9ee5dac49a/c54c41d1e5f24fff8b343b3ee70d6f25.jpeg"
+            },
+            {
+                "uid": "bb88b97a0cd5491fbc433880f33365d4",
+                "width": 1024,
+                "height": 576,
+                "size": 22431,
+                "url": "https://media.sketchfab.com/models/1f3c849877ae452fb4b8e09b0c6485e4/thumbnails/80676926d2b24cfab1cf6e9ee5dac49a/6c4c0f08076b4242a69f2101201cc8b6.jpeg"
+            },
+            {
+                "uid": "9c8ff2386d09467a97a1917963a18a4e",
+                "width": 720,
+                "height": 405,
+                "size": 13334,
+                "url": "https://media.sketchfab.com/models/1f3c849877ae452fb4b8e09b0c6485e4/thumbnails/80676926d2b24cfab1cf6e9ee5dac49a/15d7b01e7ab341acaddbc82325a8050a.jpeg"
+            },
+            {
+                "uid": "5dc63b91106a4693a51e70a314d70425",
+                "width": 256,
+                "height": 144,
+                "size": 3302,
+                "url": "https://media.sketchfab.com/models/1f3c849877ae452fb4b8e09b0c6485e4/thumbnails/80676926d2b24cfab1cf6e9ee5dac49a/2abb87d9267b4202a5a4b05ee797715e.jpeg"
+            },
+            {
+                "uid": "a9a056e6b97c4eb7a7cb60673840c82b",
+                "width": 64,
+                "height": 36,
+                "size": 1016,
+                "url": "https://media.sketchfab.com/models/1f3c849877ae452fb4b8e09b0c6485e4/thumbnails/80676926d2b24cfab1cf6e9ee5dac49a/e21757813dfc4400a36d16c77eb29224.jpeg"
+            }
+        ]
+    },
+    "uid": "1f3c849877ae452fb4b8e09b0c6485e4",
+    "uri": "https://api.sketchfab.com/v3/models/1f3c849877ae452fb4b8e09b0c6485e4",
+    "user": {
+        "uid": "97271e618fd84544b7d9777ff4b70a07",
+        "username": "PriLa12",
+        "displayName": "PriLa12",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/PriLa12",
+        "avatar": {
+            "uid": "6a2ff43c1568456f88f550721d5bb3b6",
+            "uri": "https://api.sketchfab.com/v3/avatars/6a2ff43c1568456f88f550721d5bb3b6",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1046,
+                    "url": "https://media.sketchfab.com/avatars/6a2ff43c1568456f88f550721d5bb3b6/4e7dfcafb2c3455aa01aac498763c94a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1488,
+                    "url": "https://media.sketchfab.com/avatars/6a2ff43c1568456f88f550721d5bb3b6/40db70e1fbc4459f96170aa989c4d4d4.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2870,
+                    "url": "https://media.sketchfab.com/avatars/6a2ff43c1568456f88f550721d5bb3b6/4cc4ca2ff1a1417e93c433d8fded52f8.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3253,
+                    "url": "https://media.sketchfab.com/avatars/6a2ff43c1568456f88f550721d5bb3b6/ca6d93c9b08d429f9c6c7fe2f27cc713.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/97271e618fd84544b7d9777ff4b70a07"
+    },
+    "vertexCount": 1376,
+    "viewCount": 37,
+    "viewerUrl": "https://sketchfab.com/3d-models/american-quarter-horse-1f3c849877ae452fb4b8e09b0c6485e4",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1f3c849877ae452fb4b8e09b0c6485e4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T16:05:06.880223",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

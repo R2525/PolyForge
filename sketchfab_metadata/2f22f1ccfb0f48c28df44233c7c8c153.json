@@ -1,0 +1,254 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2026-01-13T09:29:43.124470",
+    "embedUrl": "https://sketchfab.com/models/2f22f1ccfb0f48c28df44233c7c8c153/embed",
+    "faceCount": 22072,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 6,
+    "name": "Fantasy sword 31 3D model",
+    "publishedAt": "2026-01-13T09:34:29.533167",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "equipment",
+            "slug": "equipment",
+            "uri": "https://api.sketchfab.com/v3/tags/equipment"
+        },
+        {
+            "name": "game_asset",
+            "slug": "game_asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game_asset"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "ammunition",
+            "slug": "ammunition",
+            "uri": "https://api.sketchfab.com/v3/tags/ammunition"
+        },
+        {
+            "name": "fantasy_sword",
+            "slug": "fantasy_sword",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy_sword"
+        },
+        {
+            "name": "fantasy_prop",
+            "slug": "fantasy_prop",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy_prop"
+        },
+        {
+            "name": "magic_sword",
+            "slug": "magic_sword",
+            "uri": "https://api.sketchfab.com/v3/tags/magic_sword"
+        },
+        {
+            "name": "vr_ready",
+            "slug": "vr_ready",
+            "uri": "https://api.sketchfab.com/v3/tags/vr_ready"
+        },
+        {
+            "name": "medieval_fantasy",
+            "slug": "medieval_fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval_fantasy"
+        },
+        {
+            "name": "weapon_model",
+            "slug": "weapon_model",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon_model"
+        },
+        {
+            "name": "rpg_weapon",
+            "slug": "rpg_weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg_weapon"
+        },
+        {
+            "name": "heroic_sword",
+            "slug": "heroic_sword",
+            "uri": "https://api.sketchfab.com/v3/tags/heroic_sword"
+        },
+        {
+            "name": "ornate_design",
+            "slug": "ornate_design",
+            "uri": "https://api.sketchfab.com/v3/tags/ornate_design"
+        },
+        {
+            "name": "realistic_pbr",
+            "slug": "realistic_pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic_pbr"
+        },
+        {
+            "name": "ready_for_game",
+            "slug": "ready_for_game",
+            "uri": "https://api.sketchfab.com/v3/tags/ready_for_game"
+        },
+        {
+            "name": "runes_sword",
+            "slug": "runes_sword",
+            "uri": "https://api.sketchfab.com/v3/tags/runes_sword"
+        },
+        {
+            "name": "cinematic_sword",
+            "slug": "cinematic_sword",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic_sword"
+        },
+        {
+            "name": "blade_scabbard",
+            "slug": "blade_scabbard",
+            "uri": "https://api.sketchfab.com/v3/tags/blade_scabbard"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c2bb576e204848dbbac2e0ae1eef6458",
+                "width": 1920,
+                "height": 1080,
+                "size": 201836,
+                "url": "https://media.sketchfab.com/models/2f22f1ccfb0f48c28df44233c7c8c153/thumbnails/9452db5cb88846f086e4f53bc6ee5383/6c1f64875406485ca47604a8c5b6b050.jpeg"
+            },
+            {
+                "uid": "0a6554de89654729a405e98f995363a3",
+                "width": 1024,
+                "height": 576,
+                "size": 58358,
+                "url": "https://media.sketchfab.com/models/2f22f1ccfb0f48c28df44233c7c8c153/thumbnails/9452db5cb88846f086e4f53bc6ee5383/0d64b83ef41d4ae5b061764c5c5af5c6.jpeg"
+            },
+            {
+                "uid": "0778cc502a9d49e29dbe0f0faeebc3ec",
+                "width": 720,
+                "height": 405,
+                "size": 31974,
+                "url": "https://media.sketchfab.com/models/2f22f1ccfb0f48c28df44233c7c8c153/thumbnails/9452db5cb88846f086e4f53bc6ee5383/2246e85bea1c45049ee23f49dec7837b.jpeg"
+            },
+            {
+                "uid": "175470bece0045498ce9bc115ad4054b",
+                "width": 256,
+                "height": 144,
+                "size": 5158,
+                "url": "https://media.sketchfab.com/models/2f22f1ccfb0f48c28df44233c7c8c153/thumbnails/9452db5cb88846f086e4f53bc6ee5383/665690ea0aad4691aa63d9d1d9f4c608.jpeg"
+            },
+            {
+                "uid": "6b4805c2ae3e4b7e8cf7402a6778023c",
+                "width": 64,
+                "height": 36,
+                "size": 943,
+                "url": "https://media.sketchfab.com/models/2f22f1ccfb0f48c28df44233c7c8c153/thumbnails/9452db5cb88846f086e4f53bc6ee5383/20ed546031b542dcbd29b762437df9fe.jpeg"
+            }
+        ]
+    },
+    "uid": "2f22f1ccfb0f48c28df44233c7c8c153",
+    "uri": "https://api.sketchfab.com/v3/models/2f22f1ccfb0f48c28df44233c7c8c153",
+    "user": {
+        "uid": "6fbe5968753c43d796e3a8703d9bb232",
+        "username": "Nicu_Tepes_Vulpe",
+        "displayName": "Nicu_Tepes_Vulpe",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nicu_Tepes_Vulpe",
+        "avatar": {
+            "uid": "53dfd2b7d3b7404cb2efa906ce441e16",
+            "uri": "https://api.sketchfab.com/v3/avatars/53dfd2b7d3b7404cb2efa906ce441e16",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1308,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/e7c9f95c3a98417a9932411e09e61f48.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1976,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/6cd348f4d1b44e4692cf30bfa7828b42.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4374,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/9f1a9d1a016c48fcb6f72d5dff444cc3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5017,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/d6e77392c2be4e8c9742529c105c60cb.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6fbe5968753c43d796e3a8703d9bb232"
+    },
+    "vertexCount": 11038,
+    "viewCount": 45,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-sword-31-3d-model-2f22f1ccfb0f48c28df44233c7c8c153",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Fantasy sword 31 3D model\n\npolys 11160\n\nverts 11038\n\ntris 22320\n\nmaterials 1\n\ntextures (pbr 5) (ue 3) 4K resolution\n\nThis is an extremely detailed, photorealistic 3D model of a Fantasy Sword 31, created using PBR workflows. Meticulously crafted for high-end use in video production, visualizations, AAA games, VR/AR applications, and digital art.\n\nThe provided archive is a comprehensive package, including:\n\n    Models: OBJ and FBX files for the Sword and Scabbard as separate objects.\n\n    Production Scenes: Ready-to-render scenes in Marmoset Toolbag and Blender.\n\n    PBR Textures (4K): Base Color, Metallic, Ambient Occlusion, Normal, and Roughness maps.\n\n    Unreal Engine Textures (4K): Optimized texture set (Base Color, Normal, OcclusionRoughnessMetallic) for direct import.\n\nThis all-in-one kit offers ultimate flexibility for professional 3D creation and real-time rendering.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2f22f1ccfb0f48c28df44233c7c8c153/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-13T09:34:29.690957",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

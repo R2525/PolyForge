@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-20T22:52:08.290827",
+    "embedUrl": "https://sketchfab.com/models/40dd5950f5494f74abdf6cf4a8fca29f/embed",
+    "faceCount": 3688,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Chunky Nurgle Knight",
+    "publishedAt": "2026-01-20T22:56:09.968643",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "knights",
+            "slug": "knights",
+            "uri": "https://api.sketchfab.com/v3/tags/knights"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1b033dd6eebc4469afa7ad1a893343b2",
+                "width": 1920,
+                "height": 1080,
+                "size": 96614,
+                "url": "https://media.sketchfab.com/models/40dd5950f5494f74abdf6cf4a8fca29f/thumbnails/5790f29b1c144ac9a2c5c22dfd55b509/a9311685440e4b529f251f6a777be76c.jpeg"
+            },
+            {
+                "uid": "75a7dfc093ee4f3087bc48fd6086d1c9",
+                "width": 1024,
+                "height": 576,
+                "size": 33573,
+                "url": "https://media.sketchfab.com/models/40dd5950f5494f74abdf6cf4a8fca29f/thumbnails/5790f29b1c144ac9a2c5c22dfd55b509/33256ec52fc64cd49f320b66533e7e17.jpeg"
+            },
+            {
+                "uid": "4e7836f4190f4f83a931ee4a6ae6e8d6",
+                "width": 720,
+                "height": 405,
+                "size": 19750,
+                "url": "https://media.sketchfab.com/models/40dd5950f5494f74abdf6cf4a8fca29f/thumbnails/5790f29b1c144ac9a2c5c22dfd55b509/fd756a7632f646b7b43ba69b0d14edb0.jpeg"
+            },
+            {
+                "uid": "4b0cdd3ba91640bea5197b2dbb4c31ab",
+                "width": 256,
+                "height": 144,
+                "size": 4121,
+                "url": "https://media.sketchfab.com/models/40dd5950f5494f74abdf6cf4a8fca29f/thumbnails/5790f29b1c144ac9a2c5c22dfd55b509/f654428a7f024a82b9aeef32545e7245.jpeg"
+            },
+            {
+                "uid": "ba3000877e3440e7937bc0af889cba30",
+                "width": 64,
+                "height": 36,
+                "size": 1047,
+                "url": "https://media.sketchfab.com/models/40dd5950f5494f74abdf6cf4a8fca29f/thumbnails/5790f29b1c144ac9a2c5c22dfd55b509/6374e94eaa0a48cf8cad86a3e509c284.jpeg"
+            }
+        ]
+    },
+    "uid": "40dd5950f5494f74abdf6cf4a8fca29f",
+    "uri": "https://api.sketchfab.com/v3/models/40dd5950f5494f74abdf6cf4a8fca29f",
+    "user": {
+        "uid": "5544196a118c4285adeebe0f392227c6",
+        "username": "Una_Polilla",
+        "displayName": "Una_Polilla",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Una_Polilla",
+        "avatar": {
+            "uid": "b5f6bf05795446e08de72ec68d57b9ed",
+            "uri": "https://api.sketchfab.com/v3/avatars/b5f6bf05795446e08de72ec68d57b9ed",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1120,
+                    "url": "https://media.sketchfab.com/avatars/b5f6bf05795446e08de72ec68d57b9ed/90a9c4df511c45baa02426bc366d8fe5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1590,
+                    "url": "https://media.sketchfab.com/avatars/b5f6bf05795446e08de72ec68d57b9ed/346cf8f92dab48f887632a1d05b1f5ad.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3431,
+                    "url": "https://media.sketchfab.com/avatars/b5f6bf05795446e08de72ec68d57b9ed/040b6f730fbf4727a98a87beb80e8eb0.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3906,
+                    "url": "https://media.sketchfab.com/avatars/b5f6bf05795446e08de72ec68d57b9ed/a8b5bbe2cd8b46e185f218b59090cbf2.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5544196a118c4285adeebe0f392227c6"
+    },
+    "vertexCount": 1904,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/chunky-nurgle-knight-40dd5950f5494f74abdf6cf4a8fca29f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Trabajo practico de texturizado para la materia de diseño grafico de la Escuela Da Vinci",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/40dd5950f5494f74abdf6cf4a8fca29f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-20T23:03:00.183880",
+    "pbrType": "metalness",
+    "textureCount": 11,
+    "materialCount": 2
+}

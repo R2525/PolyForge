@@ -1,0 +1,134 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-20T21:36:47.027554",
+    "embedUrl": "https://sketchfab.com/models/31984f260c0d46c2ad4195c1767a9d1b/embed",
+    "faceCount": 404504,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Warhammer Gun",
+    "publishedAt": "2025-12-20T21:56:30.077734",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "49aaaab793714b7b8aae3293b7c2a93f",
+                "width": 1920,
+                "height": 1080,
+                "size": 567597,
+                "url": "https://media.sketchfab.com/models/31984f260c0d46c2ad4195c1767a9d1b/thumbnails/b12653902f0e4e96910fa944d93f967b/ae949c9815c34116a0b43f3b362df065.jpeg"
+            },
+            {
+                "uid": "1253255f8df64dc1aed0fd215b5704d1",
+                "width": 1024,
+                "height": 576,
+                "size": 90656,
+                "url": "https://media.sketchfab.com/models/31984f260c0d46c2ad4195c1767a9d1b/thumbnails/b12653902f0e4e96910fa944d93f967b/0f981ebd9ea04738b7c00464098924d3.jpeg"
+            },
+            {
+                "uid": "469daa3ceff242f6b5d4f42e8b338d97",
+                "width": 720,
+                "height": 405,
+                "size": 44265,
+                "url": "https://media.sketchfab.com/models/31984f260c0d46c2ad4195c1767a9d1b/thumbnails/b12653902f0e4e96910fa944d93f967b/54e6def368da4ac6b629b42d4e20b3e6.jpeg"
+            },
+            {
+                "uid": "5d44f814c90448aea2fd7801e52150f0",
+                "width": 256,
+                "height": 144,
+                "size": 7426,
+                "url": "https://media.sketchfab.com/models/31984f260c0d46c2ad4195c1767a9d1b/thumbnails/b12653902f0e4e96910fa944d93f967b/9341a336ebcb478eab91aab24faea5cd.jpeg"
+            },
+            {
+                "uid": "cbea328469a54b6185dfb6454168208f",
+                "width": 64,
+                "height": 36,
+                "size": 1375,
+                "url": "https://media.sketchfab.com/models/31984f260c0d46c2ad4195c1767a9d1b/thumbnails/b12653902f0e4e96910fa944d93f967b/78f9648e188d4794bcf21cc6a216254a.jpeg"
+            }
+        ]
+    },
+    "uid": "31984f260c0d46c2ad4195c1767a9d1b",
+    "uri": "https://api.sketchfab.com/v3/models/31984f260c0d46c2ad4195c1767a9d1b",
+    "user": {
+        "uid": "abc043cf86f04f719afc4cbeb83fdb74",
+        "username": "hasanoguzkankal",
+        "displayName": "Hasan Oğuz KANKAL",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hasanoguzkankal",
+        "avatar": {
+            "uid": "c04f133922cf4e88aec088ac5144c3ed",
+            "uri": "https://api.sketchfab.com/v3/avatars/c04f133922cf4e88aec088ac5144c3ed",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2621,
+                    "url": "https://media.sketchfab.com/avatars/c04f133922cf4e88aec088ac5144c3ed/ab2a69acc8664b89a71bb6cdccd4baad.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5594,
+                    "url": "https://media.sketchfab.com/avatars/c04f133922cf4e88aec088ac5144c3ed/f2142c5e6a014fb9bdce84af5c0be384.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 18122,
+                    "url": "https://media.sketchfab.com/avatars/c04f133922cf4e88aec088ac5144c3ed/c0ad3f044e484b8c8d5eb8fe22af8f95.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 21968,
+                    "url": "https://media.sketchfab.com/avatars/c04f133922cf4e88aec088ac5144c3ed/23ad5fd46d594342b71355a425032cd7.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/abc043cf86f04f719afc4cbeb83fdb74"
+    },
+    "vertexCount": 208175,
+    "viewCount": 71,
+    "viewerUrl": "https://sketchfab.com/3d-models/warhammer-gun-31984f260c0d46c2ad4195c1767a9d1b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Prop for Production\nModeling - Maya\nUv Mapping - RizomUV\nTexturing - Substance Painter\nLighting - Marmoset Toolbag 5\nRendering - Marmoset Toolbag 5\nComposting - Photoshop",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/31984f260c0d46c2ad4195c1767a9d1b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2025-12-23T12:42:35.385299",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

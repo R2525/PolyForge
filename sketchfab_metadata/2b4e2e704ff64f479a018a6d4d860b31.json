@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-07T17:04:15.406486",
+    "embedUrl": "https://sketchfab.com/models/2b4e2e704ff64f479a018a6d4d860b31/embed",
+    "faceCount": 1999999,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Unnamed hillfort in BAZ County",
+    "publishedAt": "2026-01-07T17:35:06.757941",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "drone",
+            "slug": "drone",
+            "uri": "https://api.sketchfab.com/v3/tags/drone"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "Hillfort",
+            "slug": "hillfort",
+            "uri": "https://api.sketchfab.com/v3/tags/hillfort"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a2229b67739c4bd2b15291440a2b9dc2",
+                "width": 1920,
+                "height": 1080,
+                "size": 252724,
+                "url": "https://media.sketchfab.com/models/2b4e2e704ff64f479a018a6d4d860b31/thumbnails/c6dcf4f3a9d648ffa6ccb9fbff6a842d/f0d6b935b48040b7899b7d554d524ed1.jpeg"
+            },
+            {
+                "uid": "858fbe4f3275467c8ea6e3e888ca1232",
+                "width": 1024,
+                "height": 576,
+                "size": 73253,
+                "url": "https://media.sketchfab.com/models/2b4e2e704ff64f479a018a6d4d860b31/thumbnails/c6dcf4f3a9d648ffa6ccb9fbff6a842d/ee26244212b34f80b3d343825c47712a.jpeg"
+            },
+            {
+                "uid": "f1c1860f12c84a70ae938ac634765d80",
+                "width": 720,
+                "height": 405,
+                "size": 38794,
+                "url": "https://media.sketchfab.com/models/2b4e2e704ff64f479a018a6d4d860b31/thumbnails/c6dcf4f3a9d648ffa6ccb9fbff6a842d/92d95836583d43fcaef37e5a84655c0d.jpeg"
+            },
+            {
+                "uid": "9a1171909fb14d9fb06c064ad628166e",
+                "width": 256,
+                "height": 144,
+                "size": 5675,
+                "url": "https://media.sketchfab.com/models/2b4e2e704ff64f479a018a6d4d860b31/thumbnails/c6dcf4f3a9d648ffa6ccb9fbff6a842d/7924ab4f99ab4524ab5ad0997556b971.jpeg"
+            },
+            {
+                "uid": "eaac7448720046b195bbfc495852ba24",
+                "width": 64,
+                "height": 36,
+                "size": 1108,
+                "url": "https://media.sketchfab.com/models/2b4e2e704ff64f479a018a6d4d860b31/thumbnails/c6dcf4f3a9d648ffa6ccb9fbff6a842d/b5dc6915f1854002aba89a72e3fe08f9.jpeg"
+            }
+        ]
+    },
+    "uid": "2b4e2e704ff64f479a018a6d4d860b31",
+    "uri": "https://api.sketchfab.com/v3/models/2b4e2e704ff64f479a018a6d4d860b31",
+    "user": {
+        "uid": "9651fa5dae664a9c9d1d9caa9a44221b",
+        "username": "dronezone.hu",
+        "displayName": "dronezone.hu",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/dronezone.hu",
+        "avatar": {
+            "uid": "20f448e00a214cd3b1c11c982ba98906",
+            "uri": "https://api.sketchfab.com/v3/avatars/20f448e00a214cd3b1c11c982ba98906",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1722,
+                    "url": "https://media.sketchfab.com/avatars/20f448e00a214cd3b1c11c982ba98906/074634e6053e4e0e82d3effa2efd239b.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4332,
+                    "url": "https://media.sketchfab.com/avatars/20f448e00a214cd3b1c11c982ba98906/e969b96c1d06404f9c3d70d64680fef6.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 10883,
+                    "url": "https://media.sketchfab.com/avatars/20f448e00a214cd3b1c11c982ba98906/769729b57a3447c3bf629b65945b6c2d.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 12593,
+                    "url": "https://media.sketchfab.com/avatars/20f448e00a214cd3b1c11c982ba98906/d8f294faa1cf4ad1b325a5abd16b2e6a.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9651fa5dae664a9c9d1d9caa9a44221b"
+    },
+    "vertexCount": 1005458,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/unnamed-hillfort-in-baz-county-2b4e2e704ff64f479a018a6d4d860b31",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Hungary, Borsod-Abaúj-Zemplén County**\n\nThe site of a small medieval(?) hillfort discovered in December 2025\n\nhttps://www.academia.edu/resource/work/120712521\n> *This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 License.*\n> \n> *Author: [dronezone.hu](https://sketchfab.com/dronezone.hu).*\n> \n> [![](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2b4e2e704ff64f479a018a6d4d860b31/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-08T06:53:18.218512",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

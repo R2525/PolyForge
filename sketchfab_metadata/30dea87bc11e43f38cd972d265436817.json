@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T11:30:18.072412",
+    "embedUrl": "https://sketchfab.com/models/30dea87bc11e43f38cd972d265436817/embed",
+    "faceCount": 349742,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Ancient Tree Trunk",
+    "publishedAt": "2026-02-19T11:32:38.591724",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "organic",
+            "slug": "organic",
+            "uri": "https://api.sketchfab.com/v3/tags/organic"
+        },
+        {
+            "name": "trunk",
+            "slug": "trunk",
+            "uri": "https://api.sketchfab.com/v3/tags/trunk"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        },
+        {
+            "name": "roots",
+            "slug": "roots",
+            "uri": "https://api.sketchfab.com/v3/tags/roots"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ae09a39a56a84184b51bd9261db134e6",
+                "width": 1920,
+                "height": 1080,
+                "size": 97814,
+                "url": "https://media.sketchfab.com/models/30dea87bc11e43f38cd972d265436817/thumbnails/c071726450094e8081e9038ff3d879a9/451e9a8f746e4224a5e3d109a7cd2f10.jpeg"
+            },
+            {
+                "uid": "5cebb8fbc1704124a12df42a9df4c811",
+                "width": 1024,
+                "height": 576,
+                "size": 31800,
+                "url": "https://media.sketchfab.com/models/30dea87bc11e43f38cd972d265436817/thumbnails/c071726450094e8081e9038ff3d879a9/6cceffcaf8a14261806b5f3425a25373.jpeg"
+            },
+            {
+                "uid": "266837d0c89e4d27ac3b8702c1efeea9",
+                "width": 720,
+                "height": 405,
+                "size": 17900,
+                "url": "https://media.sketchfab.com/models/30dea87bc11e43f38cd972d265436817/thumbnails/c071726450094e8081e9038ff3d879a9/2ed5a2428be344c7ab89f55bd4ccbbf8.jpeg"
+            },
+            {
+                "uid": "216a1c741f19455db8f6b574afd27b16",
+                "width": 256,
+                "height": 144,
+                "size": 3471,
+                "url": "https://media.sketchfab.com/models/30dea87bc11e43f38cd972d265436817/thumbnails/c071726450094e8081e9038ff3d879a9/d4e54aa27e754d3ab1b49a059d911a1c.jpeg"
+            },
+            {
+                "uid": "6a26a70b699648f3a88899314bbbb46c",
+                "width": 64,
+                "height": 36,
+                "size": 952,
+                "url": "https://media.sketchfab.com/models/30dea87bc11e43f38cd972d265436817/thumbnails/c071726450094e8081e9038ff3d879a9/886bc8cbd9604d46af3e91fe4ce217d5.jpeg"
+            }
+        ]
+    },
+    "uid": "30dea87bc11e43f38cd972d265436817",
+    "uri": "https://api.sketchfab.com/v3/models/30dea87bc11e43f38cd972d265436817",
+    "user": {
+        "uid": "e2ea971bbf0d40d4a567f712447930d8",
+        "username": "chocoLava",
+        "displayName": "chocoLava",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/chocoLava",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e2ea971bbf0d40d4a567f712447930d8"
+    },
+    "vertexCount": 175990,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/ancient-tree-trunk-30dea87bc11e43f38cd972d265436817",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A highly detailed 3D scan of the massive gnarled base of an ancient tree. The model showcases a complex spreading root system and rugged weathered bark textures. This photorealistic asset is perfect for creating natural forest or fantasy environments historical scenes or as a centerpiece in any nature themed render.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/30dea87bc11e43f38cd972d265436817/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T11:32:38.870108",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

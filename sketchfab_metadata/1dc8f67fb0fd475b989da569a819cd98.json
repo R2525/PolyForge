@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-10T12:14:26.444894",
+    "embedUrl": "https://sketchfab.com/models/1dc8f67fb0fd475b989da569a819cd98/embed",
+    "faceCount": 822502,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Lando Skiff Guard–Inspired Helmet",
+    "publishedAt": "2026-02-10T12:22:54.352254",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cosplay",
+            "slug": "cosplay",
+            "uri": "https://api.sketchfab.com/v3/tags/cosplay"
+        },
+        {
+            "name": "star-wars",
+            "slug": "star-wars",
+            "uri": "https://api.sketchfab.com/v3/tags/star-wars"
+        },
+        {
+            "name": "starwarsfanart",
+            "slug": "starwarsfanart",
+            "uri": "https://api.sketchfab.com/v3/tags/starwarsfanart"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "desertraiders",
+            "slug": "desertraiders",
+            "uri": "https://api.sketchfab.com/v3/tags/desertraiders"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6aa67c63c0f44306ab449a5e05cea836",
+                "width": 1920,
+                "height": 1080,
+                "size": 79482,
+                "url": "https://media.sketchfab.com/models/1dc8f67fb0fd475b989da569a819cd98/thumbnails/1ba42da37efb4519b367bbbce0bfcb41/e6c41c0b2a824f3aa0ba37166c25e5c8.jpeg"
+            },
+            {
+                "uid": "02653943be534645bbab13f25e08ae1f",
+                "width": 1024,
+                "height": 576,
+                "size": 26286,
+                "url": "https://media.sketchfab.com/models/1dc8f67fb0fd475b989da569a819cd98/thumbnails/1ba42da37efb4519b367bbbce0bfcb41/4b33ccb55c634dba8b2e971e1313edb8.jpeg"
+            },
+            {
+                "uid": "38260173be4d48af86232bdcbc267786",
+                "width": 720,
+                "height": 405,
+                "size": 15357,
+                "url": "https://media.sketchfab.com/models/1dc8f67fb0fd475b989da569a819cd98/thumbnails/1ba42da37efb4519b367bbbce0bfcb41/016fff182c0b4e488369b4caa5020eb9.jpeg"
+            },
+            {
+                "uid": "5eabfcafdb284a3582d01f987edeb68c",
+                "width": 256,
+                "height": 144,
+                "size": 3435,
+                "url": "https://media.sketchfab.com/models/1dc8f67fb0fd475b989da569a819cd98/thumbnails/1ba42da37efb4519b367bbbce0bfcb41/b1801a838ee24a23b8a380ad985cbeb7.jpeg"
+            },
+            {
+                "uid": "1a4a85d0c878454b97815f3388a6ff6d",
+                "width": 64,
+                "height": 36,
+                "size": 976,
+                "url": "https://media.sketchfab.com/models/1dc8f67fb0fd475b989da569a819cd98/thumbnails/1ba42da37efb4519b367bbbce0bfcb41/3a16feb8242c420083b4a58b40284419.jpeg"
+            }
+        ]
+    },
+    "uid": "1dc8f67fb0fd475b989da569a819cd98",
+    "uri": "https://api.sketchfab.com/v3/models/1dc8f67fb0fd475b989da569a819cd98",
+    "user": {
+        "uid": "b89fcc29c518449fae8fd0e2cc545b1f",
+        "username": "TacticalLayer3D",
+        "displayName": "Tactical_Layer_3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/TacticalLayer3D",
+        "avatar": {
+            "uid": "8aa3d079d2704a739e6c716abe166b6f",
+            "uri": "https://api.sketchfab.com/v3/avatars/8aa3d079d2704a739e6c716abe166b6f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2578,
+                    "url": "https://media.sketchfab.com/avatars/8aa3d079d2704a739e6c716abe166b6f/973d4485527f4c81a01212aed12de836.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5723,
+                    "url": "https://media.sketchfab.com/avatars/8aa3d079d2704a739e6c716abe166b6f/d5eacad4ff2a4ddda0887e89f014bcfa.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 18831,
+                    "url": "https://media.sketchfab.com/avatars/8aa3d079d2704a739e6c716abe166b6f/8aad396bdbc24de7a90d95166ba22c95.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 22869,
+                    "url": "https://media.sketchfab.com/avatars/8aa3d079d2704a739e6c716abe166b6f/4105fc9429324cdba7bb6a50361a7f58.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b89fcc29c518449fae8fd0e2cc545b1f"
+    },
+    "vertexCount": 411246,
+    "viewCount": 41,
+    "viewerUrl": "https://sketchfab.com/3d-models/lando-skiff-guardinspired-helmet-1dc8f67fb0fd475b989da569a819cd98",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is an original 3D helmet design inspired by the gritty, utilitarian aesthetic of classic sci-fi skiff guards and desert raiders. The form blends a riveted metal dome with layered plates and an organic lower section, creating a brutal, battle-worn look that feels both industrial and alien.\n\nThe model was created as a high-detail printable asset, designed with real-world fabrication in mind. Surface breaks, panel lines, and layered elements are intentional to support physical production, finishing, and paintwork.\n\nThis asset is suitable for:\n• 3D printing (display or wearable scale)\n• Props and cosplay builds\n• Collectibles and busts\n• Digital kitbashing or concept work\n\nThis is an original fan-inspired design and is not a direct replica of any screen-used helmet.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1dc8f67fb0fd475b989da569a819cd98/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-10T12:25:24.646392",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,219 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T02:27:34.960497",
+    "embedUrl": "https://sketchfab.com/models/05d855bcfa48434f8a5805fcc6e14563/embed",
+    "faceCount": 334739,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "catgirl",
+    "publishedAt": "2026-02-22T02:28:38.356417",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cute",
+            "slug": "cute",
+            "uri": "https://api.sketchfab.com/v3/tags/cute"
+        },
+        {
+            "name": "anthro",
+            "slug": "anthro",
+            "uri": "https://api.sketchfab.com/v3/tags/anthro"
+        },
+        {
+            "name": "ears",
+            "slug": "ears",
+            "uri": "https://api.sketchfab.com/v3/tags/ears"
+        },
+        {
+            "name": "glasses",
+            "slug": "glasses",
+            "uri": "https://api.sketchfab.com/v3/tags/glasses"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "Bikini",
+            "slug": "bikini",
+            "uri": "https://api.sketchfab.com/v3/tags/bikini"
+        },
+        {
+            "name": "catgirl",
+            "slug": "catgirl",
+            "uri": "https://api.sketchfab.com/v3/tags/catgirl"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "aed1be3c5d8c44f39c4481b0f310b3d4",
+                "width": 1920,
+                "height": 1080,
+                "size": 67903,
+                "url": "https://media.sketchfab.com/models/05d855bcfa48434f8a5805fcc6e14563/thumbnails/56a28cae5b1e4cbf92cd45d141e9c157/b29e0425bd214bcb87b742389faa47bc.jpeg"
+            },
+            {
+                "uid": "075179c15f4e4b15871f97e0e16a5ab1",
+                "width": 1024,
+                "height": 576,
+                "size": 23145,
+                "url": "https://media.sketchfab.com/models/05d855bcfa48434f8a5805fcc6e14563/thumbnails/56a28cae5b1e4cbf92cd45d141e9c157/7a3a1a1d650340a282fc63f6ef85eff8.jpeg"
+            },
+            {
+                "uid": "e2ecb1dc04d34c798b815e62f89f13ab",
+                "width": 720,
+                "height": 405,
+                "size": 13552,
+                "url": "https://media.sketchfab.com/models/05d855bcfa48434f8a5805fcc6e14563/thumbnails/56a28cae5b1e4cbf92cd45d141e9c157/c8f16e840cfa4debb45aa558f7226970.jpeg"
+            },
+            {
+                "uid": "ce7eb7c6cce34314823f602bb46b6946",
+                "width": 256,
+                "height": 144,
+                "size": 2971,
+                "url": "https://media.sketchfab.com/models/05d855bcfa48434f8a5805fcc6e14563/thumbnails/56a28cae5b1e4cbf92cd45d141e9c157/28f21133695944c29b1adbc92f65d66a.jpeg"
+            },
+            {
+                "uid": "0ee30edc20754782acfe726cd773e8e4",
+                "width": 64,
+                "height": 36,
+                "size": 910,
+                "url": "https://media.sketchfab.com/models/05d855bcfa48434f8a5805fcc6e14563/thumbnails/56a28cae5b1e4cbf92cd45d141e9c157/2fccfc5744ea426b9c098fe7a6d10179.jpeg"
+            }
+        ]
+    },
+    "uid": "05d855bcfa48434f8a5805fcc6e14563",
+    "uri": "https://api.sketchfab.com/v3/models/05d855bcfa48434f8a5805fcc6e14563",
+    "user": {
+        "uid": "93426e1085f446eb9d3c2b951aa4bdc2",
+        "username": "paulanto.pb",
+        "displayName": "Nobleirish",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/paulanto.pb",
+        "avatar": {
+            "uid": "ae9da348025746e5bc9d078c53a46ed0",
+            "uri": "https://api.sketchfab.com/v3/avatars/ae9da348025746e5bc9d078c53a46ed0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1169,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/3c0b41c9ce764f4e8532d10fcb073252.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1726,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/15b99207584842109985bbcb4d979665.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4171,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/984df33ab29d4da5b46d62925f536a59.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4826,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/22a452cabe1a4902be71e495f8475008.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/93426e1085f446eb9d3c2b951aa4bdc2"
+    },
+    "vertexCount": 167292,
+    "viewCount": 21,
+    "viewerUrl": "https://sketchfab.com/3d-models/catgirl-05d855bcfa48434f8a5805fcc6e14563",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/r72w4Q](https://www.meshy.ai/s/r72w4Q)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/05d855bcfa48434f8a5805fcc6e14563/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T02:28:38.337373",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

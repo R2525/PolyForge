@@ -1,0 +1,191 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T11:19:26.235269",
+    "embedUrl": "https://sketchfab.com/models/31bb3bf6facd4234839658053218f8ff/embed",
+    "faceCount": 652,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Japanese Lamp part 2",
+    "publishedAt": "2026-02-23T11:25:06.084001",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "anime3d",
+            "slug": "anime3d",
+            "uri": "https://api.sketchfab.com/v3/tags/anime3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "temple",
+            "slug": "temple",
+            "uri": "https://api.sketchfab.com/v3/tags/temple"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2b696d50b08040678a5695042939c5e0",
+                "width": 1920,
+                "height": 1080,
+                "size": 64511,
+                "url": "https://media.sketchfab.com/models/31bb3bf6facd4234839658053218f8ff/thumbnails/99eb9d2e8ffe4fa0a1502976c34fabf3/c784916fc4cf4ddebd864cb121034b8f.jpeg"
+            },
+            {
+                "uid": "510558c59773479e89d8d34b527c560d",
+                "width": 1024,
+                "height": 576,
+                "size": 24381,
+                "url": "https://media.sketchfab.com/models/31bb3bf6facd4234839658053218f8ff/thumbnails/99eb9d2e8ffe4fa0a1502976c34fabf3/042e5a5b8cbd472c96ff1898b3f826dc.jpeg"
+            },
+            {
+                "uid": "2de9448455a7440e841167d8c2c5d0b0",
+                "width": 720,
+                "height": 405,
+                "size": 14961,
+                "url": "https://media.sketchfab.com/models/31bb3bf6facd4234839658053218f8ff/thumbnails/99eb9d2e8ffe4fa0a1502976c34fabf3/1ab932431bb744909feb24cc17a42d52.jpeg"
+            },
+            {
+                "uid": "e3b09965350740f48cdd3be9ead7c493",
+                "width": 256,
+                "height": 144,
+                "size": 4044,
+                "url": "https://media.sketchfab.com/models/31bb3bf6facd4234839658053218f8ff/thumbnails/99eb9d2e8ffe4fa0a1502976c34fabf3/af8ebaf1d4a74419a7cca66aacd9983e.jpeg"
+            },
+            {
+                "uid": "5592d30cec7b4dd0b104fd2a4df10fb7",
+                "width": 64,
+                "height": 36,
+                "size": 1109,
+                "url": "https://media.sketchfab.com/models/31bb3bf6facd4234839658053218f8ff/thumbnails/99eb9d2e8ffe4fa0a1502976c34fabf3/38de78929a3741a9ae4a444f3190e198.jpeg"
+            }
+        ]
+    },
+    "uid": "31bb3bf6facd4234839658053218f8ff",
+    "uri": "https://api.sketchfab.com/v3/models/31bb3bf6facd4234839658053218f8ff",
+    "user": {
+        "uid": "adcb6acd9246432b9596a34d43d27110",
+        "username": "IG_Shero",
+        "displayName": "IG_Shero",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/IG_Shero",
+        "avatar": {
+            "uid": "f560dc8f065d46e197a882035bd5f9c2",
+            "uri": "https://api.sketchfab.com/v3/avatars/f560dc8f065d46e197a882035bd5f9c2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1004,
+                    "url": "https://media.sketchfab.com/avatars/f560dc8f065d46e197a882035bd5f9c2/0d2b0a126d4b46dbbddbd62b78a7b0a8.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1391,
+                    "url": "https://media.sketchfab.com/avatars/f560dc8f065d46e197a882035bd5f9c2/1285b6d4d84d4536ab0ccc12f3d82d88.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3224,
+                    "url": "https://media.sketchfab.com/avatars/f560dc8f065d46e197a882035bd5f9c2/622deb50e24a487ebdc21046f594b5b6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3718,
+                    "url": "https://media.sketchfab.com/avatars/f560dc8f065d46e197a882035bd5f9c2/53b0c834f3f3492f9a5966e889a2ce41.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/adcb6acd9246432b9596a34d43d27110"
+    },
+    "vertexCount": 434,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/japanese-lamp-part-2-31bb3bf6facd4234839658053218f8ff",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Japanese style Lamp part 2 with anime textutres vibe",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/31bb3bf6facd4234839658053218f8ff/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T11:26:17.177820",
+    "pbrType": null,
+    "textureCount": 9,
+    "materialCount": 3
+}

@@ -1,0 +1,120 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-10T19:14:18.480261",
+    "embedUrl": "https://sketchfab.com/models/396a45190b974293970451098ec9978d/embed",
+    "faceCount": 83750,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Chenipan 3D",
+    "publishedAt": "2026-02-10T19:15:40.972583",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d4e8b110aa36442ab0308eb54c44968d",
+                "width": 1920,
+                "height": 1080,
+                "size": 45432,
+                "url": "https://media.sketchfab.com/models/396a45190b974293970451098ec9978d/thumbnails/3e5ca966b1ae46238ef6e4a98ca62bd0/51b8245775f04ed2b4694bb18f6aeadd.jpeg"
+            },
+            {
+                "uid": "d3e05c3711964effa86c0ce9581e255a",
+                "width": 1024,
+                "height": 576,
+                "size": 14799,
+                "url": "https://media.sketchfab.com/models/396a45190b974293970451098ec9978d/thumbnails/3e5ca966b1ae46238ef6e4a98ca62bd0/2c5a39bdb9e44fdca396e1a9c82d10d8.jpeg"
+            },
+            {
+                "uid": "8accf5b881e9404f80b4e542d80ed40b",
+                "width": 720,
+                "height": 405,
+                "size": 8533,
+                "url": "https://media.sketchfab.com/models/396a45190b974293970451098ec9978d/thumbnails/3e5ca966b1ae46238ef6e4a98ca62bd0/ee836ef41c90425cbbd519620ad5657a.jpeg"
+            },
+            {
+                "uid": "497b0df3451b4137b492d213b782091f",
+                "width": 256,
+                "height": 144,
+                "size": 1994,
+                "url": "https://media.sketchfab.com/models/396a45190b974293970451098ec9978d/thumbnails/3e5ca966b1ae46238ef6e4a98ca62bd0/8bacdf60b19e489695f183a4378cef58.jpeg"
+            },
+            {
+                "uid": "35a7e639ae944dd8bac7ac52bd7aec0c",
+                "width": 64,
+                "height": 36,
+                "size": 821,
+                "url": "https://media.sketchfab.com/models/396a45190b974293970451098ec9978d/thumbnails/3e5ca966b1ae46238ef6e4a98ca62bd0/ffafc10d78334ffe8ceff576a0b40cb4.jpeg"
+            }
+        ]
+    },
+    "uid": "396a45190b974293970451098ec9978d",
+    "uri": "https://api.sketchfab.com/v3/models/396a45190b974293970451098ec9978d",
+    "user": {
+        "uid": "739e4b2c17e745b4b3ac55e0920caa29",
+        "username": "sonkobe-xxvi",
+        "displayName": "sonkobe-xxvi",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/sonkobe-xxvi",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/739e4b2c17e745b4b3ac55e0920caa29"
+    },
+    "vertexCount": 42065,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/chenipan-3d-396a45190b974293970451098ec9978d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/396a45190b974293970451098ec9978d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-10T19:15:41.156398",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 17
+}

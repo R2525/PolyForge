@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-11T14:17:53.967418",
+    "embedUrl": "https://sketchfab.com/models/29d0c4cec0884d27846497dcc906e680/embed",
+    "faceCount": 1000434,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Pixel-}X{-Cathedral",
+    "publishedAt": "2025-12-11T14:27:06.839664",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cathedral",
+            "slug": "cathedral",
+            "uri": "https://api.sketchfab.com/v3/tags/cathedral"
+        },
+        {
+            "name": "buildings",
+            "slug": "buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/buildings"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "Holy",
+            "slug": "holy",
+            "uri": "https://api.sketchfab.com/v3/tags/holy"
+        },
+        {
+            "name": "PixelTexture",
+            "slug": "pixeltexture",
+            "uri": "https://api.sketchfab.com/v3/tags/pixeltexture"
+        },
+        {
+            "name": "CulturalHeritage",
+            "slug": "culturalheritage",
+            "uri": "https://api.sketchfab.com/v3/tags/culturalheritage"
+        },
+        {
+            "name": "game-development",
+            "slug": "game-development",
+            "uri": "https://api.sketchfab.com/v3/tags/game-development"
+        },
+        {
+            "name": "christianity",
+            "slug": "christianity",
+            "uri": "https://api.sketchfab.com/v3/tags/christianity"
+        },
+        {
+            "name": "church-architecture",
+            "slug": "church-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/church-architecture"
+        },
+        {
+            "name": "cultural-heritage",
+            "slug": "cultural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage"
+        },
+        {
+            "name": "pixelated",
+            "slug": "pixelated",
+            "uri": "https://api.sketchfab.com/v3/tags/pixelated"
+        },
+        {
+            "name": "fantasy-gameasset",
+            "slug": "fantasy-gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-gameasset"
+        },
+        {
+            "name": "fantasyart",
+            "slug": "fantasyart",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyart"
+        },
+        {
+            "name": "cathedrals",
+            "slug": "cathedrals",
+            "uri": "https://api.sketchfab.com/v3/tags/cathedrals"
+        },
+        {
+            "name": "voxel-art",
+            "slug": "voxel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel-art"
+        },
+        {
+            "name": "churches",
+            "slug": "churches",
+            "uri": "https://api.sketchfab.com/v3/tags/churches"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "building-environment-assets",
+            "slug": "building-environment-assets",
+            "uri": "https://api.sketchfab.com/v3/tags/building-environment-assets"
+        },
+        {
+            "name": "medievalfantasyassets",
+            "slug": "medievalfantasyassets",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalfantasyassets"
+        },
+        {
+            "name": "pixel-texture",
+            "slug": "pixel-texture",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-texture"
+        },
+        {
+            "name": "cathedral-church",
+            "slug": "cathedral-church",
+            "uri": "https://api.sketchfab.com/v3/tags/cathedral-church"
+        },
+        {
+            "name": "building-design",
+            "slug": "building-design",
+            "uri": "https://api.sketchfab.com/v3/tags/building-design"
+        },
+        {
+            "name": "cathedral-architecture-fasade-photogrammetry",
+            "slug": "cathedral-architecture-fasade-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/cathedral-architecture-fasade-photogrammetry"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "church",
+            "slug": "church",
+            "uri": "https://api.sketchfab.com/v3/tags/church"
+        },
+        {
+            "name": "history",
+            "slug": "history",
+            "uri": "https://api.sketchfab.com/v3/tags/history"
+        },
+        {
+            "name": "pixelart",
+            "slug": "pixelart",
+            "uri": "https://api.sketchfab.com/v3/tags/pixelart"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "tripo3d",
+            "slug": "tripo3d",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo3d"
+        },
+        {
+            "name": "tripo",
+            "slug": "tripo",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo"
+        },
+        {
+            "name": "tripoai",
+            "slug": "tripoai",
+            "uri": "https://api.sketchfab.com/v3/tags/tripoai"
+        },
+        {
+            "name": "tripostudio",
+            "slug": "tripostudio",
+            "uri": "https://api.sketchfab.com/v3/tags/tripostudio"
+        },
+        {
+            "name": "free-church",
+            "slug": "free-church",
+            "uri": "https://api.sketchfab.com/v3/tags/free-church"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "tripo-model",
+            "slug": "tripo-model",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo-model"
+        },
+        {
+            "name": "tripomodel",
+            "slug": "tripomodel",
+            "uri": "https://api.sketchfab.com/v3/tags/tripomodel"
+        },
+        {
+            "name": "pixelcathedral",
+            "slug": "pixelcathedral",
+            "uri": "https://api.sketchfab.com/v3/tags/pixelcathedral"
+        },
+        {
+            "name": "pixel-cathedral",
+            "slug": "pixel-cathedral",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-cathedral"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "63491ffd3acb4795948a17f00c12dd53",
+                "width": 1920,
+                "height": 1080,
+                "size": 326884,
+                "url": "https://media.sketchfab.com/models/29d0c4cec0884d27846497dcc906e680/thumbnails/f2e62b19c5bf4b6389727162cb2b2364/f5e5756ed9ed4b5da11f983b8e0ed22b.jpeg"
+            },
+            {
+                "uid": "50c685a93cbf46c49be729e7c9dbdd52",
+                "width": 1024,
+                "height": 576,
+                "size": 63756,
+                "url": "https://media.sketchfab.com/models/29d0c4cec0884d27846497dcc906e680/thumbnails/f2e62b19c5bf4b6389727162cb2b2364/83a6d3ca59eb4f8c953d33d7cded001a.jpeg"
+            },
+            {
+                "uid": "2133eeb1d069406399058de3e7159ed9",
+                "width": 720,
+                "height": 405,
+                "size": 34450,
+                "url": "https://media.sketchfab.com/models/29d0c4cec0884d27846497dcc906e680/thumbnails/f2e62b19c5bf4b6389727162cb2b2364/48f284f916d347238801c04ddddfcc76.jpeg"
+            },
+            {
+                "uid": "3849817876d4426bb4f1004b24bd2cc0",
+                "width": 256,
+                "height": 144,
+                "size": 6525,
+                "url": "https://media.sketchfab.com/models/29d0c4cec0884d27846497dcc906e680/thumbnails/f2e62b19c5bf4b6389727162cb2b2364/27b16ec07583430d96f4a426318d7f1a.jpeg"
+            },
+            {
+                "uid": "ec5ad8dcf6eb42fd87e26b36c4be3c23",
+                "width": 64,
+                "height": 36,
+                "size": 1230,
+                "url": "https://media.sketchfab.com/models/29d0c4cec0884d27846497dcc906e680/thumbnails/f2e62b19c5bf4b6389727162cb2b2364/469f4dc4dbcf4b01b8d1c081199232d0.jpeg"
+            }
+        ]
+    },
+    "uid": "29d0c4cec0884d27846497dcc906e680",
+    "uri": "https://api.sketchfab.com/v3/models/29d0c4cec0884d27846497dcc906e680",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 500186,
+    "viewCount": 52,
+    "viewerUrl": "https://sketchfab.com/3d-models/pixel-x-cathedral-29d0c4cec0884d27846497dcc906e680",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/29d0c4cec0884d27846497dcc906e680/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-11T14:28:48.780983",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

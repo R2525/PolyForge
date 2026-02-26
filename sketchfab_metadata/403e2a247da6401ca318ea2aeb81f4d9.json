@@ -1,0 +1,244 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-21T22:56:15.614866",
+    "embedUrl": "https://sketchfab.com/models/403e2a247da6401ca318ea2aeb81f4d9/embed",
+    "faceCount": 36486,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Hand-Painted Medieval Small House for RPG Games",
+    "publishedAt": "2026-01-21T23:03:08.117930",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "cottage",
+            "slug": "cottage",
+            "uri": "https://api.sketchfab.com/v3/tags/cottage"
+        },
+        {
+            "name": "small",
+            "slug": "small",
+            "uri": "https://api.sketchfab.com/v3/tags/small"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "painted",
+            "slug": "painted",
+            "uri": "https://api.sketchfab.com/v3/tags/painted"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "hand",
+            "slug": "hand",
+            "uri": "https://api.sketchfab.com/v3/tags/hand"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e19fceec02cf463b87e9b5f10484fd72",
+                "width": 1920,
+                "height": 1080,
+                "size": 71767,
+                "url": "https://media.sketchfab.com/models/403e2a247da6401ca318ea2aeb81f4d9/thumbnails/bdc81a2680554b4790707a7883e1ae81/13d442a7fb10487ca4611149a93c679a.jpeg"
+            },
+            {
+                "uid": "6a7e1438d3684eccac5d11d6ffe872cb",
+                "width": 1024,
+                "height": 576,
+                "size": 24822,
+                "url": "https://media.sketchfab.com/models/403e2a247da6401ca318ea2aeb81f4d9/thumbnails/bdc81a2680554b4790707a7883e1ae81/6eaa26c9312f47a0a19a785b1cecc801.jpeg"
+            },
+            {
+                "uid": "8e33a5f6f0c84139ad9493f75f34ee34",
+                "width": 720,
+                "height": 405,
+                "size": 14528,
+                "url": "https://media.sketchfab.com/models/403e2a247da6401ca318ea2aeb81f4d9/thumbnails/bdc81a2680554b4790707a7883e1ae81/a098a5690c984e56b3a80ee507e0838b.jpeg"
+            },
+            {
+                "uid": "0b260e880b9e433e91f8b36cafb36acb",
+                "width": 256,
+                "height": 144,
+                "size": 3146,
+                "url": "https://media.sketchfab.com/models/403e2a247da6401ca318ea2aeb81f4d9/thumbnails/bdc81a2680554b4790707a7883e1ae81/e4bb5657bfca4a85a5cb0949d1349ffc.jpeg"
+            },
+            {
+                "uid": "e2cc4c296977447d9ae72f163238eeea",
+                "width": 64,
+                "height": 36,
+                "size": 929,
+                "url": "https://media.sketchfab.com/models/403e2a247da6401ca318ea2aeb81f4d9/thumbnails/bdc81a2680554b4790707a7883e1ae81/b99671b9b8f443af89666139a5327834.jpeg"
+            }
+        ]
+    },
+    "uid": "403e2a247da6401ca318ea2aeb81f4d9",
+    "uri": "https://api.sketchfab.com/v3/models/403e2a247da6401ca318ea2aeb81f4d9",
+    "user": {
+        "uid": "1285a8eb2f664742a8a634757bab17bb",
+        "username": "basem_shaaban",
+        "displayName": "Basem Shaaban",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/basem_shaaban",
+        "avatar": {
+            "uid": "dab0a698f8fe46838af25478eb49fb61",
+            "uri": "https://api.sketchfab.com/v3/avatars/dab0a698f8fe46838af25478eb49fb61",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2347,
+                    "url": "https://media.sketchfab.com/avatars/dab0a698f8fe46838af25478eb49fb61/f94295ac3f8846e892da5dffeb49a30b.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4924,
+                    "url": "https://media.sketchfab.com/avatars/dab0a698f8fe46838af25478eb49fb61/a8f28cccafaa408497242d491e5b73ae.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 15968,
+                    "url": "https://media.sketchfab.com/avatars/dab0a698f8fe46838af25478eb49fb61/2a938e48611147d0b0d298969e20b5b7.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 19471,
+                    "url": "https://media.sketchfab.com/avatars/dab0a698f8fe46838af25478eb49fb61/53a4300cf87549eda37a07f0965a08fc.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1285a8eb2f664742a8a634757bab17bb"
+    },
+    "vertexCount": 18227,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/hand-painted-medieval-small-house-for-rpg-games-403e2a247da6401ca318ea2aeb81f4d9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A high-quality stylized cottage, perfect for RPG, Adventure, or Fantasy games. This model is Game-Ready, optimized for mobile and PC projects. It features a hand-painted texture style that gives your game world a unique, cozy aesthetic.\n\nTechnical Features\n\nStyle: Low Poly / Stylized.\n\nGeometry: Clean Topology, optimized for performance.\n\nUV Mapping: Non-overlapping UVs.\n\nTextures: Included (1024x1024 / 2048x2048 PNG).\n\nFormats: FBX (Embedded Textures), Blend (Original File).\n\nCompatibility: Fully tested in Unity and Unreal Engine.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/403e2a247da6401ca318ea2aeb81f4d9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-21T23:08:31.358534",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 10,
+    "createdAt": "2025-11-27T12:33:49.349914",
+    "embedUrl": "https://sketchfab.com/models/418722565c574d4fb9ac11a4cff0ddb0/embed",
+    "faceCount": 2232,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Lynx Witcher Medallion",
+    "publishedAt": "2025-11-27T12:35:45.000557",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "medallion",
+            "slug": "medallion",
+            "uri": "https://api.sketchfab.com/v3/tags/medallion"
+        },
+        {
+            "name": "Authentic",
+            "slug": "authentic",
+            "uri": "https://api.sketchfab.com/v3/tags/authentic"
+        },
+        {
+            "name": "witcher",
+            "slug": "witcher",
+            "uri": "https://api.sketchfab.com/v3/tags/witcher"
+        },
+        {
+            "name": "lynx",
+            "slug": "lynx",
+            "uri": "https://api.sketchfab.com/v3/tags/lynx"
+        },
+        {
+            "name": "cool",
+            "slug": "cool",
+            "uri": "https://api.sketchfab.com/v3/tags/cool"
+        },
+        {
+            "name": "animal",
+            "slug": "animal",
+            "uri": "https://api.sketchfab.com/v3/tags/animal"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "45d4ef950ff54abda2081d2db46033bb",
+                "width": 1920,
+                "height": 1080,
+                "size": 551195,
+                "url": "https://media.sketchfab.com/models/418722565c574d4fb9ac11a4cff0ddb0/thumbnails/e5a0f02f6ef542e898aabc059c1fe803/e2afbad04ca34ca8b83ff51f011dd184.jpeg"
+            },
+            {
+                "uid": "9781d17509194c458bfc06eb12bd847d",
+                "width": 1024,
+                "height": 576,
+                "size": 89432,
+                "url": "https://media.sketchfab.com/models/418722565c574d4fb9ac11a4cff0ddb0/thumbnails/e5a0f02f6ef542e898aabc059c1fe803/cf424caadeee49f5a44395b979a0cf3c.jpeg"
+            },
+            {
+                "uid": "7abcb2bfa0e44a56a2c140cdca32eff0",
+                "width": 720,
+                "height": 405,
+                "size": 41580,
+                "url": "https://media.sketchfab.com/models/418722565c574d4fb9ac11a4cff0ddb0/thumbnails/e5a0f02f6ef542e898aabc059c1fe803/3c9594bf71244de7b7b2b8b5f05a59b6.jpeg"
+            },
+            {
+                "uid": "1d70e67f9fbe44a39f74d74af0a8a677",
+                "width": 256,
+                "height": 144,
+                "size": 5104,
+                "url": "https://media.sketchfab.com/models/418722565c574d4fb9ac11a4cff0ddb0/thumbnails/e5a0f02f6ef542e898aabc059c1fe803/c7bc641f61f440bebdc26f5156b0ef88.jpeg"
+            },
+            {
+                "uid": "31fba16fb6284b72b52919d1ceac45b6",
+                "width": 64,
+                "height": 36,
+                "size": 1028,
+                "url": "https://media.sketchfab.com/models/418722565c574d4fb9ac11a4cff0ddb0/thumbnails/e5a0f02f6ef542e898aabc059c1fe803/8ed673eb29834908877aaf51a39157b8.jpeg"
+            }
+        ]
+    },
+    "uid": "418722565c574d4fb9ac11a4cff0ddb0",
+    "uri": "https://api.sketchfab.com/v3/models/418722565c574d4fb9ac11a4cff0ddb0",
+    "user": {
+        "uid": "cc8ad8757bdd4ab8bafef3491137049f",
+        "username": "hackerman_den",
+        "displayName": "hackerman_den",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hackerman_den",
+        "avatar": {
+            "uid": "a27600fca90a4310bbc26900bf34bd4b",
+            "uri": "https://api.sketchfab.com/v3/avatars/a27600fca90a4310bbc26900bf34bd4b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1132,
+                    "url": "https://media.sketchfab.com/avatars/a27600fca90a4310bbc26900bf34bd4b/dfc622442f0247faa26c69456c1bbd49.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1623,
+                    "url": "https://media.sketchfab.com/avatars/a27600fca90a4310bbc26900bf34bd4b/3d3d5f94bbf34b3eb5795533828b899e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3692,
+                    "url": "https://media.sketchfab.com/avatars/a27600fca90a4310bbc26900bf34bd4b/edece7bceb284900bc83db22a5828789.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4152,
+                    "url": "https://media.sketchfab.com/avatars/a27600fca90a4310bbc26900bf34bd4b/c4d159ab459641d1abc8bb8639789d7b.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cc8ad8757bdd4ab8bafef3491137049f"
+    },
+    "vertexCount": 1133,
+    "viewCount": 126,
+    "viewerUrl": "https://sketchfab.com/3d-models/lynx-witcher-medallion-418722565c574d4fb9ac11a4cff0ddb0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Lynx Witcher Medallion from game Witcher 4, where Ciri has it\nCompletly free, guys, good for 3d printing, love u!",
+    "price": null,
+    "downloadCount": 13,
+    "editorUrl": "https://sketchfab.com/models/418722565c574d4fb9ac11a4cff0ddb0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-27T12:43:13.369722",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

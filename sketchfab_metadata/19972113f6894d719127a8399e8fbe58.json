@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T03:34:27.986879",
+    "embedUrl": "https://sketchfab.com/models/19972113f6894d719127a8399e8fbe58/embed",
+    "faceCount": 25968,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Gusano",
+    "publishedAt": "2026-02-21T03:35:18.022326",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "toon",
+            "slug": "toon",
+            "uri": "https://api.sketchfab.com/v3/tags/toon"
+        },
+        {
+            "name": "worm",
+            "slug": "worm",
+            "uri": "https://api.sketchfab.com/v3/tags/worm"
+        },
+        {
+            "name": "digital3d",
+            "slug": "digital3d",
+            "uri": "https://api.sketchfab.com/v3/tags/digital3d"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        },
+        {
+            "name": "styletoon",
+            "slug": "styletoon",
+            "uri": "https://api.sketchfab.com/v3/tags/styletoon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a5ad146ca6194832ace54f9d1e2373d6",
+                "width": 1920,
+                "height": 1080,
+                "size": 43248,
+                "url": "https://media.sketchfab.com/models/19972113f6894d719127a8399e8fbe58/thumbnails/c1c060fb76644013a4841e50a4903c54/4e407e83a7e94f89926ff4f9f1c00656.jpeg"
+            },
+            {
+                "uid": "54b295da583a42f0bc387c241a9c53fa",
+                "width": 1024,
+                "height": 576,
+                "size": 14135,
+                "url": "https://media.sketchfab.com/models/19972113f6894d719127a8399e8fbe58/thumbnails/c1c060fb76644013a4841e50a4903c54/cff51f40c9d24bb5877f164706334640.jpeg"
+            },
+            {
+                "uid": "0bcc9086b1354183b462c8608a131102",
+                "width": 720,
+                "height": 405,
+                "size": 8101,
+                "url": "https://media.sketchfab.com/models/19972113f6894d719127a8399e8fbe58/thumbnails/c1c060fb76644013a4841e50a4903c54/4a9cd71defc24ef4bfb9925a6229b5ca.jpeg"
+            },
+            {
+                "uid": "b7cecf9208a44fd7ad324b36e2f84737",
+                "width": 256,
+                "height": 144,
+                "size": 1949,
+                "url": "https://media.sketchfab.com/models/19972113f6894d719127a8399e8fbe58/thumbnails/c1c060fb76644013a4841e50a4903c54/c0fee951c8ee445299412c09b7980d06.jpeg"
+            },
+            {
+                "uid": "0a3d88fdb70c495da15ff5f840a7cd45",
+                "width": 64,
+                "height": 36,
+                "size": 821,
+                "url": "https://media.sketchfab.com/models/19972113f6894d719127a8399e8fbe58/thumbnails/c1c060fb76644013a4841e50a4903c54/f156c95901f44ea6803227e20cc354d2.jpeg"
+            }
+        ]
+    },
+    "uid": "19972113f6894d719127a8399e8fbe58",
+    "uri": "https://api.sketchfab.com/v3/models/19972113f6894d719127a8399e8fbe58",
+    "user": {
+        "uid": "073abcf9ee1144ff85e7add17b56daa0",
+        "username": "farhan_3D",
+        "displayName": "farhan_3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/farhan_3D",
+        "avatar": {
+            "uid": "6cbc7bd27b3a48f89f523041e29e49fa",
+            "uri": "https://api.sketchfab.com/v3/avatars/6cbc7bd27b3a48f89f523041e29e49fa",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 965,
+                    "url": "https://media.sketchfab.com/avatars/6cbc7bd27b3a48f89f523041e29e49fa/a4cbd3975c434dcabe6e82dc49af3cd4.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1239,
+                    "url": "https://media.sketchfab.com/avatars/6cbc7bd27b3a48f89f523041e29e49fa/02953c5a02364b6285e6c5fc9d71a1ec.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2883,
+                    "url": "https://media.sketchfab.com/avatars/6cbc7bd27b3a48f89f523041e29e49fa/519b3133b4534d22a3897f7eb0d82657.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3443,
+                    "url": "https://media.sketchfab.com/avatars/6cbc7bd27b3a48f89f523041e29e49fa/637ece6a4d1443d49c398955d306b758.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/073abcf9ee1144ff85e7add17b56daa0"
+    },
+    "vertexCount": 13020,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/gusano-19972113f6894d719127a8399e8fbe58",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the original file.The Converted version is intended exclusively for browser preview. In the original file, the following are fully preserved:✔ native scene structure✔ unsimplified materials✔ correct PBR texture maps✔ proper object namingIf you are going to integrate the model into a project, select the source file.It has a good base mesh anime style saves time with good proportions and clean topology modeled in low polygon arranged in uvs rigged ready to animate.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/19972113f6894d719127a8399e8fbe58/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T03:35:18.272742",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

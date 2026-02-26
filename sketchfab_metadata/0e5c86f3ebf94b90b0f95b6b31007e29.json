@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-13T17:50:19.822496",
+    "embedUrl": "https://sketchfab.com/models/0e5c86f3ebf94b90b0f95b6b31007e29/embed",
+    "faceCount": 17954,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 5,
+    "name": "Stylized 3D Printable Industrial Chemical Plant",
+    "publishedAt": "2026-01-13T17:55:22.422705",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "plant",
+            "slug": "plant",
+            "uri": "https://api.sketchfab.com/v3/tags/plant"
+        },
+        {
+            "name": "base",
+            "slug": "base",
+            "uri": "https://api.sketchfab.com/v3/tags/base"
+        },
+        {
+            "name": "pipe",
+            "slug": "pipe",
+            "uri": "https://api.sketchfab.com/v3/tags/pipe"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "terrain",
+            "slug": "terrain",
+            "uri": "https://api.sketchfab.com/v3/tags/terrain"
+        },
+        {
+            "name": "nuclear",
+            "slug": "nuclear",
+            "uri": "https://api.sketchfab.com/v3/tags/nuclear"
+        },
+        {
+            "name": "tabletop",
+            "slug": "tabletop",
+            "uri": "https://api.sketchfab.com/v3/tags/tabletop"
+        },
+        {
+            "name": "scenery",
+            "slug": "scenery",
+            "uri": "https://api.sketchfab.com/v3/tags/scenery"
+        },
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "silo",
+            "slug": "silo",
+            "uri": "https://api.sketchfab.com/v3/tags/silo"
+        },
+        {
+            "name": "laboratory",
+            "slug": "laboratory",
+            "uri": "https://api.sketchfab.com/v3/tags/laboratory"
+        },
+        {
+            "name": "miniature",
+            "slug": "miniature",
+            "uri": "https://api.sketchfab.com/v3/tags/miniature"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "wasteland",
+            "slug": "wasteland",
+            "uri": "https://api.sketchfab.com/v3/tags/wasteland"
+        },
+        {
+            "name": "waste",
+            "slug": "waste",
+            "uri": "https://api.sketchfab.com/v3/tags/waste"
+        },
+        {
+            "name": "dnd",
+            "slug": "dnd",
+            "uri": "https://api.sketchfab.com/v3/tags/dnd"
+        },
+        {
+            "name": "diorama",
+            "slug": "diorama",
+            "uri": "https://api.sketchfab.com/v3/tags/diorama"
+        },
+        {
+            "name": "toxic",
+            "slug": "toxic",
+            "uri": "https://api.sketchfab.com/v3/tags/toxic"
+        },
+        {
+            "name": "vat",
+            "slug": "vat",
+            "uri": "https://api.sketchfab.com/v3/tags/vat"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "refinery",
+            "slug": "refinery",
+            "uri": "https://api.sketchfab.com/v3/tags/refinery"
+        },
+        {
+            "name": "3d-Printing",
+            "slug": "3d-printing",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-printing"
+        },
+        {
+            "name": "Wargaming",
+            "slug": "wargaming",
+            "uri": "https://api.sketchfab.com/v3/tags/wargaming"
+        },
+        {
+            "name": "smokestack",
+            "slug": "smokestack",
+            "uri": "https://api.sketchfab.com/v3/tags/smokestack"
+        },
+        {
+            "name": "facility",
+            "slug": "facility",
+            "uri": "https://api.sketchfab.com/v3/tags/facility"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "city",
+            "slug": "city",
+            "uri": "https://api.sketchfab.com/v3/tags/city"
+        },
+        {
+            "name": "structure",
+            "slug": "structure",
+            "uri": "https://api.sketchfab.com/v3/tags/structure"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "factory",
+            "slug": "factory",
+            "uri": "https://api.sketchfab.com/v3/tags/factory"
+        },
+        {
+            "name": "fallout",
+            "slug": "fallout",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "power-station",
+            "slug": "power-station",
+            "uri": "https://api.sketchfab.com/v3/tags/power-station"
+        },
+        {
+            "name": "chemical-plant",
+            "slug": "chemical-plant",
+            "uri": "https://api.sketchfab.com/v3/tags/chemical-plant"
+        },
+        {
+            "name": "resin-print",
+            "slug": "resin-print",
+            "uri": "https://api.sketchfab.com/v3/tags/resin-print"
+        },
+        {
+            "name": "tabletop-games",
+            "slug": "tabletop-games",
+            "uri": "https://api.sketchfab.com/v3/tags/tabletop-games"
+        },
+        {
+            "name": "wargame-terrain",
+            "slug": "wargame-terrain",
+            "uri": "https://api.sketchfab.com/v3/tags/wargame-terrain"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "de13253929ce4da0947f8b75fad401da",
+                "width": 1920,
+                "height": 1080,
+                "size": 65922,
+                "url": "https://media.sketchfab.com/models/0e5c86f3ebf94b90b0f95b6b31007e29/thumbnails/ef599d804b124e12aea8f59a70b3ae2f/cb36ce7fefe8495ba0fad6e95c5a3527.jpeg"
+            },
+            {
+                "uid": "d2bd4ac7c0744e9eb74eae4f8ef1ad56",
+                "width": 1024,
+                "height": 576,
+                "size": 22847,
+                "url": "https://media.sketchfab.com/models/0e5c86f3ebf94b90b0f95b6b31007e29/thumbnails/ef599d804b124e12aea8f59a70b3ae2f/ac0149e04cb44d028b4f4bc1a39d31e4.jpeg"
+            },
+            {
+                "uid": "168009089444440cb577e1361b6f30df",
+                "width": 720,
+                "height": 405,
+                "size": 13637,
+                "url": "https://media.sketchfab.com/models/0e5c86f3ebf94b90b0f95b6b31007e29/thumbnails/ef599d804b124e12aea8f59a70b3ae2f/0c3f1f2a0cd941a8b5f214af763a9032.jpeg"
+            },
+            {
+                "uid": "501484c9fab641d5a3b6cdb8612ef5da",
+                "width": 256,
+                "height": 144,
+                "size": 3368,
+                "url": "https://media.sketchfab.com/models/0e5c86f3ebf94b90b0f95b6b31007e29/thumbnails/ef599d804b124e12aea8f59a70b3ae2f/eefbfac1d4be4afcb67137ffee579def.jpeg"
+            },
+            {
+                "uid": "4052c7bf55bd4745827737d5c7f2fa7a",
+                "width": 64,
+                "height": 36,
+                "size": 983,
+                "url": "https://media.sketchfab.com/models/0e5c86f3ebf94b90b0f95b6b31007e29/thumbnails/ef599d804b124e12aea8f59a70b3ae2f/5ab0ea77a5174d559fc34f105a7fb2e9.jpeg"
+            }
+        ]
+    },
+    "uid": "0e5c86f3ebf94b90b0f95b6b31007e29",
+    "uri": "https://api.sketchfab.com/v3/models/0e5c86f3ebf94b90b0f95b6b31007e29",
+    "user": {
+        "uid": "f83459ef68554352bd36c5026bf4f3d7",
+        "username": "INGSOC1984",
+        "displayName": "INGSOC1984",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/INGSOC1984",
+        "avatar": {
+            "uid": "8efa415087b84b2da0458e1b2eac17a0",
+            "uri": "https://api.sketchfab.com/v3/avatars/8efa415087b84b2da0458e1b2eac17a0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2585,
+                    "url": "https://media.sketchfab.com/avatars/8efa415087b84b2da0458e1b2eac17a0/8219d3d4518c4463a0038b2c9a21e6d2.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4400,
+                    "url": "https://media.sketchfab.com/avatars/8efa415087b84b2da0458e1b2eac17a0/caf778bf252f4ca4b596350e80b8fee6.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9107,
+                    "url": "https://media.sketchfab.com/avatars/8efa415087b84b2da0458e1b2eac17a0/604a713e06e34352ac69890346583b66.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10052,
+                    "url": "https://media.sketchfab.com/avatars/8efa415087b84b2da0458e1b2eac17a0/995b0735370947549339ccd8850e21ee.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f83459ef68554352bd36c5026bf4f3d7"
+    },
+    "vertexCount": 8938,
+    "viewCount": 119,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-3d-printable-industrial-chemical-plant-0e5c86f3ebf94b90b0f95b6b31007e29",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Description: A versatile, low-poly stylized Chemical Plant model featuring industrial smokestacks, reinforced silos, and glowing green vats. This asset is specifically designed for multi-purpose use, ranging from 3D printing for tabletop gaming to digital environment dioramas.\n\nThe structure is built on a solid foundation base, making it ideal for physical printing without needing complex supports for the main body. Its distinct silhouette and \"toxic\" green accents make it a perfect fit for sci-fi, post-apocalyptic, or modern industrial settings.\n\nOptimized for 3D Printing: Sturdy geometry suitable for resin or FDM printing.\n\nDesign: Stylized industrial aesthetic with glowing windows and chemical containers.\n\nApplications: Perfect for Warhammer 40k terrain, Star Wars Legion, D&D dioramas, or game engine background assets.\n\nFeatures: Multiple levels, rooftop pipes, and a integrated baseplate for easy placement in scenes.",
+    "price": null,
+    "downloadCount": 13,
+    "editorUrl": "https://sketchfab.com/models/0e5c86f3ebf94b90b0f95b6b31007e29/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-13T17:55:23.279134",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,69 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Dark",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient",
+            "score": 0.6
+        },
+        {
+            "name": "Rustic",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic Art",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        },
+        {
+            "name": "Rusted",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Weathered",
+        "Dusty",
+        "Cracked",
+        "Faded"
+    ],
+    "tags": [
+        "skeleton",
+        "knight",
+        "armor",
+        "rusted",
+        "fantasy",
+        "dark",
+        "gothic",
+        "character"
+    ],
+    "model_id_full": "41365aa30af94f60adb9a15240ae0562_Rusted Skeleton Knight",
+    "sketchfab_id": "41365aa30af94f60adb9a15240ae0562",
+    "asset_name": "Rusted Skeleton Knight"
+}

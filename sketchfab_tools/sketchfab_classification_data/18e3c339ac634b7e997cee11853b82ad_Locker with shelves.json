@@ -1,0 +1,69 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Victorian",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.6
+        },
+        {
+            "name": "Baroque",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Realistic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Polished",
+        "Dusty",
+        "Rustic",
+        "Mossy"
+    ],
+    "tags": [
+        "wooden",
+        "bookshelf",
+        "cabinet",
+        "shelf",
+        "furniture",
+        "library",
+        "antique",
+        "corner"
+    ],
+    "model_id_full": "18e3c339ac634b7e997cee11853b82ad_Locker with shelves",
+    "sketchfab_id": "18e3c339ac634b7e997cee11853b82ad",
+    "asset_name": "Locker with shelves"
+}

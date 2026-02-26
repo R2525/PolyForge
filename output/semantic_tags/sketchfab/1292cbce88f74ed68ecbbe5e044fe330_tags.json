@@ -1,0 +1,40 @@
+{
+    "category": "Cars & Vehicles",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.8
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.6
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "car",
+        "blue",
+        "model"
+    ]
+}

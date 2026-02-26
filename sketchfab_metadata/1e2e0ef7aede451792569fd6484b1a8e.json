@@ -1,0 +1,206 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T20:40:04.229099",
+    "embedUrl": "https://sketchfab.com/models/1e2e0ef7aede451792569fd6484b1a8e/embed",
+    "faceCount": 33054,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Uncovice Manor House",
+    "publishedAt": "2026-02-17T20:50:47.877390",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "manor",
+            "slug": "manor",
+            "uri": "https://api.sketchfab.com/v3/tags/manor"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "manorhouse",
+            "slug": "manorhouse",
+            "uri": "https://api.sketchfab.com/v3/tags/manorhouse"
+        },
+        {
+            "name": "reconstruction",
+            "slug": "reconstruction",
+            "uri": "https://api.sketchfab.com/v3/tags/reconstruction"
+        },
+        {
+            "name": "manor-house",
+            "slug": "manor-house",
+            "uri": "https://api.sketchfab.com/v3/tags/manor-house"
+        },
+        {
+            "name": "czech-republic",
+            "slug": "czech-republic",
+            "uri": "https://api.sketchfab.com/v3/tags/czech-republic"
+        },
+        {
+            "name": "realitycapture",
+            "slug": "realitycapture",
+            "uri": "https://api.sketchfab.com/v3/tags/realitycapture"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "realityscan",
+            "slug": "realityscan",
+            "uri": "https://api.sketchfab.com/v3/tags/realityscan"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "188f44de97f74b139aa085f79414e935",
+                "width": 1920,
+                "height": 1080,
+                "size": 139276,
+                "url": "https://media.sketchfab.com/models/1e2e0ef7aede451792569fd6484b1a8e/thumbnails/ceb4bacbe46c46f0a9c11351aab43559/d0b57b2b6b9146ccb258cdf35137b73d.jpeg"
+            },
+            {
+                "uid": "8206aa4fd8d846b1acdded66cd347dfc",
+                "width": 1024,
+                "height": 576,
+                "size": 27621,
+                "url": "https://media.sketchfab.com/models/1e2e0ef7aede451792569fd6484b1a8e/thumbnails/ceb4bacbe46c46f0a9c11351aab43559/44241502e77d418391054f831bd6e470.jpeg"
+            },
+            {
+                "uid": "cd6f7caf3d1a4c24bf6dd9890b74bb2c",
+                "width": 720,
+                "height": 405,
+                "size": 16400,
+                "url": "https://media.sketchfab.com/models/1e2e0ef7aede451792569fd6484b1a8e/thumbnails/ceb4bacbe46c46f0a9c11351aab43559/a85f7ae28c4f4b52a0454fec913acf6f.jpeg"
+            },
+            {
+                "uid": "486cd7512ad742248966421f71b0ca18",
+                "width": 256,
+                "height": 144,
+                "size": 3985,
+                "url": "https://media.sketchfab.com/models/1e2e0ef7aede451792569fd6484b1a8e/thumbnails/ceb4bacbe46c46f0a9c11351aab43559/760ab1171a104bf280a47d288d5f63fa.jpeg"
+            },
+            {
+                "uid": "42ad8b74c58d461bb9c6fbfef0a39148",
+                "width": 64,
+                "height": 36,
+                "size": 1109,
+                "url": "https://media.sketchfab.com/models/1e2e0ef7aede451792569fd6484b1a8e/thumbnails/ceb4bacbe46c46f0a9c11351aab43559/35a57033ed634648a77458e2da620fcf.jpeg"
+            }
+        ]
+    },
+    "uid": "1e2e0ef7aede451792569fd6484b1a8e",
+    "uri": "https://api.sketchfab.com/v3/models/1e2e0ef7aede451792569fd6484b1a8e",
+    "user": {
+        "uid": "e0d091f76e024f73ac3018ccf5b4017f",
+        "username": "minesurfer97",
+        "displayName": "David Spáčil",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/minesurfer97",
+        "avatar": {
+            "uid": "8818edc4b90c425eaada15cf33983471",
+            "uri": "https://api.sketchfab.com/v3/avatars/8818edc4b90c425eaada15cf33983471",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 889,
+                    "url": "https://media.sketchfab.com/avatars/8818edc4b90c425eaada15cf33983471/7c0a3ef11acb4e2598278127787625c8.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1110,
+                    "url": "https://media.sketchfab.com/avatars/8818edc4b90c425eaada15cf33983471/526352ffb984464b8c304bb0f9f319cf.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2017,
+                    "url": "https://media.sketchfab.com/avatars/8818edc4b90c425eaada15cf33983471/e1d651e6815c40c186fd485ba73db2e6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2254,
+                    "url": "https://media.sketchfab.com/avatars/8818edc4b90c425eaada15cf33983471/b1e2be9de51946fa9314ea669e8ee5fb.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e0d091f76e024f73ac3018ccf5b4017f"
+    },
+    "vertexCount": 16491,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/uncovice-manor-house-1e2e0ef7aede451792569fd6484b1a8e",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Decorative (and idealised) model of Uncovice manor house. The manor house itself was built in the 14th century, and it was reconstructed in rennaissance manner in the 16th century. Today, it serves as an office building for an agricultural cooperative.\n\nI originally created the model using photogrammetry for the \"[Můj dům, můj hrad](https://mujdummujhrad.upol.cz/)\" project, and then I optimised it (redid it from scratch) for 3D printing in Blender. The model is 1% the original scale.\n\nSee the model at [Printables](https://www.printables.com/model/1591362-uncovice-manor-house) as well.",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/1e2e0ef7aede451792569fd6484b1a8e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-17T20:51:30.311122",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

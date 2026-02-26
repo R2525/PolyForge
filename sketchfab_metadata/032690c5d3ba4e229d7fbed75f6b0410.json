@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T02:57:42.536589",
+    "embedUrl": "https://sketchfab.com/models/032690c5d3ba4e229d7fbed75f6b0410/embed",
+    "faceCount": 2132,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Stylized Meat Shield",
+    "publishedAt": "2026-02-25T03:01:07.764793",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "whimsical",
+            "slug": "whimsical",
+            "uri": "https://api.sketchfab.com/v3/tags/whimsical"
+        },
+        {
+            "name": "3dwork",
+            "slug": "3dwork",
+            "uri": "https://api.sketchfab.com/v3/tags/3dwork"
+        },
+        {
+            "name": "wowweapon",
+            "slug": "wowweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/wowweapon"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "handpainted",
+            "slug": "handpainted",
+            "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6663ed065a6541e7b2cff222c1647910",
+                "width": 1920,
+                "height": 1080,
+                "size": 87083,
+                "url": "https://media.sketchfab.com/models/032690c5d3ba4e229d7fbed75f6b0410/thumbnails/219ff116b84f49e68009e17e959805a1/69ca2d569ada40fa93f369dee60f3d4c.jpeg"
+            },
+            {
+                "uid": "74e6222fe13d496f9a6724b391657fc1",
+                "width": 1024,
+                "height": 576,
+                "size": 28010,
+                "url": "https://media.sketchfab.com/models/032690c5d3ba4e229d7fbed75f6b0410/thumbnails/219ff116b84f49e68009e17e959805a1/5f70ff5cc1ed4217986d82adaa5aa7f9.jpeg"
+            },
+            {
+                "uid": "0360212cb63349028bff65dfb93c4657",
+                "width": 720,
+                "height": 405,
+                "size": 16361,
+                "url": "https://media.sketchfab.com/models/032690c5d3ba4e229d7fbed75f6b0410/thumbnails/219ff116b84f49e68009e17e959805a1/65f860cc5e394e35aad15461379497d4.jpeg"
+            },
+            {
+                "uid": "4c3fa1d627a2428b9a59064b17ccf2e8",
+                "width": 256,
+                "height": 144,
+                "size": 3385,
+                "url": "https://media.sketchfab.com/models/032690c5d3ba4e229d7fbed75f6b0410/thumbnails/219ff116b84f49e68009e17e959805a1/eb003dd886c44008a52c7b533c761c5a.jpeg"
+            },
+            {
+                "uid": "8f0fa72818b44ebda47d4e467e3f94a2",
+                "width": 64,
+                "height": 36,
+                "size": 940,
+                "url": "https://media.sketchfab.com/models/032690c5d3ba4e229d7fbed75f6b0410/thumbnails/219ff116b84f49e68009e17e959805a1/c81b4ed85f544b26b752fc72281f63ed.jpeg"
+            }
+        ]
+    },
+    "uid": "032690c5d3ba4e229d7fbed75f6b0410",
+    "uri": "https://api.sketchfab.com/v3/models/032690c5d3ba4e229d7fbed75f6b0410",
+    "user": {
+        "uid": "474a7a57c3b14ecba5dcd3563fb4a776",
+        "username": "kirksy",
+        "displayName": "kirksy",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kirksy",
+        "avatar": {
+            "uid": "0e0bff4299794c8681df8c24e0ae0630",
+            "uri": "https://api.sketchfab.com/v3/avatars/0e0bff4299794c8681df8c24e0ae0630",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1076,
+                    "url": "https://media.sketchfab.com/avatars/0e0bff4299794c8681df8c24e0ae0630/e8cd630d3d634d3cbee575c15e6a310a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1503,
+                    "url": "https://media.sketchfab.com/avatars/0e0bff4299794c8681df8c24e0ae0630/b60088899fa74296833805efafcd8a9d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2968,
+                    "url": "https://media.sketchfab.com/avatars/0e0bff4299794c8681df8c24e0ae0630/7a897b02c9f44528aed8682cfd759171.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3282,
+                    "url": "https://media.sketchfab.com/avatars/0e0bff4299794c8681df8c24e0ae0630/158b33f8dba24357af14cba6a78f1de8.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/474a7a57c3b14ecba5dcd3563fb4a776"
+    },
+    "vertexCount": 1113,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-meat-shield-032690c5d3ba4e229d7fbed75f6b0410",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Modelled in Maya, textured and hand-painted in Substance Painter/Procreate.\nInspired by Riot/Blizzard hand-painting techniques.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/032690c5d3ba4e229d7fbed75f6b0410/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T03:01:07.906196",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

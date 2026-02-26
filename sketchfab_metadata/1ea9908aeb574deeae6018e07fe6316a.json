@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-04T23:28:11.324414",
+    "embedUrl": "https://sketchfab.com/models/1ea9908aeb574deeae6018e07fe6316a/embed",
+    "faceCount": 3706,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "War helmet",
+    "publishedAt": "2026-02-04T23:29:12.770797",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3771ab1517064fa38dbb17f21a77bde8",
+                "width": 1920,
+                "height": 1080,
+                "size": 77984,
+                "url": "https://media.sketchfab.com/models/1ea9908aeb574deeae6018e07fe6316a/thumbnails/182ca901b59b4dedbc1353920c12ade2/2d35f37499d94a7b969caa7c71abafc9.jpeg"
+            },
+            {
+                "uid": "ce8b05ec73e94a95866a599a290e6cea",
+                "width": 1024,
+                "height": 576,
+                "size": 27535,
+                "url": "https://media.sketchfab.com/models/1ea9908aeb574deeae6018e07fe6316a/thumbnails/182ca901b59b4dedbc1353920c12ade2/9f75b85e2d92487d9dfbf29da27f6c71.jpeg"
+            },
+            {
+                "uid": "6ba1bd5329e74e7d9886f8b7450cde90",
+                "width": 720,
+                "height": 405,
+                "size": 16108,
+                "url": "https://media.sketchfab.com/models/1ea9908aeb574deeae6018e07fe6316a/thumbnails/182ca901b59b4dedbc1353920c12ade2/348c79888b0342f695293e70c8fc095b.jpeg"
+            },
+            {
+                "uid": "ef5ba9104da64206bdad57fd499ce96f",
+                "width": 256,
+                "height": 144,
+                "size": 3935,
+                "url": "https://media.sketchfab.com/models/1ea9908aeb574deeae6018e07fe6316a/thumbnails/182ca901b59b4dedbc1353920c12ade2/09d78e39e413475394f5d4d6f769121f.jpeg"
+            },
+            {
+                "uid": "9af778e2538b450c8dbc857f71eb688c",
+                "width": 64,
+                "height": 36,
+                "size": 1066,
+                "url": "https://media.sketchfab.com/models/1ea9908aeb574deeae6018e07fe6316a/thumbnails/182ca901b59b4dedbc1353920c12ade2/e20ba5cb7c2f44c78210cf4b6b64c37c.jpeg"
+            }
+        ]
+    },
+    "uid": "1ea9908aeb574deeae6018e07fe6316a",
+    "uri": "https://api.sketchfab.com/v3/models/1ea9908aeb574deeae6018e07fe6316a",
+    "user": {
+        "uid": "54cf33111e9c45dfab4ae92de801bbb5",
+        "username": "nootella",
+        "displayName": "nootella",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/nootella",
+        "avatar": {
+            "uid": "40b95bab12a04be89ae62dc9763adc74",
+            "uri": "https://api.sketchfab.com/v3/avatars/40b95bab12a04be89ae62dc9763adc74",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2446,
+                    "url": "https://media.sketchfab.com/avatars/40b95bab12a04be89ae62dc9763adc74/5f3a98b373ae4b1aa9e414c482e94751.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5105,
+                    "url": "https://media.sketchfab.com/avatars/40b95bab12a04be89ae62dc9763adc74/93cec6cd8ffc4a099618280f759bbf49.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16566,
+                    "url": "https://media.sketchfab.com/avatars/40b95bab12a04be89ae62dc9763adc74/d4894829061f421bb5f7c08991813bb8.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 20102,
+                    "url": "https://media.sketchfab.com/avatars/40b95bab12a04be89ae62dc9763adc74/e7c16e4acd4a405c94b121822cdc4c87.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/54cf33111e9c45dfab4ae92de801bbb5"
+    },
+    "vertexCount": 1853,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/war-helmet-1ea9908aeb574deeae6018e07fe6316a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "another small project",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1ea9908aeb574deeae6018e07fe6316a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-05T08:12:39.706601",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,221 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T18:15:27.613235",
+    "embedUrl": "https://sketchfab.com/models/327f940c2c6f4e50a521e58561535eda/embed",
+    "faceCount": 1984210,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Clockwork Rider",
+    "publishedAt": "2026-02-24T18:16:18.663670",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "vintage",
+            "slug": "vintage",
+            "uri": "https://api.sketchfab.com/v3/tags/vintage"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "motorcycle",
+            "slug": "motorcycle",
+            "uri": "https://api.sketchfab.com/v3/tags/motorcycle"
+        },
+        {
+            "name": "headgear",
+            "slug": "headgear",
+            "uri": "https://api.sketchfab.com/v3/tags/headgear"
+        },
+        {
+            "name": "ride",
+            "slug": "ride",
+            "uri": "https://api.sketchfab.com/v3/tags/ride"
+        },
+        {
+            "name": "tricycle",
+            "slug": "tricycle",
+            "uri": "https://api.sketchfab.com/v3/tags/tricycle"
+        },
+        {
+            "name": "woman",
+            "slug": "woman",
+            "uri": "https://api.sketchfab.com/v3/tags/woman"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "city",
+            "slug": "city",
+            "uri": "https://api.sketchfab.com/v3/tags/city"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "645b758d2ebd4f2e8e73e807ebc4bcc6",
+                "width": 1920,
+                "height": 1080,
+                "size": 88964,
+                "url": "https://media.sketchfab.com/models/327f940c2c6f4e50a521e58561535eda/thumbnails/46aa0b874f3c4129a0372dfadb915b34/22f301cdb96548bf9af208092b913925.jpeg"
+            },
+            {
+                "uid": "68b83179635f4938968f208f74be15c6",
+                "width": 1024,
+                "height": 576,
+                "size": 28538,
+                "url": "https://media.sketchfab.com/models/327f940c2c6f4e50a521e58561535eda/thumbnails/46aa0b874f3c4129a0372dfadb915b34/3197561957674923b0af7e8c03762acd.jpeg"
+            },
+            {
+                "uid": "35b62f1254504aafae5a87b8ac38c224",
+                "width": 720,
+                "height": 405,
+                "size": 15978,
+                "url": "https://media.sketchfab.com/models/327f940c2c6f4e50a521e58561535eda/thumbnails/46aa0b874f3c4129a0372dfadb915b34/1b1bf0c5699f4183a1085d1125635182.jpeg"
+            },
+            {
+                "uid": "c191e281541d4b4d8bd4cd28fd083261",
+                "width": 256,
+                "height": 144,
+                "size": 2962,
+                "url": "https://media.sketchfab.com/models/327f940c2c6f4e50a521e58561535eda/thumbnails/46aa0b874f3c4129a0372dfadb915b34/4cbd0a44e80b4df795e7c4e722e1dd50.jpeg"
+            },
+            {
+                "uid": "7a68b4cd6b96441aa6fb74f26947b552",
+                "width": 64,
+                "height": 36,
+                "size": 845,
+                "url": "https://media.sketchfab.com/models/327f940c2c6f4e50a521e58561535eda/thumbnails/46aa0b874f3c4129a0372dfadb915b34/1706f9236a704703a81effc455e39940.jpeg"
+            }
+        ]
+    },
+    "uid": "327f940c2c6f4e50a521e58561535eda",
+    "uri": "https://api.sketchfab.com/v3/models/327f940c2c6f4e50a521e58561535eda",
+    "user": {
+        "uid": "6722833a13c24b54af9757e64201cbfe",
+        "username": "kmkrtchyan70",
+        "displayName": "Ded Makar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kmkrtchyan70",
+        "avatar": {
+            "uid": "e426f8f1bdcc46e0a45fa572af73859a",
+            "uri": "https://api.sketchfab.com/v3/avatars/e426f8f1bdcc46e0a45fa572af73859a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1182,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/efb9a0da56c64d7b8c866671a862673a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1673,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01b13b16a4c84c0da2a7b25e9d870279.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3615,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/883afddce77a4ecf9d2d26c8dc259872.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4214,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01042899c933428d8a46f9387a1c5717.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6722833a13c24b54af9757e64201cbfe"
+    },
+    "vertexCount": 991549,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/clockwork-rider-327f940c2c6f4e50a521e58561535eda",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Clockwork-Rider-v2-019c9084-72e6-79a2-9c00-a08e6e6a0b24?utm_source=sketchfab](https://www.meshy.ai/3d-models/Clockwork-Rider-v2-019c9084-72e6-79a2-9c00-a08e6e6a0b24?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/327f940c2c6f4e50a521e58561535eda/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T18:26:20.374754",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-13T17:37:17.837854",
+    "embedUrl": "https://sketchfab.com/models/430713afd1144d81b335b25bd391bc92/embed",
+    "faceCount": 1390125,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "The White Castle",
+    "publishedAt": "2026-02-13T17:38:30.414853",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "medievalfantasyassets",
+            "slug": "medievalfantasyassets",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalfantasyassets"
+        },
+        {
+            "name": "highfantasy",
+            "slug": "highfantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/highfantasy"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a75ff19220d34df49c3576fb2d13fe96",
+                "width": 1920,
+                "height": 1080,
+                "size": 88259,
+                "url": "https://media.sketchfab.com/models/430713afd1144d81b335b25bd391bc92/thumbnails/f932da87c98541db860d7df3a95a22f2/c141a777dc9b47bd96b97b3af92029d7.jpeg"
+            },
+            {
+                "uid": "03a3b3bbb09845a6949d9dc48cb6e789",
+                "width": 1024,
+                "height": 576,
+                "size": 27546,
+                "url": "https://media.sketchfab.com/models/430713afd1144d81b335b25bd391bc92/thumbnails/f932da87c98541db860d7df3a95a22f2/fed3d54678bc4dfc90b28260c9662d6a.jpeg"
+            },
+            {
+                "uid": "36e5717c10764d16a753f8bbeff49529",
+                "width": 720,
+                "height": 405,
+                "size": 15432,
+                "url": "https://media.sketchfab.com/models/430713afd1144d81b335b25bd391bc92/thumbnails/f932da87c98541db860d7df3a95a22f2/322ec09bb5df4ce6b7dbe47b499144b4.jpeg"
+            },
+            {
+                "uid": "e0345f21246c49c58a6ce1d36970f61e",
+                "width": 256,
+                "height": 144,
+                "size": 2991,
+                "url": "https://media.sketchfab.com/models/430713afd1144d81b335b25bd391bc92/thumbnails/f932da87c98541db860d7df3a95a22f2/754168c91bad4a16a8c4d3be68fba04f.jpeg"
+            },
+            {
+                "uid": "cfa99364f04741a3b0e074a6f30f8687",
+                "width": 64,
+                "height": 36,
+                "size": 876,
+                "url": "https://media.sketchfab.com/models/430713afd1144d81b335b25bd391bc92/thumbnails/f932da87c98541db860d7df3a95a22f2/a0cbf5bf17f940358c6a7cc0c9807d1a.jpeg"
+            }
+        ]
+    },
+    "uid": "430713afd1144d81b335b25bd391bc92",
+    "uri": "https://api.sketchfab.com/v3/models/430713afd1144d81b335b25bd391bc92",
+    "user": {
+        "uid": "f7d7a894e7c5450e9acd9933a5ccacf6",
+        "username": "Tallon_arts",
+        "displayName": "Tallon_Arts",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Tallon_arts",
+        "avatar": {
+            "uid": "3b6eaae58c1441fc9364b0e2a75134fd",
+            "uri": "https://api.sketchfab.com/v3/avatars/3b6eaae58c1441fc9364b0e2a75134fd",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2655,
+                    "url": "https://media.sketchfab.com/avatars/3b6eaae58c1441fc9364b0e2a75134fd/567a3333d2b24d99b0279e77a069e491.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2283,
+                    "url": "https://media.sketchfab.com/avatars/3b6eaae58c1441fc9364b0e2a75134fd/0bdb61420854472590dc2cf5b03cf47f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 915,
+                    "url": "https://media.sketchfab.com/avatars/3b6eaae58c1441fc9364b0e2a75134fd/c11d63f4dae34a3e84f3ba095a3a9029.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 628,
+                    "url": "https://media.sketchfab.com/avatars/3b6eaae58c1441fc9364b0e2a75134fd/8cd2d72bf78844cb82460321a0bfaf2a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f7d7a894e7c5450e9acd9933a5ccacf6"
+    },
+    "vertexCount": 695330,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-white-castle-430713afd1144d81b335b25bd391bc92",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is the White Castle, bastion of Golka\n\n\nThis model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/fhRAgF](https://www.meshy.ai/s/fhRAgF)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/430713afd1144d81b335b25bd391bc92/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-13T17:45:29.691234",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

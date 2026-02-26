@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T21:31:04.229920",
+    "embedUrl": "https://sketchfab.com/models/142547ec1eec45ee97460ffd0b876a58/embed",
+    "faceCount": 64208,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Viking Shield",
+    "publishedAt": "2026-02-20T21:32:41.042315",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "defense",
+            "slug": "defense",
+            "uri": "https://api.sketchfab.com/v3/tags/defense"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "war",
+            "slug": "war",
+            "uri": "https://api.sketchfab.com/v3/tags/war"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        },
+        {
+            "name": "history",
+            "slug": "history",
+            "uri": "https://api.sketchfab.com/v3/tags/history"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0b66d556ad954381910db02a89afd064",
+                "width": 1920,
+                "height": 1080,
+                "size": 35844,
+                "url": "https://media.sketchfab.com/models/142547ec1eec45ee97460ffd0b876a58/thumbnails/4e9c351c9fd04287a3ad2880a795e140/5adf0e9df3db4b83b42b5d9f3cd6bb18.jpeg"
+            },
+            {
+                "uid": "96e53c062cc9462bb654b2852fc3ddc5",
+                "width": 1024,
+                "height": 576,
+                "size": 11151,
+                "url": "https://media.sketchfab.com/models/142547ec1eec45ee97460ffd0b876a58/thumbnails/4e9c351c9fd04287a3ad2880a795e140/05b36fe0bb554e78afc30553b6a4b08c.jpeg"
+            },
+            {
+                "uid": "112487d1a01844fe958d878d73fee96a",
+                "width": 720,
+                "height": 405,
+                "size": 6244,
+                "url": "https://media.sketchfab.com/models/142547ec1eec45ee97460ffd0b876a58/thumbnails/4e9c351c9fd04287a3ad2880a795e140/357786fa45c840229eaaa47cb3afe673.jpeg"
+            },
+            {
+                "uid": "0bce428e5be24de295070b299c4ff925",
+                "width": 256,
+                "height": 144,
+                "size": 1516,
+                "url": "https://media.sketchfab.com/models/142547ec1eec45ee97460ffd0b876a58/thumbnails/4e9c351c9fd04287a3ad2880a795e140/98f61c6eaf4c4a359bef2a9140cee07c.jpeg"
+            },
+            {
+                "uid": "1678611e11ef45a9b3483975d4c6fee6",
+                "width": 64,
+                "height": 36,
+                "size": 749,
+                "url": "https://media.sketchfab.com/models/142547ec1eec45ee97460ffd0b876a58/thumbnails/4e9c351c9fd04287a3ad2880a795e140/d31a12141cb6498e9d67e460d98fce19.jpeg"
+            }
+        ]
+    },
+    "uid": "142547ec1eec45ee97460ffd0b876a58",
+    "uri": "https://api.sketchfab.com/v3/models/142547ec1eec45ee97460ffd0b876a58",
+    "user": {
+        "uid": "37d356d0bee44b6494f528f41b261ae9",
+        "username": "cclement_allen",
+        "displayName": "cclement_allen",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/cclement_allen",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/37d356d0bee44b6494f528f41b261ae9"
+    },
+    "vertexCount": 32979,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/viking-shield-142547ec1eec45ee97460ffd0b876a58",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the Original format.The viewer version is intended only for use in the web viewer. In the Original format, the following are fully preserved:✔ original scene hierarchy✔ unsimplified materials✔ accurate texture maps✔ correct object namesIf you are going to integrate the model into a project, download the original version.This pack includes two 3D models of Viking shields perfect for adding a touch of Norse flair to your game projects animations or historical renders.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/142547ec1eec45ee97460ffd0b876a58/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T21:32:41.268047",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

@@ -1,0 +1,145 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-16T12:43:16.531525",
+    "embedUrl": "https://sketchfab.com/models/3d31ce0495734210895cda984ab58520/embed",
+    "faceCount": 16695,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Medieval House",
+    "publishedAt": "2025-12-16T12:49:15.003032",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d917f2ca0ea441cb8c6011bc8e016997",
+                "width": 1920,
+                "height": 1080,
+                "size": 120778,
+                "url": "https://media.sketchfab.com/models/3d31ce0495734210895cda984ab58520/thumbnails/9f5522848c89400e98a2a11c2bbc8b3b/a70944432eea40a1b3bdfd3e661ada78.jpeg"
+            },
+            {
+                "uid": "1ea9c8f06a4c4be99baddc5b43dc15ce",
+                "width": 1024,
+                "height": 576,
+                "size": 39266,
+                "url": "https://media.sketchfab.com/models/3d31ce0495734210895cda984ab58520/thumbnails/9f5522848c89400e98a2a11c2bbc8b3b/bbe231607fe745259d6e46bd93a38479.jpeg"
+            },
+            {
+                "uid": "b91d4a678f814530b52c489491b5b551",
+                "width": 720,
+                "height": 405,
+                "size": 22670,
+                "url": "https://media.sketchfab.com/models/3d31ce0495734210895cda984ab58520/thumbnails/9f5522848c89400e98a2a11c2bbc8b3b/1ba10e609dbd4832abb307e32cfec20f.jpeg"
+            },
+            {
+                "uid": "b456f47f096f4d8c93a3df4e7f0ba958",
+                "width": 256,
+                "height": 144,
+                "size": 4795,
+                "url": "https://media.sketchfab.com/models/3d31ce0495734210895cda984ab58520/thumbnails/9f5522848c89400e98a2a11c2bbc8b3b/a655b291244e4e8e93b85a65209626a4.jpeg"
+            },
+            {
+                "uid": "d8fd49a57a1b4846a283c03a8502c608",
+                "width": 64,
+                "height": 36,
+                "size": 1099,
+                "url": "https://media.sketchfab.com/models/3d31ce0495734210895cda984ab58520/thumbnails/9f5522848c89400e98a2a11c2bbc8b3b/54c791bd880a48be86ae64d2940ae7a6.jpeg"
+            }
+        ]
+    },
+    "uid": "3d31ce0495734210895cda984ab58520",
+    "uri": "https://api.sketchfab.com/v3/models/3d31ce0495734210895cda984ab58520",
+    "user": {
+        "uid": "39f327e87d4745c68f9ff2e6816ba762",
+        "username": "AsaKyura",
+        "displayName": "AsaKyura",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/AsaKyura",
+        "avatar": {
+            "uid": "8a1f74a26df24d5297ceb5ed60dde0af",
+            "uri": "https://api.sketchfab.com/v3/avatars/8a1f74a26df24d5297ceb5ed60dde0af",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1044,
+                    "url": "https://media.sketchfab.com/avatars/8a1f74a26df24d5297ceb5ed60dde0af/91e703e2f1984bb6bda64ed054136497.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1468,
+                    "url": "https://media.sketchfab.com/avatars/8a1f74a26df24d5297ceb5ed60dde0af/e098de3041624b7f9c008a3c1dfbfd77.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3289,
+                    "url": "https://media.sketchfab.com/avatars/8a1f74a26df24d5297ceb5ed60dde0af/f35c1d324d4c4bcd9c5280891e88026e.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3853,
+                    "url": "https://media.sketchfab.com/avatars/8a1f74a26df24d5297ceb5ed60dde0af/d9b5624ae6b74167b78fe9ca0b886b2f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/39f327e87d4745c68f9ff2e6816ba762"
+    },
+    "vertexCount": 12458,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-house-3d31ce0495734210895cda984ab58520",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "this is a Simple Medieval House",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3d31ce0495734210895cda984ab58520/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-16T12:49:30.821712",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 3
+}

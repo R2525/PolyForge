@@ -1,0 +1,204 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T13:01:10.185047",
+    "embedUrl": "https://sketchfab.com/models/0553405ee41448928f2053425abc97d7/embed",
+    "faceCount": 3948,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Low Poly Sci-Fi Target Dummy",
+    "publishedAt": "2026-02-20T13:02:22.726292",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "hard-surface",
+            "slug": "hard-surface",
+            "uri": "https://api.sketchfab.com/v3/tags/hard-surface"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "space-station",
+            "slug": "space-station",
+            "uri": "https://api.sketchfab.com/v3/tags/space-station"
+        },
+        {
+            "name": "shooting-range",
+            "slug": "shooting-range",
+            "uri": "https://api.sketchfab.com/v3/tags/shooting-range"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "target-dummy",
+            "slug": "target-dummy",
+            "uri": "https://api.sketchfab.com/v3/tags/target-dummy"
+        },
+        {
+            "name": "combat-prop",
+            "slug": "combat-prop",
+            "uri": "https://api.sketchfab.com/v3/tags/combat-prop"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a1399366027b4dfe8c52566f4b9fe5fd",
+                "width": 1920,
+                "height": 1080,
+                "size": 93046,
+                "url": "https://media.sketchfab.com/models/0553405ee41448928f2053425abc97d7/thumbnails/564122d196f44ff2890ec719e4fb6411/499d82961d884a39a5a0a92d66d29ecc.jpeg"
+            },
+            {
+                "uid": "7acd7fd9ec86432ba1e0d5d499fecf94",
+                "width": 1024,
+                "height": 576,
+                "size": 34286,
+                "url": "https://media.sketchfab.com/models/0553405ee41448928f2053425abc97d7/thumbnails/564122d196f44ff2890ec719e4fb6411/28ed1b10fba44d6ea0c4df580ac9b2cd.jpeg"
+            },
+            {
+                "uid": "6176c1aba4174ad3a0710e3ef047b578",
+                "width": 720,
+                "height": 405,
+                "size": 20634,
+                "url": "https://media.sketchfab.com/models/0553405ee41448928f2053425abc97d7/thumbnails/564122d196f44ff2890ec719e4fb6411/a4a5070200b14d17b8d9b117ad1ceaf9.jpeg"
+            },
+            {
+                "uid": "d24dd3ada8a845dba20861389e349670",
+                "width": 256,
+                "height": 144,
+                "size": 4672,
+                "url": "https://media.sketchfab.com/models/0553405ee41448928f2053425abc97d7/thumbnails/564122d196f44ff2890ec719e4fb6411/5b5ac4c651384ba1865bbe5bacc4961a.jpeg"
+            },
+            {
+                "uid": "bfab672b57f2440a835c2d8ca681c19f",
+                "width": 64,
+                "height": 36,
+                "size": 1104,
+                "url": "https://media.sketchfab.com/models/0553405ee41448928f2053425abc97d7/thumbnails/564122d196f44ff2890ec719e4fb6411/4bdcd92e0f7d41d7b3a6cbcdddcffa45.jpeg"
+            }
+        ]
+    },
+    "uid": "0553405ee41448928f2053425abc97d7",
+    "uri": "https://api.sketchfab.com/v3/models/0553405ee41448928f2053425abc97d7",
+    "user": {
+        "uid": "1deffb1de4104c2f8a36e3a60018ca6c",
+        "username": "ozeastudio",
+        "displayName": "Ozea Studio",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ozeastudio",
+        "avatar": {
+            "uid": "b05a9490eede47aeb0ae1c79dc946e49",
+            "uri": "https://api.sketchfab.com/v3/avatars/b05a9490eede47aeb0ae1c79dc946e49",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1083,
+                    "url": "https://media.sketchfab.com/avatars/b05a9490eede47aeb0ae1c79dc946e49/8cf24c79beb74df6b69685e7eb4f383e.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1456,
+                    "url": "https://media.sketchfab.com/avatars/b05a9490eede47aeb0ae1c79dc946e49/fa943dcadc454972b4001b15de7faed6.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3160,
+                    "url": "https://media.sketchfab.com/avatars/b05a9490eede47aeb0ae1c79dc946e49/0b350d50f55d46209965a02aaff1c089.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3830,
+                    "url": "https://media.sketchfab.com/avatars/b05a9490eede47aeb0ae1c79dc946e49/9f2e72b00c5349469007fa5ec5e30b4e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1deffb1de4104c2f8a36e3a60018ca6c"
+    },
+    "vertexCount": 2635,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-sci-fi-target-dummy-0553405ee41448928f2053425abc97d7",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A low-poly sci-fi target dummy designed for space stations, military training zones and futuristic combat environments.\n\nThe model features clean geometric shapes, reinforced impact surfaces and industrial structural details, making it suitable as a training prop, gameplay element or environmental decoration in sci-fi facilities, shooting ranges and survival bases.\n\nOptimized low-poly geometry ensures smooth performance in real-time engines such as Unity, Unreal Engine and Godot, while allowing easy integration into modular combat layouts.\n\nThe asset follows a consistent grey / cyan / orange sci-fi visual language, making it ideal for cohesive futuristic scene building.\n\nThis model is part of a larger modular sci-fi asset collection by Ozea Studio.\n\nTo find the full pack:\nozea-studio.itch.io",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0553405ee41448928f2053425abc97d7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T13:02:23.020299",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 5
+}

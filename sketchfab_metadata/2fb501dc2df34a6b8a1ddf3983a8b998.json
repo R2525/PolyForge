@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-11T02:00:06.193010",
+    "embedUrl": "https://sketchfab.com/models/2fb501dc2df34a6b8a1ddf3983a8b998/embed",
+    "faceCount": 536,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Lowpoly Sword",
+    "publishedAt": "2025-12-11T02:07:09.714356",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "leather",
+            "slug": "leather",
+            "uri": "https://api.sketchfab.com/v3/tags/leather"
+        },
+        {
+            "name": "demo",
+            "slug": "demo",
+            "uri": "https://api.sketchfab.com/v3/tags/demo"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "iron",
+            "slug": "iron",
+            "uri": "https://api.sketchfab.com/v3/tags/iron"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ec4e0e22b124435f92537596b22c39cb",
+                "width": 1920,
+                "height": 1080,
+                "size": 42761,
+                "url": "https://media.sketchfab.com/models/2fb501dc2df34a6b8a1ddf3983a8b998/thumbnails/1ef4279ab4a74b0281df0e5e045cfafb/5731d2fa4c104bc6a662a2b3d72b1d33.jpeg"
+            },
+            {
+                "uid": "2dfa52cd36cb4f6ba1694e3f9a555f41",
+                "width": 1024,
+                "height": 576,
+                "size": 14031,
+                "url": "https://media.sketchfab.com/models/2fb501dc2df34a6b8a1ddf3983a8b998/thumbnails/1ef4279ab4a74b0281df0e5e045cfafb/dd2c281c35554f3b94c9a8957c678add.jpeg"
+            },
+            {
+                "uid": "16e3164079894d2eafedbaacc15b007d",
+                "width": 720,
+                "height": 405,
+                "size": 8148,
+                "url": "https://media.sketchfab.com/models/2fb501dc2df34a6b8a1ddf3983a8b998/thumbnails/1ef4279ab4a74b0281df0e5e045cfafb/282d1cd1480046308f1cdeacfa2d368e.jpeg"
+            },
+            {
+                "uid": "0fc5a956c1784fa595ec9d2642d98073",
+                "width": 256,
+                "height": 144,
+                "size": 2020,
+                "url": "https://media.sketchfab.com/models/2fb501dc2df34a6b8a1ddf3983a8b998/thumbnails/1ef4279ab4a74b0281df0e5e045cfafb/d499f79510f04c2fba3c6df93ea7a781.jpeg"
+            },
+            {
+                "uid": "13f170080fc74ae18deb0e91ac68e6b7",
+                "width": 64,
+                "height": 36,
+                "size": 843,
+                "url": "https://media.sketchfab.com/models/2fb501dc2df34a6b8a1ddf3983a8b998/thumbnails/1ef4279ab4a74b0281df0e5e045cfafb/9cee2699ac6642fa980f349c46179f8e.jpeg"
+            }
+        ]
+    },
+    "uid": "2fb501dc2df34a6b8a1ddf3983a8b998",
+    "uri": "https://api.sketchfab.com/v3/models/2fb501dc2df34a6b8a1ddf3983a8b998",
+    "user": {
+        "uid": "eca18389b9f74e5a8e1168887b8b8a9e",
+        "username": "Flamenius",
+        "displayName": "Flamenius",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Flamenius",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/eca18389b9f74e5a8e1168887b8b8a9e"
+    },
+    "vertexCount": 275,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/lowpoly-sword-2fb501dc2df34a6b8a1ddf3983a8b998",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A demo that we did for our teacher, where we needed to studie how to work in maya and also learn how to texture models. Demo is a medieval sword made of iron, bronze and leather.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/2fb501dc2df34a6b8a1ddf3983a8b998/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-11T02:07:09.842829",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

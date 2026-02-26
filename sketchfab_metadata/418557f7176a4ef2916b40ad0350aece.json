@@ -1,0 +1,134 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T03:20:03.827711",
+    "embedUrl": "https://sketchfab.com/models/418557f7176a4ef2916b40ad0350aece/embed",
+    "faceCount": 7570,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "MIDTERMS_VITUG_GENEVIVE",
+    "publishedAt": "2026-02-22T03:20:29.574112",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b1dc992343a3455a937e7371d5ce8c61",
+                "width": 1920,
+                "height": 1080,
+                "size": 39010,
+                "url": "https://media.sketchfab.com/models/418557f7176a4ef2916b40ad0350aece/thumbnails/b65d81119c8d4b7ca8c3b38b6e9626c4/2b807149bcd240b7b6bb865adc4f98ba.jpeg"
+            },
+            {
+                "uid": "706a7c34d7564b24918db6c84ad98e61",
+                "width": 1024,
+                "height": 576,
+                "size": 12160,
+                "url": "https://media.sketchfab.com/models/418557f7176a4ef2916b40ad0350aece/thumbnails/b65d81119c8d4b7ca8c3b38b6e9626c4/d6ac007510fe4ea3a6a3d0a59d0607ed.jpeg"
+            },
+            {
+                "uid": "968b61ec1f414c1dbb4a58e08c8dead2",
+                "width": 720,
+                "height": 405,
+                "size": 6716,
+                "url": "https://media.sketchfab.com/models/418557f7176a4ef2916b40ad0350aece/thumbnails/b65d81119c8d4b7ca8c3b38b6e9626c4/c740c06a910b4d13b2e469888ecc8390.jpeg"
+            },
+            {
+                "uid": "05e428b4ab984433b81b98d3f51b2ff0",
+                "width": 256,
+                "height": 144,
+                "size": 1481,
+                "url": "https://media.sketchfab.com/models/418557f7176a4ef2916b40ad0350aece/thumbnails/b65d81119c8d4b7ca8c3b38b6e9626c4/0ac541ed2d73465f8f2d7a7f70e304e0.jpeg"
+            },
+            {
+                "uid": "0d5d36e055e64542bc7ae1da0f73439e",
+                "width": 64,
+                "height": 36,
+                "size": 726,
+                "url": "https://media.sketchfab.com/models/418557f7176a4ef2916b40ad0350aece/thumbnails/b65d81119c8d4b7ca8c3b38b6e9626c4/1ec01ab02e5f4175be6f88f04a6bcac0.jpeg"
+            }
+        ]
+    },
+    "uid": "418557f7176a4ef2916b40ad0350aece",
+    "uri": "https://api.sketchfab.com/v3/models/418557f7176a4ef2916b40ad0350aece",
+    "user": {
+        "uid": "813201c5e6414fc1b65cbf62996dc634",
+        "username": "Genevive79",
+        "displayName": "Genevive79",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Genevive79",
+        "avatar": {
+            "uid": "35e72d36cf3640088d350f2e69e740cd",
+            "uri": "https://api.sketchfab.com/v3/avatars/35e72d36cf3640088d350f2e69e740cd",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1120,
+                    "url": "https://media.sketchfab.com/avatars/35e72d36cf3640088d350f2e69e740cd/3039f551c52f485a8b038b36e330ecfb.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1435,
+                    "url": "https://media.sketchfab.com/avatars/35e72d36cf3640088d350f2e69e740cd/60d09702c9d54c9f904bfd4b3bf3d812.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2667,
+                    "url": "https://media.sketchfab.com/avatars/35e72d36cf3640088d350f2e69e740cd/d61815cab83845c5ac1e1d7353043896.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3021,
+                    "url": "https://media.sketchfab.com/avatars/35e72d36cf3640088d350f2e69e740cd/a245e4f7473845b58b67a26a55972a3e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/813201c5e6414fc1b65cbf62996dc634"
+    },
+    "vertexCount": 4108,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/midterms-vitug-genevive-418557f7176a4ef2916b40ad0350aece",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Part of midterm of my medical/influence grade gun inspired by the movie arcane\n\nIn this last plate for midterms focus on the look of the gun, this will explain the narratives and  thoughts on how the gun has been made, here you can see the low poly and details of the gun itself. Ark as the part of the new invention and part of the new innovation tech and weapon in Arcane world. \n\nMIDTeRMS_VITUG_GENEVIVE",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/418557f7176a4ef2916b40ad0350aece/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T03:20:52.527877",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

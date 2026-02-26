@@ -1,0 +1,69 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.95
+        },
+        {
+            "name": "Gothic",
+            "score": 0.85
+        },
+        {
+            "name": "Medieval",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Warrior",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.88
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.75
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Realistic",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Mossy"
+    ],
+    "tags": [
+        "helmet",
+        "ancient",
+        "military",
+        "medieval",
+        "warrior",
+        "3D model",
+        "warhead",
+        "armor"
+    ],
+    "model_id_full": "1c349718894e4223af5e1677242ee846_Tenosian Helmet",
+    "sketchfab_id": "1c349718894e4223af5e1677242ee846",
+    "asset_name": "Tenosian Helmet"
+}

@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-09T05:11:00.979972",
+    "embedUrl": "https://sketchfab.com/models/320395dc36924b2ab81a81b0e3ebac1c/embed",
+    "faceCount": 1836265,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Anvil and Tools",
+    "publishedAt": "2026-02-09T05:36:02.574172",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "forge",
+            "slug": "forge",
+            "uri": "https://api.sketchfab.com/v3/tags/forge"
+        },
+        {
+            "name": "anvil",
+            "slug": "anvil",
+            "uri": "https://api.sketchfab.com/v3/tags/anvil"
+        },
+        {
+            "name": "Smithy",
+            "slug": "smithy",
+            "uri": "https://api.sketchfab.com/v3/tags/smithy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1085eac6e6114191afc201923d74039b",
+                "width": 1920,
+                "height": 1080,
+                "size": 310098,
+                "url": "https://media.sketchfab.com/models/320395dc36924b2ab81a81b0e3ebac1c/thumbnails/592182b6005049faad60051cf024d8a1/0cba423b5e9a43b6a1685a6967d16724.jpeg"
+            },
+            {
+                "uid": "a00e639668b74c028e187f09e7f0a4e7",
+                "width": 1024,
+                "height": 576,
+                "size": 54325,
+                "url": "https://media.sketchfab.com/models/320395dc36924b2ab81a81b0e3ebac1c/thumbnails/592182b6005049faad60051cf024d8a1/1074a7232a404bf9a4f0f9045d1144fa.jpeg"
+            },
+            {
+                "uid": "248be40b952d4cd180acb93947f4d39d",
+                "width": 720,
+                "height": 405,
+                "size": 29452,
+                "url": "https://media.sketchfab.com/models/320395dc36924b2ab81a81b0e3ebac1c/thumbnails/592182b6005049faad60051cf024d8a1/94a5f9c400b04803977c0919faba63e3.jpeg"
+            },
+            {
+                "uid": "74c63c18090549c69e9dd6d2df5a6675",
+                "width": 256,
+                "height": 144,
+                "size": 5800,
+                "url": "https://media.sketchfab.com/models/320395dc36924b2ab81a81b0e3ebac1c/thumbnails/592182b6005049faad60051cf024d8a1/c79baad63d374e89a22fa46f4cfc2124.jpeg"
+            },
+            {
+                "uid": "8eaeb1751a624fd1860b948d4ad8d1b5",
+                "width": 64,
+                "height": 36,
+                "size": 1300,
+                "url": "https://media.sketchfab.com/models/320395dc36924b2ab81a81b0e3ebac1c/thumbnails/592182b6005049faad60051cf024d8a1/cc3cce4290944efb9a48caa9b6ad408e.jpeg"
+            }
+        ]
+    },
+    "uid": "320395dc36924b2ab81a81b0e3ebac1c",
+    "uri": "https://api.sketchfab.com/v3/models/320395dc36924b2ab81a81b0e3ebac1c",
+    "user": {
+        "uid": "89a04b6cde0748f3a828875c447304d3",
+        "username": "JuIann_D",
+        "displayName": "JuIann_D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/JuIann_D",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/89a04b6cde0748f3a828875c447304d3"
+    },
+    "vertexCount": 918169,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/anvil-and-tools-320395dc36924b2ab81a81b0e3ebac1c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a medieval-style anvil project. I focused on improving my proficiency in rendering wood and iron textures, specifically exploring the new Path tool recently released in Substance.\n\nInstead of the traditional low-poly baking workflow, I utilized a decimated asset to focus entirely on material expression and the application of new features.\n\nThank you for watching!\n\n중세 시대의 느낌을 살린 모루 작업물입니다. 나무와 철 재질 표현에 익숙해지는 것과 더불어, 최근 Substance에 새롭게 추가된 Path 기능에 대한 숙련도를 높이는 데 중점을 두고 진행한 프로젝트입니다.\n\n전통적인 Low-poly 베이킹 과정을 거치는 대신, Decimate된 에셋을 활용하여 텍스처링 작업과 기능 활용 자체에 더욱 집중했습니다.\n\n시청해 주셔서 감사합니다!",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/320395dc36924b2ab81a81b0e3ebac1c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T05:38:25.887606",
+    "pbrType": "metalness",
+    "textureCount": 6,
+    "materialCount": 2
+}

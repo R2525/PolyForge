@@ -1,0 +1,114 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-06-09T07:01:58.904942",
+    "embedUrl": "https://sketchfab.com/models/378ed178d2b54f99a1932366eb2e6947/embed",
+    "faceCount": 40000,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Ghibli-ivan-3d",
+    "publishedAt": "2025-06-09T07:03:16.019760",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ac7d3fbfb6484058a7c8b337fad0d79a",
+                "width": 1920,
+                "height": 1080,
+                "size": 70629,
+                "url": "https://media.sketchfab.com/models/378ed178d2b54f99a1932366eb2e6947/thumbnails/3059a83d36154fcd870cca09c850219d/df1a7d6679c94e0b9f3ca7e597829a1b.jpeg"
+            },
+            {
+                "uid": "55d54216a4e048e08fd49f27a9d83d85",
+                "width": 1024,
+                "height": 576,
+                "size": 24421,
+                "url": "https://media.sketchfab.com/models/378ed178d2b54f99a1932366eb2e6947/thumbnails/3059a83d36154fcd870cca09c850219d/86f1ae76015042c59a852cf6a5e63171.jpeg"
+            },
+            {
+                "uid": "7bae92b8c4284550838c7364fb1273bd",
+                "width": 720,
+                "height": 405,
+                "size": 14488,
+                "url": "https://media.sketchfab.com/models/378ed178d2b54f99a1932366eb2e6947/thumbnails/3059a83d36154fcd870cca09c850219d/71f09c4b4f10400cbedfada45e2b58b8.jpeg"
+            },
+            {
+                "uid": "cb4ddbaf531c42a8b44eb4eab869e915",
+                "width": 256,
+                "height": 144,
+                "size": 3394,
+                "url": "https://media.sketchfab.com/models/378ed178d2b54f99a1932366eb2e6947/thumbnails/3059a83d36154fcd870cca09c850219d/29cd1726e74b4c1caf0e3fba80e0a8a1.jpeg"
+            },
+            {
+                "uid": "94aedcffa0f5436f9b0f433417c26389",
+                "width": 64,
+                "height": 36,
+                "size": 973,
+                "url": "https://media.sketchfab.com/models/378ed178d2b54f99a1932366eb2e6947/thumbnails/3059a83d36154fcd870cca09c850219d/4335c71e5f1547d8b239f19be60508e0.jpeg"
+            }
+        ]
+    },
+    "uid": "378ed178d2b54f99a1932366eb2e6947",
+    "uri": "https://api.sketchfab.com/v3/models/378ed178d2b54f99a1932366eb2e6947",
+    "user": {
+        "uid": "dd5ae77dadbb4850994393040375cee0",
+        "username": "rvcl",
+        "displayName": "rvcl",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rvcl",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dd5ae77dadbb4850994393040375cee0"
+    },
+    "vertexCount": 19998,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/ghibli-ivan-3d-378ed178d2b54f99a1932366eb2e6947",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/378ed178d2b54f99a1932366eb2e6947/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-06-09T07:03:16.142500",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

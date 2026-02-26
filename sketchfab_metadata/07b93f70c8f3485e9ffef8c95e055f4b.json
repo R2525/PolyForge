@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T09:28:48.678877",
+    "embedUrl": "https://sketchfab.com/models/07b93f70c8f3485e9ffef8c95e055f4b/embed",
+    "faceCount": 64,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "phone",
+    "publishedAt": "2026-02-24T09:30:40.588892",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "gadget",
+            "slug": "gadget",
+            "uri": "https://api.sketchfab.com/v3/tags/gadget"
+        },
+        {
+            "name": "smartphone",
+            "slug": "smartphone",
+            "uri": "https://api.sketchfab.com/v3/tags/smartphone"
+        },
+        {
+            "name": "phone",
+            "slug": "phone",
+            "uri": "https://api.sketchfab.com/v3/tags/phone"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "smartpc",
+            "slug": "smartpc",
+            "uri": "https://api.sketchfab.com/v3/tags/smartpc"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a7fdacd1ed8342089e82caa4c231960b",
+                "width": 1920,
+                "height": 1080,
+                "size": 48791,
+                "url": "https://media.sketchfab.com/models/07b93f70c8f3485e9ffef8c95e055f4b/thumbnails/3baf5f2ef4e440a68c6136046bc1e642/716f8abd88144164b929f255414d81ce.jpeg"
+            },
+            {
+                "uid": "acba74b5ef1c48e3b618eff1c5dd7f5b",
+                "width": 1024,
+                "height": 576,
+                "size": 16383,
+                "url": "https://media.sketchfab.com/models/07b93f70c8f3485e9ffef8c95e055f4b/thumbnails/3baf5f2ef4e440a68c6136046bc1e642/9a380bba89fb41e182e4ee5447339ccd.jpeg"
+            },
+            {
+                "uid": "bc2e5479ae3e423c83a1fe41476f3f32",
+                "width": 720,
+                "height": 405,
+                "size": 9816,
+                "url": "https://media.sketchfab.com/models/07b93f70c8f3485e9ffef8c95e055f4b/thumbnails/3baf5f2ef4e440a68c6136046bc1e642/e5021da374914d69ac0b4ed6599b899a.jpeg"
+            },
+            {
+                "uid": "598ef98823ad4107b1d4ab7a63ad3320",
+                "width": 256,
+                "height": 144,
+                "size": 2425,
+                "url": "https://media.sketchfab.com/models/07b93f70c8f3485e9ffef8c95e055f4b/thumbnails/3baf5f2ef4e440a68c6136046bc1e642/49f7906cdb464cef97a157fdb77f90b9.jpeg"
+            },
+            {
+                "uid": "70996ed31f07437bb596fd1d10b4e97d",
+                "width": 64,
+                "height": 36,
+                "size": 945,
+                "url": "https://media.sketchfab.com/models/07b93f70c8f3485e9ffef8c95e055f4b/thumbnails/3baf5f2ef4e440a68c6136046bc1e642/3b2ba6d49c594106985a0c8840799723.jpeg"
+            }
+        ]
+    },
+    "uid": "07b93f70c8f3485e9ffef8c95e055f4b",
+    "uri": "https://api.sketchfab.com/v3/models/07b93f70c8f3485e9ffef8c95e055f4b",
+    "user": {
+        "uid": "e23437cede334c648bc483d5b6aab857",
+        "username": "Denzo082",
+        "displayName": "Denzo082",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Denzo082",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e23437cede334c648bc483d5b6aab857"
+    },
+    "vertexCount": 40,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/phone-07b93f70c8f3485e9ffef8c95e055f4b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/07b93f70c8f3485e9ffef8c95e055f4b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T09:30:41.504614",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

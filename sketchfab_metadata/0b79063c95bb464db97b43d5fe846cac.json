@@ -1,0 +1,190 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T16:58:22.325020",
+    "embedUrl": "https://sketchfab.com/models/0b79063c95bb464db97b43d5fe846cac/embed",
+    "faceCount": 22662,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "8 Buildings Brick Modular Factory Low-poly model",
+    "publishedAt": "2026-02-22T17:45:22.587607",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "assets",
+            "slug": "assets",
+            "uri": "https://api.sketchfab.com/v3/tags/assets"
+        },
+        {
+            "name": "brick",
+            "slug": "brick",
+            "uri": "https://api.sketchfab.com/v3/tags/brick"
+        },
+        {
+            "name": "warehouse",
+            "slug": "warehouse",
+            "uri": "https://api.sketchfab.com/v3/tags/warehouse"
+        },
+        {
+            "name": "buildings",
+            "slug": "buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/buildings"
+        },
+        {
+            "name": "apocalypse",
+            "slug": "apocalypse",
+            "uri": "https://api.sketchfab.com/v3/tags/apocalypse"
+        },
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "hangar",
+            "slug": "hangar",
+            "uri": "https://api.sketchfab.com/v3/tags/hangar"
+        },
+        {
+            "name": "hause",
+            "slug": "hause",
+            "uri": "https://api.sketchfab.com/v3/tags/hause"
+        },
+        {
+            "name": "factory",
+            "slug": "factory",
+            "uri": "https://api.sketchfab.com/v3/tags/factory"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "179e245b60fd497696c8beb6e700de0d",
+                "width": 1920,
+                "height": 1080,
+                "size": 318815,
+                "url": "https://media.sketchfab.com/models/0b79063c95bb464db97b43d5fe846cac/thumbnails/43a682d564844f298cad5dd939fa1d11/2ccb7465aee0418ebfaf02e857f28fe2.jpeg"
+            },
+            {
+                "uid": "e8416e354bb24ae8a17bfec23760f12f",
+                "width": 1024,
+                "height": 576,
+                "size": 92853,
+                "url": "https://media.sketchfab.com/models/0b79063c95bb464db97b43d5fe846cac/thumbnails/43a682d564844f298cad5dd939fa1d11/c881d9b3b6c648f2b5b3acfae3257c94.jpeg"
+            },
+            {
+                "uid": "40af91d735b24393a81ea6b4faee0fe0",
+                "width": 720,
+                "height": 405,
+                "size": 47835,
+                "url": "https://media.sketchfab.com/models/0b79063c95bb464db97b43d5fe846cac/thumbnails/43a682d564844f298cad5dd939fa1d11/cfe7c03d8692471ba136f708ab17e62b.jpeg"
+            },
+            {
+                "uid": "63452a77fce6492182f8eb1eb44842ec",
+                "width": 256,
+                "height": 144,
+                "size": 7016,
+                "url": "https://media.sketchfab.com/models/0b79063c95bb464db97b43d5fe846cac/thumbnails/43a682d564844f298cad5dd939fa1d11/5bcfb0337779482b9258d320ca8ef317.jpeg"
+            },
+            {
+                "uid": "abdb48d8b01f45e988819e6fd319ed0f",
+                "width": 64,
+                "height": 36,
+                "size": 1275,
+                "url": "https://media.sketchfab.com/models/0b79063c95bb464db97b43d5fe846cac/thumbnails/43a682d564844f298cad5dd939fa1d11/7a307ead396f4284b5edf467c192e823.jpeg"
+            }
+        ]
+    },
+    "uid": "0b79063c95bb464db97b43d5fe846cac",
+    "uri": "https://api.sketchfab.com/v3/models/0b79063c95bb464db97b43d5fe846cac",
+    "user": {
+        "uid": "15c9051bc1df4ea2ab83d16370aa3c0c",
+        "username": "Matvis",
+        "displayName": "Matvis",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Matvis",
+        "avatar": {
+            "uid": "fcb18ad87c6e4c34a7377699722e0b72",
+            "uri": "https://api.sketchfab.com/v3/avatars/fcb18ad87c6e4c34a7377699722e0b72",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1125,
+                    "url": "https://media.sketchfab.com/avatars/fcb18ad87c6e4c34a7377699722e0b72/48e64ecb70a84fc693f46fe460c4f331.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1406,
+                    "url": "https://media.sketchfab.com/avatars/fcb18ad87c6e4c34a7377699722e0b72/6c40c347e3eb4fdba7bdaf4221b90617.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2704,
+                    "url": "https://media.sketchfab.com/avatars/fcb18ad87c6e4c34a7377699722e0b72/ca03b247eaa74c0a9baaf2410a6b1517.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2906,
+                    "url": "https://media.sketchfab.com/avatars/fcb18ad87c6e4c34a7377699722e0b72/238b4ddcd626411296db15e86281c347.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/15c9051bc1df4ea2ab83d16370aa3c0c"
+    },
+    "vertexCount": 12770,
+    "viewCount": 47,
+    "viewerUrl": "https://sketchfab.com/3d-models/8-buildings-brick-modular-factory-low-poly-model-0b79063c95bb464db97b43d5fe846cac",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Now available on Fab: https://www.fab.com/listings/24ddb435-f05b-4320-a643-b9e1594f134c \n\nThis model is suitable for use in Unity, Unreal Engine, Virtual Reality (VR), Augmented Reality (AR), Movies/Film, Interior/Exterior design\nWhich includes 9 complete buildings designed and 18 modular blocks for building construction,\nto help create a unique and atmospheric environment for any scene. \n\nRender image viewport unreal engineWith the ready-made clusters, it's easy to create custom houses\nGame Ready model\nLow Poly mesh\nObject pivot points at 0,0,0\nObject scaled to approximate real world size (cm)\nTexture Dimension 2048x2048, \nformat png\nLow Poly mesh\nTriangulate mesh",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0b79063c95bb464db97b43d5fe846cac/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T15:22:03.855244",
+    "pbrType": "metalness",
+    "textureCount": 15,
+    "materialCount": 5
+}

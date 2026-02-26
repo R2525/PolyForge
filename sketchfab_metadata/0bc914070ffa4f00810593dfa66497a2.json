@@ -1,0 +1,226 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-21T15:46:23.357454",
+    "embedUrl": "https://sketchfab.com/models/0bc914070ffa4f00810593dfa66497a2/embed",
+    "faceCount": 1656,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 6,
+    "name": "Concrete Barrier",
+    "publishedAt": "2025-12-21T15:48:49.795227",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "road",
+            "slug": "road",
+            "uri": "https://api.sketchfab.com/v3/tags/road"
+        },
+        {
+            "name": "barrier",
+            "slug": "barrier",
+            "uri": "https://api.sketchfab.com/v3/tags/barrier"
+        },
+        {
+            "name": "damaged",
+            "slug": "damaged",
+            "uri": "https://api.sketchfab.com/v3/tags/damaged"
+        },
+        {
+            "name": "weathered",
+            "slug": "weathered",
+            "uri": "https://api.sketchfab.com/v3/tags/weathered"
+        },
+        {
+            "name": "concretebarrier",
+            "slug": "concretebarrier",
+            "uri": "https://api.sketchfab.com/v3/tags/concretebarrier"
+        },
+        {
+            "name": "rizomuv",
+            "slug": "rizomuv",
+            "uri": "https://api.sketchfab.com/v3/tags/rizomuv"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "construction",
+            "slug": "construction",
+            "uri": "https://api.sketchfab.com/v3/tags/construction"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "22d81e6bc3164a5d9fc5928bb22bed85",
+                "width": 1920,
+                "height": 1080,
+                "size": 138447,
+                "url": "https://media.sketchfab.com/models/0bc914070ffa4f00810593dfa66497a2/thumbnails/310203c6d9c8484db9b0eab6b74dfb63/45816fdeeb534d47b82022a334c4005f.jpeg"
+            },
+            {
+                "uid": "e62ad190edd14b4d8b3feaf5de4edf0a",
+                "width": 1024,
+                "height": 576,
+                "size": 39686,
+                "url": "https://media.sketchfab.com/models/0bc914070ffa4f00810593dfa66497a2/thumbnails/310203c6d9c8484db9b0eab6b74dfb63/fc3e4d8fbee6475c97c7137519b24f3e.jpeg"
+            },
+            {
+                "uid": "e9f2a72588a045f4994c8f4c9d70a43d",
+                "width": 720,
+                "height": 405,
+                "size": 20721,
+                "url": "https://media.sketchfab.com/models/0bc914070ffa4f00810593dfa66497a2/thumbnails/310203c6d9c8484db9b0eab6b74dfb63/8bad0750c17f4d7489793555a4d7d075.jpeg"
+            },
+            {
+                "uid": "e9dce060ddb943119362299ce4064a94",
+                "width": 256,
+                "height": 144,
+                "size": 3483,
+                "url": "https://media.sketchfab.com/models/0bc914070ffa4f00810593dfa66497a2/thumbnails/310203c6d9c8484db9b0eab6b74dfb63/fd015153fd8d4c27ae165e63daf872fd.jpeg"
+            },
+            {
+                "uid": "38f7942f919c47859a9f8d8f58e3009b",
+                "width": 64,
+                "height": 36,
+                "size": 905,
+                "url": "https://media.sketchfab.com/models/0bc914070ffa4f00810593dfa66497a2/thumbnails/310203c6d9c8484db9b0eab6b74dfb63/88a16256c36d45239aa4524fe034fe35.jpeg"
+            }
+        ]
+    },
+    "uid": "0bc914070ffa4f00810593dfa66497a2",
+    "uri": "https://api.sketchfab.com/v3/models/0bc914070ffa4f00810593dfa66497a2",
+    "user": {
+        "uid": "38392482713b4a97badd194555ec8685",
+        "username": "VictorOgbuka",
+        "displayName": "Victor Ogbuka",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/VictorOgbuka",
+        "avatar": {
+            "uid": "e70f87965752482e82fec9b6456ebfe1",
+            "uri": "https://api.sketchfab.com/v3/avatars/e70f87965752482e82fec9b6456ebfe1",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1259,
+                    "url": "https://media.sketchfab.com/avatars/e70f87965752482e82fec9b6456ebfe1/2af246e0acbe49ad99fbbd484acb103d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1921,
+                    "url": "https://media.sketchfab.com/avatars/e70f87965752482e82fec9b6456ebfe1/6f8439113b6e43a98ee0a9dff14586d7.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4347,
+                    "url": "https://media.sketchfab.com/avatars/e70f87965752482e82fec9b6456ebfe1/7807474040294fd8919b839c036ceef7.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5017,
+                    "url": "https://media.sketchfab.com/avatars/e70f87965752482e82fec9b6456ebfe1/019eb9da0b3d42f38c292e51b1c25999.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/38392482713b4a97badd194555ec8685"
+    },
+    "vertexCount": 878,
+    "viewCount": 171,
+    "viewerUrl": "https://sketchfab.com/3d-models/concrete-barrier-0bc914070ffa4f00810593dfa66497a2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A high-fidelity, game-ready prop of a classic Jersey-style concrete road barrier. This asset focuses on realistic environmental storytelling through heavy weathering, including edge chipping, structural cracks, and rusted iron reinforcement loops. It is perfect for industrial, urban, or post-apocalyptic scenes.",
+    "price": null,
+    "downloadCount": 60,
+    "editorUrl": "https://sketchfab.com/models/0bc914070ffa4f00810593dfa66497a2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-21T15:48:50.108282",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

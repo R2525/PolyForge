@@ -1,0 +1,200 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T01:09:33.411387",
+    "embedUrl": "https://sketchfab.com/models/3c51dfeafb674ea7a1980231103a6a8a/embed",
+    "faceCount": 936610,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Azure Frostbound Colossus",
+    "publishedAt": "2026-02-23T01:10:01.697419",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armored",
+            "slug": "armored",
+            "uri": "https://api.sketchfab.com/v3/tags/armored"
+        },
+        {
+            "name": "mech",
+            "slug": "mech",
+            "uri": "https://api.sketchfab.com/v3/tags/mech"
+        },
+        {
+            "name": "hero",
+            "slug": "hero",
+            "uri": "https://api.sketchfab.com/v3/tags/hero"
+        },
+        {
+            "name": "golem",
+            "slug": "golem",
+            "uri": "https://api.sketchfab.com/v3/tags/golem"
+        },
+        {
+            "name": "boss",
+            "slug": "boss",
+            "uri": "https://api.sketchfab.com/v3/tags/boss"
+        },
+        {
+            "name": "glow",
+            "slug": "glow",
+            "uri": "https://api.sketchfab.com/v3/tags/glow"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "blue",
+            "slug": "blue",
+            "uri": "https://api.sketchfab.com/v3/tags/blue"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dragon",
+            "slug": "dragon",
+            "uri": "https://api.sketchfab.com/v3/tags/dragon"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "krinaz",
+            "slug": "krinaz",
+            "uri": "https://api.sketchfab.com/v3/tags/krinaz"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "24982fca994f4fa8b313fa33645454a9",
+                "width": 1920,
+                "height": 1080,
+                "size": 70876,
+                "url": "https://media.sketchfab.com/models/3c51dfeafb674ea7a1980231103a6a8a/thumbnails/56bf8c39aa184855aa199b3527f81f35/831c5d229c1c433687b31b94e3413de9.jpeg"
+            },
+            {
+                "uid": "65afa976ca07430da610a0bb4e7aa678",
+                "width": 1024,
+                "height": 576,
+                "size": 24380,
+                "url": "https://media.sketchfab.com/models/3c51dfeafb674ea7a1980231103a6a8a/thumbnails/56bf8c39aa184855aa199b3527f81f35/59e2ac28944c424c88e2a1d4f96d886b.jpeg"
+            },
+            {
+                "uid": "5e9e0c2fe33645b5abbe0c3730962940",
+                "width": 720,
+                "height": 405,
+                "size": 14392,
+                "url": "https://media.sketchfab.com/models/3c51dfeafb674ea7a1980231103a6a8a/thumbnails/56bf8c39aa184855aa199b3527f81f35/2f087bcc84a248ddb1aac88572b63e25.jpeg"
+            },
+            {
+                "uid": "19ed452f22e24fe69d0911e1b8fb9759",
+                "width": 256,
+                "height": 144,
+                "size": 3038,
+                "url": "https://media.sketchfab.com/models/3c51dfeafb674ea7a1980231103a6a8a/thumbnails/56bf8c39aa184855aa199b3527f81f35/edb5f04967d04efeb4ddfb7a2ce123f3.jpeg"
+            },
+            {
+                "uid": "ee8efd9093bf496899ab37c49930567c",
+                "width": 64,
+                "height": 36,
+                "size": 889,
+                "url": "https://media.sketchfab.com/models/3c51dfeafb674ea7a1980231103a6a8a/thumbnails/56bf8c39aa184855aa199b3527f81f35/31b686a6cd7d4517bf7a79825668d953.jpeg"
+            }
+        ]
+    },
+    "uid": "3c51dfeafb674ea7a1980231103a6a8a",
+    "uri": "https://api.sketchfab.com/v3/models/3c51dfeafb674ea7a1980231103a6a8a",
+    "user": {
+        "uid": "a57930ad3b354238b849dde79622aac5",
+        "username": "naoeyamato99",
+        "displayName": "naoeyamato99",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/naoeyamato99",
+        "avatar": {
+            "uid": "1622cf56971542ff80212f1c4daec696",
+            "uri": "https://api.sketchfab.com/v3/avatars/1622cf56971542ff80212f1c4daec696",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1001,
+                    "url": "https://media.sketchfab.com/avatars/1622cf56971542ff80212f1c4daec696/150f0e87e3ad40669b3fab55aa19f9c1.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/1622cf56971542ff80212f1c4daec696/6fa5a7849898413b92ef8c552ec9ab43.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2134,
+                    "url": "https://media.sketchfab.com/avatars/1622cf56971542ff80212f1c4daec696/34226086bf3d407aa77611ebad4992c6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2432,
+                    "url": "https://media.sketchfab.com/avatars/1622cf56971542ff80212f1c4daec696/4df8ef0b27c64824879405d54967d4c6.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a57930ad3b354238b849dde79622aac5"
+    },
+    "vertexCount": 468175,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/azure-frostbound-colossus-3c51dfeafb674ea7a1980231103a6a8a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/bcTCkB](https://www.meshy.ai/s/bcTCkB)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3c51dfeafb674ea7a1980231103a6a8a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T01:10:01.677084",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

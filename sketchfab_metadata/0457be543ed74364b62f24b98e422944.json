@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T19:36:33.743480",
+    "embedUrl": "https://sketchfab.com/models/0457be543ed74364b62f24b98e422944/embed",
+    "faceCount": 47314,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Wooden Bench",
+    "publishedAt": "2026-02-19T19:37:34.415344",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "bench",
+            "slug": "bench",
+            "uri": "https://api.sketchfab.com/v3/tags/bench"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "item",
+            "slug": "item",
+            "uri": "https://api.sketchfab.com/v3/tags/item"
+        },
+        {
+            "name": "wooden_bench",
+            "slug": "wooden_bench",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden_bench"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "451b10993480490dac3591a1b53b3b94",
+                "width": 1920,
+                "height": 1080,
+                "size": 37081,
+                "url": "https://media.sketchfab.com/models/0457be543ed74364b62f24b98e422944/thumbnails/792cd355e842407bb2ea644d6b08c320/a645ee09f9384e089bc468abfbb6506b.jpeg"
+            },
+            {
+                "uid": "7b903f643826471982ca42cad357f9e0",
+                "width": 1024,
+                "height": 576,
+                "size": 11931,
+                "url": "https://media.sketchfab.com/models/0457be543ed74364b62f24b98e422944/thumbnails/792cd355e842407bb2ea644d6b08c320/561047f7f1e547ce840c715576ae2caf.jpeg"
+            },
+            {
+                "uid": "32626b3f5c604bcca2dad1e9e6c08269",
+                "width": 720,
+                "height": 405,
+                "size": 6614,
+                "url": "https://media.sketchfab.com/models/0457be543ed74364b62f24b98e422944/thumbnails/792cd355e842407bb2ea644d6b08c320/4677babb3b3f42f6aca70289130761f1.jpeg"
+            },
+            {
+                "uid": "3f08ad3f98244c438f5ec6ec73cc3122",
+                "width": 256,
+                "height": 144,
+                "size": 1692,
+                "url": "https://media.sketchfab.com/models/0457be543ed74364b62f24b98e422944/thumbnails/792cd355e842407bb2ea644d6b08c320/b3cb9628cc844316a3940816d6d6607c.jpeg"
+            },
+            {
+                "uid": "4d25d05b55544dd59248788eafae1571",
+                "width": 64,
+                "height": 36,
+                "size": 756,
+                "url": "https://media.sketchfab.com/models/0457be543ed74364b62f24b98e422944/thumbnails/792cd355e842407bb2ea644d6b08c320/dc186fb07b574cca878435882e3109cb.jpeg"
+            }
+        ]
+    },
+    "uid": "0457be543ed74364b62f24b98e422944",
+    "uri": "https://api.sketchfab.com/v3/models/0457be543ed74364b62f24b98e422944",
+    "user": {
+        "uid": "d3c2e6112d044ced9d5119953f153435",
+        "username": "siojourrero1974",
+        "displayName": "siojourrero1974",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/siojourrero1974",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d3c2e6112d044ced9d5119953f153435"
+    },
+    "vertexCount": 23663,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/wooden-bench-0457be543ed74364b62f24b98e422944",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Render ready wooden toolbox.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/0457be543ed74364b62f24b98e422944/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T19:37:34.743362",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

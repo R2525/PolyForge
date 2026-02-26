@@ -1,0 +1,37 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Abstract",
+            "score": 0.95
+        },
+        {
+            "name": "Modern",
+            "score": 0.85
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Abstract",
+            "score": 0.8
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Clean"
+    ],
+    "tags": [
+        "marble",
+        "gold",
+        "pattern"
+    ]
+}

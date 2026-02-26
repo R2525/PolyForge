@@ -1,0 +1,318 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-15T21:58:33.727451",
+    "embedUrl": "https://sketchfab.com/models/05348d2efaa94fa2a3e39260556f3b46/embed",
+    "faceCount": 254688,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Fantasy Pack v1",
+    "publishedAt": "2025-12-16T01:27:34.498220",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "crate",
+            "slug": "crate",
+            "uri": "https://api.sketchfab.com/v3/tags/crate"
+        },
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "dungeon",
+            "slug": "dungeon",
+            "uri": "https://api.sketchfab.com/v3/tags/dungeon"
+        },
+        {
+            "name": "hammer",
+            "slug": "hammer",
+            "uri": "https://api.sketchfab.com/v3/tags/hammer"
+        },
+        {
+            "name": "chest",
+            "slug": "chest",
+            "uri": "https://api.sketchfab.com/v3/tags/chest"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "staff",
+            "slug": "staff",
+            "uri": "https://api.sketchfab.com/v3/tags/staff"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "equipment",
+            "slug": "equipment",
+            "uri": "https://api.sketchfab.com/v3/tags/equipment"
+        },
+        {
+            "name": "treasure",
+            "slug": "treasure",
+            "uri": "https://api.sketchfab.com/v3/tags/treasure"
+        },
+        {
+            "name": "loot",
+            "slug": "loot",
+            "uri": "https://api.sketchfab.com/v3/tags/loot"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "potion",
+            "slug": "potion",
+            "uri": "https://api.sketchfab.com/v3/tags/potion"
+        },
+        {
+            "name": "3D Model,",
+            "slug": "3d-model",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-model"
+        },
+        {
+            "name": "asset-pack",
+            "slug": "asset-pack",
+            "uri": "https://api.sketchfab.com/v3/tags/asset-pack"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "book",
+            "slug": "book",
+            "uri": "https://api.sketchfab.com/v3/tags/book"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "hand-painted",
+            "slug": "hand-painted",
+            "uri": "https://api.sketchfab.com/v3/tags/hand-painted"
+        },
+        {
+            "name": "mobile",
+            "slug": "mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/mobile"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dagger",
+            "slug": "dagger",
+            "uri": "https://api.sketchfab.com/v3/tags/dagger"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        },
+        {
+            "name": "gold",
+            "slug": "gold",
+            "uri": "https://api.sketchfab.com/v3/tags/gold"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7719c97744d34f20b8170797e63cea2c",
+                "width": 448,
+                "height": 280,
+                "size": 5925,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/448.jpg"
+            },
+            {
+                "uid": "a6b20474be7c402db8f8a5a6b9ff4730",
+                "width": 200,
+                "height": 200,
+                "size": 2275,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/200x200.jpg"
+            },
+            {
+                "uid": "98095b18341b4f49affb313ad9843d70",
+                "width": 100,
+                "height": 100,
+                "size": 841,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/100x100.jpg"
+            },
+            {
+                "uid": "af9d9afad4f1427a8a6e68dffa18c236",
+                "width": 50,
+                "height": 50,
+                "size": 421,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/50x50.jpg"
+            },
+            {
+                "uid": "b0855968e7eb4421b1d57761d0f2e2f1",
+                "width": 640,
+                "height": 400,
+                "size": 12257,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/640.jpg"
+            },
+            {
+                "uid": "4cfc787dbb4a4a0190430bca9721c6cf",
+                "width": 1024,
+                "height": 640,
+                "size": 28643,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/1024.jpg"
+            },
+            {
+                "uid": "bdbd1b7885db45ba959aede0fd468199",
+                "width": 854,
+                "height": 534,
+                "size": 21153,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/854.jpg"
+            }
+        ]
+    },
+    "uid": "05348d2efaa94fa2a3e39260556f3b46",
+    "uri": "https://api.sketchfab.com/v3/models/05348d2efaa94fa2a3e39260556f3b46",
+    "user": {
+        "uid": "bf407858aeeb424d8405368869ce68b8",
+        "username": "alvarogutierrezc6",
+        "displayName": "GUTIGU-80",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alvarogutierrezc6",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bf407858aeeb424d8405368869ce68b8"
+    },
+    "vertexCount": 129671,
+    "viewCount": 26,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-pack-v1-05348d2efaa94fa2a3e39260556f3b46",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Get ready to fill your dungeons! This Stylized Fantasy Asset Pack features a collection of high-quality, game-ready props perfect for RPGs, dungeon crawlers, and fantasy adventure games.\n\nEach asset is crafted with a cohesive, hand-painted aesthetic, mixing dark metals with magical purple accents and gold details. Ideal for mobile games, AR/VR experiences, or stylized PC/Console projects.\n\n📦 This Pack Contains:\n1. Treasure:\n    * 1x Treasure Chest (Closed) with rune detailing.\n    * 1x Treasure Chest (Open) filled with gold coins.\n2. Weapons & Combat:\n    * 1x Iron Broadsword.\n    * 1x Battle Axe.\n    * 1x War Hammer.\n    * 1x Rogue Dagger.\n3. Armor:\n    * 1x Knight's Helmet.\n    * 1x Set of Pauldrons (Shoulder Armor).\n4. Magic & Items:\n    * 1x Wizard's Staff with crystal.\n    * 1x Magic Ring.\n    * 3x Ancient Spellbooks/Grimoires.\n    * 3x Health/Mana Potions.\n5. Environment Props:\n    * 1x Wooden Crate.\n    * 1x Wooden Stool.\n    * 1x Wicker Basket.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/05348d2efaa94fa2a3e39260556f3b46/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-16T01:27:35.085782",
+    "pbrType": "metalness",
+    "textureCount": 28,
+    "materialCount": 7
+}

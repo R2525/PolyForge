@@ -1,0 +1,224 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-29T02:19:29.695724",
+    "embedUrl": "https://sketchfab.com/models/27b82da0642b41ea9abdfc7e4c4a7a99/embed",
+    "faceCount": 9818,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 4,
+    "name": "Azulae's Rapier",
+    "publishedAt": "2026-01-30T17:16:49.757900",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "elf",
+            "slug": "elf",
+            "uri": "https://api.sketchfab.com/v3/tags/elf"
+        },
+        {
+            "name": "espada",
+            "slug": "espada",
+            "uri": "https://api.sketchfab.com/v3/tags/espada"
+        },
+        {
+            "name": "crystal",
+            "slug": "crystal",
+            "uri": "https://api.sketchfab.com/v3/tags/crystal"
+        },
+        {
+            "name": "melee",
+            "slug": "melee",
+            "uri": "https://api.sketchfab.com/v3/tags/melee"
+        },
+        {
+            "name": "whimsical",
+            "slug": "whimsical",
+            "uri": "https://api.sketchfab.com/v3/tags/whimsical"
+        },
+        {
+            "name": "rapier",
+            "slug": "rapier",
+            "uri": "https://api.sketchfab.com/v3/tags/rapier"
+        },
+        {
+            "name": "renaissance",
+            "slug": "renaissance",
+            "uri": "https://api.sketchfab.com/v3/tags/renaissance"
+        },
+        {
+            "name": "gem",
+            "slug": "gem",
+            "uri": "https://api.sketchfab.com/v3/tags/gem"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "steel",
+            "slug": "steel",
+            "uri": "https://api.sketchfab.com/v3/tags/steel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "221e6abb6562485195b9c04a8669d278",
+                "width": 1920,
+                "height": 1080,
+                "size": 373715,
+                "url": "https://media.sketchfab.com/models/27b82da0642b41ea9abdfc7e4c4a7a99/thumbnails/3d3bdb9719cd4cdc9ee09ac16afb4472/8cdfb145298e4ccbac22d04251e24ac9.jpeg"
+            },
+            {
+                "uid": "789459b7deed4f54a73ee03febd694c9",
+                "width": 1024,
+                "height": 576,
+                "size": 31405,
+                "url": "https://media.sketchfab.com/models/27b82da0642b41ea9abdfc7e4c4a7a99/thumbnails/3d3bdb9719cd4cdc9ee09ac16afb4472/4859550fbebf49c997da7a026ddae5b1.jpeg"
+            },
+            {
+                "uid": "cbd9eaa3e6ac4125aaeddd8338bb3e72",
+                "width": 720,
+                "height": 405,
+                "size": 17737,
+                "url": "https://media.sketchfab.com/models/27b82da0642b41ea9abdfc7e4c4a7a99/thumbnails/3d3bdb9719cd4cdc9ee09ac16afb4472/1bf9a9d9c4a4486ba6b1ce2707397747.jpeg"
+            },
+            {
+                "uid": "f72e0996b8b746e79545b490955518b6",
+                "width": 256,
+                "height": 144,
+                "size": 3971,
+                "url": "https://media.sketchfab.com/models/27b82da0642b41ea9abdfc7e4c4a7a99/thumbnails/3d3bdb9719cd4cdc9ee09ac16afb4472/405ef7ef91084ad3b76722a4852b20ac.jpeg"
+            },
+            {
+                "uid": "c41737c28b054142a361acc7f08867c0",
+                "width": 64,
+                "height": 36,
+                "size": 1053,
+                "url": "https://media.sketchfab.com/models/27b82da0642b41ea9abdfc7e4c4a7a99/thumbnails/3d3bdb9719cd4cdc9ee09ac16afb4472/33bb1a35d2684d16ab0c2581fc3a15c0.jpeg"
+            }
+        ]
+    },
+    "uid": "27b82da0642b41ea9abdfc7e4c4a7a99",
+    "uri": "https://api.sketchfab.com/v3/models/27b82da0642b41ea9abdfc7e4c4a7a99",
+    "user": {
+        "uid": "f0b48fa43628487ba45ce09d1e40372f",
+        "username": "TheTallOne",
+        "displayName": "TheTallOne",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/TheTallOne",
+        "avatar": {
+            "uid": "a6047629f8884e3cac5b49f8feb8a893",
+            "uri": "https://api.sketchfab.com/v3/avatars/a6047629f8884e3cac5b49f8feb8a893",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2044,
+                    "url": "https://media.sketchfab.com/avatars/a6047629f8884e3cac5b49f8feb8a893/f71e82c275d7423d9efb6c6d73f7f1e5.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4104,
+                    "url": "https://media.sketchfab.com/avatars/a6047629f8884e3cac5b49f8feb8a893/63161565f7514b0dbfa84090d2e9b038.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12798,
+                    "url": "https://media.sketchfab.com/avatars/a6047629f8884e3cac5b49f8feb8a893/4d825d9707614761945e347608e2e0ca.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 15526,
+                    "url": "https://media.sketchfab.com/avatars/a6047629f8884e3cac5b49f8feb8a893/653fab3026a2415aaa494713a6b1b508.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f0b48fa43628487ba45ce09d1e40372f"
+    },
+    "vertexCount": 5107,
+    "viewCount": 79,
+    "viewerUrl": "https://sketchfab.com/3d-models/azulaes-rapier-27b82da0642b41ea9abdfc7e4c4a7a99",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a rapier I modeled and textured.\nThe design is mostly based on a drawing my girlfriend made (Insta: @art.byveronika), complemented by real-life reference images.\nWhat sets this piece apart is its nature-inspired, slightly whimsical fantasy aesthetic.\nThe guard and the crystal pommel are shaped to resemble creeping vines, giving the weapon an organic, forest-like character.\nThe sword uses a single 4K texture set.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/27b82da0642b41ea9abdfc7e4c4a7a99/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-30T19:49:12.365461",
+    "pbrType": "metalness",
+    "textureCount": 9,
+    "materialCount": 2
+}

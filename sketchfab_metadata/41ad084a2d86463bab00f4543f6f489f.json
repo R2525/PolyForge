@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T14:03:48.923502",
+    "embedUrl": "https://sketchfab.com/models/41ad084a2d86463bab00f4543f6f489f/embed",
+    "faceCount": 1166,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Pointed Grave Marker",
+    "publishedAt": "2026-02-20T14:04:46.844793",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tombstone",
+            "slug": "tombstone",
+            "uri": "https://api.sketchfab.com/v3/tags/tombstone"
+        },
+        {
+            "name": "death",
+            "slug": "death",
+            "uri": "https://api.sketchfab.com/v3/tags/death"
+        },
+        {
+            "name": "grave",
+            "slug": "grave",
+            "uri": "https://api.sketchfab.com/v3/tags/grave"
+        },
+        {
+            "name": "scary",
+            "slug": "scary",
+            "uri": "https://api.sketchfab.com/v3/tags/scary"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "cemetary",
+            "slug": "cemetary",
+            "uri": "https://api.sketchfab.com/v3/tags/cemetary"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "95ecb2a86c3d4c648f4074318f1ad6d8",
+                "width": 1920,
+                "height": 1080,
+                "size": 66822,
+                "url": "https://media.sketchfab.com/models/41ad084a2d86463bab00f4543f6f489f/thumbnails/b1350a689e734bc0a6e34d2b35c23f25/b07155c7217e42feae0e9aa2e1c3ccfa.jpeg"
+            },
+            {
+                "uid": "2de69e7c75a5421e9692d91d00d3792d",
+                "width": 1024,
+                "height": 576,
+                "size": 19408,
+                "url": "https://media.sketchfab.com/models/41ad084a2d86463bab00f4543f6f489f/thumbnails/b1350a689e734bc0a6e34d2b35c23f25/3a772ee309094e7caeee1b1d65c5cb05.jpeg"
+            },
+            {
+                "uid": "ea00da52fb8f4ef9a144e5a46c573c2d",
+                "width": 720,
+                "height": 405,
+                "size": 10589,
+                "url": "https://media.sketchfab.com/models/41ad084a2d86463bab00f4543f6f489f/thumbnails/b1350a689e734bc0a6e34d2b35c23f25/2fcb44f874ee486f8bd7e1ba9da1ba41.jpeg"
+            },
+            {
+                "uid": "5fbf2c4f1e434819bf39edfb0d06dee8",
+                "width": 256,
+                "height": 144,
+                "size": 2371,
+                "url": "https://media.sketchfab.com/models/41ad084a2d86463bab00f4543f6f489f/thumbnails/b1350a689e734bc0a6e34d2b35c23f25/1e49fbcd6e1146a4a5cdbf36500083ca.jpeg"
+            },
+            {
+                "uid": "8c67a538f5444ed7901bf5bbef59f443",
+                "width": 64,
+                "height": 36,
+                "size": 946,
+                "url": "https://media.sketchfab.com/models/41ad084a2d86463bab00f4543f6f489f/thumbnails/b1350a689e734bc0a6e34d2b35c23f25/54f984bb68bf4fce91fd45723071361b.jpeg"
+            }
+        ]
+    },
+    "uid": "41ad084a2d86463bab00f4543f6f489f",
+    "uri": "https://api.sketchfab.com/v3/models/41ad084a2d86463bab00f4543f6f489f",
+    "user": {
+        "uid": "33da243f5bd34ffaac8d3995e1138ed5",
+        "username": "fodorzs66",
+        "displayName": "Fodor Zsolt",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/fodorzs66",
+        "avatar": {
+            "uid": "878aa0e105ae4f09bfc7e07036d1fc26",
+            "uri": "https://api.sketchfab.com/v3/avatars/878aa0e105ae4f09bfc7e07036d1fc26",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3555,
+                    "url": "https://media.sketchfab.com/avatars/878aa0e105ae4f09bfc7e07036d1fc26/da835e0bd37a40c5859d4fd31d6cc4c8.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3074,
+                    "url": "https://media.sketchfab.com/avatars/878aa0e105ae4f09bfc7e07036d1fc26/83078bcc604049a587c4c8ec9d1c0fcf.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1152,
+                    "url": "https://media.sketchfab.com/avatars/878aa0e105ae4f09bfc7e07036d1fc26/20b1a0e03ed34c5c838809343a3b5ccf.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 707,
+                    "url": "https://media.sketchfab.com/avatars/878aa0e105ae4f09bfc7e07036d1fc26/93c7d202818646b4b298f72a2034a3bd.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/33da243f5bd34ffaac8d3995e1138ed5"
+    },
+    "vertexCount": 579,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/pointed-grave-marker-41ad084a2d86463bab00f4543f6f489f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For complete workflow compatibility, we recommend downloading the source format.The viewer version is intended only for use in the web viewer. In the Original format, the following are fully preserved:✔ native scene structure✔ complete materials without reduction✔ proper texture maps✔ proper object namingIf you plan to use this model in production, select the original version.Old used Grave stone marker used in cemetaries",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/41ad084a2d86463bab00f4543f6f489f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T14:04:47.038320",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,171 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+            "name": "Places & Travel",
+            "slug": "places-travel",
+            "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T10:59:04.012730",
+    "embedUrl": "https://sketchfab.com/models/2525af2bae2f4989bf74c81a4929f135/embed",
+    "faceCount": 5554,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "LP_ Fly Islands",
+    "publishedAt": "2026-02-22T11:01:35.540044",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "islands",
+            "slug": "islands",
+            "uri": "https://api.sketchfab.com/v3/tags/islands"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "575c65064fb1455389244fb4163cf2fe",
+                "width": 1920,
+                "height": 1080,
+                "size": 61045,
+                "url": "https://media.sketchfab.com/models/2525af2bae2f4989bf74c81a4929f135/thumbnails/df219b9ee8eb4376af088ba1eba5049c/ff541d51995d49dd855184077343769b.jpeg"
+            },
+            {
+                "uid": "a32aba90d92a4098bebf2c78cc3a5733",
+                "width": 1024,
+                "height": 576,
+                "size": 22137,
+                "url": "https://media.sketchfab.com/models/2525af2bae2f4989bf74c81a4929f135/thumbnails/df219b9ee8eb4376af088ba1eba5049c/9053c879690b4c4fb6ebfb8483c0988c.jpeg"
+            },
+            {
+                "uid": "6b174f384fc543a5a330ba4c42d9a9f6",
+                "width": 720,
+                "height": 405,
+                "size": 13415,
+                "url": "https://media.sketchfab.com/models/2525af2bae2f4989bf74c81a4929f135/thumbnails/df219b9ee8eb4376af088ba1eba5049c/36eb0641df314ad0a4643f94c01e0148.jpeg"
+            },
+            {
+                "uid": "ce78625cfb1d40efae0c671940ff595a",
+                "width": 256,
+                "height": 144,
+                "size": 3342,
+                "url": "https://media.sketchfab.com/models/2525af2bae2f4989bf74c81a4929f135/thumbnails/df219b9ee8eb4376af088ba1eba5049c/0c3b4b837b90448dbd80b7e2129832b0.jpeg"
+            },
+            {
+                "uid": "bccdf37f1be742ad8a2c1ca494ffca40",
+                "width": 64,
+                "height": 36,
+                "size": 988,
+                "url": "https://media.sketchfab.com/models/2525af2bae2f4989bf74c81a4929f135/thumbnails/df219b9ee8eb4376af088ba1eba5049c/31e01682f7aa413199701a88d2071ce2.jpeg"
+            }
+        ]
+    },
+    "uid": "2525af2bae2f4989bf74c81a4929f135",
+    "uri": "https://api.sketchfab.com/v3/models/2525af2bae2f4989bf74c81a4929f135",
+    "user": {
+        "uid": "a862e582b1e44c0ca2175b25f6a621c0",
+        "username": "CubeModeller",
+        "displayName": "CubeModeller",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/CubeModeller",
+        "avatar": {
+            "uid": "138fff900f944d30af04ba78b81646ea",
+            "uri": "https://api.sketchfab.com/v3/avatars/138fff900f944d30af04ba78b81646ea",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 746,
+                    "url": "https://media.sketchfab.com/avatars/138fff900f944d30af04ba78b81646ea/ac67a9a8dd2b45b19bb7e9d39865ff5f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 894,
+                    "url": "https://media.sketchfab.com/avatars/138fff900f944d30af04ba78b81646ea/29a7524009ce45d6832c60a9d3948f73.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1409,
+                    "url": "https://media.sketchfab.com/avatars/138fff900f944d30af04ba78b81646ea/c2d6e58610fa4663b23d1bc5fa4cd2fd.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1571,
+                    "url": "https://media.sketchfab.com/avatars/138fff900f944d30af04ba78b81646ea/904ad42f9982480ca03450e8309ee0b3.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a862e582b1e44c0ca2175b25f6a621c0"
+    },
+    "vertexCount": 2974,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/lp--fly-islands-2525af2bae2f4989bf74c81a4929f135",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "low poly fly islands",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/2525af2bae2f4989bf74c81a4929f135/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T11:01:35.620574",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 3
+}

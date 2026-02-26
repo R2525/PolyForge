@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T13:06:31.246936",
+    "embedUrl": "https://sketchfab.com/models/2e747f7ee4e04c2aa51159828430a88d/embed",
+    "faceCount": 372,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Inky",
+    "publishedAt": "2026-02-21T14:12:23.110113",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "enchanted",
+            "slug": "enchanted",
+            "uri": "https://api.sketchfab.com/v3/tags/enchanted"
+        },
+        {
+            "name": "mysterious",
+            "slug": "mysterious",
+            "uri": "https://api.sketchfab.com/v3/tags/mysterious"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2418d6e0d3364816b9b2d9d85b0d3b16",
+                "width": 1920,
+                "height": 1080,
+                "size": 77040,
+                "url": "https://media.sketchfab.com/models/2e747f7ee4e04c2aa51159828430a88d/thumbnails/3efcf5172c124b74b96c79237c1e2f99/c585b94f97ae48dbae24220be98caba9.jpeg"
+            },
+            {
+                "uid": "1caed6455e4240d8a713ae9798c7b7f5",
+                "width": 1024,
+                "height": 576,
+                "size": 30507,
+                "url": "https://media.sketchfab.com/models/2e747f7ee4e04c2aa51159828430a88d/thumbnails/3efcf5172c124b74b96c79237c1e2f99/9072f14d38534155a10dce1f023447d7.jpeg"
+            },
+            {
+                "uid": "a44deabe19af455e8c80b51e5921078e",
+                "width": 720,
+                "height": 405,
+                "size": 19308,
+                "url": "https://media.sketchfab.com/models/2e747f7ee4e04c2aa51159828430a88d/thumbnails/3efcf5172c124b74b96c79237c1e2f99/e26b1c71805a42a9b4080fa0bf9d8c45.jpeg"
+            },
+            {
+                "uid": "37238b04082b4bda95342eb1c671698f",
+                "width": 256,
+                "height": 144,
+                "size": 5053,
+                "url": "https://media.sketchfab.com/models/2e747f7ee4e04c2aa51159828430a88d/thumbnails/3efcf5172c124b74b96c79237c1e2f99/c694bb0bed324e5d8a330d662509150f.jpeg"
+            },
+            {
+                "uid": "640ad217a536407eae4294281bb59d9a",
+                "width": 64,
+                "height": 36,
+                "size": 1257,
+                "url": "https://media.sketchfab.com/models/2e747f7ee4e04c2aa51159828430a88d/thumbnails/3efcf5172c124b74b96c79237c1e2f99/4d709967fee14bbcabdc36eae4c55219.jpeg"
+            }
+        ]
+    },
+    "uid": "2e747f7ee4e04c2aa51159828430a88d",
+    "uri": "https://api.sketchfab.com/v3/models/2e747f7ee4e04c2aa51159828430a88d",
+    "user": {
+        "uid": "5810baae2105453ea7688b185f6196ab",
+        "username": "frezoserver",
+        "displayName": "Frezo",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/frezoserver",
+        "avatar": {
+            "uid": "4e759b8908234a01a314342e3770fb68",
+            "uri": "https://api.sketchfab.com/v3/avatars/4e759b8908234a01a314342e3770fb68",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1944,
+                    "url": "https://media.sketchfab.com/avatars/4e759b8908234a01a314342e3770fb68/d2be0f86e3fc40d5b7b318a4574e8a5b.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3628,
+                    "url": "https://media.sketchfab.com/avatars/4e759b8908234a01a314342e3770fb68/2b7714ed7eb645d689df37acc101f964.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9508,
+                    "url": "https://media.sketchfab.com/avatars/4e759b8908234a01a314342e3770fb68/4b0f20df0bbe4f70a59daeb3925dea2a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11103,
+                    "url": "https://media.sketchfab.com/avatars/4e759b8908234a01a314342e3770fb68/f1af0b4b20c44466854b235a405eca26.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5810baae2105453ea7688b185f6196ab"
+    },
+    "vertexCount": 248,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/inky-2e747f7ee4e04c2aa51159828430a88d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "# **Inky** is a custom **Minecraft-style** mystical entity inspired by arcane magic and shadow energy.\n# \nDesigned with a deep purple palette and glowing cyan rune accents, this character features a wide-brim enchanted hat, flowing layered robes, and subtle gold highlights for contrast. The minimal face design enhances its mysterious presence, making it perfect for fantasy-themed worlds.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2e747f7ee4e04c2aa51159828430a88d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T10:18:52.008288",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 4
+}

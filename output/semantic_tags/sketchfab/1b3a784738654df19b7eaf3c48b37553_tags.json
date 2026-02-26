@@ -1,0 +1,41 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.65
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.9
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.8
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Glow"
+    ],
+    "tags": [
+        "robot",
+        "digital",
+        "model"
+    ]
+}

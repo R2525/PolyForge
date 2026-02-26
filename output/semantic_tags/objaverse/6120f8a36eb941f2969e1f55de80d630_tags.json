@@ -1,0 +1,38 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.8
+        },
+        {
+            "name": "Abstract",
+            "score": 0.75
+        }
+    ],
+    "style": "Abstract",
+    "top_styles": [
+        {
+            "name": "Abstract",
+            "score": 0.9
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Dusty",
+        "Wet"
+    ],
+    "tags": [
+        "abstract",
+        "sculpture",
+        "architecture",
+        "3D model"
+    ]
+}

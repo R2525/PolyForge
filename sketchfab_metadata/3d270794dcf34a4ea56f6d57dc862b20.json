@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T11:01:27.748422",
+    "embedUrl": "https://sketchfab.com/models/3d270794dcf34a4ea56f6d57dc862b20/embed",
+    "faceCount": 61652,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Reg From Made In Abyss",
+    "publishedAt": "2026-02-20T11:03:02.028094",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cute",
+            "slug": "cute",
+            "uri": "https://api.sketchfab.com/v3/tags/cute"
+        },
+        {
+            "name": "boy",
+            "slug": "boy",
+            "uri": "https://api.sketchfab.com/v3/tags/boy"
+        },
+        {
+            "name": "child",
+            "slug": "child",
+            "uri": "https://api.sketchfab.com/v3/tags/child"
+        },
+        {
+            "name": "mange",
+            "slug": "mange",
+            "uri": "https://api.sketchfab.com/v3/tags/mange"
+        },
+        {
+            "name": "reg",
+            "slug": "reg",
+            "uri": "https://api.sketchfab.com/v3/tags/reg"
+        },
+        {
+            "name": "made_in_abyss",
+            "slug": "made_in_abyss",
+            "uri": "https://api.sketchfab.com/v3/tags/made_in_abyss"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4f1aff94fd104576a1438de09ffb85ae",
+                "width": 1920,
+                "height": 1080,
+                "size": 46629,
+                "url": "https://media.sketchfab.com/models/3d270794dcf34a4ea56f6d57dc862b20/thumbnails/7e8cd6c5099146dd95a0a899d26d0523/fcdcebe3535f4e65b71d5d68727cf07e.jpeg"
+            },
+            {
+                "uid": "3aebf16154934ea49ce550935306e073",
+                "width": 1024,
+                "height": 576,
+                "size": 14664,
+                "url": "https://media.sketchfab.com/models/3d270794dcf34a4ea56f6d57dc862b20/thumbnails/7e8cd6c5099146dd95a0a899d26d0523/7d5fa1d61e554c80ac30d875c6b35b95.jpeg"
+            },
+            {
+                "uid": "19875355de0049f89461eae8d8d09c1c",
+                "width": 720,
+                "height": 405,
+                "size": 8147,
+                "url": "https://media.sketchfab.com/models/3d270794dcf34a4ea56f6d57dc862b20/thumbnails/7e8cd6c5099146dd95a0a899d26d0523/10bd424cff874aaaad78f4139506e73c.jpeg"
+            },
+            {
+                "uid": "597f5d0cddc74257950d246711bdc17e",
+                "width": 256,
+                "height": 144,
+                "size": 1750,
+                "url": "https://media.sketchfab.com/models/3d270794dcf34a4ea56f6d57dc862b20/thumbnails/7e8cd6c5099146dd95a0a899d26d0523/3c563cf9e8d9436d83b063e1e20ce912.jpeg"
+            },
+            {
+                "uid": "5cfd444a46114aff80a26d68412b5ab9",
+                "width": 64,
+                "height": 36,
+                "size": 776,
+                "url": "https://media.sketchfab.com/models/3d270794dcf34a4ea56f6d57dc862b20/thumbnails/7e8cd6c5099146dd95a0a899d26d0523/fe1f4ea771ae4180b302c00365f13f1b.jpeg"
+            }
+        ]
+    },
+    "uid": "3d270794dcf34a4ea56f6d57dc862b20",
+    "uri": "https://api.sketchfab.com/v3/models/3d270794dcf34a4ea56f6d57dc862b20",
+    "user": {
+        "uid": "4273da4de0bf40898d6954fdd0ddb192",
+        "username": "unkredible",
+        "displayName": "Unkredible Studios",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/unkredible",
+        "avatar": {
+            "uid": "69cb3810307c4bdf97530b3f7fbabaa3",
+            "uri": "https://api.sketchfab.com/v3/avatars/69cb3810307c4bdf97530b3f7fbabaa3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 773,
+                    "url": "https://media.sketchfab.com/avatars/69cb3810307c4bdf97530b3f7fbabaa3/f7edefd85555435c8fff1636ae3d68ae.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1054,
+                    "url": "https://media.sketchfab.com/avatars/69cb3810307c4bdf97530b3f7fbabaa3/ae211d5ce4434dfcb97cb7ebff83a546.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1868,
+                    "url": "https://media.sketchfab.com/avatars/69cb3810307c4bdf97530b3f7fbabaa3/044b642476c44a0bb2bb2b4b716fea99.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2088,
+                    "url": "https://media.sketchfab.com/avatars/69cb3810307c4bdf97530b3f7fbabaa3/5ab4a8dc55d842a8a7eb8f3c64d50f7a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4273da4de0bf40898d6954fdd0ddb192"
+    },
+    "vertexCount": 32592,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/reg-from-made-in-abyss-3d270794dcf34a4ea56f6d57dc862b20",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For complete workflow compatibility, we recommend downloading the source format.The Converted version is intended only for use in the web viewer. In the original file, the following are fully preserved:✔ full scene structure✔ unsimplified materials✔ accurate texture maps✔ proper object namingIf you plan to use this model in production, download the source file.Reg charachter from Made in Abyss. The model is intended for EVEE rendering only due to the outlining. Eyes and beam scheme have some paralax effect with simple reflection. can be modified in shader editor.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/3d270794dcf34a4ea56f6d57dc862b20/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T11:03:02.305586",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 5
+}

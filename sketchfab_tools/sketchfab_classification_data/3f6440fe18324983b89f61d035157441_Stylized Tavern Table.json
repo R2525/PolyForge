@@ -1,0 +1,67 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Stylized",
+    "top_genres": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic",
+            "score": 0.6
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.5
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.4
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.5
+        },
+        {
+            "name": "3D Model",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "tavern table",
+        "furniture",
+        "3D model",
+        "vintage",
+        "stylized",
+        "home",
+        "table",
+        "bar"
+    ],
+    "model_id_full": "3f6440fe18324983b89f61d035157441_Stylized Tavern Table",
+    "sketchfab_id": "3f6440fe18324983b89f61d035157441",
+    "asset_name": "Stylized Tavern Table"
+}

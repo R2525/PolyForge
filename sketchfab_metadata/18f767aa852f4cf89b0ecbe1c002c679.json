@@ -1,0 +1,224 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T07:33:09.622111",
+    "embedUrl": "https://sketchfab.com/models/18f767aa852f4cf89b0ecbe1c002c679/embed",
+    "faceCount": 9999,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Scorpion-Tailed Lion",
+    "publishedAt": "2026-02-25T07:33:31.182310",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "beast",
+            "slug": "beast",
+            "uri": "https://api.sketchfab.com/v3/tags/beast"
+        },
+        {
+            "name": "armed",
+            "slug": "armed",
+            "uri": "https://api.sketchfab.com/v3/tags/armed"
+        },
+        {
+            "name": "scorpion",
+            "slug": "scorpion",
+            "uri": "https://api.sketchfab.com/v3/tags/scorpion"
+        },
+        {
+            "name": "hybrid",
+            "slug": "hybrid",
+            "uri": "https://api.sketchfab.com/v3/tags/hybrid"
+        },
+        {
+            "name": "Lion",
+            "slug": "lion",
+            "uri": "https://api.sketchfab.com/v3/tags/lion"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "mythical",
+            "slug": "mythical",
+            "uri": "https://api.sketchfab.com/v3/tags/mythical"
+        },
+        {
+            "name": "Chimera",
+            "slug": "chimera",
+            "uri": "https://api.sketchfab.com/v3/tags/chimera"
+        },
+        {
+            "name": "aggressive",
+            "slug": "aggressive",
+            "uri": "https://api.sketchfab.com/v3/tags/aggressive"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "61d13a2a494342c1823310720621a0dc",
+                "width": 1920,
+                "height": 1080,
+                "size": 61091,
+                "url": "https://media.sketchfab.com/models/18f767aa852f4cf89b0ecbe1c002c679/thumbnails/f6caba8eafa24298b2762dba67c93cac/1690f0a6beca434fafc48f4ae20f0c31.jpeg"
+            },
+            {
+                "uid": "7585a37d71f94a0791e97604e66ccfb4",
+                "width": 1024,
+                "height": 576,
+                "size": 20863,
+                "url": "https://media.sketchfab.com/models/18f767aa852f4cf89b0ecbe1c002c679/thumbnails/f6caba8eafa24298b2762dba67c93cac/38c7ea84af424d5abd52f62f3324963d.jpeg"
+            },
+            {
+                "uid": "47adb650ce614efd8b0ade177132795c",
+                "width": 720,
+                "height": 405,
+                "size": 12221,
+                "url": "https://media.sketchfab.com/models/18f767aa852f4cf89b0ecbe1c002c679/thumbnails/f6caba8eafa24298b2762dba67c93cac/fc094421c5ab479c977f126f4d27edd8.jpeg"
+            },
+            {
+                "uid": "2afc67d39058427cbe26ef20293b3c76",
+                "width": 256,
+                "height": 144,
+                "size": 2973,
+                "url": "https://media.sketchfab.com/models/18f767aa852f4cf89b0ecbe1c002c679/thumbnails/f6caba8eafa24298b2762dba67c93cac/05a54e95a39640848b26a3fccb2d9f2e.jpeg"
+            },
+            {
+                "uid": "5b6005c432f540eb91349880b15da0a1",
+                "width": 64,
+                "height": 36,
+                "size": 1007,
+                "url": "https://media.sketchfab.com/models/18f767aa852f4cf89b0ecbe1c002c679/thumbnails/f6caba8eafa24298b2762dba67c93cac/8188584e1f464c3eaab0334bcc810d90.jpeg"
+            }
+        ]
+    },
+    "uid": "18f767aa852f4cf89b0ecbe1c002c679",
+    "uri": "https://api.sketchfab.com/v3/models/18f767aa852f4cf89b0ecbe1c002c679",
+    "user": {
+        "uid": "2fc99c86180b4818825b311279ea2e9e",
+        "username": "rajshing33",
+        "displayName": "rajshing33",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rajshing33",
+        "avatar": {
+            "uid": "58c740d0d3e74172acd40ca1b8b720b7",
+            "uri": "https://api.sketchfab.com/v3/avatars/58c740d0d3e74172acd40ca1b8b720b7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1159,
+                    "url": "https://media.sketchfab.com/avatars/58c740d0d3e74172acd40ca1b8b720b7/fcb573af5e584f32a264a77ade791a80.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1533,
+                    "url": "https://media.sketchfab.com/avatars/58c740d0d3e74172acd40ca1b8b720b7/b0779fc3e256469cb8a6f7a2843ea41f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2890,
+                    "url": "https://media.sketchfab.com/avatars/58c740d0d3e74172acd40ca1b8b720b7/3c00c9a250ea497f99819c188ac0b210.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3194,
+                    "url": "https://media.sketchfab.com/avatars/58c740d0d3e74172acd40ca1b8b720b7/e9125d2234314c0b981a4e7f5d839514.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2fc99c86180b4818825b311279ea2e9e"
+    },
+    "vertexCount": 4998,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/scorpion-tailed-lion-18f767aa852f4cf89b0ecbe1c002c679",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/FToySQ](https://www.meshy.ai/s/FToySQ)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/18f767aa852f4cf89b0ecbe1c002c679/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T07:33:31.162698",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

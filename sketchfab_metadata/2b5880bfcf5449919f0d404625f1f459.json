@@ -1,0 +1,269 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-04T08:23:19.340438",
+    "embedUrl": "https://sketchfab.com/models/2b5880bfcf5449919f0d404625f1f459/embed",
+    "faceCount": 17962,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 11,
+    "name": "Fantasy Helmet 3D model",
+    "publishedAt": "2026-02-04T10:10:29.906979",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "equipment",
+            "slug": "equipment",
+            "uri": "https://api.sketchfab.com/v3/tags/equipment"
+        },
+        {
+            "name": "game_asset",
+            "slug": "game_asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game_asset"
+        },
+        {
+            "name": "fur",
+            "slug": "fur",
+            "uri": "https://api.sketchfab.com/v3/tags/fur"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "ammunition",
+            "slug": "ammunition",
+            "uri": "https://api.sketchfab.com/v3/tags/ammunition"
+        },
+        {
+            "name": "heroic",
+            "slug": "heroic",
+            "uri": "https://api.sketchfab.com/v3/tags/heroic"
+        },
+        {
+            "name": "skull",
+            "slug": "skull",
+            "uri": "https://api.sketchfab.com/v3/tags/skull"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        },
+        {
+            "name": "fantasy_prop",
+            "slug": "fantasy_prop",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy_prop"
+        },
+        {
+            "name": "vr_ready",
+            "slug": "vr_ready",
+            "uri": "https://api.sketchfab.com/v3/tags/vr_ready"
+        },
+        {
+            "name": "medieval_fantasy",
+            "slug": "medieval_fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval_fantasy"
+        },
+        {
+            "name": "weapon_model",
+            "slug": "weapon_model",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon_model"
+        },
+        {
+            "name": "rpg_weapon",
+            "slug": "rpg_weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg_weapon"
+        },
+        {
+            "name": "ornate_design",
+            "slug": "ornate_design",
+            "uri": "https://api.sketchfab.com/v3/tags/ornate_design"
+        },
+        {
+            "name": "realistic_pbr",
+            "slug": "realistic_pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic_pbr"
+        },
+        {
+            "name": "ready_for_game",
+            "slug": "ready_for_game",
+            "uri": "https://api.sketchfab.com/v3/tags/ready_for_game"
+        },
+        {
+            "name": "runes_sword",
+            "slug": "runes_sword",
+            "uri": "https://api.sketchfab.com/v3/tags/runes_sword"
+        },
+        {
+            "name": "fantasy_helmet",
+            "slug": "fantasy_helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy_helmet"
+        },
+        {
+            "name": "cinematic_helmet",
+            "slug": "cinematic_helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic_helmet"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4bb04899b41d496ab5b5defb548260e2",
+                "width": 1920,
+                "height": 1080,
+                "size": 150674,
+                "url": "https://media.sketchfab.com/models/2b5880bfcf5449919f0d404625f1f459/thumbnails/3e6618c95aaf433d8c1fdf99836be0ab/f44f7b0664d7485c85c50cae7ff83497.jpeg"
+            },
+            {
+                "uid": "dd2a8a05db1440e59f1047c124de90e1",
+                "width": 1024,
+                "height": 576,
+                "size": 41067,
+                "url": "https://media.sketchfab.com/models/2b5880bfcf5449919f0d404625f1f459/thumbnails/3e6618c95aaf433d8c1fdf99836be0ab/2ee615a12c3e4ed1a06e7ec67b85d7d9.jpeg"
+            },
+            {
+                "uid": "617626ff7eb347c899565473e87de12a",
+                "width": 720,
+                "height": 405,
+                "size": 22475,
+                "url": "https://media.sketchfab.com/models/2b5880bfcf5449919f0d404625f1f459/thumbnails/3e6618c95aaf433d8c1fdf99836be0ab/9d24418be947421c8c8cda5c3e7bb20e.jpeg"
+            },
+            {
+                "uid": "84ef1bf2ac57444cb0c5a693ec24c091",
+                "width": 256,
+                "height": 144,
+                "size": 4458,
+                "url": "https://media.sketchfab.com/models/2b5880bfcf5449919f0d404625f1f459/thumbnails/3e6618c95aaf433d8c1fdf99836be0ab/5b437d9b2bdb4a348a70ccbb25ff840a.jpeg"
+            },
+            {
+                "uid": "da527fa0f8584a0089b41dc046c2e2ea",
+                "width": 64,
+                "height": 36,
+                "size": 1061,
+                "url": "https://media.sketchfab.com/models/2b5880bfcf5449919f0d404625f1f459/thumbnails/3e6618c95aaf433d8c1fdf99836be0ab/6f7e6b9b20f14b9eb705d9a4b5467700.jpeg"
+            }
+        ]
+    },
+    "uid": "2b5880bfcf5449919f0d404625f1f459",
+    "uri": "https://api.sketchfab.com/v3/models/2b5880bfcf5449919f0d404625f1f459",
+    "user": {
+        "uid": "6fbe5968753c43d796e3a8703d9bb232",
+        "username": "Nicu_Tepes_Vulpe",
+        "displayName": "Nicu_Tepes_Vulpe",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nicu_Tepes_Vulpe",
+        "avatar": {
+            "uid": "53dfd2b7d3b7404cb2efa906ce441e16",
+            "uri": "https://api.sketchfab.com/v3/avatars/53dfd2b7d3b7404cb2efa906ce441e16",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1308,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/e7c9f95c3a98417a9932411e09e61f48.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1976,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/6cd348f4d1b44e4692cf30bfa7828b42.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4374,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/9f1a9d1a016c48fcb6f72d5dff444cc3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5017,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/d6e77392c2be4e8c9742529c105c60cb.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6fbe5968753c43d796e3a8703d9bb232"
+    },
+    "vertexCount": 9513,
+    "viewCount": 91,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-helmet-3d-model-2b5880bfcf5449919f0d404625f1f459",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Fantasy Helmet 3D model\n\npolys 9332\n\nverts 9545\n\ntris 18662\n\nmaterials 1\n\ntextures (pbr 5) (ue 3) 4K resolution\n\nThis is an extremely detailed, photorealistic 3D model of a Fantasy Helmet, created using PBR workflows. Meticulously crafted for high-end use in video production, visualizations, AAA games, VR/AR applications, and digital art.\n\nThe provided archive is a comprehensive package, including:\n\n    Models: OBJ and FBX files for the Fantasy Helmet.\n\n    Production Scenes: Ready-to-render scenes in Marmoset Toolbag and Blender.\n\n    PBR Textures (4K): Base Color, Metallic, Ambient Occlusion, Normal, and Roughness maps.\n\n    Unreal Engine Textures (4K): Optimized texture set (Base Color, Normal, OcclusionRoughnessMetallic) for direct import.\n\nThis all-in-one kit offers ultimate flexibility for professional 3D creation and real-time rendering.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2b5880bfcf5449919f0d404625f1f459/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-04T10:13:35.628638",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

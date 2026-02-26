@@ -1,0 +1,170 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T15:51:23.145420",
+    "embedUrl": "https://sketchfab.com/models/2a683388310540c99ab4b29c809095ec/embed",
+    "faceCount": 707000,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Goblin",
+    "publishedAt": "2026-02-24T15:51:51.272031",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ogre",
+            "slug": "ogre",
+            "uri": "https://api.sketchfab.com/v3/tags/ogre"
+        },
+        {
+            "name": "muscular",
+            "slug": "muscular",
+            "uri": "https://api.sketchfab.com/v3/tags/muscular"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "783c962353a74e24a0efed8555d95f6a",
+                "width": 1920,
+                "height": 1080,
+                "size": 73356,
+                "url": "https://media.sketchfab.com/models/2a683388310540c99ab4b29c809095ec/thumbnails/cdf1000f118e49018dc6dca9b4950a3c/549c81006ec247d9976943e0479b1ff3.jpeg"
+            },
+            {
+                "uid": "09388794024e41ea94f9996b7958010f",
+                "width": 1024,
+                "height": 576,
+                "size": 25183,
+                "url": "https://media.sketchfab.com/models/2a683388310540c99ab4b29c809095ec/thumbnails/cdf1000f118e49018dc6dca9b4950a3c/297264b1e4b34eea807093c8550e274f.jpeg"
+            },
+            {
+                "uid": "24d24666b5d34b818683a0b9264e4a75",
+                "width": 720,
+                "height": 405,
+                "size": 14882,
+                "url": "https://media.sketchfab.com/models/2a683388310540c99ab4b29c809095ec/thumbnails/cdf1000f118e49018dc6dca9b4950a3c/4cafa1df212b4db09146df72d725e39c.jpeg"
+            },
+            {
+                "uid": "6dd162ea98fb4c0b93319bbc34edf86e",
+                "width": 256,
+                "height": 144,
+                "size": 3181,
+                "url": "https://media.sketchfab.com/models/2a683388310540c99ab4b29c809095ec/thumbnails/cdf1000f118e49018dc6dca9b4950a3c/7f335596d18c44949959545d788c2147.jpeg"
+            },
+            {
+                "uid": "62dd1b8c044c4ed0b0206a4ae659fd04",
+                "width": 64,
+                "height": 36,
+                "size": 886,
+                "url": "https://media.sketchfab.com/models/2a683388310540c99ab4b29c809095ec/thumbnails/cdf1000f118e49018dc6dca9b4950a3c/b985ec0e4d244f37b203ac5c636f15c1.jpeg"
+            }
+        ]
+    },
+    "uid": "2a683388310540c99ab4b29c809095ec",
+    "uri": "https://api.sketchfab.com/v3/models/2a683388310540c99ab4b29c809095ec",
+    "user": {
+        "uid": "0842b86294ad4467a8f306b9d7abc2ca",
+        "username": "Samadrizviart",
+        "displayName": "Samadrizviart",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Samadrizviart",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0842b86294ad4467a8f306b9d7abc2ca"
+    },
+    "vertexCount": 353436,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/goblin-2a683388310540c99ab4b29c809095ec",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/CpfFVC](https://www.meshy.ai/s/CpfFVC)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2a683388310540c99ab4b29c809095ec/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T15:51:51.248101",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

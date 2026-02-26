@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T05:48:21.077516",
+    "embedUrl": "https://sketchfab.com/models/363cd6e066ce4e4eacc6dc986631c469/embed",
+    "faceCount": 2570,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Stylised Low Poly Tree Pack",
+    "publishedAt": "2026-02-24T06:06:53.280054",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "trees",
+            "slug": "trees",
+            "uri": "https://api.sketchfab.com/v3/tags/trees"
+        },
+        {
+            "name": "lowpoly-gameasset-gameready",
+            "slug": "lowpoly-gameasset-gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly-gameasset-gameready"
+        },
+        {
+            "name": "environment-assets",
+            "slug": "environment-assets",
+            "uri": "https://api.sketchfab.com/v3/tags/environment-assets"
+        },
+        {
+            "name": "3dtree",
+            "slug": "3dtree",
+            "uri": "https://api.sketchfab.com/v3/tags/3dtree"
+        },
+        {
+            "name": "stylisedtree",
+            "slug": "stylisedtree",
+            "uri": "https://api.sketchfab.com/v3/tags/stylisedtree"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6836abc30c544d89a8422c0941b6ae48",
+                "width": 1920,
+                "height": 1080,
+                "size": 316606,
+                "url": "https://media.sketchfab.com/models/363cd6e066ce4e4eacc6dc986631c469/thumbnails/1543d8846a7e4b54b530a713cbfacf4d/1e7a6b043b3746748af386c3149c83a0.jpeg"
+            },
+            {
+                "uid": "f371606dda63467c825d731115818d9f",
+                "width": 1024,
+                "height": 576,
+                "size": 32779,
+                "url": "https://media.sketchfab.com/models/363cd6e066ce4e4eacc6dc986631c469/thumbnails/1543d8846a7e4b54b530a713cbfacf4d/0e1b4e0035ad4ee0b3a61facacfadd92.jpeg"
+            },
+            {
+                "uid": "2352d7a7833240279ef64c51f76a4206",
+                "width": 720,
+                "height": 405,
+                "size": 18883,
+                "url": "https://media.sketchfab.com/models/363cd6e066ce4e4eacc6dc986631c469/thumbnails/1543d8846a7e4b54b530a713cbfacf4d/34cf3ae1e460471087d03cce7b8e9f8d.jpeg"
+            },
+            {
+                "uid": "b2a883ba88bb437599019938017088dc",
+                "width": 256,
+                "height": 144,
+                "size": 4712,
+                "url": "https://media.sketchfab.com/models/363cd6e066ce4e4eacc6dc986631c469/thumbnails/1543d8846a7e4b54b530a713cbfacf4d/08ed7ec194c34c89ae711e64a8e11c56.jpeg"
+            },
+            {
+                "uid": "82b9019a16b341f4856269516671f153",
+                "width": 64,
+                "height": 36,
+                "size": 1178,
+                "url": "https://media.sketchfab.com/models/363cd6e066ce4e4eacc6dc986631c469/thumbnails/1543d8846a7e4b54b530a713cbfacf4d/d07929a44da64e9db1fd9a790e282873.jpeg"
+            }
+        ]
+    },
+    "uid": "363cd6e066ce4e4eacc6dc986631c469",
+    "uri": "https://api.sketchfab.com/v3/models/363cd6e066ce4e4eacc6dc986631c469",
+    "user": {
+        "uid": "c176d71ceb234a6489b8cf9af202ac9a",
+        "username": "BUttERflY_Bee",
+        "displayName": "BUttERflY_Bee",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/BUttERflY_Bee",
+        "avatar": {
+            "uid": "be9577f2a6c046d08b0a2ed2a72bcfc6",
+            "uri": "https://api.sketchfab.com/v3/avatars/be9577f2a6c046d08b0a2ed2a72bcfc6",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1048,
+                    "url": "https://media.sketchfab.com/avatars/be9577f2a6c046d08b0a2ed2a72bcfc6/62b43ed7d5bf48b5895d9d2f276c6c34.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1353,
+                    "url": "https://media.sketchfab.com/avatars/be9577f2a6c046d08b0a2ed2a72bcfc6/88bc2070ef9e408bb4aedc201caf22b6.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2547,
+                    "url": "https://media.sketchfab.com/avatars/be9577f2a6c046d08b0a2ed2a72bcfc6/0fcc66ba049642c3b33f8572fae3abb5.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2913,
+                    "url": "https://media.sketchfab.com/avatars/be9577f2a6c046d08b0a2ed2a72bcfc6/179f1ce318114cf7ba9d1a6f36ff957d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c176d71ceb234a6489b8cf9af202ac9a"
+    },
+    "vertexCount": 1366,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylised-low-poly-tree-pack-363cd6e066ce4e4eacc6dc986631c469",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Stylised low poly game environment trees. Made them optimal for mobile games too. Enjoy the download.\n\n*Roughness map will also work as Alpha map for leaves*",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/363cd6e066ce4e4eacc6dc986631c469/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T06:07:45.997583",
+    "pbrType": null,
+    "textureCount": 10,
+    "materialCount": 5
+}

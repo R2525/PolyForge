@@ -1,0 +1,315 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-20T22:29:54.287118",
+    "embedUrl": "https://sketchfab.com/models/44658544021541f9a054a48b6c38c0ee/embed",
+    "faceCount": 342228,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Eagle Studios - Survival Spawn",
+    "publishedAt": "2026-01-20T22:30:27.794840",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "world",
+            "slug": "world",
+            "uri": "https://api.sketchfab.com/v3/tags/world"
+        },
+        {
+            "name": "modern",
+            "slug": "modern",
+            "uri": "https://api.sketchfab.com/v3/tags/modern"
+        },
+        {
+            "name": "server",
+            "slug": "server",
+            "uri": "https://api.sketchfab.com/v3/tags/server"
+        },
+        {
+            "name": "custom",
+            "slug": "custom",
+            "uri": "https://api.sketchfab.com/v3/tags/custom"
+        },
+        {
+            "name": "terrain",
+            "slug": "terrain",
+            "uri": "https://api.sketchfab.com/v3/tags/terrain"
+        },
+        {
+            "name": "maps",
+            "slug": "maps",
+            "uri": "https://api.sketchfab.com/v3/tags/maps"
+        },
+        {
+            "name": "build",
+            "slug": "build",
+            "uri": "https://api.sketchfab.com/v3/tags/build"
+        },
+        {
+            "name": "creative",
+            "slug": "creative",
+            "uri": "https://api.sketchfab.com/v3/tags/creative"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "hub",
+            "slug": "hub",
+            "uri": "https://api.sketchfab.com/v3/tags/hub"
+        },
+        {
+            "name": "spawn",
+            "slug": "spawn",
+            "uri": "https://api.sketchfab.com/v3/tags/spawn"
+        },
+        {
+            "name": "modding",
+            "slug": "modding",
+            "uri": "https://api.sketchfab.com/v3/tags/modding"
+        },
+        {
+            "name": "lobby",
+            "slug": "lobby",
+            "uri": "https://api.sketchfab.com/v3/tags/lobby"
+        },
+        {
+            "name": "mods",
+            "slug": "mods",
+            "uri": "https://api.sketchfab.com/v3/tags/mods"
+        },
+        {
+            "name": "map",
+            "slug": "map",
+            "uri": "https://api.sketchfab.com/v3/tags/map"
+        },
+        {
+            "name": "redstone",
+            "slug": "redstone",
+            "uri": "https://api.sketchfab.com/v3/tags/redstone"
+        },
+        {
+            "name": "Quartz",
+            "slug": "quartz",
+            "uri": "https://api.sketchfab.com/v3/tags/quartz"
+        },
+        {
+            "name": "Resource",
+            "slug": "resource",
+            "uri": "https://api.sketchfab.com/v3/tags/resource"
+        },
+        {
+            "name": "minimalist",
+            "slug": "minimalist",
+            "uri": "https://api.sketchfab.com/v3/tags/minimalist"
+        },
+        {
+            "name": "STRUCTURES",
+            "slug": "structures",
+            "uri": "https://api.sketchfab.com/v3/tags/structures"
+        },
+        {
+            "name": "schematic",
+            "slug": "schematic",
+            "uri": "https://api.sketchfab.com/v3/tags/schematic"
+        },
+        {
+            "name": "pvp",
+            "slug": "pvp",
+            "uri": "https://api.sketchfab.com/v3/tags/pvp"
+        },
+        {
+            "name": "aesthetic",
+            "slug": "aesthetic",
+            "uri": "https://api.sketchfab.com/v3/tags/aesthetic"
+        },
+        {
+            "name": "creations",
+            "slug": "creations",
+            "uri": "https://api.sketchfab.com/v3/tags/creations"
+        },
+        {
+            "name": "minecraft-map",
+            "slug": "minecraft-map",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft-map"
+        },
+        {
+            "name": "minecraft-lobby",
+            "slug": "minecraft-lobby",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft-lobby"
+        },
+        {
+            "name": "minigame",
+            "slug": "minigame",
+            "uri": "https://api.sketchfab.com/v3/tags/minigame"
+        },
+        {
+            "name": "mini-game",
+            "slug": "mini-game",
+            "uri": "https://api.sketchfab.com/v3/tags/mini-game"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "mineways",
+            "slug": "mineways",
+            "uri": "https://api.sketchfab.com/v3/tags/mineways"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "city",
+            "slug": "city",
+            "uri": "https://api.sketchfab.com/v3/tags/city"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "minecraft-hub",
+            "slug": "minecraft-hub",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft-hub"
+        },
+        {
+            "name": "modern-minecraft",
+            "slug": "modern-minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/modern-minecraft"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7dc2a5b6db834ed7aab5a786d7889a00",
+                "width": 1920,
+                "height": 1080,
+                "size": 115950,
+                "url": "https://media.sketchfab.com/models/44658544021541f9a054a48b6c38c0ee/thumbnails/f57679e7960f46ad8dc9d8d1f2c29eb9/fcf6ce1bd63e405c96bd18a79665ee4c.jpeg"
+            },
+            {
+                "uid": "0f9d80648ad84f93881e0ea47770583e",
+                "width": 1024,
+                "height": 576,
+                "size": 35890,
+                "url": "https://media.sketchfab.com/models/44658544021541f9a054a48b6c38c0ee/thumbnails/f57679e7960f46ad8dc9d8d1f2c29eb9/e085a18b407d468bb1cead5037cc4eb2.jpeg"
+            },
+            {
+                "uid": "f3948826ed6c4888804ab25bf5173f30",
+                "width": 720,
+                "height": 405,
+                "size": 20373,
+                "url": "https://media.sketchfab.com/models/44658544021541f9a054a48b6c38c0ee/thumbnails/f57679e7960f46ad8dc9d8d1f2c29eb9/ff964178794940619b134d27e2927e01.jpeg"
+            },
+            {
+                "uid": "dc17637b075045a0969395f3f93c5d43",
+                "width": 256,
+                "height": 144,
+                "size": 3980,
+                "url": "https://media.sketchfab.com/models/44658544021541f9a054a48b6c38c0ee/thumbnails/f57679e7960f46ad8dc9d8d1f2c29eb9/5fdb840977be40d0a9a6822b2451909c.jpeg"
+            },
+            {
+                "uid": "92f82080f55046089aa7721f12914809",
+                "width": 64,
+                "height": 36,
+                "size": 1006,
+                "url": "https://media.sketchfab.com/models/44658544021541f9a054a48b6c38c0ee/thumbnails/f57679e7960f46ad8dc9d8d1f2c29eb9/fd2ba1fa01a24ad887ff0d39e1a38e5b.jpeg"
+            }
+        ]
+    },
+    "uid": "44658544021541f9a054a48b6c38c0ee",
+    "uri": "https://api.sketchfab.com/v3/models/44658544021541f9a054a48b6c38c0ee",
+    "user": {
+        "uid": "f9196b5cd52e49be8f50292b9651a509",
+        "username": "eagle-studios",
+        "displayName": "Eagle Studios",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/eagle-studios",
+        "avatar": {
+            "uid": "741e21065e2944e0b560eaedeb1918da",
+            "uri": "https://api.sketchfab.com/v3/avatars/741e21065e2944e0b560eaedeb1918da",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1869,
+                    "url": "https://media.sketchfab.com/avatars/741e21065e2944e0b560eaedeb1918da/58d7864393e84a2a9e4fb25f0326a350.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3507,
+                    "url": "https://media.sketchfab.com/avatars/741e21065e2944e0b560eaedeb1918da/59f0f414e1264715a17a507dfdd6e862.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9487,
+                    "url": "https://media.sketchfab.com/avatars/741e21065e2944e0b560eaedeb1918da/ba8db98ab1b8450382966f9b6c2667f5.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11011,
+                    "url": "https://media.sketchfab.com/avatars/741e21065e2944e0b560eaedeb1918da/84b2d958098344dc986051945744fa86.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f9196b5cd52e49be8f50292b9651a509"
+    },
+    "vertexCount": 175999,
+    "viewCount": 27,
+    "viewerUrl": "https://sketchfab.com/3d-models/eagle-studios-survival-spawn-44658544021541f9a054a48b6c38c0ee",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Perfect for survival, lifesteal, boxPvP, or even custom minigames\n\nThis map is for sale: \nhttps://builtbybit.com/resources/survival-spawn.83384/",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/44658544021541f9a054a48b6c38c0ee/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "mineways",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-20T22:31:52.122003",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 60
+}

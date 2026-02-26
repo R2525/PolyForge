@@ -1,0 +1,191 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 8,
+    "createdAt": "2026-01-03T17:53:19.614407",
+    "embedUrl": "https://sketchfab.com/models/403fc01810c24201bab7a6289bb7eded/embed",
+    "faceCount": 20910,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 83,
+    "name": "First Order Flag Officer / utsm 3.0 body",
+    "publishedAt": "2026-01-03T19:01:22.304025",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "new",
+            "slug": "new",
+            "uri": "https://api.sketchfab.com/v3/tags/new"
+        },
+        {
+            "name": "upgrade",
+            "slug": "upgrade",
+            "uri": "https://api.sketchfab.com/v3/tags/upgrade"
+        },
+        {
+            "name": "viral",
+            "slug": "viral",
+            "uri": "https://api.sketchfab.com/v3/tags/viral"
+        },
+        {
+            "name": "cameraman",
+            "slug": "cameraman",
+            "uri": "https://api.sketchfab.com/v3/tags/cameraman"
+        },
+        {
+            "name": "tvman",
+            "slug": "tvman",
+            "uri": "https://api.sketchfab.com/v3/tags/tvman"
+        },
+        {
+            "name": "skibidi_toliet",
+            "slug": "skibidi_toliet",
+            "uri": "https://api.sketchfab.com/v3/tags/skibidi_toliet"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7a982aaf6c3941c794326a84c953a040",
+                "width": 1920,
+                "height": 1080,
+                "size": 74108,
+                "url": "https://media.sketchfab.com/models/403fc01810c24201bab7a6289bb7eded/thumbnails/964b436d8457427992a22c8d2dda22d1/4292fa40b6c5486a897dfcb1710716ba.jpeg"
+            },
+            {
+                "uid": "89c668d454f34a0b9b4cd88f213b2930",
+                "width": 1024,
+                "height": 576,
+                "size": 25400,
+                "url": "https://media.sketchfab.com/models/403fc01810c24201bab7a6289bb7eded/thumbnails/964b436d8457427992a22c8d2dda22d1/507163116f654a119a1f3ddf760e0629.jpeg"
+            },
+            {
+                "uid": "4b5d755ed23a41869b481aa79b896bb4",
+                "width": 720,
+                "height": 405,
+                "size": 15625,
+                "url": "https://media.sketchfab.com/models/403fc01810c24201bab7a6289bb7eded/thumbnails/964b436d8457427992a22c8d2dda22d1/70eca3008ed74ed4940884697fd36b65.jpeg"
+            },
+            {
+                "uid": "6d3d69846e664b099c40df33ba388272",
+                "width": 256,
+                "height": 144,
+                "size": 4066,
+                "url": "https://media.sketchfab.com/models/403fc01810c24201bab7a6289bb7eded/thumbnails/964b436d8457427992a22c8d2dda22d1/108a7ea3a58c4558a0ce075d15ae62a6.jpeg"
+            },
+            {
+                "uid": "6e29c18aad6a451ab35f75952d13704e",
+                "width": 64,
+                "height": 36,
+                "size": 1084,
+                "url": "https://media.sketchfab.com/models/403fc01810c24201bab7a6289bb7eded/thumbnails/964b436d8457427992a22c8d2dda22d1/df60727a7e364c159f8c1b1575390be8.jpeg"
+            }
+        ]
+    },
+    "uid": "403fc01810c24201bab7a6289bb7eded",
+    "uri": "https://api.sketchfab.com/v3/models/403fc01810c24201bab7a6289bb7eded",
+    "user": {
+        "uid": "99524990d4354e2787c5c35c916f3e00",
+        "username": "speakerscientist74_Legit",
+        "displayName": "SpeakerScientist",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/speakerscientist74_Legit",
+        "avatar": {
+            "uid": "508a96b1812145d58d98aaa797cf6a9e",
+            "uri": "https://api.sketchfab.com/v3/avatars/508a96b1812145d58d98aaa797cf6a9e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 924,
+                    "url": "https://media.sketchfab.com/avatars/508a96b1812145d58d98aaa797cf6a9e/033bf8c378134334ab3dc1511bd0a754.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1184,
+                    "url": "https://media.sketchfab.com/avatars/508a96b1812145d58d98aaa797cf6a9e/bcf72818a1ea44cd9e2a9ac3662da649.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2240,
+                    "url": "https://media.sketchfab.com/avatars/508a96b1812145d58d98aaa797cf6a9e/2652c94d6fd343e8bcabe9f70241b8ab.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2585,
+                    "url": "https://media.sketchfab.com/avatars/508a96b1812145d58d98aaa797cf6a9e/5fc177c679634fffb2599f0691b1871d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/99524990d4354e2787c5c35c916f3e00"
+    },
+    "vertexCount": 10568,
+    "viewCount": 2025,
+    "viewerUrl": "https://sketchfab.com/3d-models/first-order-flag-officer-utsm-30-body-403fc01810c24201bab7a6289bb7eded",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Utsm / tsm 3.0 / utgraded titan speakerman / titan speaker man / first order / star wars\n \ncredits to valve and my first port from gmod\n \ndont need to credit",
+    "price": null,
+    "downloadCount": 300,
+    "editorUrl": "https://sketchfab.com/models/403fc01810c24201bab7a6289bb7eded/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-04T10:21:45.192259",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 6
+}

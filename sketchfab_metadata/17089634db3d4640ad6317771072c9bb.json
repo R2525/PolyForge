@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T17:44:24.545947",
+    "embedUrl": "https://sketchfab.com/models/17089634db3d4640ad6317771072c9bb/embed",
+    "faceCount": 175450,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Old Dry Tree Trunk",
+    "publishedAt": "2026-02-19T17:45:16.398059",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "dead",
+            "slug": "dead",
+            "uri": "https://api.sketchfab.com/v3/tags/dead"
+        },
+        {
+            "name": "cut",
+            "slug": "cut",
+            "uri": "https://api.sketchfab.com/v3/tags/cut"
+        },
+        {
+            "name": "trunk",
+            "slug": "trunk",
+            "uri": "https://api.sketchfab.com/v3/tags/trunk"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "dry",
+            "slug": "dry",
+            "uri": "https://api.sketchfab.com/v3/tags/dry"
+        },
+        {
+            "name": "photoscan",
+            "slug": "photoscan",
+            "uri": "https://api.sketchfab.com/v3/tags/photoscan"
+        },
+        {
+            "name": "scan",
+            "slug": "scan",
+            "uri": "https://api.sketchfab.com/v3/tags/scan"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "646c579ad0624d9a9da38aa7a8e95270",
+                "width": 1920,
+                "height": 1080,
+                "size": 80763,
+                "url": "https://media.sketchfab.com/models/17089634db3d4640ad6317771072c9bb/thumbnails/6138d43893ae4b9790e99d9e4e917129/2332689314ab4221b21e65e65d152212.jpeg"
+            },
+            {
+                "uid": "6ff0692daf50481694a6f4747518eecb",
+                "width": 1024,
+                "height": 576,
+                "size": 24394,
+                "url": "https://media.sketchfab.com/models/17089634db3d4640ad6317771072c9bb/thumbnails/6138d43893ae4b9790e99d9e4e917129/f115aae815d44e5c9b88815ce68c2c75.jpeg"
+            },
+            {
+                "uid": "90c4a05756e54d9aa5a10546c7fb4bce",
+                "width": 720,
+                "height": 405,
+                "size": 13530,
+                "url": "https://media.sketchfab.com/models/17089634db3d4640ad6317771072c9bb/thumbnails/6138d43893ae4b9790e99d9e4e917129/560958cd1b04494bb102ec3bd66dd8dc.jpeg"
+            },
+            {
+                "uid": "72b2cc57f50e48ee83425e9ce0ce76aa",
+                "width": 256,
+                "height": 144,
+                "size": 2750,
+                "url": "https://media.sketchfab.com/models/17089634db3d4640ad6317771072c9bb/thumbnails/6138d43893ae4b9790e99d9e4e917129/9a210c3a9d324c9588b41fd860b470b8.jpeg"
+            },
+            {
+                "uid": "ae097154b47c437fb05c3545924811aa",
+                "width": 64,
+                "height": 36,
+                "size": 882,
+                "url": "https://media.sketchfab.com/models/17089634db3d4640ad6317771072c9bb/thumbnails/6138d43893ae4b9790e99d9e4e917129/94f821550c764fd9962873c0105c8d86.jpeg"
+            }
+        ]
+    },
+    "uid": "17089634db3d4640ad6317771072c9bb",
+    "uri": "https://api.sketchfab.com/v3/models/17089634db3d4640ad6317771072c9bb",
+    "user": {
+        "uid": "ba037dfcf0c14c319f9247c68bab9f63",
+        "username": "GooDANeon",
+        "displayName": "GooDANeon",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/GooDANeon",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ba037dfcf0c14c319f9247c68bab9f63"
+    },
+    "vertexCount": 89106,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/old-dry-tree-trunk-17089634db3d4640ad6317771072c9bb",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "The realistic old and dry trunk of a tree cut down years ago.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/17089634db3d4640ad6317771072c9bb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T17:45:16.613035",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

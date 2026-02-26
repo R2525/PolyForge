@@ -1,0 +1,155 @@
+{
+    "animationCount": 4,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T10:55:09.705571",
+    "embedUrl": "https://sketchfab.com/models/0a0fecbfbe1544d6a5ab73c9971dd6cd/embed",
+    "faceCount": 552,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Erus",
+    "publishedAt": "2026-02-23T10:57:11.170385",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "deer",
+            "slug": "deer",
+            "uri": "https://api.sketchfab.com/v3/tags/deer"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "bd3b360674ae4d5babac3f0b2bb99f88",
+                "width": 1920,
+                "height": 1080,
+                "size": 93046,
+                "url": "https://media.sketchfab.com/models/0a0fecbfbe1544d6a5ab73c9971dd6cd/thumbnails/1261e0fb75bd4fcfbb750a746b82ee95/542afdfe816f4a7bb4e3fd61669993a4.jpeg"
+            },
+            {
+                "uid": "f6064984e34c440b892627ade0a8589b",
+                "width": 1024,
+                "height": 576,
+                "size": 34049,
+                "url": "https://media.sketchfab.com/models/0a0fecbfbe1544d6a5ab73c9971dd6cd/thumbnails/1261e0fb75bd4fcfbb750a746b82ee95/30f21f6475eb4a708129c8e0e1107a0c.jpeg"
+            },
+            {
+                "uid": "4f39026dbc444973a22a575ea75745ab",
+                "width": 720,
+                "height": 405,
+                "size": 20278,
+                "url": "https://media.sketchfab.com/models/0a0fecbfbe1544d6a5ab73c9971dd6cd/thumbnails/1261e0fb75bd4fcfbb750a746b82ee95/1f4174d6c3ed4d9e8006544638897562.jpeg"
+            },
+            {
+                "uid": "ea91f75966e14ae596bd44c687d54438",
+                "width": 256,
+                "height": 144,
+                "size": 4283,
+                "url": "https://media.sketchfab.com/models/0a0fecbfbe1544d6a5ab73c9971dd6cd/thumbnails/1261e0fb75bd4fcfbb750a746b82ee95/2856cd8a91d64f40ac69b1ddc9afc243.jpeg"
+            },
+            {
+                "uid": "7656dc50755a464fa09a8776ee1055e6",
+                "width": 64,
+                "height": 36,
+                "size": 1028,
+                "url": "https://media.sketchfab.com/models/0a0fecbfbe1544d6a5ab73c9971dd6cd/thumbnails/1261e0fb75bd4fcfbb750a746b82ee95/c494bcf720094b108e9c278ae10bfb6a.jpeg"
+            }
+        ]
+    },
+    "uid": "0a0fecbfbe1544d6a5ab73c9971dd6cd",
+    "uri": "https://api.sketchfab.com/v3/models/0a0fecbfbe1544d6a5ab73c9971dd6cd",
+    "user": {
+        "uid": "f59569a91911420b9feaf1a4b062ee4c",
+        "username": "NopesCreations",
+        "displayName": "Nope",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/NopesCreations",
+        "avatar": {
+            "uid": "f91169d147614d50a791f7a8f4090e42",
+            "uri": "https://api.sketchfab.com/v3/avatars/f91169d147614d50a791f7a8f4090e42",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 992,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/7036d821a82f47598a8783521d573953.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1406,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/280c37667f554b8b99ac9d070d89443e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3412,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/8020031926994ebaaf414a27a39d9b00.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3919,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/99592f6d7ec34ebbb1b5cd42f38ff58c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f59569a91911420b9feaf1a4b062ee4c"
+    },
+    "vertexCount": 368,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/erus-0a0fecbfbe1544d6a5ab73c9971dd6cd",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Low Poly fantasy deer.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0a0fecbfbe1544d6a5ab73c9971dd6cd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T10:57:11.356997",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

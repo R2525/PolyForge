@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-22T00:44:13.294849",
+    "embedUrl": "https://sketchfab.com/models/091334413d87438da63ee81fbd1abea9/embed",
+    "faceCount": 1499316,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Damaged Sci-Fi Starship – Battle-Worn Spacecraft",
+    "publishedAt": "2025-12-22T00:48:45.256947",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "spaceship",
+            "slug": "spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship"
+        },
+        {
+            "name": "damaged-vehicle",
+            "slug": "damaged-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/damaged-vehicle"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2c1a5390c05d4f738f64487b19581a54",
+                "width": 1920,
+                "height": 1080,
+                "size": 59134,
+                "url": "https://media.sketchfab.com/models/091334413d87438da63ee81fbd1abea9/thumbnails/9a5a73f3130d4c71b2815c9d8cc3d2e6/820b326ebf6e41f9ab8b5bcc6bda8fe0.jpeg"
+            },
+            {
+                "uid": "92bb953f2dc7436bb36c07410afece06",
+                "width": 1024,
+                "height": 576,
+                "size": 18867,
+                "url": "https://media.sketchfab.com/models/091334413d87438da63ee81fbd1abea9/thumbnails/9a5a73f3130d4c71b2815c9d8cc3d2e6/1fc331ad9a184813b4882ec3dac3ebee.jpeg"
+            },
+            {
+                "uid": "cf1a7cbd250645d7a577d802d50b5447",
+                "width": 720,
+                "height": 405,
+                "size": 10688,
+                "url": "https://media.sketchfab.com/models/091334413d87438da63ee81fbd1abea9/thumbnails/9a5a73f3130d4c71b2815c9d8cc3d2e6/2ce67f45be904175aa3d3bd33131ce6e.jpeg"
+            },
+            {
+                "uid": "326c4a98f3e748bca0b65dd6e7a99f85",
+                "width": 256,
+                "height": 144,
+                "size": 2390,
+                "url": "https://media.sketchfab.com/models/091334413d87438da63ee81fbd1abea9/thumbnails/9a5a73f3130d4c71b2815c9d8cc3d2e6/bd767f1cb0ce4bbe8cd9e5f55d42dec4.jpeg"
+            },
+            {
+                "uid": "c1caa1cc5d8944388e0a27772bcb4218",
+                "width": 64,
+                "height": 36,
+                "size": 886,
+                "url": "https://media.sketchfab.com/models/091334413d87438da63ee81fbd1abea9/thumbnails/9a5a73f3130d4c71b2815c9d8cc3d2e6/f9171525b5864997b59ec0303ddd90a7.jpeg"
+            }
+        ]
+    },
+    "uid": "091334413d87438da63ee81fbd1abea9",
+    "uri": "https://api.sketchfab.com/v3/models/091334413d87438da63ee81fbd1abea9",
+    "user": {
+        "uid": "13f7029991984982bff0a1b6fb068fe1",
+        "username": "vxgamesbrr",
+        "displayName": "MrMascarado",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/vxgamesbrr",
+        "avatar": {
+            "uid": "4f7d04becffd4effa53fa189c8109952",
+            "uri": "https://api.sketchfab.com/v3/avatars/4f7d04becffd4effa53fa189c8109952",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 3266,
+                    "url": "https://media.sketchfab.com/avatars/4f7d04becffd4effa53fa189c8109952/5a7ce06619704aa68395b7303d62dafa.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 6716,
+                    "url": "https://media.sketchfab.com/avatars/4f7d04becffd4effa53fa189c8109952/20f430160db7413e9e6fcc9af32f783c.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 20133,
+                    "url": "https://media.sketchfab.com/avatars/4f7d04becffd4effa53fa189c8109952/fbb66607b0534a3e953d145868c8acd1.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 24115,
+                    "url": "https://media.sketchfab.com/avatars/4f7d04becffd4effa53fa189c8109952/1aee58318b624ecf8e5a11d0fd436688.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/13f7029991984982bff0a1b6fb068fe1"
+    },
+    "vertexCount": 749546,
+    "viewCount": 32,
+    "viewerUrl": "https://sketchfab.com/3d-models/damaged-sci-fi-starship-battle-worn-spacecraft-091334413d87438da63ee81fbd1abea9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A heavily damaged sci-fi starship showing clear signs of combat and deep-space survival. Burn marks, broken armor panels, exposed structures, and asymmetrical damage tell the story of a ship that made it out — barely.\n\nDesigned for cinematic scenes, space battles, crash sites, and post-combat environments. The damage adds realism and narrative weight, making it ideal for games, short films, concept art, and sci-fi visual storytelling.\n\nClean topology with optimized geometry, suitable for real-time engines and close-up shots.\n\nUse cases:\n\nSpace battle aftermath\n\nAbandoned or drifting spacecraft\n\nCrash-landed sci-fi scenes\n\nCinematic shots and trailers\n\nGame environments and VR\n\nCompatible with Unreal Engine, Unity, and Blender.\nCheck license for commercial use.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/091334413d87438da63ee81fbd1abea9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-22T00:48:45.475772",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

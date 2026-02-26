@@ -1,0 +1,130 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 1,
+    "createdAt": "2025-12-10T11:13:21.637644",
+    "embedUrl": "https://sketchfab.com/models/2d064f3b692047c78ec9c61344433ea9/embed",
+    "faceCount": 1006714,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "mini figurine de warhammer 40k",
+    "publishedAt": "2025-12-10T11:14:10.947698",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "68b56b4fde8041279449ef7d3603d2c7",
+                "width": 1920,
+                "height": 1080,
+                "size": 80185,
+                "url": "https://media.sketchfab.com/models/2d064f3b692047c78ec9c61344433ea9/thumbnails/d50125158ff8461e94ee8013e58d8f43/07065b5f3eb04043879787cbea37248a.jpeg"
+            },
+            {
+                "uid": "5f125879a3dc48cb99c333eb798793c2",
+                "width": 1024,
+                "height": 576,
+                "size": 27044,
+                "url": "https://media.sketchfab.com/models/2d064f3b692047c78ec9c61344433ea9/thumbnails/d50125158ff8461e94ee8013e58d8f43/6c81381c767747d2ac2f328a40fdbf4f.jpeg"
+            },
+            {
+                "uid": "0e4f5f3d2d7844139710102e531faeae",
+                "width": 720,
+                "height": 405,
+                "size": 15895,
+                "url": "https://media.sketchfab.com/models/2d064f3b692047c78ec9c61344433ea9/thumbnails/d50125158ff8461e94ee8013e58d8f43/5294cbfbe33a41978e7e249db22c3979.jpeg"
+            },
+            {
+                "uid": "15113890650c453d96de42ad3ca35b45",
+                "width": 256,
+                "height": 144,
+                "size": 3552,
+                "url": "https://media.sketchfab.com/models/2d064f3b692047c78ec9c61344433ea9/thumbnails/d50125158ff8461e94ee8013e58d8f43/4cd1d4993bc84d04b2aa8e29533c396f.jpeg"
+            },
+            {
+                "uid": "2007c17b841844b088ab28c92f45a493",
+                "width": 64,
+                "height": 36,
+                "size": 982,
+                "url": "https://media.sketchfab.com/models/2d064f3b692047c78ec9c61344433ea9/thumbnails/d50125158ff8461e94ee8013e58d8f43/4c9de7f9a9594ca48fa71142b87ec295.jpeg"
+            }
+        ]
+    },
+    "uid": "2d064f3b692047c78ec9c61344433ea9",
+    "uri": "https://api.sketchfab.com/v3/models/2d064f3b692047c78ec9c61344433ea9",
+    "user": {
+        "uid": "ea4dfd5a19414c78b2f522e193ff3a01",
+        "username": "marc.lepretre",
+        "displayName": "Marc Lepretre",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/marc.lepretre",
+        "avatar": {
+            "uid": "c5cee2b691fb4cd391015c447aaf70d8",
+            "uri": "https://api.sketchfab.com/v3/avatars/c5cee2b691fb4cd391015c447aaf70d8",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 3090,
+                    "url": "https://media.sketchfab.com/avatars/c5cee2b691fb4cd391015c447aaf70d8/e8258590cae64618a2fb525ba04408aa.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5959,
+                    "url": "https://media.sketchfab.com/avatars/c5cee2b691fb4cd391015c447aaf70d8/f04d8f1b4f584d8ab0ff01ba0301ff7b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16352,
+                    "url": "https://media.sketchfab.com/avatars/c5cee2b691fb4cd391015c447aaf70d8/19ba14cf794e4ec98726bef67970609c.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 16349,
+                    "url": "https://media.sketchfab.com/avatars/c5cee2b691fb4cd391015c447aaf70d8/3af3ce5044764b6d8d570ea6afb44cab.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ea4dfd5a19414c78b2f522e193ff3a01"
+    },
+    "vertexCount": 503353,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/mini-figurine-de-warhammer-40k-2d064f3b692047c78ec9c61344433ea9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Mini figurine de warhammer 40k",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2d064f3b692047c78ec9c61344433ea9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-10T11:14:10.928628",
+    "pbrType": null,
+    "textureCount": null,
+    "materialCount": 1
+}

@@ -1,0 +1,202 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T00:23:19.131273",
+    "embedUrl": "https://sketchfab.com/models/2adabbb76a864638a53e0e1f0f1681bd/embed",
+    "faceCount": 492040,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "female Valkyrie",
+    "publishedAt": "2026-02-24T12:19:06.933486",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "sci",
+            "slug": "sci",
+            "uri": "https://api.sketchfab.com/v3/tags/sci"
+        },
+        {
+            "name": "fi",
+            "slug": "fi",
+            "uri": "https://api.sketchfab.com/v3/tags/fi"
+        },
+        {
+            "name": "hero",
+            "slug": "hero",
+            "uri": "https://api.sketchfab.com/v3/tags/hero"
+        },
+        {
+            "name": "cyber",
+            "slug": "cyber",
+            "uri": "https://api.sketchfab.com/v3/tags/cyber"
+        },
+        {
+            "name": "valkyrie",
+            "slug": "valkyrie",
+            "uri": "https://api.sketchfab.com/v3/tags/valkyrie"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "female",
+            "slug": "female",
+            "uri": "https://api.sketchfab.com/v3/tags/female"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e9de30b509ad4419a83d1c7b8700fa25",
+                "width": 1920,
+                "height": 1080,
+                "size": 70580,
+                "url": "https://media.sketchfab.com/models/2adabbb76a864638a53e0e1f0f1681bd/thumbnails/9c2d2dcb844f4bc1bfc96a455786099b/1481a75487d140108d1629a787359ef0.jpeg"
+            },
+            {
+                "uid": "10d4620b44aa434d989fe497cfc68e64",
+                "width": 1024,
+                "height": 576,
+                "size": 23559,
+                "url": "https://media.sketchfab.com/models/2adabbb76a864638a53e0e1f0f1681bd/thumbnails/9c2d2dcb844f4bc1bfc96a455786099b/b6b499c5375742509ef3f514d092b9ad.jpeg"
+            },
+            {
+                "uid": "b0ae1c22d66d4ec6938cbbd61d0f506f",
+                "width": 720,
+                "height": 405,
+                "size": 13629,
+                "url": "https://media.sketchfab.com/models/2adabbb76a864638a53e0e1f0f1681bd/thumbnails/9c2d2dcb844f4bc1bfc96a455786099b/17d8c9c0242045cf8db75583815e8cf1.jpeg"
+            },
+            {
+                "uid": "b72acae513f543ba9bc983693109ba4d",
+                "width": 256,
+                "height": 144,
+                "size": 3034,
+                "url": "https://media.sketchfab.com/models/2adabbb76a864638a53e0e1f0f1681bd/thumbnails/9c2d2dcb844f4bc1bfc96a455786099b/5f661a8a944b4605bc02c2f9ebfac58f.jpeg"
+            },
+            {
+                "uid": "8d4753bfcad745df8b87302b2a853bbe",
+                "width": 64,
+                "height": 36,
+                "size": 959,
+                "url": "https://media.sketchfab.com/models/2adabbb76a864638a53e0e1f0f1681bd/thumbnails/9c2d2dcb844f4bc1bfc96a455786099b/8148120f917940519b6af4e424f2c492.jpeg"
+            }
+        ]
+    },
+    "uid": "2adabbb76a864638a53e0e1f0f1681bd",
+    "uri": "https://api.sketchfab.com/v3/models/2adabbb76a864638a53e0e1f0f1681bd",
+    "user": {
+        "uid": "93426e1085f446eb9d3c2b951aa4bdc2",
+        "username": "paulanto.pb",
+        "displayName": "Nobleirish",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/paulanto.pb",
+        "avatar": {
+            "uid": "ae9da348025746e5bc9d078c53a46ed0",
+            "uri": "https://api.sketchfab.com/v3/avatars/ae9da348025746e5bc9d078c53a46ed0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1169,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/3c0b41c9ce764f4e8532d10fcb073252.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1726,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/15b99207584842109985bbcb4d979665.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4171,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/984df33ab29d4da5b46d62925f536a59.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4826,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/22a452cabe1a4902be71e495f8475008.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/93426e1085f446eb9d3c2b951aa4bdc2"
+    },
+    "vertexCount": 245916,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/female-valkyrie-2adabbb76a864638a53e0e1f0f1681bd",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/Yf44Jn](https://www.meshy.ai/s/Yf44Jn)",
+    "price": null,
+    "downloadCount": 9,
+    "editorUrl": "https://sketchfab.com/models/2adabbb76a864638a53e0e1f0f1681bd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T12:19:07.182296",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,41 @@
+{
+    "category": "Science & Technology",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.6
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Abstract",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Dusty"
+    ],
+    "tags": [
+        "rock",
+        "geode",
+        "stone"
+    ]
+}

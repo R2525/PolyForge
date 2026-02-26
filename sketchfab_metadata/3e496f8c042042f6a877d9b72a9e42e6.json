@@ -1,0 +1,249 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T20:51:36.373706",
+    "embedUrl": "https://sketchfab.com/models/3e496f8c042042f6a877d9b72a9e42e6/embed",
+    "faceCount": 972,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Spring Hats 2024 (Updated) | Made for Minecraft",
+    "publishedAt": "2026-02-18T20:54:00.735481",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "mushroom",
+            "slug": "mushroom",
+            "uri": "https://api.sketchfab.com/v3/tags/mushroom"
+        },
+        {
+            "name": "flower",
+            "slug": "flower",
+            "uri": "https://api.sketchfab.com/v3/tags/flower"
+        },
+        {
+            "name": "garden",
+            "slug": "garden",
+            "uri": "https://api.sketchfab.com/v3/tags/garden"
+        },
+        {
+            "name": "bee",
+            "slug": "bee",
+            "uri": "https://api.sketchfab.com/v3/tags/bee"
+        },
+        {
+            "name": "cloud",
+            "slug": "cloud",
+            "uri": "https://api.sketchfab.com/v3/tags/cloud"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "spring",
+            "slug": "spring",
+            "uri": "https://api.sketchfab.com/v3/tags/spring"
+        },
+        {
+            "name": "crown",
+            "slug": "crown",
+            "uri": "https://api.sketchfab.com/v3/tags/crown"
+        },
+        {
+            "name": "butterfly",
+            "slug": "butterfly",
+            "uri": "https://api.sketchfab.com/v3/tags/butterfly"
+        },
+        {
+            "name": "rain",
+            "slug": "rain",
+            "uri": "https://api.sketchfab.com/v3/tags/rain"
+        },
+        {
+            "name": "sun",
+            "slug": "sun",
+            "uri": "https://api.sketchfab.com/v3/tags/sun"
+        },
+        {
+            "name": "hats",
+            "slug": "hats",
+            "uri": "https://api.sketchfab.com/v3/tags/hats"
+        },
+        {
+            "name": "visor",
+            "slug": "visor",
+            "uri": "https://api.sketchfab.com/v3/tags/visor"
+        },
+        {
+            "name": "cosmetics",
+            "slug": "cosmetics",
+            "uri": "https://api.sketchfab.com/v3/tags/cosmetics"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "mcmodels",
+            "slug": "mcmodels",
+            "uri": "https://api.sketchfab.com/v3/tags/mcmodels"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b9743769003d4e008bd2ba5c9faa8165",
+                "width": 1920,
+                "height": 1080,
+                "size": 111846,
+                "url": "https://media.sketchfab.com/models/3e496f8c042042f6a877d9b72a9e42e6/thumbnails/067ebe5d777f4b02b976349968dd5b07/bac59ee747e44c469bd172b94f60ceeb.jpeg"
+            },
+            {
+                "uid": "a22dd63f20ff4f98bb86764821b231d2",
+                "width": 1024,
+                "height": 576,
+                "size": 43923,
+                "url": "https://media.sketchfab.com/models/3e496f8c042042f6a877d9b72a9e42e6/thumbnails/067ebe5d777f4b02b976349968dd5b07/82d80a8f9af544af8a2e9064924c044e.jpeg"
+            },
+            {
+                "uid": "d5cccbfd2f2645fda0c623ce5c4f95d6",
+                "width": 720,
+                "height": 405,
+                "size": 26656,
+                "url": "https://media.sketchfab.com/models/3e496f8c042042f6a877d9b72a9e42e6/thumbnails/067ebe5d777f4b02b976349968dd5b07/6a3aa9fbbdd641adb769c5caad71bafc.jpeg"
+            },
+            {
+                "uid": "fdfad09d4cf74bb4899d9cbbf643468a",
+                "width": 256,
+                "height": 144,
+                "size": 6155,
+                "url": "https://media.sketchfab.com/models/3e496f8c042042f6a877d9b72a9e42e6/thumbnails/067ebe5d777f4b02b976349968dd5b07/c7e7a14ebae3459f94d7935310c32d3c.jpeg"
+            },
+            {
+                "uid": "12bfee8936384c60a604a96dfc42942d",
+                "width": 64,
+                "height": 36,
+                "size": 1328,
+                "url": "https://media.sketchfab.com/models/3e496f8c042042f6a877d9b72a9e42e6/thumbnails/067ebe5d777f4b02b976349968dd5b07/596aa04794bb40fa83cdd483ff7b0b93.jpeg"
+            }
+        ]
+    },
+    "uid": "3e496f8c042042f6a877d9b72a9e42e6",
+    "uri": "https://api.sketchfab.com/v3/models/3e496f8c042042f6a877d9b72a9e42e6",
+    "user": {
+        "uid": "b4d0c7eb43d04cb4b5528ff820ee9865",
+        "username": "iplexity",
+        "displayName": "iPlexity",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/iplexity",
+        "avatar": {
+            "uid": "92e4674e1e904c9e9d3197bcf78fb21a",
+            "uri": "https://api.sketchfab.com/v3/avatars/92e4674e1e904c9e9d3197bcf78fb21a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2089,
+                    "url": "https://media.sketchfab.com/avatars/92e4674e1e904c9e9d3197bcf78fb21a/fc4b280669084b75a774e421ec24bb3a.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4039,
+                    "url": "https://media.sketchfab.com/avatars/92e4674e1e904c9e9d3197bcf78fb21a/a9622090ceac4789abba1a8a8702f3e0.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 11148,
+                    "url": "https://media.sketchfab.com/avatars/92e4674e1e904c9e9d3197bcf78fb21a/85c2835ac2f84a06a62db2be3aa6133e.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 13234,
+                    "url": "https://media.sketchfab.com/avatars/92e4674e1e904c9e9d3197bcf78fb21a/98a62cfd22674d4f8e7bb6b2cab8c0aa.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b4d0c7eb43d04cb4b5528ff820ee9865"
+    },
+    "vertexCount": 648,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/spring-hats-2024-updated-made-for-minecraft-3e496f8c042042f6a877d9b72a9e42e6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Spring Hats 2024**\n\nMade on ***Blockbench***\n\nMade by ***iPlexity***\n\nI made this pack for my store. I hope you enjoy them!",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3e496f8c042042f6a877d9b72a9e42e6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T20:54:00.854122",
+    "pbrType": null,
+    "textureCount": 10,
+    "materialCount": 10
+}

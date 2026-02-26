@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T23:45:01.979435",
+    "embedUrl": "https://sketchfab.com/models/1d67c66c74524c6d970b57101bfaa18f/embed",
+    "faceCount": 499998,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Computer_[X]_Terminal-III",
+    "publishedAt": "2026-02-21T23:54:33.651202",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "device",
+            "slug": "device",
+            "uri": "https://api.sketchfab.com/v3/tags/device"
+        },
+        {
+            "name": "computers",
+            "slug": "computers",
+            "uri": "https://api.sketchfab.com/v3/tags/computers"
+        },
+        {
+            "name": "gadget",
+            "slug": "gadget",
+            "uri": "https://api.sketchfab.com/v3/tags/gadget"
+        },
+        {
+            "name": "console",
+            "slug": "console",
+            "uri": "https://api.sketchfab.com/v3/tags/console"
+        },
+        {
+            "name": "electronics",
+            "slug": "electronics",
+            "uri": "https://api.sketchfab.com/v3/tags/electronics"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "Gadgets",
+            "slug": "gadgets",
+            "uri": "https://api.sketchfab.com/v3/tags/gadgets"
+        },
+        {
+            "name": "devices",
+            "slug": "devices",
+            "uri": "https://api.sketchfab.com/v3/tags/devices"
+        },
+        {
+            "name": "furnitures",
+            "slug": "furnitures",
+            "uri": "https://api.sketchfab.com/v3/tags/furnitures"
+        },
+        {
+            "name": "consoles",
+            "slug": "consoles",
+            "uri": "https://api.sketchfab.com/v3/tags/consoles"
+        },
+        {
+            "name": "console-table",
+            "slug": "console-table",
+            "uri": "https://api.sketchfab.com/v3/tags/console-table"
+        },
+        {
+            "name": "computer-desk",
+            "slug": "computer-desk",
+            "uri": "https://api.sketchfab.com/v3/tags/computer-desk"
+        },
+        {
+            "name": "electronics-gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/tags/electronics-gadgets"
+        },
+        {
+            "name": "electronic-device",
+            "slug": "electronic-device",
+            "uri": "https://api.sketchfab.com/v3/tags/electronic-device"
+        },
+        {
+            "name": "modern-furniture",
+            "slug": "modern-furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/modern-furniture"
+        },
+        {
+            "name": "electronicdevice",
+            "slug": "electronicdevice",
+            "uri": "https://api.sketchfab.com/v3/tags/electronicdevice"
+        },
+        {
+            "name": "consoletable",
+            "slug": "consoletable",
+            "uri": "https://api.sketchfab.com/v3/tags/consoletable"
+        },
+        {
+            "name": "computer-terminal",
+            "slug": "computer-terminal",
+            "uri": "https://api.sketchfab.com/v3/tags/computer-terminal"
+        },
+        {
+            "name": "furniture-furniture3d-gameasset",
+            "slug": "furniture-furniture3d-gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture-furniture3d-gameasset"
+        },
+        {
+            "name": "computertable",
+            "slug": "computertable",
+            "uri": "https://api.sketchfab.com/v3/tags/computertable"
+        },
+        {
+            "name": "pc-device",
+            "slug": "pc-device",
+            "uri": "https://api.sketchfab.com/v3/tags/pc-device"
+        },
+        {
+            "name": "electronicdevices",
+            "slug": "electronicdevices",
+            "uri": "https://api.sketchfab.com/v3/tags/electronicdevices"
+        },
+        {
+            "name": "scifi-computer",
+            "slug": "scifi-computer",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi-computer"
+        },
+        {
+            "name": "quantum-computer",
+            "slug": "quantum-computer",
+            "uri": "https://api.sketchfab.com/v3/tags/quantum-computer"
+        },
+        {
+            "name": "futuristicfurniture",
+            "slug": "futuristicfurniture",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristicfurniture"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "quantumcomputer",
+            "slug": "quantumcomputer",
+            "uri": "https://api.sketchfab.com/v3/tags/quantumcomputer"
+        },
+        {
+            "name": "computerdesksci-fi",
+            "slug": "computerdesksci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/computerdesksci-fi"
+        },
+        {
+            "name": "scififurniture",
+            "slug": "scififurniture",
+            "uri": "https://api.sketchfab.com/v3/tags/scififurniture"
+        },
+        {
+            "name": "tripo3d",
+            "slug": "tripo3d",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo3d"
+        },
+        {
+            "name": "tripo",
+            "slug": "tripo",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo"
+        },
+        {
+            "name": "tripoai",
+            "slug": "tripoai",
+            "uri": "https://api.sketchfab.com/v3/tags/tripoai"
+        },
+        {
+            "name": "computer-device",
+            "slug": "computer-device",
+            "uri": "https://api.sketchfab.com/v3/tags/computer-device"
+        },
+        {
+            "name": "device-port",
+            "slug": "device-port",
+            "uri": "https://api.sketchfab.com/v3/tags/device-port"
+        },
+        {
+            "name": "tripo3dai",
+            "slug": "tripo3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo3dai"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "tripo-model",
+            "slug": "tripo-model",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo-model"
+        },
+        {
+            "name": "tripomodel",
+            "slug": "tripomodel",
+            "uri": "https://api.sketchfab.com/v3/tags/tripomodel"
+        },
+        {
+            "name": "futuristic-device",
+            "slug": "futuristic-device",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic-device"
+        },
+        {
+            "name": "sci-fi-furniture",
+            "slug": "sci-fi-furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi-furniture"
+        },
+        {
+            "name": "scifi-console",
+            "slug": "scifi-console",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi-console"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b13ab88882944d3aa8b3642e5f1ea47d",
+                "width": 1920,
+                "height": 1080,
+                "size": 351184,
+                "url": "https://media.sketchfab.com/models/1d67c66c74524c6d970b57101bfaa18f/thumbnails/6f09d7d3e6d94f8387302f8209b2feb7/7a387ff7724044fc8ef5d2be7fcdcdc9.jpeg"
+            },
+            {
+                "uid": "b4f5ea02cbe34bbdb6262f833c0e878e",
+                "width": 1024,
+                "height": 576,
+                "size": 66064,
+                "url": "https://media.sketchfab.com/models/1d67c66c74524c6d970b57101bfaa18f/thumbnails/6f09d7d3e6d94f8387302f8209b2feb7/0897da4800a94ff9bb2043523a95cead.jpeg"
+            },
+            {
+                "uid": "9bee0973c2874dc980f1493c43fbc4c1",
+                "width": 720,
+                "height": 405,
+                "size": 33928,
+                "url": "https://media.sketchfab.com/models/1d67c66c74524c6d970b57101bfaa18f/thumbnails/6f09d7d3e6d94f8387302f8209b2feb7/87e096f3bab8475491b0b0df1ec837ef.jpeg"
+            },
+            {
+                "uid": "8a0190b25d3b4d66a0c22d23a095d597",
+                "width": 256,
+                "height": 144,
+                "size": 5754,
+                "url": "https://media.sketchfab.com/models/1d67c66c74524c6d970b57101bfaa18f/thumbnails/6f09d7d3e6d94f8387302f8209b2feb7/383ba051ef344877ab82983336dbbced.jpeg"
+            },
+            {
+                "uid": "48e55e3fab55412f9ce10b9fe5300942",
+                "width": 64,
+                "height": 36,
+                "size": 1103,
+                "url": "https://media.sketchfab.com/models/1d67c66c74524c6d970b57101bfaa18f/thumbnails/6f09d7d3e6d94f8387302f8209b2feb7/4b824b23378241bfa42eba93b05267d4.jpeg"
+            }
+        ]
+    },
+    "uid": "1d67c66c74524c6d970b57101bfaa18f",
+    "uri": "https://api.sketchfab.com/v3/models/1d67c66c74524c6d970b57101bfaa18f",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 249997,
+    "viewCount": 26,
+    "viewerUrl": "https://sketchfab.com/3d-models/computer-x-terminal-iii-1d67c66c74524c6d970b57101bfaa18f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/1d67c66c74524c6d970b57101bfaa18f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:33:12.347793",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

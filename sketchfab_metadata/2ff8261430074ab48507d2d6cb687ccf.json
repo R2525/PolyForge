@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-12T10:04:30.703587",
+    "embedUrl": "https://sketchfab.com/models/2ff8261430074ab48507d2d6cb687ccf/embed",
+    "faceCount": 3819,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 6,
+    "name": "F-16C bl.50 (DCS World)",
+    "publishedAt": "2026-02-12T13:02:51.372154",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "253d1e89a1cb42b19256402d30eea42d",
+                "width": 1920,
+                "height": 1080,
+                "size": 43868,
+                "url": "https://media.sketchfab.com/models/2ff8261430074ab48507d2d6cb687ccf/thumbnails/b5b98365e00645c58e4fd8640081e27e/5e1227c6fc574050838e2eebed026839.jpeg"
+            },
+            {
+                "uid": "8f24a0ca7206459fbc888656646642e1",
+                "width": 1024,
+                "height": 576,
+                "size": 13842,
+                "url": "https://media.sketchfab.com/models/2ff8261430074ab48507d2d6cb687ccf/thumbnails/b5b98365e00645c58e4fd8640081e27e/696ca06a525740119ff306d688ffc4fe.jpeg"
+            },
+            {
+                "uid": "ab43cf38bbf740ecb0caa0abd0eaf192",
+                "width": 720,
+                "height": 405,
+                "size": 7906,
+                "url": "https://media.sketchfab.com/models/2ff8261430074ab48507d2d6cb687ccf/thumbnails/b5b98365e00645c58e4fd8640081e27e/f32d3b13fa4a457c8df54174ba0ccad2.jpeg"
+            },
+            {
+                "uid": "04c05af7bd4b42dea73e56917b4b935d",
+                "width": 256,
+                "height": 144,
+                "size": 1806,
+                "url": "https://media.sketchfab.com/models/2ff8261430074ab48507d2d6cb687ccf/thumbnails/b5b98365e00645c58e4fd8640081e27e/32b0c37e770749c794e2c2626e4b1658.jpeg"
+            },
+            {
+                "uid": "7dc011fdea494019bf03b54b53b397c8",
+                "width": 64,
+                "height": 36,
+                "size": 760,
+                "url": "https://media.sketchfab.com/models/2ff8261430074ab48507d2d6cb687ccf/thumbnails/b5b98365e00645c58e4fd8640081e27e/d5994cfa962e4aa6893ffdf9e9f14938.jpeg"
+            }
+        ]
+    },
+    "uid": "2ff8261430074ab48507d2d6cb687ccf",
+    "uri": "https://api.sketchfab.com/v3/models/2ff8261430074ab48507d2d6cb687ccf",
+    "user": {
+        "uid": "85f702e7998044b8b856bd10c6f48778",
+        "username": "KojfDiscord",
+        "displayName": "KojfDiscord",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/KojfDiscord",
+        "avatar": {
+            "uid": "d4b1101d955e449cb6d92c0c0c3cb4d0",
+            "uri": "https://api.sketchfab.com/v3/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1207,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/fd0850c6e13f463083f350c151d94de2.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1888,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/b1b01ae81f3042d4a15bcc8172b28a8a.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4524,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/4e5efc15c69a417ba2eb0bab579b27d3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5180,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/07fd657217a44f10aee40cf096ee0193.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/85f702e7998044b8b856bd10c6f48778"
+    },
+    "vertexCount": 2504,
+    "viewCount": 129,
+    "viewerUrl": "https://sketchfab.com/3d-models/f-16c-bl50-dcs-world-2ff8261430074ab48507d2d6cb687ccf",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 22,
+    "editorUrl": "https://sketchfab.com/models/2ff8261430074ab48507d2d6cb687ccf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-12T13:02:51.491840",
+    "pbrType": null,
+    "textureCount": 13,
+    "materialCount": 14
+}

@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T08:55:45.712622",
+    "embedUrl": "https://sketchfab.com/models/08a6f265b1e742a991d82ed0a0e06996/embed",
+    "faceCount": 315886,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Spiderman Captain America",
+    "publishedAt": "2026-02-19T08:59:19.633515",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "mod",
+            "slug": "mod",
+            "uri": "https://api.sketchfab.com/v3/tags/mod"
+        },
+        {
+            "name": "spiderman",
+            "slug": "spiderman",
+            "uri": "https://api.sketchfab.com/v3/tags/spiderman"
+        },
+        {
+            "name": "captainamerica",
+            "slug": "captainamerica",
+            "uri": "https://api.sketchfab.com/v3/tags/captainamerica"
+        },
+        {
+            "name": "captain-america",
+            "slug": "captain-america",
+            "uri": "https://api.sketchfab.com/v3/tags/captain-america"
+        },
+        {
+            "name": "charactermeetscharacter",
+            "slug": "charactermeetscharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/charactermeetscharacter"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5275c85e4b53474caf5ce0ef82c0addd",
+                "width": 1920,
+                "height": 1080,
+                "size": 75101,
+                "url": "https://media.sketchfab.com/models/08a6f265b1e742a991d82ed0a0e06996/thumbnails/29752813018b45bb887d2c59ccf6277f/53005402d07848e0b55eeb18feeae668.jpeg"
+            },
+            {
+                "uid": "8735b0a360d74124a613d2576171b837",
+                "width": 1024,
+                "height": 576,
+                "size": 25470,
+                "url": "https://media.sketchfab.com/models/08a6f265b1e742a991d82ed0a0e06996/thumbnails/29752813018b45bb887d2c59ccf6277f/e26ff0c1eb1743e0bef471e106397476.jpeg"
+            },
+            {
+                "uid": "f08347c01fb34fb69c5dc6b03c8883fd",
+                "width": 720,
+                "height": 405,
+                "size": 14903,
+                "url": "https://media.sketchfab.com/models/08a6f265b1e742a991d82ed0a0e06996/thumbnails/29752813018b45bb887d2c59ccf6277f/0de994d76f864005b3c9b472b01f62cc.jpeg"
+            },
+            {
+                "uid": "bf4b56fa4b0c477a8ca41bc4f5874acb",
+                "width": 256,
+                "height": 144,
+                "size": 3341,
+                "url": "https://media.sketchfab.com/models/08a6f265b1e742a991d82ed0a0e06996/thumbnails/29752813018b45bb887d2c59ccf6277f/3a83247575814229928fec7237e27077.jpeg"
+            },
+            {
+                "uid": "2c79774eebfe40bc970a7a64e59fb8de",
+                "width": 64,
+                "height": 36,
+                "size": 994,
+                "url": "https://media.sketchfab.com/models/08a6f265b1e742a991d82ed0a0e06996/thumbnails/29752813018b45bb887d2c59ccf6277f/b6986406f9704ee9ab855bc2252c2eae.jpeg"
+            }
+        ]
+    },
+    "uid": "08a6f265b1e742a991d82ed0a0e06996",
+    "uri": "https://api.sketchfab.com/v3/models/08a6f265b1e742a991d82ed0a0e06996",
+    "user": {
+        "uid": "c15975dbb1d84929b8e7a0ea3f1342a4",
+        "username": "chunguinius",
+        "displayName": "Kuro",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/chunguinius",
+        "avatar": {
+            "uid": "fdd6b481b06a422384e32dcb27f4aa38",
+            "uri": "https://api.sketchfab.com/v3/avatars/fdd6b481b06a422384e32dcb27f4aa38",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1010,
+                    "url": "https://media.sketchfab.com/avatars/fdd6b481b06a422384e32dcb27f4aa38/a13aeaba8e5540c588e36af333ad2795.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1274,
+                    "url": "https://media.sketchfab.com/avatars/fdd6b481b06a422384e32dcb27f4aa38/cd50f250fcee4f57a9f07a3ad95d6f93.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2392,
+                    "url": "https://media.sketchfab.com/avatars/fdd6b481b06a422384e32dcb27f4aa38/5f2850b0fd1b40a289a9627cc1f579e9.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2734,
+                    "url": "https://media.sketchfab.com/avatars/fdd6b481b06a422384e32dcb27f4aa38/abe9c9f7c3fb484fbe89373626674259.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c15975dbb1d84929b8e7a0ea3f1342a4"
+    },
+    "vertexCount": 158931,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/spiderman-captain-america-08a6f265b1e742a991d82ed0a0e06996",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Captain Spidey\nSpiderman with captain america colors and shield mod fully textured but not rigged.\n\ncontact me for custom character mods\ntelegram - @chunguinius\ndiscord - chunguinius",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/08a6f265b1e742a991d82ed0a0e06996/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T08:59:19.962575",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

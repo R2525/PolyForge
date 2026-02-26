@@ -1,0 +1,69 @@
+{
+    "category": "Cultural Heritage & History",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Classical",
+            "score": 0.7
+        },
+        {
+            "name": "Epic",
+            "score": 0.6
+        },
+        {
+            "name": "Victorian",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Antique",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        },
+        {
+            "name": "Gothic",
+            "score": 0.5
+        },
+        {
+            "name": "Realistic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Mossy",
+        "Cracked"
+    ],
+    "tags": [
+        "ancient",
+        "silver",
+        "buckle",
+        "brooch",
+        "cultural",
+        "historical",
+        "antique",
+        "metal"
+    ],
+    "model_id_full": "15eaf464e7e44861a8b6980fc3880768_Silver Buckle Brooch",
+    "sketchfab_id": "15eaf464e7e44861a8b6980fc3880768",
+    "asset_name": "Silver Buckle Brooch"
+}

@@ -1,0 +1,249 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T11:03:53.297048",
+    "embedUrl": "https://sketchfab.com/models/399c2191b20e483fae58f10a3963e1b3/embed",
+    "faceCount": 5750,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Townhouse",
+    "publishedAt": "2026-02-25T11:05:07.102370",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cottage",
+            "slug": "cottage",
+            "uri": "https://api.sketchfab.com/v3/tags/cottage"
+        },
+        {
+            "name": "exterior",
+            "slug": "exterior",
+            "uri": "https://api.sketchfab.com/v3/tags/exterior"
+        },
+        {
+            "name": "residential",
+            "slug": "residential",
+            "uri": "https://api.sketchfab.com/v3/tags/residential"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "classic",
+            "slug": "classic",
+            "uri": "https://api.sketchfab.com/v3/tags/classic"
+        },
+        {
+            "name": "collection",
+            "slug": "collection",
+            "uri": "https://api.sketchfab.com/v3/tags/collection"
+        },
+        {
+            "name": "american",
+            "slug": "american",
+            "uri": "https://api.sketchfab.com/v3/tags/american"
+        },
+        {
+            "name": "town",
+            "slug": "town",
+            "uri": "https://api.sketchfab.com/v3/tags/town"
+        },
+        {
+            "name": "bungalow",
+            "slug": "bungalow",
+            "uri": "https://api.sketchfab.com/v3/tags/bungalow"
+        },
+        {
+            "name": "classical",
+            "slug": "classical",
+            "uri": "https://api.sketchfab.com/v3/tags/classical"
+        },
+        {
+            "name": "contemporary",
+            "slug": "contemporary",
+            "uri": "https://api.sketchfab.com/v3/tags/contemporary"
+        },
+        {
+            "name": "townhouse",
+            "slug": "townhouse",
+            "uri": "https://api.sketchfab.com/v3/tags/townhouse"
+        },
+        {
+            "name": "neighborhood",
+            "slug": "neighborhood",
+            "uri": "https://api.sketchfab.com/v3/tags/neighborhood"
+        },
+        {
+            "name": "clapperboard",
+            "slug": "clapperboard",
+            "uri": "https://api.sketchfab.com/v3/tags/clapperboard"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "city",
+            "slug": "city",
+            "uri": "https://api.sketchfab.com/v3/tags/city"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "street",
+            "slug": "street",
+            "uri": "https://api.sketchfab.com/v3/tags/street"
+        },
+        {
+            "name": "village",
+            "slug": "village",
+            "uri": "https://api.sketchfab.com/v3/tags/village"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "422aa7ae70474513aef9774501836082",
+                "width": 1920,
+                "height": 1080,
+                "size": 140411,
+                "url": "https://media.sketchfab.com/models/399c2191b20e483fae58f10a3963e1b3/thumbnails/f025060ca9c948aba599630366112d58/8cb16297f0b8480ca7c582ea18f57834.jpeg"
+            },
+            {
+                "uid": "6c5751075ca145e1afe2b8f34a6be66d",
+                "width": 1024,
+                "height": 576,
+                "size": 39898,
+                "url": "https://media.sketchfab.com/models/399c2191b20e483fae58f10a3963e1b3/thumbnails/f025060ca9c948aba599630366112d58/9a0bde7ec78f4196b285be00099de332.jpeg"
+            },
+            {
+                "uid": "69cba704fc044ecaa80451381e4a5fbb",
+                "width": 720,
+                "height": 405,
+                "size": 20899,
+                "url": "https://media.sketchfab.com/models/399c2191b20e483fae58f10a3963e1b3/thumbnails/f025060ca9c948aba599630366112d58/ea424fd4a0294af795c01ed3ce1de840.jpeg"
+            },
+            {
+                "uid": "3743dbb70fb24d79ac369538bf2663c6",
+                "width": 256,
+                "height": 144,
+                "size": 3500,
+                "url": "https://media.sketchfab.com/models/399c2191b20e483fae58f10a3963e1b3/thumbnails/f025060ca9c948aba599630366112d58/6dea22a443fd438c80d0bf8d95636bda.jpeg"
+            },
+            {
+                "uid": "d0b9b980a0124e89bd76f667e340b0f8",
+                "width": 64,
+                "height": 36,
+                "size": 980,
+                "url": "https://media.sketchfab.com/models/399c2191b20e483fae58f10a3963e1b3/thumbnails/f025060ca9c948aba599630366112d58/d62335f7b1ed42d08f5470eafec99390.jpeg"
+            }
+        ]
+    },
+    "uid": "399c2191b20e483fae58f10a3963e1b3",
+    "uri": "https://api.sketchfab.com/v3/models/399c2191b20e483fae58f10a3963e1b3",
+    "user": {
+        "uid": "001417c76570414191f322395eb478c4",
+        "username": "Vadym.Orlov",
+        "displayName": "Vadym.Orlov",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Vadym.Orlov",
+        "avatar": {
+            "uid": "1f21b285fd7a449684dd186f18e07ef5",
+            "uri": "https://api.sketchfab.com/v3/avatars/1f21b285fd7a449684dd186f18e07ef5",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2611,
+                    "url": "https://media.sketchfab.com/avatars/1f21b285fd7a449684dd186f18e07ef5/61b1117737444b0e877b02ad0d3548d2.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5481,
+                    "url": "https://media.sketchfab.com/avatars/1f21b285fd7a449684dd186f18e07ef5/62bded6e5c8947d5b4cfa8e03474f83d.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 17308,
+                    "url": "https://media.sketchfab.com/avatars/1f21b285fd7a449684dd186f18e07ef5/c95d02b64e03443d9ba257c01e87acb6.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 20959,
+                    "url": "https://media.sketchfab.com/avatars/1f21b285fd7a449684dd186f18e07ef5/51edcc8f2b854bf6a4edc0928d3eddff.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/001417c76570414191f322395eb478c4"
+    },
+    "vertexCount": 4391,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/townhouse-399c2191b20e483fae58f10a3963e1b3",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "- extra low poly houses only exterior models\n- Geometry totaly\nPolygons : 2840\nVertex : 4480\n- FORMATS\n\n3DSMAX 2021 (with standart PBR material with textures 2048 pixel but need uvw settings)\n\nFBX (with standart PBR material with textures 2048 pixel but need uvw settings)\n\nOBJ (with standart PBR material with textures 2048 pixel but need uvw settings)\n\nGLB (with standart PBR material with textures 2048 pixel but need uvw settings)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/399c2191b20e483fae58f10a3963e1b3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T11:05:07.353410",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

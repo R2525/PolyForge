@@ -1,0 +1,299 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-09T09:59:30.220859",
+    "embedUrl": "https://sketchfab.com/models/0b468d2edb7a439f8b2b71767649164e/embed",
+    "faceCount": 125547,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 4,
+    "name": "Pilastra, Palacio de Pedro I, Astudillo",
+    "publishedAt": "2025-12-16T14:21:24.604300",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "spain",
+            "slug": "spain",
+            "uri": "https://api.sketchfab.com/v3/tags/spain"
+        },
+        {
+            "name": "arquitectura",
+            "slug": "arquitectura",
+            "uri": "https://api.sketchfab.com/v3/tags/arquitectura"
+        },
+        {
+            "name": "palace",
+            "slug": "palace",
+            "uri": "https://api.sketchfab.com/v3/tags/palace"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "retopology",
+            "slug": "retopology",
+            "uri": "https://api.sketchfab.com/v3/tags/retopology"
+        },
+        {
+            "name": "fotogrametria",
+            "slug": "fotogrametria",
+            "uri": "https://api.sketchfab.com/v3/tags/fotogrametria"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "Espana",
+            "slug": "espana",
+            "uri": "https://api.sketchfab.com/v3/tags/espana"
+        },
+        {
+            "name": "middleages",
+            "slug": "middleages",
+            "uri": "https://api.sketchfab.com/v3/tags/middleages"
+        },
+        {
+            "name": "Palacio",
+            "slug": "palacio",
+            "uri": "https://api.sketchfab.com/v3/tags/palacio"
+        },
+        {
+            "name": "palencia",
+            "slug": "palencia",
+            "uri": "https://api.sketchfab.com/v3/tags/palencia"
+        },
+        {
+            "name": "pilaster",
+            "slug": "pilaster",
+            "uri": "https://api.sketchfab.com/v3/tags/pilaster"
+        },
+        {
+            "name": "cultural-heritage",
+            "slug": "cultural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage"
+        },
+        {
+            "name": "mudejar",
+            "slug": "mudejar",
+            "uri": "https://api.sketchfab.com/v3/tags/mudejar"
+        },
+        {
+            "name": "pilastra",
+            "slug": "pilastra",
+            "uri": "https://api.sketchfab.com/v3/tags/pilastra"
+        },
+        {
+            "name": "retopologia",
+            "slug": "retopologia",
+            "uri": "https://api.sketchfab.com/v3/tags/retopologia"
+        },
+        {
+            "name": "optimizado",
+            "slug": "optimizado",
+            "uri": "https://api.sketchfab.com/v3/tags/optimizado"
+        },
+        {
+            "name": "castilla-y-leon",
+            "slug": "castilla-y-leon",
+            "uri": "https://api.sketchfab.com/v3/tags/castilla-y-leon"
+        },
+        {
+            "name": "patrimoniocultural",
+            "slug": "patrimoniocultural",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimoniocultural"
+        },
+        {
+            "name": "sigloxiv",
+            "slug": "sigloxiv",
+            "uri": "https://api.sketchfab.com/v3/tags/sigloxiv"
+        },
+        {
+            "name": "edadmedia",
+            "slug": "edadmedia",
+            "uri": "https://api.sketchfab.com/v3/tags/edadmedia"
+        },
+        {
+            "name": "culturalheritage-photogrammetry-3dmodel",
+            "slug": "culturalheritage-photogrammetry-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/culturalheritage-photogrammetry-3dmodel"
+        },
+        {
+            "name": "cultural-heritage-photogrammetry-historical",
+            "slug": "cultural-heritage-photogrammetry-historical",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage-photogrammetry-historical"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "astudillo",
+            "slug": "astudillo",
+            "uri": "https://api.sketchfab.com/v3/tags/astudillo"
+        },
+        {
+            "name": "xiv-century",
+            "slug": "xiv-century",
+            "uri": "https://api.sketchfab.com/v3/tags/xiv-century"
+        },
+        {
+            "name": "castileandleon",
+            "slug": "castileandleon",
+            "uri": "https://api.sketchfab.com/v3/tags/castileandleon"
+        },
+        {
+            "name": "pedroi",
+            "slug": "pedroi",
+            "uri": "https://api.sketchfab.com/v3/tags/pedroi"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c9cddd5a87ce46d19e4937023ce11c73",
+                "width": 1920,
+                "height": 1080,
+                "size": 104005,
+                "url": "https://media.sketchfab.com/models/0b468d2edb7a439f8b2b71767649164e/thumbnails/defaf0edbd594735b403ae19fdbda528/4ece6a77317d4c3d876b8c1ea4a2cbc5.jpeg"
+            },
+            {
+                "uid": "4407b9b455a84d6aac10f82bc9b7a15b",
+                "width": 1024,
+                "height": 576,
+                "size": 32072,
+                "url": "https://media.sketchfab.com/models/0b468d2edb7a439f8b2b71767649164e/thumbnails/defaf0edbd594735b403ae19fdbda528/dcad8f1c34cb4bcc82ae0e76d7dc4d03.jpeg"
+            },
+            {
+                "uid": "8932fa4ea3c141fbb5144e1bf01b8525",
+                "width": 720,
+                "height": 405,
+                "size": 17078,
+                "url": "https://media.sketchfab.com/models/0b468d2edb7a439f8b2b71767649164e/thumbnails/defaf0edbd594735b403ae19fdbda528/3db3c7b8f8d14b0d97111f7a459a8b74.jpeg"
+            },
+            {
+                "uid": "5d9d42cbb8264e849659960ef6e94309",
+                "width": 256,
+                "height": 144,
+                "size": 2827,
+                "url": "https://media.sketchfab.com/models/0b468d2edb7a439f8b2b71767649164e/thumbnails/defaf0edbd594735b403ae19fdbda528/237f447bd473491babcafcea80f13604.jpeg"
+            },
+            {
+                "uid": "5a73a7b7988b4776880692f97b0023e0",
+                "width": 64,
+                "height": 36,
+                "size": 883,
+                "url": "https://media.sketchfab.com/models/0b468d2edb7a439f8b2b71767649164e/thumbnails/defaf0edbd594735b403ae19fdbda528/290594f1e9c94885adf712718c4a1c06.jpeg"
+            }
+        ]
+    },
+    "uid": "0b468d2edb7a439f8b2b71767649164e",
+    "uri": "https://api.sketchfab.com/v3/models/0b468d2edb7a439f8b2b71767649164e",
+    "user": {
+        "uid": "21dd9d33c5b742e895572a055d090666",
+        "username": "hjft",
+        "displayName": "Héctor Fonseca",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/hjft",
+        "avatar": {
+            "uid": "05c2ecc488c64911b37fd60cdd768844",
+            "uri": "https://api.sketchfab.com/v3/avatars/05c2ecc488c64911b37fd60cdd768844",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4288,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/fee3698f526a4dd2aeed90148e421f20.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3657,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/2d6da696b4c940f7b2f63c9ae1825b70.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/4c2a7427d7c9466d93c651dec25be2e9.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 837,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/e426a17375db4f2c972c4624450b2e43.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/21dd9d33c5b742e895572a055d090666"
+    },
+    "vertexCount": 69512,
+    "viewCount": 32,
+    "viewerUrl": "https://sketchfab.com/3d-models/pilastra-palacio-de-pedro-i-astudillo-0b468d2edb7a439f8b2b71767649164e",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**ESP** Pilastra que decora una de las esquia exteriores del palacio de Pedro I en Astudillo, Palencia (Castilla y León, España). Este palacio fue construído en el s. XIV en estilo mudéjar y en 1354 se tranformó, mediante donación, en el actual Monasterio de Santa Clara.\n\n**ENG** Pilaster decorating one of the exterior corners of the palace of Pedro I in Astudillo, Palencia (Castile and León, Spain). This palace was built in the 14th century in the Mudejar style and in 1354 it was transformed, through donation, into the current Monastery of Santa Clara.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0b468d2edb7a439f8b2b71767649164e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-16T14:21:25.222870",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 2
+}

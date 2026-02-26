@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-14T13:01:39.497125",
+    "embedUrl": "https://sketchfab.com/models/0dca450c7f9e43fbb02f1790efda76ac/embed",
+    "faceCount": 149590,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 9,
+    "name": "Cyberpunk Gothic Outfit - Game Ready - PBR",
+    "publishedAt": "2026-02-14T14:34:38.654593",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "leather",
+            "slug": "leather",
+            "uri": "https://api.sketchfab.com/v3/tags/leather"
+        },
+        {
+            "name": "punk",
+            "slug": "punk",
+            "uri": "https://api.sketchfab.com/v3/tags/punk"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "gothic",
+            "slug": "gothic",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b48d0386636b4f348dae3a3936e06b9d",
+                "width": 1920,
+                "height": 1080,
+                "size": 345152,
+                "url": "https://media.sketchfab.com/models/0dca450c7f9e43fbb02f1790efda76ac/thumbnails/14df75103e3643449f24cad27a41796c/df9984c5f7f7475b858edf1a61b09717.jpeg"
+            },
+            {
+                "uid": "c53c5045aa0341e0929e1b093490b976",
+                "width": 1024,
+                "height": 576,
+                "size": 38317,
+                "url": "https://media.sketchfab.com/models/0dca450c7f9e43fbb02f1790efda76ac/thumbnails/14df75103e3643449f24cad27a41796c/ccc1425e1d164a3e83ab8a7782755d57.jpeg"
+            },
+            {
+                "uid": "02641db2ab06490da4c5220a7221ff56",
+                "width": 720,
+                "height": 405,
+                "size": 20874,
+                "url": "https://media.sketchfab.com/models/0dca450c7f9e43fbb02f1790efda76ac/thumbnails/14df75103e3643449f24cad27a41796c/346d87dd0bc14260a5d13019173327fd.jpeg"
+            },
+            {
+                "uid": "790e6c1e2ca646dfb71bd3d586e247b4",
+                "width": 256,
+                "height": 144,
+                "size": 4562,
+                "url": "https://media.sketchfab.com/models/0dca450c7f9e43fbb02f1790efda76ac/thumbnails/14df75103e3643449f24cad27a41796c/f20194172d2c46228b180e490f5bf8be.jpeg"
+            },
+            {
+                "uid": "abf26aa017454793912b7df69b03a62d",
+                "width": 64,
+                "height": 36,
+                "size": 1227,
+                "url": "https://media.sketchfab.com/models/0dca450c7f9e43fbb02f1790efda76ac/thumbnails/14df75103e3643449f24cad27a41796c/7533ae345d6f4c46890121486610eeb0.jpeg"
+            }
+        ]
+    },
+    "uid": "0dca450c7f9e43fbb02f1790efda76ac",
+    "uri": "https://api.sketchfab.com/v3/models/0dca450c7f9e43fbb02f1790efda76ac",
+    "user": {
+        "uid": "9ad64a356a2249cf970356865708af38",
+        "username": "shah_max",
+        "displayName": "maximmus",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/shah_max",
+        "avatar": {
+            "uid": "8b990524a67941bfaff5cf45c7067281",
+            "uri": "https://api.sketchfab.com/v3/avatars/8b990524a67941bfaff5cf45c7067281",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 627,
+                    "url": "https://media.sketchfab.com/avatars/8b990524a67941bfaff5cf45c7067281/b8677ddab81544fab227148f48cfebc3.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 873,
+                    "url": "https://media.sketchfab.com/avatars/8b990524a67941bfaff5cf45c7067281/7ba1bbc8795e45b6b49d6b1369f3d237.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1765,
+                    "url": "https://media.sketchfab.com/avatars/8b990524a67941bfaff5cf45c7067281/961b8a9de89545508102b790804940cc.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2020,
+                    "url": "https://media.sketchfab.com/avatars/8b990524a67941bfaff5cf45c7067281/10a12ac96c5e49afbb187464046a3ae3.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9ad64a356a2249cf970356865708af38"
+    },
+    "vertexCount": 97485,
+    "viewCount": 150,
+    "viewerUrl": "https://sketchfab.com/3d-models/cyberpunk-gothic-outfit-game-ready-pbr-0dca450c7f9e43fbb02f1790efda76ac",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Looking for the High-Quality, Game-Ready version?\nIf you need the Quad a pose models (compatible with CC4/iClone), with 4K PBR textures, clean topology, and separate meshes, you can get the professional version in cgtrader",
+    "price": null,
+    "downloadCount": 54,
+    "editorUrl": "https://sketchfab.com/models/0dca450c7f9e43fbb02f1790efda76ac/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-14T14:52:50.008803",
+    "pbrType": "metalness",
+    "textureCount": 43,
+    "materialCount": 23
+}

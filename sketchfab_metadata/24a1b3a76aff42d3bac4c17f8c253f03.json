@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T16:47:43.126746",
+    "embedUrl": "https://sketchfab.com/models/24a1b3a76aff42d3bac4c17f8c253f03/embed",
+    "faceCount": 35610,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Majora Marmite fix modele for blender",
+    "publishedAt": "2026-02-23T17:05:04.424626",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "hotel",
+            "slug": "hotel",
+            "uri": "https://api.sketchfab.com/v3/tags/hotel"
+        },
+        {
+            "name": "MajorasMask",
+            "slug": "majorasmask",
+            "uri": "https://api.sketchfab.com/v3/tags/majorasmask"
+        },
+        {
+            "name": "3ds",
+            "slug": "3ds",
+            "uri": "https://api.sketchfab.com/v3/tags/3ds"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "zelda",
+            "slug": "zelda",
+            "uri": "https://api.sketchfab.com/v3/tags/zelda"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "dbfa132cd08b404f83c8bb0669c02b28",
+                "width": 1920,
+                "height": 1080,
+                "size": 264652,
+                "url": "https://media.sketchfab.com/models/24a1b3a76aff42d3bac4c17f8c253f03/thumbnails/b2bfb2c58c224984b2ca3d10a6fa7137/5061b7cbd7ad40cc84111917ebd16d49.jpeg"
+            },
+            {
+                "uid": "929800a696484cd59030f64e11acf737",
+                "width": 1024,
+                "height": 576,
+                "size": 89781,
+                "url": "https://media.sketchfab.com/models/24a1b3a76aff42d3bac4c17f8c253f03/thumbnails/b2bfb2c58c224984b2ca3d10a6fa7137/a99943b040864f3689eae29265780755.jpeg"
+            },
+            {
+                "uid": "87596267dacb469d81f0eb050eb4fd64",
+                "width": 720,
+                "height": 405,
+                "size": 50785,
+                "url": "https://media.sketchfab.com/models/24a1b3a76aff42d3bac4c17f8c253f03/thumbnails/b2bfb2c58c224984b2ca3d10a6fa7137/85cdae179b3c4f65b3123b92332c8d08.jpeg"
+            },
+            {
+                "uid": "6fb40a346416496d802caba9cb4eed91",
+                "width": 256,
+                "height": 144,
+                "size": 8391,
+                "url": "https://media.sketchfab.com/models/24a1b3a76aff42d3bac4c17f8c253f03/thumbnails/b2bfb2c58c224984b2ca3d10a6fa7137/1229cee761484ce9bff04a561e186ee5.jpeg"
+            },
+            {
+                "uid": "99972b4836f64deb93229fbfec6866e5",
+                "width": 64,
+                "height": 36,
+                "size": 1335,
+                "url": "https://media.sketchfab.com/models/24a1b3a76aff42d3bac4c17f8c253f03/thumbnails/b2bfb2c58c224984b2ca3d10a6fa7137/f0e9511d6ca54c4e99c026c91303d0ba.jpeg"
+            }
+        ]
+    },
+    "uid": "24a1b3a76aff42d3bac4c17f8c253f03",
+    "uri": "https://api.sketchfab.com/v3/models/24a1b3a76aff42d3bac4c17f8c253f03",
+    "user": {
+        "uid": "cddd1538c3ce408d82a403b5c0d8618f",
+        "username": "kaibustu",
+        "displayName": "Kaibustu",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kaibustu",
+        "avatar": {
+            "uid": "4d3dbc1c88fd474c8911ee77acd1aa46",
+            "uri": "https://api.sketchfab.com/v3/avatars/4d3dbc1c88fd474c8911ee77acd1aa46",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1153,
+                    "url": "https://media.sketchfab.com/avatars/4d3dbc1c88fd474c8911ee77acd1aa46/86d1390a78534ebd9d0a999f6c1511c7.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1763,
+                    "url": "https://media.sketchfab.com/avatars/4d3dbc1c88fd474c8911ee77acd1aa46/f35abab40bb345a4b4417029679e1f15.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4370,
+                    "url": "https://media.sketchfab.com/avatars/4d3dbc1c88fd474c8911ee77acd1aa46/b920afa0390d4b72a6914b5decb6ee95.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5141,
+                    "url": "https://media.sketchfab.com/avatars/4d3dbc1c88fd474c8911ee77acd1aa46/9970a3ad71274ae39aa30387a852782d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cddd1538c3ce408d82a403b5c0d8618f"
+    },
+    "vertexCount": 27184,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/majora-marmite-fix-modele-for-blender-24a1b3a76aff42d3bac4c17f8c253f03",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Here is the Stock Pot Inn from Zelda: Majora's Mask 3DS, scaled for Blender. Huge thanks to (https://skfb.ly/pBtZG)(Katydid) for extracting the model!",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/24a1b3a76aff42d3bac4c17f8c253f03/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T17:05:04.518939",
+    "pbrType": null,
+    "textureCount": 52,
+    "materialCount": 52
+}

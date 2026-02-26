@@ -1,0 +1,40 @@
+{
+    "category": "Animals & Creatures",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        },
+        {
+            "name": "Modern",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "butterfly",
+        "wing",
+        "creature"
+    ]
+}

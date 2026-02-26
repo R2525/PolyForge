@@ -1,0 +1,41 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Horror",
+            "score": 0.85
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.55
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.95
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.8
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Glow"
+    ],
+    "tags": [
+        "3D model",
+        "character",
+        "pixel art"
+    ]
+}

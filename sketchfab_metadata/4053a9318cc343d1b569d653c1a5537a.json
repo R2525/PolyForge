@@ -1,0 +1,185 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T18:26:54.062109",
+    "embedUrl": "https://sketchfab.com/models/4053a9318cc343d1b569d653c1a5537a/embed",
+    "faceCount": 8308,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Stylized Alchemy Corner Handpainted",
+    "publishedAt": "2026-02-11T19:36:48.145508",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "laboratory",
+            "slug": "laboratory",
+            "uri": "https://api.sketchfab.com/v3/tags/laboratory"
+        },
+        {
+            "name": "obj",
+            "slug": "obj",
+            "uri": "https://api.sketchfab.com/v3/tags/obj"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "png",
+            "slug": "png",
+            "uri": "https://api.sketchfab.com/v3/tags/png"
+        },
+        {
+            "name": "Krita",
+            "slug": "krita",
+            "uri": "https://api.sketchfab.com/v3/tags/krita"
+        },
+        {
+            "name": "alchemy",
+            "slug": "alchemy",
+            "uri": "https://api.sketchfab.com/v3/tags/alchemy"
+        },
+        {
+            "name": "glb",
+            "slug": "glb",
+            "uri": "https://api.sketchfab.com/v3/tags/glb"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7e1857629fe14d85a0bfb0ecd0bf27f2",
+                "width": 1920,
+                "height": 1080,
+                "size": 289892,
+                "url": "https://media.sketchfab.com/models/4053a9318cc343d1b569d653c1a5537a/thumbnails/d555932a71d945de885b78f14070ce95/fc6179c076d6490f8c9bfd3e8f63e209.jpeg"
+            },
+            {
+                "uid": "462dde71fdb24ba5bc50f43c46578b99",
+                "width": 1024,
+                "height": 576,
+                "size": 104090,
+                "url": "https://media.sketchfab.com/models/4053a9318cc343d1b569d653c1a5537a/thumbnails/d555932a71d945de885b78f14070ce95/0ff68c90def84ef48c7700f381177b25.jpeg"
+            },
+            {
+                "uid": "8872cd0ddd814596a9c603162d1093ab",
+                "width": 720,
+                "height": 405,
+                "size": 61588,
+                "url": "https://media.sketchfab.com/models/4053a9318cc343d1b569d653c1a5537a/thumbnails/d555932a71d945de885b78f14070ce95/f24ee275d3fb41d6ac77032984c21065.jpeg"
+            },
+            {
+                "uid": "a98b32ffe4e2423585045c938c1174a2",
+                "width": 256,
+                "height": 144,
+                "size": 10976,
+                "url": "https://media.sketchfab.com/models/4053a9318cc343d1b569d653c1a5537a/thumbnails/d555932a71d945de885b78f14070ce95/9393965fa46b48649928955457e62457.jpeg"
+            },
+            {
+                "uid": "488e57f9242c418ebab6faacc9c64866",
+                "width": 64,
+                "height": 36,
+                "size": 1594,
+                "url": "https://media.sketchfab.com/models/4053a9318cc343d1b569d653c1a5537a/thumbnails/d555932a71d945de885b78f14070ce95/ad21a5fcc0ec401b88c46bb4ed098893.jpeg"
+            }
+        ]
+    },
+    "uid": "4053a9318cc343d1b569d653c1a5537a",
+    "uri": "https://api.sketchfab.com/v3/models/4053a9318cc343d1b569d653c1a5537a",
+    "user": {
+        "uid": "835824743ca14245b2f49c589d3542c9",
+        "username": "maria_labatte",
+        "displayName": "maria_labatte",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/maria_labatte",
+        "avatar": {
+            "uid": "278d7bf786d14301970439e61bea3055",
+            "uri": "https://api.sketchfab.com/v3/avatars/278d7bf786d14301970439e61bea3055",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1081,
+                    "url": "https://media.sketchfab.com/avatars/278d7bf786d14301970439e61bea3055/bf4d96d959384a82a4fa575f8f264e19.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1514,
+                    "url": "https://media.sketchfab.com/avatars/278d7bf786d14301970439e61bea3055/7baebf0f2e5e4ea78e46571c8421bc45.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2749,
+                    "url": "https://media.sketchfab.com/avatars/278d7bf786d14301970439e61bea3055/6aebb438210d4e2c895e7e8c30c1ec33.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3179,
+                    "url": "https://media.sketchfab.com/avatars/278d7bf786d14301970439e61bea3055/9a917765c5d1459c85a1fcb458845dd9.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/835824743ca14245b2f49c589d3542c9"
+    },
+    "vertexCount": 4451,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-alchemy-corner-handpainted-4053a9318cc343d1b569d653c1a5537a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**The alchemy zip file includes:**\n\n* Original File: Blender (.blend) version 5.0.1\n* Formats: Exports in fbx, obj, and glb\n* Textures: Hand-painted color maps using an overlapping technique\n\n**Technical Specifications:**\n\n* Low Poly Geometry, Game-Ready\n* Most object textures were hand-painted in Krita and all have UV mapping\n* Unity compatible\n* Texture resolution: 1024x1024\n* Image textures format: PNG\n* Objects: 26/26\n* Vertices: 4,461/4,461\n* Edges: 8,103/8,103\n* Faces: 3,877/3,87\n* Triangles: 8,308/8,308\n\n**Note about the rug:** The rug texture includes an alpha channel for edge transparency. In engines like Unity or Unreal, be sure to configure the material to display correctly",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/4053a9318cc343d1b569d653c1a5537a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-11T21:34:28.629969",
+    "pbrType": "metalness",
+    "textureCount": 14,
+    "materialCount": 20
+}

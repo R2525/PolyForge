@@ -1,0 +1,40 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Abstract",
+            "score": 0.7
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Abstract",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "star",
+        "model",
+        "3D"
+    ]
+}

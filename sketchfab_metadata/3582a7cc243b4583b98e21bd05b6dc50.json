@@ -1,0 +1,229 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-28T11:04:03.323002",
+    "embedUrl": "https://sketchfab.com/models/3582a7cc243b4583b98e21bd05b6dc50/embed",
+    "faceCount": 384,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Low Poly ATM / Bank Terminal",
+    "publishedAt": "2026-01-28T11:24:40.600858",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "server",
+            "slug": "server",
+            "uri": "https://api.sketchfab.com/v3/tags/server"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "atm",
+            "slug": "atm",
+            "uri": "https://api.sketchfab.com/v3/tags/atm"
+        },
+        {
+            "name": "blocky",
+            "slug": "blocky",
+            "uri": "https://api.sketchfab.com/v3/tags/blocky"
+        },
+        {
+            "name": "bank",
+            "slug": "bank",
+            "uri": "https://api.sketchfab.com/v3/tags/bank"
+        },
+        {
+            "name": "simulator",
+            "slug": "simulator",
+            "uri": "https://api.sketchfab.com/v3/tags/simulator"
+        },
+        {
+            "name": "terminal",
+            "slug": "terminal",
+            "uri": "https://api.sketchfab.com/v3/tags/terminal"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "game-asset",
+            "slug": "game-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+        },
+        {
+            "name": "economy",
+            "slug": "economy",
+            "uri": "https://api.sketchfab.com/v3/tags/economy"
+        },
+        {
+            "name": "voxel-style",
+            "slug": "voxel-style",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel-style"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "city",
+            "slug": "city",
+            "uri": "https://api.sketchfab.com/v3/tags/city"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "09591a467d4d4d009b6985254059ca2f",
+                "width": 1920,
+                "height": 1080,
+                "size": 52621,
+                "url": "https://media.sketchfab.com/models/3582a7cc243b4583b98e21bd05b6dc50/thumbnails/8382f63676cc42e6930008fc319da6db/730f680de6b64e4e857981eb04b727c0.jpeg"
+            },
+            {
+                "uid": "97bcc96db84241a7bd35e3a75e85472b",
+                "width": 1024,
+                "height": 576,
+                "size": 17370,
+                "url": "https://media.sketchfab.com/models/3582a7cc243b4583b98e21bd05b6dc50/thumbnails/8382f63676cc42e6930008fc319da6db/72bbadcf84bb4b6da534caf70571c184.jpeg"
+            },
+            {
+                "uid": "f09c67c7bbac486e92c704163999d569",
+                "width": 720,
+                "height": 405,
+                "size": 9875,
+                "url": "https://media.sketchfab.com/models/3582a7cc243b4583b98e21bd05b6dc50/thumbnails/8382f63676cc42e6930008fc319da6db/67fae4c5706a407e800f83556cde0c44.jpeg"
+            },
+            {
+                "uid": "5ec946b233b04c6f80bfbeee78f72bb9",
+                "width": 256,
+                "height": 144,
+                "size": 2404,
+                "url": "https://media.sketchfab.com/models/3582a7cc243b4583b98e21bd05b6dc50/thumbnails/8382f63676cc42e6930008fc319da6db/7988be35ad384dac87ce410906f943a0.jpeg"
+            },
+            {
+                "uid": "4191953bdece453f9aee38140c1f9294",
+                "width": 64,
+                "height": 36,
+                "size": 950,
+                "url": "https://media.sketchfab.com/models/3582a7cc243b4583b98e21bd05b6dc50/thumbnails/8382f63676cc42e6930008fc319da6db/119d8e2f77d54602a669774460a8b7fa.jpeg"
+            }
+        ]
+    },
+    "uid": "3582a7cc243b4583b98e21bd05b6dc50",
+    "uri": "https://api.sketchfab.com/v3/models/3582a7cc243b4583b98e21bd05b6dc50",
+    "user": {
+        "uid": "66180d5c9966400fb1277ddae517c5f9",
+        "username": "FD.BATYA",
+        "displayName": "FD.BATYA",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/FD.BATYA",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/66180d5c9966400fb1277ddae517c5f9"
+    },
+    "vertexCount": 256,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-atm-bank-terminal-3582a7cc243b4583b98e21bd05b6dc50",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a low poly ATM / bank terminal 3D model, perfect for use in games, Minecraft-style projects, servers with economy systems, simulators, and low-poly scenes.\n\nThe model is optimized for performance and easy integration into game engines or server plugins.\nIt works great as a decorative bank block, ATM machine, or interactive prop (mechanics can be added separately).\n\nFeatures:\n\nLow poly & game-ready\n\nClean topology\n\nMinecraft-style / blocky design\n\nOptimized for games and servers\n\nIncludes textures\n\nEasy to recolor or customize\n\nPerfect for economy systems, RPG servers, city maps, and simulators\n\nSuitable for:\n\nMinecraft servers\n\nGame development\n\nEconomy & banking systems\n\nLow-poly environments\n\nRoleplay maps\n\nDecorative props\n\n⚠️ Note:\nThis product includes ONLY the 3D model and textures.\nNo scripts, animations, or mechanics are included.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3582a7cc243b4583b98e21bd05b6dc50/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-28T11:24:40.982679",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

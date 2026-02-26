@@ -1,0 +1,41 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.7
+        },
+        {
+            "name": "Modern",
+            "score": 0.6
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.95
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Abstract",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Glow"
+    ],
+    "tags": [
+        "3D model",
+        "robot",
+        "wireframe"
+    ]
+}

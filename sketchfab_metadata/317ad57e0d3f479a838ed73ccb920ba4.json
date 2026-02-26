@@ -1,0 +1,174 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-10-12T22:28:48.960353",
+    "embedUrl": "https://sketchfab.com/models/317ad57e0d3f479a838ed73ccb920ba4/embed",
+    "faceCount": 174034,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Lemon Russ Tank",
+    "publishedAt": "2025-10-12T22:30:55.971107",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "Tank",
+            "slug": "tank",
+            "uri": "https://api.sketchfab.com/v3/tags/tank"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e887fb7aba0543a99111bf4995dea0bb",
+                "width": 1920,
+                "height": 1080,
+                "size": 154498,
+                "url": "https://media.sketchfab.com/models/317ad57e0d3f479a838ed73ccb920ba4/thumbnails/df837883e2154631ad1b0eb1ae9fda9b/0e9cd973c2fb4cf8b02d78ab76082c81.jpeg"
+            },
+            {
+                "uid": "0b3a0363e16b4ba3ac6263b66b4bb685",
+                "width": 1024,
+                "height": 576,
+                "size": 41855,
+                "url": "https://media.sketchfab.com/models/317ad57e0d3f479a838ed73ccb920ba4/thumbnails/df837883e2154631ad1b0eb1ae9fda9b/148f74e2953746aa98ee60d733034c8e.jpeg"
+            },
+            {
+                "uid": "2af9d14e6bb044b19c7013caea7c46d6",
+                "width": 720,
+                "height": 405,
+                "size": 23179,
+                "url": "https://media.sketchfab.com/models/317ad57e0d3f479a838ed73ccb920ba4/thumbnails/df837883e2154631ad1b0eb1ae9fda9b/e1d60bc477894df59014c22cbc76b7e6.jpeg"
+            },
+            {
+                "uid": "8165425146db47af83bf23a601db65f3",
+                "width": 256,
+                "height": 144,
+                "size": 4707,
+                "url": "https://media.sketchfab.com/models/317ad57e0d3f479a838ed73ccb920ba4/thumbnails/df837883e2154631ad1b0eb1ae9fda9b/dd3479626def48d6a7342cfc06dcb79f.jpeg"
+            },
+            {
+                "uid": "6bbdef7b958e42b19bcc4fc3b4011d86",
+                "width": 64,
+                "height": 36,
+                "size": 1135,
+                "url": "https://media.sketchfab.com/models/317ad57e0d3f479a838ed73ccb920ba4/thumbnails/df837883e2154631ad1b0eb1ae9fda9b/2adcdde0507b44f3a6cd9537c2888af3.jpeg"
+            }
+        ]
+    },
+    "uid": "317ad57e0d3f479a838ed73ccb920ba4",
+    "uri": "https://api.sketchfab.com/v3/models/317ad57e0d3f479a838ed73ccb920ba4",
+    "user": {
+        "uid": "6775605f79e34805823cf39d00ed0c60",
+        "username": "OD3D_Art",
+        "displayName": "OD3D_Art",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/OD3D_Art",
+        "avatar": {
+            "uid": "ce18041301f944588dc0f3f2115a4c62",
+            "uri": "https://api.sketchfab.com/v3/avatars/ce18041301f944588dc0f3f2115a4c62",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1367,
+                    "url": "https://media.sketchfab.com/avatars/ce18041301f944588dc0f3f2115a4c62/b5d1e71e0e354191aecac6a74f22ec97.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2099,
+                    "url": "https://media.sketchfab.com/avatars/ce18041301f944588dc0f3f2115a4c62/b248e4c3defd4ea8932f8ee1ec2a6bff.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5089,
+                    "url": "https://media.sketchfab.com/avatars/ce18041301f944588dc0f3f2115a4c62/566d458a10ab447e95f7711a0611a608.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5922,
+                    "url": "https://media.sketchfab.com/avatars/ce18041301f944588dc0f3f2115a4c62/23df0cae1a8b461892779f20c355118e.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6775605f79e34805823cf39d00ed0c60"
+    },
+    "vertexCount": 116726,
+    "viewCount": 59,
+    "viewerUrl": "https://sketchfab.com/3d-models/lemon-russ-tank-317ad57e0d3f479a838ed73ccb920ba4",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A tank I made as part of a study for my portfolio. Hard surface 3D modelling, planning on giving it textures in the future.\n\nThis piece is only made for artistic purposes with no intention of making it available for download.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/317ad57e0d3f479a838ed73ccb920ba4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-10-16T13:56:37.722023",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 3
+}

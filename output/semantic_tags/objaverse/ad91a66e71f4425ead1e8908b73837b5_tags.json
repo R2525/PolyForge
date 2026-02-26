@@ -1,0 +1,32 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Modern",
+            "score": 0.8
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "chair",
+        "wood",
+        "metal"
+    ]
+}

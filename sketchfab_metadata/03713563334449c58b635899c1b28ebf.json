@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T03:37:50.330121",
+    "embedUrl": "https://sketchfab.com/models/03713563334449c58b635899c1b28ebf/embed",
+    "faceCount": 37660,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Final Traven",
+    "publishedAt": "2026-02-24T05:50:19.525546",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4a162bd816804028987c4c85a4adc5bd",
+                "width": 1920,
+                "height": 1080,
+                "size": 121257,
+                "url": "https://media.sketchfab.com/models/03713563334449c58b635899c1b28ebf/thumbnails/5616a6e691074c8085971ade0bf619bc/2cde26cb240b48c995ffe2b91233731a.jpeg"
+            },
+            {
+                "uid": "3bd1f15c787f4463816ee02cedd5d8f7",
+                "width": 1024,
+                "height": 576,
+                "size": 39265,
+                "url": "https://media.sketchfab.com/models/03713563334449c58b635899c1b28ebf/thumbnails/5616a6e691074c8085971ade0bf619bc/6ff6a1d21735436b91a8e3e6f82929be.jpeg"
+            },
+            {
+                "uid": "8321ac7afe4948b2a5a5a5e918ab33b8",
+                "width": 720,
+                "height": 405,
+                "size": 22237,
+                "url": "https://media.sketchfab.com/models/03713563334449c58b635899c1b28ebf/thumbnails/5616a6e691074c8085971ade0bf619bc/f35d2e9ff14b4ed4a4a0223b670a8b71.jpeg"
+            },
+            {
+                "uid": "33a1db055f3f4b93a9beb0e95961a288",
+                "width": 256,
+                "height": 144,
+                "size": 4463,
+                "url": "https://media.sketchfab.com/models/03713563334449c58b635899c1b28ebf/thumbnails/5616a6e691074c8085971ade0bf619bc/9924dba3b36e4cab8428a39c1b87d162.jpeg"
+            },
+            {
+                "uid": "d65218d4235d485e9af209134686045c",
+                "width": 64,
+                "height": 36,
+                "size": 1088,
+                "url": "https://media.sketchfab.com/models/03713563334449c58b635899c1b28ebf/thumbnails/5616a6e691074c8085971ade0bf619bc/71a51996c15b48d6a238882ada9b2538.jpeg"
+            }
+        ]
+    },
+    "uid": "03713563334449c58b635899c1b28ebf",
+    "uri": "https://api.sketchfab.com/v3/models/03713563334449c58b635899c1b28ebf",
+    "user": {
+        "uid": "04540c9bf9f94174991e34653fa808cd",
+        "username": "WompWomp0v0",
+        "displayName": "WompWomp0v0",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/WompWomp0v0",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/04540c9bf9f94174991e34653fa808cd"
+    },
+    "vertexCount": 19631,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/final-traven-03713563334449c58b635899c1b28ebf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This was modeled after a tarven using just 2 Texture Atlas with maya\n\nThe artwork I refrenced:\nhttps://www.artstation.com/artwork/g2zyzL",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/03713563334449c58b635899c1b28ebf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T05:50:19.632838",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 5
+}

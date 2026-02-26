@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T14:58:44.503321",
+    "embedUrl": "https://sketchfab.com/models/209d66b973f04464801ab064b3ea29c5/embed",
+    "faceCount": 579936,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Anime inspired Demon",
+    "publishedAt": "2026-02-22T14:59:07.131890",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "28577e307d284f8284d90c41da8c9f7f",
+                "width": 1920,
+                "height": 1080,
+                "size": 68631,
+                "url": "https://media.sketchfab.com/models/209d66b973f04464801ab064b3ea29c5/thumbnails/6079cfaeaad94de0aa1f5c2bd2d1e4ba/8170f08bb7c34a9883e9ca848206ca65.jpeg"
+            },
+            {
+                "uid": "4183e1faf80c41798fa598a6a13974eb",
+                "width": 1024,
+                "height": 576,
+                "size": 23445,
+                "url": "https://media.sketchfab.com/models/209d66b973f04464801ab064b3ea29c5/thumbnails/6079cfaeaad94de0aa1f5c2bd2d1e4ba/de75d91c296a4e6da8531bed6f2be7ae.jpeg"
+            },
+            {
+                "uid": "5942976c6a67448083508060d05eac96",
+                "width": 720,
+                "height": 405,
+                "size": 13908,
+                "url": "https://media.sketchfab.com/models/209d66b973f04464801ab064b3ea29c5/thumbnails/6079cfaeaad94de0aa1f5c2bd2d1e4ba/abd7c78690b740c4ae9588f2a4ccc594.jpeg"
+            },
+            {
+                "uid": "b6cd3128260c4e128f0c4ff011ac2f4d",
+                "width": 256,
+                "height": 144,
+                "size": 3050,
+                "url": "https://media.sketchfab.com/models/209d66b973f04464801ab064b3ea29c5/thumbnails/6079cfaeaad94de0aa1f5c2bd2d1e4ba/23d6f382bc7a4219987d00370ff5edbe.jpeg"
+            },
+            {
+                "uid": "0e941441b3b24478a03bd3f8f5fb6145",
+                "width": 64,
+                "height": 36,
+                "size": 935,
+                "url": "https://media.sketchfab.com/models/209d66b973f04464801ab064b3ea29c5/thumbnails/6079cfaeaad94de0aa1f5c2bd2d1e4ba/4f08821c44f445c48164dad8c94ba7a7.jpeg"
+            }
+        ]
+    },
+    "uid": "209d66b973f04464801ab064b3ea29c5",
+    "uri": "https://api.sketchfab.com/v3/models/209d66b973f04464801ab064b3ea29c5",
+    "user": {
+        "uid": "73139ca4e6594be4b200885d944c6e6f",
+        "username": "Fenr1S",
+        "displayName": "Fenr1S",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Fenr1S",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/73139ca4e6594be4b200885d944c6e6f"
+    },
+    "vertexCount": 289949,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/anime-inspired-demon-209d66b973f04464801ab064b3ea29c5",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/c277Fu](https://www.meshy.ai/s/c277Fu)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/209d66b973f04464801ab064b3ea29c5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T14:59:07.109976",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

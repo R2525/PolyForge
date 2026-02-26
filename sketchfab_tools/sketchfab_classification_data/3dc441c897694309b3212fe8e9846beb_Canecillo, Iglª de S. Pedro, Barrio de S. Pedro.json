@@ -1,0 +1,66 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Baroque",
+            "score": 0.7
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "Realistic",
+            "score": 0.5
+        },
+        {
+            "name": "High-Definition",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Cracked",
+        "Mossy",
+        "Dusty",
+        "Rusty"
+    ],
+    "tags": [
+        "stone",
+        "carved",
+        "architectural",
+        "ancient",
+        "corbel"
+    ],
+    "model_id_full": "3dc441c897694309b3212fe8e9846beb_Canecillo, Iglª de S. Pedro, Barrio de S. Pedro",
+    "sketchfab_id": "3dc441c897694309b3212fe8e9846beb",
+    "asset_name": "Canecillo, Iglª de S. Pedro, Barrio de S. Pedro"
+}

@@ -1,0 +1,186 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-31T17:10:14.740449",
+    "embedUrl": "https://sketchfab.com/models/145d1fc961d24cacadf089cd4f4fbcc4/embed",
+    "faceCount": 317669,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Ballycallan: Cross slab fragment",
+    "publishedAt": "2026-01-31T17:15:37.355378",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "kilkenny3d",
+            "slug": "kilkenny3d",
+            "uri": "https://api.sketchfab.com/v3/tags/kilkenny3d"
+        },
+        {
+            "name": "kiriengine",
+            "slug": "kiriengine",
+            "uri": "https://api.sketchfab.com/v3/tags/kiriengine"
+        },
+        {
+            "name": "photograpmmetry",
+            "slug": "photograpmmetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photograpmmetry"
+        },
+        {
+            "name": "smr-ie",
+            "slug": "smr-ie",
+            "uri": "https://api.sketchfab.com/v3/tags/smr-ie"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "68689fd1deac4eefa808e8417469c299",
+                "width": 1920,
+                "height": 1080,
+                "size": 164388,
+                "url": "https://media.sketchfab.com/models/145d1fc961d24cacadf089cd4f4fbcc4/thumbnails/12febb9642a04be5a4b76740cb903b08/9bd09df10e6544939891809ddb879468.jpeg"
+            },
+            {
+                "uid": "a1cee632e46f4e408636f038de29e479",
+                "width": 1024,
+                "height": 576,
+                "size": 38632,
+                "url": "https://media.sketchfab.com/models/145d1fc961d24cacadf089cd4f4fbcc4/thumbnails/12febb9642a04be5a4b76740cb903b08/2af6b90c77f04012bfa575a3853ad869.jpeg"
+            },
+            {
+                "uid": "049fdac0f9854d7f9956bd516794f610",
+                "width": 720,
+                "height": 405,
+                "size": 19785,
+                "url": "https://media.sketchfab.com/models/145d1fc961d24cacadf089cd4f4fbcc4/thumbnails/12febb9642a04be5a4b76740cb903b08/026f15180da14616b4bc14a87c69a6f2.jpeg"
+            },
+            {
+                "uid": "53dd34763d214122849f8545ad8172d5",
+                "width": 256,
+                "height": 144,
+                "size": 3607,
+                "url": "https://media.sketchfab.com/models/145d1fc961d24cacadf089cd4f4fbcc4/thumbnails/12febb9642a04be5a4b76740cb903b08/203735644a6142ebbe94ca5b1c4cdcaa.jpeg"
+            },
+            {
+                "uid": "bbf318beb10f4f0fb7ecc24d5ab4fe96",
+                "width": 64,
+                "height": 36,
+                "size": 978,
+                "url": "https://media.sketchfab.com/models/145d1fc961d24cacadf089cd4f4fbcc4/thumbnails/12febb9642a04be5a4b76740cb903b08/0d675b420efe490d8abb7ad622bf9c0a.jpeg"
+            }
+        ]
+    },
+    "uid": "145d1fc961d24cacadf089cd4f4fbcc4",
+    "uri": "https://api.sketchfab.com/v3/models/145d1fc961d24cacadf089cd4f4fbcc4",
+    "user": {
+        "uid": "4d9ac526066f4adc90a32dd57ddc42dc",
+        "username": "b-unicycling",
+        "displayName": "b-unicycling",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/b-unicycling",
+        "avatar": {
+            "uid": "6993d14140a241a9ac3a5b48ab9b6abc",
+            "uri": "https://api.sketchfab.com/v3/avatars/6993d14140a241a9ac3a5b48ab9b6abc",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2335,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/6baf43359e634dba8122684a52e0bb72.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4058,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/7977252be95f4b3a82341af4778882b4.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8726,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/ec8ce19d537049fdba0a5421e7a38503.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10011,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/e554dd6be43a4b3f9089c549228edb8c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4d9ac526066f4adc90a32dd57ddc42dc"
+    },
+    "vertexCount": 159079,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/ballycallan-cross-slab-fragment-145d1fc961d24cacadf089cd4f4fbcc4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "One of four medieval cross slabs surviving in Ballycallan (St Brigid's) Graveyard. It dates to the 13th or 14th century. It is the lower portion of an incised cross, now sticking out of the ground upside down. It does not seem to be tapering and I'd say, it might have been wider once, because it seems unusual to just have one bevelled edge.\n\nNot sure exactly which of the four it is, so I will have to assign the SMR numbers by their location on the HEV map.\n\nSMR no. (possibly) KK018-072006-\n\nMade in KiriEngine from 96 images.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/145d1fc961d24cacadf089cd4f4fbcc4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-31T17:26:11.099579",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

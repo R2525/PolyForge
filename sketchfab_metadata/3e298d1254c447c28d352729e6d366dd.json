@@ -1,0 +1,245 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-02T15:40:02.249181",
+    "embedUrl": "https://sketchfab.com/models/3e298d1254c447c28d352729e6d366dd/embed",
+    "faceCount": 276,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Vanilla Shields",
+    "publishedAt": "2026-01-02T15:48:53.820262",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "quest",
+            "slug": "quest",
+            "uri": "https://api.sketchfab.com/v3/tags/quest"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "decor",
+            "slug": "decor",
+            "uri": "https://api.sketchfab.com/v3/tags/decor"
+        },
+        {
+            "name": "Tool",
+            "slug": "tool",
+            "uri": "https://api.sketchfab.com/v3/tags/tool"
+        },
+        {
+            "name": "Pickaxe",
+            "slug": "pickaxe",
+            "uri": "https://api.sketchfab.com/v3/tags/pickaxe"
+        },
+        {
+            "name": "java",
+            "slug": "java",
+            "uri": "https://api.sketchfab.com/v3/tags/java"
+        },
+        {
+            "name": "bedrock",
+            "slug": "bedrock",
+            "uri": "https://api.sketchfab.com/v3/tags/bedrock"
+        },
+        {
+            "name": "hoe",
+            "slug": "hoe",
+            "uri": "https://api.sketchfab.com/v3/tags/hoe"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "nexo",
+            "slug": "nexo",
+            "uri": "https://api.sketchfab.com/v3/tags/nexo"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "pixel",
+            "slug": "pixel",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel"
+        },
+        {
+            "name": "mcmodels",
+            "slug": "mcmodels",
+            "uri": "https://api.sketchfab.com/v3/tags/mcmodels"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "bb6bd74fa0f54607ac0e3240dfe5b377",
+                "width": 1920,
+                "height": 1080,
+                "size": 96192,
+                "url": "https://media.sketchfab.com/models/3e298d1254c447c28d352729e6d366dd/thumbnails/244c44c329b64ba999b8605404d2f03f/39b4c8bc8bea45f4ab304e65b91a3be2.jpeg"
+            },
+            {
+                "uid": "b6274ef8a72340b3a4c9f07689a65877",
+                "width": 1024,
+                "height": 576,
+                "size": 37150,
+                "url": "https://media.sketchfab.com/models/3e298d1254c447c28d352729e6d366dd/thumbnails/244c44c329b64ba999b8605404d2f03f/b26ba47875724089963796a83337f670.jpeg"
+            },
+            {
+                "uid": "08196e42c22d4fda81901f1724528fde",
+                "width": 720,
+                "height": 405,
+                "size": 22423,
+                "url": "https://media.sketchfab.com/models/3e298d1254c447c28d352729e6d366dd/thumbnails/244c44c329b64ba999b8605404d2f03f/8d5cdcb991434ba88abd4ca6e764d955.jpeg"
+            },
+            {
+                "uid": "e8bd378741114d2ca5e184678c3de9ae",
+                "width": 256,
+                "height": 144,
+                "size": 5037,
+                "url": "https://media.sketchfab.com/models/3e298d1254c447c28d352729e6d366dd/thumbnails/244c44c329b64ba999b8605404d2f03f/8ab2d43e94aa47d5a161cc1de10ab8ef.jpeg"
+            },
+            {
+                "uid": "0f009a169e93498d930eeb38db6fee5e",
+                "width": 64,
+                "height": 36,
+                "size": 1147,
+                "url": "https://media.sketchfab.com/models/3e298d1254c447c28d352729e6d366dd/thumbnails/244c44c329b64ba999b8605404d2f03f/fd0f5d7b00234e4699c48e014985ad48.jpeg"
+            }
+        ]
+    },
+    "uid": "3e298d1254c447c28d352729e6d366dd",
+    "uri": "https://api.sketchfab.com/v3/models/3e298d1254c447c28d352729e6d366dd",
+    "user": {
+        "uid": "b60d60e7325047eca5dd2972a55c5b22",
+        "username": "workshop_six",
+        "displayName": "Workshop Six",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/workshop_six",
+        "avatar": {
+            "uid": "4561c14323744fafb18cdffc7e9b677f",
+            "uri": "https://api.sketchfab.com/v3/avatars/4561c14323744fafb18cdffc7e9b677f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1283,
+                    "url": "https://media.sketchfab.com/avatars/4561c14323744fafb18cdffc7e9b677f/fe3f358cbef842d59c16943e48386256.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1914,
+                    "url": "https://media.sketchfab.com/avatars/4561c14323744fafb18cdffc7e9b677f/a54b250b7f8846e7a0483ac16c85ab71.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4198,
+                    "url": "https://media.sketchfab.com/avatars/4561c14323744fafb18cdffc7e9b677f/ab1c5d0f7d414720a1c99d8aa99789ca.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4554,
+                    "url": "https://media.sketchfab.com/avatars/4561c14323744fafb18cdffc7e9b677f/a0beac6a82ab43d5b846a75fae6bb7d1.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b60d60e7325047eca5dd2972a55c5b22"
+    },
+    "vertexCount": 184,
+    "viewCount": 110,
+    "viewerUrl": "https://sketchfab.com/3d-models/vanilla-shields-3e298d1254c447c28d352729e6d366dd",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Vanilla Minecraft shield models for Minecraft: Java Edition.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3e298d1254c447c28d352729e6d366dd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-02T15:53:28.813879",
+    "pbrType": null,
+    "textureCount": 7,
+    "materialCount": 7
+}

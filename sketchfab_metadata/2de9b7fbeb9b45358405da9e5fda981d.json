@@ -1,0 +1,181 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-10T09:32:24.556540",
+    "embedUrl": "https://sketchfab.com/models/2de9b7fbeb9b45358405da9e5fda981d/embed",
+    "faceCount": 16780,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Hound Overlord (Cyberpunk Pickup Truck)",
+    "publishedAt": "2026-02-10T09:34:11.026168",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "vehicles",
+            "slug": "vehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicles"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "car",
+            "slug": "car",
+            "uri": "https://api.sketchfab.com/v3/tags/car"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "16f749a2b5624e96ad660a2d8c6a2086",
+                "width": 1920,
+                "height": 1080,
+                "size": 74562,
+                "url": "https://media.sketchfab.com/models/2de9b7fbeb9b45358405da9e5fda981d/thumbnails/f81372c741504e688432d24b4e3f6ae2/bb20593c113045a49ad11a4d8fd4332d.jpeg"
+            },
+            {
+                "uid": "ae941040530e4b8ebf1e4cecbd50ab60",
+                "width": 1024,
+                "height": 576,
+                "size": 24255,
+                "url": "https://media.sketchfab.com/models/2de9b7fbeb9b45358405da9e5fda981d/thumbnails/f81372c741504e688432d24b4e3f6ae2/095b30464b3d4ce2b033f88186e5fb3a.jpeg"
+            },
+            {
+                "uid": "f242511de2d94c01933f36fc9e23c28f",
+                "width": 720,
+                "height": 405,
+                "size": 13760,
+                "url": "https://media.sketchfab.com/models/2de9b7fbeb9b45358405da9e5fda981d/thumbnails/f81372c741504e688432d24b4e3f6ae2/c0b8f96fb79347828ba701c6f6f8e28f.jpeg"
+            },
+            {
+                "uid": "50293d9187b5485ba948c25a927eb0c9",
+                "width": 256,
+                "height": 144,
+                "size": 2868,
+                "url": "https://media.sketchfab.com/models/2de9b7fbeb9b45358405da9e5fda981d/thumbnails/f81372c741504e688432d24b4e3f6ae2/4035cf5aecef43eba7848e6217a1cfa6.jpeg"
+            },
+            {
+                "uid": "9064cc8b2ed1486cbb3b57a1d3299008",
+                "width": 64,
+                "height": 36,
+                "size": 970,
+                "url": "https://media.sketchfab.com/models/2de9b7fbeb9b45358405da9e5fda981d/thumbnails/f81372c741504e688432d24b4e3f6ae2/620f81eab25640808529a169fa27fe02.jpeg"
+            }
+        ]
+    },
+    "uid": "2de9b7fbeb9b45358405da9e5fda981d",
+    "uri": "https://api.sketchfab.com/v3/models/2de9b7fbeb9b45358405da9e5fda981d",
+    "user": {
+        "uid": "9a888e20e4034e31b3f202d2e49eee0c",
+        "username": "Me_wheel",
+        "displayName": "Jayden Howarth",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Me_wheel",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9a888e20e4034e31b3f202d2e49eee0c"
+    },
+    "vertexCount": 8394,
+    "viewCount": 27,
+    "viewerUrl": "https://sketchfab.com/3d-models/hound-overlord-cyberpunk-pickup-truck-2de9b7fbeb9b45358405da9e5fda981d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A cyberpunk style pickup truck.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/2de9b7fbeb9b45358405da9e5fda981d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-10T09:34:11.354892",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

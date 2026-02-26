@@ -1,0 +1,169 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-12-10T06:49:38.831699",
+    "embedUrl": "https://sketchfab.com/models/1e114dd906de4462a05fae1828059926/embed",
+    "faceCount": 88811,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 4,
+    "name": "Dreadnaught",
+    "publishedAt": "2025-12-10T06:52:37.401636",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "warhammer40k",
+            "slug": "warhammer40k",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer40k"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "edc617faecab4b4d96072720416dd5d9",
+                "width": 1920,
+                "height": 1080,
+                "size": 119954,
+                "url": "https://media.sketchfab.com/models/1e114dd906de4462a05fae1828059926/thumbnails/938173506d1d4803a3495233f20cff5e/c58257c9163a41bfbb14457f04badda2.jpeg"
+            },
+            {
+                "uid": "df62d5438b0544d68f7744b91805a5d0",
+                "width": 1024,
+                "height": 576,
+                "size": 40620,
+                "url": "https://media.sketchfab.com/models/1e114dd906de4462a05fae1828059926/thumbnails/938173506d1d4803a3495233f20cff5e/0b11957bab6c46b7b4b7248f4765db9e.jpeg"
+            },
+            {
+                "uid": "fa2b26cc67cd45c7afa044b62cb911a0",
+                "width": 720,
+                "height": 405,
+                "size": 24032,
+                "url": "https://media.sketchfab.com/models/1e114dd906de4462a05fae1828059926/thumbnails/938173506d1d4803a3495233f20cff5e/380f2ba6b7a346258ae658a8dbb7871b.jpeg"
+            },
+            {
+                "uid": "24732d4def6b44acbb9646bbb435de1a",
+                "width": 256,
+                "height": 144,
+                "size": 5096,
+                "url": "https://media.sketchfab.com/models/1e114dd906de4462a05fae1828059926/thumbnails/938173506d1d4803a3495233f20cff5e/9a920e9913b345feae2741acdc71a36a.jpeg"
+            },
+            {
+                "uid": "5b3d547cd0ed4b92824cd8341f8d9c77",
+                "width": 64,
+                "height": 36,
+                "size": 1072,
+                "url": "https://media.sketchfab.com/models/1e114dd906de4462a05fae1828059926/thumbnails/938173506d1d4803a3495233f20cff5e/df8aaf31c7c84a38a44823729b44fc73.jpeg"
+            }
+        ]
+    },
+    "uid": "1e114dd906de4462a05fae1828059926",
+    "uri": "https://api.sketchfab.com/v3/models/1e114dd906de4462a05fae1828059926",
+    "user": {
+        "uid": "e476c7f786784f6d92494911e0233ff3",
+        "username": "youngfalas",
+        "displayName": "Ebuchiy Kamenb",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/youngfalas",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e476c7f786784f6d92494911e0233ff3"
+    },
+    "vertexCount": 46834,
+    "viewCount": 89,
+    "viewerUrl": "https://sketchfab.com/3d-models/dreadnaught-1e114dd906de4462a05fae1828059926",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1e114dd906de4462a05fae1828059926/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-14T15:30:03.559473",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 4
+}

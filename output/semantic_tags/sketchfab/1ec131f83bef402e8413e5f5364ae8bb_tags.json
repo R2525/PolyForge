@@ -1,0 +1,40 @@
+{
+    "category": "Cars & Vehicles",
+    "top_genres": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.85
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        }
+    ],
+    "style": "Retro / PS1",
+    "top_styles": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.9
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "car",
+        "model",
+        "light blue"
+    ]
+}

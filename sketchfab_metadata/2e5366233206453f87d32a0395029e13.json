@@ -1,0 +1,272 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 1,
+    "createdAt": "2025-11-28T21:53:41.352415",
+    "embedUrl": "https://sketchfab.com/models/2e5366233206453f87d32a0395029e13/embed",
+    "faceCount": 222,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "XYZ",
+    "publishedAt": "2025-11-28T22:02:32.520240",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "european",
+            "slug": "european",
+            "uri": "https://api.sketchfab.com/v3/tags/european"
+        },
+        {
+            "name": "soldier",
+            "slug": "soldier",
+            "uri": "https://api.sketchfab.com/v3/tags/soldier"
+        },
+        {
+            "name": "indie",
+            "slug": "indie",
+            "uri": "https://api.sketchfab.com/v3/tags/indie"
+        },
+        {
+            "name": "retro",
+            "slug": "retro",
+            "uri": "https://api.sketchfab.com/v3/tags/retro"
+        },
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "ar",
+            "slug": "ar",
+            "uri": "https://api.sketchfab.com/v3/tags/ar"
+        },
+        {
+            "name": "accessory",
+            "slug": "accessory",
+            "uri": "https://api.sketchfab.com/v3/tags/accessory"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "crusader",
+            "slug": "crusader",
+            "uri": "https://api.sketchfab.com/v3/tags/crusader"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "11b9fc6c14054e79afe4ec16fd9632a8",
+                "width": 1920,
+                "height": 1080,
+                "size": 61695,
+                "url": "https://media.sketchfab.com/models/2e5366233206453f87d32a0395029e13/thumbnails/1354ebb9a8434b288b2236cc3822231c/b665473e9c344311a47793f928f8aae2.jpeg"
+            },
+            {
+                "uid": "74769a02461541a7bc2442f9ec3cf6db",
+                "width": 1024,
+                "height": 576,
+                "size": 20931,
+                "url": "https://media.sketchfab.com/models/2e5366233206453f87d32a0395029e13/thumbnails/1354ebb9a8434b288b2236cc3822231c/6198351dfd9543d98d93c382d9e4afb6.jpeg"
+            },
+            {
+                "uid": "4c2193be7ad34b91bb2a5ffd8e76e3c7",
+                "width": 720,
+                "height": 405,
+                "size": 12243,
+                "url": "https://media.sketchfab.com/models/2e5366233206453f87d32a0395029e13/thumbnails/1354ebb9a8434b288b2236cc3822231c/4fc83146c1234cb0a0a5483286ea7d3e.jpeg"
+            },
+            {
+                "uid": "45668ec59d9e490d969572a2f523862a",
+                "width": 256,
+                "height": 144,
+                "size": 2893,
+                "url": "https://media.sketchfab.com/models/2e5366233206453f87d32a0395029e13/thumbnails/1354ebb9a8434b288b2236cc3822231c/550a75a2370642329eb3b7dccc42a487.jpeg"
+            },
+            {
+                "uid": "c5ead9a47c18430e98c1723ffa28ab5c",
+                "width": 64,
+                "height": 36,
+                "size": 927,
+                "url": "https://media.sketchfab.com/models/2e5366233206453f87d32a0395029e13/thumbnails/1354ebb9a8434b288b2236cc3822231c/0acecba863fc462ebd9ac3d04807ad19.jpeg"
+            }
+        ]
+    },
+    "uid": "2e5366233206453f87d32a0395029e13",
+    "uri": "https://api.sketchfab.com/v3/models/2e5366233206453f87d32a0395029e13",
+    "user": {
+        "uid": "32bdb5e805874ceda761956152a0adb1",
+        "username": "JarMaximi",
+        "displayName": "JarMaximi",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/JarMaximi",
+        "avatar": {
+            "uid": "d3c9d9a7e18949d69b4f4b9e9694bc15",
+            "uri": "https://api.sketchfab.com/v3/avatars/d3c9d9a7e18949d69b4f4b9e9694bc15",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 965,
+                    "url": "https://media.sketchfab.com/avatars/d3c9d9a7e18949d69b4f4b9e9694bc15/c95a4aaca48548888af0c03ea994642b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1303,
+                    "url": "https://media.sketchfab.com/avatars/d3c9d9a7e18949d69b4f4b9e9694bc15/a28a7ac5957a4d0fbd966f7255c8e368.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2556,
+                    "url": "https://media.sketchfab.com/avatars/d3c9d9a7e18949d69b4f4b9e9694bc15/ca8f9a2c0b30408e9942fd882d8eb738.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3009,
+                    "url": "https://media.sketchfab.com/avatars/d3c9d9a7e18949d69b4f4b9e9694bc15/942b1f9928c64ce89ef11fc66f37fc2a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/32bdb5e805874ceda761956152a0adb1"
+    },
+    "vertexCount": 130,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/xyz-2e5366233206453f87d32a0395029e13",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Casco medieval low poly estilizado, ideal para juegos, escenas VR/AR y visualización 3D. Modelado con un enfoque limpio y optimizado, manteniendo una silueta histórica inspirada en diseños europeos clásicos del período medieval. Cuenta con topología eficiente, sinbones internos ni subdivisiones complejas, perfecto para proyectos que requieren rendimiento sin sacrificar estilo visual.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/2e5366233206453f87d32a0395029e13/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-28T22:02:32.975940",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

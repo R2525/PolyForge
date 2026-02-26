@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-15T18:43:05.596578",
+    "embedUrl": "https://sketchfab.com/models/2ae57bfdf77145299b2af74d01d2f6da/embed",
+    "faceCount": 1476,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Wooden barrel",
+    "publishedAt": "2026-01-15T19:03:09.181946",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3ae017dd4dad4b22b46ba752f0715eec",
+                "width": 1920,
+                "height": 1080,
+                "size": 96398,
+                "url": "https://media.sketchfab.com/models/2ae57bfdf77145299b2af74d01d2f6da/thumbnails/d44e7cef041144558429e624d6a07197/19bc8857d6a642d58d7937d57873d27e.jpeg"
+            },
+            {
+                "uid": "c3c09189a8da41ec9c80f030ed637ea5",
+                "width": 1024,
+                "height": 576,
+                "size": 28142,
+                "url": "https://media.sketchfab.com/models/2ae57bfdf77145299b2af74d01d2f6da/thumbnails/d44e7cef041144558429e624d6a07197/0d70e209a1194488955a52a0710e298d.jpeg"
+            },
+            {
+                "uid": "bab55eca97494de29d8b18b32eadda7a",
+                "width": 720,
+                "height": 405,
+                "size": 15366,
+                "url": "https://media.sketchfab.com/models/2ae57bfdf77145299b2af74d01d2f6da/thumbnails/d44e7cef041144558429e624d6a07197/54fc589c1d674d7096e98d14cf075633.jpeg"
+            },
+            {
+                "uid": "fb84a7cc41814725bc015b788517c3df",
+                "width": 256,
+                "height": 144,
+                "size": 3062,
+                "url": "https://media.sketchfab.com/models/2ae57bfdf77145299b2af74d01d2f6da/thumbnails/d44e7cef041144558429e624d6a07197/74e7e956b0e4475dbc36c8d0a66961ba.jpeg"
+            },
+            {
+                "uid": "a33e35373ecf46a3a06e02f33350a969",
+                "width": 64,
+                "height": 36,
+                "size": 1005,
+                "url": "https://media.sketchfab.com/models/2ae57bfdf77145299b2af74d01d2f6da/thumbnails/d44e7cef041144558429e624d6a07197/5ef0b3544b14494080d7e0f609a4edeb.jpeg"
+            }
+        ]
+    },
+    "uid": "2ae57bfdf77145299b2af74d01d2f6da",
+    "uri": "https://api.sketchfab.com/v3/models/2ae57bfdf77145299b2af74d01d2f6da",
+    "user": {
+        "uid": "3e4847b38e9c4ab8bb19b6923b668bd4",
+        "username": "Keon1x",
+        "displayName": "Keon1x",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Keon1x",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3e4847b38e9c4ab8bb19b6923b668bd4"
+    },
+    "vertexCount": 761,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/wooden-barrel-2ae57bfdf77145299b2af74d01d2f6da",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Available on FAB: https://www.fab.com/listings/f9fd01c2-1a9d-40c8-880d-df5fa15bd513\n\nSimple low-poly wooden barrel prop for background or environment use.\n\nIncluded:\n\n* 3 unique barrel assets (open, closed, lid)\n* 2k texture maps (basecolor, normal, roughness, metallic, AO",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2ae57bfdf77145299b2af74d01d2f6da/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-26T07:07:09.430384",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

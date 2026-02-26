@@ -1,0 +1,160 @@
+{
+    "animationCount": 2,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-09T19:50:01.233492",
+    "embedUrl": "https://sketchfab.com/models/35b8ce4675c943cf9800175817eb0ade/embed",
+    "faceCount": 432,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Bulbasaur Minecraft Model",
+    "publishedAt": "2026-02-09T19:51:07.864619",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "bbmodel",
+            "slug": "bbmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/bbmodel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e5e264d05c294e68939b79c1a7c68d5e",
+                "width": 1920,
+                "height": 1080,
+                "size": 53113,
+                "url": "https://media.sketchfab.com/models/35b8ce4675c943cf9800175817eb0ade/thumbnails/9777eb2bdf414a9a859a1686ab30b568/b243051362634dfda58a04a9bcc8eb4d.jpeg"
+            },
+            {
+                "uid": "e1a4067cb2d84845856867f7e15d1464",
+                "width": 1024,
+                "height": 576,
+                "size": 18680,
+                "url": "https://media.sketchfab.com/models/35b8ce4675c943cf9800175817eb0ade/thumbnails/9777eb2bdf414a9a859a1686ab30b568/b241209a5758427d8a62fceeb98a5a01.jpeg"
+            },
+            {
+                "uid": "53b95fd6594a4c7db84c1cd134ec1eb9",
+                "width": 720,
+                "height": 405,
+                "size": 11152,
+                "url": "https://media.sketchfab.com/models/35b8ce4675c943cf9800175817eb0ade/thumbnails/9777eb2bdf414a9a859a1686ab30b568/b18fbe90cebe4b3f89112bba776fb555.jpeg"
+            },
+            {
+                "uid": "502b2c5e55fa4b2b8bc28237f661fc9a",
+                "width": 256,
+                "height": 144,
+                "size": 2634,
+                "url": "https://media.sketchfab.com/models/35b8ce4675c943cf9800175817eb0ade/thumbnails/9777eb2bdf414a9a859a1686ab30b568/9df90ff57d764daa8dbe3d04b7fefa98.jpeg"
+            },
+            {
+                "uid": "9c4f2e6e37ba43fca4f9a532fb1d3109",
+                "width": 64,
+                "height": 36,
+                "size": 940,
+                "url": "https://media.sketchfab.com/models/35b8ce4675c943cf9800175817eb0ade/thumbnails/9777eb2bdf414a9a859a1686ab30b568/4292fc20f9554cd5a0e375bf5700b617.jpeg"
+            }
+        ]
+    },
+    "uid": "35b8ce4675c943cf9800175817eb0ade",
+    "uri": "https://api.sketchfab.com/v3/models/35b8ce4675c943cf9800175817eb0ade",
+    "user": {
+        "uid": "b270e2a06faf41dc85b6b9f0d237b4de",
+        "username": "dawid11821111",
+        "displayName": "dawid11821111",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/dawid11821111",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b270e2a06faf41dc85b6b9f0d237b4de"
+    },
+    "vertexCount": 288,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/bulbasaur-minecraft-model-35b8ce4675c943cf9800175817eb0ade",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A cute, small Bulbasaur-inspired Minecraft model, perfect as a pet or companion mob. Created entirely in Blockbench, this model stays true to the blocky Minecraft style while keeping Bulbasaur’s iconic look.\n\nThe model includes 2 smooth animations:\n\n* Idle – subtle movements to bring the pet to life\n* Walk – simple, clean walking animation\n\nDesigned at a small scale, making it ideal as a friendly pet, follower, or decorative entity in your Minecraft world. Great for mods, datapacks, or custom projects that need a charming Pokémon-style companion.\n\nFeatures:\n\n* Minecraft-friendly voxel style\n* Made in Blockbench\n* Idle & Walk animations included\n* Small, pet-like proportions\n* Lightweight and easy to integrate",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/35b8ce4675c943cf9800175817eb0ade/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T19:51:08.430316",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

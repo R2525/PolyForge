@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Datasets (STRICTLY EXCLUDE IMAGES)
+objaverse_mass_data/
+sketchfab_data/
+objaverse_chairs/
+objaverse_mass_data/**
+sketchfab_data/**
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Metadata & Analysis Results (INCLUDE)
+# We want to keep the semantic tags and embeddings as a lightweight index
+!output/semantic_tags/
+!sketchfab_metadata/
+!*.pkl
+
+# Temporary / Log Files
+match_result.txt
+match_result_utf8.txt
+sample_paths.txt
+search_full_data.json
+search_thumb_test.json
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# OS Files
+.DS_Store
+Thumbs.db

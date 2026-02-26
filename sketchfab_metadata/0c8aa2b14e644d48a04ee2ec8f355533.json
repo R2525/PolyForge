@@ -1,0 +1,214 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-10-05T17:43:41.535525",
+    "embedUrl": "https://sketchfab.com/models/0c8aa2b14e644d48a04ee2ec8f355533/embed",
+    "faceCount": 6988,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Tinglar Armor",
+    "publishedAt": "2025-10-05T18:03:54.654683",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "seaturtle",
+            "slug": "seaturtle",
+            "uri": "https://api.sketchfab.com/v3/tags/seaturtle"
+        },
+        {
+            "name": "puertorico",
+            "slug": "puertorico",
+            "uri": "https://api.sketchfab.com/v3/tags/puertorico"
+        },
+        {
+            "name": "fantasyart",
+            "slug": "fantasyart",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyart"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "ogryn",
+            "slug": "ogryn",
+            "uri": "https://api.sketchfab.com/v3/tags/ogryn"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "scifiarmor",
+            "slug": "scifiarmor",
+            "uri": "https://api.sketchfab.com/v3/tags/scifiarmor"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b85ab8c6179248419c73fcb6b09a2e4a",
+                "width": 1920,
+                "height": 1080,
+                "size": 179240,
+                "url": "https://media.sketchfab.com/models/0c8aa2b14e644d48a04ee2ec8f355533/thumbnails/610df5a0d9274bf580ea338df7ce86d0/1febf20b59f4407093ad0de07bfac026.jpeg"
+            },
+            {
+                "uid": "d0d1945fd257426a94d153887cc2355b",
+                "width": 1024,
+                "height": 576,
+                "size": 54550,
+                "url": "https://media.sketchfab.com/models/0c8aa2b14e644d48a04ee2ec8f355533/thumbnails/610df5a0d9274bf580ea338df7ce86d0/e942dcbb24344961846965162de03ab8.jpeg"
+            },
+            {
+                "uid": "c92b90e0671646aebdea55e419ff7bb5",
+                "width": 720,
+                "height": 405,
+                "size": 30268,
+                "url": "https://media.sketchfab.com/models/0c8aa2b14e644d48a04ee2ec8f355533/thumbnails/610df5a0d9274bf580ea338df7ce86d0/71debee28d8f479182c3f26d1d8683a6.jpeg"
+            },
+            {
+                "uid": "8c4429183285474bb0fb5312e2b035d9",
+                "width": 256,
+                "height": 144,
+                "size": 5462,
+                "url": "https://media.sketchfab.com/models/0c8aa2b14e644d48a04ee2ec8f355533/thumbnails/610df5a0d9274bf580ea338df7ce86d0/db44559e57cc4f7ba693285aefd579cf.jpeg"
+            },
+            {
+                "uid": "a1f6aacbe10f4643be021ff7763ddbd7",
+                "width": 64,
+                "height": 36,
+                "size": 1171,
+                "url": "https://media.sketchfab.com/models/0c8aa2b14e644d48a04ee2ec8f355533/thumbnails/610df5a0d9274bf580ea338df7ce86d0/c00bb2eb85024d10a79d92c6d22c6074.jpeg"
+            }
+        ]
+    },
+    "uid": "0c8aa2b14e644d48a04ee2ec8f355533",
+    "uri": "https://api.sketchfab.com/v3/models/0c8aa2b14e644d48a04ee2ec8f355533",
+    "user": {
+        "uid": "f1d1aa6ed5bc4acebb5a25a1ec7999b6",
+        "username": "zincronise.g",
+        "displayName": "Javier Ortiz",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/zincronise.g",
+        "avatar": {
+            "uid": "97581818b99941108de3a6fe2d6c8da3",
+            "uri": "https://api.sketchfab.com/v3/avatars/97581818b99941108de3a6fe2d6c8da3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 937,
+                    "url": "https://media.sketchfab.com/avatars/97581818b99941108de3a6fe2d6c8da3/0aba0bdff84e46c1aaa137076211f6c4.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1182,
+                    "url": "https://media.sketchfab.com/avatars/97581818b99941108de3a6fe2d6c8da3/0f7f95cd55db48059d63a76aa59119e3.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2048,
+                    "url": "https://media.sketchfab.com/avatars/97581818b99941108de3a6fe2d6c8da3/f3b02ee0d2bc439da23ee9fe1fcb3c06.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2311,
+                    "url": "https://media.sketchfab.com/avatars/97581818b99941108de3a6fe2d6c8da3/42575e1cfef84f2bb789e00fc65b8116.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f1d1aa6ed5bc4acebb5a25a1ec7999b6"
+    },
+    "vertexCount": 3624,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/tinglar-armor-0c8aa2b14e644d48a04ee2ec8f355533",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "What if... The ogryns of \nWarhammer 40,000: Darktide had an armor inspired by the Tinglar (Leatherback Sea Turtle).\n\nThis is my take of how it could look like.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0c8aa2b14e644d48a04ee2ec8f355533/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-10-05T20:30:44.176515",
+    "pbrType": "metalness",
+    "textureCount": 7,
+    "materialCount": 1
+}

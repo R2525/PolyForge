@@ -1,0 +1,66 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Rusty",
+        "Cracked",
+        "Dusty",
+        "Mossy"
+    ],
+    "tags": [
+        "dark",
+        "demon",
+        "warrior",
+        "armor",
+        "reaper"
+    ],
+    "model_id_full": "0c97059ecc604257b376d6c215b3297a_Dark Enigma",
+    "sketchfab_id": "0c97059ecc604257b376d6c215b3297a",
+    "asset_name": "Dark Enigma"
+}

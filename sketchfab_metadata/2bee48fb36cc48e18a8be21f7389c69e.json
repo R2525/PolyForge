@@ -1,0 +1,221 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T14:22:48.519660",
+    "embedUrl": "https://sketchfab.com/models/2bee48fb36cc48e18a8be21f7389c69e/embed",
+    "faceCount": 868845,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Flowerpot Stand_2",
+    "publishedAt": "2026-02-21T14:24:28.065656",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "3dscanning",
+            "slug": "3dscanning",
+            "uri": "https://api.sketchfab.com/v3/tags/3dscanning"
+        },
+        {
+            "name": "photogrametry",
+            "slug": "photogrametry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrametry"
+        },
+        {
+            "name": "photoreal",
+            "slug": "photoreal",
+            "uri": "https://api.sketchfab.com/v3/tags/photoreal"
+        },
+        {
+            "name": "Photogrammetrie",
+            "slug": "photogrammetrie",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetrie"
+        },
+        {
+            "name": "photoscan",
+            "slug": "photoscan",
+            "uri": "https://api.sketchfab.com/v3/tags/photoscan"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "3dscan",
+            "slug": "3dscan",
+            "uri": "https://api.sketchfab.com/v3/tags/3dscan"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "3dscannerapp",
+            "slug": "3dscannerapp",
+            "uri": "https://api.sketchfab.com/v3/tags/3dscannerapp"
+        },
+        {
+            "name": "realityscan-mobile",
+            "slug": "realityscan-mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/realityscan-mobile"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "41f0f0e554bc4a95b9a31ad9c0cd95d2",
+                "width": 1920,
+                "height": 1080,
+                "size": 129555,
+                "url": "https://media.sketchfab.com/models/2bee48fb36cc48e18a8be21f7389c69e/thumbnails/0b2f97dacee444e2bd50d18d43b87e7d/ef33cfdf111f45d6b58049e7eb8a63a8.jpeg"
+            },
+            {
+                "uid": "18cb6342693641ebb3160aa6fbd7e371",
+                "width": 1024,
+                "height": 576,
+                "size": 37013,
+                "url": "https://media.sketchfab.com/models/2bee48fb36cc48e18a8be21f7389c69e/thumbnails/0b2f97dacee444e2bd50d18d43b87e7d/3c33003cdc4d475fb6aa674693d8a057.jpeg"
+            },
+            {
+                "uid": "81a1a9e914ac4f3cbddb4c48ea969890",
+                "width": 720,
+                "height": 405,
+                "size": 19586,
+                "url": "https://media.sketchfab.com/models/2bee48fb36cc48e18a8be21f7389c69e/thumbnails/0b2f97dacee444e2bd50d18d43b87e7d/3ad27585c8c04049a3f15f7fb5d0da7d.jpeg"
+            },
+            {
+                "uid": "02c29c9ea076428fbd733abe14d7b41f",
+                "width": 256,
+                "height": 144,
+                "size": 3389,
+                "url": "https://media.sketchfab.com/models/2bee48fb36cc48e18a8be21f7389c69e/thumbnails/0b2f97dacee444e2bd50d18d43b87e7d/bb3f76e3fddd46f58e4a24fe7c365f1a.jpeg"
+            },
+            {
+                "uid": "e57311a8b1804907ae154e3b5278d99c",
+                "width": 64,
+                "height": 36,
+                "size": 907,
+                "url": "https://media.sketchfab.com/models/2bee48fb36cc48e18a8be21f7389c69e/thumbnails/0b2f97dacee444e2bd50d18d43b87e7d/be09cbe4e47d4aeda8680ba0fc62f910.jpeg"
+            }
+        ]
+    },
+    "uid": "2bee48fb36cc48e18a8be21f7389c69e",
+    "uri": "https://api.sketchfab.com/v3/models/2bee48fb36cc48e18a8be21f7389c69e",
+    "user": {
+        "uid": "8a28a9f923fb475185586f2334548b4d",
+        "username": "arconlo",
+        "displayName": "arconlo",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/arconlo",
+        "avatar": {
+            "uid": "7accae8743ef402c903c91ea970ce1cc",
+            "uri": "https://api.sketchfab.com/v3/avatars/7accae8743ef402c903c91ea970ce1cc",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 908,
+                    "url": "https://media.sketchfab.com/avatars/7accae8743ef402c903c91ea970ce1cc/b4e07fee6df54cb7afe38d656a87376b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1043,
+                    "url": "https://media.sketchfab.com/avatars/7accae8743ef402c903c91ea970ce1cc/0afbddc204cd46cc87c4afc47de63d25.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1887,
+                    "url": "https://media.sketchfab.com/avatars/7accae8743ef402c903c91ea970ce1cc/0bfe19c1bc1944fd815c564fb286054e.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2001,
+                    "url": "https://media.sketchfab.com/avatars/7accae8743ef402c903c91ea970ce1cc/6b7ae7d5a7654fa3a77def1223f3cf25.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8a28a9f923fb475185586f2334548b4d"
+    },
+    "vertexCount": 435104,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/flowerpot-stand-2-2bee48fb36cc48e18a8be21f7389c69e",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Photoscan of two flowerpot stands",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/2bee48fb36cc48e18a8be21f7389c69e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "realityscan",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T14:24:28.031304",
+    "pbrType": null,
+    "textureCount": null,
+    "materialCount": 1
+}

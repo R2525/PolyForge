@@ -1,0 +1,184 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-19T09:09:51.908019",
+    "embedUrl": "https://sketchfab.com/models/256fddcdbbd145f6bfa3af3f4ce543d0/embed",
+    "faceCount": 4500000,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Středověký měšťanský dům v Brně na Veselé",
+    "publishedAt": "2025-12-19T09:19:34.145179",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "basement",
+            "slug": "basement",
+            "uri": "https://api.sketchfab.com/v3/tags/basement"
+        },
+        {
+            "name": "Brno",
+            "slug": "brno",
+            "uri": "https://api.sketchfab.com/v3/tags/brno"
+        },
+        {
+            "name": "archaeology",
+            "slug": "archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology"
+        },
+        {
+            "name": "3dscan",
+            "slug": "3dscan",
+            "uri": "https://api.sketchfab.com/v3/tags/3dscan"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "694e1ec64d1f4ba9883654e0818b99e9",
+                "width": 1920,
+                "height": 1080,
+                "size": 338474,
+                "url": "https://media.sketchfab.com/models/256fddcdbbd145f6bfa3af3f4ce543d0/thumbnails/96162ce3f77349cd9e36f208872274e4/7c404cce27844b1e9e49ac82aecc9627.jpeg"
+            },
+            {
+                "uid": "366dfaaebd7841a39cd683dac454b1d0",
+                "width": 1024,
+                "height": 576,
+                "size": 64152,
+                "url": "https://media.sketchfab.com/models/256fddcdbbd145f6bfa3af3f4ce543d0/thumbnails/96162ce3f77349cd9e36f208872274e4/238d8fb4715d4de89239a7b13348cd16.jpeg"
+            },
+            {
+                "uid": "82ade85acd4f462a89e3e33bbd1d7dc7",
+                "width": 720,
+                "height": 405,
+                "size": 33432,
+                "url": "https://media.sketchfab.com/models/256fddcdbbd145f6bfa3af3f4ce543d0/thumbnails/96162ce3f77349cd9e36f208872274e4/b09b55a3d2664c87b2d5bad3c801d12e.jpeg"
+            },
+            {
+                "uid": "db8a5087937c4d038d1f8ef9c93e9868",
+                "width": 256,
+                "height": 144,
+                "size": 5503,
+                "url": "https://media.sketchfab.com/models/256fddcdbbd145f6bfa3af3f4ce543d0/thumbnails/96162ce3f77349cd9e36f208872274e4/45327f597eb04cafb7e787a58af7e690.jpeg"
+            },
+            {
+                "uid": "ca1a7bee5b1c44e7ab855b96051ff8cd",
+                "width": 64,
+                "height": 36,
+                "size": 1110,
+                "url": "https://media.sketchfab.com/models/256fddcdbbd145f6bfa3af3f4ce543d0/thumbnails/96162ce3f77349cd9e36f208872274e4/f817c7327d874cbc88234e8a746784f5.jpeg"
+            }
+        ]
+    },
+    "uid": "256fddcdbbd145f6bfa3af3f4ce543d0",
+    "uri": "https://api.sketchfab.com/v3/models/256fddcdbbd145f6bfa3af3f4ce543d0",
+    "user": {
+        "uid": "8e7c52bf34624f8fb568d9d138bb2929",
+        "username": "vojtanosek",
+        "displayName": "3D atelier ÚAM",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/vojtanosek",
+        "avatar": {
+            "uid": "7d41207f491c429286a94156dfa771c1",
+            "uri": "https://api.sketchfab.com/v3/avatars/7d41207f491c429286a94156dfa771c1",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 578,
+                    "url": "https://media.sketchfab.com/avatars/7d41207f491c429286a94156dfa771c1/66e2b780678c4aab9be42f979a27b2d0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 944,
+                    "url": "https://media.sketchfab.com/avatars/7d41207f491c429286a94156dfa771c1/6a21fbfcde9c45e7958bf6647b60781d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2066,
+                    "url": "https://media.sketchfab.com/avatars/7d41207f491c429286a94156dfa771c1/80a4167596de4300be57b73126555e2c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2428,
+                    "url": "https://media.sketchfab.com/avatars/7d41207f491c429286a94156dfa771c1/0ec2ba60392a4574b58cba1208909d85.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8e7c52bf34624f8fb568d9d138bb2929"
+    },
+    "vertexCount": 2288569,
+    "viewCount": 989,
+    "viewerUrl": "https://sketchfab.com/3d-models/stredoveky-mestansky-dum-v-brne-na-vesele-256fddcdbbd145f6bfa3af3f4ce543d0",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Relikt středověkého měšťanského domu z poloviny 13. století v Brně na Veselé.\n\nK odhalení zdiva došlo během záchranného archeologického výzkumu při stavbě Janáčkova kulturního centra \nv Brně na ulici Veselé v roce 2025. Jedná se o výjimečně zachovaný doklad zděné měšťanské architektury ze\nsamotného počátku královského města Brna. Původně přízemní stavba se v průběhu středověku stala suterénní \nkvůli navyšování okolního terénu. Někdy v 16. století byla přeměněna na sklep prohloubením podlahy a doplněním\nvalené cihlové klenby a sloužila takto snad až do 19. století.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/256fddcdbbd145f6bfa3af3f4ce543d0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-07T14:40:47.041039",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 4
+}

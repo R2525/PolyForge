@@ -1,0 +1,41 @@
+{
+    "category": "Nature & Plants",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Nature & Plants",
+            "score": 0.65
+        }
+    ],
+    "style": "Retro / PS1",
+    "top_styles": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.9
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Clean"
+    ],
+    "tags": [
+        "forest",
+        "tree",
+        "plant"
+    ]
+}

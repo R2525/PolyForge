@@ -1,0 +1,170 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T16:59:50.279541",
+    "embedUrl": "https://sketchfab.com/models/336cf383b9664f4a907677b2a040d4eb/embed",
+    "faceCount": 504,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "AR-2",
+    "publishedAt": "2026-02-22T17:00:28.942666",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "ar-2",
+            "slug": "ar-2",
+            "uri": "https://api.sketchfab.com/v3/tags/ar-2"
+        },
+        {
+            "name": "helldivers",
+            "slug": "helldivers",
+            "uri": "https://api.sketchfab.com/v3/tags/helldivers"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8dec761c7e2e47e2aa3d2ad6f05a771f",
+                "width": 1920,
+                "height": 1080,
+                "size": 49154,
+                "url": "https://media.sketchfab.com/models/336cf383b9664f4a907677b2a040d4eb/thumbnails/5e9ca0fb70a847f5ad5d739ea1dd7d9a/98f2f398726c42089b7543e88156513c.jpeg"
+            },
+            {
+                "uid": "b638a65b434441268d091eee342c0f4d",
+                "width": 1024,
+                "height": 576,
+                "size": 16420,
+                "url": "https://media.sketchfab.com/models/336cf383b9664f4a907677b2a040d4eb/thumbnails/5e9ca0fb70a847f5ad5d739ea1dd7d9a/d6ced55e1bcc4bccbe2226623541d8d1.jpeg"
+            },
+            {
+                "uid": "e7d25f30a7e74ce1b834d9f1370c7b24",
+                "width": 720,
+                "height": 405,
+                "size": 9542,
+                "url": "https://media.sketchfab.com/models/336cf383b9664f4a907677b2a040d4eb/thumbnails/5e9ca0fb70a847f5ad5d739ea1dd7d9a/ff1ce11baa734ec0a8ec76253545a7c2.jpeg"
+            },
+            {
+                "uid": "548b1490f5fa485c9b77b0525d7c21cf",
+                "width": 256,
+                "height": 144,
+                "size": 2404,
+                "url": "https://media.sketchfab.com/models/336cf383b9664f4a907677b2a040d4eb/thumbnails/5e9ca0fb70a847f5ad5d739ea1dd7d9a/62d44c45b3d24318b4a1e60a32449cf8.jpeg"
+            },
+            {
+                "uid": "77cab1de9c7b4ba0a395f0cae046f17b",
+                "width": 64,
+                "height": 36,
+                "size": 868,
+                "url": "https://media.sketchfab.com/models/336cf383b9664f4a907677b2a040d4eb/thumbnails/5e9ca0fb70a847f5ad5d739ea1dd7d9a/0ac1e6dbaa7f4ce0aab8355a7b8e6ce9.jpeg"
+            }
+        ]
+    },
+    "uid": "336cf383b9664f4a907677b2a040d4eb",
+    "uri": "https://api.sketchfab.com/v3/models/336cf383b9664f4a907677b2a040d4eb",
+    "user": {
+        "uid": "284425b7ba6d469a825400e354b66754",
+        "username": "Felina-chan",
+        "displayName": "SmartKitty",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Felina-chan",
+        "avatar": {
+            "uid": "db14f6a5c70a4a469b58b0781a3f1cc3",
+            "uri": "https://api.sketchfab.com/v3/avatars/db14f6a5c70a4a469b58b0781a3f1cc3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2607,
+                    "url": "https://media.sketchfab.com/avatars/db14f6a5c70a4a469b58b0781a3f1cc3/6a5d9ad7c40145a1945a9b7d54dd5f92.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5418,
+                    "url": "https://media.sketchfab.com/avatars/db14f6a5c70a4a469b58b0781a3f1cc3/7dbc21a482b64b7590b25705b74ecde8.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16830,
+                    "url": "https://media.sketchfab.com/avatars/db14f6a5c70a4a469b58b0781a3f1cc3/804550b53a4c4fffaff081e680015e74.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 20396,
+                    "url": "https://media.sketchfab.com/avatars/db14f6a5c70a4a469b58b0781a3f1cc3/0187c74640cf42f6ac7fe86d8c3a5085.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/284425b7ba6d469a825400e354b66754"
+    },
+    "vertexCount": 336,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/ar-2-336cf383b9664f4a907677b2a040d4eb",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/336cf383b9664f4a907677b2a040d4eb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T17:00:29.118511",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

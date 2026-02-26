@@ -1,0 +1,137 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-11-10T21:31:53.686125",
+    "embedUrl": "https://sketchfab.com/models/1d14a4ff6d8d4a498e8031bdcd077115/embed",
+    "faceCount": 1211924,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Armored Warrior of Warhammer 40K",
+    "publishedAt": "2025-11-10T21:32:38.297548",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6e35f687b8fb401eba5a6116d6861b80",
+                "width": 1920,
+                "height": 1080,
+                "size": 108724,
+                "url": "https://media.sketchfab.com/models/1d14a4ff6d8d4a498e8031bdcd077115/thumbnails/efb2c8e2cafa47d289f750384d8708a7/51acc04e7c524733a8aa9f5f269d4500.jpeg"
+            },
+            {
+                "uid": "42dd63452515486e99a6e8d25f297a21",
+                "width": 1024,
+                "height": 576,
+                "size": 38069,
+                "url": "https://media.sketchfab.com/models/1d14a4ff6d8d4a498e8031bdcd077115/thumbnails/efb2c8e2cafa47d289f750384d8708a7/e64695836f7c4a5395c52ecbc6d652d3.jpeg"
+            },
+            {
+                "uid": "1a4381b7d04a48179f257591efa163b6",
+                "width": 720,
+                "height": 405,
+                "size": 22273,
+                "url": "https://media.sketchfab.com/models/1d14a4ff6d8d4a498e8031bdcd077115/thumbnails/efb2c8e2cafa47d289f750384d8708a7/15187e3c013e49cea03cb0c5d66cc22c.jpeg"
+            },
+            {
+                "uid": "c5ad0e97e7d648d7b312d542b1ba29d5",
+                "width": 256,
+                "height": 144,
+                "size": 4639,
+                "url": "https://media.sketchfab.com/models/1d14a4ff6d8d4a498e8031bdcd077115/thumbnails/efb2c8e2cafa47d289f750384d8708a7/d83ee90d7e4b4ab2876a4c851b0942ee.jpeg"
+            },
+            {
+                "uid": "0e2943c09e5a4186802d9675179e9697",
+                "width": 64,
+                "height": 36,
+                "size": 1113,
+                "url": "https://media.sketchfab.com/models/1d14a4ff6d8d4a498e8031bdcd077115/thumbnails/efb2c8e2cafa47d289f750384d8708a7/82d12f8a42dd40e2bfe6f4cdbbc00ec4.jpeg"
+            }
+        ]
+    },
+    "uid": "1d14a4ff6d8d4a498e8031bdcd077115",
+    "uri": "https://api.sketchfab.com/v3/models/1d14a4ff6d8d4a498e8031bdcd077115",
+    "user": {
+        "uid": "b9e41cb0cad1486d96cce3914b05a88a",
+        "username": "henriquevale111",
+        "displayName": "henriquevale111",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/henriquevale111",
+        "avatar": {
+            "uid": "d3f1114ddacd4bd697316ac33b8976f3",
+            "uri": "https://api.sketchfab.com/v3/avatars/d3f1114ddacd4bd697316ac33b8976f3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1048,
+                    "url": "https://media.sketchfab.com/avatars/d3f1114ddacd4bd697316ac33b8976f3/9714ec64a143414682b218d3ac326d40.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1446,
+                    "url": "https://media.sketchfab.com/avatars/d3f1114ddacd4bd697316ac33b8976f3/94cd84452b5d4ce3a2ecd583cb248fdc.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3162,
+                    "url": "https://media.sketchfab.com/avatars/d3f1114ddacd4bd697316ac33b8976f3/a725e9a5df0748f78a2153926eed5cf6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3600,
+                    "url": "https://media.sketchfab.com/avatars/d3f1114ddacd4bd697316ac33b8976f3/0451fd0c68764169bef403615f60782c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b9e41cb0cad1486d96cce3914b05a88a"
+    },
+    "vertexCount": 605803,
+    "viewCount": 27,
+    "viewerUrl": "https://sketchfab.com/3d-models/armored-warrior-of-warhammer-40k-1d14a4ff6d8d4a498e8031bdcd077115",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Armored-Warrior-of-Warhammer-40K-v2-019a6f99-c71b-7e71-a788-3195f8ab2649?utm_source=sketchfab](https://www.meshy.ai/3d-models/Armored-Warrior-of-Warhammer-40K-v2-019a6f99-c71b-7e71-a788-3195f8ab2649?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1d14a4ff6d8d4a498e8031bdcd077115/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-10T21:33:21.465207",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

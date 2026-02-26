@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-22T07:55:51.123617",
+    "embedUrl": "https://sketchfab.com/models/37a3c3237aba43d5970fb25fc022bbb3/embed",
+    "faceCount": 13213,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Realistic Horse - Low Poly Game Ready Asset",
+    "publishedAt": "2026-01-22T07:59:25.418890",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "farm",
+            "slug": "farm",
+            "uri": "https://api.sketchfab.com/v3/tags/farm"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "horse",
+            "slug": "horse",
+            "uri": "https://api.sketchfab.com/v3/tags/horse"
+        },
+        {
+            "name": "animal",
+            "slug": "animal",
+            "uri": "https://api.sketchfab.com/v3/tags/animal"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a9da1c04d8e94378894e15547353b07b",
+                "width": 1920,
+                "height": 1080,
+                "size": 73485,
+                "url": "https://media.sketchfab.com/models/37a3c3237aba43d5970fb25fc022bbb3/thumbnails/605861149d99404f88a2e290abeaff10/8d83798a86b24015ba2ea9e20e02b390.jpeg"
+            },
+            {
+                "uid": "45596b40def540f485e26a20e92334af",
+                "width": 1024,
+                "height": 576,
+                "size": 22672,
+                "url": "https://media.sketchfab.com/models/37a3c3237aba43d5970fb25fc022bbb3/thumbnails/605861149d99404f88a2e290abeaff10/64e3dde52d0242b2adb040f3e152e5f5.jpeg"
+            },
+            {
+                "uid": "666cf0212f0045b4a8fcba0939bed868",
+                "width": 720,
+                "height": 405,
+                "size": 12865,
+                "url": "https://media.sketchfab.com/models/37a3c3237aba43d5970fb25fc022bbb3/thumbnails/605861149d99404f88a2e290abeaff10/c51d8135c0544a5ba71c4850b39e6121.jpeg"
+            },
+            {
+                "uid": "12b0f34c71f84b8ba4adb0188135a677",
+                "width": 256,
+                "height": 144,
+                "size": 2987,
+                "url": "https://media.sketchfab.com/models/37a3c3237aba43d5970fb25fc022bbb3/thumbnails/605861149d99404f88a2e290abeaff10/6210324048274922a4f7058ec6fc7ac7.jpeg"
+            },
+            {
+                "uid": "c6ceab70037f4c52b3f26cbc4e5b09cf",
+                "width": 64,
+                "height": 36,
+                "size": 980,
+                "url": "https://media.sketchfab.com/models/37a3c3237aba43d5970fb25fc022bbb3/thumbnails/605861149d99404f88a2e290abeaff10/882c7aae21604a81abfa08e1dd9da537.jpeg"
+            }
+        ]
+    },
+    "uid": "37a3c3237aba43d5970fb25fc022bbb3",
+    "uri": "https://api.sketchfab.com/v3/models/37a3c3237aba43d5970fb25fc022bbb3",
+    "user": {
+        "uid": "6a8857886a9f49faa63a7f693c852044",
+        "username": "Hdjusj",
+        "displayName": "3Dima",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Hdjusj",
+        "avatar": {
+            "uid": "106ecc2de637474eaf5874905be055aa",
+            "uri": "https://api.sketchfab.com/v3/avatars/106ecc2de637474eaf5874905be055aa",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1770,
+                    "url": "https://media.sketchfab.com/avatars/106ecc2de637474eaf5874905be055aa/a80ad1a22c484b4da13e7894ee95b08b.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3418,
+                    "url": "https://media.sketchfab.com/avatars/106ecc2de637474eaf5874905be055aa/2ae6bed187bf42a3acd9e401367168da.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9650,
+                    "url": "https://media.sketchfab.com/avatars/106ecc2de637474eaf5874905be055aa/ecec556c207749dca5d0e8821836da36.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11574,
+                    "url": "https://media.sketchfab.com/avatars/106ecc2de637474eaf5874905be055aa/54b0b3b03764439fa6c2f6fb315e837f.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6a8857886a9f49faa63a7f693c852044"
+    },
+    "vertexCount": 6609,
+    "viewCount": 217,
+    "viewerUrl": "https://sketchfab.com/3d-models/realistic-horse-low-poly-game-ready-asset-37a3c3237aba43d5970fb25fc022bbb3",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "High-quality realistic Horse model. Perfect for Medieval RPGs, Strategy games, or Farm environments.\n\n🐎 **Model Details:**\n* **Format:** .GLB (Textures embedded)\n* **Style:** Realistic / Low Poly\n* **Status:** Static Mesh (Clean topology)\n\n⚠️ **NEED CUSTOM CREATURES?**\nI am available for freelance commissions.\nIf you need other animals, monsters, or specific static poses created for your game, feel free to reach out!\n\n💬 **CONTACT:**\n* **Discord:** dima076125\n* **DM:** Message me here on Sketchfab.\n\n*Free to use in your projects (CC Attribution).*",
+    "price": null,
+    "downloadCount": 48,
+    "editorUrl": "https://sketchfab.com/models/37a3c3237aba43d5970fb25fc022bbb3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-22T07:59:25.698918",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

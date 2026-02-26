@@ -1,0 +1,194 @@
+{
+    "animationCount": 5,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T23:23:22.827749",
+    "embedUrl": "https://sketchfab.com/models/240b75a7c492433b8213f7b3ed0304e6/embed",
+    "faceCount": 960,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Gengar Staff Regular (Cobblemon)",
+    "publishedAt": "2026-02-18T23:38:38.016441",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "crate",
+            "slug": "crate",
+            "uri": "https://api.sketchfab.com/v3/tags/crate"
+        },
+        {
+            "name": "server",
+            "slug": "server",
+            "uri": "https://api.sketchfab.com/v3/tags/server"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "staff",
+            "slug": "staff",
+            "uri": "https://api.sketchfab.com/v3/tags/staff"
+        },
+        {
+            "name": "Pixelmon",
+            "slug": "pixelmon",
+            "uri": "https://api.sketchfab.com/v3/tags/pixelmon"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "cobblemon",
+            "slug": "cobblemon",
+            "uri": "https://api.sketchfab.com/v3/tags/cobblemon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "daae85551d194984a29b15f7d152b074",
+                "width": 1920,
+                "height": 1080,
+                "size": 81716,
+                "url": "https://media.sketchfab.com/models/240b75a7c492433b8213f7b3ed0304e6/thumbnails/ce0538b85b2f4e2eb0772780932b0f22/a50c5b90fe054d8db9299d59f30f6982.jpeg"
+            },
+            {
+                "uid": "8779685378074d11929a86d052fc6ca3",
+                "width": 1024,
+                "height": 576,
+                "size": 31293,
+                "url": "https://media.sketchfab.com/models/240b75a7c492433b8213f7b3ed0304e6/thumbnails/ce0538b85b2f4e2eb0772780932b0f22/fc98e684417940cb99af551a1bdf52e2.jpeg"
+            },
+            {
+                "uid": "1831520a022f4f8699d9f1b377afe861",
+                "width": 720,
+                "height": 405,
+                "size": 19529,
+                "url": "https://media.sketchfab.com/models/240b75a7c492433b8213f7b3ed0304e6/thumbnails/ce0538b85b2f4e2eb0772780932b0f22/3c255326102842a2a7956bb96bc6af52.jpeg"
+            },
+            {
+                "uid": "7631c1499078424c884339b27224e459",
+                "width": 256,
+                "height": 144,
+                "size": 4667,
+                "url": "https://media.sketchfab.com/models/240b75a7c492433b8213f7b3ed0304e6/thumbnails/ce0538b85b2f4e2eb0772780932b0f22/6a931e1a5de1464ea8c21431e825bd84.jpeg"
+            },
+            {
+                "uid": "de182910d2c04267888bb2792348eeab",
+                "width": 64,
+                "height": 36,
+                "size": 1135,
+                "url": "https://media.sketchfab.com/models/240b75a7c492433b8213f7b3ed0304e6/thumbnails/ce0538b85b2f4e2eb0772780932b0f22/2cfc4aa8a8264a43982872bcfb0b330b.jpeg"
+            }
+        ]
+    },
+    "uid": "240b75a7c492433b8213f7b3ed0304e6",
+    "uri": "https://api.sketchfab.com/v3/models/240b75a7c492433b8213f7b3ed0304e6",
+    "user": {
+        "uid": "a0a579495c1f45859d7339e3c671c9a8",
+        "username": "Destroyaa96",
+        "displayName": "PokeResort",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/Destroyaa96",
+        "avatar": {
+            "uid": "b919dcc4efb346f1b84cd4763723bb9a",
+            "uri": "https://api.sketchfab.com/v3/avatars/b919dcc4efb346f1b84cd4763723bb9a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2976,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/4b38a3e07ac445c880f72273c49e3062.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5811,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/6e4cd42e6d0e4e00822527d659880648.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16371,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/431c15146ecb4007a0281c972183185b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 19285,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/12ccdb2974884fc1bcf77a147029a95e.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a0a579495c1f45859d7339e3c671c9a8"
+    },
+    "vertexCount": 640,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/gengar-staff-regular-cobblemon-240b75a7c492433b8213f7b3ed0304e6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/240b75a7c492433b8213f7b3ed0304e6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T23:38:38.195313",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

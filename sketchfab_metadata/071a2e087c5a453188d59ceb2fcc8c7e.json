@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-23T04:00:14.756510",
+    "embedUrl": "https://sketchfab.com/models/071a2e087c5a453188d59ceb2fcc8c7e/embed",
+    "faceCount": 6160,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Basic axe and spiked ball",
+    "publishedAt": "2026-01-25T02:09:02.821195",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "spikeball",
+            "slug": "spikeball",
+            "uri": "https://api.sketchfab.com/v3/tags/spikeball"
+        },
+        {
+            "name": "freeasset",
+            "slug": "freeasset",
+            "uri": "https://api.sketchfab.com/v3/tags/freeasset"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "728ae0016f16416ba6ad9af8c3fe9a47",
+                "width": 1920,
+                "height": 1080,
+                "size": 59067,
+                "url": "https://media.sketchfab.com/models/071a2e087c5a453188d59ceb2fcc8c7e/thumbnails/402f1dfc27cd4d51aa7f91cc0a7075ed/14c2dfbb56bc4a568cc7845cdc9bf663.jpeg"
+            },
+            {
+                "uid": "eef00a017cf94fa59f3ead0017bc30b6",
+                "width": 1024,
+                "height": 576,
+                "size": 21050,
+                "url": "https://media.sketchfab.com/models/071a2e087c5a453188d59ceb2fcc8c7e/thumbnails/402f1dfc27cd4d51aa7f91cc0a7075ed/7bb7048c53014d39b69cda83b77e5693.jpeg"
+            },
+            {
+                "uid": "d8bd16e2b5ef4538ac2aa37b8869eebd",
+                "width": 720,
+                "height": 405,
+                "size": 12795,
+                "url": "https://media.sketchfab.com/models/071a2e087c5a453188d59ceb2fcc8c7e/thumbnails/402f1dfc27cd4d51aa7f91cc0a7075ed/89050783c6fd411b962d790ec0eb2c3f.jpeg"
+            },
+            {
+                "uid": "a94211cdf46e4a6184a6edf031e5133a",
+                "width": 256,
+                "height": 144,
+                "size": 3355,
+                "url": "https://media.sketchfab.com/models/071a2e087c5a453188d59ceb2fcc8c7e/thumbnails/402f1dfc27cd4d51aa7f91cc0a7075ed/69b4487bf2994d78bbdfc866ec4a15f9.jpeg"
+            },
+            {
+                "uid": "384fdd96f632485abf202c0af1462247",
+                "width": 64,
+                "height": 36,
+                "size": 1069,
+                "url": "https://media.sketchfab.com/models/071a2e087c5a453188d59ceb2fcc8c7e/thumbnails/402f1dfc27cd4d51aa7f91cc0a7075ed/1e0ee6dc6947480dbd31cbe713279b10.jpeg"
+            }
+        ]
+    },
+    "uid": "071a2e087c5a453188d59ceb2fcc8c7e",
+    "uri": "https://api.sketchfab.com/v3/models/071a2e087c5a453188d59ceb2fcc8c7e",
+    "user": {
+        "uid": "0523a1b096be4196a130963378e520b7",
+        "username": "Grone",
+        "displayName": "Gron",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Grone",
+        "avatar": {
+            "uid": "44edb525ffbf4027ac53b5d96c9f601c",
+            "uri": "https://api.sketchfab.com/v3/avatars/44edb525ffbf4027ac53b5d96c9f601c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1920,
+                    "url": "https://media.sketchfab.com/avatars/44edb525ffbf4027ac53b5d96c9f601c/c9c6abca0612458fa31ee9607d0d7afe.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3489,
+                    "url": "https://media.sketchfab.com/avatars/44edb525ffbf4027ac53b5d96c9f601c/3d53140a359448c6862cbd16923de540.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8939,
+                    "url": "https://media.sketchfab.com/avatars/44edb525ffbf4027ac53b5d96c9f601c/e7fe1329865545f48119d8f221966dfe.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10497,
+                    "url": "https://media.sketchfab.com/avatars/44edb525ffbf4027ac53b5d96c9f601c/25c0a9d49a734474b18e3542ceda22b0.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0523a1b096be4196a130963378e520b7"
+    },
+    "vertexCount": 2438,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/basic-axe-and-spiked-ball-071a2e087c5a453188d59ceb2fcc8c7e",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "\"A spiked flail and an axe set. I experimented with the Array modifier to create the chain links and started the axe blade by 'drawing' it from a plane. The spike on the axe was quite a challenge and ended up being more complex than I planned, but it was a great learning experience!\"",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/071a2e087c5a453188d59ceb2fcc8c7e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-25T02:09:02.966574",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 4
+}

@@ -1,0 +1,184 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-30T06:00:47.289786",
+    "embedUrl": "https://sketchfab.com/models/07406889bca045d0a5689d41ede72ae3/embed",
+    "faceCount": 889185,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Mechanical Dragon 3d Model",
+    "publishedAt": "2026-01-30T06:03:25.924490",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "toys",
+            "slug": "toys",
+            "uri": "https://api.sketchfab.com/v3/tags/toys"
+        },
+        {
+            "name": "3dprint",
+            "slug": "3dprint",
+            "uri": "https://api.sketchfab.com/v3/tags/3dprint"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "dragon",
+            "slug": "dragon",
+            "uri": "https://api.sketchfab.com/v3/tags/dragon"
+        },
+        {
+            "name": "printinplace",
+            "slug": "printinplace",
+            "uri": "https://api.sketchfab.com/v3/tags/printinplace"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "64bdc40ee8fb49739981ac6affdf3009",
+                "width": 1920,
+                "height": 1080,
+                "size": 63220,
+                "url": "https://media.sketchfab.com/models/07406889bca045d0a5689d41ede72ae3/thumbnails/da53070971c44f61bffeeb94db1e70dd/b4209c4abe8b4da086692079b413dca9.jpeg"
+            },
+            {
+                "uid": "e93db9c787b24deab7dea54170db6d03",
+                "width": 1024,
+                "height": 576,
+                "size": 21718,
+                "url": "https://media.sketchfab.com/models/07406889bca045d0a5689d41ede72ae3/thumbnails/da53070971c44f61bffeeb94db1e70dd/6c35d10ccf3a4b0ebe6ecf6059f638ff.jpeg"
+            },
+            {
+                "uid": "b860cdab61bf4c609126abb09fadbbd8",
+                "width": 720,
+                "height": 405,
+                "size": 12359,
+                "url": "https://media.sketchfab.com/models/07406889bca045d0a5689d41ede72ae3/thumbnails/da53070971c44f61bffeeb94db1e70dd/92e60e6550e04352a471c27abe9d0a0f.jpeg"
+            },
+            {
+                "uid": "4f447d8a6944463b8f80f408d8fc69d7",
+                "width": 256,
+                "height": 144,
+                "size": 2588,
+                "url": "https://media.sketchfab.com/models/07406889bca045d0a5689d41ede72ae3/thumbnails/da53070971c44f61bffeeb94db1e70dd/d503e5a65fd346d09cff918c4eae2ed5.jpeg"
+            },
+            {
+                "uid": "73dc6de82134416d98911b2f70cf77ec",
+                "width": 64,
+                "height": 36,
+                "size": 811,
+                "url": "https://media.sketchfab.com/models/07406889bca045d0a5689d41ede72ae3/thumbnails/da53070971c44f61bffeeb94db1e70dd/a1c630be718b4566bc36c6ba8893cdad.jpeg"
+            }
+        ]
+    },
+    "uid": "07406889bca045d0a5689d41ede72ae3",
+    "uri": "https://api.sketchfab.com/v3/models/07406889bca045d0a5689d41ede72ae3",
+    "user": {
+        "uid": "0c37a3c425984c999e6c2e33d7436004",
+        "username": "sunnyraidoingwork4u",
+        "displayName": "sunnyraidoingwork4u",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/sunnyraidoingwork4u",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0c37a3c425984c999e6c2e33d7436004"
+    },
+    "vertexCount": 430810,
+    "viewCount": 21,
+    "viewerUrl": "https://sketchfab.com/3d-models/mechanical-dragon-3d-model-07406889bca045d0a5689d41ede72ae3",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This \"Mechanical Dragon\" is a masterpiece of industrial fantasy. Unlike common \"flexi\" models, .It blends the raw aesthetic of steampunk with the fluidity of modern 3D printing engineering.\n\nWhat makes it essential? Most articulated models feel like toys; this feels like a piece of kinetic art. Every segment of its body features exposed gear motifs, hydraulic-style pistons, and riveted armor plating. It is a \"Print-in-Place\" model, meaning it comes off your build plate fully assembled and ready to move—no glue, no screws, and no tedious post-processing.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/07406889bca045d0a5689d41ede72ae3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-30T06:03:26.156302",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

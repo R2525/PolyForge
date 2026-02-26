@@ -1,0 +1,209 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-01T00:30:32.061732",
+    "embedUrl": "https://sketchfab.com/models/03e19e88c3f94833b2c2781e8784a6d9/embed",
+    "faceCount": 2843,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 9,
+    "name": "Lowpoly Church",
+    "publishedAt": "2026-01-01T00:33:57.974148",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "fab",
+            "slug": "fab",
+            "uri": "https://api.sketchfab.com/v3/tags/fab"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "church-architecture",
+            "slug": "church-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/church-architecture"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "church",
+            "slug": "church",
+            "uri": "https://api.sketchfab.com/v3/tags/church"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "medieval-church",
+            "slug": "medieval-church",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-church"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "532935fa2e7446589c27b51fe9415673",
+                "width": 1920,
+                "height": 1080,
+                "size": 570219,
+                "url": "https://media.sketchfab.com/models/03e19e88c3f94833b2c2781e8784a6d9/thumbnails/37f3dfac47d64698a80482d2a4571bbb/be4efb6872dd484aa60bd31b36bf93b3.jpeg"
+            },
+            {
+                "uid": "4298ab30b88b41c89fe00892d0c46ac4",
+                "width": 1024,
+                "height": 576,
+                "size": 81083,
+                "url": "https://media.sketchfab.com/models/03e19e88c3f94833b2c2781e8784a6d9/thumbnails/37f3dfac47d64698a80482d2a4571bbb/c9724e132a864b2bab03b3619f68d8e7.jpeg"
+            },
+            {
+                "uid": "27390c40d5134e288d413a73769b8c3c",
+                "width": 720,
+                "height": 405,
+                "size": 34960,
+                "url": "https://media.sketchfab.com/models/03e19e88c3f94833b2c2781e8784a6d9/thumbnails/37f3dfac47d64698a80482d2a4571bbb/e050b78cdf784732aa46d7f878925f34.jpeg"
+            },
+            {
+                "uid": "116179b88f6a4a0caca8d9ff74c67333",
+                "width": 256,
+                "height": 144,
+                "size": 4176,
+                "url": "https://media.sketchfab.com/models/03e19e88c3f94833b2c2781e8784a6d9/thumbnails/37f3dfac47d64698a80482d2a4571bbb/904b7f308a904b2689708a93cc6bf566.jpeg"
+            },
+            {
+                "uid": "9bf486e789de4537ab4c60fed79f51dd",
+                "width": 64,
+                "height": 36,
+                "size": 1015,
+                "url": "https://media.sketchfab.com/models/03e19e88c3f94833b2c2781e8784a6d9/thumbnails/37f3dfac47d64698a80482d2a4571bbb/0d2144db920645e595d204b752bb3a09.jpeg"
+            }
+        ]
+    },
+    "uid": "03e19e88c3f94833b2c2781e8784a6d9",
+    "uri": "https://api.sketchfab.com/v3/models/03e19e88c3f94833b2c2781e8784a6d9",
+    "user": {
+        "uid": "1a0d3a8b94c145f78bd3e98cd5429344",
+        "username": "AspectStudio",
+        "displayName": "AspectStudios",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/AspectStudio",
+        "avatar": {
+            "uid": "f1924f25294b4b44b7be3fdee1be0537",
+            "uri": "https://api.sketchfab.com/v3/avatars/f1924f25294b4b44b7be3fdee1be0537",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 566,
+                    "url": "https://media.sketchfab.com/avatars/f1924f25294b4b44b7be3fdee1be0537/2a7cdee17c9f485da836ffa2a0023797.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 945,
+                    "url": "https://media.sketchfab.com/avatars/f1924f25294b4b44b7be3fdee1be0537/8893a90473f5474ebd77def65e18f90d.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2597,
+                    "url": "https://media.sketchfab.com/avatars/f1924f25294b4b44b7be3fdee1be0537/7593287108ae4fa6bf680407c7a514ec.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2956,
+                    "url": "https://media.sketchfab.com/avatars/f1924f25294b4b44b7be3fdee1be0537/3a66f28fb1694105906b839203492d02.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1a0d3a8b94c145f78bd3e98cd5429344"
+    },
+    "vertexCount": 1532,
+    "viewCount": 76,
+    "viewerUrl": "https://sketchfab.com/3d-models/lowpoly-church-03e19e88c3f94833b2c2781e8784a6d9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Lowpoly Medieval Church**\n\n2.8K Tris\nGame Ready\nOptimized\n\nGet it now on Fab! \nhttps://www.fab.com/sellers/AspectStudios\n\nA compact, medieval-style church designed for real-time use in games and interactive environments. This asset is ideal for villages, towns, graveyards, or religious landmarks in medieval, fantasy, or historical settings.\n\nA like or follow goes a long way!",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/03e19e88c3f94833b2c2781e8784a6d9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-01T00:36:31.680471",
+    "pbrType": null,
+    "textureCount": 9,
+    "materialCount": 4
+}

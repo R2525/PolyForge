@@ -1,0 +1,334 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-15T10:14:48.750109",
+    "embedUrl": "https://sketchfab.com/models/3dfccabe41754a1a878eef80b321dcad/embed",
+    "faceCount": 116396,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Canecillo, Iglª de S. Pedro, Barrio de S. Pedro",
+    "publishedAt": "2025-12-19T10:35:07.291295",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rabbit",
+            "slug": "rabbit",
+            "uri": "https://api.sketchfab.com/v3/tags/rabbit"
+        },
+        {
+            "name": "spain",
+            "slug": "spain",
+            "uri": "https://api.sketchfab.com/v3/tags/spain"
+        },
+        {
+            "name": "arquitectura",
+            "slug": "arquitectura",
+            "uri": "https://api.sketchfab.com/v3/tags/arquitectura"
+        },
+        {
+            "name": "eagle",
+            "slug": "eagle",
+            "uri": "https://api.sketchfab.com/v3/tags/eagle"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "liebre",
+            "slug": "liebre",
+            "uri": "https://api.sketchfab.com/v3/tags/liebre"
+        },
+        {
+            "name": "retopology",
+            "slug": "retopology",
+            "uri": "https://api.sketchfab.com/v3/tags/retopology"
+        },
+        {
+            "name": "iglesia",
+            "slug": "iglesia",
+            "uri": "https://api.sketchfab.com/v3/tags/iglesia"
+        },
+        {
+            "name": "conejo",
+            "slug": "conejo",
+            "uri": "https://api.sketchfab.com/v3/tags/conejo"
+        },
+        {
+            "name": "romanesque",
+            "slug": "romanesque",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque"
+        },
+        {
+            "name": "hare",
+            "slug": "hare",
+            "uri": "https://api.sketchfab.com/v3/tags/hare"
+        },
+        {
+            "name": "fotogrametria",
+            "slug": "fotogrametria",
+            "uri": "https://api.sketchfab.com/v3/tags/fotogrametria"
+        },
+        {
+            "name": "Corbel",
+            "slug": "corbel",
+            "uri": "https://api.sketchfab.com/v3/tags/corbel"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "CulturalHeritage",
+            "slug": "culturalheritage",
+            "uri": "https://api.sketchfab.com/v3/tags/culturalheritage"
+        },
+        {
+            "name": "Espana",
+            "slug": "espana",
+            "uri": "https://api.sketchfab.com/v3/tags/espana"
+        },
+        {
+            "name": "middleages",
+            "slug": "middleages",
+            "uri": "https://api.sketchfab.com/v3/tags/middleages"
+        },
+        {
+            "name": "palencia",
+            "slug": "palencia",
+            "uri": "https://api.sketchfab.com/v3/tags/palencia"
+        },
+        {
+            "name": "romanico",
+            "slug": "romanico",
+            "uri": "https://api.sketchfab.com/v3/tags/romanico"
+        },
+        {
+            "name": "aguila",
+            "slug": "aguila",
+            "uri": "https://api.sketchfab.com/v3/tags/aguila"
+        },
+        {
+            "name": "retopologia",
+            "slug": "retopologia",
+            "uri": "https://api.sketchfab.com/v3/tags/retopologia"
+        },
+        {
+            "name": "optimizado",
+            "slug": "optimizado",
+            "uri": "https://api.sketchfab.com/v3/tags/optimizado"
+        },
+        {
+            "name": "patrimonio-cultural",
+            "slug": "patrimonio-cultural",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimonio-cultural"
+        },
+        {
+            "name": "sigloxiii",
+            "slug": "sigloxiii",
+            "uri": "https://api.sketchfab.com/v3/tags/sigloxiii"
+        },
+        {
+            "name": "edadmedia",
+            "slug": "edadmedia",
+            "uri": "https://api.sketchfab.com/v3/tags/edadmedia"
+        },
+        {
+            "name": "castillayleon",
+            "slug": "castillayleon",
+            "uri": "https://api.sketchfab.com/v3/tags/castillayleon"
+        },
+        {
+            "name": "culturalheritage-photogrammetry-3dmodel",
+            "slug": "culturalheritage-photogrammetry-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/culturalheritage-photogrammetry-3dmodel"
+        },
+        {
+            "name": "cultural-heritage-photogrammetry-historical",
+            "slug": "cultural-heritage-photogrammetry-historical",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage-photogrammetry-historical"
+        },
+        {
+            "name": "canecillo",
+            "slug": "canecillo",
+            "uri": "https://api.sketchfab.com/v3/tags/canecillo"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "church",
+            "slug": "church",
+            "uri": "https://api.sketchfab.com/v3/tags/church"
+        },
+        {
+            "name": "xiiicentury",
+            "slug": "xiiicentury",
+            "uri": "https://api.sketchfab.com/v3/tags/xiiicentury"
+        },
+        {
+            "name": "castileandleon",
+            "slug": "castileandleon",
+            "uri": "https://api.sketchfab.com/v3/tags/castileandleon"
+        },
+        {
+            "name": "barriodesanpedro",
+            "slug": "barriodesanpedro",
+            "uri": "https://api.sketchfab.com/v3/tags/barriodesanpedro"
+        },
+        {
+            "name": "becerrildelcarpio",
+            "slug": "becerrildelcarpio",
+            "uri": "https://api.sketchfab.com/v3/tags/becerrildelcarpio"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "df19f97f885e42589ab7238b377ae116",
+                "width": 1920,
+                "height": 1080,
+                "size": 114672,
+                "url": "https://media.sketchfab.com/models/3dfccabe41754a1a878eef80b321dcad/thumbnails/b0dcf4e1abb8438d9648762316985a7c/bb9aef97189644faa1a039f8a611b1d2.jpeg"
+            },
+            {
+                "uid": "953d533f41ce4aaeb5b698acb63bea94",
+                "width": 1024,
+                "height": 576,
+                "size": 36302,
+                "url": "https://media.sketchfab.com/models/3dfccabe41754a1a878eef80b321dcad/thumbnails/b0dcf4e1abb8438d9648762316985a7c/0a4230da2b0f4786be3f7f04b04508ef.jpeg"
+            },
+            {
+                "uid": "af61eaf3cbae4bc29203dd7681292a31",
+                "width": 720,
+                "height": 405,
+                "size": 19797,
+                "url": "https://media.sketchfab.com/models/3dfccabe41754a1a878eef80b321dcad/thumbnails/b0dcf4e1abb8438d9648762316985a7c/6a22439b2fea453f8696f009da0cc828.jpeg"
+            },
+            {
+                "uid": "b17c1ab2b1794feea89d89b785fb3e35",
+                "width": 256,
+                "height": 144,
+                "size": 3738,
+                "url": "https://media.sketchfab.com/models/3dfccabe41754a1a878eef80b321dcad/thumbnails/b0dcf4e1abb8438d9648762316985a7c/95b39f3778a64d8ea86cf7bd81c53007.jpeg"
+            },
+            {
+                "uid": "8ff925b67fa642ffb264658cbb7514d7",
+                "width": 64,
+                "height": 36,
+                "size": 984,
+                "url": "https://media.sketchfab.com/models/3dfccabe41754a1a878eef80b321dcad/thumbnails/b0dcf4e1abb8438d9648762316985a7c/eba72dbfd8a649eab9397b2c51fc6dee.jpeg"
+            }
+        ]
+    },
+    "uid": "3dfccabe41754a1a878eef80b321dcad",
+    "uri": "https://api.sketchfab.com/v3/models/3dfccabe41754a1a878eef80b321dcad",
+    "user": {
+        "uid": "21dd9d33c5b742e895572a055d090666",
+        "username": "hjft",
+        "displayName": "Héctor Fonseca",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/hjft",
+        "avatar": {
+            "uid": "05c2ecc488c64911b37fd60cdd768844",
+            "uri": "https://api.sketchfab.com/v3/avatars/05c2ecc488c64911b37fd60cdd768844",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4288,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/fee3698f526a4dd2aeed90148e421f20.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3657,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/2d6da696b4c940f7b2f63c9ae1825b70.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/4c2a7427d7c9466d93c651dec25be2e9.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 837,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/e426a17375db4f2c972c4624450b2e43.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/21dd9d33c5b742e895572a055d090666"
+    },
+    "vertexCount": 62299,
+    "viewCount": 51,
+    "viewerUrl": "https://sketchfab.com/3d-models/canecillo-igla-de-s-pedro-barrio-de-s-pedro-3dfccabe41754a1a878eef80b321dcad",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**ESP** Canecillo decorado tardorrománico (s. XIII) ubicado en la Iglesia de San Pedro de Barrio de San Pedro, Becerril del Carpio, Palencia (Castilla y León, España). La decoración consiste en dos figuras animales separadas por un tabique, a la izquierda se representa un conejo o libre y a la izquierda un ave, posiblemente un águila.\n\n**ENG** Late Romanesque decorated corbel (13th century) located in the Church of San Pedro in Barrio de San Pedro, Becerril del Carpio, Palencia (Castile and León, Spain). The decoration consists of two animal figures separated by a partition, with a rabbit or hare on the left and a bird, possibly an eagle, on the right.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3dfccabe41754a1a878eef80b321dcad/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-19T10:35:07.976038",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 2
+}

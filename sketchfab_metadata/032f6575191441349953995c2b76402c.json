@@ -1,0 +1,219 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-13T19:56:12.018617",
+    "embedUrl": "https://sketchfab.com/models/032f6575191441349953995c2b76402c/embed",
+    "faceCount": 5536,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Painted Medieval Visored Great Helmet",
+    "publishedAt": "2025-12-16T19:33:02.107928",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "plate",
+            "slug": "plate",
+            "uri": "https://api.sketchfab.com/v3/tags/plate"
+        },
+        {
+            "name": "european",
+            "slug": "european",
+            "uri": "https://api.sketchfab.com/v3/tags/european"
+        },
+        {
+            "name": "soldier",
+            "slug": "soldier",
+            "uri": "https://api.sketchfab.com/v3/tags/soldier"
+        },
+        {
+            "name": "army",
+            "slug": "army",
+            "uri": "https://api.sketchfab.com/v3/tags/army"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "middle-age",
+            "slug": "middle-age",
+            "uri": "https://api.sketchfab.com/v3/tags/middle-age"
+        },
+        {
+            "name": "crusade",
+            "slug": "crusade",
+            "uri": "https://api.sketchfab.com/v3/tags/crusade"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "73d5ccfd55dd4006882fecfca0f9229e",
+                "width": 1920,
+                "height": 1080,
+                "size": 268098,
+                "url": "https://media.sketchfab.com/models/032f6575191441349953995c2b76402c/thumbnails/0c1e80b9c1f547578a7907f571c7736f/421aff5a01964b1fb14886ccb489abab.jpeg"
+            },
+            {
+                "uid": "42c647644a934dfd813590d64e8b5567",
+                "width": 1024,
+                "height": 576,
+                "size": 37566,
+                "url": "https://media.sketchfab.com/models/032f6575191441349953995c2b76402c/thumbnails/0c1e80b9c1f547578a7907f571c7736f/930633b0ba604c03a2ac1bde938e63f8.jpeg"
+            },
+            {
+                "uid": "b95c316b9e7641399cfffc70095fec20",
+                "width": 720,
+                "height": 405,
+                "size": 17315,
+                "url": "https://media.sketchfab.com/models/032f6575191441349953995c2b76402c/thumbnails/0c1e80b9c1f547578a7907f571c7736f/53dda26098e54c979b57fd7d95ce6d30.jpeg"
+            },
+            {
+                "uid": "bbcf37a6c6694d0193c5eac8d0fbabf0",
+                "width": 256,
+                "height": 144,
+                "size": 2873,
+                "url": "https://media.sketchfab.com/models/032f6575191441349953995c2b76402c/thumbnails/0c1e80b9c1f547578a7907f571c7736f/9313236d3b5c4c3cb20e55bd1fa82a88.jpeg"
+            },
+            {
+                "uid": "d87d7d588aad47c786273a6e07fa9cbe",
+                "width": 64,
+                "height": 36,
+                "size": 935,
+                "url": "https://media.sketchfab.com/models/032f6575191441349953995c2b76402c/thumbnails/0c1e80b9c1f547578a7907f571c7736f/3d66f4446fb643f4911f9e37b6c6f228.jpeg"
+            }
+        ]
+    },
+    "uid": "032f6575191441349953995c2b76402c",
+    "uri": "https://api.sketchfab.com/v3/models/032f6575191441349953995c2b76402c",
+    "user": {
+        "uid": "80d3248a26014d2bb9e8868ee03d1a6a",
+        "username": "dan28sava",
+        "displayName": "dan28sava",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/dan28sava",
+        "avatar": {
+            "uid": "04ae36c81f75475bb4b67f67bd751e59",
+            "uri": "https://api.sketchfab.com/v3/avatars/04ae36c81f75475bb4b67f67bd751e59",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 996,
+                    "url": "https://media.sketchfab.com/avatars/04ae36c81f75475bb4b67f67bd751e59/728e7ef13ccb4a82be44a45c6cea41c9.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1319,
+                    "url": "https://media.sketchfab.com/avatars/04ae36c81f75475bb4b67f67bd751e59/923fb81bf05a406ca699489fcd6d3370.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2468,
+                    "url": "https://media.sketchfab.com/avatars/04ae36c81f75475bb4b67f67bd751e59/fd94a65569b94dcfa4c05f1001d535f2.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2762,
+                    "url": "https://media.sketchfab.com/avatars/04ae36c81f75475bb4b67f67bd751e59/e80a722b88ae49f3b6a4bbda7c3ae180.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/80d3248a26014d2bb9e8868ee03d1a6a"
+    },
+    "vertexCount": 3202,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/painted-medieval-visored-great-helmet-032f6575191441349953995c2b76402c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Low poly realistic game ready model of painted visored Great Helmet from late 13th-early 14th century. Made for Voor de kroon game https://store.steampowered.com/app/1702390/Voor_De_Kroon/",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/032f6575191441349953995c2b76402c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-24T13:53:32.763968",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

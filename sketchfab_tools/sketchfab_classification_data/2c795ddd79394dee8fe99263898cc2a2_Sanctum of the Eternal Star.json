@@ -1,0 +1,67 @@
+{
+    "category": "Architecture",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.5
+        },
+        {
+            "name": "Medieval",
+            "score": 0.4
+        }
+    ],
+    "style": "Hand-painted Stylized",
+    "top_styles": [
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.5
+        },
+        {
+            "name": "Gothic",
+            "score": 0.4
+        },
+        {
+            "name": "Fantasy Art",
+            "score": 0.3
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Weathered"
+    ],
+    "tags": [
+        "sanctum",
+        "eternal star",
+        "architecture",
+        "fantasy",
+        "dark fantasy",
+        "gothic",
+        "stone",
+        "structure",
+        "tower"
+    ],
+    "model_id_full": "2c795ddd79394dee8fe99263898cc2a2_Sanctum of the Eternal Star",
+    "sketchfab_id": "2c795ddd79394dee8fe99263898cc2a2",
+    "asset_name": "Sanctum of the Eternal Star"
+}

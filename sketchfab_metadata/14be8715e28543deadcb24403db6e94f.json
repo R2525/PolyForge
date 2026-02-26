@@ -1,0 +1,140 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T01:54:31.771064",
+    "embedUrl": "https://sketchfab.com/models/14be8715e28543deadcb24403db6e94f/embed",
+    "faceCount": 420,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Axe Steampunk",
+    "publishedAt": "2026-02-25T01:55:03.340198",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "45a81af519d6465b90ae6c7359d7d77d",
+                "width": 1920,
+                "height": 1080,
+                "size": 51409,
+                "url": "https://media.sketchfab.com/models/14be8715e28543deadcb24403db6e94f/thumbnails/6addfb84021a4180a0a02c2e4dc658e4/745c08239bb5490a963ade4a56a73c9a.jpeg"
+            },
+            {
+                "uid": "b5a3d168d940418d9c7568ad19f82b22",
+                "width": 1024,
+                "height": 576,
+                "size": 17476,
+                "url": "https://media.sketchfab.com/models/14be8715e28543deadcb24403db6e94f/thumbnails/6addfb84021a4180a0a02c2e4dc658e4/f791c2bd7c4d48a28d90750e3c2b8a10.jpeg"
+            },
+            {
+                "uid": "d99c13e2da5d45139d4177a15ceda002",
+                "width": 720,
+                "height": 405,
+                "size": 10276,
+                "url": "https://media.sketchfab.com/models/14be8715e28543deadcb24403db6e94f/thumbnails/6addfb84021a4180a0a02c2e4dc658e4/85dbcd99d3bb4d43bf19a28875ad657e.jpeg"
+            },
+            {
+                "uid": "6ef5cdf7417c470bab720711c4bec521",
+                "width": 256,
+                "height": 144,
+                "size": 2412,
+                "url": "https://media.sketchfab.com/models/14be8715e28543deadcb24403db6e94f/thumbnails/6addfb84021a4180a0a02c2e4dc658e4/e2ec8842a2e5431384ce4c911687cd7a.jpeg"
+            },
+            {
+                "uid": "550d051c693543a59864bdeb366ece99",
+                "width": 64,
+                "height": 36,
+                "size": 914,
+                "url": "https://media.sketchfab.com/models/14be8715e28543deadcb24403db6e94f/thumbnails/6addfb84021a4180a0a02c2e4dc658e4/6d95c418ed754f928f94193d8a3d7e35.jpeg"
+            }
+        ]
+    },
+    "uid": "14be8715e28543deadcb24403db6e94f",
+    "uri": "https://api.sketchfab.com/v3/models/14be8715e28543deadcb24403db6e94f",
+    "user": {
+        "uid": "c57d6c2380c74719955de79b68a56873",
+        "username": "EffectZFR",
+        "displayName": "EffectZFR",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/EffectZFR",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c57d6c2380c74719955de79b68a56873"
+    },
+    "vertexCount": 280,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/axe-steampunk-14be8715e28543deadcb24403db6e94f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/14be8715e28543deadcb24403db6e94f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T01:55:03.623339",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

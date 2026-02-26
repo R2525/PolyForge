@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-12T19:25:39.731617",
+    "embedUrl": "https://sketchfab.com/models/099792203300442bafc8bf004e689aab/embed",
+    "faceCount": 15744,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Semi-Realistic Wooden Barrel",
+    "publishedAt": "2026-01-12T19:39:36.413500",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "barrel",
+            "slug": "barrel",
+            "uri": "https://api.sketchfab.com/v3/tags/barrel"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "58c9defaffd74af7a4e25531b38593e1",
+                "width": 1920,
+                "height": 1080,
+                "size": 129471,
+                "url": "https://media.sketchfab.com/models/099792203300442bafc8bf004e689aab/thumbnails/5df19a0b3f6b4847823b858349110abd/6c12059819ff42a28247bd9b455ce2ca.jpeg"
+            },
+            {
+                "uid": "1614c32736dc4306bedd46658146b9a4",
+                "width": 1024,
+                "height": 576,
+                "size": 38260,
+                "url": "https://media.sketchfab.com/models/099792203300442bafc8bf004e689aab/thumbnails/5df19a0b3f6b4847823b858349110abd/a5ddc14b119c491b85f86ad9b406a42c.jpeg"
+            },
+            {
+                "uid": "257118de6ed3435faa94a80c46d4f4c6",
+                "width": 720,
+                "height": 405,
+                "size": 21140,
+                "url": "https://media.sketchfab.com/models/099792203300442bafc8bf004e689aab/thumbnails/5df19a0b3f6b4847823b858349110abd/80359275754545a6a488939283507a37.jpeg"
+            },
+            {
+                "uid": "834c9d6a24ac4b0eb0c70e9678057b0a",
+                "width": 256,
+                "height": 144,
+                "size": 4041,
+                "url": "https://media.sketchfab.com/models/099792203300442bafc8bf004e689aab/thumbnails/5df19a0b3f6b4847823b858349110abd/310d599cdacc4d8dbc9342328ba8d215.jpeg"
+            },
+            {
+                "uid": "a065a4cd60254dfbba2bce935bcb731f",
+                "width": 64,
+                "height": 36,
+                "size": 1050,
+                "url": "https://media.sketchfab.com/models/099792203300442bafc8bf004e689aab/thumbnails/5df19a0b3f6b4847823b858349110abd/99a3686a6d9140f681f038133fcd4360.jpeg"
+            }
+        ]
+    },
+    "uid": "099792203300442bafc8bf004e689aab",
+    "uri": "https://api.sketchfab.com/v3/models/099792203300442bafc8bf004e689aab",
+    "user": {
+        "uid": "cb56ca6e6fba48d386407a18e1ff9ebd",
+        "username": "Astroregal",
+        "displayName": "Astroregal",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Astroregal",
+        "avatar": {
+            "uid": "05a819821b524a56921987e683312ce0",
+            "uri": "https://api.sketchfab.com/v3/avatars/05a819821b524a56921987e683312ce0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1013,
+                    "url": "https://media.sketchfab.com/avatars/05a819821b524a56921987e683312ce0/c60c5b7ec36441b693591a9f6dc6000d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1364,
+                    "url": "https://media.sketchfab.com/avatars/05a819821b524a56921987e683312ce0/cb001b1420d84344bc14c0dd58111780.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2997,
+                    "url": "https://media.sketchfab.com/avatars/05a819821b524a56921987e683312ce0/f802caeb196d44488231d6a0f6f65281.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3422,
+                    "url": "https://media.sketchfab.com/avatars/05a819821b524a56921987e683312ce0/af823c2af74e47f8bd742b78fd162b9d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cb56ca6e6fba48d386407a18e1ff9ebd"
+    },
+    "vertexCount": 8334,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/semi-realistic-wooden-barrel-099792203300442bafc8bf004e689aab",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Wooden barrel with a balanced, semi-realistic texture that fits nicely into many types of game and environment scenes. The design keeps a natural look without going too realistic or too cartoonish, making it easy to blend with other assets. Great for medieval settings, taverns, fantasy worlds, or any rustic environment that needs a simple but believable prop.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/099792203300442bafc8bf004e689aab/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-12T19:41:09.662708",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 3
+}

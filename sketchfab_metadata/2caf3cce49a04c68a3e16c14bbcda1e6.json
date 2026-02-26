@@ -1,0 +1,274 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T13:33:07.002727",
+    "embedUrl": "https://sketchfab.com/models/2caf3cce49a04c68a3e16c14bbcda1e6/embed",
+    "faceCount": 186,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Military / Weapons / RGD-5 Grenade",
+    "publishedAt": "2026-02-23T13:38:01.792744",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "grenade",
+            "slug": "grenade",
+            "uri": "https://api.sketchfab.com/v3/tags/grenade"
+        },
+        {
+            "name": "soviet",
+            "slug": "soviet",
+            "uri": "https://api.sketchfab.com/v3/tags/soviet"
+        },
+        {
+            "name": "grenades",
+            "slug": "grenades",
+            "uri": "https://api.sketchfab.com/v3/tags/grenades"
+        },
+        {
+            "name": "ammunition",
+            "slug": "ammunition",
+            "uri": "https://api.sketchfab.com/v3/tags/ammunition"
+        },
+        {
+            "name": "rgd-5",
+            "slug": "rgd-5",
+            "uri": "https://api.sketchfab.com/v3/tags/rgd-5"
+        },
+        {
+            "name": "low-poly-model",
+            "slug": "low-poly-model",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly-model"
+        },
+        {
+            "name": "lowpolymodel",
+            "slug": "lowpolymodel",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolymodel"
+        },
+        {
+            "name": "weapon-3dmodel",
+            "slug": "weapon-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon-3dmodel"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "grenade_3d_model",
+            "slug": "grenade_3d_model",
+            "uri": "https://api.sketchfab.com/v3/tags/grenade_3d_model"
+        },
+        {
+            "name": "soviet-weapon",
+            "slug": "soviet-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/soviet-weapon"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "soviet-military-equipment",
+            "slug": "soviet-military-equipment",
+            "uri": "https://api.sketchfab.com/v3/tags/soviet-military-equipment"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "pixel",
+            "slug": "pixel",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel"
+        },
+        {
+            "name": "pixelart",
+            "slug": "pixelart",
+            "uri": "https://api.sketchfab.com/v3/tags/pixelart"
+        },
+        {
+            "name": "blockbench_model",
+            "slug": "blockbench_model",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench_model"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "no-ai",
+            "slug": "no-ai",
+            "uri": "https://api.sketchfab.com/v3/tags/no-ai"
+        },
+        {
+            "name": "no-ai-used",
+            "slug": "no-ai-used",
+            "uri": "https://api.sketchfab.com/v3/tags/no-ai-used"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0142e833dbd440d4a1c17b52333ecdc6",
+                "width": 1920,
+                "height": 1080,
+                "size": 219666,
+                "url": "https://media.sketchfab.com/models/2caf3cce49a04c68a3e16c14bbcda1e6/thumbnails/fe08ab2905c74b1189765e7f3a7fd6dd/d372b47889604573b78c5806feda48fe.jpeg"
+            },
+            {
+                "uid": "44a6142d728446cfaf5109c95e45c64d",
+                "width": 1024,
+                "height": 576,
+                "size": 28200,
+                "url": "https://media.sketchfab.com/models/2caf3cce49a04c68a3e16c14bbcda1e6/thumbnails/fe08ab2905c74b1189765e7f3a7fd6dd/d1d6ec08c89140ba8855f7512c7f74ce.jpeg"
+            },
+            {
+                "uid": "e36005b64c4344eb9cec59e6a6f95784",
+                "width": 720,
+                "height": 405,
+                "size": 16794,
+                "url": "https://media.sketchfab.com/models/2caf3cce49a04c68a3e16c14bbcda1e6/thumbnails/fe08ab2905c74b1189765e7f3a7fd6dd/815eb2d52eb74c1da28e6b381758ca4b.jpeg"
+            },
+            {
+                "uid": "cbf5daadacf04d3784584ac802f17713",
+                "width": 256,
+                "height": 144,
+                "size": 4146,
+                "url": "https://media.sketchfab.com/models/2caf3cce49a04c68a3e16c14bbcda1e6/thumbnails/fe08ab2905c74b1189765e7f3a7fd6dd/8b4f9ac66aed42788c0893536ec3f946.jpeg"
+            },
+            {
+                "uid": "63511b3dfaa342d885067a842a578c96",
+                "width": 64,
+                "height": 36,
+                "size": 1110,
+                "url": "https://media.sketchfab.com/models/2caf3cce49a04c68a3e16c14bbcda1e6/thumbnails/fe08ab2905c74b1189765e7f3a7fd6dd/8fc25e7e993c4fca9c97db52daf3e845.jpeg"
+            }
+        ]
+    },
+    "uid": "2caf3cce49a04c68a3e16c14bbcda1e6",
+    "uri": "https://api.sketchfab.com/v3/models/2caf3cce49a04c68a3e16c14bbcda1e6",
+    "user": {
+        "uid": "805321cb7ef348b4ad05dab2a03faaf3",
+        "username": "ottohimmel12",
+        "displayName": "ottohimmel12",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ottohimmel12",
+        "avatar": {
+            "uid": "a62934d9a7644f5fa220b7db92b2eff3",
+            "uri": "https://api.sketchfab.com/v3/avatars/a62934d9a7644f5fa220b7db92b2eff3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2740,
+                    "url": "https://media.sketchfab.com/avatars/a62934d9a7644f5fa220b7db92b2eff3/068cd26d6c8f4e51a6ec2a8b2ebec715.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5590,
+                    "url": "https://media.sketchfab.com/avatars/a62934d9a7644f5fa220b7db92b2eff3/db494c5beba144e2a89a91b305ac3db2.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 15965,
+                    "url": "https://media.sketchfab.com/avatars/a62934d9a7644f5fa220b7db92b2eff3/b7ae9bf96d4a497fba1d9ab1e7b680c5.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 18778,
+                    "url": "https://media.sketchfab.com/avatars/a62934d9a7644f5fa220b7db92b2eff3/32cf7b30e5104ec1a15411a06392174c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/805321cb7ef348b4ad05dab2a03faaf3"
+    },
+    "vertexCount": 106,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/military-weapons-rgd-5-grenade-2caf3cce49a04c68a3e16c14bbcda1e6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Russian/Soviet RGD-5 grenade ammunition, Stylized, pixelart-textured.\n\nModelled and textured in: **Blockbench**;\n\nSupport me: https://boosty.to/ottohimmel12/donate\n\nAll my media: https://ottohimmel12.carrd.co",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2caf3cce49a04c68a3e16c14bbcda1e6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T08:17:25.259981",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

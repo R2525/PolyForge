@@ -1,0 +1,42 @@
+{
+    "category": "Electronics & Gadgets",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Science & Technology",
+            "score": 0.8
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Modern",
+            "score": 0.9
+        },
+        {
+            "name": "Science & Technology",
+            "score": 0.85
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Glow"
+    ],
+    "tags": [
+        "device",
+        "electronics",
+        "black",
+        "3D model"
+    ]
+}

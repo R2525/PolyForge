@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T09:59:03.037480",
+    "embedUrl": "https://sketchfab.com/models/37abbee6734445a28e30d97557dc1644/embed",
+    "faceCount": 492,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Alchemy Setup",
+    "publishedAt": "2026-02-23T10:06:30.081890",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "alchemy",
+            "slug": "alchemy",
+            "uri": "https://api.sketchfab.com/v3/tags/alchemy"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "cauldron",
+            "slug": "cauldron",
+            "uri": "https://api.sketchfab.com/v3/tags/cauldron"
+        },
+        {
+            "name": "pestleandmortar",
+            "slug": "pestleandmortar",
+            "uri": "https://api.sketchfab.com/v3/tags/pestleandmortar"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "571358ec89d74b63a815c5573d89de92",
+                "width": 1920,
+                "height": 1080,
+                "size": 77318,
+                "url": "https://media.sketchfab.com/models/37abbee6734445a28e30d97557dc1644/thumbnails/03569c86746141ccbca2b525e7f80fd6/14e605b8fdd744a5822c6ce3a8c48330.jpeg"
+            },
+            {
+                "uid": "624d1579431a4ac9a7e8e414dd29b711",
+                "width": 1024,
+                "height": 576,
+                "size": 28214,
+                "url": "https://media.sketchfab.com/models/37abbee6734445a28e30d97557dc1644/thumbnails/03569c86746141ccbca2b525e7f80fd6/5dad34511d99442786a54642c8ab2669.jpeg"
+            },
+            {
+                "uid": "4c2aebaddc374990b16899b2286570e1",
+                "width": 720,
+                "height": 405,
+                "size": 16868,
+                "url": "https://media.sketchfab.com/models/37abbee6734445a28e30d97557dc1644/thumbnails/03569c86746141ccbca2b525e7f80fd6/3f140ce8c94c442db3b7c6624abea5ae.jpeg"
+            },
+            {
+                "uid": "b9a176115d844174ad4495d7eca1070c",
+                "width": 256,
+                "height": 144,
+                "size": 3919,
+                "url": "https://media.sketchfab.com/models/37abbee6734445a28e30d97557dc1644/thumbnails/03569c86746141ccbca2b525e7f80fd6/c0a107fd4f8a4ae2bbfd4d219d7b230d.jpeg"
+            },
+            {
+                "uid": "72d5d61f173047959e68e514a20c6fd1",
+                "width": 64,
+                "height": 36,
+                "size": 1016,
+                "url": "https://media.sketchfab.com/models/37abbee6734445a28e30d97557dc1644/thumbnails/03569c86746141ccbca2b525e7f80fd6/3fe8832bbd6b4584bd694f284634b2ac.jpeg"
+            }
+        ]
+    },
+    "uid": "37abbee6734445a28e30d97557dc1644",
+    "uri": "https://api.sketchfab.com/v3/models/37abbee6734445a28e30d97557dc1644",
+    "user": {
+        "uid": "f59569a91911420b9feaf1a4b062ee4c",
+        "username": "NopesCreations",
+        "displayName": "Nope",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/NopesCreations",
+        "avatar": {
+            "uid": "f91169d147614d50a791f7a8f4090e42",
+            "uri": "https://api.sketchfab.com/v3/avatars/f91169d147614d50a791f7a8f4090e42",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 992,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/7036d821a82f47598a8783521d573953.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1406,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/280c37667f554b8b99ac9d070d89443e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3412,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/8020031926994ebaaf414a27a39d9b00.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3919,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/99592f6d7ec34ebbb1b5cd42f38ff58c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f59569a91911420b9feaf1a4b062ee4c"
+    },
+    "vertexCount": 428,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/alchemy-setup-37abbee6734445a28e30d97557dc1644",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Low poly models for a beginner witch.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/37abbee6734445a28e30d97557dc1644/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T10:18:25.029009",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 3
+}

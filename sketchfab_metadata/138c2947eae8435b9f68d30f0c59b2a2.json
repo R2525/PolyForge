@@ -1,0 +1,209 @@
+{
+    "animationCount": 7,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T19:58:07.717739",
+    "embedUrl": "https://sketchfab.com/models/138c2947eae8435b9f68d30f0c59b2a2/embed",
+    "faceCount": 372,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Torkoal Galaxy (Cobblemon)",
+    "publishedAt": "2026-02-20T20:11:20.211966",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "crate",
+            "slug": "crate",
+            "uri": "https://api.sketchfab.com/v3/tags/crate"
+        },
+        {
+            "name": "server",
+            "slug": "server",
+            "uri": "https://api.sketchfab.com/v3/tags/server"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "Galaxy",
+            "slug": "galaxy",
+            "uri": "https://api.sketchfab.com/v3/tags/galaxy"
+        },
+        {
+            "name": "sell",
+            "slug": "sell",
+            "uri": "https://api.sketchfab.com/v3/tags/sell"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "cobblemon",
+            "slug": "cobblemon",
+            "uri": "https://api.sketchfab.com/v3/tags/cobblemon"
+        },
+        {
+            "name": "pixemon",
+            "slug": "pixemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pixemon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1ed953ecebc549e99c565548fc291e55",
+                "width": 1920,
+                "height": 1080,
+                "size": 82981,
+                "url": "https://media.sketchfab.com/models/138c2947eae8435b9f68d30f0c59b2a2/thumbnails/60e2339d2e414be4b71ac2c400cb1bbc/b1bb6b29c8f04f42a35fc2d83a84d3c5.jpeg"
+            },
+            {
+                "uid": "b3fac3f5b96f47908c4670266290688d",
+                "width": 1024,
+                "height": 576,
+                "size": 30554,
+                "url": "https://media.sketchfab.com/models/138c2947eae8435b9f68d30f0c59b2a2/thumbnails/60e2339d2e414be4b71ac2c400cb1bbc/7d87c000ed724c8cbdd3cdd215fd44df.jpeg"
+            },
+            {
+                "uid": "6090c2afb4664a6dab9c047bb125ce2b",
+                "width": 720,
+                "height": 405,
+                "size": 18807,
+                "url": "https://media.sketchfab.com/models/138c2947eae8435b9f68d30f0c59b2a2/thumbnails/60e2339d2e414be4b71ac2c400cb1bbc/2e37ad50ecc241e4b23dd7a6385aa593.jpeg"
+            },
+            {
+                "uid": "6f269e0575874c9fa0876d53dbcdd2f1",
+                "width": 256,
+                "height": 144,
+                "size": 4909,
+                "url": "https://media.sketchfab.com/models/138c2947eae8435b9f68d30f0c59b2a2/thumbnails/60e2339d2e414be4b71ac2c400cb1bbc/be1a5198bb004f55810da0a9f9a8e350.jpeg"
+            },
+            {
+                "uid": "31d05299bd0944a2b18b4428d5e0dc49",
+                "width": 64,
+                "height": 36,
+                "size": 1163,
+                "url": "https://media.sketchfab.com/models/138c2947eae8435b9f68d30f0c59b2a2/thumbnails/60e2339d2e414be4b71ac2c400cb1bbc/dcf186b706234031908fe0948fad08ec.jpeg"
+            }
+        ]
+    },
+    "uid": "138c2947eae8435b9f68d30f0c59b2a2",
+    "uri": "https://api.sketchfab.com/v3/models/138c2947eae8435b9f68d30f0c59b2a2",
+    "user": {
+        "uid": "8111a8f67a24456daca3b2825ebed417",
+        "username": "Acesky",
+        "displayName": "Acesky",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Acesky",
+        "avatar": {
+            "uid": "2c6213bfb2134cdb955b3429932f3366",
+            "uri": "https://api.sketchfab.com/v3/avatars/2c6213bfb2134cdb955b3429932f3366",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 970,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/966d614345e54b6e9e8182364e2b8d4a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1249,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/75155f3e349b46a1ab44adbb1b4580d8.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2319,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/055e7547ae8f436292ddd0ebc9b46c03.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2617,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/da4b85ed779c4b41a5ce53a6e7130728.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8111a8f67a24456daca3b2825ebed417"
+    },
+    "vertexCount": 248,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/torkoal-galaxy-cobblemon-138c2947eae8435b9f68d30f0c59b2a2",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/138c2947eae8435b9f68d30f0c59b2a2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T20:11:20.338876",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

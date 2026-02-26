@@ -1,0 +1,211 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-01T20:59:56.044695",
+    "embedUrl": "https://sketchfab.com/models/3e8743164e10431c921e1d3dadbdd715/embed",
+    "faceCount": 294285,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Leper Darkest Dungeon",
+    "publishedAt": "2026-02-01T21:04:20.003585",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "sculpt",
+            "slug": "sculpt",
+            "uri": "https://api.sketchfab.com/v3/tags/sculpt"
+        },
+        {
+            "name": "fanart",
+            "slug": "fanart",
+            "uri": "https://api.sketchfab.com/v3/tags/fanart"
+        },
+        {
+            "name": "organic",
+            "slug": "organic",
+            "uri": "https://api.sketchfab.com/v3/tags/organic"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "class",
+            "slug": "class",
+            "uri": "https://api.sketchfab.com/v3/tags/class"
+        },
+        {
+            "name": "marvelousdesigner",
+            "slug": "marvelousdesigner",
+            "uri": "https://api.sketchfab.com/v3/tags/marvelousdesigner"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "charactermodeling",
+            "slug": "charactermodeling",
+            "uri": "https://api.sketchfab.com/v3/tags/charactermodeling"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "zbrush",
+            "slug": "zbrush",
+            "uri": "https://api.sketchfab.com/v3/tags/zbrush"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f44626a6789e45b79109fbac6f7c6c13",
+                "width": 1920,
+                "height": 1080,
+                "size": 165838,
+                "url": "https://media.sketchfab.com/models/3e8743164e10431c921e1d3dadbdd715/thumbnails/536d981218dd4732ad655e0761ad49de/e104b0f05dd844d8a01f24fd237a4b97.jpeg"
+            },
+            {
+                "uid": "f95bd0a6be0b4907a94cb0403ea898b2",
+                "width": 1024,
+                "height": 576,
+                "size": 37594,
+                "url": "https://media.sketchfab.com/models/3e8743164e10431c921e1d3dadbdd715/thumbnails/536d981218dd4732ad655e0761ad49de/2267020797d5485bb888fceee27165ac.jpeg"
+            },
+            {
+                "uid": "e4aab9650bb848dd82a29c82a9c2b8b0",
+                "width": 720,
+                "height": 405,
+                "size": 20918,
+                "url": "https://media.sketchfab.com/models/3e8743164e10431c921e1d3dadbdd715/thumbnails/536d981218dd4732ad655e0761ad49de/835602eed09a4359bff700b2998a3ec1.jpeg"
+            },
+            {
+                "uid": "9e64e57fd46d43f28ff33ba325d67823",
+                "width": 256,
+                "height": 144,
+                "size": 4561,
+                "url": "https://media.sketchfab.com/models/3e8743164e10431c921e1d3dadbdd715/thumbnails/536d981218dd4732ad655e0761ad49de/2b62880facaf413b9c8f10514f01a51f.jpeg"
+            },
+            {
+                "uid": "aefc0d6a2f194a3ebba312ffd012c1d7",
+                "width": 64,
+                "height": 36,
+                "size": 1124,
+                "url": "https://media.sketchfab.com/models/3e8743164e10431c921e1d3dadbdd715/thumbnails/536d981218dd4732ad655e0761ad49de/1b8e21df836c4767b648f4dc51012004.jpeg"
+            }
+        ]
+    },
+    "uid": "3e8743164e10431c921e1d3dadbdd715",
+    "uri": "https://api.sketchfab.com/v3/models/3e8743164e10431c921e1d3dadbdd715",
+    "user": {
+        "uid": "7cb2b752bd1d4948bacda2918bbb5537",
+        "username": "NECROMON",
+        "displayName": "NECROMON",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/NECROMON",
+        "avatar": {
+            "uid": "0552652b7c834bb3942b56d0a9c90b4f",
+            "uri": "https://api.sketchfab.com/v3/avatars/0552652b7c834bb3942b56d0a9c90b4f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2303,
+                    "url": "https://media.sketchfab.com/avatars/0552652b7c834bb3942b56d0a9c90b4f/a5b307686654421cacce623f4456dff5.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3899,
+                    "url": "https://media.sketchfab.com/avatars/0552652b7c834bb3942b56d0a9c90b4f/9035b85619ea475e867eb8803dcf77e3.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8629,
+                    "url": "https://media.sketchfab.com/avatars/0552652b7c834bb3942b56d0a9c90b4f/c76a1c10e3754b5dbc6b8e202f73be71.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 9918,
+                    "url": "https://media.sketchfab.com/avatars/0552652b7c834bb3942b56d0a9c90b4f/64ebf5871bdc4703beadddf3ec582b0a.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7cb2b752bd1d4948bacda2918bbb5537"
+    },
+    "vertexCount": 147498,
+    "viewCount": 27,
+    "viewerUrl": "https://sketchfab.com/3d-models/leper-darkest-dungeon-3e8743164e10431c921e1d3dadbdd715",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Made  Baldwin the Leper from darkest dungeon for my organic modeling class\n\nThis model was made without IA and should not be used in one nor in works associated with it",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/3e8743164e10431c921e1d3dadbdd715/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-01T21:04:20.085487",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 11
+}

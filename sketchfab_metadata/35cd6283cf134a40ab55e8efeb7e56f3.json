@@ -1,0 +1,145 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-16T22:16:37.134948",
+    "embedUrl": "https://sketchfab.com/models/35cd6283cf134a40ab55e8efeb7e56f3/embed",
+    "faceCount": 3831,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Chrome Glasses (Roblox Face accessoire)",
+    "publishedAt": "2026-01-16T22:17:33.192837",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "Roblox",
+            "slug": "roblox",
+            "uri": "https://api.sketchfab.com/v3/tags/roblox"
+        },
+        {
+            "name": "robloxugc",
+            "slug": "robloxugc",
+            "uri": "https://api.sketchfab.com/v3/tags/robloxugc"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b9222784271f4c77bab33c3070b0151f",
+                "width": 1920,
+                "height": 1080,
+                "size": 73580,
+                "url": "https://media.sketchfab.com/models/35cd6283cf134a40ab55e8efeb7e56f3/thumbnails/1f1080f101584fd18d57ae2fe3cb40bc/d53d7912b24f4232bceef81f9a717069.jpeg"
+            },
+            {
+                "uid": "a867b9ae67c84a319243c8d0276117c8",
+                "width": 1024,
+                "height": 576,
+                "size": 26595,
+                "url": "https://media.sketchfab.com/models/35cd6283cf134a40ab55e8efeb7e56f3/thumbnails/1f1080f101584fd18d57ae2fe3cb40bc/debef1d4fc524342a5a455320f1b2144.jpeg"
+            },
+            {
+                "uid": "e4b8a8a139d94af2a99bced7e272b053",
+                "width": 720,
+                "height": 405,
+                "size": 16022,
+                "url": "https://media.sketchfab.com/models/35cd6283cf134a40ab55e8efeb7e56f3/thumbnails/1f1080f101584fd18d57ae2fe3cb40bc/be7e151d039544caabf100b382aec53f.jpeg"
+            },
+            {
+                "uid": "6dd307ad7c804f1197d90fb26b040a11",
+                "width": 256,
+                "height": 144,
+                "size": 3378,
+                "url": "https://media.sketchfab.com/models/35cd6283cf134a40ab55e8efeb7e56f3/thumbnails/1f1080f101584fd18d57ae2fe3cb40bc/b59e15c7122e41fbbffc8e7574cfbbc1.jpeg"
+            },
+            {
+                "uid": "33282044c9ad4a87abeac438200cdaad",
+                "width": 64,
+                "height": 36,
+                "size": 946,
+                "url": "https://media.sketchfab.com/models/35cd6283cf134a40ab55e8efeb7e56f3/thumbnails/1f1080f101584fd18d57ae2fe3cb40bc/62807c323bb64196a9d050276ba6074c.jpeg"
+            }
+        ]
+    },
+    "uid": "35cd6283cf134a40ab55e8efeb7e56f3",
+    "uri": "https://api.sketchfab.com/v3/models/35cd6283cf134a40ab55e8efeb7e56f3",
+    "user": {
+        "uid": "c4d9e53d6dac4fb4a4dc7370e546d561",
+        "username": "Elijah-3d",
+        "displayName": "Elijah3d",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Elijah-3d",
+        "avatar": {
+            "uid": "d49dec23777345249e8a227497e8fca4",
+            "uri": "https://api.sketchfab.com/v3/avatars/d49dec23777345249e8a227497e8fca4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1304,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/9cf98d43178d4fd483cd37a1a13e8266.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2028,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/df12c865d28a4a1ba7eabe7fb36fe00b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4491,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/45a020a3db2648379e0056fa9f9a23e8.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5168,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/a95cc2b81181477c894bcec224a97587.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c4d9e53d6dac4fb4a4dc7370e546d561"
+    },
+    "vertexCount": 2043,
+    "viewCount": 22,
+    "viewerUrl": "https://sketchfab.com/3d-models/chrome-glasses-roblox-face-accessoire-35cd6283cf134a40ab55e8efeb7e56f3",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "model made by me - texture not made by me!!!\ndc elijah3d\nhttps://www.roblox.com/catalog/84456711232795/Broken-Cross-Chrome-Glasses-Black-White",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/35cd6283cf134a40ab55e8efeb7e56f3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T18:49:18.409246",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

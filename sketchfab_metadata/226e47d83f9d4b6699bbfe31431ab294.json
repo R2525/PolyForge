@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T20:22:25.151573",
+    "embedUrl": "https://sketchfab.com/models/226e47d83f9d4b6699bbfe31431ab294/embed",
+    "faceCount": 2206,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Girl Stickman (Low-Poly)",
+    "publishedAt": "2026-02-22T20:23:02.691535",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "28767d9377854410ae68d31d3c14862e",
+                "width": 1920,
+                "height": 1080,
+                "size": 64583,
+                "url": "https://media.sketchfab.com/models/226e47d83f9d4b6699bbfe31431ab294/thumbnails/2a44c079a684400bbca1038cc6eec48b/9c346d67d5dd4ed6910e4b68c8b43b58.jpeg"
+            },
+            {
+                "uid": "81bbdde2d6bc4996a872177b1876a390",
+                "width": 1024,
+                "height": 576,
+                "size": 23190,
+                "url": "https://media.sketchfab.com/models/226e47d83f9d4b6699bbfe31431ab294/thumbnails/2a44c079a684400bbca1038cc6eec48b/8c14fd37665149f48ff306ec1c46f64a.jpeg"
+            },
+            {
+                "uid": "1ea16a7e8909453ab44e1da24f463a9e",
+                "width": 720,
+                "height": 405,
+                "size": 14107,
+                "url": "https://media.sketchfab.com/models/226e47d83f9d4b6699bbfe31431ab294/thumbnails/2a44c079a684400bbca1038cc6eec48b/2553e1f6273c46a09ce13c40151ed98b.jpeg"
+            },
+            {
+                "uid": "868f621931fb48d1aabb1dc9e4933b1a",
+                "width": 256,
+                "height": 144,
+                "size": 3550,
+                "url": "https://media.sketchfab.com/models/226e47d83f9d4b6699bbfe31431ab294/thumbnails/2a44c079a684400bbca1038cc6eec48b/758a7c7617494bd99d1cd14705f90286.jpeg"
+            },
+            {
+                "uid": "9fab8948cf6e477997dca885f371541c",
+                "width": 64,
+                "height": 36,
+                "size": 1054,
+                "url": "https://media.sketchfab.com/models/226e47d83f9d4b6699bbfe31431ab294/thumbnails/2a44c079a684400bbca1038cc6eec48b/8b56e29ffe8a4ac3a797836c61aad776.jpeg"
+            }
+        ]
+    },
+    "uid": "226e47d83f9d4b6699bbfe31431ab294",
+    "uri": "https://api.sketchfab.com/v3/models/226e47d83f9d4b6699bbfe31431ab294",
+    "user": {
+        "uid": "219c936dc8604d6db3c10244072f8475",
+        "username": "low-poly-zone",
+        "displayName": "Low-Poly Zone",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/low-poly-zone",
+        "avatar": {
+            "uid": "783cc1773c6c47c698d67ad2676bead0",
+            "uri": "https://api.sketchfab.com/v3/avatars/783cc1773c6c47c698d67ad2676bead0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2289,
+                    "url": "https://media.sketchfab.com/avatars/783cc1773c6c47c698d67ad2676bead0/994d26076a32422bab7da8f003fdec45.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4293,
+                    "url": "https://media.sketchfab.com/avatars/783cc1773c6c47c698d67ad2676bead0/ffafeebc915348febdfaecd829742c55.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 10850,
+                    "url": "https://media.sketchfab.com/avatars/783cc1773c6c47c698d67ad2676bead0/60f1caae42244076b2e2b1b8c6af851a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 12454,
+                    "url": "https://media.sketchfab.com/avatars/783cc1773c6c47c698d67ad2676bead0/2e0b5f93ce3f4b2ca0eaa7a5c787a8b0.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/219c936dc8604d6db3c10244072f8475"
+    },
+    "vertexCount": 1195,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/girl-stickman-low-poly-226e47d83f9d4b6699bbfe31431ab294",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/226e47d83f9d4b6699bbfe31431ab294/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T22:55:59.096410",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

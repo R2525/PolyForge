@@ -1,0 +1,301 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-06T08:27:11.894988",
+    "embedUrl": "https://sketchfab.com/models/46ddc0a1d4e94b9f91260874db31e13e/embed",
+    "faceCount": 818658,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Cozy Medieval Cottage",
+    "publishedAt": "2026-01-06T08:30:03.851149",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "cottage",
+            "slug": "cottage",
+            "uri": "https://api.sketchfab.com/v3/tags/cottage"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "roof",
+            "slug": "roof",
+            "uri": "https://api.sketchfab.com/v3/tags/roof"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "ar",
+            "slug": "ar",
+            "uri": "https://api.sketchfab.com/v3/tags/ar"
+        },
+        {
+            "name": "high-poly",
+            "slug": "high-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/high-poly"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "cozy",
+            "slug": "cozy",
+            "uri": "https://api.sketchfab.com/v3/tags/cozy"
+        },
+        {
+            "name": "thatched",
+            "slug": "thatched",
+            "uri": "https://api.sketchfab.com/v3/tags/thatched"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "home",
+            "slug": "home",
+            "uri": "https://api.sketchfab.com/v3/tags/home"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "sketchfab",
+            "slug": "sketchfab",
+            "uri": "https://api.sketchfab.com/v3/tags/sketchfab"
+        },
+        {
+            "name": "village",
+            "slug": "village",
+            "uri": "https://api.sketchfab.com/v3/tags/village"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "3d-home",
+            "slug": "3d-home",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-home"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7595b64c728042eeb4c358756bc0d23a",
+                "width": 1920,
+                "height": 1080,
+                "size": 192432,
+                "url": "https://media.sketchfab.com/models/46ddc0a1d4e94b9f91260874db31e13e/thumbnails/23f08cc0e9004913bfaadeed91c3e357/f946468ed0db4df6ab14795522add87c.jpeg"
+            },
+            {
+                "uid": "acaf57aefcb642a9af2ad1728a1c0e83",
+                "width": 1024,
+                "height": 576,
+                "size": 56632,
+                "url": "https://media.sketchfab.com/models/46ddc0a1d4e94b9f91260874db31e13e/thumbnails/23f08cc0e9004913bfaadeed91c3e357/498eca4ad07a4e2a88bf28a3ece2f48f.jpeg"
+            },
+            {
+                "uid": "49cd4e96fe9449a48b455fa35e8c9d3b",
+                "width": 720,
+                "height": 405,
+                "size": 30735,
+                "url": "https://media.sketchfab.com/models/46ddc0a1d4e94b9f91260874db31e13e/thumbnails/23f08cc0e9004913bfaadeed91c3e357/ef8c227911b044fd8e7f7d40b8a0c9a5.jpeg"
+            },
+            {
+                "uid": "3daaddf19ebe45fe96d7cdec25b70e9f",
+                "width": 256,
+                "height": 144,
+                "size": 5952,
+                "url": "https://media.sketchfab.com/models/46ddc0a1d4e94b9f91260874db31e13e/thumbnails/23f08cc0e9004913bfaadeed91c3e357/7f07a8ecb33b457a8fcc5fac8fd71c06.jpeg"
+            },
+            {
+                "uid": "7be4a86205e44c59a10ae5d5c5a05a3f",
+                "width": 64,
+                "height": 36,
+                "size": 1339,
+                "url": "https://media.sketchfab.com/models/46ddc0a1d4e94b9f91260874db31e13e/thumbnails/23f08cc0e9004913bfaadeed91c3e357/33c40ff09a0a4e07b81cbd4405bd870f.jpeg"
+            }
+        ]
+    },
+    "uid": "46ddc0a1d4e94b9f91260874db31e13e",
+    "uri": "https://api.sketchfab.com/v3/models/46ddc0a1d4e94b9f91260874db31e13e",
+    "user": {
+        "uid": "f1ec06ea1594482bb780a65d0f9afb45",
+        "username": "f1ec06ea1594482bb780a65d0f9afb",
+        "displayName": "ItsKrish7",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/f1ec06ea1594482bb780a65d0f9afb",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f1ec06ea1594482bb780a65d0f9afb45"
+    },
+    "vertexCount": 409202,
+    "viewCount": 153,
+    "viewerUrl": "https://sketchfab.com/3d-models/cozy-medieval-cottage-46ddc0a1d4e94b9f91260874db31e13e",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A warm and cozy medieval-style cottage featuring stone walls, a thatched roof, and glowing windows. Designed with a charming fantasy aesthetic, this house is ideal for RPG games, village environments, AR/VR experiences, cinematics, and story-driven scenes.\n\n## 👇 Custom 3D assets at affordable price 👇\n## 📱 WhatsApp: +91-7906340248\n## ☕ Support my work: buymeacoffee.com/krishbharal",
+    "price": null,
+    "downloadCount": 40,
+    "editorUrl": "https://sketchfab.com/models/46ddc0a1d4e94b9f91260874db31e13e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-07T14:31:38.739213",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

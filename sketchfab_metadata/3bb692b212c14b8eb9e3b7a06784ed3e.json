@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-09T18:25:13.545596",
+    "embedUrl": "https://sketchfab.com/models/3bb692b212c14b8eb9e3b7a06784ed3e/embed",
+    "faceCount": 552,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Negative Zone Spider-Man (SM2 Enter Electro)",
+    "publishedAt": "2026-02-13T20:12:30.120346",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "spiderman",
+            "slug": "spiderman",
+            "uri": "https://api.sketchfab.com/v3/tags/spiderman"
+        },
+        {
+            "name": "ps1",
+            "slug": "ps1",
+            "uri": "https://api.sketchfab.com/v3/tags/ps1"
+        },
+        {
+            "name": "negativezone",
+            "slug": "negativezone",
+            "uri": "https://api.sketchfab.com/v3/tags/negativezone"
+        },
+        {
+            "name": "enterelectro",
+            "slug": "enterelectro",
+            "uri": "https://api.sketchfab.com/v3/tags/enterelectro"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6861eec4ebed443782ee2a8f586f480f",
+                "width": 1920,
+                "height": 1080,
+                "size": 56170,
+                "url": "https://media.sketchfab.com/models/3bb692b212c14b8eb9e3b7a06784ed3e/thumbnails/0b185baf5a8e47a6919c727a8fb258db/4755427b7a0344ffbcd0c42ab094c3be.jpeg"
+            },
+            {
+                "uid": "874d7db0acd64e11a01e2487026b2a01",
+                "width": 1024,
+                "height": 576,
+                "size": 18996,
+                "url": "https://media.sketchfab.com/models/3bb692b212c14b8eb9e3b7a06784ed3e/thumbnails/0b185baf5a8e47a6919c727a8fb258db/b5aebb09eb084e7f949e937dc3a2cc80.jpeg"
+            },
+            {
+                "uid": "be10ae897e9d4256a8d6ff3017081837",
+                "width": 720,
+                "height": 405,
+                "size": 11204,
+                "url": "https://media.sketchfab.com/models/3bb692b212c14b8eb9e3b7a06784ed3e/thumbnails/0b185baf5a8e47a6919c727a8fb258db/a3819c8aad4c4d81bf3b6096e4122b73.jpeg"
+            },
+            {
+                "uid": "6772ae9fadc84ae79e7adcea5c0e7e50",
+                "width": 256,
+                "height": 144,
+                "size": 2551,
+                "url": "https://media.sketchfab.com/models/3bb692b212c14b8eb9e3b7a06784ed3e/thumbnails/0b185baf5a8e47a6919c727a8fb258db/076aac824c874d2eb4d0af0f1420881d.jpeg"
+            },
+            {
+                "uid": "70de65c129c54b2fa6cc8d12bea53eb0",
+                "width": 64,
+                "height": 36,
+                "size": 921,
+                "url": "https://media.sketchfab.com/models/3bb692b212c14b8eb9e3b7a06784ed3e/thumbnails/0b185baf5a8e47a6919c727a8fb258db/32c509fee294481eae8e0f57fa97a84a.jpeg"
+            }
+        ]
+    },
+    "uid": "3bb692b212c14b8eb9e3b7a06784ed3e",
+    "uri": "https://api.sketchfab.com/v3/models/3bb692b212c14b8eb9e3b7a06784ed3e",
+    "user": {
+        "uid": "95d28f666b7047bcb411003eac86bd19",
+        "username": "LombaxLover2K",
+        "displayName": "LombaxLover2K",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/LombaxLover2K",
+        "avatar": {
+            "uid": "dff9c3b79b4c4334b61787597128d3fe",
+            "uri": "https://api.sketchfab.com/v3/avatars/dff9c3b79b4c4334b61787597128d3fe",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1099,
+                    "url": "https://media.sketchfab.com/avatars/dff9c3b79b4c4334b61787597128d3fe/7bc0e629ae164d3eb7bbcaa5f20924ca.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1522,
+                    "url": "https://media.sketchfab.com/avatars/dff9c3b79b4c4334b61787597128d3fe/2ff30e50ab054928bb3c2da0818ec090.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3145,
+                    "url": "https://media.sketchfab.com/avatars/dff9c3b79b4c4334b61787597128d3fe/039f01d1dc094a119e44aba6c4c2d80b.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3555,
+                    "url": "https://media.sketchfab.com/avatars/dff9c3b79b4c4334b61787597128d3fe/effae9c4d2934a249b7814fb763855b1.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/95d28f666b7047bcb411003eac86bd19"
+    },
+    "vertexCount": 274,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/negative-zone-spider-man-sm2-enter-electro-3bb692b212c14b8eb9e3b7a06784ed3e",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Spider-Man's Negative Zone suit in Spider-Man 2: Enter Electro.\n\nThis is my favourite Spidey suit in this game, because I like its black and grey colours and slightly different spider emblems on the front and back!",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3bb692b212c14b8eb9e3b7a06784ed3e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T19:21:57.117313",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

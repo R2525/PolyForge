@@ -1,0 +1,186 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-11-26T13:39:38.657971",
+    "embedUrl": "https://sketchfab.com/models/470e619543d1478d9b1235d998a5f46d/embed",
+    "faceCount": 1000002,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Epitaphe of Guillaume III Taillefer",
+    "publishedAt": "2025-11-26T13:41:12.107925",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "toulouse",
+            "slug": "toulouse",
+            "uri": "https://api.sketchfab.com/v3/tags/toulouse"
+        },
+        {
+            "name": "history",
+            "slug": "history",
+            "uri": "https://api.sketchfab.com/v3/tags/history"
+        },
+        {
+            "name": "st-sernin",
+            "slug": "st-sernin",
+            "uri": "https://api.sketchfab.com/v3/tags/st-sernin"
+        },
+        {
+            "name": "realityscan-mobile",
+            "slug": "realityscan-mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/realityscan-mobile"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0a825e01672e4e39958f54f9b808ea89",
+                "width": 1920,
+                "height": 1080,
+                "size": 114050,
+                "url": "https://media.sketchfab.com/models/470e619543d1478d9b1235d998a5f46d/thumbnails/58637d2ae3fa4973844b5641e8225b23/1ba2b158946c4082818c39115b05f08a.jpeg"
+            },
+            {
+                "uid": "543dbc88fc2644628e91d303fc0b77de",
+                "width": 1024,
+                "height": 576,
+                "size": 33512,
+                "url": "https://media.sketchfab.com/models/470e619543d1478d9b1235d998a5f46d/thumbnails/58637d2ae3fa4973844b5641e8225b23/d79ff1e085574cf886ed79ac195f92a3.jpeg"
+            },
+            {
+                "uid": "bf8c7ff358a14eb6a1038e3ffd930891",
+                "width": 720,
+                "height": 405,
+                "size": 18618,
+                "url": "https://media.sketchfab.com/models/470e619543d1478d9b1235d998a5f46d/thumbnails/58637d2ae3fa4973844b5641e8225b23/29db66add5bd4a5d815b215ffea76648.jpeg"
+            },
+            {
+                "uid": "3e438dfd600949e6b950906bab38af45",
+                "width": 256,
+                "height": 144,
+                "size": 3561,
+                "url": "https://media.sketchfab.com/models/470e619543d1478d9b1235d998a5f46d/thumbnails/58637d2ae3fa4973844b5641e8225b23/c632876ee5674900bc141e1965d2bddf.jpeg"
+            },
+            {
+                "uid": "675c757a966a4b2e90b69af9dbe6c8ec",
+                "width": 64,
+                "height": 36,
+                "size": 934,
+                "url": "https://media.sketchfab.com/models/470e619543d1478d9b1235d998a5f46d/thumbnails/58637d2ae3fa4973844b5641e8225b23/fa3c5068eb5246df89d68a5e02765c54.jpeg"
+            }
+        ]
+    },
+    "uid": "470e619543d1478d9b1235d998a5f46d",
+    "uri": "https://api.sketchfab.com/v3/models/470e619543d1478d9b1235d998a5f46d",
+    "user": {
+        "uid": "56c32be7a6f948caa80cd14ad79466b5",
+        "username": "RaphMcl31",
+        "displayName": "RaphMcl31",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/RaphMcl31",
+        "avatar": {
+            "uid": "8a87031a6af44525a82d51b1730c22e5",
+            "uri": "https://api.sketchfab.com/v3/avatars/8a87031a6af44525a82d51b1730c22e5",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1060,
+                    "url": "https://media.sketchfab.com/avatars/8a87031a6af44525a82d51b1730c22e5/5495206f19ad4e08a37cbed2e88c0908.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1415,
+                    "url": "https://media.sketchfab.com/avatars/8a87031a6af44525a82d51b1730c22e5/f1e25bc3d7d94f0fa14321cf40e90fce.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2691,
+                    "url": "https://media.sketchfab.com/avatars/8a87031a6af44525a82d51b1730c22e5/317effdc1e124dc491ed54d19e3568c2.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3053,
+                    "url": "https://media.sketchfab.com/avatars/8a87031a6af44525a82d51b1730c22e5/7ebe127178e04cc1a89e78d5f860d9fa.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/56c32be7a6f948caa80cd14ad79466b5"
+    },
+    "vertexCount": 500918,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/epitaphe-of-guillaume-iii-taillefer-470e619543d1478d9b1235d998a5f46d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Medieval inscription : epitaphe of Guillaume III Taillefer, dead in 1037, on basilique Saint Sernin de Toulouse, France. (HIC REQVIESIT WILLHEMVS COMES COGNIMINE TAILAFER ATQVE RAIMONDUS BERTRANI)",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/470e619543d1478d9b1235d998a5f46d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "realityscan",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-26T13:41:12.074654",
+    "pbrType": null,
+    "textureCount": null,
+    "materialCount": 1
+}

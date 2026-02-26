@@ -1,0 +1,274 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-25T18:09:14.437842",
+    "embedUrl": "https://sketchfab.com/models/31f6b5997a8641178e9e02acb8de7965/embed",
+    "faceCount": 41412,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "The Alhambra, non visitable room: corbel",
+    "publishedAt": "2026-01-25T18:45:41.053350",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "palace",
+            "slug": "palace",
+            "uri": "https://api.sketchfab.com/v3/tags/palace"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "granada",
+            "slug": "granada",
+            "uri": "https://api.sketchfab.com/v3/tags/granada"
+        },
+        {
+            "name": "moyen-age",
+            "slug": "moyen-age",
+            "uri": "https://api.sketchfab.com/v3/tags/moyen-age"
+        },
+        {
+            "name": "Nazari",
+            "slug": "nazari",
+            "uri": "https://api.sketchfab.com/v3/tags/nazari"
+        },
+        {
+            "name": "alhambra",
+            "slug": "alhambra",
+            "uri": "https://api.sketchfab.com/v3/tags/alhambra"
+        },
+        {
+            "name": "al-andalus",
+            "slug": "al-andalus",
+            "uri": "https://api.sketchfab.com/v3/tags/al-andalus"
+        },
+        {
+            "name": "14th-century",
+            "slug": "14th-century",
+            "uri": "https://api.sketchfab.com/v3/tags/14th-century"
+        },
+        {
+            "name": "nazaries",
+            "slug": "nazaries",
+            "uri": "https://api.sketchfab.com/v3/tags/nazaries"
+        },
+        {
+            "name": "sigloxiv",
+            "slug": "sigloxiv",
+            "uri": "https://api.sketchfab.com/v3/tags/sigloxiv"
+        },
+        {
+            "name": "medioevale",
+            "slug": "medioevale",
+            "uri": "https://api.sketchfab.com/v3/tags/medioevale"
+        },
+        {
+            "name": "nasrid",
+            "slug": "nasrid",
+            "uri": "https://api.sketchfab.com/v3/tags/nasrid"
+        },
+        {
+            "name": "plasterwork",
+            "slug": "plasterwork",
+            "uri": "https://api.sketchfab.com/v3/tags/plasterwork"
+        },
+        {
+            "name": "spainish",
+            "slug": "spainish",
+            "uri": "https://api.sketchfab.com/v3/tags/spainish"
+        },
+        {
+            "name": "ataurique",
+            "slug": "ataurique",
+            "uri": "https://api.sketchfab.com/v3/tags/ataurique"
+        },
+        {
+            "name": "bayt",
+            "slug": "bayt",
+            "uri": "https://api.sketchfab.com/v3/tags/bayt"
+        },
+        {
+            "name": "sxiv",
+            "slug": "sxiv",
+            "uri": "https://api.sketchfab.com/v3/tags/sxiv"
+        },
+        {
+            "name": "comares",
+            "slug": "comares",
+            "uri": "https://api.sketchfab.com/v3/tags/comares"
+        },
+        {
+            "name": "atauriques",
+            "slug": "atauriques",
+            "uri": "https://api.sketchfab.com/v3/tags/atauriques"
+        },
+        {
+            "name": "nasirid",
+            "slug": "nasirid",
+            "uri": "https://api.sketchfab.com/v3/tags/nasirid"
+        },
+        {
+            "name": "nasiridi",
+            "slug": "nasiridi",
+            "uri": "https://api.sketchfab.com/v3/tags/nasiridi"
+        },
+        {
+            "name": "xiv-siecle",
+            "slug": "xiv-siecle",
+            "uri": "https://api.sketchfab.com/v3/tags/xiv-siecle"
+        },
+        {
+            "name": "xiv-secolo",
+            "slug": "xiv-secolo",
+            "uri": "https://api.sketchfab.com/v3/tags/xiv-secolo"
+        },
+        {
+            "name": "siglo-xiv",
+            "slug": "siglo-xiv",
+            "uri": "https://api.sketchfab.com/v3/tags/siglo-xiv"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "929202bda7014483809051725a94f719",
+                "width": 1920,
+                "height": 1080,
+                "size": 197269,
+                "url": "https://media.sketchfab.com/models/31f6b5997a8641178e9e02acb8de7965/thumbnails/a5ae77662d134dcf81a63ba015ed2c8d/d00662d634344e4ca5dee7e364323a78.jpeg"
+            },
+            {
+                "uid": "9ae97811d5324b94b1aa3e6d2247b0d4",
+                "width": 1024,
+                "height": 576,
+                "size": 37727,
+                "url": "https://media.sketchfab.com/models/31f6b5997a8641178e9e02acb8de7965/thumbnails/a5ae77662d134dcf81a63ba015ed2c8d/df54ec8a69f04faf8a554a262ab03bb5.jpeg"
+            },
+            {
+                "uid": "fee2ae78c0c941b9b4de66c1f313a9c1",
+                "width": 720,
+                "height": 405,
+                "size": 19746,
+                "url": "https://media.sketchfab.com/models/31f6b5997a8641178e9e02acb8de7965/thumbnails/a5ae77662d134dcf81a63ba015ed2c8d/4c9ae2908ed541c3b77f19a9a59bc716.jpeg"
+            },
+            {
+                "uid": "c817de8fcfc141eb83e56099e67079db",
+                "width": 256,
+                "height": 144,
+                "size": 3433,
+                "url": "https://media.sketchfab.com/models/31f6b5997a8641178e9e02acb8de7965/thumbnails/a5ae77662d134dcf81a63ba015ed2c8d/fe2c0039cdb648bbb4534b962f2b6677.jpeg"
+            },
+            {
+                "uid": "47b7159a8951423cabd6becf21f1f43c",
+                "width": 64,
+                "height": 36,
+                "size": 959,
+                "url": "https://media.sketchfab.com/models/31f6b5997a8641178e9e02acb8de7965/thumbnails/a5ae77662d134dcf81a63ba015ed2c8d/ae95fd522d204533842b7553de2aba0d.jpeg"
+            }
+        ]
+    },
+    "uid": "31f6b5997a8641178e9e02acb8de7965",
+    "uri": "https://api.sketchfab.com/v3/models/31f6b5997a8641178e9e02acb8de7965",
+    "user": {
+        "uid": "585c0c325cfb4b65913b18a4e8605dc2",
+        "username": "alfredojfalcon",
+        "displayName": "Alfredo J. Falcón",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alfredojfalcon",
+        "avatar": {
+            "uid": "43528bc89afc429b8cf4d6b850d5df82",
+            "uri": "https://api.sketchfab.com/v3/avatars/43528bc89afc429b8cf4d6b850d5df82",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1065,
+                    "url": "https://media.sketchfab.com/avatars/43528bc89afc429b8cf4d6b850d5df82/9e9e6102c358423a84d20d705de184a7.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1425,
+                    "url": "https://media.sketchfab.com/avatars/43528bc89afc429b8cf4d6b850d5df82/38fb313b13394f54bf6863cfcf0ea091.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2754,
+                    "url": "https://media.sketchfab.com/avatars/43528bc89afc429b8cf4d6b850d5df82/35d7cad316ea450690c0469dd0dac948.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3014,
+                    "url": "https://media.sketchfab.com/avatars/43528bc89afc429b8cf4d6b850d5df82/eaa5d9e284044bf4bfc8ffb215bae605.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/585c0c325cfb4b65913b18a4e8605dc2"
+    },
+    "vertexCount": 21076,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-alhambra-non-visitable-room-corbel-31f6b5997a8641178e9e02acb8de7965",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "ES/ENG\n\nLocalización: Palacio de Comares, La Alhambra, Granada, España.\nDatación: a partir de mediados del siglo XIV.\n\nMénsula sobre pilar procedente de la galería situada dentro de la galería Sur, pared suroeste del Palacio de Comares . Este espacio no se incluye en la visita pública y el elemento es, por tanto, poco conocido.\n\nObra claramente nazarí, realizada bajo la tradicional técnica de la yesería labrada, conteniendo elementos recurrentes del período y el gusto del momento: atauriques o cenefas geométricas.\nSe aprecia el trabajo de morteros y la trabazón de las vigas que conforman la sencilla estructura del techo.\n\nCorbel on a pillar from the gallery located within the South Gallery, southwest wall of the Comares Palace. This area is not included in the public tour and the element is therefore little known.\n                                \nA clearly Nasrid work, executed using the traditional carved plasterwork technique, containing recurring elements of the period and reflecting the taste of the time.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/31f6b5997a8641178e9e02acb8de7965/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-25T19:20:01.683100",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 2
+}

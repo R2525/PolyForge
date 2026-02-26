@@ -1,0 +1,36 @@
+{
+    "category": "Architecture",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.85
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.8
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "streetlight",
+        "lamp",
+        "candle"
+    ]
+}

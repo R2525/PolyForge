@@ -1,0 +1,190 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-07T15:20:48.887537",
+    "embedUrl": "https://sketchfab.com/models/1531ba56891845d686862d5c68611a41/embed",
+    "faceCount": 30576,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Ewan McGregor Likeness Sculpture",
+    "publishedAt": "2025-12-07T15:22:40.743793",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "head",
+            "slug": "head",
+            "uri": "https://api.sketchfab.com/v3/tags/head"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "celebrity",
+            "slug": "celebrity",
+            "uri": "https://api.sketchfab.com/v3/tags/celebrity"
+        },
+        {
+            "name": "obiwan",
+            "slug": "obiwan",
+            "uri": "https://api.sketchfab.com/v3/tags/obiwan"
+        },
+        {
+            "name": "likeness",
+            "slug": "likeness",
+            "uri": "https://api.sketchfab.com/v3/tags/likeness"
+        },
+        {
+            "name": "mcgregor",
+            "slug": "mcgregor",
+            "uri": "https://api.sketchfab.com/v3/tags/mcgregor"
+        },
+        {
+            "name": "ewan",
+            "slug": "ewan",
+            "uri": "https://api.sketchfab.com/v3/tags/ewan"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "bust",
+            "slug": "bust",
+            "uri": "https://api.sketchfab.com/v3/tags/bust"
+        },
+        {
+            "name": "male",
+            "slug": "male",
+            "uri": "https://api.sketchfab.com/v3/tags/male"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "aa8abdd30a8542cfabedcecb0b0e82d4",
+                "width": 1920,
+                "height": 1080,
+                "size": 51987,
+                "url": "https://media.sketchfab.com/models/1531ba56891845d686862d5c68611a41/thumbnails/0fe82d406c2848c48bccf40ab3670bee/dd09e67774a2483bb0c0e6b3294855ba.jpeg"
+            },
+            {
+                "uid": "479518a8b92a427e840c4976e9f850b8",
+                "width": 1024,
+                "height": 576,
+                "size": 17320,
+                "url": "https://media.sketchfab.com/models/1531ba56891845d686862d5c68611a41/thumbnails/0fe82d406c2848c48bccf40ab3670bee/a7cbc97556234a4eb292bbb87c9fc883.jpeg"
+            },
+            {
+                "uid": "fab9e410df8f4e488f9f4d1c5e11999c",
+                "width": 720,
+                "height": 405,
+                "size": 10120,
+                "url": "https://media.sketchfab.com/models/1531ba56891845d686862d5c68611a41/thumbnails/0fe82d406c2848c48bccf40ab3670bee/7069cd2f9c294db29ef88e64b8c4bd4e.jpeg"
+            },
+            {
+                "uid": "8f9a522190a645c298161a50e8e73fb3",
+                "width": 256,
+                "height": 144,
+                "size": 2532,
+                "url": "https://media.sketchfab.com/models/1531ba56891845d686862d5c68611a41/thumbnails/0fe82d406c2848c48bccf40ab3670bee/01a590274b87470aa6ee879c6537fa8f.jpeg"
+            },
+            {
+                "uid": "41ebb4f616b749638cd13d297d847169",
+                "width": 64,
+                "height": 36,
+                "size": 895,
+                "url": "https://media.sketchfab.com/models/1531ba56891845d686862d5c68611a41/thumbnails/0fe82d406c2848c48bccf40ab3670bee/64b82d303dcf459c92ce82fdcb44ebad.jpeg"
+            }
+        ]
+    },
+    "uid": "1531ba56891845d686862d5c68611a41",
+    "uri": "https://api.sketchfab.com/v3/models/1531ba56891845d686862d5c68611a41",
+    "user": {
+        "uid": "af834bbe9fc74c9d829aaa069fc0ae97",
+        "username": "blackybrawl508",
+        "displayName": "blackybrawl508",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/blackybrawl508",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/af834bbe9fc74c9d829aaa069fc0ae97"
+    },
+    "vertexCount": 15410,
+    "viewCount": 28,
+    "viewerUrl": "https://sketchfab.com/3d-models/ewan-mcgregor-likeness-sculpture-1531ba56891845d686862d5c68611a41",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Ewan McGregor Likeness Sculpture.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1531ba56891845d686862d5c68611a41/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-07T16:00:25.464686",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-03T17:29:49.290059",
+    "embedUrl": "https://sketchfab.com/models/01b0a3b6367a4b048d85911d98fe9953/embed",
+    "faceCount": 1000134,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Steampunk-{X}-House_A",
+    "publishedAt": "2025-12-03T17:38:32.176616",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "buildings",
+            "slug": "buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/buildings"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "houses",
+            "slug": "houses",
+            "uri": "https://api.sketchfab.com/v3/tags/houses"
+        },
+        {
+            "name": "game-art",
+            "slug": "game-art",
+            "uri": "https://api.sketchfab.com/v3/tags/game-art"
+        },
+        {
+            "name": "game-design",
+            "slug": "game-design",
+            "uri": "https://api.sketchfab.com/v3/tags/game-design"
+        },
+        {
+            "name": "game-development",
+            "slug": "game-development",
+            "uri": "https://api.sketchfab.com/v3/tags/game-development"
+        },
+        {
+            "name": "uvmapped",
+            "slug": "uvmapped",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped"
+        },
+        {
+            "name": "game-asset",
+            "slug": "game-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+        },
+        {
+            "name": "modern-house",
+            "slug": "modern-house",
+            "uri": "https://api.sketchfab.com/v3/tags/modern-house"
+        },
+        {
+            "name": "house-model",
+            "slug": "house-model",
+            "uri": "https://api.sketchfab.com/v3/tags/house-model"
+        },
+        {
+            "name": "architecture-design",
+            "slug": "architecture-design",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture-design"
+        },
+        {
+            "name": "architectural-design",
+            "slug": "architectural-design",
+            "uri": "https://api.sketchfab.com/v3/tags/architectural-design"
+        },
+        {
+            "name": "fantasy-building",
+            "slug": "fantasy-building",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-building"
+        },
+        {
+            "name": "pbr-texturing",
+            "slug": "pbr-texturing",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-texturing"
+        },
+        {
+            "name": "hdtextures",
+            "slug": "hdtextures",
+            "uri": "https://api.sketchfab.com/v3/tags/hdtextures"
+        },
+        {
+            "name": "steampunkstyle",
+            "slug": "steampunkstyle",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunkstyle"
+        },
+        {
+            "name": "steampunkasset",
+            "slug": "steampunkasset",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunkasset"
+        },
+        {
+            "name": "medievalfantasyassets",
+            "slug": "medievalfantasyassets",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalfantasyassets"
+        },
+        {
+            "name": "decorative-element",
+            "slug": "decorative-element",
+            "uri": "https://api.sketchfab.com/v3/tags/decorative-element"
+        },
+        {
+            "name": "pbr-game-ready",
+            "slug": "pbr-game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-game-ready"
+        },
+        {
+            "name": "pbr-materials",
+            "slug": "pbr-materials",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-materials"
+        },
+        {
+            "name": "steampunk-gameart",
+            "slug": "steampunk-gameart",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk-gameart"
+        },
+        {
+            "name": "unique-design",
+            "slug": "unique-design",
+            "uri": "https://api.sketchfab.com/v3/tags/unique-design"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "construction",
+            "slug": "construction",
+            "uri": "https://api.sketchfab.com/v3/tags/construction"
+        },
+        {
+            "name": "decorative-object",
+            "slug": "decorative-object",
+            "uri": "https://api.sketchfab.com/v3/tags/decorative-object"
+        },
+        {
+            "name": "history-historical-cultural-heritage",
+            "slug": "history-historical-cultural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/history-historical-cultural-heritage"
+        },
+        {
+            "name": "pbr-game-models",
+            "slug": "pbr-game-models",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-game-models"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "tripo3d",
+            "slug": "tripo3d",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo3d"
+        },
+        {
+            "name": "tripo",
+            "slug": "tripo",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo"
+        },
+        {
+            "name": "tripoai",
+            "slug": "tripoai",
+            "uri": "https://api.sketchfab.com/v3/tags/tripoai"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "tripo-model",
+            "slug": "tripo-model",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo-model"
+        },
+        {
+            "name": "tripomodel",
+            "slug": "tripomodel",
+            "uri": "https://api.sketchfab.com/v3/tags/tripomodel"
+        },
+        {
+            "name": "uvmapped-model",
+            "slug": "uvmapped-model",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped-model"
+        },
+        {
+            "name": "steampunk-building",
+            "slug": "steampunk-building",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk-building"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7e5c414defb34306b112a2f290f41b2f",
+                "width": 1920,
+                "height": 1080,
+                "size": 345840,
+                "url": "https://media.sketchfab.com/models/01b0a3b6367a4b048d85911d98fe9953/thumbnails/960947a73ece4b59b9b170bba19bb352/acea6dc7e6ed42c8889fdb451de587ad.jpeg"
+            },
+            {
+                "uid": "a653f61763ac4ea78a8c3c4d0130c0d1",
+                "width": 1024,
+                "height": 576,
+                "size": 73292,
+                "url": "https://media.sketchfab.com/models/01b0a3b6367a4b048d85911d98fe9953/thumbnails/960947a73ece4b59b9b170bba19bb352/4a8618737d844dde8c47253a86d235fe.jpeg"
+            },
+            {
+                "uid": "e472d431f8714f978b04e063d1d83d39",
+                "width": 720,
+                "height": 405,
+                "size": 40560,
+                "url": "https://media.sketchfab.com/models/01b0a3b6367a4b048d85911d98fe9953/thumbnails/960947a73ece4b59b9b170bba19bb352/6c2b93e9997d4ecc9c3b54038d9f5e19.jpeg"
+            },
+            {
+                "uid": "93ffdbdde5d2477cb5c47225e835e8ae",
+                "width": 256,
+                "height": 144,
+                "size": 7964,
+                "url": "https://media.sketchfab.com/models/01b0a3b6367a4b048d85911d98fe9953/thumbnails/960947a73ece4b59b9b170bba19bb352/548403bcb6f74fe2af1515acea988be3.jpeg"
+            },
+            {
+                "uid": "eca18e78b61d49e185b9cd19a29a5947",
+                "width": 64,
+                "height": 36,
+                "size": 1422,
+                "url": "https://media.sketchfab.com/models/01b0a3b6367a4b048d85911d98fe9953/thumbnails/960947a73ece4b59b9b170bba19bb352/b1130e1d7ccc4b89a7a33ed40865db51.jpeg"
+            }
+        ]
+    },
+    "uid": "01b0a3b6367a4b048d85911d98fe9953",
+    "uri": "https://api.sketchfab.com/v3/models/01b0a3b6367a4b048d85911d98fe9953",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 499983,
+    "viewCount": 58,
+    "viewerUrl": "https://sketchfab.com/3d-models/steampunk-x-house-a-01b0a3b6367a4b048d85911d98fe9953",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 12,
+    "editorUrl": "https://sketchfab.com/models/01b0a3b6367a4b048d85911d98fe9953/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-03T19:26:26.057590",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

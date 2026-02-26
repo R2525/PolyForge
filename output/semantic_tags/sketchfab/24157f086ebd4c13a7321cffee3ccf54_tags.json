@@ -1,0 +1,36 @@
+{
+    "category": "Architecture",
+    "top_genres": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Toon / Anime",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "house",
+        "building",
+        "farm"
+    ]
+}

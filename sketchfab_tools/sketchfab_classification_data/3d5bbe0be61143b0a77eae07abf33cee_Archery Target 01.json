@@ -1,0 +1,69 @@
+{
+    "category": "Sports & Fitness",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "3D Render",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Dusty",
+        "Rusty",
+        "Mossy",
+        "Cracked"
+    ],
+    "tags": [
+        "archery target",
+        "target",
+        "sports",
+        "furniture",
+        "historical",
+        "medieval",
+        "wood",
+        "wooden"
+    ],
+    "model_id_full": "3d5bbe0be61143b0a77eae07abf33cee_Archery Target 01",
+    "sketchfab_id": "3d5bbe0be61143b0a77eae07abf33cee",
+    "asset_name": "Archery Target 01"
+}

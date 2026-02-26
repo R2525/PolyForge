@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-01T01:54:24.154744",
+    "embedUrl": "https://sketchfab.com/models/0ea4907e92314acc9161eeee871225fd/embed",
+    "faceCount": 14968,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Hahnentorburg (low poly)",
+    "publishedAt": "2026-02-01T01:59:27.853914",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "cologne",
+            "slug": "cologne",
+            "uri": "https://api.sketchfab.com/v3/tags/cologne"
+        },
+        {
+            "name": "koln",
+            "slug": "koln",
+            "uri": "https://api.sketchfab.com/v3/tags/koln"
+        },
+        {
+            "name": "hahnentor",
+            "slug": "hahnentor",
+            "uri": "https://api.sketchfab.com/v3/tags/hahnentor"
+        },
+        {
+            "name": "hahnentorburg",
+            "slug": "hahnentorburg",
+            "uri": "https://api.sketchfab.com/v3/tags/hahnentorburg"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "91bf863e590946ca88aeef07b7f43047",
+                "width": 1920,
+                "height": 1080,
+                "size": 125828,
+                "url": "https://media.sketchfab.com/models/0ea4907e92314acc9161eeee871225fd/thumbnails/274f71c4724548fea5517883353efd03/92da896f4e1a4f5db9609c0729bdc1cf.jpeg"
+            },
+            {
+                "uid": "a01fa594ba4c435181608f400555a113",
+                "width": 1024,
+                "height": 576,
+                "size": 38901,
+                "url": "https://media.sketchfab.com/models/0ea4907e92314acc9161eeee871225fd/thumbnails/274f71c4724548fea5517883353efd03/66d9fc6345f743a5b8dd146dded6addb.jpeg"
+            },
+            {
+                "uid": "9137b9ad604f44c3818da24c1df0fa19",
+                "width": 720,
+                "height": 405,
+                "size": 22338,
+                "url": "https://media.sketchfab.com/models/0ea4907e92314acc9161eeee871225fd/thumbnails/274f71c4724548fea5517883353efd03/f89a6e4e829f47ea871373eeda1c7f72.jpeg"
+            },
+            {
+                "uid": "81bcd930be954c3eba87419b1f0c88a3",
+                "width": 256,
+                "height": 144,
+                "size": 4441,
+                "url": "https://media.sketchfab.com/models/0ea4907e92314acc9161eeee871225fd/thumbnails/274f71c4724548fea5517883353efd03/3da4035f1c4d4e389f1c63348ae6b6c7.jpeg"
+            },
+            {
+                "uid": "b5cba115d93447718295894b5c386fb6",
+                "width": 64,
+                "height": 36,
+                "size": 1062,
+                "url": "https://media.sketchfab.com/models/0ea4907e92314acc9161eeee871225fd/thumbnails/274f71c4724548fea5517883353efd03/7312a9328e6b4b90bb312c1d5b069cb7.jpeg"
+            }
+        ]
+    },
+    "uid": "0ea4907e92314acc9161eeee871225fd",
+    "uri": "https://api.sketchfab.com/v3/models/0ea4907e92314acc9161eeee871225fd",
+    "user": {
+        "uid": "47103ec96e6040f9a9cf4799c324cdf8",
+        "username": "Yasin_XIV",
+        "displayName": "Yasin_XIV",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Yasin_XIV",
+        "avatar": {
+            "uid": "61bc41f9ec054d66b23db517c291aad0",
+            "uri": "https://api.sketchfab.com/v3/avatars/61bc41f9ec054d66b23db517c291aad0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1137,
+                    "url": "https://media.sketchfab.com/avatars/61bc41f9ec054d66b23db517c291aad0/1f20177f87484e0bb89682ee3d3ec5b8.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1641,
+                    "url": "https://media.sketchfab.com/avatars/61bc41f9ec054d66b23db517c291aad0/94773dfb0b1a4dcaa4ecbd71ca1be175.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3622,
+                    "url": "https://media.sketchfab.com/avatars/61bc41f9ec054d66b23db517c291aad0/e5d5ff8ddab848b0bebdb900040158a1.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4163,
+                    "url": "https://media.sketchfab.com/avatars/61bc41f9ec054d66b23db517c291aad0/caf7ad5a03de4daab80492b218270256.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/47103ec96e6040f9a9cf4799c324cdf8"
+    },
+    "vertexCount": 7466,
+    "viewCount": 13,
+    "viewerUrl": "https://sketchfab.com/3d-models/hahnentorburg-low-poly-0ea4907e92314acc9161eeee871225fd",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Low-poly model of the Hahnentorburg in Cologne.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0ea4907e92314acc9161eeee871225fd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-01T02:01:27.650347",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,36 @@
+{
+    "category": "Food & Drink",
+    "top_genres": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Modern",
+            "score": 0.55
+        }
+    ],
+    "style": "Retro / PS1",
+    "top_styles": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.9
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.65
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "pasta",
+        "dried",
+        "food"
+    ]
+}

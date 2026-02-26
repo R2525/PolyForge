@@ -1,0 +1,236 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-14T23:09:42.703584",
+    "embedUrl": "https://sketchfab.com/models/1982e1b0fa8f47e388e74ebfc0df7f41/embed",
+    "faceCount": 123402,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Futuristic Cyberpunk Leather Satchel",
+    "publishedAt": "2026-02-14T23:10:20.307884",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "leather",
+            "slug": "leather",
+            "uri": "https://api.sketchfab.com/v3/tags/leather"
+        },
+        {
+            "name": "gadget",
+            "slug": "gadget",
+            "uri": "https://api.sketchfab.com/v3/tags/gadget"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "tech",
+            "slug": "tech",
+            "uri": "https://api.sketchfab.com/v3/tags/tech"
+        },
+        {
+            "name": "bag",
+            "slug": "bag",
+            "uri": "https://api.sketchfab.com/v3/tags/bag"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "ammo",
+            "slug": "ammo",
+            "uri": "https://api.sketchfab.com/v3/tags/ammo"
+        },
+        {
+            "name": "accessory",
+            "slug": "accessory",
+            "uri": "https://api.sketchfab.com/v3/tags/accessory"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "ammobox",
+            "slug": "ammobox",
+            "uri": "https://api.sketchfab.com/v3/tags/ammobox"
+        },
+        {
+            "name": "Pouch",
+            "slug": "pouch",
+            "uri": "https://api.sketchfab.com/v3/tags/pouch"
+        },
+        {
+            "name": "satchel",
+            "slug": "satchel",
+            "uri": "https://api.sketchfab.com/v3/tags/satchel"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1bf030648887456f891f0ff97ff16a4f",
+                "width": 1920,
+                "height": 1080,
+                "size": 109968,
+                "url": "https://media.sketchfab.com/models/1982e1b0fa8f47e388e74ebfc0df7f41/thumbnails/be437e706f3f48ce95cee7760df4e360/d8f7c0b73d054427b37260a859ceabb0.jpeg"
+            },
+            {
+                "uid": "bcaf233b2372493e90ac46380269c3b0",
+                "width": 1024,
+                "height": 576,
+                "size": 36334,
+                "url": "https://media.sketchfab.com/models/1982e1b0fa8f47e388e74ebfc0df7f41/thumbnails/be437e706f3f48ce95cee7760df4e360/d3fbb393333c47a88df9309b9cc1171e.jpeg"
+            },
+            {
+                "uid": "2b657df8603a4da6adc3f9e35b20b87f",
+                "width": 720,
+                "height": 405,
+                "size": 21145,
+                "url": "https://media.sketchfab.com/models/1982e1b0fa8f47e388e74ebfc0df7f41/thumbnails/be437e706f3f48ce95cee7760df4e360/9422fd4fdd7f40c7a765e4a139b97e02.jpeg"
+            },
+            {
+                "uid": "f53826a20006424ab1742ce3e9a6be25",
+                "width": 256,
+                "height": 144,
+                "size": 4311,
+                "url": "https://media.sketchfab.com/models/1982e1b0fa8f47e388e74ebfc0df7f41/thumbnails/be437e706f3f48ce95cee7760df4e360/a42cf8fa836b4e7a993e0d45833459c1.jpeg"
+            },
+            {
+                "uid": "7d4140c3ea7e4b4d94620eb7c7eaecf5",
+                "width": 64,
+                "height": 36,
+                "size": 1086,
+                "url": "https://media.sketchfab.com/models/1982e1b0fa8f47e388e74ebfc0df7f41/thumbnails/be437e706f3f48ce95cee7760df4e360/3a271fb05cb04669bdaf9e418ee15209.jpeg"
+            }
+        ]
+    },
+    "uid": "1982e1b0fa8f47e388e74ebfc0df7f41",
+    "uri": "https://api.sketchfab.com/v3/models/1982e1b0fa8f47e388e74ebfc0df7f41",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 61957,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/futuristic-cyberpunk-leather-satchel-1982e1b0fa8f47e388e74ebfc0df7f41",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Futuristic Cyberpunk Leather Satchel, used and worn out and damaged",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/1982e1b0fa8f47e388e74ebfc0df7f41/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-14T23:53:11.107815",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

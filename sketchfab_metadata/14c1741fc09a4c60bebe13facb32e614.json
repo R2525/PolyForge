@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-09-17T16:57:32.935966",
+    "embedUrl": "https://sketchfab.com/models/14c1741fc09a4c60bebe13facb32e614/embed",
+    "faceCount": 730,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "seaplane 2",
+    "publishedAt": "2025-09-17T17:05:19.457093",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3cffd0de1c8b4471a1db82e23797fd87",
+                "width": 1920,
+                "height": 1080,
+                "size": 108950,
+                "url": "https://media.sketchfab.com/models/14c1741fc09a4c60bebe13facb32e614/thumbnails/6ed3ae9fee1e4689aab388146f7598fb/f49191a58b6142a2a9b9e4551e9ee377.jpeg"
+            },
+            {
+                "uid": "94f8b9876fce41ef91049c89d0b432df",
+                "width": 1024,
+                "height": 576,
+                "size": 44143,
+                "url": "https://media.sketchfab.com/models/14c1741fc09a4c60bebe13facb32e614/thumbnails/6ed3ae9fee1e4689aab388146f7598fb/705294b34c5941d0ba8c3f2de083735f.jpeg"
+            },
+            {
+                "uid": "b3f3326df2db4a7798a55ed9f2a012b3",
+                "width": 720,
+                "height": 405,
+                "size": 27950,
+                "url": "https://media.sketchfab.com/models/14c1741fc09a4c60bebe13facb32e614/thumbnails/6ed3ae9fee1e4689aab388146f7598fb/1ea10315ee7346e39fcc4eca3bc6b941.jpeg"
+            },
+            {
+                "uid": "40eac282a5044038a927df9cd1d7f83c",
+                "width": 256,
+                "height": 144,
+                "size": 7275,
+                "url": "https://media.sketchfab.com/models/14c1741fc09a4c60bebe13facb32e614/thumbnails/6ed3ae9fee1e4689aab388146f7598fb/890469eaa57d4bf7998768e4a6740cd4.jpeg"
+            },
+            {
+                "uid": "b421766eb9bb441a8556d1f09f239bf2",
+                "width": 64,
+                "height": 36,
+                "size": 1494,
+                "url": "https://media.sketchfab.com/models/14c1741fc09a4c60bebe13facb32e614/thumbnails/6ed3ae9fee1e4689aab388146f7598fb/132622aa36094bfaa3e8ca4f0927f7c3.jpeg"
+            }
+        ]
+    },
+    "uid": "14c1741fc09a4c60bebe13facb32e614",
+    "uri": "https://api.sketchfab.com/v3/models/14c1741fc09a4c60bebe13facb32e614",
+    "user": {
+        "uid": "d5ac5788e23c4f8b948cbd3178552695",
+        "username": "Darkmouche",
+        "displayName": "Darkmouche",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Darkmouche",
+        "avatar": {
+            "uid": "ec7b122e3370456eb42d31fb3f6275d2",
+            "uri": "https://api.sketchfab.com/v3/avatars/ec7b122e3370456eb42d31fb3f6275d2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2305,
+                    "url": "https://media.sketchfab.com/avatars/ec7b122e3370456eb42d31fb3f6275d2/0e55e485afac4c518ea47bdd5efdb72d.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4864,
+                    "url": "https://media.sketchfab.com/avatars/ec7b122e3370456eb42d31fb3f6275d2/52f0d0978b7d4db78d586ff7a3ec8b0e.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16028,
+                    "url": "https://media.sketchfab.com/avatars/ec7b122e3370456eb42d31fb3f6275d2/6ab19de38f44497ca081e85f862f94b5.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 19782,
+                    "url": "https://media.sketchfab.com/avatars/ec7b122e3370456eb42d31fb3f6275d2/1060011f518542ba9fbc711bd03cec98.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d5ac5788e23c4f8b948cbd3178552695"
+    },
+    "vertexCount": 479,
+    "viewCount": 42,
+    "viewerUrl": "https://sketchfab.com/3d-models/seaplane-2-14c1741fc09a4c60bebe13facb32e614",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "main inspirations are that ghibli movie with the pig and the real-life plane Breda ba.27.\nthis is an edited version of my previous model, just like airplane designers improve older models B) im just like them fr\nsorry no free download. i dont want it used to train generative AI models. Contact me if your that desperate to use it, i'll gladly send you the file",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/14c1741fc09a4c60bebe13facb32e614/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-09-17T17:11:37.846466",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 6
+}

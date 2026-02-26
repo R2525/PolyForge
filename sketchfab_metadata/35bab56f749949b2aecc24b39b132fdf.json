@@ -1,0 +1,120 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-12-17T20:29:46.766969",
+    "embedUrl": "https://sketchfab.com/models/35bab56f749949b2aecc24b39b132fdf/embed",
+    "faceCount": 1533485,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Warahammer 40K Dreadnought",
+    "publishedAt": "2025-12-17T20:31:46.029405",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "3df-zephyr",
+            "slug": "3df-zephyr",
+            "uri": "https://api.sketchfab.com/v3/tags/3df-zephyr"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4da0a4ad8ba84351b2647449aa8962c1",
+                "width": 1920,
+                "height": 1080,
+                "size": 90136,
+                "url": "https://media.sketchfab.com/models/35bab56f749949b2aecc24b39b132fdf/thumbnails/09a0b2bb08fe4d3f8eba13057a7604ba/86a9300b38bc4de09391bde4cc743351.jpeg"
+            },
+            {
+                "uid": "5d4b7a23b5dd46f68403c2d11d385a76",
+                "width": 1024,
+                "height": 576,
+                "size": 30265,
+                "url": "https://media.sketchfab.com/models/35bab56f749949b2aecc24b39b132fdf/thumbnails/09a0b2bb08fe4d3f8eba13057a7604ba/95de41593cbf44329b12998ac62d8d92.jpeg"
+            },
+            {
+                "uid": "45e4541c206f4d9fb73c0ce43ec6a956",
+                "width": 720,
+                "height": 405,
+                "size": 17609,
+                "url": "https://media.sketchfab.com/models/35bab56f749949b2aecc24b39b132fdf/thumbnails/09a0b2bb08fe4d3f8eba13057a7604ba/6af97015eb35419fb7960deaab72ee67.jpeg"
+            },
+            {
+                "uid": "f3136c861dce4a2885ab1a0e586559f9",
+                "width": 256,
+                "height": 144,
+                "size": 3699,
+                "url": "https://media.sketchfab.com/models/35bab56f749949b2aecc24b39b132fdf/thumbnails/09a0b2bb08fe4d3f8eba13057a7604ba/2359918040514b03aaec018c39e4531b.jpeg"
+            },
+            {
+                "uid": "dc135398ecb44276a037f85fb7c12a82",
+                "width": 64,
+                "height": 36,
+                "size": 999,
+                "url": "https://media.sketchfab.com/models/35bab56f749949b2aecc24b39b132fdf/thumbnails/09a0b2bb08fe4d3f8eba13057a7604ba/bf7c1d49d4b14ace956fa41986be3f48.jpeg"
+            }
+        ]
+    },
+    "uid": "35bab56f749949b2aecc24b39b132fdf",
+    "uri": "https://api.sketchfab.com/v3/models/35bab56f749949b2aecc24b39b132fdf",
+    "user": {
+        "uid": "f7bfa1048dac4c518509e4d74516a81a",
+        "username": "geo-mark",
+        "displayName": "geo-mark",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/geo-mark",
+        "avatar": {
+            "uid": "9cd2caa4f72b468cb83e1632aabebca5",
+            "uri": "https://api.sketchfab.com/v3/avatars/9cd2caa4f72b468cb83e1632aabebca5",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2721,
+                    "url": "https://media.sketchfab.com/avatars/9cd2caa4f72b468cb83e1632aabebca5/a88901893b164f03bb73959e028f6d06.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5110,
+                    "url": "https://media.sketchfab.com/avatars/9cd2caa4f72b468cb83e1632aabebca5/efe420f9cb404ca3826c845a19b724ff.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 13154,
+                    "url": "https://media.sketchfab.com/avatars/9cd2caa4f72b468cb83e1632aabebca5/aacdd2ac8e804f8c9e25da2fd6284cfb.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 16141,
+                    "url": "https://media.sketchfab.com/avatars/9cd2caa4f72b468cb83e1632aabebca5/b6681e8680bf4021a599aeff154bc0bd.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f7bfa1048dac4c518509e4d74516a81a"
+    },
+    "vertexCount": 1013701,
+    "viewCount": 39,
+    "viewerUrl": "https://sketchfab.com/3d-models/warahammer-40k-dreadnought-35bab56f749949b2aecc24b39b132fdf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/35bab56f749949b2aecc24b39b132fdf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "3DF-Zephyr-Lite",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-17T20:44:53.599660",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 3
+}

@@ -1,0 +1,169 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-13T13:00:12.859603",
+    "embedUrl": "https://sketchfab.com/models/2a33258090eb4ccd8a664c8cf4faefc3/embed",
+    "faceCount": 31682,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "voxel art lord of the ring hobbit home",
+    "publishedAt": "2026-02-13T13:06:28.462267",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "voxelart",
+            "slug": "voxelart",
+            "uri": "https://api.sketchfab.com/v3/tags/voxelart"
+        },
+        {
+            "name": "magicavoxel",
+            "slug": "magicavoxel",
+            "uri": "https://api.sketchfab.com/v3/tags/magicavoxel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "55d23ffed61241be8f00e58e8be903a5",
+                "width": 1920,
+                "height": 1080,
+                "size": 52006,
+                "url": "https://media.sketchfab.com/models/2a33258090eb4ccd8a664c8cf4faefc3/thumbnails/2531a635eb5e4ac09665f5dd9d5bb94b/2ed382f4a198436f868f2ffcfc66df4a.jpeg"
+            },
+            {
+                "uid": "1660daec558b4926a1c6f49701ace70c",
+                "width": 1024,
+                "height": 576,
+                "size": 16525,
+                "url": "https://media.sketchfab.com/models/2a33258090eb4ccd8a664c8cf4faefc3/thumbnails/2531a635eb5e4ac09665f5dd9d5bb94b/0b868e9acd9549139463029f19cb9b22.jpeg"
+            },
+            {
+                "uid": "82dd796c72d14a4e95576eae7f2fe2a1",
+                "width": 720,
+                "height": 405,
+                "size": 9201,
+                "url": "https://media.sketchfab.com/models/2a33258090eb4ccd8a664c8cf4faefc3/thumbnails/2531a635eb5e4ac09665f5dd9d5bb94b/ef700205e338435c9f6d148029a3f072.jpeg"
+            },
+            {
+                "uid": "942f9851e3c7453fac593498d82128c4",
+                "width": 256,
+                "height": 144,
+                "size": 1971,
+                "url": "https://media.sketchfab.com/models/2a33258090eb4ccd8a664c8cf4faefc3/thumbnails/2531a635eb5e4ac09665f5dd9d5bb94b/8286ad79c5604bc0a973c7d4efb7a53c.jpeg"
+            },
+            {
+                "uid": "ca1a08297b1e4e728b2547242f06a86b",
+                "width": 64,
+                "height": 36,
+                "size": 785,
+                "url": "https://media.sketchfab.com/models/2a33258090eb4ccd8a664c8cf4faefc3/thumbnails/2531a635eb5e4ac09665f5dd9d5bb94b/4799658c11254b31b989f262e77389bd.jpeg"
+            }
+        ]
+    },
+    "uid": "2a33258090eb4ccd8a664c8cf4faefc3",
+    "uri": "https://api.sketchfab.com/v3/models/2a33258090eb4ccd8a664c8cf4faefc3",
+    "user": {
+        "uid": "b612f501cbeb4e988d7141b6617323c3",
+        "username": "damien2004822",
+        "displayName": "dpage",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/damien2004822",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b612f501cbeb4e988d7141b6617323c3"
+    },
+    "vertexCount": 15457,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/voxel-art-lord-of-the-ring-hobbit-home-2a33258090eb4ccd8a664c8cf4faefc3",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "voxel art lord of the ring hobbit home.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2a33258090eb4ccd8a664c8cf4faefc3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-13T13:10:49.496486",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

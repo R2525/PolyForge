@@ -1,0 +1,130 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T06:16:03.001185",
+    "embedUrl": "https://sketchfab.com/models/1ec131f83bef402e8413e5f5364ae8bb/embed",
+    "faceCount": 929080,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "cyberpunkCar",
+    "publishedAt": "2026-02-18T06:16:55.789734",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9085d756fab5437e8a0a681e448274fa",
+                "width": 1920,
+                "height": 1080,
+                "size": 57899,
+                "url": "https://media.sketchfab.com/models/1ec131f83bef402e8413e5f5364ae8bb/thumbnails/2b8c50c3f32e4daba8594182955cf38f/43232cab1a624cda903bc08ff461f45c.jpeg"
+            },
+            {
+                "uid": "bae396a61ba84db0bafbffd5ecbf6238",
+                "width": 1024,
+                "height": 576,
+                "size": 18269,
+                "url": "https://media.sketchfab.com/models/1ec131f83bef402e8413e5f5364ae8bb/thumbnails/2b8c50c3f32e4daba8594182955cf38f/87ec4b0d114a465699262c15b21f77cc.jpeg"
+            },
+            {
+                "uid": "bb460161ba544861988f130f6538da9d",
+                "width": 720,
+                "height": 405,
+                "size": 10389,
+                "url": "https://media.sketchfab.com/models/1ec131f83bef402e8413e5f5364ae8bb/thumbnails/2b8c50c3f32e4daba8594182955cf38f/c7f0c1c3a5634a639951d0cc2fc782e2.jpeg"
+            },
+            {
+                "uid": "c0d33f10992745b39e34582f8d5dd856",
+                "width": 256,
+                "height": 144,
+                "size": 2343,
+                "url": "https://media.sketchfab.com/models/1ec131f83bef402e8413e5f5364ae8bb/thumbnails/2b8c50c3f32e4daba8594182955cf38f/4652943fa5b940e38d45c4970a6db403.jpeg"
+            },
+            {
+                "uid": "ca40bf4248bc4816ab89c500438399cb",
+                "width": 64,
+                "height": 36,
+                "size": 853,
+                "url": "https://media.sketchfab.com/models/1ec131f83bef402e8413e5f5364ae8bb/thumbnails/2b8c50c3f32e4daba8594182955cf38f/75ce285f3eaa40bda081b9faf89c7779.jpeg"
+            }
+        ]
+    },
+    "uid": "1ec131f83bef402e8413e5f5364ae8bb",
+    "uri": "https://api.sketchfab.com/v3/models/1ec131f83bef402e8413e5f5364ae8bb",
+    "user": {
+        "uid": "f3a11261254e4ac6adf0705c9d9accce",
+        "username": "antromar3",
+        "displayName": "antromar3",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/antromar3",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f3a11261254e4ac6adf0705c9d9accce"
+    },
+    "vertexCount": 463820,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/cyberpunkcar-1ec131f83bef402e8413e5f5364ae8bb",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/6SN5Ht](https://www.meshy.ai/s/6SN5Ht)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1ec131f83bef402e8413e5f5364ae8bb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T06:16:55.772658",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

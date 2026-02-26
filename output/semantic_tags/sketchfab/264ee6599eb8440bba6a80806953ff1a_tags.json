@@ -1,0 +1,40 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.7
+        },
+        {
+            "name": "Modern",
+            "score": 0.6
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Toon / Anime",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "creature",
+        "head",
+        "3D model"
+    ]
+}

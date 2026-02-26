@@ -1,0 +1,211 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T08:31:54.434628",
+    "embedUrl": "https://sketchfab.com/models/2ba7d935bc9a49c4a2d840b8b3719424/embed",
+    "faceCount": 13522,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Japanese vulture Mask 10",
+    "publishedAt": "2026-02-24T08:55:27.226272",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "culture",
+            "slug": "culture",
+            "uri": "https://api.sketchfab.com/v3/tags/culture"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "Mask",
+            "slug": "mask",
+            "uri": "https://api.sketchfab.com/v3/tags/mask"
+        },
+        {
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+        },
+        {
+            "name": "unreal-engine",
+            "slug": "unreal-engine",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal-engine"
+        },
+        {
+            "name": "3d-asset",
+            "slug": "3d-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-asset"
+        },
+        {
+            "name": "japanese-culture",
+            "slug": "japanese-culture",
+            "uri": "https://api.sketchfab.com/v3/tags/japanese-culture"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "japanese",
+            "slug": "japanese",
+            "uri": "https://api.sketchfab.com/v3/tags/japanese"
+        },
+        {
+            "name": "japanese-mask",
+            "slug": "japanese-mask",
+            "uri": "https://api.sketchfab.com/v3/tags/japanese-mask"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "70d2c86bbf6345978873b65bc4e2d5a0",
+                "width": 1920,
+                "height": 1080,
+                "size": 144397,
+                "url": "https://media.sketchfab.com/models/2ba7d935bc9a49c4a2d840b8b3719424/thumbnails/fad36022471e4974a7ff63c3e98c0ceb/436d4cddb51d4d24ad0647cb9e272400.jpeg"
+            },
+            {
+                "uid": "d0c113d4847444299c7d695d82228b55",
+                "width": 1024,
+                "height": 576,
+                "size": 31831,
+                "url": "https://media.sketchfab.com/models/2ba7d935bc9a49c4a2d840b8b3719424/thumbnails/fad36022471e4974a7ff63c3e98c0ceb/60cc3c0e02514d729de1accf1220b12a.jpeg"
+            },
+            {
+                "uid": "bdfd00a90ac348bca7e490ca178eab75",
+                "width": 720,
+                "height": 405,
+                "size": 16787,
+                "url": "https://media.sketchfab.com/models/2ba7d935bc9a49c4a2d840b8b3719424/thumbnails/fad36022471e4974a7ff63c3e98c0ceb/34d678334d8745a594abb2469f6d417b.jpeg"
+            },
+            {
+                "uid": "189b9ec5bec4412b85b9ac9aa8143355",
+                "width": 256,
+                "height": 144,
+                "size": 3626,
+                "url": "https://media.sketchfab.com/models/2ba7d935bc9a49c4a2d840b8b3719424/thumbnails/fad36022471e4974a7ff63c3e98c0ceb/66145dacb62548c29bd05dd783985f3b.jpeg"
+            },
+            {
+                "uid": "aaf4c17901a54d7597712e1d30a2a88c",
+                "width": 64,
+                "height": 36,
+                "size": 1044,
+                "url": "https://media.sketchfab.com/models/2ba7d935bc9a49c4a2d840b8b3719424/thumbnails/fad36022471e4974a7ff63c3e98c0ceb/29b6eb229829464abeb478cc52bf8528.jpeg"
+            }
+        ]
+    },
+    "uid": "2ba7d935bc9a49c4a2d840b8b3719424",
+    "uri": "https://api.sketchfab.com/v3/models/2ba7d935bc9a49c4a2d840b8b3719424",
+    "user": {
+        "uid": "86483ce1692f46edbe6ce08c638fa0bd",
+        "username": "DelzaarStudio",
+        "displayName": "Delzaar Studio",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DelzaarStudio",
+        "avatar": {
+            "uid": "96b3a0309ca34a11b830b2c79fd6b4e6",
+            "uri": "https://api.sketchfab.com/v3/avatars/96b3a0309ca34a11b830b2c79fd6b4e6",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1139,
+                    "url": "https://media.sketchfab.com/avatars/96b3a0309ca34a11b830b2c79fd6b4e6/d1b7b37dd3cd45d0a3024478f8c6b0b9.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2348,
+                    "url": "https://media.sketchfab.com/avatars/96b3a0309ca34a11b830b2c79fd6b4e6/4afecb468b4f40c089b58f2827af0bc7.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5766,
+                    "url": "https://media.sketchfab.com/avatars/96b3a0309ca34a11b830b2c79fd6b4e6/b76e87d75084466ca10546cade84785c.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6655,
+                    "url": "https://media.sketchfab.com/avatars/96b3a0309ca34a11b830b2c79fd6b4e6/8e670d7bd36f41228aebeb3061fa1340.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/86483ce1692f46edbe6ce08c638fa0bd"
+    },
+    "vertexCount": 6757,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/japanese-vulture-mask-10-2ba7d935bc9a49c4a2d840b8b3719424",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A high-quality Japanese-style cat mask inspired by traditional festival and theatrical designs. This standalone 3D asset is carefully crafted by Delzaar Studio with clean topology, optimized geometry, and detailed textures.\n\nPerfect for:\n• Game development (real-time ready)\n• Unreal Engine / Unity projects\n• Cinematics & animation\n• Character design\n• VR / AR experiences\n• Digital collectibles\n\nInspired by traditional Japanese masks such as kitsune and festival-style animal masks, this model blends cultural aesthetics with modern production standards.\n\n[Website](https://www.Delzaar.com) | [Youtube](https://www.youtube.com/@delzaarstudio) | [Artstation](https://www.artstation.com/delzaarstudio) | [LinkedIn](https://www.linkedin.com/company/delzaar/) | [Instagram](https://www.instagram.com/delzaarstudio/)\n\n\n\n[Click for More Asset Packs from Delzaar Studios](https://www.fab.com/sellers/Delzaar%20Studio)",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/2ba7d935bc9a49c4a2d840b8b3719424/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T08:55:27.347926",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,200 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-22T16:28:08.459305",
+    "embedUrl": "https://sketchfab.com/models/272a0c3acfaa4299861616a5aeefddc4/embed",
+    "faceCount": 563140,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Hollow Tree Stump with Snow – Photogrammetry",
+    "publishedAt": "2026-01-22T16:29:30.233430",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "dressing",
+            "slug": "dressing",
+            "uri": "https://api.sketchfab.com/v3/tags/dressing"
+        },
+        {
+            "name": "set",
+            "slug": "set",
+            "uri": "https://api.sketchfab.com/v3/tags/set"
+        },
+        {
+            "name": "hollow",
+            "slug": "hollow",
+            "uri": "https://api.sketchfab.com/v3/tags/hollow"
+        },
+        {
+            "name": "outdoor",
+            "slug": "outdoor",
+            "uri": "https://api.sketchfab.com/v3/tags/outdoor"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        },
+        {
+            "name": "Stump",
+            "slug": "stump",
+            "uri": "https://api.sketchfab.com/v3/tags/stump"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "realityscan-mobile",
+            "slug": "realityscan-mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/realityscan-mobile"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2eddb03d69a7419aa124e433d6499751",
+                "width": 1920,
+                "height": 1080,
+                "size": 244869,
+                "url": "https://media.sketchfab.com/models/272a0c3acfaa4299861616a5aeefddc4/thumbnails/c76f5008ae214375a095e4e909302aa7/6df80c6fb9874f489eb51f6e65f485a9.jpeg"
+            },
+            {
+                "uid": "1f3f4a2343d544f38d24255a45a445ae",
+                "width": 1024,
+                "height": 576,
+                "size": 75821,
+                "url": "https://media.sketchfab.com/models/272a0c3acfaa4299861616a5aeefddc4/thumbnails/c76f5008ae214375a095e4e909302aa7/c0832f1cc4cf42c68055fb278131f0ee.jpeg"
+            },
+            {
+                "uid": "ed40913c77054c68b8e9cc85e2840d00",
+                "width": 720,
+                "height": 405,
+                "size": 41876,
+                "url": "https://media.sketchfab.com/models/272a0c3acfaa4299861616a5aeefddc4/thumbnails/c76f5008ae214375a095e4e909302aa7/df798f9e9ba74ce482055820bbe21547.jpeg"
+            },
+            {
+                "uid": "40339586159e4453a2d1165690e81cf1",
+                "width": 256,
+                "height": 144,
+                "size": 7396,
+                "url": "https://media.sketchfab.com/models/272a0c3acfaa4299861616a5aeefddc4/thumbnails/c76f5008ae214375a095e4e909302aa7/5e108b68c79d4ee7a22345236008948f.jpeg"
+            },
+            {
+                "uid": "3926b1328d3443d2bb547d446e5c8115",
+                "width": 64,
+                "height": 36,
+                "size": 1371,
+                "url": "https://media.sketchfab.com/models/272a0c3acfaa4299861616a5aeefddc4/thumbnails/c76f5008ae214375a095e4e909302aa7/8862cba05f31433da9751da432266115.jpeg"
+            }
+        ]
+    },
+    "uid": "272a0c3acfaa4299861616a5aeefddc4",
+    "uri": "https://api.sketchfab.com/v3/models/272a0c3acfaa4299861616a5aeefddc4",
+    "user": {
+        "uid": "30416228eb914f71aa287fa032c4adf8",
+        "username": "meii020",
+        "displayName": "meii020",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/meii020",
+        "avatar": {
+            "uid": "3d7e1852b10e43739d4cb4c97d390ded",
+            "uri": "https://api.sketchfab.com/v3/avatars/3d7e1852b10e43739d4cb4c97d390ded",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1077,
+                    "url": "https://media.sketchfab.com/avatars/3d7e1852b10e43739d4cb4c97d390ded/56542e98c98a455c97b128e771d752a5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1649,
+                    "url": "https://media.sketchfab.com/avatars/3d7e1852b10e43739d4cb4c97d390ded/cfba2adfeafb4101a91d1b88b97056aa.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4179,
+                    "url": "https://media.sketchfab.com/avatars/3d7e1852b10e43739d4cb4c97d390ded/1910dad828e54548a06afdc57afd41a1.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4980,
+                    "url": "https://media.sketchfab.com/avatars/3d7e1852b10e43739d4cb4c97d390ded/7c7becfa6e304a668827ab9ec9257481.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/30416228eb914f71aa287fa032c4adf8"
+    },
+    "vertexCount": 282829,
+    "viewCount": 20,
+    "viewerUrl": "https://sketchfab.com/3d-models/hollow-tree-stump-with-snow-photogrammetry-272a0c3acfaa4299861616a5aeefddc4",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "High-quality photogrammetry scan of a hollow tree stump covered with snow, captured in a natural winter environment.\n\nLocation: Stockholm, Sweden\nDate: January 22, 2026\nWeather: Snowy, overcast daylight\nCapture method: RealityScan (mobile, standard mode)\nPhotos used: ~300\nPolygon count: 525247\n\nThe asset features strong natural shapes and interior depth, with detailed bark erosion, broken edges, hollow interior structures, and realistic snow accumulation along the rim and base. Soft overcast lighting helped preserve subtle surface details without harsh shadows.\n\nSuitable for:\nGames and real-time environments\nFilm, animation, and cinematic set dressing\nForest, winter, abandoned or post-apocalyptic scenes\nEnvironmental storytelling and prop placement\nGeneral 3D reference and visualization\n\nThe hollow interior and organic silhouette make this asset especially useful for close-up shots and narrative-focused scenes.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/272a0c3acfaa4299861616a5aeefddc4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "realityscan",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-24T14:29:26.015017",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

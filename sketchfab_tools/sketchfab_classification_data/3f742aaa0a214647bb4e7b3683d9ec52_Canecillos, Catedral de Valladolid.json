@@ -1,0 +1,66 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.95
+        },
+        {
+            "name": "Gothic",
+            "score": 0.85
+        },
+        {
+            "name": "Baroque",
+            "score": 0.75
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.7
+        },
+        {
+            "name": "Victorian",
+            "score": 0.6
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.88
+        },
+        {
+            "name": "Stylized Carving",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic Stone",
+            "score": 0.75
+        },
+        {
+            "name": "Classical Carving",
+            "score": 0.7
+        },
+        {
+            "name": "Antique Stone",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Cracked",
+        "Dusty",
+        "Mossy",
+        "Rusty"
+    ],
+    "tags": [
+        "stone",
+        "carving",
+        "architecture",
+        "ancient",
+        "cathedral"
+    ],
+    "model_id_full": "3f742aaa0a214647bb4e7b3683d9ec52_Canecillos, Catedral de Valladolid",
+    "sketchfab_id": "3f742aaa0a214647bb4e7b3683d9ec52",
+    "asset_name": "Canecillos, Catedral de Valladolid"
+}

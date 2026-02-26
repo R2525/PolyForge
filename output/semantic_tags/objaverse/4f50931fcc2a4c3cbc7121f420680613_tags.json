@@ -1,0 +1,36 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Military",
+            "score": 0.65
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "sword",
+        "blade",
+        "weapon"
+    ]
+}

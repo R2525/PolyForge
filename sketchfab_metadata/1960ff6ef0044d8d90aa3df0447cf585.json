@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T10:47:45.726228",
+    "embedUrl": "https://sketchfab.com/models/1960ff6ef0044d8d90aa3df0447cf585/embed",
+    "faceCount": 158,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Grave-007lp-004",
+    "publishedAt": "2026-02-19T10:48:46.324057",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "grave",
+            "slug": "grave",
+            "uri": "https://api.sketchfab.com/v3/tags/grave"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8aa3cc2a97074e90b54bb8e94f7fcef1",
+                "width": 1920,
+                "height": 1080,
+                "size": 164890,
+                "url": "https://media.sketchfab.com/models/1960ff6ef0044d8d90aa3df0447cf585/thumbnails/9576300137a74970af9e40e572f554fa/84ecd42927a04dcb9a4c61043ac4df04.jpeg"
+            },
+            {
+                "uid": "cc1c470e1c3c4155bd78930c1a2793f6",
+                "width": 1024,
+                "height": 576,
+                "size": 39649,
+                "url": "https://media.sketchfab.com/models/1960ff6ef0044d8d90aa3df0447cf585/thumbnails/9576300137a74970af9e40e572f554fa/6c1dec9e2bfc46d9b851cff7d4a05f44.jpeg"
+            },
+            {
+                "uid": "d09edcba656a4ff2ab25c527b0b1bfd4",
+                "width": 720,
+                "height": 405,
+                "size": 20018,
+                "url": "https://media.sketchfab.com/models/1960ff6ef0044d8d90aa3df0447cf585/thumbnails/9576300137a74970af9e40e572f554fa/57809a54c8cb40c394e61f89d3ef5619.jpeg"
+            },
+            {
+                "uid": "8964ab8413444b20906fa127270efcf4",
+                "width": 256,
+                "height": 144,
+                "size": 3453,
+                "url": "https://media.sketchfab.com/models/1960ff6ef0044d8d90aa3df0447cf585/thumbnails/9576300137a74970af9e40e572f554fa/625ff74bb61143a881c6350d597dae2f.jpeg"
+            },
+            {
+                "uid": "627e3261fc334b6988bd911e0759e9fd",
+                "width": 64,
+                "height": 36,
+                "size": 944,
+                "url": "https://media.sketchfab.com/models/1960ff6ef0044d8d90aa3df0447cf585/thumbnails/9576300137a74970af9e40e572f554fa/1f3044925d4b4f3a94595106758e9a0c.jpeg"
+            }
+        ]
+    },
+    "uid": "1960ff6ef0044d8d90aa3df0447cf585",
+    "uri": "https://api.sketchfab.com/v3/models/1960ff6ef0044d8d90aa3df0447cf585",
+    "user": {
+        "uid": "9fd614ab5c354620be5b23367194863a",
+        "username": "waffen2009",
+        "displayName": "waffen2009",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/waffen2009",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9fd614ab5c354620be5b23367194863a"
+    },
+    "vertexCount": 81,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/grave-007lp-004-1960ff6ef0044d8d90aa3df0447cf585",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/1960ff6ef0044d8d90aa3df0447cf585/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T10:48:46.413510",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

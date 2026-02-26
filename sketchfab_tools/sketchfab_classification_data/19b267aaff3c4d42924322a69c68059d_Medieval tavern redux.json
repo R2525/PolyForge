@@ -1,0 +1,68 @@
+{
+    "category": "Architecture",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        }
+    ],
+    "style": "Hand-painted Stylized",
+    "top_styles": [
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "3D Rendered",
+            "score": 0.5
+        },
+        {
+            "name": "Fantasy Art",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Mossy",
+        "Dusty",
+        "Cracked"
+    ],
+    "tags": [
+        "medieval",
+        "tavern",
+        "stone",
+        "wood",
+        "stools",
+        "candles",
+        "ceramics",
+        "bar"
+    ],
+    "model_id_full": "19b267aaff3c4d42924322a69c68059d_Medieval tavern redux",
+    "sketchfab_id": "19b267aaff3c4d42924322a69c68059d",
+    "asset_name": "Medieval tavern redux"
+}

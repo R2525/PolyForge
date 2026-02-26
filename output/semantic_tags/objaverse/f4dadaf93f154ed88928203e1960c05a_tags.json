@@ -1,0 +1,41 @@
+{
+    "category": "Architecture",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.7
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.65
+        },
+        {
+            "name": "Military",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Clean"
+    ],
+    "tags": [
+        "stairway",
+        "metal",
+        "platform"
+    ]
+}

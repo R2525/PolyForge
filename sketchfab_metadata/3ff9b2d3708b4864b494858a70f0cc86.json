@@ -1,0 +1,341 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T14:01:10.657971",
+    "embedUrl": "https://sketchfab.com/models/3ff9b2d3708b4864b494858a70f0cc86/embed",
+    "faceCount": 22176,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 17,
+    "name": "Environment Pack - Mushroom",
+    "publishedAt": "2026-02-22T14:09:33.754868",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "trees",
+            "slug": "trees",
+            "uri": "https://api.sketchfab.com/v3/tags/trees"
+        },
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "plant",
+            "slug": "plant",
+            "uri": "https://api.sketchfab.com/v3/tags/plant"
+        },
+        {
+            "name": "sky",
+            "slug": "sky",
+            "uri": "https://api.sketchfab.com/v3/tags/sky"
+        },
+        {
+            "name": "landscape",
+            "slug": "landscape",
+            "uri": "https://api.sketchfab.com/v3/tags/landscape"
+        },
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "grass",
+            "slug": "grass",
+            "uri": "https://api.sketchfab.com/v3/tags/grass"
+        },
+        {
+            "name": "mushroom",
+            "slug": "mushroom",
+            "uri": "https://api.sketchfab.com/v3/tags/mushroom"
+        },
+        {
+            "name": "terrain",
+            "slug": "terrain",
+            "uri": "https://api.sketchfab.com/v3/tags/terrain"
+        },
+        {
+            "name": "cherry",
+            "slug": "cherry",
+            "uri": "https://api.sketchfab.com/v3/tags/cherry"
+        },
+        {
+            "name": "hill",
+            "slug": "hill",
+            "uri": "https://api.sketchfab.com/v3/tags/hill"
+        },
+        {
+            "name": "desert",
+            "slug": "desert",
+            "uri": "https://api.sketchfab.com/v3/tags/desert"
+        },
+        {
+            "name": "level",
+            "slug": "level",
+            "uri": "https://api.sketchfab.com/v3/tags/level"
+        },
+        {
+            "name": "ground",
+            "slug": "ground",
+            "uri": "https://api.sketchfab.com/v3/tags/ground"
+        },
+        {
+            "name": "pack",
+            "slug": "pack",
+            "uri": "https://api.sketchfab.com/v3/tags/pack"
+        },
+        {
+            "name": "hybrid",
+            "slug": "hybrid",
+            "uri": "https://api.sketchfab.com/v3/tags/hybrid"
+        },
+        {
+            "name": "map",
+            "slug": "map",
+            "uri": "https://api.sketchfab.com/v3/tags/map"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        },
+        {
+            "name": "dry",
+            "slug": "dry",
+            "uri": "https://api.sketchfab.com/v3/tags/dry"
+        },
+        {
+            "name": "Coconut",
+            "slug": "coconut",
+            "uri": "https://api.sketchfab.com/v3/tags/coconut"
+        },
+        {
+            "name": "Poison",
+            "slug": "poison",
+            "uri": "https://api.sketchfab.com/v3/tags/poison"
+        },
+        {
+            "name": "peach",
+            "slug": "peach",
+            "uri": "https://api.sketchfab.com/v3/tags/peach"
+        },
+        {
+            "name": "skybox",
+            "slug": "skybox",
+            "uri": "https://api.sketchfab.com/v3/tags/skybox"
+        },
+        {
+            "name": "Blossom",
+            "slug": "blossom",
+            "uri": "https://api.sketchfab.com/v3/tags/blossom"
+        },
+        {
+            "name": "evironment",
+            "slug": "evironment",
+            "uri": "https://api.sketchfab.com/v3/tags/evironment"
+        },
+        {
+            "name": "pinetree",
+            "slug": "pinetree",
+            "uri": "https://api.sketchfab.com/v3/tags/pinetree"
+        },
+        {
+            "name": "coconino-forest",
+            "slug": "coconino-forest",
+            "uri": "https://api.sketchfab.com/v3/tags/coconino-forest"
+        },
+        {
+            "name": "baobab",
+            "slug": "baobab",
+            "uri": "https://api.sketchfab.com/v3/tags/baobab"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "plane",
+            "slug": "plane",
+            "uri": "https://api.sketchfab.com/v3/tags/plane"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "cactus-plant",
+            "slug": "cactus-plant",
+            "uri": "https://api.sketchfab.com/v3/tags/cactus-plant"
+        },
+        {
+            "name": "hypercasual",
+            "slug": "hypercasual",
+            "uri": "https://api.sketchfab.com/v3/tags/hypercasual"
+        },
+        {
+            "name": "maple-tree",
+            "slug": "maple-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/maple-tree"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "08df2994467643caaf2facf43720e8f1",
+                "width": 1920,
+                "height": 1080,
+                "size": 495690,
+                "url": "https://media.sketchfab.com/models/3ff9b2d3708b4864b494858a70f0cc86/thumbnails/f0993a63efe149b4bef7464a91846bac/dedb5425ddc240c2866d14cdd91fd73d.jpeg"
+            },
+            {
+                "uid": "c8bb391d5e28411d901cf97414a9515e",
+                "width": 1024,
+                "height": 576,
+                "size": 81519,
+                "url": "https://media.sketchfab.com/models/3ff9b2d3708b4864b494858a70f0cc86/thumbnails/f0993a63efe149b4bef7464a91846bac/f97ccf58a82b450eaac8a42ff22202c7.jpeg"
+            },
+            {
+                "uid": "91a815d813814319b5653e3aac928ecd",
+                "width": 720,
+                "height": 405,
+                "size": 46072,
+                "url": "https://media.sketchfab.com/models/3ff9b2d3708b4864b494858a70f0cc86/thumbnails/f0993a63efe149b4bef7464a91846bac/d931985b640445e3be573c56a3139b7b.jpeg"
+            },
+            {
+                "uid": "5e6c5d90869047d68f86ed72d99e7490",
+                "width": 256,
+                "height": 144,
+                "size": 10286,
+                "url": "https://media.sketchfab.com/models/3ff9b2d3708b4864b494858a70f0cc86/thumbnails/f0993a63efe149b4bef7464a91846bac/b52c8e79cb6a4c29bc8898e50ef8e809.jpeg"
+            },
+            {
+                "uid": "70802bbd9798455e996c2681433a0a5b",
+                "width": 64,
+                "height": 36,
+                "size": 1689,
+                "url": "https://media.sketchfab.com/models/3ff9b2d3708b4864b494858a70f0cc86/thumbnails/f0993a63efe149b4bef7464a91846bac/a4659bb25a4d4204ace11b52d52919ed.jpeg"
+            }
+        ]
+    },
+    "uid": "3ff9b2d3708b4864b494858a70f0cc86",
+    "uri": "https://api.sketchfab.com/v3/models/3ff9b2d3708b4864b494858a70f0cc86",
+    "user": {
+        "uid": "a26794a577c7451fb5abad4ba587c138",
+        "username": "polyone",
+        "displayName": "PolyOne Studio",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/polyone",
+        "avatar": {
+            "uid": "8a366ffd36d44573a5f2727c55d24828",
+            "uri": "https://api.sketchfab.com/v3/avatars/8a366ffd36d44573a5f2727c55d24828",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1426,
+                    "url": "https://media.sketchfab.com/avatars/8a366ffd36d44573a5f2727c55d24828/b1e57275dc9945a49b10165a384392d6.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2428,
+                    "url": "https://media.sketchfab.com/avatars/8a366ffd36d44573a5f2727c55d24828/9acb80fdc583477b9d4e121aa0cb1197.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5520,
+                    "url": "https://media.sketchfab.com/avatars/8a366ffd36d44573a5f2727c55d24828/6852f1668b5646dc8863901c038a166f.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6261,
+                    "url": "https://media.sketchfab.com/avatars/8a366ffd36d44573a5f2727c55d24828/5ded56530b1a41b4aa00ea0c3b3289e3.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a26794a577c7451fb5abad4ba587c138"
+    },
+    "vertexCount": 11322,
+    "viewCount": 85,
+    "viewerUrl": "https://sketchfab.com/3d-models/environment-pack-mushroom-3ff9b2d3708b4864b494858a70f0cc86",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "# Hi everyone,\n**Introducing to you the 20 mushroom Lowpoly Set to give to you. With a stylized style of low polygon mushrooms, meticulously crafted, it will definitely add style to your work.**\n\n**This collection is the perfect addition to elevate your project, adding a realistic and mysterious touch. Designed in a fresh low polygon style. I look forward to accompanying you on your creative journey.**\n\n**Features:**\n\n1. Low-poly & Optimized: 10 tris to 1k tris per asset, perfect for real-time use\n2. High-Quality Textures: 4K Base Color maps included\n3. Clean UV Mapping: Well-optimized for seamless texturing\n4. Game-Ready: Works with Unreal Engine, Unity, and more\n5. Organized Files: Each asset is neatly arranged for easy use\n\n**Package description:**\n\n*  20 mode Mushroom ( 22k1 tris )\n*  1 full color texture ( 4k )\n\n# Contact me for support. Hope to receive feedback from everyone. Thank you very much.",
+    "price": null,
+    "downloadCount": 39,
+    "editorUrl": "https://sketchfab.com/models/3ff9b2d3708b4864b494858a70f0cc86/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T12:22:49.793818",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

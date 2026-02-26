@@ -1,0 +1,180 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2024-12-22T08:07:15.439392",
+    "embedUrl": "https://sketchfab.com/models/04bd1d55c9c64b07a6dac70c0ca04b7c/embed",
+    "faceCount": 5310,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Modular Stylized French Building",
+    "publishedAt": "2024-12-22T08:15:31.673100",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "stylized-environment",
+            "slug": "stylized-environment",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-environment"
+        },
+        {
+            "name": "modular-assets",
+            "slug": "modular-assets",
+            "uri": "https://api.sketchfab.com/v3/tags/modular-assets"
+        },
+        {
+            "name": "hand-painted",
+            "slug": "hand-painted",
+            "uri": "https://api.sketchfab.com/v3/tags/hand-painted"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "village",
+            "slug": "village",
+            "uri": "https://api.sketchfab.com/v3/tags/village"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e8da7d3b0249483595109b12326d2d4e",
+                "width": 1920,
+                "height": 1080,
+                "size": 86252,
+                "url": "https://media.sketchfab.com/models/04bd1d55c9c64b07a6dac70c0ca04b7c/thumbnails/9af4aa32e7c143c3ab0f3780879e6af5/4066d850dd364d96b428edbd47572cc9.jpeg"
+            },
+            {
+                "uid": "f88f5d3a16604f488cdd81f12611ea7e",
+                "width": 1024,
+                "height": 576,
+                "size": 28284,
+                "url": "https://media.sketchfab.com/models/04bd1d55c9c64b07a6dac70c0ca04b7c/thumbnails/9af4aa32e7c143c3ab0f3780879e6af5/3987bd02d35c446a89aaf76343c30963.jpeg"
+            },
+            {
+                "uid": "892c92446739413f89859f79dfda2eb5",
+                "width": 720,
+                "height": 405,
+                "size": 16120,
+                "url": "https://media.sketchfab.com/models/04bd1d55c9c64b07a6dac70c0ca04b7c/thumbnails/9af4aa32e7c143c3ab0f3780879e6af5/ec685d5f774e494fbb264871f9772b4a.jpeg"
+            },
+            {
+                "uid": "f0d8901d4bed4d58808759a332003c34",
+                "width": 256,
+                "height": 144,
+                "size": 3368,
+                "url": "https://media.sketchfab.com/models/04bd1d55c9c64b07a6dac70c0ca04b7c/thumbnails/9af4aa32e7c143c3ab0f3780879e6af5/77337a1f4fa14c008fc126c50a009353.jpeg"
+            },
+            {
+                "uid": "099472ab71d647eda0470fe52ab9c125",
+                "width": 64,
+                "height": 36,
+                "size": 960,
+                "url": "https://media.sketchfab.com/models/04bd1d55c9c64b07a6dac70c0ca04b7c/thumbnails/9af4aa32e7c143c3ab0f3780879e6af5/8c66856c02d449cb97f5565f26ea5e0c.jpeg"
+            }
+        ]
+    },
+    "uid": "04bd1d55c9c64b07a6dac70c0ca04b7c",
+    "uri": "https://api.sketchfab.com/v3/models/04bd1d55c9c64b07a6dac70c0ca04b7c",
+    "user": {
+        "uid": "1563fb2da27e402db3ca33de82b15b1b",
+        "username": "shivy1104",
+        "displayName": "shivy1104",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/shivy1104",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1563fb2da27e402db3ca33de82b15b1b"
+    },
+    "vertexCount": 4519,
+    "viewCount": 110,
+    "viewerUrl": "https://sketchfab.com/3d-models/modular-stylized-french-building-04bd1d55c9c64b07a6dac70c0ca04b7c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Stylized French Town Environment is inspired by Studio Ghibli movies and Traditional French/German wooden houses. The variety of modular assets in this pack can help you create a unique and fairytale game world.\n\nTexture: 2048 x 2048 pixel\n\n[Colmar Fairytale Town- Modular Stylized French Town Environment](http://www.fab.com/listings/555f8149-ba8e-40b0-87e4-6a008f3c6be1)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/04bd1d55c9c64b07a6dac70c0ca04b7c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2024-12-22T08:15:31.970627",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 4
+}

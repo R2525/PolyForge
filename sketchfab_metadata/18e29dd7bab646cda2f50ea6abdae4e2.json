@@ -1,0 +1,271 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+            "name": "Places & Travel",
+            "slug": "places-travel",
+            "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T22:09:03.719270",
+    "embedUrl": "https://sketchfab.com/models/18e29dd7bab646cda2f50ea6abdae4e2/embed",
+    "faceCount": 11570,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 9,
+    "name": "Urban Trash Bins Pack Street & Park Waste",
+    "publishedAt": "2026-02-18T22:24:02.990786",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "trash",
+            "slug": "trash",
+            "uri": "https://api.sketchfab.com/v3/tags/trash"
+        },
+        {
+            "name": "park",
+            "slug": "park",
+            "uri": "https://api.sketchfab.com/v3/tags/park"
+        },
+        {
+            "name": "waste",
+            "slug": "waste",
+            "uri": "https://api.sketchfab.com/v3/tags/waste"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "Bin",
+            "slug": "bin",
+            "uri": "https://api.sketchfab.com/v3/tags/bin"
+        },
+        {
+            "name": "indiegame",
+            "slug": "indiegame",
+            "uri": "https://api.sketchfab.com/v3/tags/indiegame"
+        },
+        {
+            "name": "indiedev",
+            "slug": "indiedev",
+            "uri": "https://api.sketchfab.com/v3/tags/indiedev"
+        },
+        {
+            "name": "unrealengine",
+            "slug": "unrealengine",
+            "uri": "https://api.sketchfab.com/v3/tags/unrealengine"
+        },
+        {
+            "name": "horrorgame",
+            "slug": "horrorgame",
+            "uri": "https://api.sketchfab.com/v3/tags/horrorgame"
+        },
+        {
+            "name": "indiegamedev",
+            "slug": "indiegamedev",
+            "uri": "https://api.sketchfab.com/v3/tags/indiegamedev"
+        },
+        {
+            "name": "mobile-ready",
+            "slug": "mobile-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/mobile-ready"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "street",
+            "slug": "street",
+            "uri": "https://api.sketchfab.com/v3/tags/street"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        },
+        {
+            "name": "container",
+            "slug": "container",
+            "uri": "https://api.sketchfab.com/v3/tags/container"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "dca5e16b47ec44e8a9459e853a5b2c27",
+                "width": 1920,
+                "height": 1080,
+                "size": 241841,
+                "url": "https://media.sketchfab.com/models/18e29dd7bab646cda2f50ea6abdae4e2/thumbnails/000710a07e9347c6a2014b62af673489/e51eb2fdee244e31bd33b936ffeed49b.jpeg"
+            },
+            {
+                "uid": "0fc3ba6053ec48a78b1ba1849e92ef96",
+                "width": 1024,
+                "height": 576,
+                "size": 58292,
+                "url": "https://media.sketchfab.com/models/18e29dd7bab646cda2f50ea6abdae4e2/thumbnails/000710a07e9347c6a2014b62af673489/3ed5776f85964585898e54d297ba9e27.jpeg"
+            },
+            {
+                "uid": "4a43ed9686104e4496df277c4fd2916a",
+                "width": 720,
+                "height": 405,
+                "size": 30455,
+                "url": "https://media.sketchfab.com/models/18e29dd7bab646cda2f50ea6abdae4e2/thumbnails/000710a07e9347c6a2014b62af673489/01f104c6a37c40de8fc6e31ad26a7a37.jpeg"
+            },
+            {
+                "uid": "c5e0a1bf9646463db07eb6f8b98a9a0a",
+                "width": 256,
+                "height": 144,
+                "size": 5230,
+                "url": "https://media.sketchfab.com/models/18e29dd7bab646cda2f50ea6abdae4e2/thumbnails/000710a07e9347c6a2014b62af673489/38f0269bb9ac47b0863085c31e7706fa.jpeg"
+            },
+            {
+                "uid": "3ba2e669b23c4746a2f38886ad035c35",
+                "width": 64,
+                "height": 36,
+                "size": 1080,
+                "url": "https://media.sketchfab.com/models/18e29dd7bab646cda2f50ea6abdae4e2/thumbnails/000710a07e9347c6a2014b62af673489/ebb573dcd7c24c9a9f64f41af8b47972.jpeg"
+            }
+        ]
+    },
+    "uid": "18e29dd7bab646cda2f50ea6abdae4e2",
+    "uri": "https://api.sketchfab.com/v3/models/18e29dd7bab646cda2f50ea6abdae4e2",
+    "user": {
+        "uid": "dc29808ae8af4f0ea7e047aca6420c15",
+        "username": "kurmanin",
+        "displayName": "Alexander Kurmanin",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kurmanin",
+        "avatar": {
+            "uid": "b6d25f285db04f59923a4c0f694e2882",
+            "uri": "https://api.sketchfab.com/v3/avatars/b6d25f285db04f59923a4c0f694e2882",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1132,
+                    "url": "https://media.sketchfab.com/avatars/b6d25f285db04f59923a4c0f694e2882/2af5ca875e224795a8d70d93aae61926.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1590,
+                    "url": "https://media.sketchfab.com/avatars/b6d25f285db04f59923a4c0f694e2882/db1c6ba168ab426e8e4a86246fd89350.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3739,
+                    "url": "https://media.sketchfab.com/avatars/b6d25f285db04f59923a4c0f694e2882/6c2a6c2d066d44209dcd5963ff7ed937.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4338,
+                    "url": "https://media.sketchfab.com/avatars/b6d25f285db04f59923a4c0f694e2882/95463fa7de2f427cb5ada7e196d55962.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc29808ae8af4f0ea7e047aca6420c15"
+    },
+    "vertexCount": 6365,
+    "viewCount": 73,
+    "viewerUrl": "https://sketchfab.com/3d-models/urban-trash-bins-pack-street-park-waste-18e29dd7bab646cda2f50ea6abdae4e2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "**You can support me and get this model on FAB for FREE with hi-res textures**\nhttps://fab.com/s/9ec0fd5d44b4\n\nBring your environment to life!\n\nWhat could be at the bottom of the bin? Maybe a hidden key or a vital clue? It’s up to you- just take these models and tell your story through them\n\nTechnical Excellence:\n-Production-Ready: Fully optimized geometry, clean UVs, and high-quality textures\n\n-True-to-Scale: All models are scaled to the standard MetaHuman, ensuring perfect proportions in your world\n\n-Game-Ready: Balanced polycount for smooth performance in real-time engines.\n\n*Please, credit me if you are using the free version of the model*",
+    "price": null,
+    "downloadCount": 28,
+    "editorUrl": "https://sketchfab.com/models/18e29dd7bab646cda2f50ea6abdae4e2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T08:24:52.534284",
+    "pbrType": "metalness",
+    "textureCount": 25,
+    "materialCount": 6
+}

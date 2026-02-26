@@ -1,0 +1,41 @@
+{
+    "category": "Architecture",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.7
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Rusty"
+    ],
+    "tags": [
+        "platform",
+        "structure",
+        "rock"
+    ]
+}

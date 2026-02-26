@@ -1,0 +1,42 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Military",
+            "score": 0.7
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.75
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Clean"
+    ],
+    "tags": [
+        "sword",
+        "blade",
+        "weapon"
+    ]
+}

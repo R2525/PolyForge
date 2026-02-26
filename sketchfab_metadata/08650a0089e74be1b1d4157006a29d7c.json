@@ -1,0 +1,181 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T04:17:01.050843",
+    "embedUrl": "https://sketchfab.com/models/08650a0089e74be1b1d4157006a29d7c/embed",
+    "faceCount": 1250,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Winslow - MCSM",
+    "publishedAt": "2026-02-21T04:17:26.482347",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "enderman",
+            "slug": "enderman",
+            "uri": "https://api.sketchfab.com/v3/tags/enderman"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "mcsm",
+            "slug": "mcsm",
+            "uri": "https://api.sketchfab.com/v3/tags/mcsm"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2d0da2ab13cb4e8d8b1241afe9d76d51",
+                "width": 1920,
+                "height": 1080,
+                "size": 43274,
+                "url": "https://media.sketchfab.com/models/08650a0089e74be1b1d4157006a29d7c/thumbnails/ffb2c64ac44c4477bea3307e417645f5/bfd2073d588d478088154d7ed172e594.jpeg"
+            },
+            {
+                "uid": "08163cec22d9437591a354a408290582",
+                "width": 1024,
+                "height": 576,
+                "size": 14367,
+                "url": "https://media.sketchfab.com/models/08650a0089e74be1b1d4157006a29d7c/thumbnails/ffb2c64ac44c4477bea3307e417645f5/d08b4550978847d7b943c3213a1bf0d6.jpeg"
+            },
+            {
+                "uid": "04b20691491d46daa18872ffd3a6f2c4",
+                "width": 720,
+                "height": 405,
+                "size": 8166,
+                "url": "https://media.sketchfab.com/models/08650a0089e74be1b1d4157006a29d7c/thumbnails/ffb2c64ac44c4477bea3307e417645f5/a3d8ad875d2b4f8b94fecfa0693cd569.jpeg"
+            },
+            {
+                "uid": "aec1998221184f369dc3e4da787ac418",
+                "width": 256,
+                "height": 144,
+                "size": 1955,
+                "url": "https://media.sketchfab.com/models/08650a0089e74be1b1d4157006a29d7c/thumbnails/ffb2c64ac44c4477bea3307e417645f5/53364b6e1db245b085a29875695e7e3f.jpeg"
+            },
+            {
+                "uid": "186d86b15a534fc48d14f4a498822636",
+                "width": 64,
+                "height": 36,
+                "size": 860,
+                "url": "https://media.sketchfab.com/models/08650a0089e74be1b1d4157006a29d7c/thumbnails/ffb2c64ac44c4477bea3307e417645f5/1874013a074649a4b5a1a0e7223fc0b4.jpeg"
+            }
+        ]
+    },
+    "uid": "08650a0089e74be1b1d4157006a29d7c",
+    "uri": "https://api.sketchfab.com/v3/models/08650a0089e74be1b1d4157006a29d7c",
+    "user": {
+        "uid": "ec7347d907ac418aafc1eeca5fcacd32",
+        "username": "captainiskidnaped",
+        "displayName": "captain got kidnapped gobb 6 man",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/captainiskidnaped",
+        "avatar": {
+            "uid": "4bd77edc2c3c471eb70b614bf0abd034",
+            "uri": "https://api.sketchfab.com/v3/avatars/4bd77edc2c3c471eb70b614bf0abd034",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1990,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/ab23047d290e4591b47b0da650d1f639.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3596,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/8e63cc03600e46c09f53c248ee8bc794.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9585,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/0fec64b71df1470885743a9644239991.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10844,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/780d3df0223f436183df3606a31e3d01.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ec7347d907ac418aafc1eeca5fcacd32"
+    },
+    "vertexCount": 789,
+    "viewCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/winslow-mcsm-08650a0089e74be1b1d4157006a29d7c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "from mcsm",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/08650a0089e74be1b1d4157006a29d7c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T04:17:26.649955",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

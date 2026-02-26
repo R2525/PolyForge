@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-20T14:38:51.241877",
+    "embedUrl": "https://sketchfab.com/models/2fbdfdb347fc4b3ca470a3074b04317a/embed",
+    "faceCount": 1810,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "MarvelHeroes -  AIM Cannon",
+    "publishedAt": "2026-01-20T14:41:32.662381",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c3241870a37c45548be7c35247d3d00b",
+                "width": 1920,
+                "height": 1080,
+                "size": 161539,
+                "url": "https://media.sketchfab.com/models/2fbdfdb347fc4b3ca470a3074b04317a/thumbnails/e4f1081607d04350a27ea530327d0761/dd16e8b82b374676b38274eaedce2aeb.jpeg"
+            },
+            {
+                "uid": "fc19a406137744e3874f8ab704036b8b",
+                "width": 1024,
+                "height": 576,
+                "size": 44518,
+                "url": "https://media.sketchfab.com/models/2fbdfdb347fc4b3ca470a3074b04317a/thumbnails/e4f1081607d04350a27ea530327d0761/b8e98bbe93604edf99efd1471f17659d.jpeg"
+            },
+            {
+                "uid": "58894ebfdb7d441a96cbed58971ef023",
+                "width": 720,
+                "height": 405,
+                "size": 25462,
+                "url": "https://media.sketchfab.com/models/2fbdfdb347fc4b3ca470a3074b04317a/thumbnails/e4f1081607d04350a27ea530327d0761/cfc8289676464ac8af100a8d2e17ef78.jpeg"
+            },
+            {
+                "uid": "6ac628f963ce476ea60b5db9453857ed",
+                "width": 256,
+                "height": 144,
+                "size": 5447,
+                "url": "https://media.sketchfab.com/models/2fbdfdb347fc4b3ca470a3074b04317a/thumbnails/e4f1081607d04350a27ea530327d0761/50f4c1ee1c8a48b7a4128e24feb4ad70.jpeg"
+            },
+            {
+                "uid": "c04e65ac3d184ecf935283c534d4b6c8",
+                "width": 64,
+                "height": 36,
+                "size": 1199,
+                "url": "https://media.sketchfab.com/models/2fbdfdb347fc4b3ca470a3074b04317a/thumbnails/e4f1081607d04350a27ea530327d0761/233c47feb7bd4fe5a783f0184495bef7.jpeg"
+            }
+        ]
+    },
+    "uid": "2fbdfdb347fc4b3ca470a3074b04317a",
+    "uri": "https://api.sketchfab.com/v3/models/2fbdfdb347fc4b3ca470a3074b04317a",
+    "user": {
+        "uid": "39977adf964149c99a3dcde9513fde65",
+        "username": "Otherspectre",
+        "displayName": "Otherspectre",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Otherspectre",
+        "avatar": {
+            "uid": "49981f2f19e049109d9b56ec7025a5d8",
+            "uri": "https://api.sketchfab.com/v3/avatars/49981f2f19e049109d9b56ec7025a5d8",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1249,
+                    "url": "https://media.sketchfab.com/avatars/49981f2f19e049109d9b56ec7025a5d8/a9a3f9654a6e49db8514304ac93669bc.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1950,
+                    "url": "https://media.sketchfab.com/avatars/49981f2f19e049109d9b56ec7025a5d8/0c001d5b36ec4ae892e4c2555a415b44.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4726,
+                    "url": "https://media.sketchfab.com/avatars/49981f2f19e049109d9b56ec7025a5d8/631cecb61a2f48a4a8c04b0b1ece1867.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5546,
+                    "url": "https://media.sketchfab.com/avatars/49981f2f19e049109d9b56ec7025a5d8/7bdf69a7dd934a1f876ab6b1ec5ae078.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/39977adf964149c99a3dcde9513fde65"
+    },
+    "vertexCount": 909,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/marvelheroes-aim-cannon-2fbdfdb347fc4b3ca470a3074b04317a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Formats: FBX & XPS\n\nRigged Model\n\nModel By: Gazillion Entertainment and Secret Identity Studios\n\nConverted to XPS by: Xelandis\n\nConverted to FBX by: Otherspectre",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/2fbdfdb347fc4b3ca470a3074b04317a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-20T14:45:38.642070",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

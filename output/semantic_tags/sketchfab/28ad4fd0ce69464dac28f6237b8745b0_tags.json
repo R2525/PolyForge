@@ -1,0 +1,40 @@
+{
+    "category": "Electronics & Gadgets",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.7
+        },
+        {
+            "name": "Science & Technology",
+            "score": 0.65
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Modern",
+            "score": 0.9
+        },
+        {
+            "name": "Science & Technology",
+            "score": 0.8
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "bolt",
+        "screw",
+        "fastener"
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-04T18:25:24.738855",
+    "embedUrl": "https://sketchfab.com/models/40761395248b4b08be58e50b60a9e62b/embed",
+    "faceCount": 424,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Hoopa",
+    "publishedAt": "2026-02-04T18:39:43.945465",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "878ddf38c6ba4b91928cc7f0bbd2c553",
+                "width": 1920,
+                "height": 1080,
+                "size": 65144,
+                "url": "https://media.sketchfab.com/models/40761395248b4b08be58e50b60a9e62b/thumbnails/3733bdc9f9844e868e0270224b6f7be6/56bb2c2b9217447ca7dc57b6746f9030.jpeg"
+            },
+            {
+                "uid": "aeb32ff7857f4332ba7190fde857fc3a",
+                "width": 1024,
+                "height": 576,
+                "size": 24381,
+                "url": "https://media.sketchfab.com/models/40761395248b4b08be58e50b60a9e62b/thumbnails/3733bdc9f9844e868e0270224b6f7be6/02ee336a1a0e47a983c6cd72fd74f7a2.jpeg"
+            },
+            {
+                "uid": "f32638060d174889bac5c0797129dd0c",
+                "width": 720,
+                "height": 405,
+                "size": 15518,
+                "url": "https://media.sketchfab.com/models/40761395248b4b08be58e50b60a9e62b/thumbnails/3733bdc9f9844e868e0270224b6f7be6/f70b46fd88384647acb647f512d76f00.jpeg"
+            },
+            {
+                "uid": "45dd868f7f8f46e9b8408ae0524e921d",
+                "width": 256,
+                "height": 144,
+                "size": 3710,
+                "url": "https://media.sketchfab.com/models/40761395248b4b08be58e50b60a9e62b/thumbnails/3733bdc9f9844e868e0270224b6f7be6/62d39ad00b1e460eb4b5b474d0ec9736.jpeg"
+            },
+            {
+                "uid": "41678860c2a841afaebf16408dbdce31",
+                "width": 64,
+                "height": 36,
+                "size": 1073,
+                "url": "https://media.sketchfab.com/models/40761395248b4b08be58e50b60a9e62b/thumbnails/3733bdc9f9844e868e0270224b6f7be6/e7abc016533c40b2b839752c27f7c6ab.jpeg"
+            }
+        ]
+    },
+    "uid": "40761395248b4b08be58e50b60a9e62b",
+    "uri": "https://api.sketchfab.com/v3/models/40761395248b4b08be58e50b60a9e62b",
+    "user": {
+        "uid": "01f060d4acb64aac99c6fd88d5328dd3",
+        "username": "broken980captain",
+        "displayName": "broken980captain",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/broken980captain",
+        "avatar": {
+            "uid": "b7d4197577894237a3c390eabcd87f3a",
+            "uri": "https://api.sketchfab.com/v3/avatars/b7d4197577894237a3c390eabcd87f3a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1400,
+                    "url": "https://media.sketchfab.com/avatars/b7d4197577894237a3c390eabcd87f3a/67e59a633e174dc98b684bd233c3777b.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2357,
+                    "url": "https://media.sketchfab.com/avatars/b7d4197577894237a3c390eabcd87f3a/69d47ce05741424bb6dacb070a6a5303.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4882,
+                    "url": "https://media.sketchfab.com/avatars/b7d4197577894237a3c390eabcd87f3a/f789dcde0a384ba58c8daa9014f053f6.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5512,
+                    "url": "https://media.sketchfab.com/avatars/b7d4197577894237a3c390eabcd87f3a/b20ec5eedbce412c924954a8cdfab7be.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/01f060d4acb64aac99c6fd88d5328dd3"
+    },
+    "vertexCount": 272,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/hoopa-40761395248b4b08be58e50b60a9e62b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "720 - Hoopa - The Mischeif Pokemon - This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/40761395248b4b08be58e50b60a9e62b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-04T18:44:48.453181",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

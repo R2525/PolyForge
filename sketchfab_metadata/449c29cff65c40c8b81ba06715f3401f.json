@@ -1,0 +1,171 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-17T01:48:57.736256",
+    "embedUrl": "https://sketchfab.com/models/449c29cff65c40c8b81ba06715f3401f/embed",
+    "faceCount": 680278,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 6,
+    "name": "Angry Birds Star Wars Boba Fett Pig",
+    "publishedAt": "2025-12-17T01:55:52.293303",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "angrybirds",
+            "slug": "angrybirds",
+            "uri": "https://api.sketchfab.com/v3/tags/angrybirds"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cd725c48c20f445bb18b0b9cee380703",
+                "width": 1920,
+                "height": 1080,
+                "size": 74674,
+                "url": "https://media.sketchfab.com/models/449c29cff65c40c8b81ba06715f3401f/thumbnails/3ddc33e6a1874bc193c147bead8bc369/6ecb06cf99c54095bd8dd00f6ff146d1.jpeg"
+            },
+            {
+                "uid": "b60452d340a744c2908090ed5fb36943",
+                "width": 1024,
+                "height": 576,
+                "size": 25185,
+                "url": "https://media.sketchfab.com/models/449c29cff65c40c8b81ba06715f3401f/thumbnails/3ddc33e6a1874bc193c147bead8bc369/e14e7635c7424e8da6f7030696a0ddce.jpeg"
+            },
+            {
+                "uid": "5766a2f9c81d4fe3a437c7b0b49ac807",
+                "width": 720,
+                "height": 405,
+                "size": 14797,
+                "url": "https://media.sketchfab.com/models/449c29cff65c40c8b81ba06715f3401f/thumbnails/3ddc33e6a1874bc193c147bead8bc369/ed2cde25f29f4f9fa0c845540679069c.jpeg"
+            },
+            {
+                "uid": "83dbc8da6e68498fb329aec8831f4976",
+                "width": 256,
+                "height": 144,
+                "size": 3328,
+                "url": "https://media.sketchfab.com/models/449c29cff65c40c8b81ba06715f3401f/thumbnails/3ddc33e6a1874bc193c147bead8bc369/dd2de59ae3f64606b4503915db0980bd.jpeg"
+            },
+            {
+                "uid": "ab365c976a6440c6b94121574266f18a",
+                "width": 64,
+                "height": 36,
+                "size": 939,
+                "url": "https://media.sketchfab.com/models/449c29cff65c40c8b81ba06715f3401f/thumbnails/3ddc33e6a1874bc193c147bead8bc369/67cf600bf37649799550c7ffa7469ded.jpeg"
+            }
+        ]
+    },
+    "uid": "449c29cff65c40c8b81ba06715f3401f",
+    "uri": "https://api.sketchfab.com/v3/models/449c29cff65c40c8b81ba06715f3401f",
+    "user": {
+        "uid": "4682d22f50a6403a8ec7112eef3feb3d",
+        "username": "Mya2",
+        "displayName": "Rogers",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Mya2",
+        "avatar": {
+            "uid": "d0aef83128fc4ad495dcab52e4558d45",
+            "uri": "https://api.sketchfab.com/v3/avatars/d0aef83128fc4ad495dcab52e4558d45",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1126,
+                    "url": "https://media.sketchfab.com/avatars/d0aef83128fc4ad495dcab52e4558d45/ccdabfff4e1a4035921f5ed7dcb7cb28.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1557,
+                    "url": "https://media.sketchfab.com/avatars/d0aef83128fc4ad495dcab52e4558d45/1075ae598bc64a84983d563d944366bd.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2909,
+                    "url": "https://media.sketchfab.com/avatars/d0aef83128fc4ad495dcab52e4558d45/a78623b246504dcb83373dc26210b447.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3326,
+                    "url": "https://media.sketchfab.com/avatars/d0aef83128fc4ad495dcab52e4558d45/c301aae0a04547a3a1061a38810ce809.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4682d22f50a6403a8ec7112eef3feb3d"
+    },
+    "vertexCount": 340176,
+    "viewCount": 300,
+    "viewerUrl": "https://sketchfab.com/3d-models/angry-birds-star-wars-boba-fett-pig-449c29cff65c40c8b81ba06715f3401f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 26,
+    "editorUrl": "https://sketchfab.com/models/449c29cff65c40c8b81ba06715f3401f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-17T01:55:52.386088",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,190 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-28T11:03:37.396388",
+    "embedUrl": "https://sketchfab.com/models/02464670597344eca341757a59e4aeb5/embed",
+    "faceCount": 264808,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Stylized Lush Voxel Oak Tree",
+    "publishedAt": "2026-01-28T11:05:55.780557",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "plant",
+            "slug": "plant",
+            "uri": "https://api.sketchfab.com/v3/tags/plant"
+        },
+        {
+            "name": "maple",
+            "slug": "maple",
+            "uri": "https://api.sketchfab.com/v3/tags/maple"
+        },
+        {
+            "name": "oak",
+            "slug": "oak",
+            "uri": "https://api.sketchfab.com/v3/tags/oak"
+        },
+        {
+            "name": "trunk",
+            "slug": "trunk",
+            "uri": "https://api.sketchfab.com/v3/tags/trunk"
+        },
+        {
+            "name": "cozy",
+            "slug": "cozy",
+            "uri": "https://api.sketchfab.com/v3/tags/cozy"
+        },
+        {
+            "name": "canopy",
+            "slug": "canopy",
+            "uri": "https://api.sketchfab.com/v3/tags/canopy"
+        },
+        {
+            "name": "botanical",
+            "slug": "botanical",
+            "uri": "https://api.sketchfab.com/v3/tags/botanical"
+        },
+        {
+            "name": "lush",
+            "slug": "lush",
+            "uri": "https://api.sketchfab.com/v3/tags/lush"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f16a8a70601448878904a91c6321e4b4",
+                "width": 1920,
+                "height": 1080,
+                "size": 143966,
+                "url": "https://media.sketchfab.com/models/02464670597344eca341757a59e4aeb5/thumbnails/3992cae599374747a79991a66e59e106/59d250339aeb477c82b485fd7e4ecb85.jpeg"
+            },
+            {
+                "uid": "01f4727793cc42d88f64fe1d3e644826",
+                "width": 1024,
+                "height": 576,
+                "size": 50636,
+                "url": "https://media.sketchfab.com/models/02464670597344eca341757a59e4aeb5/thumbnails/3992cae599374747a79991a66e59e106/5c601f406e4040f3be04cb6a717eda87.jpeg"
+            },
+            {
+                "uid": "8bf5691ba6b5449da84909d95a3a4e4b",
+                "width": 720,
+                "height": 405,
+                "size": 29288,
+                "url": "https://media.sketchfab.com/models/02464670597344eca341757a59e4aeb5/thumbnails/3992cae599374747a79991a66e59e106/83ce68c578c244128e5351611b72f487.jpeg"
+            },
+            {
+                "uid": "18038c5085e644d09bbfdd3a95e0bc32",
+                "width": 256,
+                "height": 144,
+                "size": 5798,
+                "url": "https://media.sketchfab.com/models/02464670597344eca341757a59e4aeb5/thumbnails/3992cae599374747a79991a66e59e106/987de105aab342c1a4ecc875e4ea8222.jpeg"
+            },
+            {
+                "uid": "b69e3194a4184f55800e5ff938b5ce3f",
+                "width": 64,
+                "height": 36,
+                "size": 1167,
+                "url": "https://media.sketchfab.com/models/02464670597344eca341757a59e4aeb5/thumbnails/3992cae599374747a79991a66e59e106/227afcb947f94be3aa32bee354301bb3.jpeg"
+            }
+        ]
+    },
+    "uid": "02464670597344eca341757a59e4aeb5",
+    "uri": "https://api.sketchfab.com/v3/models/02464670597344eca341757a59e4aeb5",
+    "user": {
+        "uid": "13b6c6803e0d45c38ced24fd5859b38d",
+        "username": "zirconium",
+        "displayName": "Zirconium 3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/zirconium",
+        "avatar": {
+            "uid": "249ac9a2f1eb4424a74dc4ed7bf42494",
+            "uri": "https://api.sketchfab.com/v3/avatars/249ac9a2f1eb4424a74dc4ed7bf42494",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1751,
+                    "url": "https://media.sketchfab.com/avatars/249ac9a2f1eb4424a74dc4ed7bf42494/072bb9cf88354cfa8c8c2855666a7b1f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2838,
+                    "url": "https://media.sketchfab.com/avatars/249ac9a2f1eb4424a74dc4ed7bf42494/10b920996ff14e0eaf6bcb0d5eb248ca.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5969,
+                    "url": "https://media.sketchfab.com/avatars/249ac9a2f1eb4424a74dc4ed7bf42494/a64ac1eac43c40f2b465eb24657ffc50.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6129,
+                    "url": "https://media.sketchfab.com/avatars/249ac9a2f1eb4424a74dc4ed7bf42494/0ddfd5dd37e649658b07a4c56f1a5999.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/13b6c6803e0d45c38ced24fd5859b38d"
+    },
+    "vertexCount": 143790,
+    "viewCount": 25,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-lush-voxel-oak-tree-02464670597344eca341757a59e4aeb5",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Stylized Lush Voxel Oak Tree\n\nA high-quality voxel model features a dense, rounded canopy composed of varying shades of green, giving it a natural, textured appearance despite its cubic structure. The trunk and branches are intricately detailed with earthy tan and brown tones, extending into a sturdy base. The model captures the essence of a majestic oak or maple tree in a charming, retro-modern 3D pixel-art style.\n\nKey Features:Art Style: Professional voxel (volumetric pixel) art.Color Palette: A vibrant range of forest greens, lime accents, and organic wood tones.Geometry: Clean, block-based structure optimized for performance in stylized game engines.Atmosphere: Perfect for bright, whimsical, or cozy game worlds (similar to Minecraft, Roblox, or Cube World).Versatility: Ideal for use as a hero asset in a park, forest, or garden environment.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/02464670597344eca341757a59e4aeb5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-28T11:08:08.873791",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

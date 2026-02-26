@@ -1,0 +1,45 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Polished",
+        "Mossy"
+    ],
+    "tags": [
+        "antique",
+        "dagger",
+        "historical",
+        "military",
+        "weapon",
+        "metal",
+        "old",
+        "noble"
+    ],
+    "model_id_full": "27dfd83b2b3b45c7b803fde577baf981_Antique Dagger",
+    "sketchfab_id": "27dfd83b2b3b45c7b803fde577baf981",
+    "asset_name": "Antique Dagger"
+}

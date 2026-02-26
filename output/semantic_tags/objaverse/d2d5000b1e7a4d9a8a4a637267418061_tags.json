@@ -1,0 +1,36 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.8
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.5
+        },
+        {
+            "name": "Stylized",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "chair",
+        "furniture",
+        "3D model"
+    ]
+}

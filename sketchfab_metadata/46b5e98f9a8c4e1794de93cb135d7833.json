@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T03:04:05.977132",
+    "embedUrl": "https://sketchfab.com/models/46b5e98f9a8c4e1794de93cb135d7833/embed",
+    "faceCount": 8668,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Alien Bust",
+    "publishedAt": "2026-02-20T03:05:08.952792",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "scary",
+            "slug": "scary",
+            "uri": "https://api.sketchfab.com/v3/tags/scary"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "alien",
+            "slug": "alien",
+            "uri": "https://api.sketchfab.com/v3/tags/alien"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "bust",
+            "slug": "bust",
+            "uri": "https://api.sketchfab.com/v3/tags/bust"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "skin",
+            "slug": "skin",
+            "uri": "https://api.sketchfab.com/v3/tags/skin"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "bc51a72bd97f4e24849acc7e4a2b0810",
+                "width": 1920,
+                "height": 1080,
+                "size": 68165,
+                "url": "https://media.sketchfab.com/models/46b5e98f9a8c4e1794de93cb135d7833/thumbnails/302df9a47f114da49b6ae5dcca1361bd/bacbed60f2394e3c85927717e681760e.jpeg"
+            },
+            {
+                "uid": "3fdaaa13033d4f8eaeb8df8ae84eeb3b",
+                "width": 1024,
+                "height": 576,
+                "size": 21350,
+                "url": "https://media.sketchfab.com/models/46b5e98f9a8c4e1794de93cb135d7833/thumbnails/302df9a47f114da49b6ae5dcca1361bd/54ed4961a71a4222824fb568172d074a.jpeg"
+            },
+            {
+                "uid": "181296671a2741668a3b503fc2ac9c2a",
+                "width": 720,
+                "height": 405,
+                "size": 12003,
+                "url": "https://media.sketchfab.com/models/46b5e98f9a8c4e1794de93cb135d7833/thumbnails/302df9a47f114da49b6ae5dcca1361bd/885f70d365e24a9494a22bd794fb9728.jpeg"
+            },
+            {
+                "uid": "f7fa97f663d942dd94fbc43d7246edf1",
+                "width": 256,
+                "height": 144,
+                "size": 2842,
+                "url": "https://media.sketchfab.com/models/46b5e98f9a8c4e1794de93cb135d7833/thumbnails/302df9a47f114da49b6ae5dcca1361bd/c331a869195143e99b25d1990535f6a4.jpeg"
+            },
+            {
+                "uid": "59aa2364ba1148639857c1d589a82d1c",
+                "width": 64,
+                "height": 36,
+                "size": 968,
+                "url": "https://media.sketchfab.com/models/46b5e98f9a8c4e1794de93cb135d7833/thumbnails/302df9a47f114da49b6ae5dcca1361bd/05f620822d1e4573b2328fdacb12f5f3.jpeg"
+            }
+        ]
+    },
+    "uid": "46b5e98f9a8c4e1794de93cb135d7833",
+    "uri": "https://api.sketchfab.com/v3/models/46b5e98f9a8c4e1794de93cb135d7833",
+    "user": {
+        "uid": "c1d1305f28074800a643ced6784dace6",
+        "username": "dmac8977",
+        "displayName": "dmac8977",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/dmac8977",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c1d1305f28074800a643ced6784dace6"
+    },
+    "vertexCount": 4336,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/alien-bust-46b5e98f9a8c4e1794de93cb135d7833",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/46b5e98f9a8c4e1794de93cb135d7833/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "SubstancePainter",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T03:05:49.026153",
+    "pbrType": null,
+    "textureCount": null,
+    "materialCount": 1
+}

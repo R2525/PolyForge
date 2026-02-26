@@ -1,0 +1,69 @@
+{
+    "category": "Cultural Heritage & History",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Medieval",
+            "score": 0.8
+        },
+        {
+            "name": "Historical Artifact",
+            "score": 0.7
+        },
+        {
+            "name": "Rustic",
+            "score": 0.6
+        },
+        {
+            "name": "Gothic",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient Artifact",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        },
+        {
+            "name": "Historical",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Weathered",
+        "Corroded",
+        "Mossy",
+        "Dusty"
+    ],
+    "tags": [
+        "medieval",
+        "padlock",
+        "ancient",
+        "rusty",
+        "artifact",
+        "historical",
+        "cultural",
+        "lock"
+    ],
+    "model_id_full": "199a981645c44659a6da4f14d0f84847_ESS-D91ACC Medieval Padlock",
+    "sketchfab_id": "199a981645c44659a6da4f14d0f84847",
+    "asset_name": "ESS-D91ACC Medieval Padlock"
+}

@@ -1,0 +1,145 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T15:05:14.559170",
+    "embedUrl": "https://sketchfab.com/models/2423b4d3c42e4307b56537169c5e507b/embed",
+    "faceCount": 3035416,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Spiderr-man with Black cat",
+    "publishedAt": "2026-02-18T15:12:56.564427",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "spider-man",
+            "slug": "spider-man",
+            "uri": "https://api.sketchfab.com/v3/tags/spider-man"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c81cacc9efb74e8090b1bc86dc0ee371",
+                "width": 1920,
+                "height": 1080,
+                "size": 343207,
+                "url": "https://media.sketchfab.com/models/2423b4d3c42e4307b56537169c5e507b/thumbnails/2472a6dd385a4e19914b8c77e0ffcab6/32917dcda00d49a2b92c18f7819c5365.jpeg"
+            },
+            {
+                "uid": "ca4736eb43ed4cfa93ee58ed17e6fc03",
+                "width": 1024,
+                "height": 576,
+                "size": 61864,
+                "url": "https://media.sketchfab.com/models/2423b4d3c42e4307b56537169c5e507b/thumbnails/2472a6dd385a4e19914b8c77e0ffcab6/203806e6811244aa85bdf745826f99ee.jpeg"
+            },
+            {
+                "uid": "ec8cac0e03d74ff6baf3bdd23718e9c4",
+                "width": 720,
+                "height": 405,
+                "size": 37250,
+                "url": "https://media.sketchfab.com/models/2423b4d3c42e4307b56537169c5e507b/thumbnails/2472a6dd385a4e19914b8c77e0ffcab6/0035a8b987a042419a3be82d6095cd4f.jpeg"
+            },
+            {
+                "uid": "b2e95ed04143479ba60b409aefb3bc60",
+                "width": 256,
+                "height": 144,
+                "size": 8479,
+                "url": "https://media.sketchfab.com/models/2423b4d3c42e4307b56537169c5e507b/thumbnails/2472a6dd385a4e19914b8c77e0ffcab6/f0bbf2815e994c509ff2f8349991faaa.jpeg"
+            },
+            {
+                "uid": "ddbbbd0fd0084249b1cd4fb8c507e862",
+                "width": 64,
+                "height": 36,
+                "size": 1489,
+                "url": "https://media.sketchfab.com/models/2423b4d3c42e4307b56537169c5e507b/thumbnails/2472a6dd385a4e19914b8c77e0ffcab6/bbf2c4be7b304aa5b69f1a5f6f3d55d8.jpeg"
+            }
+        ]
+    },
+    "uid": "2423b4d3c42e4307b56537169c5e507b",
+    "uri": "https://api.sketchfab.com/v3/models/2423b4d3c42e4307b56537169c5e507b",
+    "user": {
+        "uid": "d1e9d363b68d4096be3feab891dfae6a",
+        "username": "acafsrcwv123",
+        "displayName": "DA verse",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/acafsrcwv123",
+        "avatar": {
+            "uid": "08419eac7f1c4e168e5026345560c5f0",
+            "uri": "https://api.sketchfab.com/v3/avatars/08419eac7f1c4e168e5026345560c5f0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1188,
+                    "url": "https://media.sketchfab.com/avatars/08419eac7f1c4e168e5026345560c5f0/6963e9226af44366abbadfe97056dd83.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1755,
+                    "url": "https://media.sketchfab.com/avatars/08419eac7f1c4e168e5026345560c5f0/998a40242cd54bceafbe4a90fae9cad0.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3793,
+                    "url": "https://media.sketchfab.com/avatars/08419eac7f1c4e168e5026345560c5f0/ddbb4308d133440eb1a7198e23f7b0a3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4321,
+                    "url": "https://media.sketchfab.com/avatars/08419eac7f1c4e168e5026345560c5f0/e0d07631d128464fa642ae7df3082f2c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d1e9d363b68d4096be3feab891dfae6a"
+    },
+    "vertexCount": 1525521,
+    "viewCount": 20,
+    "viewerUrl": "https://sketchfab.com/3d-models/spiderr-man-with-black-cat-2423b4d3c42e4307b56537169c5e507b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "inspired by the Spider-man 2000 pc game, having some marvel character like  Black cat.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2423b4d3c42e4307b56537169c5e507b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T14:29:28.476739",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 26
+}

@@ -1,0 +1,206 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "357487fbb30a44ee8a0adf9b24829919",
+            "name": "Music",
+            "slug": "music",
+            "uri": "https://api.sketchfab.com/v3/categories/357487fbb30a44ee8a0adf9b24829919",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/e46cf538674d8594fad0292580efcf5b-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/357487fbb30a44ee8a0adf9b24829919/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/357487fbb30a44ee8a0adf9b24829919/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-16T22:03:33.870025",
+    "embedUrl": "https://sketchfab.com/models/1469c3168369485393df94634b803942/embed",
+    "faceCount": 146012,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Giant_ Speakers",
+    "publishedAt": "2026-02-16T22:28:36.366848",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "music",
+            "slug": "music",
+            "uri": "https://api.sketchfab.com/v3/tags/music"
+        },
+        {
+            "name": "sound",
+            "slug": "sound",
+            "uri": "https://api.sketchfab.com/v3/tags/sound"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "big",
+            "slug": "big",
+            "uri": "https://api.sketchfab.com/v3/tags/big"
+        },
+        {
+            "name": "speakers",
+            "slug": "speakers",
+            "uri": "https://api.sketchfab.com/v3/tags/speakers"
+        },
+        {
+            "name": "giant",
+            "slug": "giant",
+            "uri": "https://api.sketchfab.com/v3/tags/giant"
+        },
+        {
+            "name": "eletronic",
+            "slug": "eletronic",
+            "uri": "https://api.sketchfab.com/v3/tags/eletronic"
+        },
+        {
+            "name": "soundsystem",
+            "slug": "soundsystem",
+            "uri": "https://api.sketchfab.com/v3/tags/soundsystem"
+        },
+        {
+            "name": "beat",
+            "slug": "beat",
+            "uri": "https://api.sketchfab.com/v3/tags/beat"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a3c277a0886248ec949ae9d190ab058a",
+                "width": 1920,
+                "height": 1080,
+                "size": 265410,
+                "url": "https://media.sketchfab.com/models/1469c3168369485393df94634b803942/thumbnails/c14d19a287754831843debe2a5a6cf18/c6eb2f5c83a8431e8bf3ed98b8937440.jpeg"
+            },
+            {
+                "uid": "65514d3e12604e18b8d7ee3255f48644",
+                "width": 1024,
+                "height": 576,
+                "size": 71673,
+                "url": "https://media.sketchfab.com/models/1469c3168369485393df94634b803942/thumbnails/c14d19a287754831843debe2a5a6cf18/b7a0d5a39de74d7980cc55808c06d7a2.jpeg"
+            },
+            {
+                "uid": "128ee29ae867429d85fb274a891c1699",
+                "width": 720,
+                "height": 405,
+                "size": 33509,
+                "url": "https://media.sketchfab.com/models/1469c3168369485393df94634b803942/thumbnails/c14d19a287754831843debe2a5a6cf18/99ee3c66127c4bbfbe8cadc935566a01.jpeg"
+            },
+            {
+                "uid": "dda60358f05b4c50bfba7e17cca2b52b",
+                "width": 256,
+                "height": 144,
+                "size": 4730,
+                "url": "https://media.sketchfab.com/models/1469c3168369485393df94634b803942/thumbnails/c14d19a287754831843debe2a5a6cf18/ee0feccccf7b4df58e3069c2ce2c1347.jpeg"
+            },
+            {
+                "uid": "d4af64f3011d4ddd9fd3c22f761707c1",
+                "width": 64,
+                "height": 36,
+                "size": 1052,
+                "url": "https://media.sketchfab.com/models/1469c3168369485393df94634b803942/thumbnails/c14d19a287754831843debe2a5a6cf18/b0303ad3b18e4a11ae5eec88382722d4.jpeg"
+            }
+        ]
+    },
+    "uid": "1469c3168369485393df94634b803942",
+    "uri": "https://api.sketchfab.com/v3/models/1469c3168369485393df94634b803942",
+    "user": {
+        "uid": "c06e61692e2f4961b78710713cbaac8f",
+        "username": "able_digital_content",
+        "displayName": "Able_3D_DC",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/able_digital_content",
+        "avatar": {
+            "uid": "84ec91560e1e40ea875ab44deff4099e",
+            "uri": "https://api.sketchfab.com/v3/avatars/84ec91560e1e40ea875ab44deff4099e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 997,
+                    "url": "https://media.sketchfab.com/avatars/84ec91560e1e40ea875ab44deff4099e/96de87b87e8f4558ac8851db594c8299.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1340,
+                    "url": "https://media.sketchfab.com/avatars/84ec91560e1e40ea875ab44deff4099e/3cbdc4ab58b5455f8d7fe388dba446ce.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2734,
+                    "url": "https://media.sketchfab.com/avatars/84ec91560e1e40ea875ab44deff4099e/a9ac95227b194a859580fa088004d567.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3088,
+                    "url": "https://media.sketchfab.com/avatars/84ec91560e1e40ea875ab44deff4099e/01122377fd744306b50d257e91c23c0a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c06e61692e2f4961b78710713cbaac8f"
+    },
+    "vertexCount": 73008,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/giant--speakers-1469c3168369485393df94634b803942",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Every needs a giant pair of speakers in their lives. Get 2 for the price of 1, which in this case is digitially free! \n\nNote: Not Animated\n\n\n  Leave a comment and tell me what you like and don't like. thank you!",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/1469c3168369485393df94634b803942/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T22:28:36.473435",
+    "pbrType": "metalness",
+    "textureCount": 3,
+    "materialCount": 1
+}

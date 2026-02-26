@@ -1,0 +1,199 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-17T15:03:05.705156",
+    "embedUrl": "https://sketchfab.com/models/3f4790710ff341dd9220e5e3747d4670/embed",
+    "faceCount": 564298,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Bambi (Marvel Rivals fan-concept)",
+    "publishedAt": "2026-01-17T15:50:13.220090",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cock",
+            "slug": "cock",
+            "uri": "https://api.sketchfab.com/v3/tags/cock"
+        },
+        {
+            "name": "dingus",
+            "slug": "dingus",
+            "uri": "https://api.sketchfab.com/v3/tags/dingus"
+        },
+        {
+            "name": "paint3d",
+            "slug": "paint3d",
+            "uri": "https://api.sketchfab.com/v3/tags/paint3d"
+        },
+        {
+            "name": "concept",
+            "slug": "concept",
+            "uri": "https://api.sketchfab.com/v3/tags/concept"
+        },
+        {
+            "name": "fanconcept",
+            "slug": "fanconcept",
+            "uri": "https://api.sketchfab.com/v3/tags/fanconcept"
+        },
+        {
+            "name": "daveandbambi",
+            "slug": "daveandbambi",
+            "uri": "https://api.sketchfab.com/v3/tags/daveandbambi"
+        },
+        {
+            "name": "bambifnf",
+            "slug": "bambifnf",
+            "uri": "https://api.sketchfab.com/v3/tags/bambifnf"
+        },
+        {
+            "name": "marvelrivals",
+            "slug": "marvelrivals",
+            "uri": "https://api.sketchfab.com/v3/tags/marvelrivals"
+        },
+        {
+            "name": "stuffthatisneverhappening",
+            "slug": "stuffthatisneverhappening",
+            "uri": "https://api.sketchfab.com/v3/tags/stuffthatisneverhappening"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d51153d8c7fe48338950ddb7291840dd",
+                "width": 1920,
+                "height": 1080,
+                "size": 145345,
+                "url": "https://media.sketchfab.com/models/3f4790710ff341dd9220e5e3747d4670/thumbnails/41198e08d89a46ce8e16cecd0e892b74/c87c5181b61443aa80b418fde3e1231e.jpeg"
+            },
+            {
+                "uid": "12a0e8e55ace458a9db1c20d87a768b6",
+                "width": 1024,
+                "height": 576,
+                "size": 33190,
+                "url": "https://media.sketchfab.com/models/3f4790710ff341dd9220e5e3747d4670/thumbnails/41198e08d89a46ce8e16cecd0e892b74/58ea47e84c16479ab468de65640cb09b.jpeg"
+            },
+            {
+                "uid": "d74f57477418429d9cbc1edb3c565e12",
+                "width": 720,
+                "height": 405,
+                "size": 18549,
+                "url": "https://media.sketchfab.com/models/3f4790710ff341dd9220e5e3747d4670/thumbnails/41198e08d89a46ce8e16cecd0e892b74/87bee8fa17f64660bb136c7860e13330.jpeg"
+            },
+            {
+                "uid": "a3fededfaace482ab354f799082d6e40",
+                "width": 256,
+                "height": 144,
+                "size": 4157,
+                "url": "https://media.sketchfab.com/models/3f4790710ff341dd9220e5e3747d4670/thumbnails/41198e08d89a46ce8e16cecd0e892b74/e883a79d181848b2801b47ce300506d0.jpeg"
+            },
+            {
+                "uid": "2ce7fc3a1ff34619a63d7357048c3326",
+                "width": 64,
+                "height": 36,
+                "size": 1068,
+                "url": "https://media.sketchfab.com/models/3f4790710ff341dd9220e5e3747d4670/thumbnails/41198e08d89a46ce8e16cecd0e892b74/47891ebcc1094f3e9446eda9747ac287.jpeg"
+            }
+        ]
+    },
+    "uid": "3f4790710ff341dd9220e5e3747d4670",
+    "uri": "https://api.sketchfab.com/v3/models/3f4790710ff341dd9220e5e3747d4670",
+    "user": {
+        "uid": "ccf94635ee6b4bddb22f242a3945bd43",
+        "username": "MrDudeMan14",
+        "displayName": "MrDudeMan14",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/MrDudeMan14",
+        "avatar": {
+            "uid": "95199b99dde04d1fa9e89dc4f649bd2b",
+            "uri": "https://api.sketchfab.com/v3/avatars/95199b99dde04d1fa9e89dc4f649bd2b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1001,
+                    "url": "https://media.sketchfab.com/avatars/95199b99dde04d1fa9e89dc4f649bd2b/b39b7e87526d46b2af4db407feda181c.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1377,
+                    "url": "https://media.sketchfab.com/avatars/95199b99dde04d1fa9e89dc4f649bd2b/089abc377e534e199f6acd5679c49ed0.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2902,
+                    "url": "https://media.sketchfab.com/avatars/95199b99dde04d1fa9e89dc4f649bd2b/459af5cf6fb94b96bb25246b48e648d1.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3241,
+                    "url": "https://media.sketchfab.com/avatars/95199b99dde04d1fa9e89dc4f649bd2b/a348e93923454793ba40f7f7ef6bb739.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ccf94635ee6b4bddb22f242a3945bd43"
+    },
+    "vertexCount": 281406,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/bambi-marvel-rivals-fan-concept-3f4790710ff341dd9220e5e3747d4670",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Behold, Rivals Bambi.\n\nI wanted to take his occupation as a \"farmer\" much more seriously, leading me to go with more \"muted\" colors, a sickle, wheat on his hat, bandana, and a pair of work gloves.\n\nI also made Rivals designs for Expunged and Bandu, but I may or may not have forgotten to export their GLB files sooooooo...",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3f4790710ff341dd9220e5e3747d4670/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-17T15:53:49.548252",
+    "pbrType": "specular",
+    "textureCount": 74,
+    "materialCount": 49
+}

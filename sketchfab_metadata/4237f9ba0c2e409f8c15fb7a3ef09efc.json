@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T17:27:18.584409",
+    "embedUrl": "https://sketchfab.com/models/4237f9ba0c2e409f8c15fb7a3ef09efc/embed",
+    "faceCount": 26088,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "𖧻Owl𖧻.🦉🜏-✘-🜏🦉.𖧻Monument𖧻|いち|𖧻",
+    "publishedAt": "2026-02-23T17:41:06.352922",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "owl",
+            "slug": "owl",
+            "uri": "https://api.sketchfab.com/v3/tags/owl"
+        },
+        {
+            "name": "monument",
+            "slug": "monument",
+            "uri": "https://api.sketchfab.com/v3/tags/monument"
+        },
+        {
+            "name": "buildings",
+            "slug": "buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/buildings"
+        },
+        {
+            "name": "statue",
+            "slug": "statue",
+            "uri": "https://api.sketchfab.com/v3/tags/statue"
+        },
+        {
+            "name": "owls",
+            "slug": "owls",
+            "uri": "https://api.sketchfab.com/v3/tags/owls"
+        },
+        {
+            "name": "STRUCTURES",
+            "slug": "structures",
+            "uri": "https://api.sketchfab.com/v3/tags/structures"
+        },
+        {
+            "name": "statues",
+            "slug": "statues",
+            "uri": "https://api.sketchfab.com/v3/tags/statues"
+        },
+        {
+            "name": "architecture-structural",
+            "slug": "architecture-structural",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture-structural"
+        },
+        {
+            "name": "building-environment-assets",
+            "slug": "building-environment-assets",
+            "uri": "https://api.sketchfab.com/v3/tags/building-environment-assets"
+        },
+        {
+            "name": "stone-structures",
+            "slug": "stone-structures",
+            "uri": "https://api.sketchfab.com/v3/tags/stone-structures"
+        },
+        {
+            "name": "temple-architecture",
+            "slug": "temple-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/temple-architecture"
+        },
+        {
+            "name": "structure",
+            "slug": "structure",
+            "uri": "https://api.sketchfab.com/v3/tags/structure"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "architecture-fashion-style",
+            "slug": "architecture-fashion-style",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture-fashion-style"
+        },
+        {
+            "name": "stylized-animal",
+            "slug": "stylized-animal",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-animal"
+        },
+        {
+            "name": "ancientpillar",
+            "slug": "ancientpillar",
+            "uri": "https://api.sketchfab.com/v3/tags/ancientpillar"
+        },
+        {
+            "name": "owl-statue",
+            "slug": "owl-statue",
+            "uri": "https://api.sketchfab.com/v3/tags/owl-statue"
+        },
+        {
+            "name": "oldpillar",
+            "slug": "oldpillar",
+            "uri": "https://api.sketchfab.com/v3/tags/oldpillar"
+        },
+        {
+            "name": "stylized-stone",
+            "slug": "stylized-stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-stone"
+        },
+        {
+            "name": "ancient-monument",
+            "slug": "ancient-monument",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient-monument"
+        },
+        {
+            "name": "copilot",
+            "slug": "copilot",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot"
+        },
+        {
+            "name": "ancient-statue",
+            "slug": "ancient-statue",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient-statue"
+        },
+        {
+            "name": "monumental-buildings",
+            "slug": "monumental-buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/monumental-buildings"
+        },
+        {
+            "name": "oldmonument",
+            "slug": "oldmonument",
+            "uri": "https://api.sketchfab.com/v3/tags/oldmonument"
+        },
+        {
+            "name": "ancient-pillar",
+            "slug": "ancient-pillar",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient-pillar"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "ancientstatue",
+            "slug": "ancientstatue",
+            "uri": "https://api.sketchfab.com/v3/tags/ancientstatue"
+        },
+        {
+            "name": "owl-figurine",
+            "slug": "owl-figurine",
+            "uri": "https://api.sketchfab.com/v3/tags/owl-figurine"
+        },
+        {
+            "name": "stylized-owl-3d-model",
+            "slug": "stylized-owl-3d-model",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-owl-3d-model"
+        },
+        {
+            "name": "stylizedpillar",
+            "slug": "stylizedpillar",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedpillar"
+        },
+        {
+            "name": "stonestructures",
+            "slug": "stonestructures",
+            "uri": "https://api.sketchfab.com/v3/tags/stonestructures"
+        },
+        {
+            "name": "ancientmonument",
+            "slug": "ancientmonument",
+            "uri": "https://api.sketchfab.com/v3/tags/ancientmonument"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "ancienttemples",
+            "slug": "ancienttemples",
+            "uri": "https://api.sketchfab.com/v3/tags/ancienttemples"
+        },
+        {
+            "name": "copilot3d",
+            "slug": "copilot3d",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3d"
+        },
+        {
+            "name": "copilotai",
+            "slug": "copilotai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotai"
+        },
+        {
+            "name": "copilotlabs",
+            "slug": "copilotlabs",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotlabs"
+        },
+        {
+            "name": "copilot3dai",
+            "slug": "copilot3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3dai"
+        },
+        {
+            "name": "copilot-models",
+            "slug": "copilot-models",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot-models"
+        },
+        {
+            "name": "owlmonument",
+            "slug": "owlmonument",
+            "uri": "https://api.sketchfab.com/v3/tags/owlmonument"
+        },
+        {
+            "name": "owl-monument",
+            "slug": "owl-monument",
+            "uri": "https://api.sketchfab.com/v3/tags/owl-monument"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "42e95cd806b44371973b5f76557476ae",
+                "width": 1920,
+                "height": 1080,
+                "size": 284657,
+                "url": "https://media.sketchfab.com/models/4237f9ba0c2e409f8c15fb7a3ef09efc/thumbnails/c8c15fafb94b48fd8de52ad59d20b6f3/284733dca04a4269897e4bdfebb820b0.jpeg"
+            },
+            {
+                "uid": "b4be1da9fb7642a59bfd8a5b963b6503",
+                "width": 1024,
+                "height": 576,
+                "size": 47177,
+                "url": "https://media.sketchfab.com/models/4237f9ba0c2e409f8c15fb7a3ef09efc/thumbnails/c8c15fafb94b48fd8de52ad59d20b6f3/2fc17991a6404dba905f690f38a95dcd.jpeg"
+            },
+            {
+                "uid": "3cc4c11cf624408e9b2fb3e47db9bde5",
+                "width": 720,
+                "height": 405,
+                "size": 24630,
+                "url": "https://media.sketchfab.com/models/4237f9ba0c2e409f8c15fb7a3ef09efc/thumbnails/c8c15fafb94b48fd8de52ad59d20b6f3/3e65ab1021e74036a7eb3d45cca19940.jpeg"
+            },
+            {
+                "uid": "b82d5ae5b4fe442aaaf155af7019ea1b",
+                "width": 256,
+                "height": 144,
+                "size": 4804,
+                "url": "https://media.sketchfab.com/models/4237f9ba0c2e409f8c15fb7a3ef09efc/thumbnails/c8c15fafb94b48fd8de52ad59d20b6f3/e41c587ea308458f885eb776c04ee80d.jpeg"
+            },
+            {
+                "uid": "6df9320159c648c3a9fe33278fd86dac",
+                "width": 64,
+                "height": 36,
+                "size": 1038,
+                "url": "https://media.sketchfab.com/models/4237f9ba0c2e409f8c15fb7a3ef09efc/thumbnails/c8c15fafb94b48fd8de52ad59d20b6f3/4de27101e7184349b2801d28eccf0a4e.jpeg"
+            }
+        ]
+    },
+    "uid": "4237f9ba0c2e409f8c15fb7a3ef09efc",
+    "uri": "https://api.sketchfab.com/v3/models/4237f9ba0c2e409f8c15fb7a3ef09efc",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 13008,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/owl-monument-4237f9ba0c2e409f8c15fb7a3ef09efc",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/4237f9ba0c2e409f8c15fb7a3ef09efc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:31:14.070215",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,43 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Military",
+            "score": 0.85
+        },
+        {
+            "name": "Historical",
+            "score": 0.75
+        },
+        {
+            "name": "Steampunk",
+            "score": 0.65
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Clean"
+    ],
+    "tags": [
+        "helmet",
+        "military",
+        "ancient",
+        "warrior"
+    ]
+}

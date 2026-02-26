@@ -1,0 +1,41 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Steampunk",
+            "score": 0.6
+        }
+    ],
+    "style": "Toon / Anime",
+    "top_styles": [
+        {
+            "name": "Toon / Anime",
+            "score": 0.9
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Clean"
+    ],
+    "tags": [
+        "treasure chest",
+        "wooden",
+        "metal"
+    ]
+}

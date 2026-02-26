@@ -1,0 +1,193 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T22:13:46.431265",
+    "embedUrl": "https://sketchfab.com/models/1a459be39e434d118e472e4e94636011/embed",
+    "faceCount": 770540,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Jenny Mod: Features, Safety",
+    "publishedAt": "2026-02-18T22:22:09.605411",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "gaming",
+            "slug": "gaming",
+            "uri": "https://api.sketchfab.com/v3/tags/gaming"
+        },
+        {
+            "name": "gamingasset",
+            "slug": "gamingasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gamingasset"
+        },
+        {
+            "name": "jennymod",
+            "slug": "jennymod",
+            "uri": "https://api.sketchfab.com/v3/tags/jennymod"
+        },
+        {
+            "name": "jenny_mod",
+            "slug": "jenny_mod",
+            "uri": "https://api.sketchfab.com/v3/tags/jenny_mod"
+        },
+        {
+            "name": "gaming-world",
+            "slug": "gaming-world",
+            "uri": "https://api.sketchfab.com/v3/tags/gaming-world"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7719c97744d34f20b8170797e63cea2c",
+                "width": 448,
+                "height": 280,
+                "size": 5925,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/448.jpg"
+            },
+            {
+                "uid": "a6b20474be7c402db8f8a5a6b9ff4730",
+                "width": 200,
+                "height": 200,
+                "size": 2275,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/200x200.jpg"
+            },
+            {
+                "uid": "98095b18341b4f49affb313ad9843d70",
+                "width": 100,
+                "height": 100,
+                "size": 841,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/100x100.jpg"
+            },
+            {
+                "uid": "af9d9afad4f1427a8a6e68dffa18c236",
+                "width": 50,
+                "height": 50,
+                "size": 421,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/50x50.jpg"
+            },
+            {
+                "uid": "b0855968e7eb4421b1d57761d0f2e2f1",
+                "width": 640,
+                "height": 400,
+                "size": 12257,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/640.jpg"
+            },
+            {
+                "uid": "4cfc787dbb4a4a0190430bca9721c6cf",
+                "width": 1024,
+                "height": 640,
+                "size": 28643,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/1024.jpg"
+            },
+            {
+                "uid": "bdbd1b7885db45ba959aede0fd468199",
+                "width": 854,
+                "height": 534,
+                "size": 21153,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/854.jpg"
+            }
+        ]
+    },
+    "uid": "1a459be39e434d118e472e4e94636011",
+    "uri": "https://api.sketchfab.com/v3/models/1a459be39e434d118e472e4e94636011",
+    "user": {
+        "uid": "f8f0d7d77a6b41fd9e3fa4717a771c75",
+        "username": "jenny121111",
+        "displayName": "jenny121111",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/jenny121111",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f8f0d7d77a6b41fd9e3fa4717a771c75"
+    },
+    "vertexCount": 385160,
+    "viewCount": 148,
+    "viewerUrl": "https://sketchfab.com/3d-models/jenny-mod-features-safety-1a459be39e434d118e472e4e94636011",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "What Is Jenny Mod?\n\nJenny Mod is an unofficial add-on created for Minecraft that adds a virtual companion character named Jenny into the game. It is not part of the official Minecraft version and is developed by third-party mod creators.\n\nFeatures\n\nThe mod introduces new character interactions, animations, and custom gameplay elements. Players can interact with Jenny in different ways, depending on how the mod is configured. It changes the normal sandbox experience by adding scripted behaviors and unique character mechanics.\n\nIs It Official?\n\nNo, [Jenny Mod Minecraft](https://the-jennymod.com/) is not supported or endorsed by Mojang or Microsoft, the official developers of Minecraft. It is only available through external mod websites.\n\nImportant Note\n\nBecause it is an unofficial mod, players should be careful when downloading files from unknown sources. Always check file safety and remember that mods can affect game performance or security.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1a459be39e434d118e472e4e94636011/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T22:22:09.828864",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

@@ -1,0 +1,215 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-03T19:46:57.764679",
+    "embedUrl": "https://sketchfab.com/models/1ef35ca13e834b79a8543a1247cd077f/embed",
+    "faceCount": 99286,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Lego T-6 Jedi Shuttle",
+    "publishedAt": "2025-12-03T19:54:30.429378",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "shuttle",
+            "slug": "shuttle",
+            "uri": "https://api.sketchfab.com/v3/tags/shuttle"
+        },
+        {
+            "name": "jedi",
+            "slug": "jedi",
+            "uri": "https://api.sketchfab.com/v3/tags/jedi"
+        },
+        {
+            "name": "miniature",
+            "slug": "miniature",
+            "uri": "https://api.sketchfab.com/v3/tags/miniature"
+        },
+        {
+            "name": "bricks",
+            "slug": "bricks",
+            "uri": "https://api.sketchfab.com/v3/tags/bricks"
+        },
+        {
+            "name": "lego",
+            "slug": "lego",
+            "uri": "https://api.sketchfab.com/v3/tags/lego"
+        },
+        {
+            "name": "ahsoka",
+            "slug": "ahsoka",
+            "uri": "https://api.sketchfab.com/v3/tags/ahsoka"
+        },
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "darth",
+            "slug": "darth",
+            "uri": "https://api.sketchfab.com/v3/tags/darth"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "polybag",
+            "slug": "polybag",
+            "uri": "https://api.sketchfab.com/v3/tags/polybag"
+        },
+        {
+            "name": "plastic",
+            "slug": "plastic",
+            "uri": "https://api.sketchfab.com/v3/tags/plastic"
+        },
+        {
+            "name": "spaceship",
+            "slug": "spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship"
+        },
+        {
+            "name": "t-6",
+            "slug": "t-6",
+            "uri": "https://api.sketchfab.com/v3/tags/t-6"
+        },
+        {
+            "name": "clays",
+            "slug": "clays",
+            "uri": "https://api.sketchfab.com/v3/tags/clays"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "912411",
+            "slug": "912411",
+            "uri": "https://api.sketchfab.com/v3/tags/912411"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "18adc5104c684a8abb9e4406b464dc53",
+                "width": 1920,
+                "height": 1080,
+                "size": 186813,
+                "url": "https://media.sketchfab.com/models/1ef35ca13e834b79a8543a1247cd077f/thumbnails/df12c16ae209486597a4f3382bf48d85/18c1df7415d74be9b86179f5f562d0b6.jpeg"
+            },
+            {
+                "uid": "3ec7c0359ac648c095a84710e44ca334",
+                "width": 1024,
+                "height": 576,
+                "size": 56081,
+                "url": "https://media.sketchfab.com/models/1ef35ca13e834b79a8543a1247cd077f/thumbnails/df12c16ae209486597a4f3382bf48d85/33b4bf1b03b14ae189f2e95520547e92.jpeg"
+            },
+            {
+                "uid": "ddacd72375c641b297d74f16ca7b9d6a",
+                "width": 720,
+                "height": 405,
+                "size": 33144,
+                "url": "https://media.sketchfab.com/models/1ef35ca13e834b79a8543a1247cd077f/thumbnails/df12c16ae209486597a4f3382bf48d85/9d40a7f5ac234a22b18450b1385c61b1.jpeg"
+            },
+            {
+                "uid": "d782ae9a40e0451f97d89cb9593e43b8",
+                "width": 256,
+                "height": 144,
+                "size": 7426,
+                "url": "https://media.sketchfab.com/models/1ef35ca13e834b79a8543a1247cd077f/thumbnails/df12c16ae209486597a4f3382bf48d85/8649fcf3558d4b66839fccc14b71e04d.jpeg"
+            },
+            {
+                "uid": "4477d9db39f042a28bba7a691292a9fa",
+                "width": 64,
+                "height": 36,
+                "size": 1474,
+                "url": "https://media.sketchfab.com/models/1ef35ca13e834b79a8543a1247cd077f/thumbnails/df12c16ae209486597a4f3382bf48d85/bcf5ea1518dc498f90c2f27e8043c83e.jpeg"
+            }
+        ]
+    },
+    "uid": "1ef35ca13e834b79a8543a1247cd077f",
+    "uri": "https://api.sketchfab.com/v3/models/1ef35ca13e834b79a8543a1247cd077f",
+    "user": {
+        "uid": "8d8f3231a0ff4f4d86e7b9ce7bf8973e",
+        "username": "DarthClays",
+        "displayName": "DarthClays",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DarthClays",
+        "avatar": {
+            "uid": "3afb3c10068e419fad6c5e242233aca2",
+            "uri": "https://api.sketchfab.com/v3/avatars/3afb3c10068e419fad6c5e242233aca2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2575,
+                    "url": "https://media.sketchfab.com/avatars/3afb3c10068e419fad6c5e242233aca2/5ccd807357f44cfea67d5370ae5e1db0.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5163,
+                    "url": "https://media.sketchfab.com/avatars/3afb3c10068e419fad6c5e242233aca2/a3cb5463c76349798a0d2ea51c6b50e8.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 15550,
+                    "url": "https://media.sketchfab.com/avatars/3afb3c10068e419fad6c5e242233aca2/360f0dd748ba4720a6ca21995719ef24.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 18805,
+                    "url": "https://media.sketchfab.com/avatars/3afb3c10068e419fad6c5e242233aca2/ac8360a9cf5a479e9a03292e8903ed6d.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8d8f3231a0ff4f4d86e7b9ce7bf8973e"
+    },
+    "vertexCount": 53823,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/lego-t-6-jedi-shuttle-1ef35ca13e834b79a8543a1247cd077f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Realistic 3D Model of the **[Lego T-6 Jedi Shuttle](https://youtu.be/QEEVc_TW94k)** - Polybag set [912411]\nThis model is part of an ongoing collection, along with my channel **@DarthClays**, on [YouTube](https://www.youtube.com/@DarthClays), [Instagram](https://www.instagram.com/darthclays/) and [TikTok](https://www.tiktok.com/@darthclays), where I animate these models being assembled following official instructions.\n\nWhat's included:\n- Maya file (.ma) - compatible with every Maya version;\n- OBJ;\n- FBX;\n- Textures in TIFF format: BaseColor, with official Lego brick colors / Roughness / Normal map.\n\n- Lego bricks have real life measures;\n- Model is free of n-gons, mesh is clean;\n- UVs may contain some overlaps, since the texture is plain. Other than that, it's properly unfolded.\n\n**These are for sale on various platforms, send me a message if you can't find them!**",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1ef35ca13e834b79a8543a1247cd077f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-06T04:31:31.932845",
+    "pbrType": null,
+    "textureCount": 6,
+    "materialCount": 4
+}

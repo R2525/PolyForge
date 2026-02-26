@@ -1,0 +1,219 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T19:23:52.885473",
+    "embedUrl": "https://sketchfab.com/models/24aed5a6cc4045cf83f20e7e5cfded91/embed",
+    "faceCount": 432434,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Freddy Mc. Ford",
+    "publishedAt": "2026-02-20T19:24:13.875849",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "hero",
+            "slug": "hero",
+            "uri": "https://api.sketchfab.com/v3/tags/hero"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "human",
+            "slug": "human",
+            "uri": "https://api.sketchfab.com/v3/tags/human"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e7a3209762b54a63bdf02653965e14e5",
+                "width": 1920,
+                "height": 1080,
+                "size": 54267,
+                "url": "https://media.sketchfab.com/models/24aed5a6cc4045cf83f20e7e5cfded91/thumbnails/7e72e69de06f420b80c057179cd40920/c34f1c6e5f434509b617b6fa56ec3c6e.jpeg"
+            },
+            {
+                "uid": "62cb93dbe074473bb1cc817d33908f1a",
+                "width": 1024,
+                "height": 576,
+                "size": 17846,
+                "url": "https://media.sketchfab.com/models/24aed5a6cc4045cf83f20e7e5cfded91/thumbnails/7e72e69de06f420b80c057179cd40920/ec6933eaa1a749c08c6df61182b004c6.jpeg"
+            },
+            {
+                "uid": "d9c26ef904924e1e84d9d2bef3b7132f",
+                "width": 720,
+                "height": 405,
+                "size": 10244,
+                "url": "https://media.sketchfab.com/models/24aed5a6cc4045cf83f20e7e5cfded91/thumbnails/7e72e69de06f420b80c057179cd40920/a8e72394568342888bfca08162d3de7b.jpeg"
+            },
+            {
+                "uid": "1860d779d3f04ce5815daaa26a84167b",
+                "width": 256,
+                "height": 144,
+                "size": 2399,
+                "url": "https://media.sketchfab.com/models/24aed5a6cc4045cf83f20e7e5cfded91/thumbnails/7e72e69de06f420b80c057179cd40920/1357807f95a44cf1a113f15b4081b859.jpeg"
+            },
+            {
+                "uid": "197b000ec7e746fb9657dc27751a142f",
+                "width": 64,
+                "height": 36,
+                "size": 853,
+                "url": "https://media.sketchfab.com/models/24aed5a6cc4045cf83f20e7e5cfded91/thumbnails/7e72e69de06f420b80c057179cd40920/087dd1e3c1864dcab5eefe4692bb64bd.jpeg"
+            }
+        ]
+    },
+    "uid": "24aed5a6cc4045cf83f20e7e5cfded91",
+    "uri": "https://api.sketchfab.com/v3/models/24aed5a6cc4045cf83f20e7e5cfded91",
+    "user": {
+        "uid": "d81eea3102d242b2bd1cbaf2afcafd29",
+        "username": "Yachtnaughty",
+        "displayName": "Yachtnaughty",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Yachtnaughty",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d81eea3102d242b2bd1cbaf2afcafd29"
+    },
+    "vertexCount": 216197,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/freddy-mc-ford-24aed5a6cc4045cf83f20e7e5cfded91",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/FuQALx](https://www.meshy.ai/s/FuQALx)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/24aed5a6cc4045cf83f20e7e5cfded91/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T19:24:13.837520",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

@@ -1,0 +1,140 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-27T18:05:19.100625",
+    "embedUrl": "https://sketchfab.com/models/1cc63c709d2743aea24648313854b8c5/embed",
+    "faceCount": 1813946,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "UPS DC Gold-mount",
+    "publishedAt": "2025-12-27T19:44:26.886050",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wicam",
+            "slug": "wicam",
+            "uri": "https://api.sketchfab.com/v3/tags/wicam"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2b18c1b6b6e147dfac0a80568b347d53",
+                "width": 1920,
+                "height": 1080,
+                "size": 218653,
+                "url": "https://media.sketchfab.com/models/1cc63c709d2743aea24648313854b8c5/thumbnails/795552f8634e49be81d48937d9ab757a/ec2224e90b424749bac01a64b16c1d6b.jpeg"
+            },
+            {
+                "uid": "7afa2e5afcf64829b1afbc054951bc42",
+                "width": 1024,
+                "height": 576,
+                "size": 42450,
+                "url": "https://media.sketchfab.com/models/1cc63c709d2743aea24648313854b8c5/thumbnails/795552f8634e49be81d48937d9ab757a/fc2ef8329e5b45e198966833f0b45e84.jpeg"
+            },
+            {
+                "uid": "c43eb9e536f64a38a341413a51d6ca2c",
+                "width": 720,
+                "height": 405,
+                "size": 18842,
+                "url": "https://media.sketchfab.com/models/1cc63c709d2743aea24648313854b8c5/thumbnails/795552f8634e49be81d48937d9ab757a/e388744a03164d6983b10a69f6e41ac0.jpeg"
+            },
+            {
+                "uid": "b12a791e73dd42c58f5a9b01d2e8a46b",
+                "width": 256,
+                "height": 144,
+                "size": 3083,
+                "url": "https://media.sketchfab.com/models/1cc63c709d2743aea24648313854b8c5/thumbnails/795552f8634e49be81d48937d9ab757a/4075b29ef7fa4a8b87a73fb10bef4206.jpeg"
+            },
+            {
+                "uid": "098b53bdf9ba483fa859b02b57bfbc82",
+                "width": 64,
+                "height": 36,
+                "size": 934,
+                "url": "https://media.sketchfab.com/models/1cc63c709d2743aea24648313854b8c5/thumbnails/795552f8634e49be81d48937d9ab757a/adf68be73a3f4589b3e7390263eb6c07.jpeg"
+            }
+        ]
+    },
+    "uid": "1cc63c709d2743aea24648313854b8c5",
+    "uri": "https://api.sketchfab.com/v3/models/1cc63c709d2743aea24648313854b8c5",
+    "user": {
+        "uid": "f86026dc461c465a989c5be8dc97a978",
+        "username": "wicam",
+        "displayName": "wicam.pro",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/wicam",
+        "avatar": {
+            "uid": "fd711f6b216a44f9a33ee962f4212a4a",
+            "uri": "https://api.sketchfab.com/v3/avatars/fd711f6b216a44f9a33ee962f4212a4a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 481,
+                    "url": "https://media.sketchfab.com/avatars/fd711f6b216a44f9a33ee962f4212a4a/e96fd7f468f8456c8ffd594a8b15f0b9.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 609,
+                    "url": "https://media.sketchfab.com/avatars/fd711f6b216a44f9a33ee962f4212a4a/3083baf0296e4dc683bd15935f8a6cf1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1216,
+                    "url": "https://media.sketchfab.com/avatars/fd711f6b216a44f9a33ee962f4212a4a/e1e3b3fd7dc845f99bcba4c411ab5206.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1281,
+                    "url": "https://media.sketchfab.com/avatars/fd711f6b216a44f9a33ee962f4212a4a/0b65ee34aec7416498b5d5411f6dc087.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f86026dc461c465a989c5be8dc97a978"
+    },
+    "vertexCount": 906759,
+    "viewCount": 19,
+    "viewerUrl": "https://sketchfab.com/3d-models/ups-dc-gold-mount-1cc63c709d2743aea24648313854b8c5",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "https://www.wicam.pro/eng/upsdc.html",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1cc63c709d2743aea24648313854b8c5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-08T21:32:46.316921",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 15
+}

@@ -1,0 +1,232 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-21T12:50:23.981322",
+    "embedUrl": "https://sketchfab.com/models/0ddab0d90a6f44e9852903384fe98b04/embed",
+    "faceCount": 764,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Golf Club Driver Spikes",
+    "publishedAt": "2026-01-21T13:10:10.355690",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "golf",
+            "slug": "golf",
+            "uri": "https://api.sketchfab.com/v3/tags/golf"
+        },
+        {
+            "name": "spikes",
+            "slug": "spikes",
+            "uri": "https://api.sketchfab.com/v3/tags/spikes"
+        },
+        {
+            "name": "apocalyptic",
+            "slug": "apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/apocalyptic"
+        },
+        {
+            "name": "club",
+            "slug": "club",
+            "uri": "https://api.sketchfab.com/v3/tags/club"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "melee",
+            "slug": "melee",
+            "uri": "https://api.sketchfab.com/v3/tags/melee"
+        },
+        {
+            "name": "wasteland",
+            "slug": "wasteland",
+            "uri": "https://api.sketchfab.com/v3/tags/wasteland"
+        },
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "driver",
+            "slug": "driver",
+            "uri": "https://api.sketchfab.com/v3/tags/driver"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "sport",
+            "slug": "sport",
+            "uri": "https://api.sketchfab.com/v3/tags/sport"
+        },
+        {
+            "name": "zombie",
+            "slug": "zombie",
+            "uri": "https://api.sketchfab.com/v3/tags/zombie"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ac33579eb9544f82a5477c8a80fac1c5",
+                "width": 1920,
+                "height": 1080,
+                "size": 86999,
+                "url": "https://media.sketchfab.com/models/0ddab0d90a6f44e9852903384fe98b04/thumbnails/c8b79934e6f646189a38e39bc8c45aa0/38e9a8e258134b1d8068d863b458e4b5.jpeg"
+            },
+            {
+                "uid": "b7399ddc1b984a97bed087d82bd75c16",
+                "width": 1024,
+                "height": 576,
+                "size": 29232,
+                "url": "https://media.sketchfab.com/models/0ddab0d90a6f44e9852903384fe98b04/thumbnails/c8b79934e6f646189a38e39bc8c45aa0/4fd827207bf741199d3d842ef14fecf5.jpeg"
+            },
+            {
+                "uid": "3b0ca659e60440f6bd2f94901fa09fa3",
+                "width": 720,
+                "height": 405,
+                "size": 16331,
+                "url": "https://media.sketchfab.com/models/0ddab0d90a6f44e9852903384fe98b04/thumbnails/c8b79934e6f646189a38e39bc8c45aa0/6559e39960ba496c98312efa18a54613.jpeg"
+            },
+            {
+                "uid": "6c515cc7722048479cdcdd2a154e93b4",
+                "width": 256,
+                "height": 144,
+                "size": 3618,
+                "url": "https://media.sketchfab.com/models/0ddab0d90a6f44e9852903384fe98b04/thumbnails/c8b79934e6f646189a38e39bc8c45aa0/c1af347131f3477cb13556b1bdb79962.jpeg"
+            },
+            {
+                "uid": "a635d45b222c43d8b93bb9cb636a01d1",
+                "width": 64,
+                "height": 36,
+                "size": 1070,
+                "url": "https://media.sketchfab.com/models/0ddab0d90a6f44e9852903384fe98b04/thumbnails/c8b79934e6f646189a38e39bc8c45aa0/90021bb3081247bca22d18ded8ee0c50.jpeg"
+            }
+        ]
+    },
+    "uid": "0ddab0d90a6f44e9852903384fe98b04",
+    "uri": "https://api.sketchfab.com/v3/models/0ddab0d90a6f44e9852903384fe98b04",
+    "user": {
+        "uid": "b9cb71bcd1184c12ab1bb88298c8b034",
+        "username": "ShannanTaylor",
+        "displayName": "Shannan Taylor",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ShannanTaylor",
+        "avatar": {
+            "uid": "71d3b42f626b45e19e4797c6970a137d",
+            "uri": "https://api.sketchfab.com/v3/avatars/71d3b42f626b45e19e4797c6970a137d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 857,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/cba2e22d0aec46d89833f32d54118d72.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1796,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/74db0555fd244506959afd9a28ca5d11.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5860,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/a8d957a90fb94ee5a3ecf364e098f73b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 7162,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/ded7e9a563a84bea935dccdd8f7e5a7f.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b9cb71bcd1184c12ab1bb88298c8b034"
+    },
+    "vertexCount": 346,
+    "viewCount": 38,
+    "viewerUrl": "https://sketchfab.com/3d-models/golf-club-driver-spikes-0ddab0d90a6f44e9852903384fe98b04",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This brutal Spiked Golf Club Driver is a wicked improvised melee weapon that transforms a premium golf driver into a savage close-combat tool — studded with vicious metal spikes across the clubhead for maximum tearing and crushing damage in survival horror, post-apocalyptic, zombie-apocalypse, or gritty urban brawler scenarios.\n\nThe model retains the sleek, aerodynamic shape of a modern driver (metallic face, adjustable hosel, long shaft, and rubberized grip) but amps up the menace with rows of jagged spikes protruding from the sole and crown — evoking a scavenged sports store raid or a mad golfer's custom \"upgrade.\" The spiked design adds raw intimidation factor, perfect for smashing through undead hordes, street fights, or as a signature weapon for wasteland survivors who repurpose everyday gear into deadly instruments.\n\nLicensed under CC Attribution (credit Shannan Taylor when used) — download, spike it up further if desired, and swing for the fences in your apocalyptic project today!",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/0ddab0d90a6f44e9852903384fe98b04/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-22T10:09:50.983028",
+    "pbrType": "metalness",
+    "textureCount": 6,
+    "materialCount": 1
+}

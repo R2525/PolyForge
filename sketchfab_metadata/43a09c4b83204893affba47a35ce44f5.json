@@ -1,0 +1,236 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T22:45:31.791264",
+    "embedUrl": "https://sketchfab.com/models/43a09c4b83204893affba47a35ce44f5/embed",
+    "faceCount": 265893,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 25,
+    "name": "Blonde in a Pink Corset",
+    "publishedAt": "2026-02-12T00:01:34.743465",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "sexy",
+            "slug": "sexy",
+            "uri": "https://api.sketchfab.com/v3/tags/sexy"
+        },
+        {
+            "name": "fashion",
+            "slug": "fashion",
+            "uri": "https://api.sketchfab.com/v3/tags/fashion"
+        },
+        {
+            "name": "women",
+            "slug": "women",
+            "uri": "https://api.sketchfab.com/v3/tags/women"
+        },
+        {
+            "name": "pink",
+            "slug": "pink",
+            "uri": "https://api.sketchfab.com/v3/tags/pink"
+        },
+        {
+            "name": "woman",
+            "slug": "woman",
+            "uri": "https://api.sketchfab.com/v3/tags/woman"
+        },
+        {
+            "name": "fit",
+            "slug": "fit",
+            "uri": "https://api.sketchfab.com/v3/tags/fit"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "glamour",
+            "slug": "glamour",
+            "uri": "https://api.sketchfab.com/v3/tags/glamour"
+        },
+        {
+            "name": "corset",
+            "slug": "corset",
+            "uri": "https://api.sketchfab.com/v3/tags/corset"
+        },
+        {
+            "name": "lingerie",
+            "slug": "lingerie",
+            "uri": "https://api.sketchfab.com/v3/tags/lingerie"
+        },
+        {
+            "name": "adult",
+            "slug": "adult",
+            "uri": "https://api.sketchfab.com/v3/tags/adult"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "cassock",
+            "slug": "cassock",
+            "uri": "https://api.sketchfab.com/v3/tags/cassock"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "lingeriemodel",
+            "slug": "lingeriemodel",
+            "uri": "https://api.sketchfab.com/v3/tags/lingeriemodel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ec654fba24fe44968377a313e8b850e3",
+                "width": 1920,
+                "height": 1080,
+                "size": 403999,
+                "url": "https://media.sketchfab.com/models/43a09c4b83204893affba47a35ce44f5/thumbnails/4944406d657c4c8e9b8cfb82471f3ca0/c5b7d8babf8e40f5a5277969a1e65cab.jpeg"
+            },
+            {
+                "uid": "36af1ccb3197491ebeae6dc6f063649c",
+                "width": 1024,
+                "height": 576,
+                "size": 27412,
+                "url": "https://media.sketchfab.com/models/43a09c4b83204893affba47a35ce44f5/thumbnails/4944406d657c4c8e9b8cfb82471f3ca0/7efe879b581748bdabd7c8ee6c9afc87.jpeg"
+            },
+            {
+                "uid": "44dcdb93aa41451bbc85e7fc5d5af280",
+                "width": 720,
+                "height": 405,
+                "size": 15252,
+                "url": "https://media.sketchfab.com/models/43a09c4b83204893affba47a35ce44f5/thumbnails/4944406d657c4c8e9b8cfb82471f3ca0/449dc8d5fdfc4596ad986fc06cf5e1de.jpeg"
+            },
+            {
+                "uid": "bdd0894a6d2546dd8c8332ab28d87e48",
+                "width": 256,
+                "height": 144,
+                "size": 3278,
+                "url": "https://media.sketchfab.com/models/43a09c4b83204893affba47a35ce44f5/thumbnails/4944406d657c4c8e9b8cfb82471f3ca0/d4f56f6837884c30ad46e49d9bd72a01.jpeg"
+            },
+            {
+                "uid": "3e768dc4be2547b986fe279f2e8c3698",
+                "width": 64,
+                "height": 36,
+                "size": 968,
+                "url": "https://media.sketchfab.com/models/43a09c4b83204893affba47a35ce44f5/thumbnails/4944406d657c4c8e9b8cfb82471f3ca0/85f2d121450f4752a7d60a1d5ea499f0.jpeg"
+            }
+        ]
+    },
+    "uid": "43a09c4b83204893affba47a35ce44f5",
+    "uri": "https://api.sketchfab.com/v3/models/43a09c4b83204893affba47a35ce44f5",
+    "user": {
+        "uid": "493caf85284a49b4a090c9c6eb193507",
+        "username": "493caf85284a49b4a090c9c6eb1935",
+        "displayName": "Zizian1987",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/493caf85284a49b4a090c9c6eb1935",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/493caf85284a49b4a090c9c6eb193507"
+    },
+    "vertexCount": 132908,
+    "viewCount": 631,
+    "viewerUrl": "https://sketchfab.com/3d-models/blonde-in-a-pink-corset-43a09c4b83204893affba47a35ce44f5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A photorealistic 3D model of a blonde woman with blue eyes and long, sleek hair with prominent pink tips. She wears a pink lace-up corset with metal eyelets and a matching pink thong. Her legs are ribbed pink knee-high socks. Her nails are painted bright pink. The figure stands with her hands on her hips, striking a confident pose. The background is a plain, neutral gray wall, illuminated by soft, even studio lighting.",
+    "price": null,
+    "downloadCount": 120,
+    "editorUrl": "https://sketchfab.com/models/43a09c4b83204893affba47a35ce44f5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-12T08:20:35.790770",
+    "pbrType": "specular",
+    "textureCount": 4,
+    "materialCount": 1
+}

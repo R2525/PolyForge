@@ -1,0 +1,69 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Vibrant Fantasy",
+    "top_genres": [
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.4
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.8
+        },
+        {
+            "name": "Pixel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "3D Render",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Rusty",
+        "Dusty",
+        "Cracked",
+        "Mossy"
+    ],
+    "tags": [
+        "shield",
+        "military",
+        "weapon",
+        "pixel art",
+        "3D model",
+        "vanilla",
+        "game",
+        "game asset"
+    ],
+    "model_id_full": "3e298d1254c447c28d352729e6d366dd_Vanilla Shields",
+    "sketchfab_id": "3e298d1254c447c28d352729e6d366dd",
+    "asset_name": "Vanilla Shields"
+}

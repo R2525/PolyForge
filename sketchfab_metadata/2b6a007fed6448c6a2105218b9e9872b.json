@@ -1,0 +1,186 @@
+{
+    "animationCount": 2,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T01:08:21.405213",
+    "embedUrl": "https://sketchfab.com/models/2b6a007fed6448c6a2105218b9e9872b/embed",
+    "faceCount": 4374,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Tyrannus Savana (Boxer)",
+    "publishedAt": "2026-02-24T01:18:14.197890",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "walking",
+            "slug": "walking",
+            "uri": "https://api.sketchfab.com/v3/tags/walking"
+        },
+        {
+            "name": "scizor",
+            "slug": "scizor",
+            "uri": "https://api.sketchfab.com/v3/tags/scizor"
+        },
+        {
+            "name": "boxer",
+            "slug": "boxer",
+            "uri": "https://api.sketchfab.com/v3/tags/boxer"
+        },
+        {
+            "name": "glove",
+            "slug": "glove",
+            "uri": "https://api.sketchfab.com/v3/tags/glove"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6a67bd4c2b4144ee89963131d449a33d",
+                "width": 1920,
+                "height": 1080,
+                "size": 57719,
+                "url": "https://media.sketchfab.com/models/2b6a007fed6448c6a2105218b9e9872b/thumbnails/282c838e004b424ca584d7722a9debd5/d1fb519d117e43c9b005a60d93b2dc79.jpeg"
+            },
+            {
+                "uid": "b5afd78d02f84401a224acfc6efbf945",
+                "width": 1024,
+                "height": 576,
+                "size": 20405,
+                "url": "https://media.sketchfab.com/models/2b6a007fed6448c6a2105218b9e9872b/thumbnails/282c838e004b424ca584d7722a9debd5/d2eea25485f8452cb65bf50ec012ca19.jpeg"
+            },
+            {
+                "uid": "5202481ca5524f048a5b0d96c125bd33",
+                "width": 720,
+                "height": 405,
+                "size": 12316,
+                "url": "https://media.sketchfab.com/models/2b6a007fed6448c6a2105218b9e9872b/thumbnails/282c838e004b424ca584d7722a9debd5/8bf85accadb94738bf587d34cd356a55.jpeg"
+            },
+            {
+                "uid": "5e7672b1f9e7418f8603aae977fad918",
+                "width": 256,
+                "height": 144,
+                "size": 2995,
+                "url": "https://media.sketchfab.com/models/2b6a007fed6448c6a2105218b9e9872b/thumbnails/282c838e004b424ca584d7722a9debd5/de1df2157d6f445b9990f107bcb91c8c.jpeg"
+            },
+            {
+                "uid": "d6903104cfac49e79c0ebe68cf44b32d",
+                "width": 64,
+                "height": 36,
+                "size": 961,
+                "url": "https://media.sketchfab.com/models/2b6a007fed6448c6a2105218b9e9872b/thumbnails/282c838e004b424ca584d7722a9debd5/0fa9212ba2f247879aceaf51b32d0f4d.jpeg"
+            }
+        ]
+    },
+    "uid": "2b6a007fed6448c6a2105218b9e9872b",
+    "uri": "https://api.sketchfab.com/v3/models/2b6a007fed6448c6a2105218b9e9872b",
+    "user": {
+        "uid": "952b74a323574d5abd2554dc0183d5ab",
+        "username": "danidonten",
+        "displayName": "danidonten",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/danidonten",
+        "avatar": {
+            "uid": "a807660dad044d67b2a39a78eff3cf8b",
+            "uri": "https://api.sketchfab.com/v3/avatars/a807660dad044d67b2a39a78eff3cf8b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 948,
+                    "url": "https://media.sketchfab.com/avatars/a807660dad044d67b2a39a78eff3cf8b/0455d62670e645e9bce7ab92498fb971.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1286,
+                    "url": "https://media.sketchfab.com/avatars/a807660dad044d67b2a39a78eff3cf8b/827a974a91444b218b066668eed0f935.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2682,
+                    "url": "https://media.sketchfab.com/avatars/a807660dad044d67b2a39a78eff3cf8b/8ff23f13204749ce8fa360f433b6973a.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3090,
+                    "url": "https://media.sketchfab.com/avatars/a807660dad044d67b2a39a78eff3cf8b/7fe2601b8f164675826b0e927d9661f5.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/952b74a323574d5abd2554dc0183d5ab"
+    },
+    "vertexCount": 2240,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/tyrannus-savana-boxer-2b6a007fed6448c6a2105218b9e9872b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A weird character that i made in college, in 2024.\n\nIt was based on Soul Eater and a little of Gintama...\n\nFor professional use, you can buy it on Fab!",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/2b6a007fed6448c6a2105218b9e9872b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T01:36:46.975732",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,222 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-26T02:16:41.298037",
+    "embedUrl": "https://sketchfab.com/models/33e16b8f63714a6db88e7187f2e04db0/embed",
+    "faceCount": 241260,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Porche 1975 Turbo FREE for Blender",
+    "publishedAt": "2026-01-26T02:29:01.557511",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "bike",
+            "slug": "bike",
+            "uri": "https://api.sketchfab.com/v3/tags/bike"
+        },
+        {
+            "name": "pro",
+            "slug": "pro",
+            "uri": "https://api.sketchfab.com/v3/tags/pro"
+        },
+        {
+            "name": "nissan",
+            "slug": "nissan",
+            "uri": "https://api.sketchfab.com/v3/tags/nissan"
+        },
+        {
+            "name": "games",
+            "slug": "games",
+            "uri": "https://api.sketchfab.com/v3/tags/games"
+        },
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "camion",
+            "slug": "camion",
+            "uri": "https://api.sketchfab.com/v3/tags/camion"
+        },
+        {
+            "name": "motor",
+            "slug": "motor",
+            "uri": "https://api.sketchfab.com/v3/tags/motor"
+        },
+        {
+            "name": "motorcycle",
+            "slug": "motorcycle",
+            "uri": "https://api.sketchfab.com/v3/tags/motorcycle"
+        },
+        {
+            "name": "spiderman",
+            "slug": "spiderman",
+            "uri": "https://api.sketchfab.com/v3/tags/spiderman"
+        },
+        {
+            "name": "gratis",
+            "slug": "gratis",
+            "uri": "https://api.sketchfab.com/v3/tags/gratis"
+        },
+        {
+            "name": "coches",
+            "slug": "coches",
+            "uri": "https://api.sketchfab.com/v3/tags/coches"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "3dsmax",
+            "slug": "3dsmax",
+            "uri": "https://api.sketchfab.com/v3/tags/3dsmax"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "35e9d209031043d28ab2bfe4420907bf",
+                "width": 1920,
+                "height": 1080,
+                "size": 50780,
+                "url": "https://media.sketchfab.com/models/33e16b8f63714a6db88e7187f2e04db0/thumbnails/21984aba5b3b456a9c3f5278968b9289/ffa6e8a1b4924bc6a5a136d0611277be.jpeg"
+            },
+            {
+                "uid": "e369e0985dc54506a1450bd6727e4740",
+                "width": 1024,
+                "height": 576,
+                "size": 16725,
+                "url": "https://media.sketchfab.com/models/33e16b8f63714a6db88e7187f2e04db0/thumbnails/21984aba5b3b456a9c3f5278968b9289/efe4149716594433946d3f4228bb2dba.jpeg"
+            },
+            {
+                "uid": "5f779fd2854346efa8925e9ca81eceae",
+                "width": 720,
+                "height": 405,
+                "size": 9671,
+                "url": "https://media.sketchfab.com/models/33e16b8f63714a6db88e7187f2e04db0/thumbnails/21984aba5b3b456a9c3f5278968b9289/343654c6f759429da490ef74e450fb3e.jpeg"
+            },
+            {
+                "uid": "8dfbe9754c424c0baada1f0a83ef814b",
+                "width": 256,
+                "height": 144,
+                "size": 2452,
+                "url": "https://media.sketchfab.com/models/33e16b8f63714a6db88e7187f2e04db0/thumbnails/21984aba5b3b456a9c3f5278968b9289/5e8dac6fa222411cbcab2d6ef8969a67.jpeg"
+            },
+            {
+                "uid": "5ab11e5ffc0542c1839bd527bc311e01",
+                "width": 64,
+                "height": 36,
+                "size": 912,
+                "url": "https://media.sketchfab.com/models/33e16b8f63714a6db88e7187f2e04db0/thumbnails/21984aba5b3b456a9c3f5278968b9289/02f86057dc8a478b864942c5e22fb80c.jpeg"
+            }
+        ]
+    },
+    "uid": "33e16b8f63714a6db88e7187f2e04db0",
+    "uri": "https://api.sketchfab.com/v3/models/33e16b8f63714a6db88e7187f2e04db0",
+    "user": {
+        "uid": "9fc1f67980204a909580dc99a96fb3ef",
+        "username": "Elrena03",
+        "displayName": "MinerMOD",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Elrena03",
+        "avatar": {
+            "uid": "67bc568fc9e043baa243b25fc3c49647",
+            "uri": "https://api.sketchfab.com/v3/avatars/67bc568fc9e043baa243b25fc3c49647",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1557,
+                    "url": "https://media.sketchfab.com/avatars/67bc568fc9e043baa243b25fc3c49647/3ce693f720fa49579c19f612eeb816b8.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2779,
+                    "url": "https://media.sketchfab.com/avatars/67bc568fc9e043baa243b25fc3c49647/182e9b9c0c1f420cb2bf0ab7ea256809.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 6296,
+                    "url": "https://media.sketchfab.com/avatars/67bc568fc9e043baa243b25fc3c49647/e14df91b919d43aab4c7d13c57a8b8f4.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 7114,
+                    "url": "https://media.sketchfab.com/avatars/67bc568fc9e043baa243b25fc3c49647/726e035b31bd4172a403461243109a04.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9fc1f67980204a909580dc99a96fb3ef"
+    },
+    "vertexCount": 133460,
+    "viewCount": 21,
+    "viewerUrl": "https://sketchfab.com/3d-models/porche-1975-turbo-free-for-blender-33e16b8f63714a6db88e7187f2e04db0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "este modelo es de un porche de 1975 Turbo COMPLETAMENTE GRATIS listo para el juego, pelicula escena y lo que sea,\nCUALQUIER PREGUNTA MANDAR EN LA CASILLA DE COMENTARIOS",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/33e16b8f63714a6db88e7187f2e04db0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-26T02:29:01.899808",
+    "pbrType": "metalness",
+    "textureCount": 37,
+    "materialCount": 14
+}

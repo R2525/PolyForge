@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T08:18:43.829829",
+    "embedUrl": "https://sketchfab.com/models/45ddda96b2914b44a9fa43cd1dfb6019/embed",
+    "faceCount": 180884,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Rusted Metal Chisel",
+    "publishedAt": "2026-02-21T08:21:07.477432",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "rusted",
+            "slug": "rusted",
+            "uri": "https://api.sketchfab.com/v3/tags/rusted"
+        },
+        {
+            "name": "chisel",
+            "slug": "chisel",
+            "uri": "https://api.sketchfab.com/v3/tags/chisel"
+        },
+        {
+            "name": "grunge",
+            "slug": "grunge",
+            "uri": "https://api.sketchfab.com/v3/tags/grunge"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "Tool",
+            "slug": "tool",
+            "uri": "https://api.sketchfab.com/v3/tags/tool"
+        },
+        {
+            "name": "Scanned",
+            "slug": "scanned",
+            "uri": "https://api.sketchfab.com/v3/tags/scanned"
+        },
+        {
+            "name": "spike",
+            "slug": "spike",
+            "uri": "https://api.sketchfab.com/v3/tags/spike"
+        },
+        {
+            "name": "construction",
+            "slug": "construction",
+            "uri": "https://api.sketchfab.com/v3/tags/construction"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "939e8a0261bf4d16a669624d362ba5ca",
+                "width": 1920,
+                "height": 1080,
+                "size": 41310,
+                "url": "https://media.sketchfab.com/models/45ddda96b2914b44a9fa43cd1dfb6019/thumbnails/bf4004aee72f4148bc198326807b272c/5e522b1dfc314825a61c97133d5c44a5.jpeg"
+            },
+            {
+                "uid": "ff3a17596e1e4deb929860e201eb3334",
+                "width": 1024,
+                "height": 576,
+                "size": 12516,
+                "url": "https://media.sketchfab.com/models/45ddda96b2914b44a9fa43cd1dfb6019/thumbnails/bf4004aee72f4148bc198326807b272c/d618a7a5447a4e1490dae3abfbb82cff.jpeg"
+            },
+            {
+                "uid": "954926e4d781482fae047533f78cf90c",
+                "width": 720,
+                "height": 405,
+                "size": 6903,
+                "url": "https://media.sketchfab.com/models/45ddda96b2914b44a9fa43cd1dfb6019/thumbnails/bf4004aee72f4148bc198326807b272c/ff8860a0f10f4c95b8c4ea6a415aa3c4.jpeg"
+            },
+            {
+                "uid": "44e4c3453ea74f038df796093b0474c4",
+                "width": 256,
+                "height": 144,
+                "size": 1601,
+                "url": "https://media.sketchfab.com/models/45ddda96b2914b44a9fa43cd1dfb6019/thumbnails/bf4004aee72f4148bc198326807b272c/8b2d4efee2344ff888d3d76a24cc81d6.jpeg"
+            },
+            {
+                "uid": "a12d58f02e124ee4a9d9e28f6830a95b",
+                "width": 64,
+                "height": 36,
+                "size": 785,
+                "url": "https://media.sketchfab.com/models/45ddda96b2914b44a9fa43cd1dfb6019/thumbnails/bf4004aee72f4148bc198326807b272c/45bf7d2398634fe2abc93bfe8e16b18d.jpeg"
+            }
+        ]
+    },
+    "uid": "45ddda96b2914b44a9fa43cd1dfb6019",
+    "uri": "https://api.sketchfab.com/v3/models/45ddda96b2914b44a9fa43cd1dfb6019",
+    "user": {
+        "uid": "0e8c66b8ae6e4a9492f972d6ba26e7dd",
+        "username": "Beiyon",
+        "displayName": "Beiyon",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Beiyon",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0e8c66b8ae6e4a9492f972d6ba26e7dd"
+    },
+    "vertexCount": 90444,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/rusted-metal-chisel-45ddda96b2914b44a9fa43cd1dfb6019",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For complete workflow compatibility, we recommend downloading the original file.The converted file is intended for web viewing only. In the source file, the following are fully preserved:✔ full scene structure✔ complete materials without reduction✔ correct PBR texture maps✔ correct object namesIf you intend to use the asset in a production environment, select the source file.A photorealistic 3D scan of a large heavy metal tool or spike featuring one flat striking end and one sharp working end. The model is covered in authentic heavy rust pitting and dirt capturing the texture of an item left to the elements. This is an excellent prop for industrial construction historical or post apocalyptic scenes where authentic worn metal detail is needed.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/45ddda96b2914b44a9fa43cd1dfb6019/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T08:21:07.697012",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,256 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2026-01-24T10:26:39.106131",
+    "embedUrl": "https://sketchfab.com/models/327d2c1c03254832979cd5a99e9f1dc3/embed",
+    "faceCount": 158639,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/72eb2b1960364637901eacce19283624",
+        "label": "Free Standard",
+        "fullName": "Free Standard",
+        "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+        "url": "https://sketchfab.com/licenses",
+        "slug": "free-st"
+    },
+    "likeCount": 49,
+    "name": "Historic European Brick Building, Roebuck",
+    "publishedAt": "2026-01-24T10:36:25.320844",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "london",
+            "slug": "london",
+            "uri": "https://api.sketchfab.com/v3/tags/london"
+        },
+        {
+            "name": "beetle",
+            "slug": "beetle",
+            "uri": "https://api.sketchfab.com/v3/tags/beetle"
+        },
+        {
+            "name": "textures",
+            "slug": "textures",
+            "uri": "https://api.sketchfab.com/v3/tags/textures"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "ac",
+            "slug": "ac",
+            "uri": "https://api.sketchfab.com/v3/tags/ac"
+        },
+        {
+            "name": "best",
+            "slug": "best",
+            "uri": "https://api.sketchfab.com/v3/tags/best"
+        },
+        {
+            "name": "harry",
+            "slug": "harry",
+            "uri": "https://api.sketchfab.com/v3/tags/harry"
+        },
+        {
+            "name": "8k",
+            "slug": "8k",
+            "uri": "https://api.sketchfab.com/v3/tags/8k"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "hardsurface",
+            "slug": "hardsurface",
+            "uri": "https://api.sketchfab.com/v3/tags/hardsurface"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7f6b3134cb364363b019f8ec20eefe76",
+                "width": 1920,
+                "height": 1080,
+                "size": 367949,
+                "url": "https://media.sketchfab.com/models/327d2c1c03254832979cd5a99e9f1dc3/thumbnails/c0a207ac62f042e5aa4a4ce6501c433a/619bca71f1264a29bacf916565954984.jpeg"
+            },
+            {
+                "uid": "5abbc3a3017d4a229a0bbaf2d773a7cf",
+                "width": 1024,
+                "height": 576,
+                "size": 106324,
+                "url": "https://media.sketchfab.com/models/327d2c1c03254832979cd5a99e9f1dc3/thumbnails/c0a207ac62f042e5aa4a4ce6501c433a/ecd71dd2251744cba1f02ef908f3c395.jpeg"
+            },
+            {
+                "uid": "d95d36a435e64a499b4fd0188c3b3a49",
+                "width": 720,
+                "height": 405,
+                "size": 57405,
+                "url": "https://media.sketchfab.com/models/327d2c1c03254832979cd5a99e9f1dc3/thumbnails/c0a207ac62f042e5aa4a4ce6501c433a/2a036523314f4471a0a779cf57129d42.jpeg"
+            },
+            {
+                "uid": "2058ae55e3a94038a78a7bb6e1897a44",
+                "width": 256,
+                "height": 144,
+                "size": 9342,
+                "url": "https://media.sketchfab.com/models/327d2c1c03254832979cd5a99e9f1dc3/thumbnails/c0a207ac62f042e5aa4a4ce6501c433a/53dc79e30cfe413a99ab37ee48377588.jpeg"
+            },
+            {
+                "uid": "5c5dad74ba1a488db38acd7aa91d8138",
+                "width": 64,
+                "height": 36,
+                "size": 1467,
+                "url": "https://media.sketchfab.com/models/327d2c1c03254832979cd5a99e9f1dc3/thumbnails/c0a207ac62f042e5aa4a4ce6501c433a/313c12edd0194ba9a0855ba773e0345e.jpeg"
+            }
+        ]
+    },
+    "uid": "327d2c1c03254832979cd5a99e9f1dc3",
+    "uri": "https://api.sketchfab.com/v3/models/327d2c1c03254832979cd5a99e9f1dc3",
+    "user": {
+        "uid": "d801da361d284a679d2444e29f84ef24",
+        "username": "abhayexe",
+        "displayName": "abhayexe",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/abhayexe",
+        "avatar": {
+            "uid": "ad4d4c5b2b7a4e5ab9f0648a830d635a",
+            "uri": "https://api.sketchfab.com/v3/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1075,
+                    "url": "https://media.sketchfab.com/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a/6f29bd72fed74be99c990d5635999538.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2137,
+                    "url": "https://media.sketchfab.com/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a/9d6bd144e63c49e1903c44bf8a7bdc25.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4959,
+                    "url": "https://media.sketchfab.com/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a/629c1ca78d5d4acdbf0c75592570e14e.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5672,
+                    "url": "https://media.sketchfab.com/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a/95698209c6be4004bc1afec2ec8218e0.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d801da361d284a679d2444e29f84ef24"
+    },
+    "vertexCount": 81479,
+    "viewCount": 782,
+    "viewerUrl": "https://sketchfab.com/3d-models/historic-european-brick-building-roebuck-327d2c1c03254832979cd5a99e9f1dc3",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Had been working on this project for quiet a long time, I just love the building based on The Roebuck Building, Borough\n\nInspirations: https://www.instagram.com/p/CTrCKv_olPd/?hl=en\n![](https://i.pinimg.com/1200x/e3/34/da/e334da679518b82f0f38bf194ce6f7ce.jpg)\n![](https://i.pinimg.com/736x/8b/91/ac/8b91ace860736d8b7aea8c929c0dc545.jpg)\n![](https://i.pinimg.com/1200x/e3/fa/fc/e3fafc3f8916bbbfa31980d958843b85.jpg)\n\n\nmade in blender by me. Used smart node based materials that i made myself in blender.\n\nTextured, modelled and baked in blender by me. No AI is used here Gameready Realistic 4K textures baked and LowPoly Substance Painter not used ❌ Blender only✔️\n\nYou are free to use my work in any of your works (games, videos anything) without credits but you can let me know your works in the comments just because I like to see them.\n\n8k PBR maps.\n\ngameready ✔️ realistic ✔️ photoreal ✔️ pbr ✔️ unrealengine ✔️ unity ✔️ nanite-ready ✔️ high-detail ✔️ optimized-mesh ✔️ environment-asset ✔️ urban ✔️ cityscape ✔️",
+    "price": null,
+    "downloadCount": 213,
+    "editorUrl": "https://sketchfab.com/models/327d2c1c03254832979cd5a99e9f1dc3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-24T18:18:36.165209",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

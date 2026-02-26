@@ -1,0 +1,37 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.5
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Clean"
+    ],
+    "tags": [
+        "barrel",
+        "wooden",
+        "crate"
+    ]
+}

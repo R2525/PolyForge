@@ -1,0 +1,214 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T14:57:51.220743",
+    "embedUrl": "https://sketchfab.com/models/17fb09059399483c947b7627ff3aa881/embed",
+    "faceCount": 456734,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Neon Midnight Violet",
+    "publishedAt": "2026-02-17T14:58:29.913634",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "heroine",
+            "slug": "heroine",
+            "uri": "https://api.sketchfab.com/v3/tags/heroine"
+        },
+        {
+            "name": "fashion",
+            "slug": "fashion",
+            "uri": "https://api.sketchfab.com/v3/tags/fashion"
+        },
+        {
+            "name": "purple",
+            "slug": "purple",
+            "uri": "https://api.sketchfab.com/v3/tags/purple"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "goth",
+            "slug": "goth",
+            "uri": "https://api.sketchfab.com/v3/tags/goth"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "06d53c07576b42019e1739709e8a1a91",
+                "width": 1920,
+                "height": 1080,
+                "size": 74976,
+                "url": "https://media.sketchfab.com/models/17fb09059399483c947b7627ff3aa881/thumbnails/2d7b4b6541a448d381f3931a21ef662f/053f7a11ac83411c8802dde5cecc810f.jpeg"
+            },
+            {
+                "uid": "ad32bcea152840a9939043ef10eaa13a",
+                "width": 1024,
+                "height": 576,
+                "size": 25373,
+                "url": "https://media.sketchfab.com/models/17fb09059399483c947b7627ff3aa881/thumbnails/2d7b4b6541a448d381f3931a21ef662f/731167d948714894bc38a80a52f811a1.jpeg"
+            },
+            {
+                "uid": "9186d5813fcc47729832ff73a57cfcc6",
+                "width": 720,
+                "height": 405,
+                "size": 14728,
+                "url": "https://media.sketchfab.com/models/17fb09059399483c947b7627ff3aa881/thumbnails/2d7b4b6541a448d381f3931a21ef662f/2f4377f0f3ae409e861abd3026474564.jpeg"
+            },
+            {
+                "uid": "2aeb6ce1a61c41dfb04fcfde05a57e3e",
+                "width": 256,
+                "height": 144,
+                "size": 3242,
+                "url": "https://media.sketchfab.com/models/17fb09059399483c947b7627ff3aa881/thumbnails/2d7b4b6541a448d381f3931a21ef662f/7c8946e9b56b49fe9b86bbb4ad80ef7f.jpeg"
+            },
+            {
+                "uid": "fb45fe947caf4feb98966b28a071832d",
+                "width": 64,
+                "height": 36,
+                "size": 972,
+                "url": "https://media.sketchfab.com/models/17fb09059399483c947b7627ff3aa881/thumbnails/2d7b4b6541a448d381f3931a21ef662f/b3649d2d59a64823a2ff78d99c2a0a65.jpeg"
+            }
+        ]
+    },
+    "uid": "17fb09059399483c947b7627ff3aa881",
+    "uri": "https://api.sketchfab.com/v3/models/17fb09059399483c947b7627ff3aa881",
+    "user": {
+        "uid": "87a15f9055314e92bd223ec2cfda2b47",
+        "username": "Liperfirst",
+        "displayName": "Liperfirst",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Liperfirst",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/87a15f9055314e92bd223ec2cfda2b47"
+    },
+    "vertexCount": 228086,
+    "viewCount": 56,
+    "viewerUrl": "https://sketchfab.com/3d-models/neon-midnight-violet-17fb09059399483c947b7627ff3aa881",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/Fpx6M5](https://www.meshy.ai/s/Fpx6M5)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/17fb09059399483c947b7627ff3aa881/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-17T14:58:29.894680",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

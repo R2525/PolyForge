@@ -1,0 +1,184 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-06T19:52:20.076633",
+    "embedUrl": "https://sketchfab.com/models/22489492c75642b29ca7935ea5497fa9/embed",
+    "faceCount": 43172,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Warhammer model",
+    "publishedAt": "2026-02-07T17:23:03.381947",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "angel",
+            "slug": "angel",
+            "uri": "https://api.sketchfab.com/v3/tags/angel"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "animated",
+            "slug": "animated",
+            "uri": "https://api.sketchfab.com/v3/tags/animated"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "258e54a6043b490793f3976b9b6ceb28",
+                "width": 1920,
+                "height": 1080,
+                "size": 103125,
+                "url": "https://media.sketchfab.com/models/22489492c75642b29ca7935ea5497fa9/thumbnails/8fa98b3e6fbe493bb1b13fd6d1fc16ed/dba469dea64e419abfef1c0899594d83.jpeg"
+            },
+            {
+                "uid": "da9f169842814374826a850c0be69432",
+                "width": 1024,
+                "height": 576,
+                "size": 29506,
+                "url": "https://media.sketchfab.com/models/22489492c75642b29ca7935ea5497fa9/thumbnails/8fa98b3e6fbe493bb1b13fd6d1fc16ed/d5e1e9e9f00240f0af3490097fe12b44.jpeg"
+            },
+            {
+                "uid": "40faf0d4d5f84f3e8e3a7b06199c99e0",
+                "width": 720,
+                "height": 405,
+                "size": 16118,
+                "url": "https://media.sketchfab.com/models/22489492c75642b29ca7935ea5497fa9/thumbnails/8fa98b3e6fbe493bb1b13fd6d1fc16ed/2b4429d8024c4d49be5432bba0dce279.jpeg"
+            },
+            {
+                "uid": "6d24f618250740f7bdc6e07e6b2cfe7a",
+                "width": 256,
+                "height": 144,
+                "size": 3154,
+                "url": "https://media.sketchfab.com/models/22489492c75642b29ca7935ea5497fa9/thumbnails/8fa98b3e6fbe493bb1b13fd6d1fc16ed/d1be78462b3d45cb8cff98f99838e0b9.jpeg"
+            },
+            {
+                "uid": "391943ee77844abe8ee0c95e1bc289a9",
+                "width": 64,
+                "height": 36,
+                "size": 893,
+                "url": "https://media.sketchfab.com/models/22489492c75642b29ca7935ea5497fa9/thumbnails/8fa98b3e6fbe493bb1b13fd6d1fc16ed/97b3c3ae0ecc4d30bd38f0cb381b0fb1.jpeg"
+            }
+        ]
+    },
+    "uid": "22489492c75642b29ca7935ea5497fa9",
+    "uri": "https://api.sketchfab.com/v3/models/22489492c75642b29ca7935ea5497fa9",
+    "user": {
+        "uid": "7b084d163f5845a7af72cb8bde92666a",
+        "username": "andrey.",
+        "displayName": "Andrey",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/andrey.",
+        "avatar": {
+            "uid": "4c16bfa314944c73b2229af64689cc56",
+            "uri": "https://api.sketchfab.com/v3/avatars/4c16bfa314944c73b2229af64689cc56",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1204,
+                    "url": "https://media.sketchfab.com/avatars/4c16bfa314944c73b2229af64689cc56/07ad7d68a8d747228ff6253f08a81265.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1695,
+                    "url": "https://media.sketchfab.com/avatars/4c16bfa314944c73b2229af64689cc56/60a4b6dad3654ad0b24fb835b80189a2.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3474,
+                    "url": "https://media.sketchfab.com/avatars/4c16bfa314944c73b2229af64689cc56/378cad2a9cfb45099ba555527a2e78e8.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3981,
+                    "url": "https://media.sketchfab.com/avatars/4c16bfa314944c73b2229af64689cc56/b1e42456f68b47afbed1790c29f119f7.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7b084d163f5845a7af72cb8bde92666a"
+    },
+    "vertexCount": 22172,
+    "viewCount": 54,
+    "viewerUrl": "https://sketchfab.com/3d-models/warhammer-model-22489492c75642b29ca7935ea5497fa9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "I was determined to create something dynamic when I stumbled upon Warhammer.\nThe model was entirely hand-made, without brushes or additional mouse settings, for $1.50.\n\nIf you liked it, please give it a like and leave a comment so I can see what I can improve. Or would you like to see more models in this style?",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/22489492c75642b29ca7935ea5497fa9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-12T13:51:07.698477",
+    "pbrType": "metalness",
+    "textureCount": 51,
+    "materialCount": 16
+}

@@ -1,0 +1,309 @@
+{
+    "animationCount": 13,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T15:56:14.327322",
+    "embedUrl": "https://sketchfab.com/models/23f0eab8c1084c64a06bec119a47207c/embed",
+    "faceCount": 1910,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Lowpoly Boy Base Character Rigged Animation Pack",
+    "publishedAt": "2026-02-23T16:01:13.455004",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "base",
+            "slug": "base",
+            "uri": "https://api.sketchfab.com/v3/tags/base"
+        },
+        {
+            "name": "cute",
+            "slug": "cute",
+            "uri": "https://api.sketchfab.com/v3/tags/cute"
+        },
+        {
+            "name": "kid",
+            "slug": "kid",
+            "uri": "https://api.sketchfab.com/v3/tags/kid"
+        },
+        {
+            "name": "boy",
+            "slug": "boy",
+            "uri": "https://api.sketchfab.com/v3/tags/boy"
+        },
+        {
+            "name": "indie",
+            "slug": "indie",
+            "uri": "https://api.sketchfab.com/v3/tags/indie"
+        },
+        {
+            "name": "walking",
+            "slug": "walking",
+            "uri": "https://api.sketchfab.com/v3/tags/walking"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "child",
+            "slug": "child",
+            "uri": "https://api.sketchfab.com/v3/tags/child"
+        },
+        {
+            "name": "dance",
+            "slug": "dance",
+            "uri": "https://api.sketchfab.com/v3/tags/dance"
+        },
+        {
+            "name": "npc",
+            "slug": "npc",
+            "uri": "https://api.sketchfab.com/v3/tags/npc"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "water",
+            "slug": "water",
+            "uri": "https://api.sketchfab.com/v3/tags/water"
+        },
+        {
+            "name": "Turn",
+            "slug": "turn",
+            "uri": "https://api.sketchfab.com/v3/tags/turn"
+        },
+        {
+            "name": "casual",
+            "slug": "casual",
+            "uri": "https://api.sketchfab.com/v3/tags/casual"
+        },
+        {
+            "name": "Running",
+            "slug": "running",
+            "uri": "https://api.sketchfab.com/v3/tags/running"
+        },
+        {
+            "name": "Hiphop",
+            "slug": "hiphop",
+            "uri": "https://api.sketchfab.com/v3/tags/hiphop"
+        },
+        {
+            "name": "idle",
+            "slug": "idle",
+            "uri": "https://api.sketchfab.com/v3/tags/idle"
+        },
+        {
+            "name": "samba",
+            "slug": "samba",
+            "uri": "https://api.sketchfab.com/v3/tags/samba"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "mobile",
+            "slug": "mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/mobile"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "animated",
+            "slug": "animated",
+            "uri": "https://api.sketchfab.com/v3/tags/animated"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "71ce942ea772459db6d21465b12e9859",
+                "width": 1920,
+                "height": 1080,
+                "size": 73832,
+                "url": "https://media.sketchfab.com/models/23f0eab8c1084c64a06bec119a47207c/thumbnails/2693a6268d0e466395f145e2625d1cf6/47b5dc450b7542e5915e2638ac598ece.jpeg"
+            },
+            {
+                "uid": "5269f31278a04035bb38f0c64569c16c",
+                "width": 1024,
+                "height": 576,
+                "size": 22679,
+                "url": "https://media.sketchfab.com/models/23f0eab8c1084c64a06bec119a47207c/thumbnails/2693a6268d0e466395f145e2625d1cf6/46b05eca41194768a9dada7ff79dad20.jpeg"
+            },
+            {
+                "uid": "f79161c6910f454f95392ca005728cc9",
+                "width": 720,
+                "height": 405,
+                "size": 13094,
+                "url": "https://media.sketchfab.com/models/23f0eab8c1084c64a06bec119a47207c/thumbnails/2693a6268d0e466395f145e2625d1cf6/3c934da95805488fbc0638fdbffad0b0.jpeg"
+            },
+            {
+                "uid": "2bfd5586cc6f41f297e14a0cfdc02f05",
+                "width": 256,
+                "height": 144,
+                "size": 3194,
+                "url": "https://media.sketchfab.com/models/23f0eab8c1084c64a06bec119a47207c/thumbnails/2693a6268d0e466395f145e2625d1cf6/3425758a218841bc97ba48d7bdc72fec.jpeg"
+            },
+            {
+                "uid": "fc4d3de291f848faa3f61089e793ac1e",
+                "width": 64,
+                "height": 36,
+                "size": 1025,
+                "url": "https://media.sketchfab.com/models/23f0eab8c1084c64a06bec119a47207c/thumbnails/2693a6268d0e466395f145e2625d1cf6/c6cfe0cc395146549f4d5dce0b306cd6.jpeg"
+            }
+        ]
+    },
+    "uid": "23f0eab8c1084c64a06bec119a47207c",
+    "uri": "https://api.sketchfab.com/v3/models/23f0eab8c1084c64a06bec119a47207c",
+    "user": {
+        "uid": "023b765e831b4926b6e5e06ab0f8e0d4",
+        "username": "vukhiemton",
+        "displayName": "vukhiemton",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/vukhiemton",
+        "avatar": {
+            "uid": "cd1b42afb32146d8821b1a6a30221472",
+            "uri": "https://api.sketchfab.com/v3/avatars/cd1b42afb32146d8821b1a6a30221472",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1079,
+                    "url": "https://media.sketchfab.com/avatars/cd1b42afb32146d8821b1a6a30221472/5e5d7fe3fca746bfb9b06f0489db005b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1587,
+                    "url": "https://media.sketchfab.com/avatars/cd1b42afb32146d8821b1a6a30221472/8016d72ae65940f9b7d47b675537df4a.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3656,
+                    "url": "https://media.sketchfab.com/avatars/cd1b42afb32146d8821b1a6a30221472/f622955ce8fe4b3eba428ee32a154f71.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4228,
+                    "url": "https://media.sketchfab.com/avatars/cd1b42afb32146d8821b1a6a30221472/6a042e3d59694dda907c9d5e2ddb7938.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/023b765e831b4926b6e5e06ab0f8e0d4"
+    },
+    "vertexCount": 957,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/lowpoly-boy-base-character-rigged-animation-pack-23f0eab8c1084c64a06bec119a47207c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Stylized low poly boy character with a complete animation set, optimized for real-time games, mobile projects, indie titles, and stylized environments.\n\nClean topology, lightweight mesh, and fully rigged skeleton make this character perfect for gameplay integration and animation systems.\n\nCharacter Information\n\nVertices: 957\n\nFaces: 968\n\nTriangles: 1,910\n\nClean quad-based topology\n\nOptimized for real-time performance\n\nFully rigged humanoid skeleton\n\nGame-ready scale\n\nLightweight enough for mobile and large crowd scenes.\n\nIncluded Animation Clips (Frame Range)\n\nIdle — 0 → 278\nWalking — 279 → 302\nWalk_Strafe_Left — 303 → 338\nWalking_Turn_180 — 339 → 363\nTripping — 364 → 414\nRunning — 415 → 431\nSlow_Run — 433 → 450\nRunning_Backward — 451 → 464\nRun_Arc_Left — 465 → 477\nTreading_Water — 479 → 550\nHip_Hop_Dancing — 551 → 720\nSamba_Dancing — 721 → 1389\nRight_Turn — 1340 → 1414\n\nAll animations are separated into clean clips and ready for export as individual takes or single FBX file.",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/23f0eab8c1084c64a06bec119a47207c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T01:58:31.997105",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

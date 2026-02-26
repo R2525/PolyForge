@@ -1,0 +1,339 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-28T22:46:06.563993",
+    "embedUrl": "https://sketchfab.com/models/3f742aaa0a214647bb4e7b3683d9ec52/embed",
+    "faceCount": 119447,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Canecillos, Catedral de Valladolid",
+    "publishedAt": "2026-01-29T07:49:53.615013",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cathedral",
+            "slug": "cathedral",
+            "uri": "https://api.sketchfab.com/v3/tags/cathedral"
+        },
+        {
+            "name": "spain",
+            "slug": "spain",
+            "uri": "https://api.sketchfab.com/v3/tags/spain"
+        },
+        {
+            "name": "arquitectura",
+            "slug": "arquitectura",
+            "uri": "https://api.sketchfab.com/v3/tags/arquitectura"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "retopology",
+            "slug": "retopology",
+            "uri": "https://api.sketchfab.com/v3/tags/retopology"
+        },
+        {
+            "name": "iglesia",
+            "slug": "iglesia",
+            "uri": "https://api.sketchfab.com/v3/tags/iglesia"
+        },
+        {
+            "name": "catedral",
+            "slug": "catedral",
+            "uri": "https://api.sketchfab.com/v3/tags/catedral"
+        },
+        {
+            "name": "romanesque",
+            "slug": "romanesque",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque"
+        },
+        {
+            "name": "valladolid",
+            "slug": "valladolid",
+            "uri": "https://api.sketchfab.com/v3/tags/valladolid"
+        },
+        {
+            "name": "fotogrametria",
+            "slug": "fotogrametria",
+            "uri": "https://api.sketchfab.com/v3/tags/fotogrametria"
+        },
+        {
+            "name": "Corbel",
+            "slug": "corbel",
+            "uri": "https://api.sketchfab.com/v3/tags/corbel"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "Espana",
+            "slug": "espana",
+            "uri": "https://api.sketchfab.com/v3/tags/espana"
+        },
+        {
+            "name": "middleages",
+            "slug": "middleages",
+            "uri": "https://api.sketchfab.com/v3/tags/middleages"
+        },
+        {
+            "name": "romanico",
+            "slug": "romanico",
+            "uri": "https://api.sketchfab.com/v3/tags/romanico"
+        },
+        {
+            "name": "cultural-heritage",
+            "slug": "cultural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage"
+        },
+        {
+            "name": "romanesque-art",
+            "slug": "romanesque-art",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque-art"
+        },
+        {
+            "name": "retopologia",
+            "slug": "retopologia",
+            "uri": "https://api.sketchfab.com/v3/tags/retopologia"
+        },
+        {
+            "name": "optimizado",
+            "slug": "optimizado",
+            "uri": "https://api.sketchfab.com/v3/tags/optimizado"
+        },
+        {
+            "name": "castilla-y-leon",
+            "slug": "castilla-y-leon",
+            "uri": "https://api.sketchfab.com/v3/tags/castilla-y-leon"
+        },
+        {
+            "name": "colegiata",
+            "slug": "colegiata",
+            "uri": "https://api.sketchfab.com/v3/tags/colegiata"
+        },
+        {
+            "name": "patrimoniocultural",
+            "slug": "patrimoniocultural",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimoniocultural"
+        },
+        {
+            "name": "sigloxiii",
+            "slug": "sigloxiii",
+            "uri": "https://api.sketchfab.com/v3/tags/sigloxiii"
+        },
+        {
+            "name": "edadmedia",
+            "slug": "edadmedia",
+            "uri": "https://api.sketchfab.com/v3/tags/edadmedia"
+        },
+        {
+            "name": "culturalheritage-photogrammetry-3dmodel",
+            "slug": "culturalheritage-photogrammetry-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/culturalheritage-photogrammetry-3dmodel"
+        },
+        {
+            "name": "cultural-heritage-photogrammetry-historical",
+            "slug": "cultural-heritage-photogrammetry-historical",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage-photogrammetry-historical"
+        },
+        {
+            "name": "canecillo",
+            "slug": "canecillo",
+            "uri": "https://api.sketchfab.com/v3/tags/canecillo"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "church",
+            "slug": "church",
+            "uri": "https://api.sketchfab.com/v3/tags/church"
+        },
+        {
+            "name": "romanesque-church",
+            "slug": "romanesque-church",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque-church"
+        },
+        {
+            "name": "xiii-century",
+            "slug": "xiii-century",
+            "uri": "https://api.sketchfab.com/v3/tags/xiii-century"
+        },
+        {
+            "name": "arteromanico",
+            "slug": "arteromanico",
+            "uri": "https://api.sketchfab.com/v3/tags/arteromanico"
+        },
+        {
+            "name": "romanesque-architecture",
+            "slug": "romanesque-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque-architecture"
+        },
+        {
+            "name": "arquitecturaromanica",
+            "slug": "arquitecturaromanica",
+            "uri": "https://api.sketchfab.com/v3/tags/arquitecturaromanica"
+        },
+        {
+            "name": "castileandleon",
+            "slug": "castileandleon",
+            "uri": "https://api.sketchfab.com/v3/tags/castileandleon"
+        },
+        {
+            "name": "catedraldevalladolid",
+            "slug": "catedraldevalladolid",
+            "uri": "https://api.sketchfab.com/v3/tags/catedraldevalladolid"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "465ae168db5942538c45649fdb3a5f6a",
+                "width": 1920,
+                "height": 1080,
+                "size": 140335,
+                "url": "https://media.sketchfab.com/models/3f742aaa0a214647bb4e7b3683d9ec52/thumbnails/5ab41eedc75647c3a1737e04854ee129/61d859d57afa4a73a5a8fe3905d429cf.jpeg"
+            },
+            {
+                "uid": "12ebf56284944624aaf9d9ea474ee173",
+                "width": 1024,
+                "height": 576,
+                "size": 43385,
+                "url": "https://media.sketchfab.com/models/3f742aaa0a214647bb4e7b3683d9ec52/thumbnails/5ab41eedc75647c3a1737e04854ee129/976bb91df5174eab8107656b6d15ee80.jpeg"
+            },
+            {
+                "uid": "89f369d70e89481898d58f354fd470d9",
+                "width": 720,
+                "height": 405,
+                "size": 24036,
+                "url": "https://media.sketchfab.com/models/3f742aaa0a214647bb4e7b3683d9ec52/thumbnails/5ab41eedc75647c3a1737e04854ee129/5fe49194ac824a80a587ae4c13879aba.jpeg"
+            },
+            {
+                "uid": "0754238e0a884ddcb64a79e8ca212d6b",
+                "width": 256,
+                "height": 144,
+                "size": 4881,
+                "url": "https://media.sketchfab.com/models/3f742aaa0a214647bb4e7b3683d9ec52/thumbnails/5ab41eedc75647c3a1737e04854ee129/32c4420fc3ad4b88acde363f25630546.jpeg"
+            },
+            {
+                "uid": "917d61057b0a4528bb94b741d93e6678",
+                "width": 64,
+                "height": 36,
+                "size": 1053,
+                "url": "https://media.sketchfab.com/models/3f742aaa0a214647bb4e7b3683d9ec52/thumbnails/5ab41eedc75647c3a1737e04854ee129/c8015df1defd4770931be26e8636de6d.jpeg"
+            }
+        ]
+    },
+    "uid": "3f742aaa0a214647bb4e7b3683d9ec52",
+    "uri": "https://api.sketchfab.com/v3/models/3f742aaa0a214647bb4e7b3683d9ec52",
+    "user": {
+        "uid": "21dd9d33c5b742e895572a055d090666",
+        "username": "hjft",
+        "displayName": "Héctor Fonseca",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/hjft",
+        "avatar": {
+            "uid": "05c2ecc488c64911b37fd60cdd768844",
+            "uri": "https://api.sketchfab.com/v3/avatars/05c2ecc488c64911b37fd60cdd768844",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4288,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/fee3698f526a4dd2aeed90148e421f20.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3657,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/2d6da696b4c940f7b2f63c9ae1825b70.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/4c2a7427d7c9466d93c651dec25be2e9.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 837,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/e426a17375db4f2c972c4624450b2e43.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/21dd9d33c5b742e895572a055d090666"
+    },
+    "vertexCount": 62938,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/canecillos-catedral-de-valladolid-3f742aaa0a214647bb4e7b3683d9ec52",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**ESP** Canecillos románicos (s. XIII) que forman parte de los restos de la antigua Colegiata de Santa María la Mayor de Valladolid, y actualmente integrados en la Catedral. Representan una cabez, posiblemente femenina y un motivo vegetal.\n\n**ENG** Romanesque corbels (13th century) that form part of the remains of the old Collegiate Church of Santa María la Mayor in Valladolid, and are now incorporated into the Cathedral. They depict a head, possibly female, and a plant motif.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3f742aaa0a214647bb4e7b3683d9ec52/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-29T07:49:54.234984",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 2
+}

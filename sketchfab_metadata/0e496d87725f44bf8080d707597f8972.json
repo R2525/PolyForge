@@ -1,0 +1,190 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-01T18:31:03.106452",
+    "embedUrl": "https://sketchfab.com/models/0e496d87725f44bf8080d707597f8972/embed",
+    "faceCount": 341790,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Barbed Baseball Bat – Game Ready Prop",
+    "publishedAt": "2026-02-01T18:36:06.422079",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "3D_Model",
+            "slug": "3d_model",
+            "uri": "https://api.sketchfab.com/v3/tags/3d_model"
+        },
+        {
+            "name": "melee_weapon",
+            "slug": "melee_weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/melee_weapon"
+        },
+        {
+            "name": "game_ready",
+            "slug": "game_ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game_ready"
+        },
+        {
+            "name": "post_apocalyptic",
+            "slug": "post_apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post_apocalyptic"
+        },
+        {
+            "name": "baseball_bat",
+            "slug": "baseball_bat",
+            "uri": "https://api.sketchfab.com/v3/tags/baseball_bat"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "unreal_engine",
+            "slug": "unreal_engine",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal_engine"
+        },
+        {
+            "name": "barbed_bat",
+            "slug": "barbed_bat",
+            "uri": "https://api.sketchfab.com/v3/tags/barbed_bat"
+        },
+        {
+            "name": "weapon_prop",
+            "slug": "weapon_prop",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon_prop"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b8659b6de5a54ad7ab25e69418a08c65",
+                "width": 1920,
+                "height": 1080,
+                "size": 49513,
+                "url": "https://media.sketchfab.com/models/0e496d87725f44bf8080d707597f8972/thumbnails/7ec92175b9394783b6299a063fc42708/6613084919794ca6869acad93831fb0b.jpeg"
+            },
+            {
+                "uid": "abd4e7ebf7314aca850cff581b179620",
+                "width": 1024,
+                "height": 576,
+                "size": 16086,
+                "url": "https://media.sketchfab.com/models/0e496d87725f44bf8080d707597f8972/thumbnails/7ec92175b9394783b6299a063fc42708/369c82acf19b4c42b81ad8f0f40c59ed.jpeg"
+            },
+            {
+                "uid": "97b4fb2ca3e6460f91514f60c0e529ef",
+                "width": 720,
+                "height": 405,
+                "size": 9166,
+                "url": "https://media.sketchfab.com/models/0e496d87725f44bf8080d707597f8972/thumbnails/7ec92175b9394783b6299a063fc42708/3c99e062b6d84a7e9706d58a55553ddd.jpeg"
+            },
+            {
+                "uid": "51fc146ba7da4bb1a71bc22ea0ddc7e4",
+                "width": 256,
+                "height": 144,
+                "size": 2195,
+                "url": "https://media.sketchfab.com/models/0e496d87725f44bf8080d707597f8972/thumbnails/7ec92175b9394783b6299a063fc42708/920e09d8bf8f47a5931ac5224d75f331.jpeg"
+            },
+            {
+                "uid": "ecda0041fa6e411f949e82d00b8be175",
+                "width": 64,
+                "height": 36,
+                "size": 864,
+                "url": "https://media.sketchfab.com/models/0e496d87725f44bf8080d707597f8972/thumbnails/7ec92175b9394783b6299a063fc42708/0b438d7ad03144e0b71caedf1c263d40.jpeg"
+            }
+        ]
+    },
+    "uid": "0e496d87725f44bf8080d707597f8972",
+    "uri": "https://api.sketchfab.com/v3/models/0e496d87725f44bf8080d707597f8972",
+    "user": {
+        "uid": "27df2c6e762a42d49b11598796850caa",
+        "username": "smartrahat",
+        "displayName": "smartrahat",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/smartrahat",
+        "avatar": {
+            "uid": "9fbfa4ff937547a1b919916529315fc5",
+            "uri": "https://api.sketchfab.com/v3/avatars/9fbfa4ff937547a1b919916529315fc5",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2478,
+                    "url": "https://media.sketchfab.com/avatars/9fbfa4ff937547a1b919916529315fc5/4b887e8c7cd7441cb5a3d87db37676cf.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4632,
+                    "url": "https://media.sketchfab.com/avatars/9fbfa4ff937547a1b919916529315fc5/610f6bb38bc04b36b3ba3a502018ba02.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12211,
+                    "url": "https://media.sketchfab.com/avatars/9fbfa4ff937547a1b919916529315fc5/71ea1c865ce140078353cc355cfe33de.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 14681,
+                    "url": "https://media.sketchfab.com/avatars/9fbfa4ff937547a1b919916529315fc5/bf5df143981d4867b2cfc9175573f370.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/27df2c6e762a42d49b11598796850caa"
+    },
+    "vertexCount": 171221,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/barbed-baseball-bat-game-ready-prop-0e496d87725f44bf8080d707597f8972",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "High-quality barbed baseball bat 3D model designed for games, cinematics, and post-apocalyptic or stylized scenes. The model features clean topology, detailed barbed wire elements, and a PBR material setup for realistic surface response in real-time environments.\n\nOptimized for Blender, Unreal Engine, Unity, and WebGL workflows.\n\n**Features**\n\n* Stylized barbed baseball bat design\n* Clean, optimized topology\n* PBR materials for wood, metal, and grip\n* Real-world scale\n* Game-ready and render-ready\n\n**Technical Details**\n\n* Asset type: Weapon / Prop\n* Geometry: Optimized mesh\n* Materials: PBR (Metallic–Roughness)\n* Textures: Albedo, Normal, Roughness, Metallic\n* UVs: Non-overlapping\n* Scale: Real-world scale\n* Format: GLB (glTF 2.0)\n* Rigged: No\n* Animated: No\n\n**Recommended Use**\n\nGames, cinematic scenes, post-apocalyptic environments, horror or survival-themed projects, VR/AR scenes.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0e496d87725f44bf8080d707597f8972/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-01T18:36:06.763381",
+    "pbrType": "metalness",
+    "textureCount": 16,
+    "materialCount": 4
+}

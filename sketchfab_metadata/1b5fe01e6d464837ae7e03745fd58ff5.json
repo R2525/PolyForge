@@ -1,0 +1,217 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T22:36:45.328960",
+    "embedUrl": "https://sketchfab.com/models/1b5fe01e6d464837ae7e03745fd58ff5/embed",
+    "faceCount": 23148,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Books Essentials",
+    "publishedAt": "2026-02-17T22:45:19.117190",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "library",
+            "slug": "library",
+            "uri": "https://api.sketchfab.com/v3/tags/library"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "paper",
+            "slug": "paper",
+            "uri": "https://api.sketchfab.com/v3/tags/paper"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "books",
+            "slug": "books",
+            "uri": "https://api.sketchfab.com/v3/tags/books"
+        },
+        {
+            "name": "reading",
+            "slug": "reading",
+            "uri": "https://api.sketchfab.com/v3/tags/reading"
+        },
+        {
+            "name": "godot",
+            "slug": "godot",
+            "uri": "https://api.sketchfab.com/v3/tags/godot"
+        },
+        {
+            "name": "tomes",
+            "slug": "tomes",
+            "uri": "https://api.sketchfab.com/v3/tags/tomes"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "book",
+            "slug": "book",
+            "uri": "https://api.sketchfab.com/v3/tags/book"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6c9e883cc95244a99c2c2ceb842edcae",
+                "width": 1920,
+                "height": 1080,
+                "size": 205282,
+                "url": "https://media.sketchfab.com/models/1b5fe01e6d464837ae7e03745fd58ff5/thumbnails/34da08b5d81f4ed18b5e8a0cfb302631/ae32d8d45d3045bf80e48d5ffeace6e8.jpeg"
+            },
+            {
+                "uid": "46ee7b13314c42c49465280f9577d9b2",
+                "width": 1024,
+                "height": 576,
+                "size": 59040,
+                "url": "https://media.sketchfab.com/models/1b5fe01e6d464837ae7e03745fd58ff5/thumbnails/34da08b5d81f4ed18b5e8a0cfb302631/a1fc6555b84a4154bdd3e612198c4fc8.jpeg"
+            },
+            {
+                "uid": "fb043a99904e47869ab753636467a1f0",
+                "width": 720,
+                "height": 405,
+                "size": 36008,
+                "url": "https://media.sketchfab.com/models/1b5fe01e6d464837ae7e03745fd58ff5/thumbnails/34da08b5d81f4ed18b5e8a0cfb302631/525416abb3294fc08b3b0f8bcfd92901.jpeg"
+            },
+            {
+                "uid": "6ddd2d8b825249ba88d2a37fcfea5f26",
+                "width": 256,
+                "height": 144,
+                "size": 8665,
+                "url": "https://media.sketchfab.com/models/1b5fe01e6d464837ae7e03745fd58ff5/thumbnails/34da08b5d81f4ed18b5e8a0cfb302631/b21d18b7cf52492a9f7135779c2f0181.jpeg"
+            },
+            {
+                "uid": "98d4fea62fe24ed4998cc126ab83c949",
+                "width": 64,
+                "height": 36,
+                "size": 1426,
+                "url": "https://media.sketchfab.com/models/1b5fe01e6d464837ae7e03745fd58ff5/thumbnails/34da08b5d81f4ed18b5e8a0cfb302631/2169729bfa28457aa8093210268bc264.jpeg"
+            }
+        ]
+    },
+    "uid": "1b5fe01e6d464837ae7e03745fd58ff5",
+    "uri": "https://api.sketchfab.com/v3/models/1b5fe01e6d464837ae7e03745fd58ff5",
+    "user": {
+        "uid": "6560e1dbf642465a814ad31774c313ac",
+        "username": "Daniel.Riches",
+        "displayName": "Daniel.Riches",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Daniel.Riches",
+        "avatar": {
+            "uid": "7f9bfc25bdc140058422798a74975c98",
+            "uri": "https://api.sketchfab.com/v3/avatars/7f9bfc25bdc140058422798a74975c98",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2558,
+                    "url": "https://media.sketchfab.com/avatars/7f9bfc25bdc140058422798a74975c98/32a7db60c940422c8d4db7e71e8c5043.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4888,
+                    "url": "https://media.sketchfab.com/avatars/7f9bfc25bdc140058422798a74975c98/5b393a7cde95471ea0603a1baf62e6ee.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 13864,
+                    "url": "https://media.sketchfab.com/avatars/7f9bfc25bdc140058422798a74975c98/69ca59ba22ec4e31a4ef337f8665bbc4.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 16694,
+                    "url": "https://media.sketchfab.com/avatars/7f9bfc25bdc140058422798a74975c98/9bbdd2a9a8554773b37c784ff0d08050.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6560e1dbf642465a814ad31774c313ac"
+    },
+    "vertexCount": 15996,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/books-essentials-1b5fe01e6d464837ae7e03745fd58ff5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A collection of free 3D books and templates. Suitable for any game or app.\n\n- low poly\n- Formats: .Blend / .DAE / .OBJ / .FBX / .GLB / .STL / .MTL\n\nMy Socials\n------------------------------------------\n* Contact: danielriches1@outlook.com\n* Fab: https://www.fab.com/sellers/Daniel%20Riches\n* Sketchfab: https://sketchfab.com/Daniel.Riches/models\n* YouTube: https://www.youtube.com/@DanielRichesDev1\n* GitHub: https://github.com/DanielRiches\n* X: https://x.com/DanielRichesDev\n* Ko-Fi: https://ko-fi.com/danielriches\n* Facebook: https://www.facebook.com/daniel.riches.357",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/1b5fe01e6d464837ae7e03745fd58ff5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-17T22:46:07.176230",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 11
+}

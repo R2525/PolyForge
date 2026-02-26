@@ -1,0 +1,224 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T16:46:53.004464",
+    "embedUrl": "https://sketchfab.com/models/3b2f6847bd204b4da2455a0dd291ffb1/embed",
+    "faceCount": 1997788,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Post-Apocalyptic Survival Backpack",
+    "publishedAt": "2026-02-23T16:51:40.575584",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "portfolio",
+            "slug": "portfolio",
+            "uri": "https://api.sketchfab.com/v3/tags/portfolio"
+        },
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "hard-surface",
+            "slug": "hard-surface",
+            "uri": "https://api.sketchfab.com/v3/tags/hard-surface"
+        },
+        {
+            "name": "backpack",
+            "slug": "backpack",
+            "uri": "https://api.sketchfab.com/v3/tags/backpack"
+        },
+        {
+            "name": "tactical",
+            "slug": "tactical",
+            "uri": "https://api.sketchfab.com/v3/tags/tactical"
+        },
+        {
+            "name": "fabric",
+            "slug": "fabric",
+            "uri": "https://api.sketchfab.com/v3/tags/fabric"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "Real-time",
+            "slug": "real-time",
+            "uri": "https://api.sketchfab.com/v3/tags/real-time"
+        },
+        {
+            "name": "environment-prop",
+            "slug": "environment-prop",
+            "uri": "https://api.sketchfab.com/v3/tags/environment-prop"
+        },
+        {
+            "name": "3d-asset",
+            "slug": "3d-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-asset"
+        },
+        {
+            "name": "clean-topology",
+            "slug": "clean-topology",
+            "uri": "https://api.sketchfab.com/v3/tags/clean-topology"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "gear",
+            "slug": "gear",
+            "uri": "https://api.sketchfab.com/v3/tags/gear"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6dace64dadcc47df99df144c97eba919",
+                "width": 1920,
+                "height": 1080,
+                "size": 108011,
+                "url": "https://media.sketchfab.com/models/3b2f6847bd204b4da2455a0dd291ffb1/thumbnails/b708f03e1eb942b199d5bc7558a06bf6/071f02d2a0df47079eedd1630802a382.jpeg"
+            },
+            {
+                "uid": "02085a96860d4377918cd1a61e2eaf2f",
+                "width": 1024,
+                "height": 576,
+                "size": 34658,
+                "url": "https://media.sketchfab.com/models/3b2f6847bd204b4da2455a0dd291ffb1/thumbnails/b708f03e1eb942b199d5bc7558a06bf6/5c6e0e0615c542c28509418f23a41eab.jpeg"
+            },
+            {
+                "uid": "e408e46be6a24359a2d20f78511fde03",
+                "width": 720,
+                "height": 405,
+                "size": 19821,
+                "url": "https://media.sketchfab.com/models/3b2f6847bd204b4da2455a0dd291ffb1/thumbnails/b708f03e1eb942b199d5bc7558a06bf6/e2b80f8aa04d42a783f6bc365438439d.jpeg"
+            },
+            {
+                "uid": "6c6cabdf3e964d9ca1cc9d5e70f060de",
+                "width": 256,
+                "height": 144,
+                "size": 3921,
+                "url": "https://media.sketchfab.com/models/3b2f6847bd204b4da2455a0dd291ffb1/thumbnails/b708f03e1eb942b199d5bc7558a06bf6/4e125054475f4938860024ecaa76c512.jpeg"
+            },
+            {
+                "uid": "bf1e78aebf794e19ac122c1b19964297",
+                "width": 64,
+                "height": 36,
+                "size": 1036,
+                "url": "https://media.sketchfab.com/models/3b2f6847bd204b4da2455a0dd291ffb1/thumbnails/b708f03e1eb942b199d5bc7558a06bf6/47a343c03b8d4fd8b15e0c2ae1823e55.jpeg"
+            }
+        ]
+    },
+    "uid": "3b2f6847bd204b4da2455a0dd291ffb1",
+    "uri": "https://api.sketchfab.com/v3/models/3b2f6847bd204b4da2455a0dd291ffb1",
+    "user": {
+        "uid": "a2f716b8198444dd86eb0af4c0f7cdde",
+        "username": "Chaitanyaram._.7",
+        "displayName": "Chaitanyaram._.7",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Chaitanyaram._.7",
+        "avatar": {
+            "uid": "fde9b8f77f3c45c996f879523849f619",
+            "uri": "https://api.sketchfab.com/v3/avatars/fde9b8f77f3c45c996f879523849f619",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1053,
+                    "url": "https://media.sketchfab.com/avatars/fde9b8f77f3c45c996f879523849f619/2373f7b227ca4816b5ed6c62bf694ee7.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1494,
+                    "url": "https://media.sketchfab.com/avatars/fde9b8f77f3c45c996f879523849f619/57225e0fc88443b69596eb908fa0e807.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3446,
+                    "url": "https://media.sketchfab.com/avatars/fde9b8f77f3c45c996f879523849f619/3bc84f4ab8ac458ea4d344457e6f1213.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3967,
+                    "url": "https://media.sketchfab.com/avatars/fde9b8f77f3c45c996f879523849f619/ea4e36ee92e844c19577d542045230ec.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a2f716b8198444dd86eb0af4c0f7cdde"
+    },
+    "vertexCount": 998456,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/post-apocalyptic-survival-backpack-3b2f6847bd204b4da2455a0dd291ffb1",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This survival backpack prop is designed for post-apocalyptic and survival-themed environments. The model features reinforced fabric structure, layered storage compartments, secure straps, and utility attachments to enhance realism and functionality.\n\nSurface materials include subtle wear, fabric texture variation, and minor dirt buildup to reflect practical field usage while maintaining a production-ready finish.\n\nThe asset follows a clean topology workflow and is optimized for real-time rendering. Suitable for game environments, cinematic scenes, and survival-based projects.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3b2f6847bd204b4da2455a0dd291ffb1/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T16:51:40.948879",
+    "pbrType": "metalness",
+    "textureCount": 3,
+    "materialCount": 1
+}

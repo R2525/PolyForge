@@ -1,0 +1,166 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-11-19T16:56:59.143895",
+    "embedUrl": "https://sketchfab.com/models/22e9beed8a89434fb71e6cb1d1f32ae2/embed",
+    "faceCount": 790217,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Herma d'una divinitat bifront (s.I-II dC)",
+    "publishedAt": "2025-11-19T16:58:16.628506",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "realityscan-mobile",
+            "slug": "realityscan-mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/realityscan-mobile"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5b288fd5296243a0b968ce3876f6892f",
+                "width": 1920,
+                "height": 1080,
+                "size": 162079,
+                "url": "https://media.sketchfab.com/models/22e9beed8a89434fb71e6cb1d1f32ae2/thumbnails/3a62254a50ef43bea56374542724d8d7/9f96516e243841c99f9e7bf4721a98dc.jpeg"
+            },
+            {
+                "uid": "00661aba545f4770882c0064f33b163b",
+                "width": 1024,
+                "height": 576,
+                "size": 49408,
+                "url": "https://media.sketchfab.com/models/22e9beed8a89434fb71e6cb1d1f32ae2/thumbnails/3a62254a50ef43bea56374542724d8d7/1be1b0fc23044ec8934ee927c7d73578.jpeg"
+            },
+            {
+                "uid": "9f99ac05de8e4218bedf2619c37efb19",
+                "width": 720,
+                "height": 405,
+                "size": 28728,
+                "url": "https://media.sketchfab.com/models/22e9beed8a89434fb71e6cb1d1f32ae2/thumbnails/3a62254a50ef43bea56374542724d8d7/46a9e28f6be545179957c6025abc307d.jpeg"
+            },
+            {
+                "uid": "f5a98d693c334574835cc2ad31ebce0b",
+                "width": 256,
+                "height": 144,
+                "size": 5925,
+                "url": "https://media.sketchfab.com/models/22e9beed8a89434fb71e6cb1d1f32ae2/thumbnails/3a62254a50ef43bea56374542724d8d7/2716b9f6b5294e7fb49c331820913500.jpeg"
+            },
+            {
+                "uid": "42e6f6a4a53a4b29a51914962810626c",
+                "width": 64,
+                "height": 36,
+                "size": 1270,
+                "url": "https://media.sketchfab.com/models/22e9beed8a89434fb71e6cb1d1f32ae2/thumbnails/3a62254a50ef43bea56374542724d8d7/7d86cdbf6b904399bc7e7906d90e8d2e.jpeg"
+            }
+        ]
+    },
+    "uid": "22e9beed8a89434fb71e6cb1d1f32ae2",
+    "uri": "https://api.sketchfab.com/v3/models/22e9beed8a89434fb71e6cb1d1f32ae2",
+    "user": {
+        "uid": "325fcd9804d746799821735f1c839276",
+        "username": "khem_ib",
+        "displayName": "khem.ib",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/khem_ib",
+        "avatar": {
+            "uid": "b8f1a5b41a8140a586c1b9b122d3023b",
+            "uri": "https://api.sketchfab.com/v3/avatars/b8f1a5b41a8140a586c1b9b122d3023b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 980,
+                    "url": "https://media.sketchfab.com/avatars/b8f1a5b41a8140a586c1b9b122d3023b/c61b4821f7684669a8f68a5f76cf8917.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1302,
+                    "url": "https://media.sketchfab.com/avatars/b8f1a5b41a8140a586c1b9b122d3023b/846b6cfbad8f49c4a3ed1d87ae98226c.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2479,
+                    "url": "https://media.sketchfab.com/avatars/b8f1a5b41a8140a586c1b9b122d3023b/ae18f4665f974e5293b6e857ee96826e.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2857,
+                    "url": "https://media.sketchfab.com/avatars/b8f1a5b41a8140a586c1b9b122d3023b/2e9e1e36107f48bda5e6dbd3a6a9b425.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/325fcd9804d746799821735f1c839276"
+    },
+    "vertexCount": 395474,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/herma-duna-divinitat-bifront-si-ii-dc-22e9beed8a89434fb71e6cb1d1f32ae2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Reconstructed from 159 photos in Reality scan (Android).",
+    "price": null,
+    "downloadCount": 8,
+    "editorUrl": "https://sketchfab.com/models/22e9beed8a89434fb71e6cb1d1f32ae2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "realityscan",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-19T17:05:35.182672",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

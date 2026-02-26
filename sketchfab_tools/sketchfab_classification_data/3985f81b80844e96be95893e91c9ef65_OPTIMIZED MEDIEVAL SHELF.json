@@ -1,0 +1,69 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Historic",
+            "score": 0.8
+        },
+        {
+            "name": "Rustic",
+            "score": 0.7
+        },
+        {
+            "name": "Authentic",
+            "score": 0.6
+        },
+        {
+            "name": "Traditional",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rustic",
+        "Dusty",
+        "Grained",
+        "Worn"
+    ],
+    "tags": [
+        "medieval",
+        "shelf",
+        "wood",
+        "drawer",
+        "antique",
+        "furniture",
+        "home",
+        "old"
+    ],
+    "model_id_full": "3985f81b80844e96be95893e91c9ef65_OPTIMIZED MEDIEVAL SHELF",
+    "sketchfab_id": "3985f81b80844e96be95893e91c9ef65",
+    "asset_name": "OPTIMIZED MEDIEVAL SHELF"
+}

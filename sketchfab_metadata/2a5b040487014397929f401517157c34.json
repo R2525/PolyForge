@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-30T21:48:15.232150",
+    "embedUrl": "https://sketchfab.com/models/2a5b040487014397929f401517157c34/embed",
+    "faceCount": 223626,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "H Type Nubian Yacht",
+    "publishedAt": "2026-01-30T21:53:18.751030",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "starship",
+            "slug": "starship",
+            "uri": "https://api.sketchfab.com/v3/tags/starship"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c75a27ac1830409f8986c3aa7772427c",
+                "width": 1920,
+                "height": 1080,
+                "size": 117986,
+                "url": "https://media.sketchfab.com/models/2a5b040487014397929f401517157c34/thumbnails/1abcb7a3f8d340f191eca848f8d22a33/c2991ef7138140f5a0cb9a66b60dd4e1.jpeg"
+            },
+            {
+                "uid": "93798995b3954352a5c13975d8d58ee9",
+                "width": 1024,
+                "height": 576,
+                "size": 21903,
+                "url": "https://media.sketchfab.com/models/2a5b040487014397929f401517157c34/thumbnails/1abcb7a3f8d340f191eca848f8d22a33/ea45bd52eb2b4713b883a3dc380e76af.jpeg"
+            },
+            {
+                "uid": "9b98a6fd49244852bc18396606e5e72f",
+                "width": 720,
+                "height": 405,
+                "size": 10258,
+                "url": "https://media.sketchfab.com/models/2a5b040487014397929f401517157c34/thumbnails/1abcb7a3f8d340f191eca848f8d22a33/bd8b9a131129499d9f83609ea7766530.jpeg"
+            },
+            {
+                "uid": "a99b9f2ec1da4ce4acb3ffdefef126dc",
+                "width": 256,
+                "height": 144,
+                "size": 2053,
+                "url": "https://media.sketchfab.com/models/2a5b040487014397929f401517157c34/thumbnails/1abcb7a3f8d340f191eca848f8d22a33/dd04b943022a4da48f9ae59b5d19cfb7.jpeg"
+            },
+            {
+                "uid": "889336f89d63442a87bd17994244b407",
+                "width": 64,
+                "height": 36,
+                "size": 827,
+                "url": "https://media.sketchfab.com/models/2a5b040487014397929f401517157c34/thumbnails/1abcb7a3f8d340f191eca848f8d22a33/84e573cefbd5481aaeb32e9c43d5eb4d.jpeg"
+            }
+        ]
+    },
+    "uid": "2a5b040487014397929f401517157c34",
+    "uri": "https://api.sketchfab.com/v3/models/2a5b040487014397929f401517157c34",
+    "user": {
+        "uid": "07a868cf679941d78fc86973ebf60d08",
+        "username": "CaptainJamesKirk",
+        "displayName": "Cpt.Kirk",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/CaptainJamesKirk",
+        "avatar": {
+            "uid": "1bebc4ca6d87444fb72d92ee879027c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/1bebc4ca6d87444fb72d92ee879027c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1113,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/cf4d6df1b37d4c608bcdf19cb3ecd78d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1511,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/d4a8f984e1fc467db1a9ea57924d59da.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3394,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/70c073fad2e04eff80f02cc9e4127553.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3895,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/7b63b77d8938437688d7476eeeb5439d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/07a868cf679941d78fc86973ebf60d08"
+    },
+    "vertexCount": 139952,
+    "viewCount": 85,
+    "viewerUrl": "https://sketchfab.com/3d-models/h-type-nubian-yacht-2a5b040487014397929f401517157c34",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "hello guys, this is another model of the H-Type Nubian Yacht from Star Wars franchise\nWell, everyone have watch the Star Wars the Attack of The Clones Episode 2 when Anakin and Padme went to Tatooine, Anakin's homeworld....\nFeel free to use my model and the model is free to download amd follow me for more models like this \nmay the force be with you",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/2a5b040487014397929f401517157c34/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-01-30T21:56:40.730259",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

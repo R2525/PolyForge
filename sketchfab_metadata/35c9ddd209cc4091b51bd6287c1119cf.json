@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-10-18T00:09:22.040575",
+    "embedUrl": "https://sketchfab.com/models/35c9ddd209cc4091b51bd6287c1119cf/embed",
+    "faceCount": 32871,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Brother Azaron",
+    "publishedAt": "2025-10-18T00:13:02.745005",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "soldier",
+            "slug": "soldier",
+            "uri": "https://api.sketchfab.com/v3/tags/soldier"
+        },
+        {
+            "name": "aniamtion",
+            "slug": "aniamtion",
+            "uri": "https://api.sketchfab.com/v3/tags/aniamtion"
+        },
+        {
+            "name": "flashgitz",
+            "slug": "flashgitz",
+            "uri": "https://api.sketchfab.com/v3/tags/flashgitz"
+        },
+        {
+            "name": "war",
+            "slug": "war",
+            "uri": "https://api.sketchfab.com/v3/tags/war"
+        },
+        {
+            "name": "warhammer40k",
+            "slug": "warhammer40k",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer40k"
+        },
+        {
+            "name": "blackarmor",
+            "slug": "blackarmor",
+            "uri": "https://api.sketchfab.com/v3/tags/blackarmor"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8daec88789a145dd97dbd8ec9efb5dc2",
+                "width": 1920,
+                "height": 1080,
+                "size": 73901,
+                "url": "https://media.sketchfab.com/models/35c9ddd209cc4091b51bd6287c1119cf/thumbnails/b55cfcdf2c094b7780562e8cb573c829/88668a9f66ac4016ae82bddd345ccb8e.jpeg"
+            },
+            {
+                "uid": "f03bdbf632f74b06a36a1db522620c1f",
+                "width": 1024,
+                "height": 576,
+                "size": 27252,
+                "url": "https://media.sketchfab.com/models/35c9ddd209cc4091b51bd6287c1119cf/thumbnails/b55cfcdf2c094b7780562e8cb573c829/136133b405744bff9d6ad8c5705eedc0.jpeg"
+            },
+            {
+                "uid": "3bb9baa531634677aada0fce051ab466",
+                "width": 720,
+                "height": 405,
+                "size": 16871,
+                "url": "https://media.sketchfab.com/models/35c9ddd209cc4091b51bd6287c1119cf/thumbnails/b55cfcdf2c094b7780562e8cb573c829/d1c7d21ee1e243c495900242c0e3ec83.jpeg"
+            },
+            {
+                "uid": "c3c9c92e8886412fa004b50c97994f31",
+                "width": 256,
+                "height": 144,
+                "size": 4457,
+                "url": "https://media.sketchfab.com/models/35c9ddd209cc4091b51bd6287c1119cf/thumbnails/b55cfcdf2c094b7780562e8cb573c829/d8bcdcbd940748cdbd9b881b4451b4cf.jpeg"
+            },
+            {
+                "uid": "79ce0b4302cf41a1acbd37bec186784b",
+                "width": 64,
+                "height": 36,
+                "size": 1172,
+                "url": "https://media.sketchfab.com/models/35c9ddd209cc4091b51bd6287c1119cf/thumbnails/b55cfcdf2c094b7780562e8cb573c829/93d876b700184308b4ca0058794b945d.jpeg"
+            }
+        ]
+    },
+    "uid": "35c9ddd209cc4091b51bd6287c1119cf",
+    "uri": "https://api.sketchfab.com/v3/models/35c9ddd209cc4091b51bd6287c1119cf",
+    "user": {
+        "uid": "41bed3f93e1c4d7fa6f71a1024f0440d",
+        "username": "Komi525",
+        "displayName": "Komi",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Komi525",
+        "avatar": {
+            "uid": "612f1c0980e747f19ce5e168f729d97b",
+            "uri": "https://api.sketchfab.com/v3/avatars/612f1c0980e747f19ce5e168f729d97b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1240,
+                    "url": "https://media.sketchfab.com/avatars/612f1c0980e747f19ce5e168f729d97b/4f8695f59a7b4eb7b7864d9a66ec3bf1.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2369,
+                    "url": "https://media.sketchfab.com/avatars/612f1c0980e747f19ce5e168f729d97b/8f60ec4edc644267875cbcd74d46d953.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 6035,
+                    "url": "https://media.sketchfab.com/avatars/612f1c0980e747f19ce5e168f729d97b/1ff3c66978ca40f5a2dd82eebd1c0cde.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 7309,
+                    "url": "https://media.sketchfab.com/avatars/612f1c0980e747f19ce5e168f729d97b/c702d022103b4cbc92893e98dc0bfe32.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/41bed3f93e1c4d7fa6f71a1024f0440d"
+    },
+    "vertexCount": 17246,
+    "viewCount": 43,
+    "viewerUrl": "https://sketchfab.com/3d-models/brother-azaron-35c9ddd209cc4091b51bd6287c1119cf",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Fashgits on youtube 18+ content",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/35c9ddd209cc4091b51bd6287c1119cf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-10-18T00:20:10.304937",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

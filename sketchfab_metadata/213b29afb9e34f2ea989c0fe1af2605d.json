@@ -1,0 +1,176 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-23T00:43:25.539773",
+    "embedUrl": "https://sketchfab.com/models/213b29afb9e34f2ea989c0fe1af2605d/embed",
+    "faceCount": 1504158,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "little piggy Donald",
+    "publishedAt": "2026-01-23T00:44:07.922010",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4239d0360d2348a5bf11292bfb14bc84",
+                "width": 1920,
+                "height": 1080,
+                "size": 61602,
+                "url": "https://media.sketchfab.com/models/213b29afb9e34f2ea989c0fe1af2605d/thumbnails/a1174d79b3684423ada0c0a74c38c187/b2d67917cef14da0a6ddcd3f1451a7a0.jpeg"
+            },
+            {
+                "uid": "30806afabb124824b577dcc954dd9017",
+                "width": 1024,
+                "height": 576,
+                "size": 21471,
+                "url": "https://media.sketchfab.com/models/213b29afb9e34f2ea989c0fe1af2605d/thumbnails/a1174d79b3684423ada0c0a74c38c187/2ee2711e87ff49a9ada3b267d39e2784.jpeg"
+            },
+            {
+                "uid": "c4f86c577b574cc5a7ac85f4fc0a7832",
+                "width": 720,
+                "height": 405,
+                "size": 12728,
+                "url": "https://media.sketchfab.com/models/213b29afb9e34f2ea989c0fe1af2605d/thumbnails/a1174d79b3684423ada0c0a74c38c187/685a51b04a4844b18099e8daadadac0b.jpeg"
+            },
+            {
+                "uid": "d7f62246d9b54af792d69f1a7407d712",
+                "width": 256,
+                "height": 144,
+                "size": 2885,
+                "url": "https://media.sketchfab.com/models/213b29afb9e34f2ea989c0fe1af2605d/thumbnails/a1174d79b3684423ada0c0a74c38c187/1e052798a1c946d1a8830878322c3f04.jpeg"
+            },
+            {
+                "uid": "4af02fac281c4e388c89c2709bc16736",
+                "width": 64,
+                "height": 36,
+                "size": 885,
+                "url": "https://media.sketchfab.com/models/213b29afb9e34f2ea989c0fe1af2605d/thumbnails/a1174d79b3684423ada0c0a74c38c187/70ecf606a875480fb40dc71947787f8b.jpeg"
+            }
+        ]
+    },
+    "uid": "213b29afb9e34f2ea989c0fe1af2605d",
+    "uri": "https://api.sketchfab.com/v3/models/213b29afb9e34f2ea989c0fe1af2605d",
+    "user": {
+        "uid": "48d6c4f00da243d4ac530a258440586e",
+        "username": "mtrigger52",
+        "displayName": "mtrigger52",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mtrigger52",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/48d6c4f00da243d4ac530a258440586e"
+    },
+    "vertexCount": 751005,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/little-piggy-donald-213b29afb9e34f2ea989c0fe1af2605d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/photorealistic-pigshead-on-platter-double-cheesburger-in-mouth-donald-trump-hair-hitler-mustache-tiny-bullet-hole-right-earlobe-v2-019be1d6-352c-73e2-889a-b4fdcb2c14d1?utm_source=sketchfab](https://www.meshy.ai/3d-models/photorealistic-pigshead-on-platter-double-cheesburger-in-mouth-donald-trump-hair-hitler-mustache-tiny-bullet-hole-right-earlobe-v2-019be1d6-352c-73e2-889a-b4fdcb2c14d1?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/213b29afb9e34f2ea989c0fe1af2605d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-23T11:06:19.005234",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

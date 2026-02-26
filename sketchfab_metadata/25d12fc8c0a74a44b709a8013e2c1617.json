@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T14:36:47.951338",
+    "embedUrl": "https://sketchfab.com/models/25d12fc8c0a74a44b709a8013e2c1617/embed",
+    "faceCount": 562588,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Introspective Rigged",
+    "publishedAt": "2026-02-21T14:42:02.958710",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "african",
+            "slug": "african",
+            "uri": "https://api.sketchfab.com/v3/tags/african"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "guy",
+            "slug": "guy",
+            "uri": "https://api.sketchfab.com/v3/tags/guy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "383201f54c1c43a092c8343b9250c50e",
+                "width": 1920,
+                "height": 1080,
+                "size": 38720,
+                "url": "https://media.sketchfab.com/models/25d12fc8c0a74a44b709a8013e2c1617/thumbnails/d197a2559d6a497c8789ee2a0c135d1e/0eb7405e4c75480585f2b25d4713b29e.jpeg"
+            },
+            {
+                "uid": "816bc0e715664f2bb8d11e2e57a1d77b",
+                "width": 1024,
+                "height": 576,
+                "size": 12589,
+                "url": "https://media.sketchfab.com/models/25d12fc8c0a74a44b709a8013e2c1617/thumbnails/d197a2559d6a497c8789ee2a0c135d1e/6af425c0fab44a079f494eaa76931446.jpeg"
+            },
+            {
+                "uid": "da0cc1481686409fb1936867f0dd0614",
+                "width": 720,
+                "height": 405,
+                "size": 7192,
+                "url": "https://media.sketchfab.com/models/25d12fc8c0a74a44b709a8013e2c1617/thumbnails/d197a2559d6a497c8789ee2a0c135d1e/6c6dd0c4e5004c5fa263351d011fc506.jpeg"
+            },
+            {
+                "uid": "3bb97d5f7e344dc184734cddb214a5da",
+                "width": 256,
+                "height": 144,
+                "size": 1779,
+                "url": "https://media.sketchfab.com/models/25d12fc8c0a74a44b709a8013e2c1617/thumbnails/d197a2559d6a497c8789ee2a0c135d1e/457127d315d447ca8b4c304a40eb6e6e.jpeg"
+            },
+            {
+                "uid": "e2c4529de75a4e668e0a337ef02f2431",
+                "width": 64,
+                "height": 36,
+                "size": 788,
+                "url": "https://media.sketchfab.com/models/25d12fc8c0a74a44b709a8013e2c1617/thumbnails/d197a2559d6a497c8789ee2a0c135d1e/eec2e5e189c748d496b2617857dcee52.jpeg"
+            }
+        ]
+    },
+    "uid": "25d12fc8c0a74a44b709a8013e2c1617",
+    "uri": "https://api.sketchfab.com/v3/models/25d12fc8c0a74a44b709a8013e2c1617",
+    "user": {
+        "uid": "9a6f4aa0f01c4722a8fffb0ac6e25239",
+        "username": "OmarSculpts28",
+        "displayName": "OmarSculpts28",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/OmarSculpts28",
+        "avatar": {
+            "uid": "0afb8bb8133d479eb9c9bf7b91e0a6b3",
+            "uri": "https://api.sketchfab.com/v3/avatars/0afb8bb8133d479eb9c9bf7b91e0a6b3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1121,
+                    "url": "https://media.sketchfab.com/avatars/0afb8bb8133d479eb9c9bf7b91e0a6b3/48d7fe619c0c4ac38ac5a2038eb25b1f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1582,
+                    "url": "https://media.sketchfab.com/avatars/0afb8bb8133d479eb9c9bf7b91e0a6b3/f1995c72f371424d9f14042b4bb9f062.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3590,
+                    "url": "https://media.sketchfab.com/avatars/0afb8bb8133d479eb9c9bf7b91e0a6b3/e648228030e14cc0b7b319baafa3c393.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4141,
+                    "url": "https://media.sketchfab.com/avatars/0afb8bb8133d479eb9c9bf7b91e0a6b3/e0c9c79fcb78453aadc5b6f880c4c22e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9a6f4aa0f01c4722a8fffb0ac6e25239"
+    },
+    "vertexCount": 282580,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/introspective-rigged-25d12fc8c0a74a44b709a8013e2c1617",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the Original format.The Converted version is intended only for use in the web viewer. In the original file, the following are fully preserved:✔ full scene structure✔ complete materials without reduction✔ proper texture maps✔ proper object namingIf you plan to use this model in production, choose the Original format.A black guy with dreads in casual clothes. A stylized character that s perfect for regular scenes",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/25d12fc8c0a74a44b709a8013e2c1617/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T14:42:03.510568",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 15
+}

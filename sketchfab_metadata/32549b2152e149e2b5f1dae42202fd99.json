@@ -1,0 +1,184 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-16T21:01:55.621473",
+    "embedUrl": "https://sketchfab.com/models/32549b2152e149e2b5f1dae42202fd99/embed",
+    "faceCount": 10236,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "the capsule",
+    "publishedAt": "2026-01-18T02:16:05.498323",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "selfie",
+            "slug": "selfie",
+            "uri": "https://api.sketchfab.com/v3/tags/selfie"
+        },
+        {
+            "name": "selfportrait",
+            "slug": "selfportrait",
+            "uri": "https://api.sketchfab.com/v3/tags/selfportrait"
+        },
+        {
+            "name": "Outline",
+            "slug": "outline",
+            "uri": "https://api.sketchfab.com/v3/tags/outline"
+        },
+        {
+            "name": "depression",
+            "slug": "depression",
+            "uri": "https://api.sketchfab.com/v3/tags/depression"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f2d2f24b4e8a4b67bfb204b779ff43e7",
+                "width": 1920,
+                "height": 1080,
+                "size": 129905,
+                "url": "https://media.sketchfab.com/models/32549b2152e149e2b5f1dae42202fd99/thumbnails/5caaf16dbe674800a141d282648f0134/efe9a979863b4d31b50ae8142ca9a6a0.jpeg"
+            },
+            {
+                "uid": "ae156c1da3bf44a29bd1aa7c527aeea6",
+                "width": 1024,
+                "height": 576,
+                "size": 38517,
+                "url": "https://media.sketchfab.com/models/32549b2152e149e2b5f1dae42202fd99/thumbnails/5caaf16dbe674800a141d282648f0134/6105da917f0e40e5884ce77a8c66de19.jpeg"
+            },
+            {
+                "uid": "675198c598904531a828901f98e2ecf0",
+                "width": 720,
+                "height": 405,
+                "size": 22463,
+                "url": "https://media.sketchfab.com/models/32549b2152e149e2b5f1dae42202fd99/thumbnails/5caaf16dbe674800a141d282648f0134/8076b308e0b84ceab005dcb92336f50c.jpeg"
+            },
+            {
+                "uid": "ead22abdfc8f4f9fbef9ea22000683b4",
+                "width": 256,
+                "height": 144,
+                "size": 5100,
+                "url": "https://media.sketchfab.com/models/32549b2152e149e2b5f1dae42202fd99/thumbnails/5caaf16dbe674800a141d282648f0134/ae7c5506c9f34169aa7571b3f6f1dca0.jpeg"
+            },
+            {
+                "uid": "2fd8cef86f2543038652106bdf54f85f",
+                "width": 64,
+                "height": 36,
+                "size": 1189,
+                "url": "https://media.sketchfab.com/models/32549b2152e149e2b5f1dae42202fd99/thumbnails/5caaf16dbe674800a141d282648f0134/f41dfda914e4458a8a718004c7a6e8ed.jpeg"
+            }
+        ]
+    },
+    "uid": "32549b2152e149e2b5f1dae42202fd99",
+    "uri": "https://api.sketchfab.com/v3/models/32549b2152e149e2b5f1dae42202fd99",
+    "user": {
+        "uid": "80bd782a98754af6bec9f68eb07e5891",
+        "username": "browneyedpat",
+        "displayName": "Patrick White",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/browneyedpat",
+        "avatar": {
+            "uid": "c836c4f8a73f4a8794c1eea19c90ec2e",
+            "uri": "https://api.sketchfab.com/v3/avatars/c836c4f8a73f4a8794c1eea19c90ec2e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 741,
+                    "url": "https://media.sketchfab.com/avatars/c836c4f8a73f4a8794c1eea19c90ec2e/3922e6648a6f42f296597e7fb6134c54.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1244,
+                    "url": "https://media.sketchfab.com/avatars/c836c4f8a73f4a8794c1eea19c90ec2e/7459d5682b4443f8a3cca4425fb6a771.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3173,
+                    "url": "https://media.sketchfab.com/avatars/c836c4f8a73f4a8794c1eea19c90ec2e/ad3ff0482c58413ca4f62dbf8bec0d73.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3732,
+                    "url": "https://media.sketchfab.com/avatars/c836c4f8a73f4a8794c1eea19c90ec2e/00bd134f8bcc4db88b2df643c7887de1.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/80bd782a98754af6bec9f68eb07e5891"
+    },
+    "vertexCount": 5192,
+    "viewCount": 63,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-capsule-32549b2152e149e2b5f1dae42202fd99",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/32549b2152e149e2b5f1dae42202fd99/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-03T17:09:45.247573",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 2
+}

@@ -1,0 +1,209 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2026-02-21T01:12:06.931016",
+    "embedUrl": "https://sketchfab.com/models/3eb1b78be26e41909db1271f878c90ec/embed",
+    "faceCount": 18354,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 10,
+    "name": "ANDROKARCE ANIMATIONS",
+    "publishedAt": "2026-02-21T01:19:01.684895",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "humanoid",
+            "slug": "humanoid",
+            "uri": "https://api.sketchfab.com/v3/tags/humanoid"
+        },
+        {
+            "name": "mob",
+            "slug": "mob",
+            "uri": "https://api.sketchfab.com/v3/tags/mob"
+        },
+        {
+            "name": "shell",
+            "slug": "shell",
+            "uri": "https://api.sketchfab.com/v3/tags/shell"
+        },
+        {
+            "name": "crab",
+            "slug": "crab",
+            "uri": "https://api.sketchfab.com/v3/tags/crab"
+        },
+        {
+            "name": "Enemy",
+            "slug": "enemy",
+            "uri": "https://api.sketchfab.com/v3/tags/enemy"
+        },
+        {
+            "name": "alien",
+            "slug": "alien",
+            "uri": "https://api.sketchfab.com/v3/tags/alien"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "57bd5af185184270994786e99207159d",
+                "width": 1920,
+                "height": 1080,
+                "size": 195117,
+                "url": "https://media.sketchfab.com/models/3eb1b78be26e41909db1271f878c90ec/thumbnails/a759b64720fe4013b9bfa9b6f783badc/b677ce3b83244b7394939bbbc7213bb9.jpeg"
+            },
+            {
+                "uid": "367e75219a174375bfe5e03488edeb42",
+                "width": 1024,
+                "height": 576,
+                "size": 31347,
+                "url": "https://media.sketchfab.com/models/3eb1b78be26e41909db1271f878c90ec/thumbnails/a759b64720fe4013b9bfa9b6f783badc/033fcc2f4d5c488f8d7e6d913392b955.jpeg"
+            },
+            {
+                "uid": "510a6bb5576f44a882b1dc51cd9942b0",
+                "width": 720,
+                "height": 405,
+                "size": 18097,
+                "url": "https://media.sketchfab.com/models/3eb1b78be26e41909db1271f878c90ec/thumbnails/a759b64720fe4013b9bfa9b6f783badc/35723426f513455db085755e87a0108e.jpeg"
+            },
+            {
+                "uid": "9809ea49568445519991821b39499ae5",
+                "width": 256,
+                "height": 144,
+                "size": 3860,
+                "url": "https://media.sketchfab.com/models/3eb1b78be26e41909db1271f878c90ec/thumbnails/a759b64720fe4013b9bfa9b6f783badc/367d5b72016d489799e47aff91e1ba4a.jpeg"
+            },
+            {
+                "uid": "ebd48c7d2db448729b2942e10e7dc475",
+                "width": 64,
+                "height": 36,
+                "size": 1046,
+                "url": "https://media.sketchfab.com/models/3eb1b78be26e41909db1271f878c90ec/thumbnails/a759b64720fe4013b9bfa9b6f783badc/6a03d8f53fb74706904d75827d49d959.jpeg"
+            }
+        ]
+    },
+    "uid": "3eb1b78be26e41909db1271f878c90ec",
+    "uri": "https://api.sketchfab.com/v3/models/3eb1b78be26e41909db1271f878c90ec",
+    "user": {
+        "uid": "1421671fe96341698297588514445180",
+        "username": "protofactor",
+        "displayName": "PROTOFACTOR, INC.",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/protofactor",
+        "avatar": {
+            "uid": "9dd78c20d23d457f81f2a586d56e7d04",
+            "uri": "https://api.sketchfab.com/v3/avatars/9dd78c20d23d457f81f2a586d56e7d04",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 864,
+                    "url": "https://media.sketchfab.com/avatars/9dd78c20d23d457f81f2a586d56e7d04/145ae583bb2d41788a0dccd80aa965b1.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1409,
+                    "url": "https://media.sketchfab.com/avatars/9dd78c20d23d457f81f2a586d56e7d04/d1eb58f59b9b45bfb58e76f4c2b4202f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2851,
+                    "url": "https://media.sketchfab.com/avatars/9dd78c20d23d457f81f2a586d56e7d04/bf8885800a024d7896e8297137b552cc.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3280,
+                    "url": "https://media.sketchfab.com/avatars/9dd78c20d23d457f81f2a586d56e7d04/12c07803317343b6845425e294bf452e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1421671fe96341698297588514445180"
+    },
+    "vertexCount": 9179,
+    "viewCount": 160,
+    "viewerUrl": "https://sketchfab.com/3d-models/androkarce-animations-3eb1b78be26e41909db1271f878c90ec",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3eb1b78be26e41909db1271f878c90ec/edit",
+    "status": {
+        "code": 0,
+        "warning": {},
+        "error": {
+            "generic": [
+                "localStorage is not defined"
+            ]
+        },
+        "monitors": [
+            "fbx.unit_root_rescale",
+            "materials.empty_stateset",
+            "animation.single_animation_manager",
+            "geometry.uv_by_layer",
+            "geometry.tangent_fallback_generated",
+            "compression.rotation_channel_not_compressed"
+        ],
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T15:49:23.250177",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 1
+}

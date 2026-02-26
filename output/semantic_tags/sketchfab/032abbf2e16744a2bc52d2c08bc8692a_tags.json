@@ -1,0 +1,40 @@
+{
+    "category": "Cars & Vehicles",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Military",
+            "score": 0.7
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.55
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.8
+        },
+        {
+            "name": "Military",
+            "score": 0.75
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "twin-engine",
+        "flying vehicle",
+        "aircraft"
+    ]
+}

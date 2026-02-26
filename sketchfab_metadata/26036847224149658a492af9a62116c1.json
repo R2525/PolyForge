@@ -1,0 +1,204 @@
+{
+    "animationCount": 34,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T13:10:12.176868",
+    "embedUrl": "https://sketchfab.com/models/26036847224149658a492af9a62116c1/embed",
+    "faceCount": 1212,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Garchomp Staff Rainbow Regular (Cobblemon)",
+    "publishedAt": "2026-02-19T14:47:05.941205",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "crate",
+            "slug": "crate",
+            "uri": "https://api.sketchfab.com/v3/tags/crate"
+        },
+        {
+            "name": "server",
+            "slug": "server",
+            "uri": "https://api.sketchfab.com/v3/tags/server"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "Pixelmon",
+            "slug": "pixelmon",
+            "uri": "https://api.sketchfab.com/v3/tags/pixelmon"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "skin",
+            "slug": "skin",
+            "uri": "https://api.sketchfab.com/v3/tags/skin"
+        },
+        {
+            "name": "cobblemon",
+            "slug": "cobblemon",
+            "uri": "https://api.sketchfab.com/v3/tags/cobblemon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "fe1d0d06b1ec4515b5820c5a320d7c66",
+                "width": 1920,
+                "height": 1080,
+                "size": 99557,
+                "url": "https://media.sketchfab.com/models/26036847224149658a492af9a62116c1/thumbnails/9228277d49564a65921223472ac6b983/fc60857bebed4894ac17db7e677d8aa5.jpeg"
+            },
+            {
+                "uid": "a2c25fd27f3b40f9bd711b8e7c97ef73",
+                "width": 1024,
+                "height": 576,
+                "size": 37495,
+                "url": "https://media.sketchfab.com/models/26036847224149658a492af9a62116c1/thumbnails/9228277d49564a65921223472ac6b983/04f23a2c53144877bf63367abb2478dc.jpeg"
+            },
+            {
+                "uid": "48dd9f2b3a9c4d4eb4a94d52bfed204e",
+                "width": 720,
+                "height": 405,
+                "size": 22859,
+                "url": "https://media.sketchfab.com/models/26036847224149658a492af9a62116c1/thumbnails/9228277d49564a65921223472ac6b983/b5eefd8dd7c74c06a1ef2e3ca44e0f1b.jpeg"
+            },
+            {
+                "uid": "95a4e0dbd9df4fa8aa3e22c5b39e622f",
+                "width": 256,
+                "height": 144,
+                "size": 5322,
+                "url": "https://media.sketchfab.com/models/26036847224149658a492af9a62116c1/thumbnails/9228277d49564a65921223472ac6b983/5dab5d18511341ad9f81f7ac753287ab.jpeg"
+            },
+            {
+                "uid": "6c79c106ca1f4ed0886ac07458b2873a",
+                "width": 64,
+                "height": 36,
+                "size": 1189,
+                "url": "https://media.sketchfab.com/models/26036847224149658a492af9a62116c1/thumbnails/9228277d49564a65921223472ac6b983/da2f1fe0a4924ca0b140ab8b43f996e8.jpeg"
+            }
+        ]
+    },
+    "uid": "26036847224149658a492af9a62116c1",
+    "uri": "https://api.sketchfab.com/v3/models/26036847224149658a492af9a62116c1",
+    "user": {
+        "uid": "a0a579495c1f45859d7339e3c671c9a8",
+        "username": "Destroyaa96",
+        "displayName": "PokeResort",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/Destroyaa96",
+        "avatar": {
+            "uid": "b919dcc4efb346f1b84cd4763723bb9a",
+            "uri": "https://api.sketchfab.com/v3/avatars/b919dcc4efb346f1b84cd4763723bb9a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2976,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/4b38a3e07ac445c880f72273c49e3062.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5811,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/6e4cd42e6d0e4e00822527d659880648.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16371,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/431c15146ecb4007a0281c972183185b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 19285,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/12ccdb2974884fc1bcf77a147029a95e.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a0a579495c1f45859d7339e3c671c9a8"
+    },
+    "vertexCount": 808,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/garchomp-staff-rainbow-regular-cobblemon-26036847224149658a492af9a62116c1",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/26036847224149658a492af9a62116c1/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T14:47:06.087732",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

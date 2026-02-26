@@ -1,0 +1,221 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-14T23:47:46.572938",
+    "embedUrl": "https://sketchfab.com/models/03b0b822b8a4496d905f6ab50a5bc005/embed",
+    "faceCount": 87750,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Futuristic Cyberpunk Neon Edge Satchel",
+    "publishedAt": "2026-02-14T23:48:12.387370",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tech",
+            "slug": "tech",
+            "uri": "https://api.sketchfab.com/v3/tags/tech"
+        },
+        {
+            "name": "bag",
+            "slug": "bag",
+            "uri": "https://api.sketchfab.com/v3/tags/bag"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "ammo",
+            "slug": "ammo",
+            "uri": "https://api.sketchfab.com/v3/tags/ammo"
+        },
+        {
+            "name": "wallet",
+            "slug": "wallet",
+            "uri": "https://api.sketchfab.com/v3/tags/wallet"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "glow",
+            "slug": "glow",
+            "uri": "https://api.sketchfab.com/v3/tags/glow"
+        },
+        {
+            "name": "ammobox",
+            "slug": "ammobox",
+            "uri": "https://api.sketchfab.com/v3/tags/ammobox"
+        },
+        {
+            "name": "satchel",
+            "slug": "satchel",
+            "uri": "https://api.sketchfab.com/v3/tags/satchel"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "propped",
+            "slug": "propped",
+            "uri": "https://api.sketchfab.com/v3/tags/propped"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8b64de4fab3540dd9d8dbe3c3e7817a8",
+                "width": 1920,
+                "height": 1080,
+                "size": 116977,
+                "url": "https://media.sketchfab.com/models/03b0b822b8a4496d905f6ab50a5bc005/thumbnails/1bfc47bc6d804a2ca69d1bdaf9d6c5aa/366f8d6388fd43c78538c661188ef8f9.jpeg"
+            },
+            {
+                "uid": "f012e6b10e5842d39a008cfe66a1a205",
+                "width": 1024,
+                "height": 576,
+                "size": 38048,
+                "url": "https://media.sketchfab.com/models/03b0b822b8a4496d905f6ab50a5bc005/thumbnails/1bfc47bc6d804a2ca69d1bdaf9d6c5aa/f191c501a84543ffa646c20820290f2a.jpeg"
+            },
+            {
+                "uid": "5e995a992ec74524ab608236231e55c9",
+                "width": 720,
+                "height": 405,
+                "size": 21965,
+                "url": "https://media.sketchfab.com/models/03b0b822b8a4496d905f6ab50a5bc005/thumbnails/1bfc47bc6d804a2ca69d1bdaf9d6c5aa/556469ac07cc450491a4e38bba069553.jpeg"
+            },
+            {
+                "uid": "974e3fcee9ad4e84aaea1c609043a294",
+                "width": 256,
+                "height": 144,
+                "size": 4388,
+                "url": "https://media.sketchfab.com/models/03b0b822b8a4496d905f6ab50a5bc005/thumbnails/1bfc47bc6d804a2ca69d1bdaf9d6c5aa/69dd8333d2414c12a5d1aacef65dccc4.jpeg"
+            },
+            {
+                "uid": "74c1fa3bda4443eb973935d11fe1bf49",
+                "width": 64,
+                "height": 36,
+                "size": 1105,
+                "url": "https://media.sketchfab.com/models/03b0b822b8a4496d905f6ab50a5bc005/thumbnails/1bfc47bc6d804a2ca69d1bdaf9d6c5aa/6381c8793ac64c9c8b3d71d3443793bd.jpeg"
+            }
+        ]
+    },
+    "uid": "03b0b822b8a4496d905f6ab50a5bc005",
+    "uri": "https://api.sketchfab.com/v3/models/03b0b822b8a4496d905f6ab50a5bc005",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 43924,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/futuristic-cyberpunk-neon-edge-satchel-03b0b822b8a4496d905f6ab50a5bc005",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Futuristic Cyberpunk Neon Edge Satchel",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/03b0b822b8a4496d905f6ab50a5bc005/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-14T23:55:52.447136",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

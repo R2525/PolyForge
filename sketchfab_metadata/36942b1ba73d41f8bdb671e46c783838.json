@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T16:42:04.824503",
+    "embedUrl": "https://sketchfab.com/models/36942b1ba73d41f8bdb671e46c783838/embed",
+    "faceCount": 155088,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Antique Gas Boiler",
+    "publishedAt": "2026-02-20T16:45:27.580905",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "boiler",
+            "slug": "boiler",
+            "uri": "https://api.sketchfab.com/v3/tags/boiler"
+        },
+        {
+            "name": "heating",
+            "slug": "heating",
+            "uri": "https://api.sketchfab.com/v3/tags/heating"
+        },
+        {
+            "name": "Machine",
+            "slug": "machine",
+            "uri": "https://api.sketchfab.com/v3/tags/machine"
+        },
+        {
+            "name": "steam",
+            "slug": "steam",
+            "uri": "https://api.sketchfab.com/v3/tags/steam"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c7194a52448e469293ceec233c68ce5e",
+                "width": 1920,
+                "height": 1080,
+                "size": 75186,
+                "url": "https://media.sketchfab.com/models/36942b1ba73d41f8bdb671e46c783838/thumbnails/8c6ec8a46041431ba5e19d02fce835f5/0341f25fd1724eecbcf09609b3e7ff85.jpeg"
+            },
+            {
+                "uid": "80a5c2af78814bf2919047d151b972f2",
+                "width": 1024,
+                "height": 576,
+                "size": 23586,
+                "url": "https://media.sketchfab.com/models/36942b1ba73d41f8bdb671e46c783838/thumbnails/8c6ec8a46041431ba5e19d02fce835f5/9067a47e104a4ca8ab3c3269f88307cc.jpeg"
+            },
+            {
+                "uid": "a4fa100e59334146ad3ad70190e0e351",
+                "width": 720,
+                "height": 405,
+                "size": 13348,
+                "url": "https://media.sketchfab.com/models/36942b1ba73d41f8bdb671e46c783838/thumbnails/8c6ec8a46041431ba5e19d02fce835f5/03222618d3284284a93d664aa7f70f86.jpeg"
+            },
+            {
+                "uid": "e3891aa270cf4032a5860612aef40df6",
+                "width": 256,
+                "height": 144,
+                "size": 2958,
+                "url": "https://media.sketchfab.com/models/36942b1ba73d41f8bdb671e46c783838/thumbnails/8c6ec8a46041431ba5e19d02fce835f5/b6251c81c0b54adfa0d4540179cc2f8e.jpeg"
+            },
+            {
+                "uid": "4233720ab08546729f0c8d9bf1ed7494",
+                "width": 64,
+                "height": 36,
+                "size": 926,
+                "url": "https://media.sketchfab.com/models/36942b1ba73d41f8bdb671e46c783838/thumbnails/8c6ec8a46041431ba5e19d02fce835f5/c7cbf151f7454f6998ed448f7e260f35.jpeg"
+            }
+        ]
+    },
+    "uid": "36942b1ba73d41f8bdb671e46c783838",
+    "uri": "https://api.sketchfab.com/v3/models/36942b1ba73d41f8bdb671e46c783838",
+    "user": {
+        "uid": "a32fe380db2e43128d036120cc76faa5",
+        "username": "DannielHan",
+        "displayName": "DannielHan",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DannielHan",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a32fe380db2e43128d036120cc76faa5"
+    },
+    "vertexCount": 59382,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/antique-gas-boiler-36942b1ba73d41f8bdb671e46c783838",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the Original format.The viewer version is intended exclusively for browser preview. In the original file, the following are fully preserved:✔ native scene structure✔ unsimplified materials✔ accurate texture maps✔ original object namesIf you are going to integrate the model into a project, select the original version.Antique Gas Boiler",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/36942b1ba73d41f8bdb671e46c783838/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T16:45:27.749607",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

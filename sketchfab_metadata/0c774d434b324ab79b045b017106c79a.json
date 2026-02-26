@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-27T08:50:27.845514",
+    "embedUrl": "https://sketchfab.com/models/0c774d434b324ab79b045b017106c79a/embed",
+    "faceCount": 2410,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 17,
+    "name": "Spear of the bronze guardian",
+    "publishedAt": "2025-12-27T09:32:25.516306",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "bronze",
+            "slug": "bronze",
+            "uri": "https://api.sketchfab.com/v3/tags/bronze"
+        },
+        {
+            "name": "spear",
+            "slug": "spear",
+            "uri": "https://api.sketchfab.com/v3/tags/spear"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "melee",
+            "slug": "melee",
+            "uri": "https://api.sketchfab.com/v3/tags/melee"
+        },
+        {
+            "name": "metalic",
+            "slug": "metalic",
+            "uri": "https://api.sketchfab.com/v3/tags/metalic"
+        },
+        {
+            "name": "midpoly",
+            "slug": "midpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/midpoly"
+        },
+        {
+            "name": "mid-poly",
+            "slug": "mid-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/mid-poly"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b10f61150dbc4ad8bff1c5a9441cb4f3",
+                "width": 1920,
+                "height": 1080,
+                "size": 356744,
+                "url": "https://media.sketchfab.com/models/0c774d434b324ab79b045b017106c79a/thumbnails/09595dd819e04fd8961d50d7d7ac3bfd/6670ba30ee2a4c9999dcb22a5fa4038a.jpeg"
+            },
+            {
+                "uid": "76dbb84144004f6798f3af15c3e76b57",
+                "width": 1024,
+                "height": 576,
+                "size": 90088,
+                "url": "https://media.sketchfab.com/models/0c774d434b324ab79b045b017106c79a/thumbnails/09595dd819e04fd8961d50d7d7ac3bfd/5b1e6ad0b9f54029938daa0e89c7ef21.jpeg"
+            },
+            {
+                "uid": "0169cf61079a406dacb8ec4f1e1a83d5",
+                "width": 720,
+                "height": 405,
+                "size": 41727,
+                "url": "https://media.sketchfab.com/models/0c774d434b324ab79b045b017106c79a/thumbnails/09595dd819e04fd8961d50d7d7ac3bfd/3e5f3f2fc50b46da92cfdaa040beb83a.jpeg"
+            },
+            {
+                "uid": "2614a4baa8d64685aaeab825d2dffd2c",
+                "width": 256,
+                "height": 144,
+                "size": 5318,
+                "url": "https://media.sketchfab.com/models/0c774d434b324ab79b045b017106c79a/thumbnails/09595dd819e04fd8961d50d7d7ac3bfd/36d08a66929e4504ab9d67965ca4a597.jpeg"
+            },
+            {
+                "uid": "43554bb34eac452e9c2edc146cc9858c",
+                "width": 64,
+                "height": 36,
+                "size": 1104,
+                "url": "https://media.sketchfab.com/models/0c774d434b324ab79b045b017106c79a/thumbnails/09595dd819e04fd8961d50d7d7ac3bfd/78754432d6b448d59ca80bc8958a6239.jpeg"
+            }
+        ]
+    },
+    "uid": "0c774d434b324ab79b045b017106c79a",
+    "uri": "https://api.sketchfab.com/v3/models/0c774d434b324ab79b045b017106c79a",
+    "user": {
+        "uid": "14fbda6c0ab9495485b0b29c549dbd72",
+        "username": "TRGN_Design",
+        "displayName": "TRGN Design",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/TRGN_Design",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/14fbda6c0ab9495485b0b29c549dbd72"
+    },
+    "vertexCount": 1209,
+    "viewCount": 183,
+    "viewerUrl": "https://sketchfab.com/3d-models/spear-of-the-bronze-guardian-0c774d434b324ab79b045b017106c79a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is a simple bronze spear made in blender. It is simply a test model for the uccupaint add-on and some of the many alpha brushes I have designed this week. Commercial use is allowed but credit must be given. Don't resell this model.",
+    "price": null,
+    "downloadCount": 36,
+    "editorUrl": "https://sketchfab.com/models/0c774d434b324ab79b045b017106c79a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-27T09:32:25.656460",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

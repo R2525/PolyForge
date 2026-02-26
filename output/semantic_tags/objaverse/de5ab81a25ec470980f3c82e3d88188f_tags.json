@@ -1,0 +1,42 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Military",
+            "score": 0.95
+        },
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.7
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Dusty"
+    ],
+    "tags": [
+        "helmet",
+        "military",
+        "navy",
+        "USS Saipan"
+    ]
+}

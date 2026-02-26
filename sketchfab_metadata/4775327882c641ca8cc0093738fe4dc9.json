@@ -1,0 +1,175 @@
+{
+    "animationCount": 5,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T14:29:10.888306",
+    "embedUrl": "https://sketchfab.com/models/4775327882c641ca8cc0093738fe4dc9/embed",
+    "faceCount": 1836,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "TYPE-19 VULKA-MG/Riskrunner/DW",
+    "publishedAt": "2026-02-21T14:33:38.068457",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "Roblox",
+            "slug": "roblox",
+            "uri": "https://api.sketchfab.com/v3/tags/roblox"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "riskrunner",
+            "slug": "riskrunner",
+            "uri": "https://api.sketchfab.com/v3/tags/riskrunner"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "geckolib",
+            "slug": "geckolib",
+            "uri": "https://api.sketchfab.com/v3/tags/geckolib"
+        },
+        {
+            "name": "decaying-winter",
+            "slug": "decaying-winter",
+            "uri": "https://api.sketchfab.com/v3/tags/decaying-winter"
+        },
+        {
+            "name": "type19vulkamg",
+            "slug": "type19vulkamg",
+            "uri": "https://api.sketchfab.com/v3/tags/type19vulkamg"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "11a6e4690b1740ca8987fc7ed5ab1714",
+                "width": 1920,
+                "height": 1080,
+                "size": 79510,
+                "url": "https://media.sketchfab.com/models/4775327882c641ca8cc0093738fe4dc9/thumbnails/78d5897e1f6b470e976ee99a4ed3bbba/17d136feff69450cac0ea2769293c426.jpeg"
+            },
+            {
+                "uid": "ac85cda6ca8b4dd3a805df7782e22e68",
+                "width": 1024,
+                "height": 576,
+                "size": 29757,
+                "url": "https://media.sketchfab.com/models/4775327882c641ca8cc0093738fe4dc9/thumbnails/78d5897e1f6b470e976ee99a4ed3bbba/9fec5f83536646f29d229294856c2d55.jpeg"
+            },
+            {
+                "uid": "c6bad1c9073743728dba7ccfc116f423",
+                "width": 720,
+                "height": 405,
+                "size": 18757,
+                "url": "https://media.sketchfab.com/models/4775327882c641ca8cc0093738fe4dc9/thumbnails/78d5897e1f6b470e976ee99a4ed3bbba/a27556edbeeb4834ace87c0fe90e78ef.jpeg"
+            },
+            {
+                "uid": "750ef52df89f46d5b3f6ff0dfa44643e",
+                "width": 256,
+                "height": 144,
+                "size": 4965,
+                "url": "https://media.sketchfab.com/models/4775327882c641ca8cc0093738fe4dc9/thumbnails/78d5897e1f6b470e976ee99a4ed3bbba/28b0b92b1cde47cb95951f21325f0ff9.jpeg"
+            },
+            {
+                "uid": "5025374b4b8a4eba80f2e4cbee9bf8ff",
+                "width": 64,
+                "height": 36,
+                "size": 1354,
+                "url": "https://media.sketchfab.com/models/4775327882c641ca8cc0093738fe4dc9/thumbnails/78d5897e1f6b470e976ee99a4ed3bbba/3b60bf71b27f443f9a4652dd1ef06b78.jpeg"
+            }
+        ]
+    },
+    "uid": "4775327882c641ca8cc0093738fe4dc9",
+    "uri": "https://api.sketchfab.com/v3/models/4775327882c641ca8cc0093738fe4dc9",
+    "user": {
+        "uid": "e5b660382b5c495e81896120865d56bb",
+        "username": "LouisLue",
+        "displayName": "LouisLue",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/LouisLue",
+        "avatar": {
+            "uid": "d9cfd3f072e34f22a50d758fb6cc35e0",
+            "uri": "https://api.sketchfab.com/v3/avatars/d9cfd3f072e34f22a50d758fb6cc35e0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1939,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/85b0fb9fff1641dc9fd92a89d2c27791.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3489,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/ba0d09d819644db8be7ee338a96721e1.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8591,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/b7ac6474b3dc406b87d9c4db8ca0f9db.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10060,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/9010ad508fc84b8f9fef290022d6ea92.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e5b660382b5c495e81896120865d56bb"
+    },
+    "vertexCount": 1224,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/type-19-vulka-mgriskrunnerdw-4775327882c641ca8cc0093738fe4dc9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "BIG GUN GO BRBRBR. Riskrunner class TYPE-19 VULKA-MG from Decaying Winter-Roblox\n\nMade with **BlockBench** and **GeckoLib** plugin.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/4775327882c641ca8cc0093738fe4dc9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T15:50:15.067070",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

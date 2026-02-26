@@ -1,0 +1,274 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2025-11-30T05:12:41.984016",
+    "embedUrl": "https://sketchfab.com/models/335da2777cfd48bb9c2279470d4609e6/embed",
+    "faceCount": 15415,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "the blacksmith workshop",
+    "publishedAt": "2025-11-30T05:19:15.058744",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "style",
+            "slug": "style",
+            "uri": "https://api.sketchfab.com/v3/tags/style"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "forge",
+            "slug": "forge",
+            "uri": "https://api.sketchfab.com/v3/tags/forge"
+        },
+        {
+            "name": "blacksmith",
+            "slug": "blacksmith",
+            "uri": "https://api.sketchfab.com/v3/tags/blacksmith"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "Furnace",
+            "slug": "furnace",
+            "uri": "https://api.sketchfab.com/v3/tags/furnace"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "hand-painted",
+            "slug": "hand-painted",
+            "uri": "https://api.sketchfab.com/v3/tags/hand-painted"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "mobile",
+            "slug": "mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/mobile"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "workshop",
+            "slug": "workshop",
+            "uri": "https://api.sketchfab.com/v3/tags/workshop"
+        },
+        {
+            "name": "village",
+            "slug": "village",
+            "uri": "https://api.sketchfab.com/v3/tags/village"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6895b598ccba425f86730644864a4b99",
+                "width": 1920,
+                "height": 1080,
+                "size": 90285,
+                "url": "https://media.sketchfab.com/models/335da2777cfd48bb9c2279470d4609e6/thumbnails/37417c8d887f4554999e2c0242942711/36eae45b5cae433aa2dfef4ae6b69e2f.jpeg"
+            },
+            {
+                "uid": "a39da8130f0b413b9618aff30226d9dd",
+                "width": 1024,
+                "height": 576,
+                "size": 31477,
+                "url": "https://media.sketchfab.com/models/335da2777cfd48bb9c2279470d4609e6/thumbnails/37417c8d887f4554999e2c0242942711/a62b39d4486b4d969d753e661a3aeec4.jpeg"
+            },
+            {
+                "uid": "75c772a5a86f4a77899f8acb889381d3",
+                "width": 720,
+                "height": 405,
+                "size": 18317,
+                "url": "https://media.sketchfab.com/models/335da2777cfd48bb9c2279470d4609e6/thumbnails/37417c8d887f4554999e2c0242942711/265708b4a68d4fdb8899805ff780f4ee.jpeg"
+            },
+            {
+                "uid": "159faadbafce49aea726deccde5b66eb",
+                "width": 256,
+                "height": 144,
+                "size": 3880,
+                "url": "https://media.sketchfab.com/models/335da2777cfd48bb9c2279470d4609e6/thumbnails/37417c8d887f4554999e2c0242942711/210cebdc361945faadeb0dc3a1e02f4f.jpeg"
+            },
+            {
+                "uid": "9ae76f81317640859747851c2f425d18",
+                "width": 64,
+                "height": 36,
+                "size": 1010,
+                "url": "https://media.sketchfab.com/models/335da2777cfd48bb9c2279470d4609e6/thumbnails/37417c8d887f4554999e2c0242942711/bcff15cbd94149ab934214be7f64d3da.jpeg"
+            }
+        ]
+    },
+    "uid": "335da2777cfd48bb9c2279470d4609e6",
+    "uri": "https://api.sketchfab.com/v3/models/335da2777cfd48bb9c2279470d4609e6",
+    "user": {
+        "uid": "04e900d2204240c7aa7f6210444d3e75",
+        "username": "parmargopal055",
+        "displayName": "parmargopal055",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/parmargopal055",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/04e900d2204240c7aa7f6210444d3e75"
+    },
+    "vertexCount": 8383,
+    "viewCount": 47,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-blacksmith-workshop-335da2777cfd48bb9c2279470d4609e6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This hand-painted blacksmith workshop features a detailed forge setup, molten metal effects, wooden structures, and a cozy fantasy-style house. Designed in a stylized low-poly aesthetic, it fits perfectly in RPG, medieval, and mobile game environments.\n\nIncludes chimney, roof tiles, tools, and props to bring a lively blacksmith area into your scene. Ideal for game developers, level designers, and anyone building a charming fantasy village.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/335da2777cfd48bb9c2279470d4609e6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-30T05:19:15.547629",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

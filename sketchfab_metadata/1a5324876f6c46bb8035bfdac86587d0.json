@@ -1,0 +1,361 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-16T18:53:10.943123",
+    "embedUrl": "https://sketchfab.com/models/1a5324876f6c46bb8035bfdac86587d0/embed",
+    "faceCount": 991231,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 7,
+    "name": "Ancient King",
+    "publishedAt": "2026-01-16T18:57:02.052729",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "crown",
+            "slug": "crown",
+            "uri": "https://api.sketchfab.com/v3/tags/crown"
+        },
+        {
+            "name": "beard",
+            "slug": "beard",
+            "uri": "https://api.sketchfab.com/v3/tags/beard"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "elder",
+            "slug": "elder",
+            "uri": "https://api.sketchfab.com/v3/tags/elder"
+        },
+        {
+            "name": "ar",
+            "slug": "ar",
+            "uri": "https://api.sketchfab.com/v3/tags/ar"
+        },
+        {
+            "name": "npc",
+            "slug": "npc",
+            "uri": "https://api.sketchfab.com/v3/tags/npc"
+        },
+        {
+            "name": "high-poly",
+            "slug": "high-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/high-poly"
+        },
+        {
+            "name": "King",
+            "slug": "king",
+            "uri": "https://api.sketchfab.com/v3/tags/king"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "mythology",
+            "slug": "mythology",
+            "uri": "https://api.sketchfab.com/v3/tags/mythology"
+        },
+        {
+            "name": "robe",
+            "slug": "robe",
+            "uri": "https://api.sketchfab.com/v3/tags/robe"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+        },
+        {
+            "name": "wise",
+            "slug": "wise",
+            "uri": "https://api.sketchfab.com/v3/tags/wise"
+        },
+        {
+            "name": "religious",
+            "slug": "religious",
+            "uri": "https://api.sketchfab.com/v3/tags/religious"
+        },
+        {
+            "name": "leader",
+            "slug": "leader",
+            "uri": "https://api.sketchfab.com/v3/tags/leader"
+        },
+        {
+            "name": "game-asset",
+            "slug": "game-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+        },
+        {
+            "name": "ruler",
+            "slug": "ruler",
+            "uri": "https://api.sketchfab.com/v3/tags/ruler"
+        },
+        {
+            "name": "storytelling",
+            "slug": "storytelling",
+            "uri": "https://api.sketchfab.com/v3/tags/storytelling"
+        },
+        {
+            "name": "metaverse",
+            "slug": "metaverse",
+            "uri": "https://api.sketchfab.com/v3/tags/metaverse"
+        },
+        {
+            "name": "biblical",
+            "slug": "biblical",
+            "uri": "https://api.sketchfab.com/v3/tags/biblical"
+        },
+        {
+            "name": "free-asset",
+            "slug": "free-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/free-asset"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "human",
+            "slug": "human",
+            "uri": "https://api.sketchfab.com/v3/tags/human"
+        },
+        {
+            "name": "sketchfab",
+            "slug": "sketchfab",
+            "uri": "https://api.sketchfab.com/v3/tags/sketchfab"
+        },
+        {
+            "name": "male",
+            "slug": "male",
+            "uri": "https://api.sketchfab.com/v3/tags/male"
+        },
+        {
+            "name": "royal",
+            "slug": "royal",
+            "uri": "https://api.sketchfab.com/v3/tags/royal"
+        },
+        {
+            "name": "cinematic-asset",
+            "slug": "cinematic-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic-asset"
+        },
+        {
+            "name": "stylized-3d",
+            "slug": "stylized-3d",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c202311151fd4143814e27a5c6a23941",
+                "width": 1920,
+                "height": 1080,
+                "size": 120134,
+                "url": "https://media.sketchfab.com/models/1a5324876f6c46bb8035bfdac86587d0/thumbnails/8c7e51e4f4ce4ae389180422ad5873ab/68415dcd97e74693a1362942c1570f2f.jpeg"
+            },
+            {
+                "uid": "e6316c4955db4a6ab04e9852ee55f0cc",
+                "width": 1024,
+                "height": 576,
+                "size": 39193,
+                "url": "https://media.sketchfab.com/models/1a5324876f6c46bb8035bfdac86587d0/thumbnails/8c7e51e4f4ce4ae389180422ad5873ab/90d51d2e2e414fe1b1ce040b1ff41ee7.jpeg"
+            },
+            {
+                "uid": "99fad838e55d46c8a55dba57142c616d",
+                "width": 720,
+                "height": 405,
+                "size": 22596,
+                "url": "https://media.sketchfab.com/models/1a5324876f6c46bb8035bfdac86587d0/thumbnails/8c7e51e4f4ce4ae389180422ad5873ab/d00d46b3b7d74d42830d5f4df096a26d.jpeg"
+            },
+            {
+                "uid": "8b95a3693fe94696a1b22ad865078f02",
+                "width": 256,
+                "height": 144,
+                "size": 4836,
+                "url": "https://media.sketchfab.com/models/1a5324876f6c46bb8035bfdac86587d0/thumbnails/8c7e51e4f4ce4ae389180422ad5873ab/13e5f1a925c34b6f8a6d0c936d2b1d6e.jpeg"
+            },
+            {
+                "uid": "0309cce171bc4a399a2d2e86f188bd3f",
+                "width": 64,
+                "height": 36,
+                "size": 1122,
+                "url": "https://media.sketchfab.com/models/1a5324876f6c46bb8035bfdac86587d0/thumbnails/8c7e51e4f4ce4ae389180422ad5873ab/c06816a893e2422a8626943b9b0b8394.jpeg"
+            }
+        ]
+    },
+    "uid": "1a5324876f6c46bb8035bfdac86587d0",
+    "uri": "https://api.sketchfab.com/v3/models/1a5324876f6c46bb8035bfdac86587d0",
+    "user": {
+        "uid": "f1ec06ea1594482bb780a65d0f9afb45",
+        "username": "f1ec06ea1594482bb780a65d0f9afb",
+        "displayName": "ItsKrish7",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/f1ec06ea1594482bb780a65d0f9afb",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f1ec06ea1594482bb780a65d0f9afb45"
+    },
+    "vertexCount": 495623,
+    "viewCount": 169,
+    "viewerUrl": "https://sketchfab.com/3d-models/ancient-king-1a5324876f6c46bb8035bfdac86587d0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "## ☕ buymeacoffee.com/krishbharal",
+    "price": null,
+    "downloadCount": 46,
+    "editorUrl": "https://sketchfab.com/models/1a5324876f6c46bb8035bfdac86587d0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-24T04:46:52.710860",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

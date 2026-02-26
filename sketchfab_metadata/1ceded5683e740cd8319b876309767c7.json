@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-21T17:04:46.799527",
+    "embedUrl": "https://sketchfab.com/models/1ceded5683e740cd8319b876309767c7/embed",
+    "faceCount": 11819,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "M.H.S.C-DC",
+    "publishedAt": "2026-01-21T17:05:36.184647",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a1fae2620bd941aeb9140983aeb262a6",
+                "width": 1920,
+                "height": 1080,
+                "size": 87362,
+                "url": "https://media.sketchfab.com/models/1ceded5683e740cd8319b876309767c7/thumbnails/98704e3ed12a429c8d53683cac836035/21b3917a36944cea8b85c7ad2439c2fc.jpeg"
+            },
+            {
+                "uid": "a67943eb52b343d3814513538fb49905",
+                "width": 1024,
+                "height": 576,
+                "size": 32217,
+                "url": "https://media.sketchfab.com/models/1ceded5683e740cd8319b876309767c7/thumbnails/98704e3ed12a429c8d53683cac836035/4680b6d3f51b4ff0aacd8fff39fa49f1.jpeg"
+            },
+            {
+                "uid": "65241d90297e41c9a07923103d1be996",
+                "width": 720,
+                "height": 405,
+                "size": 19305,
+                "url": "https://media.sketchfab.com/models/1ceded5683e740cd8319b876309767c7/thumbnails/98704e3ed12a429c8d53683cac836035/3a9f3060dfda4378962fa6a60654e68b.jpeg"
+            },
+            {
+                "uid": "b1856249ee554914b7be60c0a2940d2a",
+                "width": 256,
+                "height": 144,
+                "size": 4111,
+                "url": "https://media.sketchfab.com/models/1ceded5683e740cd8319b876309767c7/thumbnails/98704e3ed12a429c8d53683cac836035/3f6ea38c7a254734ab9207730d60a8dc.jpeg"
+            },
+            {
+                "uid": "15c9919d89da49988824da1afe2d27fe",
+                "width": 64,
+                "height": 36,
+                "size": 1003,
+                "url": "https://media.sketchfab.com/models/1ceded5683e740cd8319b876309767c7/thumbnails/98704e3ed12a429c8d53683cac836035/5edd5126570b4fa9a22bf0cf7d6c7b0e.jpeg"
+            }
+        ]
+    },
+    "uid": "1ceded5683e740cd8319b876309767c7",
+    "uri": "https://api.sketchfab.com/v3/models/1ceded5683e740cd8319b876309767c7",
+    "user": {
+        "uid": "98bd3197495c444fa313379f1531b3d3",
+        "username": "fabiojzp",
+        "displayName": "fabiojzp",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/fabiojzp",
+        "avatar": {
+            "uid": "212f34fb0e2046de8299c16957edc061",
+            "uri": "https://api.sketchfab.com/v3/avatars/212f34fb0e2046de8299c16957edc061",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1561,
+                    "url": "https://media.sketchfab.com/avatars/212f34fb0e2046de8299c16957edc061/37a7f5ccdcca4ff58815e4ac591b928d.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3159,
+                    "url": "https://media.sketchfab.com/avatars/212f34fb0e2046de8299c16957edc061/a5f339b8448340d58ba8ebb42e7dbfdf.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 10086,
+                    "url": "https://media.sketchfab.com/avatars/212f34fb0e2046de8299c16957edc061/a2a84f64d2e64d9398e67ca4234b4467.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 12319,
+                    "url": "https://media.sketchfab.com/avatars/212f34fb0e2046de8299c16957edc061/dc89a4ff82334fc2a5642d73c8f3e78f.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/98bd3197495c444fa313379f1531b3d3"
+    },
+    "vertexCount": 3340,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/mhsc-dc-1ceded5683e740cd8319b876309767c7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/1ceded5683e740cd8319b876309767c7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-21T17:05:36.320714",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

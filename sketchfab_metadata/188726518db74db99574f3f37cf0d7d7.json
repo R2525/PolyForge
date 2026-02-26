@@ -1,0 +1,130 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T19:04:44.705190",
+    "embedUrl": "https://sketchfab.com/models/188726518db74db99574f3f37cf0d7d7/embed",
+    "faceCount": 93522,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "photorealistic 3D model.",
+    "publishedAt": "2026-02-24T19:05:11.018346",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "35346aae6ff7412ab0607127c974db7b",
+                "width": 1920,
+                "height": 1080,
+                "size": 61322,
+                "url": "https://media.sketchfab.com/models/188726518db74db99574f3f37cf0d7d7/thumbnails/cc949003822d4fdaa8c8497efe42e2f2/7fd611b2e7584bbc97c731c7c8f4ce96.jpeg"
+            },
+            {
+                "uid": "d7c82c92fd494012b79580d14ee12473",
+                "width": 1024,
+                "height": 576,
+                "size": 20244,
+                "url": "https://media.sketchfab.com/models/188726518db74db99574f3f37cf0d7d7/thumbnails/cc949003822d4fdaa8c8497efe42e2f2/52b3a37f7d40408f97dcb68cbcd95c5e.jpeg"
+            },
+            {
+                "uid": "a6f187b118034250a27a91699dc3a5f7",
+                "width": 720,
+                "height": 405,
+                "size": 11841,
+                "url": "https://media.sketchfab.com/models/188726518db74db99574f3f37cf0d7d7/thumbnails/cc949003822d4fdaa8c8497efe42e2f2/c661dbe364284a479819edd99a97c156.jpeg"
+            },
+            {
+                "uid": "b8be8b18acca42d8ae900d6ba20a580c",
+                "width": 256,
+                "height": 144,
+                "size": 2799,
+                "url": "https://media.sketchfab.com/models/188726518db74db99574f3f37cf0d7d7/thumbnails/cc949003822d4fdaa8c8497efe42e2f2/1931d0cebd7e4e11be16c5590d35d41e.jpeg"
+            },
+            {
+                "uid": "27c8237eea194bb5a83b78c0d6b70478",
+                "width": 64,
+                "height": 36,
+                "size": 1017,
+                "url": "https://media.sketchfab.com/models/188726518db74db99574f3f37cf0d7d7/thumbnails/cc949003822d4fdaa8c8497efe42e2f2/f3aeed7165eb4098997312ea34661d2e.jpeg"
+            }
+        ]
+    },
+    "uid": "188726518db74db99574f3f37cf0d7d7",
+    "uri": "https://api.sketchfab.com/v3/models/188726518db74db99574f3f37cf0d7d7",
+    "user": {
+        "uid": "4540921e4da1458b893416c05fb4953b",
+        "username": "flamzy",
+        "displayName": "flamzy",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/flamzy",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4540921e4da1458b893416c05fb4953b"
+    },
+    "vertexCount": 46752,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/photorealistic-3d-model-188726518db74db99574f3f37cf0d7d7",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/MmGaJU](https://www.meshy.ai/s/MmGaJU)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/188726518db74db99574f3f37cf0d7d7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T19:05:10.997850",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

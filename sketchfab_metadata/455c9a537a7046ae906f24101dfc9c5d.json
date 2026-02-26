@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-04T15:23:04.526513",
+    "embedUrl": "https://sketchfab.com/models/455c9a537a7046ae906f24101dfc9c5d/embed",
+    "faceCount": 84992,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Helmet Evitex Helm",
+    "publishedAt": "2026-01-04T15:27:06.158020",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "helm",
+            "slug": "helm",
+            "uri": "https://api.sketchfab.com/v3/tags/helm"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "head",
+            "slug": "head",
+            "uri": "https://api.sketchfab.com/v3/tags/head"
+        },
+        {
+            "name": "helemt",
+            "slug": "helemt",
+            "uri": "https://api.sketchfab.com/v3/tags/helemt"
+        },
+        {
+            "name": "helmet-3d-model",
+            "slug": "helmet-3d-model",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet-3d-model"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7594dbcab7d6442b9d82e5eefe57d881",
+                "width": 1920,
+                "height": 1080,
+                "size": 59948,
+                "url": "https://media.sketchfab.com/models/455c9a537a7046ae906f24101dfc9c5d/thumbnails/e1cfa67f66cd4b42abc0877b2150c230/8371d9c4339a44a284184e3928ca921c.jpeg"
+            },
+            {
+                "uid": "d25b4fdd4a1e47ce81a16703c3359419",
+                "width": 1024,
+                "height": 576,
+                "size": 17017,
+                "url": "https://media.sketchfab.com/models/455c9a537a7046ae906f24101dfc9c5d/thumbnails/e1cfa67f66cd4b42abc0877b2150c230/0dac07d14bfc4a888523ae8b1ed4459f.jpeg"
+            },
+            {
+                "uid": "5729eedc3380421a816b951e7d36dc02",
+                "width": 720,
+                "height": 405,
+                "size": 9376,
+                "url": "https://media.sketchfab.com/models/455c9a537a7046ae906f24101dfc9c5d/thumbnails/e1cfa67f66cd4b42abc0877b2150c230/9972978c4d784f3b875bf2d9e612c6e5.jpeg"
+            },
+            {
+                "uid": "555f4c6e7ebc4ff0af5d5b405ef8821d",
+                "width": 256,
+                "height": 144,
+                "size": 2178,
+                "url": "https://media.sketchfab.com/models/455c9a537a7046ae906f24101dfc9c5d/thumbnails/e1cfa67f66cd4b42abc0877b2150c230/1869ceabedbf44be92d7f0b6cbec45da.jpeg"
+            },
+            {
+                "uid": "12a7c93fe70149b59ed5b91ebabd499a",
+                "width": 64,
+                "height": 36,
+                "size": 852,
+                "url": "https://media.sketchfab.com/models/455c9a537a7046ae906f24101dfc9c5d/thumbnails/e1cfa67f66cd4b42abc0877b2150c230/c0df535f324e44f5a24732774cc74ccf.jpeg"
+            }
+        ]
+    },
+    "uid": "455c9a537a7046ae906f24101dfc9c5d",
+    "uri": "https://api.sketchfab.com/v3/models/455c9a537a7046ae906f24101dfc9c5d",
+    "user": {
+        "uid": "8137d5ef4b1f415e9dd70fd4e60097a9",
+        "username": "manixmemusic",
+        "displayName": "manixmemusic",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/manixmemusic",
+        "avatar": {
+            "uid": "c6922e398f0a4bcdafcef649cf5c135d",
+            "uri": "https://api.sketchfab.com/v3/avatars/c6922e398f0a4bcdafcef649cf5c135d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1248,
+                    "url": "https://media.sketchfab.com/avatars/c6922e398f0a4bcdafcef649cf5c135d/91c4161eb43a49208d8e49261a58c117.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1948,
+                    "url": "https://media.sketchfab.com/avatars/c6922e398f0a4bcdafcef649cf5c135d/fe6a7a18c72e4fb6b300ff3a2d4cc64b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5131,
+                    "url": "https://media.sketchfab.com/avatars/c6922e398f0a4bcdafcef649cf5c135d/ce372be002c840d0a23d04b50e7dd3b2.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6030,
+                    "url": "https://media.sketchfab.com/avatars/c6922e398f0a4bcdafcef649cf5c135d/d866c267da784c178e8697477c27ba25.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8137d5ef4b1f415e9dd70fd4e60097a9"
+    },
+    "vertexCount": 42669,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/helmet-evitex-helm-455c9a537a7046ae906f24101dfc9c5d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Evitex Helm of No Rest\n\nItem description:The helm forged with grave of Thousand souls,\n equipment makes death Evitable in exchange of inevitable constant restless battle to the wearer. \n\nRender time : 6 hours 37 minutes",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/455c9a537a7046ae906f24101dfc9c5d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-04T15:27:06.468785",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

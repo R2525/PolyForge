@@ -1,0 +1,70 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Fantasy",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.95
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.65
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.85
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.75
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.65
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Dusty",
+        "Mossy",
+        "Polished",
+        "Rusty"
+    ],
+    "tags": [
+        "fantasy",
+        "v1",
+        "pack",
+        "character",
+        "creature",
+        "drow",
+        "paladin",
+        "warrior",
+        "goliath"
+    ],
+    "model_id_full": "05348d2efaa94fa2a3e39260556f3b46_Fantasy Pack v1",
+    "sketchfab_id": "05348d2efaa94fa2a3e39260556f3b46",
+    "asset_name": "Fantasy Pack v1"
+}

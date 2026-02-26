@@ -1,0 +1,174 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-19T08:48:26.863724",
+    "embedUrl": "https://sketchfab.com/models/1fd15701e05a4a43b7384a8b9bdd4195/embed",
+    "faceCount": 1198052,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Ork Boy mini raw 3D scan",
+    "publishedAt": "2026-01-19T08:58:35.271786",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "ork",
+            "slug": "ork",
+            "uri": "https://api.sketchfab.com/v3/tags/ork"
+        },
+        {
+            "name": "3dscan",
+            "slug": "3dscan",
+            "uri": "https://api.sketchfab.com/v3/tags/3dscan"
+        },
+        {
+            "name": "warhammer40k",
+            "slug": "warhammer40k",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer40k"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8852afc7978344b393468bd3502c8a11",
+                "width": 1920,
+                "height": 1080,
+                "size": 86535,
+                "url": "https://media.sketchfab.com/models/1fd15701e05a4a43b7384a8b9bdd4195/thumbnails/a09001884982455c880a6d4fe26d9d0a/dff306b4993d4588b9580277a4560aa5.jpeg"
+            },
+            {
+                "uid": "617dbbabc5104c43a3a2a73a093701de",
+                "width": 1024,
+                "height": 576,
+                "size": 27352,
+                "url": "https://media.sketchfab.com/models/1fd15701e05a4a43b7384a8b9bdd4195/thumbnails/a09001884982455c880a6d4fe26d9d0a/5e1a3c2803f4488c9b5f15edfc1f8249.jpeg"
+            },
+            {
+                "uid": "a2a11640b1e4466aaf0710dc1af4c659",
+                "width": 720,
+                "height": 405,
+                "size": 15842,
+                "url": "https://media.sketchfab.com/models/1fd15701e05a4a43b7384a8b9bdd4195/thumbnails/a09001884982455c880a6d4fe26d9d0a/6549fec08c0d4e9f8a6f52b940b47891.jpeg"
+            },
+            {
+                "uid": "d273068f3c0042ac89796c4483576bff",
+                "width": 256,
+                "height": 144,
+                "size": 3493,
+                "url": "https://media.sketchfab.com/models/1fd15701e05a4a43b7384a8b9bdd4195/thumbnails/a09001884982455c880a6d4fe26d9d0a/8d5559c3d2a14f8786b4fc0b0481817b.jpeg"
+            },
+            {
+                "uid": "f726581f739743b1995951f46f1a96de",
+                "width": 64,
+                "height": 36,
+                "size": 937,
+                "url": "https://media.sketchfab.com/models/1fd15701e05a4a43b7384a8b9bdd4195/thumbnails/a09001884982455c880a6d4fe26d9d0a/be283e88bf544499b89522be844b2af2.jpeg"
+            }
+        ]
+    },
+    "uid": "1fd15701e05a4a43b7384a8b9bdd4195",
+    "uri": "https://api.sketchfab.com/v3/models/1fd15701e05a4a43b7384a8b9bdd4195",
+    "user": {
+        "uid": "49fe6be079a44391ad6bf9658a468eda",
+        "username": "ApekS",
+        "displayName": "AndreiPek",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ApekS",
+        "avatar": {
+            "uid": "7d6c6aae9bca409cbea7a48e9eab98a7",
+            "uri": "https://api.sketchfab.com/v3/avatars/7d6c6aae9bca409cbea7a48e9eab98a7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1107,
+                    "url": "https://media.sketchfab.com/avatars/7d6c6aae9bca409cbea7a48e9eab98a7/471161239bc14269917927f8ebbd94db.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1538,
+                    "url": "https://media.sketchfab.com/avatars/7d6c6aae9bca409cbea7a48e9eab98a7/68152ba3bb2d4ec783c39ef627c63761.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2949,
+                    "url": "https://media.sketchfab.com/avatars/7d6c6aae9bca409cbea7a48e9eab98a7/bc56f75950ba4c15a200c54e098d83c2.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3392,
+                    "url": "https://media.sketchfab.com/avatars/7d6c6aae9bca409cbea7a48e9eab98a7/8d1ea2958a144fe2bb50ea42cd94a4fe.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/49fe6be079a44391ad6bf9658a468eda"
+    },
+    "vertexCount": 599036,
+    "viewCount": 69,
+    "viewerUrl": "https://sketchfab.com/3d-models/ork-boy-mini-raw-3d-scan-1fd15701e05a4a43b7384a8b9bdd4195",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "The model was scanned with a mediti700 wireless dental scanner.\nFor scanning comissions, send me an e-mail Pek_andrei@yahoo.com",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1fd15701e05a4a43b7384a8b9bdd4195/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-19T09:06:07.858885",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

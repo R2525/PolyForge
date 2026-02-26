@@ -1,0 +1,239 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-25T23:42:18.383723",
+    "embedUrl": "https://sketchfab.com/models/3c602eb7659a4397af9a1fd818358cbf/embed",
+    "faceCount": 777782,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Dungeon Corner",
+    "publishedAt": "2025-11-25T23:43:11.601867",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "dungeon",
+            "slug": "dungeon",
+            "uri": "https://api.sketchfab.com/v3/tags/dungeon"
+        },
+        {
+            "name": "tile",
+            "slug": "tile",
+            "uri": "https://api.sketchfab.com/v3/tags/tile"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "corner",
+            "slug": "corner",
+            "uri": "https://api.sketchfab.com/v3/tags/corner"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "kf2",
+            "slug": "kf2",
+            "uri": "https://api.sketchfab.com/v3/tags/kf2"
+        },
+        {
+            "name": "workshop3d",
+            "slug": "workshop3d",
+            "uri": "https://api.sketchfab.com/v3/tags/workshop3d"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "interior",
+            "slug": "interior",
+            "uri": "https://api.sketchfab.com/v3/tags/interior"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "wall",
+            "slug": "wall",
+            "uri": "https://api.sketchfab.com/v3/tags/wall"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7a9667da6f61462fa1d92c057705b98c",
+                "width": 1920,
+                "height": 1080,
+                "size": 107245,
+                "url": "https://media.sketchfab.com/models/3c602eb7659a4397af9a1fd818358cbf/thumbnails/0dc7eeda57144751b0ce301c435f3cac/d305d28b67a4443bb8e410b3239e0f9a.jpeg"
+            },
+            {
+                "uid": "5583a8081ed24877893f4cb12f7fad02",
+                "width": 1024,
+                "height": 576,
+                "size": 36560,
+                "url": "https://media.sketchfab.com/models/3c602eb7659a4397af9a1fd818358cbf/thumbnails/0dc7eeda57144751b0ce301c435f3cac/38fa6f751d784eb78312f688c98fc3b8.jpeg"
+            },
+            {
+                "uid": "1158d7a4e0e04696889e680010f14de2",
+                "width": 720,
+                "height": 405,
+                "size": 21340,
+                "url": "https://media.sketchfab.com/models/3c602eb7659a4397af9a1fd818358cbf/thumbnails/0dc7eeda57144751b0ce301c435f3cac/8a44b904872e4464a511185d42528525.jpeg"
+            },
+            {
+                "uid": "126412fdd94947de8dc53c4093f4c5fe",
+                "width": 256,
+                "height": 144,
+                "size": 4315,
+                "url": "https://media.sketchfab.com/models/3c602eb7659a4397af9a1fd818358cbf/thumbnails/0dc7eeda57144751b0ce301c435f3cac/2111e90c5eea4fc5af219aa9e4631e56.jpeg"
+            },
+            {
+                "uid": "9ca39de7350b433eba2c6f7d416c803b",
+                "width": 64,
+                "height": 36,
+                "size": 1004,
+                "url": "https://media.sketchfab.com/models/3c602eb7659a4397af9a1fd818358cbf/thumbnails/0dc7eeda57144751b0ce301c435f3cac/b4a7a37f84d94400b137835b634af2e7.jpeg"
+            }
+        ]
+    },
+    "uid": "3c602eb7659a4397af9a1fd818358cbf",
+    "uri": "https://api.sketchfab.com/v3/models/3c602eb7659a4397af9a1fd818358cbf",
+    "user": {
+        "uid": "ca5e34bc9d594ab182c4ed1a45c2038a",
+        "username": "rotherw28",
+        "displayName": "WorkShop3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rotherw28",
+        "avatar": {
+            "uid": "b6d13b2c933742e29ed38f76201ffc6a",
+            "uri": "https://api.sketchfab.com/v3/avatars/b6d13b2c933742e29ed38f76201ffc6a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1059,
+                    "url": "https://media.sketchfab.com/avatars/b6d13b2c933742e29ed38f76201ffc6a/7986dd0e051c4b57a38d2a0fb2f08c11.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1900,
+                    "url": "https://media.sketchfab.com/avatars/b6d13b2c933742e29ed38f76201ffc6a/5ef93c1e4d834e27948683c716c145c6.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5196,
+                    "url": "https://media.sketchfab.com/avatars/b6d13b2c933742e29ed38f76201ffc6a/2ef55c8d99244e7283b8d7fb820ad81a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6222,
+                    "url": "https://media.sketchfab.com/avatars/b6d13b2c933742e29ed38f76201ffc6a/2a4c777e16b14cc4aa58c782d5e801de.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ca5e34bc9d594ab182c4ed1a45c2038a"
+    },
+    "vertexCount": 388580,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/dungeon-corner-3c602eb7659a4397af9a1fd818358cbf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Dungeon-Corner-v2-019abd5d-7445-7a51-9d97-b7624617daa4?utm_source=sketchfab](https://www.meshy.ai/3d-models/Dungeon-Corner-v2-019abd5d-7445-7a51-9d97-b7624617daa4?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3c602eb7659a4397af9a1fd818358cbf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-25T23:44:47.161323",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

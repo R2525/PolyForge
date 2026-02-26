@@ -1,0 +1,38 @@
+STDOUT:
+Blender 4.3.2 (hash 32f5fdce0a0a built 2024-12-17 03:35:23)
+Fra:1 Mem:63.91M (Peak 63.91M) | Time:00:00.41 | Rendering 1 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.44 | Rendering 25 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.47 | Rendering 50 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.49 | Rendering 64 / 64 samples
+Saved: 'C:\debug_output\image\sausages1_view1.png'
+Time: 00:00.62 (Saving: 00:00.11)
+
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.03 | Rendering 1 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.05 | Rendering 25 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.08 | Rendering 50 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.10 | Rendering 64 / 64 samples
+Saved: 'C:\debug_output\image\sausages1_view2.png'
+Time: 00:00.15 (Saving: 00:00.04)
+
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.02 | Rendering 1 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.05 | Rendering 25 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.08 | Rendering 50 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.10 | Rendering 64 / 64 samples
+Saved: 'C:\debug_output\image\sausages1_view3.png'
+Time: 00:00.15 (Saving: 00:00.04)
+
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.02 | Rendering 1 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.05 | Rendering 25 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.09 | Rendering 50 / 64 samples
+Fra:1 Mem:63.92M (Peak 63.92M) | Time:00:00.10 | Rendering 64 / 64 samples
+Saved: 'C:\debug_output\image\sausages1_view4.png'
+Time: 00:00.16 (Saving: 00:00.04)
+
+FBX version: 7200
+RENDER_SUCCESS: debug_output/image/sausages1
+
+Blender quit
+
+
+STDERR:
+GPUTexture: Blender Texture Not Loaded!

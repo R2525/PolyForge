@@ -1,0 +1,211 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-09T19:58:08.865678",
+    "embedUrl": "https://sketchfab.com/models/0faae9b1fe7e41ae9e13e6c8094298c4/embed",
+    "faceCount": 17087,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Futuristic Cyberpunk Low Poly Combat Orb",
+    "publishedAt": "2026-02-09T19:59:21.657412",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "device",
+            "slug": "device",
+            "uri": "https://api.sketchfab.com/v3/tags/device"
+        },
+        {
+            "name": "robotic",
+            "slug": "robotic",
+            "uri": "https://api.sketchfab.com/v3/tags/robotic"
+        },
+        {
+            "name": "orb",
+            "slug": "orb",
+            "uri": "https://api.sketchfab.com/v3/tags/orb"
+        },
+        {
+            "name": "combat",
+            "slug": "combat",
+            "uri": "https://api.sketchfab.com/v3/tags/combat"
+        },
+        {
+            "name": "yellow",
+            "slug": "yellow",
+            "uri": "https://api.sketchfab.com/v3/tags/yellow"
+        },
+        {
+            "name": "stained",
+            "slug": "stained",
+            "uri": "https://api.sketchfab.com/v3/tags/stained"
+        },
+        {
+            "name": "hightech",
+            "slug": "hightech",
+            "uri": "https://api.sketchfab.com/v3/tags/hightech"
+        },
+        {
+            "name": "wornout",
+            "slug": "wornout",
+            "uri": "https://api.sketchfab.com/v3/tags/wornout"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "black",
+            "slug": "black",
+            "uri": "https://api.sketchfab.com/v3/tags/black"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e007f1ac12dd4948975c0e1837286d53",
+                "width": 1920,
+                "height": 1080,
+                "size": 95751,
+                "url": "https://media.sketchfab.com/models/0faae9b1fe7e41ae9e13e6c8094298c4/thumbnails/4713cf7792204baabb0c2b52be974232/f8c6574f822a43f0910324deeb334b2c.jpeg"
+            },
+            {
+                "uid": "07a3623aae7348f08e8c031871cea7b8",
+                "width": 1024,
+                "height": 576,
+                "size": 33423,
+                "url": "https://media.sketchfab.com/models/0faae9b1fe7e41ae9e13e6c8094298c4/thumbnails/4713cf7792204baabb0c2b52be974232/7cb0cd821e2046979ac60154e292be0d.jpeg"
+            },
+            {
+                "uid": "460b0b3aa857448e902de80041314031",
+                "width": 720,
+                "height": 405,
+                "size": 19598,
+                "url": "https://media.sketchfab.com/models/0faae9b1fe7e41ae9e13e6c8094298c4/thumbnails/4713cf7792204baabb0c2b52be974232/f1030df6f4714784aff038cc4a5ebb99.jpeg"
+            },
+            {
+                "uid": "220c2b1a97e44f11a4604c9450b38dcf",
+                "width": 256,
+                "height": 144,
+                "size": 4219,
+                "url": "https://media.sketchfab.com/models/0faae9b1fe7e41ae9e13e6c8094298c4/thumbnails/4713cf7792204baabb0c2b52be974232/b7f1504e148a4acbb2b05d9ce5ead22c.jpeg"
+            },
+            {
+                "uid": "e5c577a5adc846ce9c195114b0a4b5ed",
+                "width": 64,
+                "height": 36,
+                "size": 1038,
+                "url": "https://media.sketchfab.com/models/0faae9b1fe7e41ae9e13e6c8094298c4/thumbnails/4713cf7792204baabb0c2b52be974232/bc7315d3bae24573acd01342d96c4922.jpeg"
+            }
+        ]
+    },
+    "uid": "0faae9b1fe7e41ae9e13e6c8094298c4",
+    "uri": "https://api.sketchfab.com/v3/models/0faae9b1fe7e41ae9e13e6c8094298c4",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 8585,
+    "viewCount": 27,
+    "viewerUrl": "https://sketchfab.com/3d-models/futuristic-cyberpunk-low-poly-combat-orb-0faae9b1fe7e41ae9e13e6c8094298c4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Futuristic Cyberpunk Low Poly Combat Orb, multifunctional, it can spy, blow up, track, film, mark, trail and even do nothing at all, the internet of things, well not even 9000 faces so a snap to edit, i really like the worn out looks, when i stated that to my mother-in-law she did not say a word or move a muscle, i knew then i was in big trouble, thats why i know it can even do nothing;)",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/0faae9b1fe7e41ae9e13e6c8094298c4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T20:03:14.021099",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

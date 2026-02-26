@@ -1,0 +1,241 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "name": "Sports & Fitness",
+            "slug": "sports-fitness",
+            "uri": "https://api.sketchfab.com/v3/categories/ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/2cc5442dbf0aeeed5327cbf073964157-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T13:38:14.242790",
+    "embedUrl": "https://sketchfab.com/models/11c21ba48bdb4ed2b364f3bec2020cce/embed",
+    "faceCount": 1139729,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 12,
+    "name": "Skybound Skater",
+    "publishedAt": "2026-02-21T13:39:17.030542",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "sky",
+            "slug": "sky",
+            "uri": "https://api.sketchfab.com/v3/tags/sky"
+        },
+        {
+            "name": "cute",
+            "slug": "cute",
+            "uri": "https://api.sketchfab.com/v3/tags/cute"
+        },
+        {
+            "name": "heroine",
+            "slug": "heroine",
+            "uri": "https://api.sketchfab.com/v3/tags/heroine"
+        },
+        {
+            "name": "pinup",
+            "slug": "pinup",
+            "uri": "https://api.sketchfab.com/v3/tags/pinup"
+        },
+        {
+            "name": "skater",
+            "slug": "skater",
+            "uri": "https://api.sketchfab.com/v3/tags/skater"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "cosplay",
+            "slug": "cosplay",
+            "uri": "https://api.sketchfab.com/v3/tags/cosplay"
+        },
+        {
+            "name": "colorful",
+            "slug": "colorful",
+            "uri": "https://api.sketchfab.com/v3/tags/colorful"
+        },
+        {
+            "name": "animegirl",
+            "slug": "animegirl",
+            "uri": "https://api.sketchfab.com/v3/tags/animegirl"
+        },
+        {
+            "name": "crop",
+            "slug": "crop",
+            "uri": "https://api.sketchfab.com/v3/tags/crop"
+        },
+        {
+            "name": "anime3d",
+            "slug": "anime3d",
+            "uri": "https://api.sketchfab.com/v3/tags/anime3d"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "61e1cfa0530e4079bfeeb540426c2a98",
+                "width": 1920,
+                "height": 1080,
+                "size": 97293,
+                "url": "https://media.sketchfab.com/models/11c21ba48bdb4ed2b364f3bec2020cce/thumbnails/e3a87c72e0f54a43a2e6f6350562d0ca/9e6def7d8f2c47af8ab3e2beb2e83c86.jpeg"
+            },
+            {
+                "uid": "64558c58508541d8918633c3fe1a90c5",
+                "width": 1024,
+                "height": 576,
+                "size": 33647,
+                "url": "https://media.sketchfab.com/models/11c21ba48bdb4ed2b364f3bec2020cce/thumbnails/e3a87c72e0f54a43a2e6f6350562d0ca/02befe1a49ae49cbb06def50824eb810.jpeg"
+            },
+            {
+                "uid": "9b5670d0819a4b4dac8b6681e2f3fa16",
+                "width": 720,
+                "height": 405,
+                "size": 19423,
+                "url": "https://media.sketchfab.com/models/11c21ba48bdb4ed2b364f3bec2020cce/thumbnails/e3a87c72e0f54a43a2e6f6350562d0ca/2199106ce74f48e5af66bfc74f6d5dbd.jpeg"
+            },
+            {
+                "uid": "699d5c0bcdd94e3aa8bf932dd9c2132a",
+                "width": 256,
+                "height": 144,
+                "size": 3855,
+                "url": "https://media.sketchfab.com/models/11c21ba48bdb4ed2b364f3bec2020cce/thumbnails/e3a87c72e0f54a43a2e6f6350562d0ca/f6bf1bd7f96846e5bd558d12f295d211.jpeg"
+            },
+            {
+                "uid": "8b6834f6a9ed49c0951b642b92e0aa1b",
+                "width": 64,
+                "height": 36,
+                "size": 934,
+                "url": "https://media.sketchfab.com/models/11c21ba48bdb4ed2b364f3bec2020cce/thumbnails/e3a87c72e0f54a43a2e6f6350562d0ca/26711a9eb12f48ad9046343d554775a6.jpeg"
+            }
+        ]
+    },
+    "uid": "11c21ba48bdb4ed2b364f3bec2020cce",
+    "uri": "https://api.sketchfab.com/v3/models/11c21ba48bdb4ed2b364f3bec2020cce",
+    "user": {
+        "uid": "bb2eb822aced46c8876252f8e0bae00a",
+        "username": "Alberto.Zanini",
+        "displayName": "Miniature Collectors Club",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Alberto.Zanini",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bb2eb822aced46c8876252f8e0bae00a"
+    },
+    "vertexCount": 569515,
+    "viewCount": 113,
+    "viewerUrl": "https://sketchfab.com/3d-models/skybound-skater-11c21ba48bdb4ed2b364f3bec2020cce",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "High resolution mesh \n\nThis model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/HFaPHC](https://www.meshy.ai/s/HFaPHC)",
+    "price": null,
+    "downloadCount": 30,
+    "editorUrl": "https://sketchfab.com/models/11c21ba48bdb4ed2b364f3bec2020cce/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T13:41:53.520781",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

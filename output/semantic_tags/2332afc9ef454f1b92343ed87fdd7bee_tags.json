@@ -1,0 +1,36 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Abstract",
+            "score": 0.9
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Abstract",
+            "score": 0.8
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "3D model",
+        "geometric",
+        "abstract"
+    ]
+}

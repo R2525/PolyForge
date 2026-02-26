@@ -1,0 +1,199 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-11-24T19:51:57.908733",
+    "embedUrl": "https://sketchfab.com/models/42d23d24183342d7ae486b763566ed35/embed",
+    "faceCount": 379951,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Welwick, crosier graveslab",
+    "publishedAt": "2025-11-24T19:53:39.464626",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "england",
+            "slug": "england",
+            "uri": "https://api.sketchfab.com/v3/tags/england"
+        },
+        {
+            "name": "yorkshire",
+            "slug": "yorkshire",
+            "uri": "https://api.sketchfab.com/v3/tags/yorkshire"
+        },
+        {
+            "name": "abbot",
+            "slug": "abbot",
+            "uri": "https://api.sketchfab.com/v3/tags/abbot"
+        },
+        {
+            "name": "crosier",
+            "slug": "crosier",
+            "uri": "https://api.sketchfab.com/v3/tags/crosier"
+        },
+        {
+            "name": "graveslab",
+            "slug": "graveslab",
+            "uri": "https://api.sketchfab.com/v3/tags/graveslab"
+        },
+        {
+            "name": "3df-zephyr",
+            "slug": "3df-zephyr",
+            "uri": "https://api.sketchfab.com/v3/tags/3df-zephyr"
+        },
+        {
+            "name": "tomb",
+            "slug": "tomb",
+            "uri": "https://api.sketchfab.com/v3/tags/tomb"
+        },
+        {
+            "name": "welwick",
+            "slug": "welwick",
+            "uri": "https://api.sketchfab.com/v3/tags/welwick"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d19c28fb215e47c8987f0dd498816e4f",
+                "width": 1920,
+                "height": 1080,
+                "size": 183581,
+                "url": "https://media.sketchfab.com/models/42d23d24183342d7ae486b763566ed35/thumbnails/43cd0d77a8644ef39323966a013765de/05dd7b3741a74a56a57a2d361a7ccfb6.jpeg"
+            },
+            {
+                "uid": "2a9f0c252cb74d958e6dd33f413369e9",
+                "width": 1024,
+                "height": 576,
+                "size": 57175,
+                "url": "https://media.sketchfab.com/models/42d23d24183342d7ae486b763566ed35/thumbnails/43cd0d77a8644ef39323966a013765de/58ba9f1753a04bc6a43f8172c08d7fa2.jpeg"
+            },
+            {
+                "uid": "80b710958dfc4a898381a88a53f4fe0d",
+                "width": 720,
+                "height": 405,
+                "size": 32139,
+                "url": "https://media.sketchfab.com/models/42d23d24183342d7ae486b763566ed35/thumbnails/43cd0d77a8644ef39323966a013765de/f0f34a5861fa4e28a5b88d91d86440a1.jpeg"
+            },
+            {
+                "uid": "e888fe17b483403283cfe4435f3b33ca",
+                "width": 256,
+                "height": 144,
+                "size": 5924,
+                "url": "https://media.sketchfab.com/models/42d23d24183342d7ae486b763566ed35/thumbnails/43cd0d77a8644ef39323966a013765de/bc151b878dd34c13a8968ca64c07a215.jpeg"
+            },
+            {
+                "uid": "0f33d4c36d98493d8da38ba32b9a426a",
+                "width": 64,
+                "height": 36,
+                "size": 1273,
+                "url": "https://media.sketchfab.com/models/42d23d24183342d7ae486b763566ed35/thumbnails/43cd0d77a8644ef39323966a013765de/ae6ed818dc694d229b2c8f8e982f1dcc.jpeg"
+            }
+        ]
+    },
+    "uid": "42d23d24183342d7ae486b763566ed35",
+    "uri": "https://api.sketchfab.com/v3/models/42d23d24183342d7ae486b763566ed35",
+    "user": {
+        "uid": "06143015200e48e096f3d02a67fb2ad0",
+        "username": "Gnomonsland",
+        "displayName": "Gnomonsland",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Gnomonsland",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/06143015200e48e096f3d02a67fb2ad0"
+    },
+    "vertexCount": 210391,
+    "viewCount": 55,
+    "viewerUrl": "https://sketchfab.com/3d-models/welwick-crosier-graveslab-42d23d24183342d7ae486b763566ed35",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "3D asset generated with photogrammetry software 3DF Zephyr v7.007 processing 234 images",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/42d23d24183342d7ae486b763566ed35/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "3DF-Zephyr-Lite",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-24T20:05:28.401611",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 3
+}

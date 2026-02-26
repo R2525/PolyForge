@@ -1,0 +1,41 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Art & Abstract",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Modern",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Clean"
+    ],
+    "tags": [
+        "lamp",
+        "table lamp",
+        "home decor"
+    ]
+}

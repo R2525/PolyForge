@@ -1,0 +1,68 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Warrior",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Weathered",
+        "Dusty",
+        "Mossy"
+    ],
+    "tags": [
+        "ancient",
+        "sword",
+        "weapon",
+        "military",
+        "historical",
+        "medieval",
+        "rusty",
+        "old"
+    ],
+    "model_id_full": "22e6ccfa784e4fcdaab74c966fd83efb_Ancient Sword",
+    "sketchfab_id": "22e6ccfa784e4fcdaab74c966fd83efb",
+    "asset_name": "Ancient Sword"
+}

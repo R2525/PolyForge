@@ -1,0 +1,69 @@
+{
+    "category": "Food & Drink",
+    "genre": "Semi-Realistic",
+    "top_genres": [
+        {
+            "name": "Semi-Realistic",
+            "score": 0.95
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic",
+            "score": 0.6
+        },
+        {
+            "name": "Cultural Heritage & History",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        },
+        {
+            "name": "Gothic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Polished",
+        "Rusty",
+        "Dusty",
+        "Cracked"
+    ],
+    "tags": [
+        "wooden barrel",
+        "barrel",
+        "3D model",
+        "barrel with tap",
+        "barrel with lid",
+        "barrel with metal bands",
+        "barrel with wooden texture",
+        "barrel with gold bands"
+    ],
+    "model_id_full": "2592e0bbb5514771a088ed7017fb9997_Barile",
+    "sketchfab_id": "2592e0bbb5514771a088ed7017fb9997",
+    "asset_name": "Barile"
+}

@@ -1,0 +1,69 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient",
+            "score": 0.8
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "High-Res 3D Model",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Sculpt",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Weathered",
+        "Dusty",
+        "Cracked",
+        "Rusted"
+    ],
+    "tags": [
+        "shaman",
+        "ancient",
+        "bog",
+        "spiritual",
+        "magic",
+        "spiritual leader",
+        "nature",
+        "spiritual"
+    ],
+    "model_id_full": "13611f0f98fa42a0943f70e1fa0def65_Ancient Bog Shaman",
+    "sketchfab_id": "13611f0f98fa42a0943f70e1fa0def65",
+    "asset_name": "Ancient Bog Shaman"
+}

@@ -1,0 +1,185 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-04T12:14:28.678090",
+    "embedUrl": "https://sketchfab.com/models/13ef68a9be9942f5ad931442283810ea/embed",
+    "faceCount": 569353,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Fortified Protector Shield",
+    "publishedAt": "2025-12-04T12:15:11.106716",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "detailed",
+            "slug": "detailed",
+            "uri": "https://api.sketchfab.com/v3/tags/detailed"
+        },
+        {
+            "name": "protection",
+            "slug": "protection",
+            "uri": "https://api.sketchfab.com/v3/tags/protection"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "highres",
+            "slug": "highres",
+            "uri": "https://api.sketchfab.com/v3/tags/highres"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "59e439a0831b41afae7b91dc95a36e32",
+                "width": 1920,
+                "height": 1080,
+                "size": 420263,
+                "url": "https://media.sketchfab.com/models/13ef68a9be9942f5ad931442283810ea/thumbnails/6dda44ca1b4b49a39a0d7eebedfeb73c/306fc85ab8b844edb34362d9880020d5.jpeg"
+            },
+            {
+                "uid": "361d1bed675b410d96e546ab0607a8c1",
+                "width": 1024,
+                "height": 576,
+                "size": 41199,
+                "url": "https://media.sketchfab.com/models/13ef68a9be9942f5ad931442283810ea/thumbnails/6dda44ca1b4b49a39a0d7eebedfeb73c/cb5eb6a4f5304f0ca8a059ef04f31d92.jpeg"
+            },
+            {
+                "uid": "2e9a342257df437ab85c75d4b4dcc33c",
+                "width": 720,
+                "height": 405,
+                "size": 22792,
+                "url": "https://media.sketchfab.com/models/13ef68a9be9942f5ad931442283810ea/thumbnails/6dda44ca1b4b49a39a0d7eebedfeb73c/b97a2b931abe4096862e3f1d1a7a6491.jpeg"
+            },
+            {
+                "uid": "3fabe346ae0e40fe9f82b12694688233",
+                "width": 256,
+                "height": 144,
+                "size": 4729,
+                "url": "https://media.sketchfab.com/models/13ef68a9be9942f5ad931442283810ea/thumbnails/6dda44ca1b4b49a39a0d7eebedfeb73c/14b4ecdd051f4a1b8c0005e321e5fca4.jpeg"
+            },
+            {
+                "uid": "2f3c6bd2a3e7432cb37bc6afa31c0e3c",
+                "width": 64,
+                "height": 36,
+                "size": 1139,
+                "url": "https://media.sketchfab.com/models/13ef68a9be9942f5ad931442283810ea/thumbnails/6dda44ca1b4b49a39a0d7eebedfeb73c/dd7bcc4927bc47209fb3aeca960c0d11.jpeg"
+            }
+        ]
+    },
+    "uid": "13ef68a9be9942f5ad931442283810ea",
+    "uri": "https://api.sketchfab.com/v3/models/13ef68a9be9942f5ad931442283810ea",
+    "user": {
+        "uid": "88305f54f9c745cb8728fd86bfa2eed7",
+        "username": "avivperets26",
+        "displayName": "avivperets",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/avivperets26",
+        "avatar": {
+            "uid": "54357bbb200f451998b5271dcb2d157b",
+            "uri": "https://api.sketchfab.com/v3/avatars/54357bbb200f451998b5271dcb2d157b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1000,
+                    "url": "https://media.sketchfab.com/avatars/54357bbb200f451998b5271dcb2d157b/e1ff26420a6e4e7a95c8835746fb90ba.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1415,
+                    "url": "https://media.sketchfab.com/avatars/54357bbb200f451998b5271dcb2d157b/2166bbdc799944e795fe25546ff35ef4.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3270,
+                    "url": "https://media.sketchfab.com/avatars/54357bbb200f451998b5271dcb2d157b/0bcc7d1565394e2da83eb6eefd060956.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3808,
+                    "url": "https://media.sketchfab.com/avatars/54357bbb200f451998b5271dcb2d157b/35ea739d23504b16bbdadf91d3d2e31d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/88305f54f9c745cb8728fd86bfa2eed7"
+    },
+    "vertexCount": 284682,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/fortified-protector-shield-13ef68a9be9942f5ad931442283810ea",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/13ef68a9be9942f5ad931442283810ea/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-04T12:22:58.999237",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

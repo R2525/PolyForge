@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-06T20:19:04.386410",
+    "embedUrl": "https://sketchfab.com/models/0ffe5c8def914c7e803e45626934bb3b/embed",
+    "faceCount": 125024,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "ESS-D237C1 Medieval Purse",
+    "publishedAt": "2026-01-06T20:22:18.852303",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "findsorguk",
+            "slug": "findsorguk",
+            "uri": "https://api.sketchfab.com/v3/tags/findsorguk"
+        },
+        {
+            "name": "copper-alloy",
+            "slug": "copper-alloy",
+            "uri": "https://api.sketchfab.com/v3/tags/copper-alloy"
+        },
+        {
+            "name": "medieval-archaeology",
+            "slug": "medieval-archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-archaeology"
+        },
+        {
+            "name": "archaeology-3dmodel",
+            "slug": "archaeology-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology-3dmodel"
+        },
+        {
+            "name": "archaeology-3dmodel-photogrammetry",
+            "slug": "archaeology-3dmodel-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology-3dmodel-photogrammetry"
+        },
+        {
+            "name": "kiriengine",
+            "slug": "kiriengine",
+            "uri": "https://api.sketchfab.com/v3/tags/kiriengine"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e47d5fe2890f44cbb209a491dd95e5c0",
+                "width": 1920,
+                "height": 1080,
+                "size": 70626,
+                "url": "https://media.sketchfab.com/models/0ffe5c8def914c7e803e45626934bb3b/thumbnails/45aa9a4be1ec434c887c5df89e9f179f/38497371f0754113a19a0d901d01fba7.jpeg"
+            },
+            {
+                "uid": "ec1d1f7d94ec4440a76bd3efd972c994",
+                "width": 1024,
+                "height": 576,
+                "size": 22922,
+                "url": "https://media.sketchfab.com/models/0ffe5c8def914c7e803e45626934bb3b/thumbnails/45aa9a4be1ec434c887c5df89e9f179f/4eef9563a52a4b9493f86a90c1b1a8b0.jpeg"
+            },
+            {
+                "uid": "daa5490abbaf4a13bf1ccd25935d98c1",
+                "width": 720,
+                "height": 405,
+                "size": 13000,
+                "url": "https://media.sketchfab.com/models/0ffe5c8def914c7e803e45626934bb3b/thumbnails/45aa9a4be1ec434c887c5df89e9f179f/9e2b443333cf446e9c99adda8e1dadb4.jpeg"
+            },
+            {
+                "uid": "263430c8912243a6b1f225839f0bec64",
+                "width": 256,
+                "height": 144,
+                "size": 2862,
+                "url": "https://media.sketchfab.com/models/0ffe5c8def914c7e803e45626934bb3b/thumbnails/45aa9a4be1ec434c887c5df89e9f179f/2c5f5a4960e64ffd8d0934394b1bf285.jpeg"
+            },
+            {
+                "uid": "8fd1c4e6bec54a849f5aef94cceae980",
+                "width": 64,
+                "height": 36,
+                "size": 914,
+                "url": "https://media.sketchfab.com/models/0ffe5c8def914c7e803e45626934bb3b/thumbnails/45aa9a4be1ec434c887c5df89e9f179f/46fb5935036d479abf73bf1db63cc19c.jpeg"
+            }
+        ]
+    },
+    "uid": "0ffe5c8def914c7e803e45626934bb3b",
+    "uri": "https://api.sketchfab.com/v3/models/0ffe5c8def914c7e803e45626934bb3b",
+    "user": {
+        "uid": "edf26737ce5948afa421d6556033d2f5",
+        "username": "Mark.Jeffcock",
+        "displayName": "Mark.Jeffcock",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/Mark.Jeffcock",
+        "avatar": {
+            "uid": "d31d2c5b5b0a4ba2b8b1b653e39adf83",
+            "uri": "https://api.sketchfab.com/v3/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 759,
+                    "url": "https://media.sketchfab.com/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83/a70543e094604dffb4ffda12acb9dbea.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1178,
+                    "url": "https://media.sketchfab.com/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83/85852972ff86461589f21ee2df67201b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2793,
+                    "url": "https://media.sketchfab.com/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83/0dbad3ef6ac24d9fa9a5dc9cce5c868c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3309,
+                    "url": "https://media.sketchfab.com/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83/20ba35733c1945008a20a6127139ec5b.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/edf26737ce5948afa421d6556033d2f5"
+    },
+    "vertexCount": 62514,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/ess-d237c1-medieval-purse-0ffe5c8def914c7e803e45626934bb3b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "An incomplete copper-alloy purse bar, Late Medieval to early Post Medieval, dating from c. AD 1450 to 1550. \n\nTo find out more visit the Portable Antiquities Scheme database: https://finds.org.uk/database/artefacts/record/id/1252319",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/0ffe5c8def914c7e803e45626934bb3b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-06T20:56:31.657394",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

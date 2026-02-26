@@ -1,0 +1,67 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.5
+        },
+        {
+            "name": "Warrior",
+            "score": 0.4
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "mace",
+        "morning star",
+        "weapon",
+        "historical",
+        "medieval",
+        "iron",
+        "wooden handle",
+        "spiked head"
+    ],
+    "model_id_full": "25ba72580a394ed58051561db85f902f_Man at Arms Morning Star",
+    "sketchfab_id": "25ba72580a394ed58051561db85f902f",
+    "asset_name": "Man at Arms Morning Star"
+}

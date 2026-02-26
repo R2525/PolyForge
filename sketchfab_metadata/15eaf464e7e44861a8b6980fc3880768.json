@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-19T13:20:53.647112",
+    "embedUrl": "https://sketchfab.com/models/15eaf464e7e44861a8b6980fc3880768/embed",
+    "faceCount": 225862,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+    },
+    "likeCount": 3,
+    "name": "Silver Buckle Brooch",
+    "publishedAt": "2026-02-13T08:18:15.055873",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "jewelry",
+            "slug": "jewelry",
+            "uri": "https://api.sketchfab.com/v3/tags/jewelry"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "hoard",
+            "slug": "hoard",
+            "uri": "https://api.sketchfab.com/v3/tags/hoard"
+        },
+        {
+            "name": "wiener-neustadt",
+            "slug": "wiener-neustadt",
+            "uri": "https://api.sketchfab.com/v3/tags/wiener-neustadt"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e5dac18e29824636a716063e89ca3c10",
+                "width": 1920,
+                "height": 1080,
+                "size": 177591,
+                "url": "https://media.sketchfab.com/models/15eaf464e7e44861a8b6980fc3880768/thumbnails/56b405fa9fe548b885d6d9ef1dce1919/64cea1a8dec6472f8c12755a71403694.jpeg"
+            },
+            {
+                "uid": "1ed69d53951e49fc8206827e8ed2e0f7",
+                "width": 1024,
+                "height": 576,
+                "size": 53739,
+                "url": "https://media.sketchfab.com/models/15eaf464e7e44861a8b6980fc3880768/thumbnails/56b405fa9fe548b885d6d9ef1dce1919/51afb2c052704000ada506c7f80bf4c5.jpeg"
+            },
+            {
+                "uid": "8485ce15d5544c929ffcc4b3f5cc7368",
+                "width": 720,
+                "height": 405,
+                "size": 29073,
+                "url": "https://media.sketchfab.com/models/15eaf464e7e44861a8b6980fc3880768/thumbnails/56b405fa9fe548b885d6d9ef1dce1919/3f63ceda4dca4a7a84284b247a2cac8c.jpeg"
+            },
+            {
+                "uid": "13d5042e768f4baa89fb3a063256f441",
+                "width": 256,
+                "height": 144,
+                "size": 5132,
+                "url": "https://media.sketchfab.com/models/15eaf464e7e44861a8b6980fc3880768/thumbnails/56b405fa9fe548b885d6d9ef1dce1919/9f00a8c472cf4d3a81555291f0023e7c.jpeg"
+            },
+            {
+                "uid": "cdd66cdc0c264b198df287a693275e12",
+                "width": 64,
+                "height": 36,
+                "size": 1119,
+                "url": "https://media.sketchfab.com/models/15eaf464e7e44861a8b6980fc3880768/thumbnails/56b405fa9fe548b885d6d9ef1dce1919/d09943b9c7d74dd38c200d9c855ead1a.jpeg"
+            }
+        ]
+    },
+    "uid": "15eaf464e7e44861a8b6980fc3880768",
+    "uri": "https://api.sketchfab.com/v3/models/15eaf464e7e44861a8b6980fc3880768",
+    "user": {
+        "uid": "9a364f335b9d4c17b59e5aa03ddc69d2",
+        "username": "landessammlungen-noe",
+        "displayName": "Landessammlungen Niederösterreich",
+        "account": "prem",
+        "profileUrl": "https://sketchfab.com/landessammlungen-noe",
+        "avatar": {
+            "uid": "a371dd4670814f9785326b41b544db1d",
+            "uri": "https://api.sketchfab.com/v3/avatars/a371dd4670814f9785326b41b544db1d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 789,
+                    "url": "https://media.sketchfab.com/avatars/a371dd4670814f9785326b41b544db1d/a14524c58ef44f62af4d06aaf0ed3f29.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1075,
+                    "url": "https://media.sketchfab.com/avatars/a371dd4670814f9785326b41b544db1d/d6e29de538864cddb0b18dba482cdf50.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1683,
+                    "url": "https://media.sketchfab.com/avatars/a371dd4670814f9785326b41b544db1d/819cee54ac9e4fd4b9b321854298c3c7.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2172,
+                    "url": "https://media.sketchfab.com/avatars/a371dd4670814f9785326b41b544db1d/f0085c684d114b61b9b73c855f8276b7.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9a364f335b9d4c17b59e5aa03ddc69d2"
+    },
+    "vertexCount": 112928,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/silver-buckle-brooch-15eaf464e7e44861a8b6980fc3880768",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "**Collection:** Prehistory and Historical Archeology Dept.\n\n**Inv.-No.:** [UF-22958.53](https://www.online.landessammlungen-noe.at/objects/1117116)\n\n**Material:** Silver\n\n**Dimensions:** 29 x 19 mm\n\n**Dating:** 1250-1400  CE\n\nThe Borrchs frame is circular in shape and features a flat rectangular cross-section. The motif depicted is that of a vine, accompanied by a border that is presumed to contain niello. The frame is intricately carved on both sides, serving as a shaft for the pin.\n\nThis object was digitized through the ‘Kulturerbe digital’ program of the Federal Ministry for Arts, Culture, Public Service and Sport.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/15eaf464e7e44861a8b6980fc3880768/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-13T08:18:15.169439",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

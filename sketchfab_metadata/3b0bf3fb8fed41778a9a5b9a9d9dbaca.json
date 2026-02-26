@@ -1,0 +1,271 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-23T17:55:25.849781",
+    "embedUrl": "https://sketchfab.com/models/3b0bf3fb8fed41778a9a5b9a9d9dbaca/embed",
+    "faceCount": 16266,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+    },
+    "likeCount": 11,
+    "name": "Silver Sword - The Witcher",
+    "publishedAt": "2025-12-23T18:21:35.680134",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "silver",
+            "slug": "silver",
+            "uri": "https://api.sketchfab.com/v3/tags/silver"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "witcher",
+            "slug": "witcher",
+            "uri": "https://api.sketchfab.com/v3/tags/witcher"
+        },
+        {
+            "name": "geralt",
+            "slug": "geralt",
+            "uri": "https://api.sketchfab.com/v3/tags/geralt"
+        },
+        {
+            "name": "ciri",
+            "slug": "ciri",
+            "uri": "https://api.sketchfab.com/v3/tags/ciri"
+        },
+        {
+            "name": "geraltofrivia",
+            "slug": "geraltofrivia",
+            "uri": "https://api.sketchfab.com/v3/tags/geraltofrivia"
+        },
+        {
+            "name": "thewitcher3",
+            "slug": "thewitcher3",
+            "uri": "https://api.sketchfab.com/v3/tags/thewitcher3"
+        },
+        {
+            "name": "silversword",
+            "slug": "silversword",
+            "uri": "https://api.sketchfab.com/v3/tags/silversword"
+        },
+        {
+            "name": "thewitcher",
+            "slug": "thewitcher",
+            "uri": "https://api.sketchfab.com/v3/tags/thewitcher"
+        },
+        {
+            "name": "skellige",
+            "slug": "skellige",
+            "uri": "https://api.sketchfab.com/v3/tags/skellige"
+        },
+        {
+            "name": "novigrad",
+            "slug": "novigrad",
+            "uri": "https://api.sketchfab.com/v3/tags/novigrad"
+        },
+        {
+            "name": "kaermorhen",
+            "slug": "kaermorhen",
+            "uri": "https://api.sketchfab.com/v3/tags/kaermorhen"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        },
+        {
+            "name": "thewitcher2",
+            "slug": "thewitcher2",
+            "uri": "https://api.sketchfab.com/v3/tags/thewitcher2"
+        },
+        {
+            "name": "thewitcher4",
+            "slug": "thewitcher4",
+            "uri": "https://api.sketchfab.com/v3/tags/thewitcher4"
+        },
+        {
+            "name": "skelligeislands",
+            "slug": "skelligeislands",
+            "uri": "https://api.sketchfab.com/v3/tags/skelligeislands"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "885d2461c838417c968e66a1b365f941",
+                "width": 1920,
+                "height": 1080,
+                "size": 70168,
+                "url": "https://media.sketchfab.com/models/3b0bf3fb8fed41778a9a5b9a9d9dbaca/thumbnails/f466ba04818c4ea88fa730c76598a8d4/089c33e7fed04895a4c13c14c77b6d49.jpeg"
+            },
+            {
+                "uid": "693d3c8274174dd7a1d8f4442f812b29",
+                "width": 1024,
+                "height": 576,
+                "size": 22253,
+                "url": "https://media.sketchfab.com/models/3b0bf3fb8fed41778a9a5b9a9d9dbaca/thumbnails/f466ba04818c4ea88fa730c76598a8d4/381ed51d51304baa9b7918bf1133938d.jpeg"
+            },
+            {
+                "uid": "2d185b18e634450c80f74d857eac3d31",
+                "width": 720,
+                "height": 405,
+                "size": 12906,
+                "url": "https://media.sketchfab.com/models/3b0bf3fb8fed41778a9a5b9a9d9dbaca/thumbnails/f466ba04818c4ea88fa730c76598a8d4/fea2e368cda64804bfe2a2ae7023b9ac.jpeg"
+            },
+            {
+                "uid": "814d7e7263a245cab36654e9f7c57233",
+                "width": 256,
+                "height": 144,
+                "size": 2915,
+                "url": "https://media.sketchfab.com/models/3b0bf3fb8fed41778a9a5b9a9d9dbaca/thumbnails/f466ba04818c4ea88fa730c76598a8d4/abbafc801dd34411b5d2454127208bff.jpeg"
+            },
+            {
+                "uid": "777b2074ab354b8da68ff428d122c6dc",
+                "width": 64,
+                "height": 36,
+                "size": 927,
+                "url": "https://media.sketchfab.com/models/3b0bf3fb8fed41778a9a5b9a9d9dbaca/thumbnails/f466ba04818c4ea88fa730c76598a8d4/f136cf8dc63449379c45f82085112c99.jpeg"
+            }
+        ]
+    },
+    "uid": "3b0bf3fb8fed41778a9a5b9a9d9dbaca",
+    "uri": "https://api.sketchfab.com/v3/models/3b0bf3fb8fed41778a9a5b9a9d9dbaca",
+    "user": {
+        "uid": "cdc7629e97fa44118394b58f47fd89bd",
+        "username": "LlucGuardiola",
+        "displayName": "Lluc Guardiolaa",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/LlucGuardiola",
+        "avatar": {
+            "uid": "e56c7feea8d94ddd93514db56e28f3a4",
+            "uri": "https://api.sketchfab.com/v3/avatars/e56c7feea8d94ddd93514db56e28f3a4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2266,
+                    "url": "https://media.sketchfab.com/avatars/e56c7feea8d94ddd93514db56e28f3a4/abf608586fe647878cc8f4cc16594326.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4644,
+                    "url": "https://media.sketchfab.com/avatars/e56c7feea8d94ddd93514db56e28f3a4/006ebe2d3cbe45f594c53a702768192b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14599,
+                    "url": "https://media.sketchfab.com/avatars/e56c7feea8d94ddd93514db56e28f3a4/67666b8628cc4306b6caf58a9b252d06.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17616,
+                    "url": "https://media.sketchfab.com/avatars/e56c7feea8d94ddd93514db56e28f3a4/929b62decb1a4d5bacb72fa99618bdd4.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cdc7629e97fa44118394b58f47fd89bd"
+    },
+    "vertexCount": 8318,
+    "viewCount": 218,
+    "viewerUrl": "https://sketchfab.com/3d-models/silver-sword-the-witcher-3b0bf3fb8fed41778a9a5b9a9d9dbaca",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A fan-made 3D model of Geralt’s iconic silver sword from The Witcher 3: Wild Hunt. This weapon, crafted for monster slaying is perfect for fans of the series or as a collectible asset for your own game or project.\n\n**Software Used:**\n\n* 3ds Max\n* Substance Painter \n* Blender  \n* PureRef",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/3b0bf3fb8fed41778a9a5b9a9d9dbaca/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-10T19:10:14.000013",
+    "pbrType": "metalness",
+    "textureCount": 10,
+    "materialCount": 2
+}

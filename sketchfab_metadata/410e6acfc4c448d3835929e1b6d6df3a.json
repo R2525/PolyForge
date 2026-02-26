@@ -1,0 +1,221 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-29T10:45:12.661199",
+    "embedUrl": "https://sketchfab.com/models/410e6acfc4c448d3835929e1b6d6df3a/embed",
+    "faceCount": 4332,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 8,
+    "name": "Dungeon/Prison Bars + Door",
+    "publishedAt": "2026-01-29T12:45:05.804361",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "dungeon",
+            "slug": "dungeon",
+            "uri": "https://api.sketchfab.com/v3/tags/dungeon"
+        },
+        {
+            "name": "assets",
+            "slug": "assets",
+            "uri": "https://api.sketchfab.com/v3/tags/assets"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "prison",
+            "slug": "prison",
+            "uri": "https://api.sketchfab.com/v3/tags/prison"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "iron",
+            "slug": "iron",
+            "uri": "https://api.sketchfab.com/v3/tags/iron"
+        },
+        {
+            "name": "pbr-texturing",
+            "slug": "pbr-texturing",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-texturing"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        },
+        {
+            "name": "prison-bars",
+            "slug": "prison-bars",
+            "uri": "https://api.sketchfab.com/v3/tags/prison-bars"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9c1f193494254c4eb17f309912cac861",
+                "width": 1920,
+                "height": 1080,
+                "size": 140302,
+                "url": "https://media.sketchfab.com/models/410e6acfc4c448d3835929e1b6d6df3a/thumbnails/025a63a9a55c4cbe95b1f0964935da66/c0ff42850ee5487b9db880c08dec7707.jpeg"
+            },
+            {
+                "uid": "14cf8eb335d24185acaebf3f8af63ed5",
+                "width": 1024,
+                "height": 576,
+                "size": 38541,
+                "url": "https://media.sketchfab.com/models/410e6acfc4c448d3835929e1b6d6df3a/thumbnails/025a63a9a55c4cbe95b1f0964935da66/5f157b567c0947699e3793e80794e8df.jpeg"
+            },
+            {
+                "uid": "b65dc64204ab41cd81073259e15fe67f",
+                "width": 720,
+                "height": 405,
+                "size": 21653,
+                "url": "https://media.sketchfab.com/models/410e6acfc4c448d3835929e1b6d6df3a/thumbnails/025a63a9a55c4cbe95b1f0964935da66/d1519cd455f74c0184fab9df79a46dca.jpeg"
+            },
+            {
+                "uid": "25e07cbc95434be886fe993705299b99",
+                "width": 256,
+                "height": 144,
+                "size": 4175,
+                "url": "https://media.sketchfab.com/models/410e6acfc4c448d3835929e1b6d6df3a/thumbnails/025a63a9a55c4cbe95b1f0964935da66/3c38208542284204aaa54a31206e35a6.jpeg"
+            },
+            {
+                "uid": "eb3c8557d48b40ca8b4ed3a8dccbc5cb",
+                "width": 64,
+                "height": 36,
+                "size": 887,
+                "url": "https://media.sketchfab.com/models/410e6acfc4c448d3835929e1b6d6df3a/thumbnails/025a63a9a55c4cbe95b1f0964935da66/272f673eba6047b3b4d65ae280be24f7.jpeg"
+            }
+        ]
+    },
+    "uid": "410e6acfc4c448d3835929e1b6d6df3a",
+    "uri": "https://api.sketchfab.com/v3/models/410e6acfc4c448d3835929e1b6d6df3a",
+    "user": {
+        "uid": "7084a09a1535402699379966b3b73a82",
+        "username": "yukitsu-senpai",
+        "displayName": "Yukitsu-Senpai",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/yukitsu-senpai",
+        "avatar": {
+            "uid": "48097ed62a964b4781bcf2493007a286",
+            "uri": "https://api.sketchfab.com/v3/avatars/48097ed62a964b4781bcf2493007a286",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 3195,
+                    "url": "https://media.sketchfab.com/avatars/48097ed62a964b4781bcf2493007a286/a67c3999474d4d00a1c33af142f389d4.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 6107,
+                    "url": "https://media.sketchfab.com/avatars/48097ed62a964b4781bcf2493007a286/d25b4fed1941448aaeb17ae1a714d182.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16910,
+                    "url": "https://media.sketchfab.com/avatars/48097ed62a964b4781bcf2493007a286/47db1872d2b542bdb32159fec2c65903.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 20016,
+                    "url": "https://media.sketchfab.com/avatars/48097ed62a964b4781bcf2493007a286/bf539dabbed34249aa99b1aa71cb6bf2.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7084a09a1535402699379966b3b73a82"
+    },
+    "vertexCount": 2264,
+    "viewCount": 142,
+    "viewerUrl": "https://sketchfab.com/3d-models/dungeonprison-bars-door-410e6acfc4c448d3835929e1b6d6df3a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A low poly 3D model from my university project: One Way Out.\n\n[No AI, Only 1k Texture Maps, FBX]\n\nPrison bars and door are seperate objects/UVs.\n\n(You are welcome to let me know if you use it in any project, I would like to see where it is used :3)",
+    "price": null,
+    "downloadCount": 37,
+    "editorUrl": "https://sketchfab.com/models/410e6acfc4c448d3835929e1b6d6df3a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-29T12:58:54.910922",
+    "pbrType": "metalness",
+    "textureCount": 10,
+    "materialCount": 2
+}

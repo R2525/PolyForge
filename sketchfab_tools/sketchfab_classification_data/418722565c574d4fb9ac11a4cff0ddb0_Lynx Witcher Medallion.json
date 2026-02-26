@@ -1,0 +1,69 @@
+{
+    "category": "Animals & Creatures",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Dark",
+            "score": 0.85
+        },
+        {
+            "name": "Mystical",
+            "score": 0.8
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.75
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.88
+        },
+        {
+            "name": "Low Poly",
+            "score": 0.85
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "3D Model",
+            "score": 0.75
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Grime",
+        "Cracked"
+    ],
+    "tags": [
+        "medallion",
+        "lynx",
+        "witcher",
+        "animal",
+        "mask",
+        "3D model",
+        "dark",
+        "gothic"
+    ],
+    "model_id_full": "418722565c574d4fb9ac11a4cff0ddb0_Lynx Witcher Medallion",
+    "sketchfab_id": "418722565c574d4fb9ac11a4cff0ddb0",
+    "asset_name": "Lynx Witcher Medallion"
+}

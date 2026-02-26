@@ -1,0 +1,40 @@
+{
+    "category": "Science & Technology",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Military",
+            "score": 0.75
+        },
+        {
+            "name": "Modern",
+            "score": 0.65
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.8
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "spaceship",
+        "warship",
+        "futuristic"
+    ]
+}

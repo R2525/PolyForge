@@ -1,0 +1,296 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-04T23:27:25.986969",
+    "embedUrl": "https://sketchfab.com/models/466e066e835b4f13b1ed1c12522aa666/embed",
+    "faceCount": 31538,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 12,
+    "name": "Medieval-{X}-Manor_'North'",
+    "publishedAt": "2025-12-04T23:38:12.397348",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "manor",
+            "slug": "manor",
+            "uri": "https://api.sketchfab.com/v3/tags/manor"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "manorhouse",
+            "slug": "manorhouse",
+            "uri": "https://api.sketchfab.com/v3/tags/manorhouse"
+        },
+        {
+            "name": "cultural",
+            "slug": "cultural",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural"
+        },
+        {
+            "name": "uvmapped",
+            "slug": "uvmapped",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped"
+        },
+        {
+            "name": "uvmap",
+            "slug": "uvmap",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmap"
+        },
+        {
+            "name": "cultural-heritage",
+            "slug": "cultural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage"
+        },
+        {
+            "name": "architectural-heritage",
+            "slug": "architectural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/architectural-heritage"
+        },
+        {
+            "name": "manor-house",
+            "slug": "manor-house",
+            "uri": "https://api.sketchfab.com/v3/tags/manor-house"
+        },
+        {
+            "name": "architectural-design",
+            "slug": "architectural-design",
+            "uri": "https://api.sketchfab.com/v3/tags/architectural-design"
+        },
+        {
+            "name": "freemodel",
+            "slug": "freemodel",
+            "uri": "https://api.sketchfab.com/v3/tags/freemodel"
+        },
+        {
+            "name": "free-model",
+            "slug": "free-model",
+            "uri": "https://api.sketchfab.com/v3/tags/free-model"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "history",
+            "slug": "history",
+            "uri": "https://api.sketchfab.com/v3/tags/history"
+        },
+        {
+            "name": "culuralheritage",
+            "slug": "culuralheritage",
+            "uri": "https://api.sketchfab.com/v3/tags/culuralheritage"
+        },
+        {
+            "name": "copilot",
+            "slug": "copilot",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "manor_architecture",
+            "slug": "manor_architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/manor_architecture"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "uvmapped-model",
+            "slug": "uvmapped-model",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped-model"
+        },
+        {
+            "name": "copilot3d",
+            "slug": "copilot3d",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3d"
+        },
+        {
+            "name": "copilotai",
+            "slug": "copilotai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotai"
+        },
+        {
+            "name": "copilotlabs",
+            "slug": "copilotlabs",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotlabs"
+        },
+        {
+            "name": "medieval-manor",
+            "slug": "medieval-manor",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-manor"
+        },
+        {
+            "name": "medievalmanor",
+            "slug": "medievalmanor",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalmanor"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b9bccaa828b74dea89c107571cce2e30",
+                "width": 1920,
+                "height": 1080,
+                "size": 167825,
+                "url": "https://media.sketchfab.com/models/466e066e835b4f13b1ed1c12522aa666/thumbnails/114b0b55094144cf958ce7c7cf426ff5/05e9a2210d374bb699630469f620d1de.jpeg"
+            },
+            {
+                "uid": "e950253a13dc48b69c2a263ecaf45236",
+                "width": 1024,
+                "height": 576,
+                "size": 60644,
+                "url": "https://media.sketchfab.com/models/466e066e835b4f13b1ed1c12522aa666/thumbnails/114b0b55094144cf958ce7c7cf426ff5/9cf878c8c5bb42b2ac15d381bea87a95.jpeg"
+            },
+            {
+                "uid": "8343135e15df4988bee35ca2639f8368",
+                "width": 720,
+                "height": 405,
+                "size": 36329,
+                "url": "https://media.sketchfab.com/models/466e066e835b4f13b1ed1c12522aa666/thumbnails/114b0b55094144cf958ce7c7cf426ff5/319b5d8700df45bb983749fef33de32c.jpeg"
+            },
+            {
+                "uid": "23938387c9a2405e80c7be6e755b5f1f",
+                "width": 256,
+                "height": 144,
+                "size": 8111,
+                "url": "https://media.sketchfab.com/models/466e066e835b4f13b1ed1c12522aa666/thumbnails/114b0b55094144cf958ce7c7cf426ff5/5d5affc5fde84cb79951430a06d4ef05.jpeg"
+            },
+            {
+                "uid": "bb6b59c6169f4db99b8473f1c399189e",
+                "width": 64,
+                "height": 36,
+                "size": 1534,
+                "url": "https://media.sketchfab.com/models/466e066e835b4f13b1ed1c12522aa666/thumbnails/114b0b55094144cf958ce7c7cf426ff5/6c4288e39e6d430d9f9c244759b7d0fd.jpeg"
+            }
+        ]
+    },
+    "uid": "466e066e835b4f13b1ed1c12522aa666",
+    "uri": "https://api.sketchfab.com/v3/models/466e066e835b4f13b1ed1c12522aa666",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 15754,
+    "viewCount": 300,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-x-manor-north-466e066e835b4f13b1ed1c12522aa666",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 42,
+    "editorUrl": "https://sketchfab.com/models/466e066e835b4f13b1ed1c12522aa666/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-21T23:07:27.757206",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

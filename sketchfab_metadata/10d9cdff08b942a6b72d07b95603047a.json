@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-09T13:44:15.205392",
+    "embedUrl": "https://sketchfab.com/models/10d9cdff08b942a6b72d07b95603047a/embed",
+    "faceCount": 480,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Low Poly Exe",
+    "publishedAt": "2025-12-09T13:45:04.342384",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "exe",
+            "slug": "exe",
+            "uri": "https://api.sketchfab.com/v3/tags/exe"
+        },
+        {
+            "name": "medievalweapon",
+            "slug": "medievalweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalweapon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ee089ba9b0984f21a4fe3238bebf3e1c",
+                "width": 1920,
+                "height": 1080,
+                "size": 37419,
+                "url": "https://media.sketchfab.com/models/10d9cdff08b942a6b72d07b95603047a/thumbnails/3f534d2821c44b23ae61e7e476eea52a/d06abb054a674399b6cdefde91676872.jpeg"
+            },
+            {
+                "uid": "ac95b5ab31144f67a8b3750340239b94",
+                "width": 1024,
+                "height": 576,
+                "size": 11722,
+                "url": "https://media.sketchfab.com/models/10d9cdff08b942a6b72d07b95603047a/thumbnails/3f534d2821c44b23ae61e7e476eea52a/95699fa2c60c48c5a93c72fb8c1a2a5f.jpeg"
+            },
+            {
+                "uid": "8151b66a5feb43d5bf25b3097cb0cb24",
+                "width": 720,
+                "height": 405,
+                "size": 6513,
+                "url": "https://media.sketchfab.com/models/10d9cdff08b942a6b72d07b95603047a/thumbnails/3f534d2821c44b23ae61e7e476eea52a/04ee513bac434bbb827489568260280a.jpeg"
+            },
+            {
+                "uid": "77c52f58162c4f7fad61296e644c6ef1",
+                "width": 256,
+                "height": 144,
+                "size": 1594,
+                "url": "https://media.sketchfab.com/models/10d9cdff08b942a6b72d07b95603047a/thumbnails/3f534d2821c44b23ae61e7e476eea52a/175d41033727447a878c78669223591e.jpeg"
+            },
+            {
+                "uid": "637dfb18b42d46da885c58dc66d3ea55",
+                "width": 64,
+                "height": 36,
+                "size": 753,
+                "url": "https://media.sketchfab.com/models/10d9cdff08b942a6b72d07b95603047a/thumbnails/3f534d2821c44b23ae61e7e476eea52a/bd3888d8bc9c48569c41bee15f623df6.jpeg"
+            }
+        ]
+    },
+    "uid": "10d9cdff08b942a6b72d07b95603047a",
+    "uri": "https://api.sketchfab.com/v3/models/10d9cdff08b942a6b72d07b95603047a",
+    "user": {
+        "uid": "db2e23b2530646c5bc902ca0d122fc1c",
+        "username": "Pagemar",
+        "displayName": "Pagemar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Pagemar",
+        "avatar": {
+            "uid": "70590225fa544304a94c851d948ca9ba",
+            "uri": "https://api.sketchfab.com/v3/avatars/70590225fa544304a94c851d948ca9ba",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1339,
+                    "url": "https://media.sketchfab.com/avatars/70590225fa544304a94c851d948ca9ba/7f09699d2af24e89bd4b828f97df0737.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2106,
+                    "url": "https://media.sketchfab.com/avatars/70590225fa544304a94c851d948ca9ba/f28021f6d3cc402c944fa37f19f6170b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5423,
+                    "url": "https://media.sketchfab.com/avatars/70590225fa544304a94c851d948ca9ba/4fd2073bdb484061aeb8cd008278f783.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6304,
+                    "url": "https://media.sketchfab.com/avatars/70590225fa544304a94c851d948ca9ba/e960fb94e1854ee2a544e1c3566048f4.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/db2e23b2530646c5bc902ca0d122fc1c"
+    },
+    "vertexCount": 248,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-exe-10d9cdff08b942a6b72d07b95603047a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Low Poly Exe Model 480 number of triangles.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/10d9cdff08b942a6b72d07b95603047a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-09T13:45:04.645903",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

@@ -1,0 +1,66 @@
+{
+    "category": "People",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Art & Abstract",
+            "score": 0.8
+        },
+        {
+            "name": "Science & Technology",
+            "score": 0.7
+        },
+        {
+            "name": "Art & Abstract",
+            "score": 0.7
+        },
+        {
+            "name": "Cultural Heritage & History",
+            "score": 0.6
+        }
+    ],
+    "style": "Stylized Line Art",
+    "top_styles": [
+        {
+            "name": "Stylized Line Art",
+            "score": 0.8
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.7
+        },
+        {
+            "name": "Vector Art",
+            "score": 0.6
+        },
+        {
+            "name": "Digital Illustration",
+            "score": 0.5
+        },
+        {
+            "name": "Contemporary Art",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "line art",
+        "stylized",
+        "gothic",
+        "abstract",
+        "minimalist",
+        "digital illustration",
+        "character",
+        "human"
+    ],
+    "model_id_full": "32549b2152e149e2b5f1dae42202fd99_the capsule",
+    "sketchfab_id": "32549b2152e149e2b5f1dae42202fd99",
+    "asset_name": "the capsule"
+}

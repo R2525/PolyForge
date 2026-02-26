@@ -1,0 +1,145 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T18:58:52.108846",
+    "embedUrl": "https://sketchfab.com/models/38cccb39eb9142c5bc5e3af357a861a0/embed",
+    "faceCount": 238,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Retro Car Wheel",
+    "publishedAt": "2026-02-21T19:00:13.581523",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "Roblox",
+            "slug": "roblox",
+            "uri": "https://api.sketchfab.com/v3/tags/roblox"
+        },
+        {
+            "name": "GarrysMod",
+            "slug": "garrysmod",
+            "uri": "https://api.sketchfab.com/v3/tags/garrysmod"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2b156f3fa5d04d12a968b20aee2a2804",
+                "width": 1920,
+                "height": 1080,
+                "size": 53584,
+                "url": "https://media.sketchfab.com/models/38cccb39eb9142c5bc5e3af357a861a0/thumbnails/2ce26b1fee3b4f139691d06974d4a5b8/9a8f4d9eec4a4bf29bb1c724a505746b.jpeg"
+            },
+            {
+                "uid": "5f91cc314e864fa79a3fbb4b70fe94f1",
+                "width": 1024,
+                "height": 576,
+                "size": 17453,
+                "url": "https://media.sketchfab.com/models/38cccb39eb9142c5bc5e3af357a861a0/thumbnails/2ce26b1fee3b4f139691d06974d4a5b8/a37762fb6ede4f2b860442d97dfe9d90.jpeg"
+            },
+            {
+                "uid": "f2f7528289ce4cfba36ba1b9d8be6b17",
+                "width": 720,
+                "height": 405,
+                "size": 10280,
+                "url": "https://media.sketchfab.com/models/38cccb39eb9142c5bc5e3af357a861a0/thumbnails/2ce26b1fee3b4f139691d06974d4a5b8/f90f17b583064bbcb23058184df4f6af.jpeg"
+            },
+            {
+                "uid": "e362e121bf364b5c9a4c6ffee0bb2f42",
+                "width": 256,
+                "height": 144,
+                "size": 2606,
+                "url": "https://media.sketchfab.com/models/38cccb39eb9142c5bc5e3af357a861a0/thumbnails/2ce26b1fee3b4f139691d06974d4a5b8/7fc0c9458cfe45e9a0e21edd113003b7.jpeg"
+            },
+            {
+                "uid": "dd095acccbc24a9a8a4867adffdfc480",
+                "width": 64,
+                "height": 36,
+                "size": 926,
+                "url": "https://media.sketchfab.com/models/38cccb39eb9142c5bc5e3af357a861a0/thumbnails/2ce26b1fee3b4f139691d06974d4a5b8/e8172078fd1c40a7af6d5dc737046c3e.jpeg"
+            }
+        ]
+    },
+    "uid": "38cccb39eb9142c5bc5e3af357a861a0",
+    "uri": "https://api.sketchfab.com/v3/models/38cccb39eb9142c5bc5e3af357a861a0",
+    "user": {
+        "uid": "c4d9e53d6dac4fb4a4dc7370e546d561",
+        "username": "Elijah-3d",
+        "displayName": "Elijah3d",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Elijah-3d",
+        "avatar": {
+            "uid": "d49dec23777345249e8a227497e8fca4",
+            "uri": "https://api.sketchfab.com/v3/avatars/d49dec23777345249e8a227497e8fca4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1304,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/9cf98d43178d4fd483cd37a1a13e8266.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2028,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/df12c865d28a4a1ba7eabe7fb36fe00b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4491,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/45a020a3db2648379e0056fa9f9a23e8.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5168,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/a95cc2b81181477c894bcec224a97587.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c4d9e53d6dac4fb4a4dc7370e546d561"
+    },
+    "vertexCount": 121,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/retro-car-wheel-38cccb39eb9142c5bc5e3af357a861a0",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "dc elijah3d\ninspired by Gmod",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/38cccb39eb9142c5bc5e3af357a861a0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T19:00:13.763456",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

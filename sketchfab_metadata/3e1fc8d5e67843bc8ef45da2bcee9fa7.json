@@ -1,0 +1,176 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-10-15T10:38:20.123838",
+    "embedUrl": "https://sketchfab.com/models/3e1fc8d5e67843bc8ef45da2bcee9fa7/embed",
+    "faceCount": 50000,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 14,
+    "name": "Decor_warhammer_002",
+    "publishedAt": "2025-10-15T10:39:18.696286",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "decor",
+            "slug": "decor",
+            "uri": "https://api.sketchfab.com/v3/tags/decor"
+        },
+        {
+            "name": "sculpture",
+            "slug": "sculpture",
+            "uri": "https://api.sketchfab.com/v3/tags/sculpture"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9f1066e648bd4c1c860258a5b6a9fa9f",
+                "width": 1920,
+                "height": 1080,
+                "size": 107181,
+                "url": "https://media.sketchfab.com/models/3e1fc8d5e67843bc8ef45da2bcee9fa7/thumbnails/1581a049d7ff47a582ea000e5231e264/eec2dd991ce549ed88cf6af55f451af5.jpeg"
+            },
+            {
+                "uid": "3507033e2e9b426aaf21ac9fb0ccbda9",
+                "width": 1024,
+                "height": 576,
+                "size": 34260,
+                "url": "https://media.sketchfab.com/models/3e1fc8d5e67843bc8ef45da2bcee9fa7/thumbnails/1581a049d7ff47a582ea000e5231e264/8605715ab4d0471b805990c98820d795.jpeg"
+            },
+            {
+                "uid": "583d60fe7da84a159a3391ae5789e348",
+                "width": 720,
+                "height": 405,
+                "size": 19451,
+                "url": "https://media.sketchfab.com/models/3e1fc8d5e67843bc8ef45da2bcee9fa7/thumbnails/1581a049d7ff47a582ea000e5231e264/d08b8903e2334e12a1f5fad91fc8f183.jpeg"
+            },
+            {
+                "uid": "e36cc509fe1746b58d64d914337d29c2",
+                "width": 256,
+                "height": 144,
+                "size": 3749,
+                "url": "https://media.sketchfab.com/models/3e1fc8d5e67843bc8ef45da2bcee9fa7/thumbnails/1581a049d7ff47a582ea000e5231e264/da9fb723800843cfb1bb17f658d7f547.jpeg"
+            },
+            {
+                "uid": "8864788dbeb94556b8e39c8afeea04dc",
+                "width": 64,
+                "height": 36,
+                "size": 1008,
+                "url": "https://media.sketchfab.com/models/3e1fc8d5e67843bc8ef45da2bcee9fa7/thumbnails/1581a049d7ff47a582ea000e5231e264/45c1f6aeb49a495c8bb772b6ba27123b.jpeg"
+            }
+        ]
+    },
+    "uid": "3e1fc8d5e67843bc8ef45da2bcee9fa7",
+    "uri": "https://api.sketchfab.com/v3/models/3e1fc8d5e67843bc8ef45da2bcee9fa7",
+    "user": {
+        "uid": "183c734124c54f9d9d71306156100aee",
+        "username": "denj666",
+        "displayName": "denj666",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/denj666",
+        "avatar": {
+            "uid": "6573d5803fa3451d80cc71ff0f409080",
+            "uri": "https://api.sketchfab.com/v3/avatars/6573d5803fa3451d80cc71ff0f409080",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 964,
+                    "url": "https://media.sketchfab.com/avatars/6573d5803fa3451d80cc71ff0f409080/37f5fb19f37445b8aef2a932e2632d38.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1303,
+                    "url": "https://media.sketchfab.com/avatars/6573d5803fa3451d80cc71ff0f409080/70b6d5ab5eed45958cd894dde6d6839d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2544,
+                    "url": "https://media.sketchfab.com/avatars/6573d5803fa3451d80cc71ff0f409080/5924c8f8501a40b39da511c1ed14df89.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2848,
+                    "url": "https://media.sketchfab.com/avatars/6573d5803fa3451d80cc71ff0f409080/ff12d51a5d4d4891acd2158fba3fc8d3.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/183c734124c54f9d9d71306156100aee"
+    },
+    "vertexCount": 24874,
+    "viewCount": 582,
+    "viewerUrl": "https://sketchfab.com/3d-models/decor-warhammer-002-3e1fc8d5e67843bc8ef45da2bcee9fa7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 83,
+    "editorUrl": "https://sketchfab.com/models/3e1fc8d5e67843bc8ef45da2bcee9fa7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-10-15T10:46:32.866677",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

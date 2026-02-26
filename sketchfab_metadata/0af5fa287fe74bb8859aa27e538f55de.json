@@ -1,0 +1,176 @@
+{
+    "animationCount": 4,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 9,
+    "createdAt": "2025-11-08T21:27:36.891170",
+    "embedUrl": "https://sketchfab.com/models/0af5fa287fe74bb8859aa27e538f55de/embed",
+    "faceCount": 304918,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 8,
+    "name": "Saturnine Terminator",
+    "publishedAt": "2025-11-08T21:28:37.732285",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "40k",
+            "slug": "40k",
+            "uri": "https://api.sketchfab.com/v3/tags/40k"
+        },
+        {
+            "name": "40000",
+            "slug": "40000",
+            "uri": "https://api.sketchfab.com/v3/tags/40000"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "765f6b528a504783a5210491c1b87118",
+                "width": 1920,
+                "height": 1080,
+                "size": 53333,
+                "url": "https://media.sketchfab.com/models/0af5fa287fe74bb8859aa27e538f55de/thumbnails/0722df7ac2ab462799ead2312ec0a835/45bd7f0b81934126acfdfd9f323f719f.jpeg"
+            },
+            {
+                "uid": "d90dc8ec7ac84b15934d6036ef8cd31d",
+                "width": 1024,
+                "height": 576,
+                "size": 17815,
+                "url": "https://media.sketchfab.com/models/0af5fa287fe74bb8859aa27e538f55de/thumbnails/0722df7ac2ab462799ead2312ec0a835/589519d7d617413fba858f4dd1695c3a.jpeg"
+            },
+            {
+                "uid": "769117c6d02b4a59b7a8a73bb7bd2edb",
+                "width": 720,
+                "height": 405,
+                "size": 10192,
+                "url": "https://media.sketchfab.com/models/0af5fa287fe74bb8859aa27e538f55de/thumbnails/0722df7ac2ab462799ead2312ec0a835/12b1c9d08247474da3db49ff5019d67f.jpeg"
+            },
+            {
+                "uid": "afe0d07a04934627b28a90260f358b91",
+                "width": 256,
+                "height": 144,
+                "size": 2070,
+                "url": "https://media.sketchfab.com/models/0af5fa287fe74bb8859aa27e538f55de/thumbnails/0722df7ac2ab462799ead2312ec0a835/f1344c0f5a9e4f6198b17fcd23bf8949.jpeg"
+            },
+            {
+                "uid": "fa860ce208d94073905cfbc351a1f849",
+                "width": 64,
+                "height": 36,
+                "size": 767,
+                "url": "https://media.sketchfab.com/models/0af5fa287fe74bb8859aa27e538f55de/thumbnails/0722df7ac2ab462799ead2312ec0a835/2fab2ffd5e344a01b63a17bb6a8157de.jpeg"
+            }
+        ]
+    },
+    "uid": "0af5fa287fe74bb8859aa27e538f55de",
+    "uri": "https://api.sketchfab.com/v3/models/0af5fa287fe74bb8859aa27e538f55de",
+    "user": {
+        "uid": "a145b89e312b4e8cabe340ca71d57549",
+        "username": "neothefox05",
+        "displayName": "neothefox05",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/neothefox05",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a145b89e312b4e8cabe340ca71d57549"
+    },
+    "vertexCount": 167208,
+    "viewCount": 617,
+    "viewerUrl": "https://sketchfab.com/3d-models/saturnine-terminator-0af5fa287fe74bb8859aa27e538f55de",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "this was given to me with the request of uploading it here, so here it is",
+    "price": null,
+    "downloadCount": 71,
+    "editorUrl": "https://sketchfab.com/models/0af5fa287fe74bb8859aa27e538f55de/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-08T21:30:25.901187",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 16
+}

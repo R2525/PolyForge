@@ -1,0 +1,199 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-12T13:01:11.970383",
+    "embedUrl": "https://sketchfab.com/models/34483f9576d34148be1038c238a8ed55/embed",
+    "faceCount": 190,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Clone Wars Christophsis Debris",
+    "publishedAt": "2026-01-12T13:05:10.538805",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "star-wars",
+            "slug": "star-wars",
+            "uri": "https://api.sketchfab.com/v3/tags/star-wars"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "419862dfaa5e476ca186c558fea323c8",
+                "width": 1920,
+                "height": 1080,
+                "size": 144004,
+                "url": "https://media.sketchfab.com/models/34483f9576d34148be1038c238a8ed55/thumbnails/04f273a76546457fb41f10da1fc98aa1/07f4143a607148b488bbf886be0c6f5a.jpeg"
+            },
+            {
+                "uid": "ebe1a8323f444d5182c2e01e759f6221",
+                "width": 1024,
+                "height": 576,
+                "size": 45458,
+                "url": "https://media.sketchfab.com/models/34483f9576d34148be1038c238a8ed55/thumbnails/04f273a76546457fb41f10da1fc98aa1/616c9c18c93c440696fdc3fb03c42684.jpeg"
+            },
+            {
+                "uid": "89cebecb420442e4abfb92fc29ee0b21",
+                "width": 720,
+                "height": 405,
+                "size": 26059,
+                "url": "https://media.sketchfab.com/models/34483f9576d34148be1038c238a8ed55/thumbnails/04f273a76546457fb41f10da1fc98aa1/5d3fb04d17404481bc1a6babbb5176d4.jpeg"
+            },
+            {
+                "uid": "6dc859382127411fab5121fcc36a877a",
+                "width": 256,
+                "height": 144,
+                "size": 5647,
+                "url": "https://media.sketchfab.com/models/34483f9576d34148be1038c238a8ed55/thumbnails/04f273a76546457fb41f10da1fc98aa1/c63713c3e1ce4ade9467bb1824550630.jpeg"
+            },
+            {
+                "uid": "0f6006c78a984df888e19e6b5f34e66a",
+                "width": 64,
+                "height": 36,
+                "size": 1268,
+                "url": "https://media.sketchfab.com/models/34483f9576d34148be1038c238a8ed55/thumbnails/04f273a76546457fb41f10da1fc98aa1/4cd50d2a7e274b848d9991b9a697f917.jpeg"
+            }
+        ]
+    },
+    "uid": "34483f9576d34148be1038c238a8ed55",
+    "uri": "https://api.sketchfab.com/v3/models/34483f9576d34148be1038c238a8ed55",
+    "user": {
+        "uid": "d46b2e9ed2754f7680c19ad4f96bf048",
+        "username": "Mistory09",
+        "displayName": "Mistory09",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Mistory09",
+        "avatar": {
+            "uid": "4e740e28506942c7af11ce702802159f",
+            "uri": "https://api.sketchfab.com/v3/avatars/4e740e28506942c7af11ce702802159f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1010,
+                    "url": "https://media.sketchfab.com/avatars/4e740e28506942c7af11ce702802159f/94300194f93a456b8f8cc2725525932b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1473,
+                    "url": "https://media.sketchfab.com/avatars/4e740e28506942c7af11ce702802159f/6ff2404ff07047a99717a2321fa4d955.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3954,
+                    "url": "https://media.sketchfab.com/avatars/4e740e28506942c7af11ce702802159f/7485cfd285bf4bed8a5b4300ef00759b.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4662,
+                    "url": "https://media.sketchfab.com/avatars/4e740e28506942c7af11ce702802159f/7f8d49f0fd7340159770daa823073eb9.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d46b2e9ed2754f7680c19ad4f96bf048"
+    },
+    "vertexCount": 128,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/clone-wars-christophsis-debris-34483f9576d34148be1038c238a8ed55",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Clone Wars Christophsis Debris",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/34483f9576d34148be1038c238a8ed55/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-12T14:59:59.817699",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

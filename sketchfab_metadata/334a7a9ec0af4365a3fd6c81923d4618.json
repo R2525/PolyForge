@@ -1,0 +1,196 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-16T06:36:41.590932",
+    "embedUrl": "https://sketchfab.com/models/334a7a9ec0af4365a3fd6c81923d4618/embed",
+    "faceCount": 65684,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "SDRD Karaoke Machine (PBR / Game Ready)",
+    "publishedAt": "2026-02-16T06:39:39.287546",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "ar",
+            "slug": "ar",
+            "uri": "https://api.sketchfab.com/v3/tags/ar"
+        },
+        {
+            "name": "props-assets",
+            "slug": "props-assets",
+            "uri": "https://api.sketchfab.com/v3/tags/props-assets"
+        },
+        {
+            "name": "susbtancepainter",
+            "slug": "susbtancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/susbtancepainter"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "03ba4c1b3f8d48afb7df85650dd2cc10",
+                "width": 1920,
+                "height": 1080,
+                "size": 319479,
+                "url": "https://media.sketchfab.com/models/334a7a9ec0af4365a3fd6c81923d4618/thumbnails/1591eca66a2245c995bb18c3cf698705/6d5c05a619b742d4a5c48cc541815137.jpeg"
+            },
+            {
+                "uid": "ca5364ae45aa4646934238d494713da2",
+                "width": 1024,
+                "height": 576,
+                "size": 47300,
+                "url": "https://media.sketchfab.com/models/334a7a9ec0af4365a3fd6c81923d4618/thumbnails/1591eca66a2245c995bb18c3cf698705/3e6cf9667ac241b79d36f34c5703ccb9.jpeg"
+            },
+            {
+                "uid": "16ff47156a184fc1aaa315a3b51e7739",
+                "width": 720,
+                "height": 405,
+                "size": 20204,
+                "url": "https://media.sketchfab.com/models/334a7a9ec0af4365a3fd6c81923d4618/thumbnails/1591eca66a2245c995bb18c3cf698705/1331e49ed3714edaa1fc7708dae51d62.jpeg"
+            },
+            {
+                "uid": "577f60d5b5d9460dbb7442cd4c4f8f55",
+                "width": 256,
+                "height": 144,
+                "size": 3484,
+                "url": "https://media.sketchfab.com/models/334a7a9ec0af4365a3fd6c81923d4618/thumbnails/1591eca66a2245c995bb18c3cf698705/8a32eacc2ef6408baa57a79089a31f80.jpeg"
+            },
+            {
+                "uid": "5a05d06b1b704554ade41bbff691c3b2",
+                "width": 64,
+                "height": 36,
+                "size": 936,
+                "url": "https://media.sketchfab.com/models/334a7a9ec0af4365a3fd6c81923d4618/thumbnails/1591eca66a2245c995bb18c3cf698705/9c33254007a749f3a9efbe108e7a869b.jpeg"
+            }
+        ]
+    },
+    "uid": "334a7a9ec0af4365a3fd6c81923d4618",
+    "uri": "https://api.sketchfab.com/v3/models/334a7a9ec0af4365a3fd6c81923d4618",
+    "user": {
+        "uid": "db14cce937df46d6a131a03c7fea8ac2",
+        "username": "anandstephen5",
+        "displayName": "Anand Stephen",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/anandstephen5",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/db14cce937df46d6a131a03c7fea8ac2"
+    },
+    "vertexCount": 33842,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/sdrd-karaoke-machine-pbr-game-ready-334a7a9ec0af4365a3fd6c81923d4618",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A photorealistic 3D recreation of the SDRD SD-307 wireless karaoke speaker system.\n\nThis asset features the main speaker unit with its signature \"owl-eye\" design and two docked wireless microphones. Great for use as a background prop in interior scenes, visualizations, or realistic game environments.\n\nMaterials: Fully PBR (Plastic, Metal Mesh, LED Display)\n\nTextures: High-resolution [4k] maps included.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/334a7a9ec0af4365a3fd6c81923d4618/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T06:42:48.650273",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

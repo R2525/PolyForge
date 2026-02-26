@@ -1,0 +1,264 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-15T21:04:21.107217",
+    "embedUrl": "https://sketchfab.com/models/25b481ea9a3a405a8c4badf95e9943f7/embed",
+    "faceCount": 9396,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Medieval Stylized Door with Rune",
+    "publishedAt": "2026-02-15T21:22:00.084410",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "gamedev",
+            "slug": "gamedev",
+            "uri": "https://api.sketchfab.com/v3/tags/gamedev"
+        },
+        {
+            "name": "rune",
+            "slug": "rune",
+            "uri": "https://api.sketchfab.com/v3/tags/rune"
+        },
+        {
+            "name": "Runes",
+            "slug": "runes",
+            "uri": "https://api.sketchfab.com/v3/tags/runes"
+        },
+        {
+            "name": "knocker",
+            "slug": "knocker",
+            "uri": "https://api.sketchfab.com/v3/tags/knocker"
+        },
+        {
+            "name": "medieval-door",
+            "slug": "medieval-door",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-door"
+        },
+        {
+            "name": "door-knocker",
+            "slug": "door-knocker",
+            "uri": "https://api.sketchfab.com/v3/tags/door-knocker"
+        },
+        {
+            "name": "stylized-environment",
+            "slug": "stylized-environment",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-environment"
+        },
+        {
+            "name": "gamereadyasset",
+            "slug": "gamereadyasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gamereadyasset"
+        },
+        {
+            "name": "wooden-door",
+            "slug": "wooden-door",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden-door"
+        },
+        {
+            "name": "handpainted",
+            "slug": "handpainted",
+            "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "hand-painted",
+            "slug": "hand-painted",
+            "uri": "https://api.sketchfab.com/v3/tags/hand-painted"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "stone-architecture",
+            "slug": "stone-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/stone-architecture"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "058fc695452248b2a4c1786c8ed89d36",
+                "width": 1920,
+                "height": 1080,
+                "size": 202714,
+                "url": "https://media.sketchfab.com/models/25b481ea9a3a405a8c4badf95e9943f7/thumbnails/d2a4eb1aaf72445e84b1cac35ba6911e/4eda4fc033fd470aa64e7b32ac2619e3.jpeg"
+            },
+            {
+                "uid": "6e021f09b4cc465e8145b866577fed58",
+                "width": 1024,
+                "height": 576,
+                "size": 52969,
+                "url": "https://media.sketchfab.com/models/25b481ea9a3a405a8c4badf95e9943f7/thumbnails/d2a4eb1aaf72445e84b1cac35ba6911e/a0e664c43b0e4832abbb958bfecd5136.jpeg"
+            },
+            {
+                "uid": "223e8fe5acf14091b4d050ed859efeaf",
+                "width": 720,
+                "height": 405,
+                "size": 29220,
+                "url": "https://media.sketchfab.com/models/25b481ea9a3a405a8c4badf95e9943f7/thumbnails/d2a4eb1aaf72445e84b1cac35ba6911e/43396fc7476b4852b11496f8c4da29d3.jpeg"
+            },
+            {
+                "uid": "2fbbd0618d084ec99ee3c51ec4a3731b",
+                "width": 256,
+                "height": 144,
+                "size": 5416,
+                "url": "https://media.sketchfab.com/models/25b481ea9a3a405a8c4badf95e9943f7/thumbnails/d2a4eb1aaf72445e84b1cac35ba6911e/96c6f92e13f742eca052ee1a7b0368d8.jpeg"
+            },
+            {
+                "uid": "9f959d063059457d978b8f1e7226b481",
+                "width": 64,
+                "height": 36,
+                "size": 1131,
+                "url": "https://media.sketchfab.com/models/25b481ea9a3a405a8c4badf95e9943f7/thumbnails/d2a4eb1aaf72445e84b1cac35ba6911e/64b7f42e4f9345b2890ca42c5b497b71.jpeg"
+            }
+        ]
+    },
+    "uid": "25b481ea9a3a405a8c4badf95e9943f7",
+    "uri": "https://api.sketchfab.com/v3/models/25b481ea9a3a405a8c4badf95e9943f7",
+    "user": {
+        "uid": "4e8e47592d6549beab431c5e7d71e3db",
+        "username": "Aerun_",
+        "displayName": "Aerun",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Aerun_",
+        "avatar": {
+            "uid": "f15b2750f0d544bfb9ad982039a3dd27",
+            "uri": "https://api.sketchfab.com/v3/avatars/f15b2750f0d544bfb9ad982039a3dd27",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2367,
+                    "url": "https://media.sketchfab.com/avatars/f15b2750f0d544bfb9ad982039a3dd27/3194faa3d6c044fbaf1ada0a551cbf7c.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4565,
+                    "url": "https://media.sketchfab.com/avatars/f15b2750f0d544bfb9ad982039a3dd27/31a5a572bed346bab5db3fb11dc409c5.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12822,
+                    "url": "https://media.sketchfab.com/avatars/f15b2750f0d544bfb9ad982039a3dd27/cf9a2a26c8434a3f9e22164d774c8694.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 15098,
+                    "url": "https://media.sketchfab.com/avatars/f15b2750f0d544bfb9ad982039a3dd27/44abddcf201b414ba89526ae52ad5317.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4e8e47592d6549beab431c5e7d71e3db"
+    },
+    "vertexCount": 4892,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-stylized-door-with-rune-25b481ea9a3a405a8c4badf95e9943f7",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Buy ready models here:\n# https://h7.cl/1gLhx\n\n\nOrder a custom model:\n# https://www.fiverr.com/aerun3d",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/25b481ea9a3a405a8c4badf95e9943f7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T14:57:50.712201",
+    "pbrType": "metalness",
+    "textureCount": 37,
+    "materialCount": 10
+}

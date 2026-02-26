@@ -1,0 +1,184 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T09:53:59.142892",
+    "embedUrl": "https://sketchfab.com/models/081076c9f41446fd9c9b42d14f608413/embed",
+    "faceCount": 1202026,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Archeologie Neude - Update 1",
+    "publishedAt": "2026-02-19T10:14:19.221814",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "excavation",
+            "slug": "excavation",
+            "uri": "https://api.sketchfab.com/v3/tags/excavation"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "utrecht",
+            "slug": "utrecht",
+            "uri": "https://api.sketchfab.com/v3/tags/utrecht"
+        },
+        {
+            "name": "archaeology",
+            "slug": "archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology"
+        },
+        {
+            "name": "history",
+            "slug": "history",
+            "uri": "https://api.sketchfab.com/v3/tags/history"
+        },
+        {
+            "name": "neude",
+            "slug": "neude",
+            "uri": "https://api.sketchfab.com/v3/tags/neude"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "78edcad258ef44f9bdfbaede5caed93b",
+                "width": 1920,
+                "height": 1080,
+                "size": 649896,
+                "url": "https://media.sketchfab.com/models/081076c9f41446fd9c9b42d14f608413/thumbnails/3f9a31910bfa433888371503cb10456c/8ddcb9b583ba47dfaee09e936089babf.jpeg"
+            },
+            {
+                "uid": "f9813ee82de84721a074913348fb0f6c",
+                "width": 1024,
+                "height": 576,
+                "size": 157912,
+                "url": "https://media.sketchfab.com/models/081076c9f41446fd9c9b42d14f608413/thumbnails/3f9a31910bfa433888371503cb10456c/0c72953847714b198d36dcfa46790c3d.jpeg"
+            },
+            {
+                "uid": "6f17b418d1664b5a86392e83d5e8783d",
+                "width": 720,
+                "height": 405,
+                "size": 82398,
+                "url": "https://media.sketchfab.com/models/081076c9f41446fd9c9b42d14f608413/thumbnails/3f9a31910bfa433888371503cb10456c/ad42bab886db4797a8e643df06f875fc.jpeg"
+            },
+            {
+                "uid": "7bf85a9131364a53baa6641c6bab5ac2",
+                "width": 256,
+                "height": 144,
+                "size": 11942,
+                "url": "https://media.sketchfab.com/models/081076c9f41446fd9c9b42d14f608413/thumbnails/3f9a31910bfa433888371503cb10456c/c08cf6b901354b2a9c212b8d46e5120e.jpeg"
+            },
+            {
+                "uid": "cc328fb589ab433da5fe18da210b1016",
+                "width": 64,
+                "height": 36,
+                "size": 1533,
+                "url": "https://media.sketchfab.com/models/081076c9f41446fd9c9b42d14f608413/thumbnails/3f9a31910bfa433888371503cb10456c/6867449ec60144329945c25e1660eddd.jpeg"
+            }
+        ]
+    },
+    "uid": "081076c9f41446fd9c9b42d14f608413",
+    "uri": "https://api.sketchfab.com/v3/models/081076c9f41446fd9c9b42d14f608413",
+    "user": {
+        "uid": "cd124f9ba27b4e46be69da283daa6588",
+        "username": "Erfgoed.Utrecht",
+        "displayName": "erfgoed Utrecht",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/Erfgoed.Utrecht",
+        "avatar": {
+            "uid": "b6c2bee430fe453f8c518f5713e14d6c",
+            "uri": "https://api.sketchfab.com/v3/avatars/b6c2bee430fe453f8c518f5713e14d6c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 868,
+                    "url": "https://media.sketchfab.com/avatars/b6c2bee430fe453f8c518f5713e14d6c/f9e4b5a9928e4f7c9bb0ce25fd02bb54.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1346,
+                    "url": "https://media.sketchfab.com/avatars/b6c2bee430fe453f8c518f5713e14d6c/1162b9b51a0a462bb5fc67971d62b6a5.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3733,
+                    "url": "https://media.sketchfab.com/avatars/b6c2bee430fe453f8c518f5713e14d6c/0729ae9e26ed48ba932209177e2eb9a5.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4557,
+                    "url": "https://media.sketchfab.com/avatars/b6c2bee430fe453f8c518f5713e14d6c/184b738d4b1e4b42a01d9197a485e2ba.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cd124f9ba27b4e46be69da283daa6588"
+    },
+    "vertexCount": 622347,
+    "viewCount": 2196,
+    "viewerUrl": "https://sketchfab.com/3d-models/archeologie-neude-update-1-081076c9f41446fd9c9b42d14f608413",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Café Le Journal aan de Neude gaat de komende maanden verbouwen. Er komen ook nieuwe ondergrondse ruimtes bij. Dit is voor de Utrechtse archeologen een mooie kans. We kunnen zo meer te weten te komen over de lange geschiedenis van deze plek. We verwachten dan ook veel nieuwe ontdekkingen te doen.\n\nNa 2 dagen graven al veel archeologie. Veel muurresten uit veschillende periodes.\nZie https://skfb.ly/pGOOn voor update 2.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/081076c9f41446fd9c9b42d14f608413/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "reality-capture",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T09:39:04.078449",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 4
+}

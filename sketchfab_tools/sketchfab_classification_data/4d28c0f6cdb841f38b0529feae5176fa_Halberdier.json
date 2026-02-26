@@ -1,0 +1,67 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Fantasy",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.95
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.85
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.7
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.9
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "3D Model",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Weathered",
+        "Mossy"
+    ],
+    "tags": [
+        "halberdier",
+        "weapon",
+        "military",
+        "fantasy",
+        "3d",
+        "model",
+        "battle",
+        "warrior"
+    ],
+    "model_id_full": "4d28c0f6cdb841f38b0529feae5176fa_Halberdier",
+    "sketchfab_id": "4d28c0f6cdb841f38b0529feae5176fa",
+    "asset_name": "Halberdier"
+}

@@ -1,0 +1,276 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T23:37:53.706515",
+    "embedUrl": "https://sketchfab.com/models/0383b7baf3a747f5b3e45c952b8dfb6a/embed",
+    "faceCount": 345881,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Baby Greta From Laffies",
+    "publishedAt": "2026-02-21T23:38:29.181156",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "toon",
+            "slug": "toon",
+            "uri": "https://api.sketchfab.com/v3/tags/toon"
+        },
+        {
+            "name": "cute",
+            "slug": "cute",
+            "uri": "https://api.sketchfab.com/v3/tags/cute"
+        },
+        {
+            "name": "baby",
+            "slug": "baby",
+            "uri": "https://api.sketchfab.com/v3/tags/baby"
+        },
+        {
+            "name": "toy",
+            "slug": "toy",
+            "uri": "https://api.sketchfab.com/v3/tags/toy"
+        },
+        {
+            "name": "happy",
+            "slug": "happy",
+            "uri": "https://api.sketchfab.com/v3/tags/happy"
+        },
+        {
+            "name": "doll",
+            "slug": "doll",
+            "uri": "https://api.sketchfab.com/v3/tags/doll"
+        },
+        {
+            "name": "cry",
+            "slug": "cry",
+            "uri": "https://api.sketchfab.com/v3/tags/cry"
+        },
+        {
+            "name": "Babies",
+            "slug": "babies",
+            "uri": "https://api.sketchfab.com/v3/tags/babies"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "babydoll",
+            "slug": "babydoll",
+            "uri": "https://api.sketchfab.com/v3/tags/babydoll"
+        },
+        {
+            "name": "greta",
+            "slug": "greta",
+            "uri": "https://api.sketchfab.com/v3/tags/greta"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "lalabies",
+            "slug": "lalabies",
+            "uri": "https://api.sketchfab.com/v3/tags/lalabies"
+        },
+        {
+            "name": "laffies",
+            "slug": "laffies",
+            "uri": "https://api.sketchfab.com/v3/tags/laffies"
+        },
+        {
+            "name": "laffie",
+            "slug": "laffie",
+            "uri": "https://api.sketchfab.com/v3/tags/laffie"
+        },
+        {
+            "name": "snaffy",
+            "slug": "snaffy",
+            "uri": "https://api.sketchfab.com/v3/tags/snaffy"
+        },
+        {
+            "name": "kitoons",
+            "slug": "kitoons",
+            "uri": "https://api.sketchfab.com/v3/tags/kitoons"
+        },
+        {
+            "name": "crybabies",
+            "slug": "crybabies",
+            "uri": "https://api.sketchfab.com/v3/tags/crybabies"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a8f6a4e793034079a1e1023d3db8fe21",
+                "width": 1920,
+                "height": 1080,
+                "size": 76561,
+                "url": "https://media.sketchfab.com/models/0383b7baf3a747f5b3e45c952b8dfb6a/thumbnails/9e50eee0537d4bdfa7e11fd878bfc4e8/c30c1452f63c456aab15ebd1a25d1890.jpeg"
+            },
+            {
+                "uid": "900d911d75664f61a5a918f5fa739793",
+                "width": 1024,
+                "height": 576,
+                "size": 27521,
+                "url": "https://media.sketchfab.com/models/0383b7baf3a747f5b3e45c952b8dfb6a/thumbnails/9e50eee0537d4bdfa7e11fd878bfc4e8/921b361c75ed47268a17a02447634d06.jpeg"
+            },
+            {
+                "uid": "aba80a5887ff42cd94d09ed009e5476e",
+                "width": 720,
+                "height": 405,
+                "size": 16406,
+                "url": "https://media.sketchfab.com/models/0383b7baf3a747f5b3e45c952b8dfb6a/thumbnails/9e50eee0537d4bdfa7e11fd878bfc4e8/1b88f8d509b54a949005818b05cf4d72.jpeg"
+            },
+            {
+                "uid": "b2f3b937352f4a1cae5fa39965666b47",
+                "width": 256,
+                "height": 144,
+                "size": 3792,
+                "url": "https://media.sketchfab.com/models/0383b7baf3a747f5b3e45c952b8dfb6a/thumbnails/9e50eee0537d4bdfa7e11fd878bfc4e8/ca57f713a4f540a2ae831bc69ee05a1a.jpeg"
+            },
+            {
+                "uid": "48c8ff18db4c43659815dc45f60b21d2",
+                "width": 64,
+                "height": 36,
+                "size": 1003,
+                "url": "https://media.sketchfab.com/models/0383b7baf3a747f5b3e45c952b8dfb6a/thumbnails/9e50eee0537d4bdfa7e11fd878bfc4e8/f44e967f629b4868a8e8a6319bed2ae0.jpeg"
+            }
+        ]
+    },
+    "uid": "0383b7baf3a747f5b3e45c952b8dfb6a",
+    "uri": "https://api.sketchfab.com/v3/models/0383b7baf3a747f5b3e45c952b8dfb6a",
+    "user": {
+        "uid": "f346fa9143c14109a145d93a9b956eab",
+        "username": "allamo2018",
+        "displayName": "allamo2018",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/allamo2018",
+        "avatar": {
+            "uid": "68426bc96e3b40a888e47edf3287a637",
+            "uri": "https://api.sketchfab.com/v3/avatars/68426bc96e3b40a888e47edf3287a637",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1900,
+                    "url": "https://media.sketchfab.com/avatars/68426bc96e3b40a888e47edf3287a637/a8f0f9c449df4d7fb838097a7f3bd852.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3158,
+                    "url": "https://media.sketchfab.com/avatars/68426bc96e3b40a888e47edf3287a637/1267e22e44324e499d70e59a633b081f.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 7139,
+                    "url": "https://media.sketchfab.com/avatars/68426bc96e3b40a888e47edf3287a637/00dab2be435b471c800365da9564b207.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 8312,
+                    "url": "https://media.sketchfab.com/avatars/68426bc96e3b40a888e47edf3287a637/2e804687c44d4447b2739090b50c8c1a.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f346fa9143c14109a145d93a9b956eab"
+    },
+    "vertexCount": 172940,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/baby-greta-from-laffies-0383b7baf3a747f5b3e45c952b8dfb6a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/kA4YDV](https://www.meshy.ai/s/kA4YDV)",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/0383b7baf3a747f5b3e45c952b8dfb6a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T23:38:39.181872",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

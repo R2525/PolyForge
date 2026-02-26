@@ -1,0 +1,211 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-06T17:18:45.809183",
+    "embedUrl": "https://sketchfab.com/models/3b87f7b7f3f54800b16d43745db4036e/embed",
+    "faceCount": 650923,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 7,
+    "name": "Steampunk Pistol",
+    "publishedAt": "2026-02-06T17:19:39.503964",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "bronze",
+            "slug": "bronze",
+            "uri": "https://api.sketchfab.com/v3/tags/bronze"
+        },
+        {
+            "name": "mechanical",
+            "slug": "mechanical",
+            "uri": "https://api.sketchfab.com/v3/tags/mechanical"
+        },
+        {
+            "name": "retro",
+            "slug": "retro",
+            "uri": "https://api.sketchfab.com/v3/tags/retro"
+        },
+        {
+            "name": "Pistol",
+            "slug": "pistol",
+            "uri": "https://api.sketchfab.com/v3/tags/pistol"
+        },
+        {
+            "name": "cogwheel",
+            "slug": "cogwheel",
+            "uri": "https://api.sketchfab.com/v3/tags/cogwheel"
+        },
+        {
+            "name": "gunmetal",
+            "slug": "gunmetal",
+            "uri": "https://api.sketchfab.com/v3/tags/gunmetal"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6ddb921339154c49909822136434ad98",
+                "width": 1920,
+                "height": 1080,
+                "size": 88377,
+                "url": "https://media.sketchfab.com/models/3b87f7b7f3f54800b16d43745db4036e/thumbnails/f881418f903c43e6a501b06fb7b0ccb0/ae93eef2f2fc4fc5a9d1cf078def76e6.jpeg"
+            },
+            {
+                "uid": "4b506f1179b74a93b3f732a0a51b7f79",
+                "width": 1024,
+                "height": 576,
+                "size": 29856,
+                "url": "https://media.sketchfab.com/models/3b87f7b7f3f54800b16d43745db4036e/thumbnails/f881418f903c43e6a501b06fb7b0ccb0/ade49ecfc43a411fb2aa3601b70603bd.jpeg"
+            },
+            {
+                "uid": "a83c796326f048eabf693e0b22f33e52",
+                "width": 720,
+                "height": 405,
+                "size": 17356,
+                "url": "https://media.sketchfab.com/models/3b87f7b7f3f54800b16d43745db4036e/thumbnails/f881418f903c43e6a501b06fb7b0ccb0/94a1483e58f4473caf3a67c125f8e90c.jpeg"
+            },
+            {
+                "uid": "30fe1c6d130a4540b43841171d24d8f5",
+                "width": 256,
+                "height": 144,
+                "size": 3614,
+                "url": "https://media.sketchfab.com/models/3b87f7b7f3f54800b16d43745db4036e/thumbnails/f881418f903c43e6a501b06fb7b0ccb0/6c71c3e07dda4290bd110f2c941f1438.jpeg"
+            },
+            {
+                "uid": "c981dd202988473988b036b6336026f2",
+                "width": 64,
+                "height": 36,
+                "size": 979,
+                "url": "https://media.sketchfab.com/models/3b87f7b7f3f54800b16d43745db4036e/thumbnails/f881418f903c43e6a501b06fb7b0ccb0/1708ec3c3784466ba8c1b471e0d690ec.jpeg"
+            }
+        ]
+    },
+    "uid": "3b87f7b7f3f54800b16d43745db4036e",
+    "uri": "https://api.sketchfab.com/v3/models/3b87f7b7f3f54800b16d43745db4036e",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 325401,
+    "viewCount": 60,
+    "viewerUrl": "https://sketchfab.com/3d-models/steampunk-pistol-3b87f7b7f3f54800b16d43745db4036e",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Steampunk Pistol",
+    "price": null,
+    "downloadCount": 12,
+    "editorUrl": "https://sketchfab.com/models/3b87f7b7f3f54800b16d43745db4036e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-06T17:36:05.359765",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

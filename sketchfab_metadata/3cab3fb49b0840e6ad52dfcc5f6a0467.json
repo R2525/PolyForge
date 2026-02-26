@@ -1,0 +1,380 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T09:23:20.813909",
+    "embedUrl": "https://sketchfab.com/models/3cab3fb49b0840e6ad52dfcc5f6a0467/embed",
+    "faceCount": 2335944,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "TOYOTA HIACE VAN SUPER GL",
+    "publishedAt": "2026-02-19T10:37:47.522195",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "in",
+            "slug": "in",
+            "uri": "https://api.sketchfab.com/v3/tags/in"
+        },
+        {
+            "name": "automobile",
+            "slug": "automobile",
+            "uri": "https://api.sketchfab.com/v3/tags/automobile"
+        },
+        {
+            "name": "van",
+            "slug": "van",
+            "uri": "https://api.sketchfab.com/v3/tags/van"
+        },
+        {
+            "name": "minivan",
+            "slug": "minivan",
+            "uri": "https://api.sketchfab.com/v3/tags/minivan"
+        },
+        {
+            "name": "made",
+            "slug": "made",
+            "uri": "https://api.sketchfab.com/v3/tags/made"
+        },
+        {
+            "name": "transport",
+            "slug": "transport",
+            "uri": "https://api.sketchfab.com/v3/tags/transport"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "taxi",
+            "slug": "taxi",
+            "uri": "https://api.sketchfab.com/v3/tags/taxi"
+        },
+        {
+            "name": "clean",
+            "slug": "clean",
+            "uri": "https://api.sketchfab.com/v3/tags/clean"
+        },
+        {
+            "name": "original",
+            "slug": "original",
+            "uri": "https://api.sketchfab.com/v3/tags/original"
+        },
+        {
+            "name": "simulation",
+            "slug": "simulation",
+            "uri": "https://api.sketchfab.com/v3/tags/simulation"
+        },
+        {
+            "name": "toyota",
+            "slug": "toyota",
+            "uri": "https://api.sketchfab.com/v3/tags/toyota"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "cargo",
+            "slug": "cargo",
+            "uri": "https://api.sketchfab.com/v3/tags/cargo"
+        },
+        {
+            "name": "commercial",
+            "slug": "commercial",
+            "uri": "https://api.sketchfab.com/v3/tags/commercial"
+        },
+        {
+            "name": "artist",
+            "slug": "artist",
+            "uri": "https://api.sketchfab.com/v3/tags/artist"
+        },
+        {
+            "name": "delivery",
+            "slug": "delivery",
+            "uri": "https://api.sketchfab.com/v3/tags/delivery"
+        },
+        {
+            "name": "GL",
+            "slug": "gl",
+            "uri": "https://api.sketchfab.com/v3/tags/gl"
+        },
+        {
+            "name": "hiace",
+            "slug": "hiace",
+            "uri": "https://api.sketchfab.com/v3/tags/hiace"
+        },
+        {
+            "name": "Kenya",
+            "slug": "kenya",
+            "uri": "https://api.sketchfab.com/v3/tags/kenya"
+        },
+        {
+            "name": "drivable",
+            "slug": "drivable",
+            "uri": "https://api.sketchfab.com/v3/tags/drivable"
+        },
+        {
+            "name": "render",
+            "slug": "render",
+            "uri": "https://api.sketchfab.com/v3/tags/render"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "design",
+            "slug": "design",
+            "uri": "https://api.sketchfab.com/v3/tags/design"
+        },
+        {
+            "name": "animated",
+            "slug": "animated",
+            "uri": "https://api.sketchfab.com/v3/tags/animated"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        },
+        {
+            "name": "super",
+            "slug": "super",
+            "uri": "https://api.sketchfab.com/v3/tags/super"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        },
+        {
+            "name": "highpoly",
+            "slug": "highpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/highpoly"
+        },
+        {
+            "name": "japanese",
+            "slug": "japanese",
+            "uri": "https://api.sketchfab.com/v3/tags/japanese"
+        },
+        {
+            "name": "modelcar",
+            "slug": "modelcar",
+            "uri": "https://api.sketchfab.com/v3/tags/modelcar"
+        },
+        {
+            "name": "busrealistic",
+            "slug": "busrealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/busrealistic"
+        },
+        {
+            "name": "topologysamuel",
+            "slug": "topologysamuel",
+            "uri": "https://api.sketchfab.com/v3/tags/topologysamuel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7719c97744d34f20b8170797e63cea2c",
+                "width": 448,
+                "height": 280,
+                "size": 5925,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/448.jpg"
+            },
+            {
+                "uid": "a6b20474be7c402db8f8a5a6b9ff4730",
+                "width": 200,
+                "height": 200,
+                "size": 2275,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/200x200.jpg"
+            },
+            {
+                "uid": "98095b18341b4f49affb313ad9843d70",
+                "width": 100,
+                "height": 100,
+                "size": 841,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/100x100.jpg"
+            },
+            {
+                "uid": "af9d9afad4f1427a8a6e68dffa18c236",
+                "width": 50,
+                "height": 50,
+                "size": 421,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/50x50.jpg"
+            },
+            {
+                "uid": "b0855968e7eb4421b1d57761d0f2e2f1",
+                "width": 640,
+                "height": 400,
+                "size": 12257,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/640.jpg"
+            },
+            {
+                "uid": "4cfc787dbb4a4a0190430bca9721c6cf",
+                "width": 1024,
+                "height": 640,
+                "size": 28643,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/1024.jpg"
+            },
+            {
+                "uid": "bdbd1b7885db45ba959aede0fd468199",
+                "width": 854,
+                "height": 534,
+                "size": 21153,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/854.jpg"
+            }
+        ]
+    },
+    "uid": "3cab3fb49b0840e6ad52dfcc5f6a0467",
+    "uri": "https://api.sketchfab.com/v3/models/3cab3fb49b0840e6ad52dfcc5f6a0467",
+    "user": {
+        "uid": "cd4b61b5885946d1847921c9cc5f5330",
+        "username": "samydepapelo3",
+        "displayName": "samydepapelo3",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/samydepapelo3",
+        "avatar": {
+            "uid": "95570af6997e40f599ad7d5c018d69b2",
+            "uri": "https://api.sketchfab.com/v3/avatars/95570af6997e40f599ad7d5c018d69b2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1054,
+                    "url": "https://media.sketchfab.com/avatars/95570af6997e40f599ad7d5c018d69b2/d38db102598f4e1b9758829258ee2c24.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1476,
+                    "url": "https://media.sketchfab.com/avatars/95570af6997e40f599ad7d5c018d69b2/c716fc516b504999a25e507aac861cb9.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3300,
+                    "url": "https://media.sketchfab.com/avatars/95570af6997e40f599ad7d5c018d69b2/5267df58ab7542ecbec065dddad3935e.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3824,
+                    "url": "https://media.sketchfab.com/avatars/95570af6997e40f599ad7d5c018d69b2/9ed2fca695ce423f9338184f6ca88651.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cd4b61b5885946d1847921c9cc5f5330"
+    },
+    "vertexCount": 1202536,
+    "viewCount": 25,
+    "viewerUrl": "https://sketchfab.com/3d-models/toyota-hiace-van-super-gl-3cab3fb49b0840e6ad52dfcc5f6a0467",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Experience the iconic Toyota Hiace Super GL, carefully recreated in 3D with precise proportions and realistic details. This model captures the clean, functional design of one of the world’s most reliable commercial vans — perfect for logistics, transport, or everyday scenes. Personal and educational use allowed. Please credit Samuel Njoroge when showcasing or remixing this model.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/3cab3fb49b0840e6ad52dfcc5f6a0467/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T10:37:48.247023",
+    "pbrType": "metalness",
+    "textureCount": 15,
+    "materialCount": 44
+}

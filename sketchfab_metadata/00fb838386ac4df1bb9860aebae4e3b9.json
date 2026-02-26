@@ -1,0 +1,184 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T19:14:41.661693",
+    "embedUrl": "https://sketchfab.com/models/00fb838386ac4df1bb9860aebae4e3b9/embed",
+    "faceCount": 756,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Hat – Ceremonial Crown | Set – Peking Opera",
+    "publishedAt": "2026-02-19T19:16:54.933423",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "hat",
+            "slug": "hat",
+            "uri": "https://api.sketchfab.com/v3/tags/hat"
+        },
+        {
+            "name": "custom",
+            "slug": "custom",
+            "uri": "https://api.sketchfab.com/v3/tags/custom"
+        },
+        {
+            "name": "cosmetics",
+            "slug": "cosmetics",
+            "uri": "https://api.sketchfab.com/v3/tags/cosmetics"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a547e6553cf5456181fe02b96a5af94e",
+                "width": 1920,
+                "height": 1080,
+                "size": 74542,
+                "url": "https://media.sketchfab.com/models/00fb838386ac4df1bb9860aebae4e3b9/thumbnails/c6d5e164e1b3493b93e226a80322163f/d26fbcb7e991495580a93053537fa619.jpeg"
+            },
+            {
+                "uid": "e825f9133c1e4e5b916d016a2e19fd15",
+                "width": 1024,
+                "height": 576,
+                "size": 27116,
+                "url": "https://media.sketchfab.com/models/00fb838386ac4df1bb9860aebae4e3b9/thumbnails/c6d5e164e1b3493b93e226a80322163f/60155d80f01d4e188053573d564d738e.jpeg"
+            },
+            {
+                "uid": "b04eb6f77ead41969f60ea4b9b592188",
+                "width": 720,
+                "height": 405,
+                "size": 16484,
+                "url": "https://media.sketchfab.com/models/00fb838386ac4df1bb9860aebae4e3b9/thumbnails/c6d5e164e1b3493b93e226a80322163f/6127c4e43bfd4073ada74637f165c908.jpeg"
+            },
+            {
+                "uid": "b4ca62b63d96495cb489d2cd374030de",
+                "width": 256,
+                "height": 144,
+                "size": 3731,
+                "url": "https://media.sketchfab.com/models/00fb838386ac4df1bb9860aebae4e3b9/thumbnails/c6d5e164e1b3493b93e226a80322163f/0825017757304eaca5a3aa8c7277795d.jpeg"
+            },
+            {
+                "uid": "fb75d4cdfdb54d7c96ce50421560abeb",
+                "width": 64,
+                "height": 36,
+                "size": 1069,
+                "url": "https://media.sketchfab.com/models/00fb838386ac4df1bb9860aebae4e3b9/thumbnails/c6d5e164e1b3493b93e226a80322163f/501d25cd0fb5414b95294e6b57b6767e.jpeg"
+            }
+        ]
+    },
+    "uid": "00fb838386ac4df1bb9860aebae4e3b9",
+    "uri": "https://api.sketchfab.com/v3/models/00fb838386ac4df1bb9860aebae4e3b9",
+    "user": {
+        "uid": "0a624d8b14bb40de9c29c7bdae14b28f",
+        "username": "wavesync",
+        "displayName": "WaveSync - discover power of imagination",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/wavesync",
+        "avatar": {
+            "uid": "4858aeb8ff72454391e2d2820eea0ced",
+            "uri": "https://api.sketchfab.com/v3/avatars/4858aeb8ff72454391e2d2820eea0ced",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 606,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/2ed2db35c10b48ecbb408ed8a1c5bf3f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 981,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/873999b810de4ae39346790bce21c4bd.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2524,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/e7fdc53e69394be995a38331110f39d5.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2946,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/c92b41a6f90e4266b139a9b8bf033639.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0a624d8b14bb40de9c29c7bdae14b28f"
+    },
+    "vertexCount": 504,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/hat-ceremonial-crown-set-peking-opera-00fb838386ac4df1bb9860aebae4e3b9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Event**\nLunar New Year\n\n**Set name**\nPeking Opera\n\n**3D Model Name**\nHat – Ceremonial Crown\n\n*Create in Blockbench by WaveSync*",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/00fb838386ac4df1bb9860aebae4e3b9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T19:16:55.836989",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

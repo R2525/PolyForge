@@ -1,0 +1,220 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-04T23:24:59.024959",
+    "embedUrl": "https://sketchfab.com/models/0e2d129798f342f3a24ef77dcc25c1cd/embed",
+    "faceCount": 12967,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Mega-Gallade 3D model",
+    "publishedAt": "2026-02-04T23:36:06.300158",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "games",
+            "slug": "games",
+            "uri": "https://api.sketchfab.com/v3/tags/games"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "t",
+            "slug": "t",
+            "uri": "https://api.sketchfab.com/v3/tags/t"
+        },
+        {
+            "name": "retopology",
+            "slug": "retopology",
+            "uri": "https://api.sketchfab.com/v3/tags/retopology"
+        },
+        {
+            "name": "game-model",
+            "slug": "game-model",
+            "uri": "https://api.sketchfab.com/v3/tags/game-model"
+        },
+        {
+            "name": "zbrushmodel",
+            "slug": "zbrushmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/zbrushmodel"
+        },
+        {
+            "name": "gallade",
+            "slug": "gallade",
+            "uri": "https://api.sketchfab.com/v3/tags/gallade"
+        },
+        {
+            "name": "pokemon3d",
+            "slug": "pokemon3d",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon3d"
+        },
+        {
+            "name": "texturedmodel",
+            "slug": "texturedmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/texturedmodel"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "gameart",
+            "slug": "gameart",
+            "uri": "https://api.sketchfab.com/v3/tags/gameart"
+        },
+        {
+            "name": "zbrush",
+            "slug": "zbrush",
+            "uri": "https://api.sketchfab.com/v3/tags/zbrush"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        },
+        {
+            "name": "gallade-gardevoir",
+            "slug": "gallade-gardevoir",
+            "uri": "https://api.sketchfab.com/v3/tags/gallade-gardevoir"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "408d950987264c4397769ce9d1cd454a",
+                "width": 1920,
+                "height": 1080,
+                "size": 54753,
+                "url": "https://media.sketchfab.com/models/0e2d129798f342f3a24ef77dcc25c1cd/thumbnails/f73fdf0a11d8489194761475e99813e3/9e297a5d6eb941ae9ed33af3f627df84.jpeg"
+            },
+            {
+                "uid": "74815d4829ad4f2385aa67d8f1ae46ab",
+                "width": 1024,
+                "height": 576,
+                "size": 18585,
+                "url": "https://media.sketchfab.com/models/0e2d129798f342f3a24ef77dcc25c1cd/thumbnails/f73fdf0a11d8489194761475e99813e3/d109fb8c5f394cd2be9348cb77346de5.jpeg"
+            },
+            {
+                "uid": "ee187e0d60404e0ca3e7ab74fb1e94cb",
+                "width": 720,
+                "height": 405,
+                "size": 11005,
+                "url": "https://media.sketchfab.com/models/0e2d129798f342f3a24ef77dcc25c1cd/thumbnails/f73fdf0a11d8489194761475e99813e3/fff3036872b24988a7b3ffb135cf5912.jpeg"
+            },
+            {
+                "uid": "79c5bb5831f645f69b9904de27260e28",
+                "width": 256,
+                "height": 144,
+                "size": 2638,
+                "url": "https://media.sketchfab.com/models/0e2d129798f342f3a24ef77dcc25c1cd/thumbnails/f73fdf0a11d8489194761475e99813e3/b41372678c6241a2a573c3c5093187c9.jpeg"
+            },
+            {
+                "uid": "a71e3ff0fdbd4904b25922adafb82af1",
+                "width": 64,
+                "height": 36,
+                "size": 872,
+                "url": "https://media.sketchfab.com/models/0e2d129798f342f3a24ef77dcc25c1cd/thumbnails/f73fdf0a11d8489194761475e99813e3/fef0087e7e8645169776babd5bad0437.jpeg"
+            }
+        ]
+    },
+    "uid": "0e2d129798f342f3a24ef77dcc25c1cd",
+    "uri": "https://api.sketchfab.com/v3/models/0e2d129798f342f3a24ef77dcc25c1cd",
+    "user": {
+        "uid": "2b6ce4fdb57a4d21a5cbae45702ffef5",
+        "username": "facundoleyria",
+        "displayName": "facundo_leyria",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/facundoleyria",
+        "avatar": {
+            "uid": "0f529f3ac7994e9794edf5e4c0c40402",
+            "uri": "https://api.sketchfab.com/v3/avatars/0f529f3ac7994e9794edf5e4c0c40402",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1107,
+                    "url": "https://media.sketchfab.com/avatars/0f529f3ac7994e9794edf5e4c0c40402/583915f16e0943718d379336ab8a5049.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1551,
+                    "url": "https://media.sketchfab.com/avatars/0f529f3ac7994e9794edf5e4c0c40402/e4b40a57849f43b5a55e700349cf807f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3009,
+                    "url": "https://media.sketchfab.com/avatars/0f529f3ac7994e9794edf5e4c0c40402/e365a9b2460244dd92e7a5daa7e21154.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3485,
+                    "url": "https://media.sketchfab.com/avatars/0f529f3ac7994e9794edf5e4c0c40402/895dacaf47c347d9877d2dc19c9d9047.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2b6ce4fdb57a4d21a5cbae45702ffef5"
+    },
+    "vertexCount": 6551,
+    "viewCount": 20,
+    "viewerUrl": "https://sketchfab.com/3d-models/mega-gallade-3d-model-0e2d129798f342f3a24ef77dcc25c1cd",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Fully modeled in Autodesk Zbrush and textured in Substance Painter using a complete PBR workflow (Albedo, Normal, Roughness, Metallic, Ambient Occlusion).\n\nThe asset is cleanly optimized for real-time applications, ensuring efficient topology and game-ready performance in Unity and Unreal Engine.\n\nDesigned with attention to detail, balanced texel density, and physically accurate materials for high-quality rendering across multiple lighting environments.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0e2d129798f342f3a24ef77dcc25c1cd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-04T23:36:06.705190",
+    "pbrType": "metalness",
+    "textureCount": 25,
+    "materialCount": 5
+}

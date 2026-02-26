@@ -1,0 +1,68 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Architectural",
+            "score": 0.7
+        },
+        {
+            "name": "Historic",
+            "score": 0.6
+        },
+        {
+            "name": "Classical",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Historic Reconstruction",
+            "score": 0.6
+        },
+        {
+            "name": "Architectural Visualization",
+            "score": 0.5
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Dusty",
+        "Cracked",
+        "Rusted",
+        "Mossy"
+    ],
+    "tags": [
+        "ancient",
+        "architectural",
+        "ruins",
+        "site",
+        "historical",
+        "3D model",
+        "architecture"
+    ],
+    "model_id_full": "0586af7a8df244a5917dfda840ff28c2_Arrabal norte (Sondeo 4) - 2025",
+    "sketchfab_id": "0586af7a8df244a5917dfda840ff28c2",
+    "asset_name": "Arrabal norte (Sondeo 4) - 2025"
+}

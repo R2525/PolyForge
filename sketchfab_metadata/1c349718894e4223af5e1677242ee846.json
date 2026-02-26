@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-25T09:22:44.227014",
+    "embedUrl": "https://sketchfab.com/models/1c349718894e4223af5e1677242ee846/embed",
+    "faceCount": 8494,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 18,
+    "name": "Tenosian Helmet",
+    "publishedAt": "2026-01-25T09:33:51.976982",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "chivalry",
+            "slug": "chivalry",
+            "uri": "https://api.sketchfab.com/v3/tags/chivalry"
+        },
+        {
+            "name": "2k",
+            "slug": "2k",
+            "uri": "https://api.sketchfab.com/v3/tags/2k"
+        },
+        {
+            "name": "midpoly",
+            "slug": "midpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/midpoly"
+        },
+        {
+            "name": "Procedural",
+            "slug": "procedural",
+            "uri": "https://api.sketchfab.com/v3/tags/procedural"
+        },
+        {
+            "name": "chivalrymedievalwarfare",
+            "slug": "chivalrymedievalwarfare",
+            "uri": "https://api.sketchfab.com/v3/tags/chivalrymedievalwarfare"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "abfa49590daf403b946fc6487ba55123",
+                "width": 1920,
+                "height": 1080,
+                "size": 140766,
+                "url": "https://media.sketchfab.com/models/1c349718894e4223af5e1677242ee846/thumbnails/3374fbbd6c4a4d2ebbc41bb48a690f83/2f8737225b7647b7b65ff43ebf13d4f8.jpeg"
+            },
+            {
+                "uid": "ed245e033022442aa7056c1d29b0f196",
+                "width": 1024,
+                "height": 576,
+                "size": 33330,
+                "url": "https://media.sketchfab.com/models/1c349718894e4223af5e1677242ee846/thumbnails/3374fbbd6c4a4d2ebbc41bb48a690f83/f75e3bed4e16496f8d006e14e271bf2c.jpeg"
+            },
+            {
+                "uid": "29222e4d3eff44acab7848f0178a4304",
+                "width": 720,
+                "height": 405,
+                "size": 17373,
+                "url": "https://media.sketchfab.com/models/1c349718894e4223af5e1677242ee846/thumbnails/3374fbbd6c4a4d2ebbc41bb48a690f83/73509663f134458fb540ce8d21e84c3c.jpeg"
+            },
+            {
+                "uid": "91ab2719267648aba7bbe092d0570d87",
+                "width": 256,
+                "height": 144,
+                "size": 3526,
+                "url": "https://media.sketchfab.com/models/1c349718894e4223af5e1677242ee846/thumbnails/3374fbbd6c4a4d2ebbc41bb48a690f83/5efa295d964a4ee49434d8fb0fd772d1.jpeg"
+            },
+            {
+                "uid": "574c4a421f1147f685b3c3e42c2b2183",
+                "width": 64,
+                "height": 36,
+                "size": 1008,
+                "url": "https://media.sketchfab.com/models/1c349718894e4223af5e1677242ee846/thumbnails/3374fbbd6c4a4d2ebbc41bb48a690f83/eab4fdd1739b44d882632b7cf51c5466.jpeg"
+            }
+        ]
+    },
+    "uid": "1c349718894e4223af5e1677242ee846",
+    "uri": "https://api.sketchfab.com/v3/models/1c349718894e4223af5e1677242ee846",
+    "user": {
+        "uid": "14fbda6c0ab9495485b0b29c549dbd72",
+        "username": "TRGN_Design",
+        "displayName": "TRGN Design",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/TRGN_Design",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/14fbda6c0ab9495485b0b29c549dbd72"
+    },
+    "vertexCount": 4506,
+    "viewCount": 99,
+    "viewerUrl": "https://sketchfab.com/3d-models/tenosian-helmet-1c349718894e4223af5e1677242ee846",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A tenosian helmet inspired from the game chivalry 2, This was surprisingly challenging the model and I had to give up on some details completely but overall it came out as a really solid model. \n\nYou may use it comercially with the conditions being as usual, to give credit and not redistribute/resell this asset!\n\nComment what models would you like to see done next!",
+    "price": null,
+    "downloadCount": 22,
+    "editorUrl": "https://sketchfab.com/models/1c349718894e4223af5e1677242ee846/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-25T09:34:32.351448",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

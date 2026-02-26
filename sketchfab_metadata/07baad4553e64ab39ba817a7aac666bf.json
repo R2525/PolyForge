@@ -1,0 +1,299 @@
+{
+    "animationCount": 13,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-06T09:17:39.421674",
+    "embedUrl": "https://sketchfab.com/models/07baad4553e64ab39ba817a7aac666bf/embed",
+    "faceCount": 2402,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Stylized NPC - Knight Archer",
+    "publishedAt": "2026-01-06T09:27:10.436338",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "toon",
+            "slug": "toon",
+            "uri": "https://api.sketchfab.com/v3/tags/toon"
+        },
+        {
+            "name": "crossbow",
+            "slug": "crossbow",
+            "uri": "https://api.sketchfab.com/v3/tags/crossbow"
+        },
+        {
+            "name": "fighter",
+            "slug": "fighter",
+            "uri": "https://api.sketchfab.com/v3/tags/fighter"
+        },
+        {
+            "name": "soldier",
+            "slug": "soldier",
+            "uri": "https://api.sketchfab.com/v3/tags/soldier"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "guard",
+            "slug": "guard",
+            "uri": "https://api.sketchfab.com/v3/tags/guard"
+        },
+        {
+            "name": "archery",
+            "slug": "archery",
+            "uri": "https://api.sketchfab.com/v3/tags/archery"
+        },
+        {
+            "name": "npc",
+            "slug": "npc",
+            "uri": "https://api.sketchfab.com/v3/tags/npc"
+        },
+        {
+            "name": "kingdom",
+            "slug": "kingdom",
+            "uri": "https://api.sketchfab.com/v3/tags/kingdom"
+        },
+        {
+            "name": "grunt",
+            "slug": "grunt",
+            "uri": "https://api.sketchfab.com/v3/tags/grunt"
+        },
+        {
+            "name": "archer",
+            "slug": "archer",
+            "uri": "https://api.sketchfab.com/v3/tags/archer"
+        },
+        {
+            "name": "footsoldier",
+            "slug": "footsoldier",
+            "uri": "https://api.sketchfab.com/v3/tags/footsoldier"
+        },
+        {
+            "name": "jrpg",
+            "slug": "jrpg",
+            "uri": "https://api.sketchfab.com/v3/tags/jrpg"
+        },
+        {
+            "name": "royalty",
+            "slug": "royalty",
+            "uri": "https://api.sketchfab.com/v3/tags/royalty"
+        },
+        {
+            "name": "topdown",
+            "slug": "topdown",
+            "uri": "https://api.sketchfab.com/v3/tags/topdown"
+        },
+        {
+            "name": "gatekeeper",
+            "slug": "gatekeeper",
+            "uri": "https://api.sketchfab.com/v3/tags/gatekeeper"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "handpainted",
+            "slug": "handpainted",
+            "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "mobile",
+            "slug": "mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/mobile"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f15e19a8079d4f439ec3f7530443b707",
+                "width": 1920,
+                "height": 1080,
+                "size": 346319,
+                "url": "https://media.sketchfab.com/models/07baad4553e64ab39ba817a7aac666bf/thumbnails/6591bccca1a24d2d8525c470ee6afe15/c9cdf9ef44654c9187454259ff1e4497.jpeg"
+            },
+            {
+                "uid": "233236b6d4dc46058ab87bd3c56d2f37",
+                "width": 1024,
+                "height": 576,
+                "size": 33774,
+                "url": "https://media.sketchfab.com/models/07baad4553e64ab39ba817a7aac666bf/thumbnails/6591bccca1a24d2d8525c470ee6afe15/cef57554c68d4f089659a109f98f978c.jpeg"
+            },
+            {
+                "uid": "5df7734a50154cb4bac24933c451f868",
+                "width": 720,
+                "height": 405,
+                "size": 19254,
+                "url": "https://media.sketchfab.com/models/07baad4553e64ab39ba817a7aac666bf/thumbnails/6591bccca1a24d2d8525c470ee6afe15/3f79aebbb4884dfeb5bf20400b8db128.jpeg"
+            },
+            {
+                "uid": "479c6310d7164081a571d2d8d6db7c4a",
+                "width": 256,
+                "height": 144,
+                "size": 4502,
+                "url": "https://media.sketchfab.com/models/07baad4553e64ab39ba817a7aac666bf/thumbnails/6591bccca1a24d2d8525c470ee6afe15/8d289fae2e6445eeb0202cbadef0b3d3.jpeg"
+            },
+            {
+                "uid": "416fd7b4caff40a48627c3ad7a1b26cd",
+                "width": 64,
+                "height": 36,
+                "size": 1183,
+                "url": "https://media.sketchfab.com/models/07baad4553e64ab39ba817a7aac666bf/thumbnails/6591bccca1a24d2d8525c470ee6afe15/8e85baa30d4f445085a23c3f6bbb4c3b.jpeg"
+            }
+        ]
+    },
+    "uid": "07baad4553e64ab39ba817a7aac666bf",
+    "uri": "https://api.sketchfab.com/v3/models/07baad4553e64ab39ba817a7aac666bf",
+    "user": {
+        "uid": "5a3b53478dbd462c85266fd8f5b78982",
+        "username": "wingedbootsstudio",
+        "displayName": "Winged Boots Studio",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/wingedbootsstudio",
+        "avatar": {
+            "uid": "35aba1a9fa484c1f8936698b525e9e53",
+            "uri": "https://api.sketchfab.com/v3/avatars/35aba1a9fa484c1f8936698b525e9e53",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1876,
+                    "url": "https://media.sketchfab.com/avatars/35aba1a9fa484c1f8936698b525e9e53/324badebe9b34d0f8148030922c25354.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3289,
+                    "url": "https://media.sketchfab.com/avatars/35aba1a9fa484c1f8936698b525e9e53/88902ca1e3974f788e35338ac8caed40.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8409,
+                    "url": "https://media.sketchfab.com/avatars/35aba1a9fa484c1f8936698b525e9e53/e7b4600e6d484e88a37408234a12812e.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 9870,
+                    "url": "https://media.sketchfab.com/avatars/35aba1a9fa484c1f8936698b525e9e53/1d90f5fe1da64711bdb973d0b4a36061.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5a3b53478dbd462c85266fd8f5b78982"
+    },
+    "vertexCount": 1267,
+    "viewCount": 145,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-npc-knight-archer-07baad4553e64ab39ba817a7aac666bf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "<strong>Highly optimized, rigged, and animated.</strong><br/>\nPolygon Count: 1242<br/>\nTriangle Count: 2402<br/>\n<br/>\n<strong>Color Variants:</strong><br/>\n• Knight Archer Blue<br/>\n• Knight Archer Green<br/>\n• Knight Archer Grey<br/>\n• Knight Archer Red<br/>\n<br/>\n<strong>Animations:</strong><br/>\n• Attack1<br/>\n• Attack2<br/>\n• Battle Idle<br/>\n• Death<br/>\n• Hit1<br/>\n• Hit2<br/>\n• Idle1<br/>\n• Idle2<br/>\n• Run1<br/>\n• Run2<br/>\n• Talk<br/>\n• Walk1<br/>\n• Walk2<br/>\n<br/>\n<strong>Removable Parts:</strong><br/>\n• Crossbow<br/>\n• Faulds<br/>\n(Object can be disabled in the hierarchy if needed for story/character upgrade)<br/>\n<br/>\n<strong>Support</strong><br/>\nYour satisfaction is my top priority! <br/>\nIf you need any support or have any suggestions, kindly send us an email, and we will get back to you immediately (usually within 24hr).<br/>",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/07baad4553e64ab39ba817a7aac666bf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-06T09:28:33.264728",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,205 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-22T08:19:46.145850",
+    "embedUrl": "https://sketchfab.com/models/175279bea17445558e5b194782dad2ca/embed",
+    "faceCount": 14000,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "MEDIEVAL BARREL STAND",
+    "publishedAt": "2026-01-22T08:22:49.265552",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "barrel",
+            "slug": "barrel",
+            "uri": "https://api.sketchfab.com/v3/tags/barrel"
+        },
+        {
+            "name": "uv",
+            "slug": "uv",
+            "uri": "https://api.sketchfab.com/v3/tags/uv"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "broken",
+            "slug": "broken",
+            "uri": "https://api.sketchfab.com/v3/tags/broken"
+        },
+        {
+            "name": "holder",
+            "slug": "holder",
+            "uri": "https://api.sketchfab.com/v3/tags/holder"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "barrelstand",
+            "slug": "barrelstand",
+            "uri": "https://api.sketchfab.com/v3/tags/barrelstand"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d39352a01d4d4e5eaf1806983d29165d",
+                "width": 1920,
+                "height": 1080,
+                "size": 129642,
+                "url": "https://media.sketchfab.com/models/175279bea17445558e5b194782dad2ca/thumbnails/70492d6eb6a3406994f780cd46f56fef/a7ed37cb21a5435aa8d8281b2bfd05d1.jpeg"
+            },
+            {
+                "uid": "af1131df23a740b39839ae22ffe9af42",
+                "width": 1024,
+                "height": 576,
+                "size": 39704,
+                "url": "https://media.sketchfab.com/models/175279bea17445558e5b194782dad2ca/thumbnails/70492d6eb6a3406994f780cd46f56fef/236674c41134452a8d8749a79716a247.jpeg"
+            },
+            {
+                "uid": "5147cba88447482fa92250b67299b6fa",
+                "width": 720,
+                "height": 405,
+                "size": 22424,
+                "url": "https://media.sketchfab.com/models/175279bea17445558e5b194782dad2ca/thumbnails/70492d6eb6a3406994f780cd46f56fef/35e1a1de0e1c4f919d9618e95741d86d.jpeg"
+            },
+            {
+                "uid": "349e175ddb3a46b4992b9418646db5b0",
+                "width": 256,
+                "height": 144,
+                "size": 4736,
+                "url": "https://media.sketchfab.com/models/175279bea17445558e5b194782dad2ca/thumbnails/70492d6eb6a3406994f780cd46f56fef/11f61464db604866b82ee9450f3081bd.jpeg"
+            },
+            {
+                "uid": "02d2657710ab402f9696f55765d8bcdb",
+                "width": 64,
+                "height": 36,
+                "size": 1066,
+                "url": "https://media.sketchfab.com/models/175279bea17445558e5b194782dad2ca/thumbnails/70492d6eb6a3406994f780cd46f56fef/bc3bf97eae41470aae5e142dedf01114.jpeg"
+            }
+        ]
+    },
+    "uid": "175279bea17445558e5b194782dad2ca",
+    "uri": "https://api.sketchfab.com/v3/models/175279bea17445558e5b194782dad2ca",
+    "user": {
+        "uid": "9bfd8fc9e03045439f693e45d5daec2e",
+        "username": "HotMesh",
+        "displayName": "HotMesh",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/HotMesh",
+        "avatar": {
+            "uid": "fb3595ad32134779a3d81ebf01c87342",
+            "uri": "https://api.sketchfab.com/v3/avatars/fb3595ad32134779a3d81ebf01c87342",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 966,
+                    "url": "https://media.sketchfab.com/avatars/fb3595ad32134779a3d81ebf01c87342/f46eac53f37a4267b62bcf6624775282.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1288,
+                    "url": "https://media.sketchfab.com/avatars/fb3595ad32134779a3d81ebf01c87342/00a5bf470c154a24a441b19febe1ff0e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2279,
+                    "url": "https://media.sketchfab.com/avatars/fb3595ad32134779a3d81ebf01c87342/816c082ef46748ce999d96f00169ce45.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2530,
+                    "url": "https://media.sketchfab.com/avatars/fb3595ad32134779a3d81ebf01c87342/56fdb1db84204fbf9960e2492a4cd178.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9bfd8fc9e03045439f693e45d5daec2e"
+    },
+    "vertexCount": 7491,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-barrel-stand-175279bea17445558e5b194782dad2ca",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "get it from here: https://www.fab.com/listings/3d562b94-0e80-47b8-bc6d-9e57d305fb31\n\nIntroductory price – launch discount!\n\nThis is a high-quality low poly medieval barrel stand, ideal for game environments, virtual reality, or historical scenes. Designed with performance in mind,\n\n the model is fully UV unwrapped, game ready, with textures embedded in the .glb file.\n\n\nFeatures:\n\n- Clean topology, low polygon count\n- Fully unwrapped UVs\n- Textured with 1K - 2K - 4K PBR maps (Base Color, Roughness, Normal, AO)\n- Materials and textures are embedded in the .glb file\n\nINCLUDED:\n- Textures 1K - 2K - 4K (jpeg) / 2K (PNG)\n- fbx, .obj, .blend, .glb",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/175279bea17445558e5b194782dad2ca/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-22T08:24:46.229144",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

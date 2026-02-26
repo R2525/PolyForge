@@ -1,0 +1,226 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T18:13:29.893688",
+    "embedUrl": "https://sketchfab.com/models/361ba3b241194dc5b73d4e0542fb1db8/embed",
+    "faceCount": 255232,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Mistwalker Warrior",
+    "publishedAt": "2026-02-24T18:13:43.705386",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "tribal",
+            "slug": "tribal",
+            "uri": "https://api.sketchfab.com/v3/tags/tribal"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "staff",
+            "slug": "staff",
+            "uri": "https://api.sketchfab.com/v3/tags/staff"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "Costume",
+            "slug": "costume",
+            "uri": "https://api.sketchfab.com/v3/tags/costume"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "middleeastern",
+            "slug": "middleeastern",
+            "uri": "https://api.sketchfab.com/v3/tags/middleeastern"
+        },
+        {
+            "name": "female",
+            "slug": "female",
+            "uri": "https://api.sketchfab.com/v3/tags/female"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "dd6ea16b8daf41e2a1bb9d60f65b9b4e",
+                "width": 1920,
+                "height": 1080,
+                "size": 58488,
+                "url": "https://media.sketchfab.com/models/361ba3b241194dc5b73d4e0542fb1db8/thumbnails/431304dd94aa41d0b869ed058022055d/b79f3e2f6fc3423386c93e5fdd361a11.jpeg"
+            },
+            {
+                "uid": "0edc2d6c8c5149ed8a04ca56795ca821",
+                "width": 1024,
+                "height": 576,
+                "size": 18718,
+                "url": "https://media.sketchfab.com/models/361ba3b241194dc5b73d4e0542fb1db8/thumbnails/431304dd94aa41d0b869ed058022055d/8e8c9ef2dbae44b9a55ae86d7819a676.jpeg"
+            },
+            {
+                "uid": "3febc68fb711477693e02b3ace8dd35f",
+                "width": 720,
+                "height": 405,
+                "size": 10507,
+                "url": "https://media.sketchfab.com/models/361ba3b241194dc5b73d4e0542fb1db8/thumbnails/431304dd94aa41d0b869ed058022055d/c14195ce90d94d50a9df3e168a432eff.jpeg"
+            },
+            {
+                "uid": "d21191a65f8f4bc5ba576ab70863959e",
+                "width": 256,
+                "height": 144,
+                "size": 2154,
+                "url": "https://media.sketchfab.com/models/361ba3b241194dc5b73d4e0542fb1db8/thumbnails/431304dd94aa41d0b869ed058022055d/1e4137d9444a4678bd78f0ab8bed3f63.jpeg"
+            },
+            {
+                "uid": "6ece3733d5ae4efa94f2a2ec2bc4df1a",
+                "width": 64,
+                "height": 36,
+                "size": 772,
+                "url": "https://media.sketchfab.com/models/361ba3b241194dc5b73d4e0542fb1db8/thumbnails/431304dd94aa41d0b869ed058022055d/34a114d7cd54475a925dc983bc8bc3e7.jpeg"
+            }
+        ]
+    },
+    "uid": "361ba3b241194dc5b73d4e0542fb1db8",
+    "uri": "https://api.sketchfab.com/v3/models/361ba3b241194dc5b73d4e0542fb1db8",
+    "user": {
+        "uid": "6722833a13c24b54af9757e64201cbfe",
+        "username": "kmkrtchyan70",
+        "displayName": "Ded Makar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kmkrtchyan70",
+        "avatar": {
+            "uid": "e426f8f1bdcc46e0a45fa572af73859a",
+            "uri": "https://api.sketchfab.com/v3/avatars/e426f8f1bdcc46e0a45fa572af73859a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1182,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/efb9a0da56c64d7b8c866671a862673a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1673,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01b13b16a4c84c0da2a7b25e9d870279.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3615,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/883afddce77a4ecf9d2d26c8dc259872.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4214,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01042899c933428d8a46f9387a1c5717.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6722833a13c24b54af9757e64201cbfe"
+    },
+    "vertexCount": 127592,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/mistwalker-warrior-361ba3b241194dc5b73d4e0542fb1db8",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Mistwalker-Warrior-v2-019c905b-f36e-797a-babd-590513152adf?utm_source=sketchfab](https://www.meshy.ai/3d-models/Mistwalker-Warrior-v2-019c905b-f36e-797a-babd-590513152adf?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 9,
+    "editorUrl": "https://sketchfab.com/models/361ba3b241194dc5b73d4e0542fb1db8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T18:29:10.816337",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

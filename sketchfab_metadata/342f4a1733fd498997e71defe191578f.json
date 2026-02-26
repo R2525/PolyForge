@@ -1,0 +1,187 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T13:08:01.751963",
+    "embedUrl": "https://sketchfab.com/models/342f4a1733fd498997e71defe191578f/embed",
+    "faceCount": 103434,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Rusted Metal Base Plate",
+    "publishedAt": "2026-02-20T13:08:58.861673",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "machinery",
+            "slug": "machinery",
+            "uri": "https://api.sketchfab.com/v3/tags/machinery"
+        },
+        {
+            "name": "rust",
+            "slug": "rust",
+            "uri": "https://api.sketchfab.com/v3/tags/rust"
+        },
+        {
+            "name": "rusted",
+            "slug": "rusted",
+            "uri": "https://api.sketchfab.com/v3/tags/rusted"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "weathered",
+            "slug": "weathered",
+            "uri": "https://api.sketchfab.com/v3/tags/weathered"
+        },
+        {
+            "name": "greeble",
+            "slug": "greeble",
+            "uri": "https://api.sketchfab.com/v3/tags/greeble"
+        },
+        {
+            "name": "factory",
+            "slug": "factory",
+            "uri": "https://api.sketchfab.com/v3/tags/factory"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        },
+        {
+            "name": "steel",
+            "slug": "steel",
+            "uri": "https://api.sketchfab.com/v3/tags/steel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9a45e6382497494c9bf4627355324c73",
+                "width": 1920,
+                "height": 1080,
+                "size": 36483,
+                "url": "https://media.sketchfab.com/models/342f4a1733fd498997e71defe191578f/thumbnails/481ad69cd5c9400899af292ed68de2de/a806cc3bf09242828a8c1d33aeef636f.jpeg"
+            },
+            {
+                "uid": "2251e6684c1a44459e9e19a4ff7b7d2d",
+                "width": 1024,
+                "height": 576,
+                "size": 11376,
+                "url": "https://media.sketchfab.com/models/342f4a1733fd498997e71defe191578f/thumbnails/481ad69cd5c9400899af292ed68de2de/c6516acce9474b17aa897ba9ed61d9e0.jpeg"
+            },
+            {
+                "uid": "43395f8358e74a0094966cf65225e239",
+                "width": 720,
+                "height": 405,
+                "size": 6419,
+                "url": "https://media.sketchfab.com/models/342f4a1733fd498997e71defe191578f/thumbnails/481ad69cd5c9400899af292ed68de2de/603e72e5e55543cdb6a4b92019233c9a.jpeg"
+            },
+            {
+                "uid": "9a02a00de7904a639863b643a95f52e6",
+                "width": 256,
+                "height": 144,
+                "size": 1546,
+                "url": "https://media.sketchfab.com/models/342f4a1733fd498997e71defe191578f/thumbnails/481ad69cd5c9400899af292ed68de2de/03d3a0dd2ef64a8ea2323624dc3a4e7e.jpeg"
+            },
+            {
+                "uid": "2bf9a6e8d80143198a05539f5ac2f472",
+                "width": 64,
+                "height": 36,
+                "size": 782,
+                "url": "https://media.sketchfab.com/models/342f4a1733fd498997e71defe191578f/thumbnails/481ad69cd5c9400899af292ed68de2de/938ce0579edb43f984eda5416f7f6268.jpeg"
+            }
+        ]
+    },
+    "uid": "342f4a1733fd498997e71defe191578f",
+    "uri": "https://api.sketchfab.com/v3/models/342f4a1733fd498997e71defe191578f",
+    "user": {
+        "uid": "479b84cb283648f1b04ac2aaf055b22e",
+        "username": "altruist541",
+        "displayName": "altruist541",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/altruist541",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/479b84cb283648f1b04ac2aaf055b22e"
+    },
+    "vertexCount": 53136,
+    "viewCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/rusted-metal-base-plate-342f4a1733fd498997e71defe191578f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the original file.The Converted version is intended for web viewing only. In the original file, the following are fully preserved:✔ full scene structure✔ complete materials without reduction✔ proper texture maps✔ correct object namesIf you are going to integrate the model into a project, download the source file.Thishigh quality 3D scanof a rusted industrialmetal baseplatefeatures a worn weathered look with bolts and raised elements making it ideal for detailed industrial or construction themed scenes. Therusty texturesandstructural imperfectionscapture the essence of abandoned or aged machinery parts adding realism to your designs. Perfect for use as a prop in environments such as factories scrapyards or post apocalyptic settings this model brings a rugged authentic feel to any visual project.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/342f4a1733fd498997e71defe191578f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T13:08:59.104903",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

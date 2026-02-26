@@ -1,0 +1,197 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-02T14:09:31.400012",
+    "embedUrl": "https://sketchfab.com/models/1c0d1de236d440408a6f83b36a80a39d/embed",
+    "faceCount": 82330,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Mutant Goblin 1",
+    "publishedAt": "2026-02-02T14:13:22.708563",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "goblin",
+            "slug": "goblin",
+            "uri": "https://api.sketchfab.com/v3/tags/goblin"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "dungeon",
+            "slug": "dungeon",
+            "uri": "https://api.sketchfab.com/v3/tags/dungeon"
+        },
+        {
+            "name": "mutant",
+            "slug": "mutant",
+            "uri": "https://api.sketchfab.com/v3/tags/mutant"
+        },
+        {
+            "name": "dnd",
+            "slug": "dnd",
+            "uri": "https://api.sketchfab.com/v3/tags/dnd"
+        },
+        {
+            "name": "dungeons",
+            "slug": "dungeons",
+            "uri": "https://api.sketchfab.com/v3/tags/dungeons"
+        },
+        {
+            "name": "Pathfinder",
+            "slug": "pathfinder",
+            "uri": "https://api.sketchfab.com/v3/tags/pathfinder"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "monstger",
+            "slug": "monstger",
+            "uri": "https://api.sketchfab.com/v3/tags/monstger"
+        },
+        {
+            "name": "ttrgp",
+            "slug": "ttrgp",
+            "uri": "https://api.sketchfab.com/v3/tags/ttrgp"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2ff51a8e53e1445a8f3ac660af876510",
+                "width": 1920,
+                "height": 1080,
+                "size": 44162,
+                "url": "https://media.sketchfab.com/models/1c0d1de236d440408a6f83b36a80a39d/thumbnails/ebc7d80d39f24893b98d84ce13b44156/53478589e57c461f9812959e72631dc7.jpeg"
+            },
+            {
+                "uid": "7a7a0a33f78f4a96ac6c6423912721da",
+                "width": 1024,
+                "height": 576,
+                "size": 14363,
+                "url": "https://media.sketchfab.com/models/1c0d1de236d440408a6f83b36a80a39d/thumbnails/ebc7d80d39f24893b98d84ce13b44156/dfe0a266092441c19837697845f504d7.jpeg"
+            },
+            {
+                "uid": "c15c0e8680a14be6b3541b9c257661a6",
+                "width": 720,
+                "height": 405,
+                "size": 8099,
+                "url": "https://media.sketchfab.com/models/1c0d1de236d440408a6f83b36a80a39d/thumbnails/ebc7d80d39f24893b98d84ce13b44156/960a8a690d3c4371b86e6632ad57bef0.jpeg"
+            },
+            {
+                "uid": "e2878b10d59e4652aa4365b0c3903bf3",
+                "width": 256,
+                "height": 144,
+                "size": 1839,
+                "url": "https://media.sketchfab.com/models/1c0d1de236d440408a6f83b36a80a39d/thumbnails/ebc7d80d39f24893b98d84ce13b44156/b98ca60c0d8d4fa5bbae42230f676582.jpeg"
+            },
+            {
+                "uid": "b6645fcf414c49969b0fd7ecbe020c51",
+                "width": 64,
+                "height": 36,
+                "size": 784,
+                "url": "https://media.sketchfab.com/models/1c0d1de236d440408a6f83b36a80a39d/thumbnails/ebc7d80d39f24893b98d84ce13b44156/ceedf94a0d794566b2bfb5dace18b4f6.jpeg"
+            }
+        ]
+    },
+    "uid": "1c0d1de236d440408a6f83b36a80a39d",
+    "uri": "https://api.sketchfab.com/v3/models/1c0d1de236d440408a6f83b36a80a39d",
+    "user": {
+        "uid": "ed6d0676d8b14cafb23b87a3674f10f4",
+        "username": "np-dev",
+        "displayName": "np-dev",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/np-dev",
+        "avatar": {
+            "uid": "072b3f4e233842ada58125aa7cd514ee",
+            "uri": "https://api.sketchfab.com/v3/avatars/072b3f4e233842ada58125aa7cd514ee",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 806,
+                    "url": "https://media.sketchfab.com/avatars/072b3f4e233842ada58125aa7cd514ee/185f48b4d2ff42499003302580df4c2f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1147,
+                    "url": "https://media.sketchfab.com/avatars/072b3f4e233842ada58125aa7cd514ee/b2c24f44741748c1b1e1d9353984f32f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2326,
+                    "url": "https://media.sketchfab.com/avatars/072b3f4e233842ada58125aa7cd514ee/286763eafa8c47c1881001d6d102bc7e.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2610,
+                    "url": "https://media.sketchfab.com/avatars/072b3f4e233842ada58125aa7cd514ee/94ee69ce6dd345ad93aca6adfb26d857.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ed6d0676d8b14cafb23b87a3674f10f4"
+    },
+    "vertexCount": 41169,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/mutant-goblin-1-1c0d1de236d440408a6f83b36a80a39d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A creepy mutant goblin and a round base for your tabletop fantasy RPGs and wargames.\n\nOne or more textures on the bases presented in this pack of these 3d models have been created with photographs from Textures.com. These photographs may not be redistributed by default; please visit www.textures.com for more information.\n\nnonPareil institute is committed to building better futures for adults with autism through technical and work-readiness training and social engagement activities. These 3d models were created by former nonPareil Institute students and staff members who help other adults on the autism spectrum explore their technical passions and skills.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/1c0d1de236d440408a6f83b36a80a39d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-02T14:13:23.003563",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

@@ -1,0 +1,309 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-09T19:53:02.760728",
+    "embedUrl": "https://sketchfab.com/models/22e3a237c6124f838d560f582b7c6f54/embed",
+    "faceCount": 112924,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 4,
+    "name": "Ménsula con una Doncella, Catedral de Santander",
+    "publishedAt": "2025-12-16T14:36:50.511214",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cathedral",
+            "slug": "cathedral",
+            "uri": "https://api.sketchfab.com/v3/tags/cathedral"
+        },
+        {
+            "name": "spain",
+            "slug": "spain",
+            "uri": "https://api.sketchfab.com/v3/tags/spain"
+        },
+        {
+            "name": "arquitectura",
+            "slug": "arquitectura",
+            "uri": "https://api.sketchfab.com/v3/tags/arquitectura"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "retopology",
+            "slug": "retopology",
+            "uri": "https://api.sketchfab.com/v3/tags/retopology"
+        },
+        {
+            "name": "bracket",
+            "slug": "bracket",
+            "uri": "https://api.sketchfab.com/v3/tags/bracket"
+        },
+        {
+            "name": "gothic",
+            "slug": "gothic",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic"
+        },
+        {
+            "name": "maiden",
+            "slug": "maiden",
+            "uri": "https://api.sketchfab.com/v3/tags/maiden"
+        },
+        {
+            "name": "Cantabria",
+            "slug": "cantabria",
+            "uri": "https://api.sketchfab.com/v3/tags/cantabria"
+        },
+        {
+            "name": "catedral",
+            "slug": "catedral",
+            "uri": "https://api.sketchfab.com/v3/tags/catedral"
+        },
+        {
+            "name": "crypt",
+            "slug": "crypt",
+            "uri": "https://api.sketchfab.com/v3/tags/crypt"
+        },
+        {
+            "name": "Santander",
+            "slug": "santander",
+            "uri": "https://api.sketchfab.com/v3/tags/santander"
+        },
+        {
+            "name": "fotogrametria",
+            "slug": "fotogrametria",
+            "uri": "https://api.sketchfab.com/v3/tags/fotogrametria"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "Espana",
+            "slug": "espana",
+            "uri": "https://api.sketchfab.com/v3/tags/espana"
+        },
+        {
+            "name": "gotico",
+            "slug": "gotico",
+            "uri": "https://api.sketchfab.com/v3/tags/gotico"
+        },
+        {
+            "name": "middleages",
+            "slug": "middleages",
+            "uri": "https://api.sketchfab.com/v3/tags/middleages"
+        },
+        {
+            "name": "cultural-heritage",
+            "slug": "cultural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage"
+        },
+        {
+            "name": "mensula",
+            "slug": "mensula",
+            "uri": "https://api.sketchfab.com/v3/tags/mensula"
+        },
+        {
+            "name": "retopologia",
+            "slug": "retopologia",
+            "uri": "https://api.sketchfab.com/v3/tags/retopologia"
+        },
+        {
+            "name": "optimizado",
+            "slug": "optimizado",
+            "uri": "https://api.sketchfab.com/v3/tags/optimizado"
+        },
+        {
+            "name": "patrimonio-cultural",
+            "slug": "patrimonio-cultural",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimonio-cultural"
+        },
+        {
+            "name": "cripta",
+            "slug": "cripta",
+            "uri": "https://api.sketchfab.com/v3/tags/cripta"
+        },
+        {
+            "name": "sigloxiii",
+            "slug": "sigloxiii",
+            "uri": "https://api.sketchfab.com/v3/tags/sigloxiii"
+        },
+        {
+            "name": "edadmedia",
+            "slug": "edadmedia",
+            "uri": "https://api.sketchfab.com/v3/tags/edadmedia"
+        },
+        {
+            "name": "culturalheritage-photogrammetry-3dmodel",
+            "slug": "culturalheritage-photogrammetry-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/culturalheritage-photogrammetry-3dmodel"
+        },
+        {
+            "name": "cultural-heritage-photogrammetry-historical",
+            "slug": "cultural-heritage-photogrammetry-historical",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage-photogrammetry-historical"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "xiiicentury",
+            "slug": "xiiicentury",
+            "uri": "https://api.sketchfab.com/v3/tags/xiiicentury"
+        },
+        {
+            "name": "dondella",
+            "slug": "dondella",
+            "uri": "https://api.sketchfab.com/v3/tags/dondella"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "35f73b4233884c928e6a33cf5e5e371e",
+                "width": 1920,
+                "height": 1080,
+                "size": 138571,
+                "url": "https://media.sketchfab.com/models/22e3a237c6124f838d560f582b7c6f54/thumbnails/7be77e1871d243639b53b29eb8ec9176/27bb21bd05774145b463a12164466db9.jpeg"
+            },
+            {
+                "uid": "c5953ded56d1439ea003201f43c71d01",
+                "width": 1024,
+                "height": 576,
+                "size": 40574,
+                "url": "https://media.sketchfab.com/models/22e3a237c6124f838d560f582b7c6f54/thumbnails/7be77e1871d243639b53b29eb8ec9176/cb91332a15ba4e4a8835a9858a8a9d94.jpeg"
+            },
+            {
+                "uid": "360a2f773eaf415d9d99dee92b4a3914",
+                "width": 720,
+                "height": 405,
+                "size": 22124,
+                "url": "https://media.sketchfab.com/models/22e3a237c6124f838d560f582b7c6f54/thumbnails/7be77e1871d243639b53b29eb8ec9176/1cf9a8cc00c54d14a3c5835e1be0bbb3.jpeg"
+            },
+            {
+                "uid": "48f4782197ad4235973b40f99e9408bc",
+                "width": 256,
+                "height": 144,
+                "size": 4228,
+                "url": "https://media.sketchfab.com/models/22e3a237c6124f838d560f582b7c6f54/thumbnails/7be77e1871d243639b53b29eb8ec9176/f422c7b871e14ec698b1ab652af4448a.jpeg"
+            },
+            {
+                "uid": "8082a1a551784b6b92a5a2cddcc38c3e",
+                "width": 64,
+                "height": 36,
+                "size": 1024,
+                "url": "https://media.sketchfab.com/models/22e3a237c6124f838d560f582b7c6f54/thumbnails/7be77e1871d243639b53b29eb8ec9176/45d466f1cb15469f887c7ee4e7229d0f.jpeg"
+            }
+        ]
+    },
+    "uid": "22e3a237c6124f838d560f582b7c6f54",
+    "uri": "https://api.sketchfab.com/v3/models/22e3a237c6124f838d560f582b7c6f54",
+    "user": {
+        "uid": "21dd9d33c5b742e895572a055d090666",
+        "username": "hjft",
+        "displayName": "Héctor Fonseca",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/hjft",
+        "avatar": {
+            "uid": "05c2ecc488c64911b37fd60cdd768844",
+            "uri": "https://api.sketchfab.com/v3/avatars/05c2ecc488c64911b37fd60cdd768844",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4288,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/fee3698f526a4dd2aeed90148e421f20.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3657,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/2d6da696b4c940f7b2f63c9ae1825b70.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/4c2a7427d7c9466d93c651dec25be2e9.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 837,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/e426a17375db4f2c972c4624450b2e43.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/21dd9d33c5b742e895572a055d090666"
+    },
+    "vertexCount": 60960,
+    "viewCount": 63,
+    "viewerUrl": "https://sketchfab.com/3d-models/mensula-con-una-doncella-catedral-de-santander-22e3a237c6124f838d560f582b7c6f54",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**ESP** Ménsula gótica (s. XIII) que representa el torso de una doncella y que decora una de las entradas a la Cripta de la Catedral de Santander (Cantabria, España).\n\n**ENG** Gothic bracket (13th century) depicting the torso of a maiden, decorating one of the entrances to the crypt of Santander Cathedral (Cantabria, Spain).",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/22e3a237c6124f838d560f582b7c6f54/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-16T14:38:14.307797",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 2
+}

@@ -1,0 +1,236 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T09:37:28.639617",
+    "embedUrl": "https://sketchfab.com/models/2b1fc03cf1cb4316a565b3040bbea4b0/embed",
+    "faceCount": 887755,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Crimson Knight of Azeroth",
+    "publishedAt": "2026-02-24T09:38:05.937687",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warcraft",
+            "slug": "warcraft",
+            "uri": "https://api.sketchfab.com/v3/tags/warcraft"
+        },
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "blizzard",
+            "slug": "blizzard",
+            "uri": "https://api.sketchfab.com/v3/tags/blizzard"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "cosplay",
+            "slug": "cosplay",
+            "uri": "https://api.sketchfab.com/v3/tags/cosplay"
+        },
+        {
+            "name": "ArmorSet",
+            "slug": "armorset",
+            "uri": "https://api.sketchfab.com/v3/tags/armorset"
+        },
+        {
+            "name": "azeroth",
+            "slug": "azeroth",
+            "uri": "https://api.sketchfab.com/v3/tags/azeroth"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "wow",
+            "slug": "wow",
+            "uri": "https://api.sketchfab.com/v3/tags/wow"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "kamuicosplay",
+            "slug": "kamuicosplay",
+            "uri": "https://api.sketchfab.com/v3/tags/kamuicosplay"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "84521041ff164a01b7627398af7e265d",
+                "width": 1920,
+                "height": 1080,
+                "size": 99852,
+                "url": "https://media.sketchfab.com/models/2b1fc03cf1cb4316a565b3040bbea4b0/thumbnails/cedcfd64b84f4e5eb749e3d2e7657ad6/f7dcee999db048998ef97f114a2f128b.jpeg"
+            },
+            {
+                "uid": "25c9dd125f2642bf924eecfbead4b810",
+                "width": 1024,
+                "height": 576,
+                "size": 33657,
+                "url": "https://media.sketchfab.com/models/2b1fc03cf1cb4316a565b3040bbea4b0/thumbnails/cedcfd64b84f4e5eb749e3d2e7657ad6/a25103da2fa348eda1da8ea45b0307d6.jpeg"
+            },
+            {
+                "uid": "27ed0bc5bf284f54bc2da930ab14cdce",
+                "width": 720,
+                "height": 405,
+                "size": 19574,
+                "url": "https://media.sketchfab.com/models/2b1fc03cf1cb4316a565b3040bbea4b0/thumbnails/cedcfd64b84f4e5eb749e3d2e7657ad6/b4d075c81b0d4466aa6b957666fa1f01.jpeg"
+            },
+            {
+                "uid": "174120e5cb1645de8d318843f0575b92",
+                "width": 256,
+                "height": 144,
+                "size": 4090,
+                "url": "https://media.sketchfab.com/models/2b1fc03cf1cb4316a565b3040bbea4b0/thumbnails/cedcfd64b84f4e5eb749e3d2e7657ad6/c70c5114274b4e499a33be6af15c5e6a.jpeg"
+            },
+            {
+                "uid": "841916bc01f94fdcbdbe21b1ccb05c5f",
+                "width": 64,
+                "height": 36,
+                "size": 992,
+                "url": "https://media.sketchfab.com/models/2b1fc03cf1cb4316a565b3040bbea4b0/thumbnails/cedcfd64b84f4e5eb749e3d2e7657ad6/27dbd22e24dc4c3683569105f4454c7e.jpeg"
+            }
+        ]
+    },
+    "uid": "2b1fc03cf1cb4316a565b3040bbea4b0",
+    "uri": "https://api.sketchfab.com/v3/models/2b1fc03cf1cb4316a565b3040bbea4b0",
+    "user": {
+        "uid": "bb2eb822aced46c8876252f8e0bae00a",
+        "username": "Alberto.Zanini",
+        "displayName": "Miniature Collectors Club",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Alberto.Zanini",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bb2eb822aced46c8876252f8e0bae00a"
+    },
+    "vertexCount": 443437,
+    "viewCount": 21,
+    "viewerUrl": "https://sketchfab.com/3d-models/crimson-knight-of-azeroth-2b1fc03cf1cb4316a565b3040bbea4b0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "High resolution mesh \n\nThis model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/fDy3Lf](https://www.meshy.ai/s/fDy3Lf)",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/2b1fc03cf1cb4316a565b3040bbea4b0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T09:41:38.641290",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

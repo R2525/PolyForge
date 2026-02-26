@@ -1,0 +1,165 @@
+{
+    "animationCount": 4,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T15:32:42.299699",
+    "embedUrl": "https://sketchfab.com/models/0e36eb94ce054a28b34b3a0da935dadf/embed",
+    "faceCount": 4746,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Kingly victoire",
+    "publishedAt": "2026-02-24T15:38:14.793965",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "umamusume",
+            "slug": "umamusume",
+            "uri": "https://api.sketchfab.com/v3/tags/umamusume"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d8a968e5e9fe4b7b80e0c2c9e60466b5",
+                "width": 1920,
+                "height": 1080,
+                "size": 84601,
+                "url": "https://media.sketchfab.com/models/0e36eb94ce054a28b34b3a0da935dadf/thumbnails/3c606fef78424edebee5d240c97d2c46/8f35d657dec24262bb9f62d1cd2e91a2.jpeg"
+            },
+            {
+                "uid": "fd545e2935ea460b8a91355b3e83e4e6",
+                "width": 1024,
+                "height": 576,
+                "size": 30225,
+                "url": "https://media.sketchfab.com/models/0e36eb94ce054a28b34b3a0da935dadf/thumbnails/3c606fef78424edebee5d240c97d2c46/ddfd8559e52e4ffa84c5076f468521fd.jpeg"
+            },
+            {
+                "uid": "d1eb9a86e66a466f8742e8c15f4872fd",
+                "width": 720,
+                "height": 405,
+                "size": 17957,
+                "url": "https://media.sketchfab.com/models/0e36eb94ce054a28b34b3a0da935dadf/thumbnails/3c606fef78424edebee5d240c97d2c46/b3fea31a92cd436db55162433edc2072.jpeg"
+            },
+            {
+                "uid": "3ef72fdd3ff8475cae99b6a460c667bd",
+                "width": 256,
+                "height": 144,
+                "size": 3905,
+                "url": "https://media.sketchfab.com/models/0e36eb94ce054a28b34b3a0da935dadf/thumbnails/3c606fef78424edebee5d240c97d2c46/4164cb70d9db4429954ac1335f5b7aa4.jpeg"
+            },
+            {
+                "uid": "b2ded7be8121476f96c8a2d1134f1ba0",
+                "width": 64,
+                "height": 36,
+                "size": 1036,
+                "url": "https://media.sketchfab.com/models/0e36eb94ce054a28b34b3a0da935dadf/thumbnails/3c606fef78424edebee5d240c97d2c46/816b97e2cff045b29b2e8e575f69e0fd.jpeg"
+            }
+        ]
+    },
+    "uid": "0e36eb94ce054a28b34b3a0da935dadf",
+    "uri": "https://api.sketchfab.com/v3/models/0e36eb94ce054a28b34b3a0da935dadf",
+    "user": {
+        "uid": "50439da4c49b474abf2b553057648856",
+        "username": "NekuroMC",
+        "displayName": "NekuroMC",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/NekuroMC",
+        "avatar": {
+            "uid": "b9a88ed02c964d2495f9cc6bbb53a8a7",
+            "uri": "https://api.sketchfab.com/v3/avatars/b9a88ed02c964d2495f9cc6bbb53a8a7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1033,
+                    "url": "https://media.sketchfab.com/avatars/b9a88ed02c964d2495f9cc6bbb53a8a7/79289b3b2fef47a69217d33bc37fb1ee.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1427,
+                    "url": "https://media.sketchfab.com/avatars/b9a88ed02c964d2495f9cc6bbb53a8a7/4e4ed9b7a8da4a7db86560b5dcbc9946.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2960,
+                    "url": "https://media.sketchfab.com/avatars/b9a88ed02c964d2495f9cc6bbb53a8a7/2d232c34a0f24e60956a15020135cc05.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3351,
+                    "url": "https://media.sketchfab.com/avatars/b9a88ed02c964d2495f9cc6bbb53a8a7/4ed5bebdb624484b9a2ce60ef0382154.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/50439da4c49b474abf2b553057648856"
+    },
+    "vertexCount": 3242,
+    "viewCount": 19,
+    "viewerUrl": "https://sketchfab.com/3d-models/kingly-victoire-0e36eb94ce054a28b34b3a0da935dadf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "original character by goldrathian",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0e36eb94ce054a28b34b3a0da935dadf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T15:38:14.905563",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,187 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T07:49:28.516099",
+    "embedUrl": "https://sketchfab.com/models/28bd76845dd043f9a5ad8424c00e44f7/embed",
+    "faceCount": 98381,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Scary Sun Robot Rigged",
+    "publishedAt": "2026-02-22T07:51:30.428179",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "red",
+            "slug": "red",
+            "uri": "https://api.sketchfab.com/v3/tags/red"
+        },
+        {
+            "name": "circus",
+            "slug": "circus",
+            "uri": "https://api.sketchfab.com/v3/tags/circus"
+        },
+        {
+            "name": "sun",
+            "slug": "sun",
+            "uri": "https://api.sketchfab.com/v3/tags/sun"
+        },
+        {
+            "name": "scary",
+            "slug": "scary",
+            "uri": "https://api.sketchfab.com/v3/tags/scary"
+        },
+        {
+            "name": "yellow",
+            "slug": "yellow",
+            "uri": "https://api.sketchfab.com/v3/tags/yellow"
+        },
+        {
+            "name": "fnaf",
+            "slug": "fnaf",
+            "uri": "https://api.sketchfab.com/v3/tags/fnaf"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f3524ae95d80455b9e295ae2f061d118",
+                "width": 1920,
+                "height": 1080,
+                "size": 62165,
+                "url": "https://media.sketchfab.com/models/28bd76845dd043f9a5ad8424c00e44f7/thumbnails/1a44138d1c49478a84f6ad48121b366b/722fb1deaa43433e8b7ebbfe4c68e74b.jpeg"
+            },
+            {
+                "uid": "9449a3d01b934b77be354f7937cbe384",
+                "width": 1024,
+                "height": 576,
+                "size": 20917,
+                "url": "https://media.sketchfab.com/models/28bd76845dd043f9a5ad8424c00e44f7/thumbnails/1a44138d1c49478a84f6ad48121b366b/91745991ebab42f486c36a5835674ff4.jpeg"
+            },
+            {
+                "uid": "ee412f57c9bc461eb832858252df7b07",
+                "width": 720,
+                "height": 405,
+                "size": 12237,
+                "url": "https://media.sketchfab.com/models/28bd76845dd043f9a5ad8424c00e44f7/thumbnails/1a44138d1c49478a84f6ad48121b366b/9af07c693260483e960916698f54d1bd.jpeg"
+            },
+            {
+                "uid": "eec764ce29134486b90349e868e1057b",
+                "width": 256,
+                "height": 144,
+                "size": 2690,
+                "url": "https://media.sketchfab.com/models/28bd76845dd043f9a5ad8424c00e44f7/thumbnails/1a44138d1c49478a84f6ad48121b366b/295ae46e28574a078640b2112dae2bf8.jpeg"
+            },
+            {
+                "uid": "1b5b1660b0c642e9859fe09dc2e74774",
+                "width": 64,
+                "height": 36,
+                "size": 906,
+                "url": "https://media.sketchfab.com/models/28bd76845dd043f9a5ad8424c00e44f7/thumbnails/1a44138d1c49478a84f6ad48121b366b/b567881d07a245b9bfb9e35ba88c4ee8.jpeg"
+            }
+        ]
+    },
+    "uid": "28bd76845dd043f9a5ad8424c00e44f7",
+    "uri": "https://api.sketchfab.com/v3/models/28bd76845dd043f9a5ad8424c00e44f7",
+    "user": {
+        "uid": "8f3e7b5ecf3345d4b03ed8c1b06caf4a",
+        "username": "Lilwuskypup101",
+        "displayName": "Lilwuskypup101",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Lilwuskypup101",
+        "avatar": {
+            "uid": "c0034e5794924c6fb5b01b6f3095e66c",
+            "uri": "https://api.sketchfab.com/v3/avatars/c0034e5794924c6fb5b01b6f3095e66c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 919,
+                    "url": "https://media.sketchfab.com/avatars/c0034e5794924c6fb5b01b6f3095e66c/10b5f963d5444fa69ab1666d79bbf6bd.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1570,
+                    "url": "https://media.sketchfab.com/avatars/c0034e5794924c6fb5b01b6f3095e66c/5e64f798f3a347d883fa9078d2193adf.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3915,
+                    "url": "https://media.sketchfab.com/avatars/c0034e5794924c6fb5b01b6f3095e66c/0fc31c759514486a9be77b45d6a482ec.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4572,
+                    "url": "https://media.sketchfab.com/avatars/c0034e5794924c6fb5b01b6f3095e66c/1b901fce093c4d90a394e678ff4d2321.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8f3e7b5ecf3345d4b03ed8c1b06caf4a"
+    },
+    "vertexCount": 53996,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/scary-sun-robot-rigged-28bd76845dd043f9a5ad8424c00e44f7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the original file.The converted file is intended for web viewing only. In the original file, the following are fully preserved:✔ native scene structure✔ all materials without simplification✔ correct PBR texture maps✔ original object namesIf you are going to integrate the model into a project, select the source file.A scary circus like robot with horrific smile. Good for horror and circus scenes. Rigged without IK .",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/28bd76845dd043f9a5ad8424c00e44f7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T07:51:30.951059",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 2
+}

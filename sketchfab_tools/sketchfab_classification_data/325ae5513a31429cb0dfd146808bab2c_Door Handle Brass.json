@@ -1,0 +1,66 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Medieval",
+            "score": 0.85
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.75
+        },
+        {
+            "name": "Victorian",
+            "score": 0.7
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.65
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.88
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.75
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.65
+        },
+        {
+            "name": "Stylized Realism",
+            "score": 0.6
+        },
+        {
+            "name": "Historic Metalwork",
+            "score": 0.55
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Polished",
+        "Weathered",
+        "Mossy"
+    ],
+    "tags": [
+        "door handle",
+        "brass",
+        "furniture",
+        "home",
+        "antique"
+    ],
+    "model_id_full": "325ae5513a31429cb0dfd146808bab2c_Door Handle Brass",
+    "sketchfab_id": "325ae5513a31429cb0dfd146808bab2c",
+    "asset_name": "Door Handle Brass"
+}

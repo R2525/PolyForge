@@ -1,0 +1,292 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-18T11:30:48.525384",
+    "embedUrl": "https://sketchfab.com/models/408d823f21524da39ce49537dde11ad2/embed",
+    "faceCount": 25988,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "End The Weak - Tactical Kukri Knife",
+    "publishedAt": "2025-12-18T11:41:09.443290",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "modern",
+            "slug": "modern",
+            "uri": "https://api.sketchfab.com/v3/tags/modern"
+        },
+        {
+            "name": "apocalyptic",
+            "slug": "apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/apocalyptic"
+        },
+        {
+            "name": "end",
+            "slug": "end",
+            "uri": "https://api.sketchfab.com/v3/tags/end"
+        },
+        {
+            "name": "post",
+            "slug": "post",
+            "uri": "https://api.sketchfab.com/v3/tags/post"
+        },
+        {
+            "name": "apocalypse",
+            "slug": "apocalypse",
+            "uri": "https://api.sketchfab.com/v3/tags/apocalypse"
+        },
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "brutal",
+            "slug": "brutal",
+            "uri": "https://api.sketchfab.com/v3/tags/brutal"
+        },
+        {
+            "name": "engraved",
+            "slug": "engraved",
+            "uri": "https://api.sketchfab.com/v3/tags/engraved"
+        },
+        {
+            "name": "combat",
+            "slug": "combat",
+            "uri": "https://api.sketchfab.com/v3/tags/combat"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "the",
+            "slug": "the",
+            "uri": "https://api.sketchfab.com/v3/tags/the"
+        },
+        {
+            "name": "tactical",
+            "slug": "tactical",
+            "uri": "https://api.sketchfab.com/v3/tags/tactical"
+        },
+        {
+            "name": "Kukri",
+            "slug": "kukri",
+            "uri": "https://api.sketchfab.com/v3/tags/kukri"
+        },
+        {
+            "name": "mercenary",
+            "slug": "mercenary",
+            "uri": "https://api.sketchfab.com/v3/tags/mercenary"
+        },
+        {
+            "name": "weak",
+            "slug": "weak",
+            "uri": "https://api.sketchfab.com/v3/tags/weak"
+        },
+        {
+            "name": "close",
+            "slug": "close",
+            "uri": "https://api.sketchfab.com/v3/tags/close"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "painter",
+            "slug": "painter",
+            "uri": "https://api.sketchfab.com/v3/tags/painter"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "knife",
+            "slug": "knife",
+            "uri": "https://api.sketchfab.com/v3/tags/knife"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6ed050d598834beaa69824b0473495d5",
+                "width": 1920,
+                "height": 1080,
+                "size": 57002,
+                "url": "https://media.sketchfab.com/models/408d823f21524da39ce49537dde11ad2/thumbnails/cd58674b9ee44fb28531f262db80ad5c/1d85b7cf619f41009034206d22266316.jpeg"
+            },
+            {
+                "uid": "759e8b64bf864c2ebeff490cf5614403",
+                "width": 1024,
+                "height": 576,
+                "size": 17186,
+                "url": "https://media.sketchfab.com/models/408d823f21524da39ce49537dde11ad2/thumbnails/cd58674b9ee44fb28531f262db80ad5c/1ad686a9e2464954af828843d205d813.jpeg"
+            },
+            {
+                "uid": "d64fc352a0bb4c03afb06ac0afd17297",
+                "width": 720,
+                "height": 405,
+                "size": 9530,
+                "url": "https://media.sketchfab.com/models/408d823f21524da39ce49537dde11ad2/thumbnails/cd58674b9ee44fb28531f262db80ad5c/ec114ffa0ce14a52a78acbc310f3cd3d.jpeg"
+            },
+            {
+                "uid": "4fbfbfcb5473465997ddc143b676cad9",
+                "width": 256,
+                "height": 144,
+                "size": 2052,
+                "url": "https://media.sketchfab.com/models/408d823f21524da39ce49537dde11ad2/thumbnails/cd58674b9ee44fb28531f262db80ad5c/9ab0ebc2d08a411d972753920bbaabc0.jpeg"
+            },
+            {
+                "uid": "25cbe8d5176e4fd2a945d0f3b32a614a",
+                "width": 64,
+                "height": 36,
+                "size": 806,
+                "url": "https://media.sketchfab.com/models/408d823f21524da39ce49537dde11ad2/thumbnails/cd58674b9ee44fb28531f262db80ad5c/aab16683dfc641508ead3a2d1e847f0b.jpeg"
+            }
+        ]
+    },
+    "uid": "408d823f21524da39ce49537dde11ad2",
+    "uri": "https://api.sketchfab.com/v3/models/408d823f21524da39ce49537dde11ad2",
+    "user": {
+        "uid": "d74c7232e49a4f768f85b67463f5f06c",
+        "username": "asedera",
+        "displayName": "asedra.3d",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/asedera",
+        "avatar": {
+            "uid": "bf5790e5447043f99fcba5d3fd045579",
+            "uri": "https://api.sketchfab.com/v3/avatars/bf5790e5447043f99fcba5d3fd045579",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 830,
+                    "url": "https://media.sketchfab.com/avatars/bf5790e5447043f99fcba5d3fd045579/85b8f832a0bd45d09d271f506aa6810d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1095,
+                    "url": "https://media.sketchfab.com/avatars/bf5790e5447043f99fcba5d3fd045579/5d275a4ba0cf413a9e3dd217799d3616.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1715,
+                    "url": "https://media.sketchfab.com/avatars/bf5790e5447043f99fcba5d3fd045579/0cacfc1f2acb4e9fbde50e983940a096.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2007,
+                    "url": "https://media.sketchfab.com/avatars/bf5790e5447043f99fcba5d3fd045579/83ba3600e12e41ee8f700f5b2c7f85f9.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d74c7232e49a4f768f85b67463f5f06c"
+    },
+    "vertexCount": 13270,
+    "viewCount": 43,
+    "viewerUrl": "https://sketchfab.com/3d-models/end-the-weak-tactical-kukri-knife-408d823f21524da39ce49537dde11ad2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Brutal tactical kukri with \"END THE WEAK\" engraved on the spine.\nJagged forward curve, saw-back edge, triangular cutouts for reduced weight and better penetration, wrapped leather handle with steel rivets.\nGame-ready low-poly asset:\n\n~13,000 faces\n2K PBR textures\nModeled in Autodesk Maya 2025\nTextured in Substance 3D Painter 2025\n\nPerfect for post-apocalyptic survivors, mercenaries, or close-combat characters in games.\nFeel free to download and use in your projects!",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/408d823f21524da39ce49537dde11ad2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-18T11:41:09.571730",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

@@ -1,0 +1,37 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Military",
+            "score": 0.7
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.5
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty"
+    ],
+    "tags": [
+        "hammer",
+        "tool",
+        "military"
+    ]
+}

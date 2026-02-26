@@ -1,0 +1,226 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T09:47:20.438577",
+    "embedUrl": "https://sketchfab.com/models/1d71e4f721094aa7b7d8cc5d3d84294d/embed",
+    "faceCount": 938788,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Desert Cavalier",
+    "publishedAt": "2026-02-21T09:47:51.744075",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "desert",
+            "slug": "desert",
+            "uri": "https://api.sketchfab.com/v3/tags/desert"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "epic",
+            "slug": "epic",
+            "uri": "https://api.sketchfab.com/v3/tags/epic"
+        },
+        {
+            "name": "camel",
+            "slug": "camel",
+            "uri": "https://api.sketchfab.com/v3/tags/camel"
+        },
+        {
+            "name": "arabic",
+            "slug": "arabic",
+            "uri": "https://api.sketchfab.com/v3/tags/arabic"
+        },
+        {
+            "name": "cavalier",
+            "slug": "cavalier",
+            "uri": "https://api.sketchfab.com/v3/tags/cavalier"
+        },
+        {
+            "name": "rider",
+            "slug": "rider",
+            "uri": "https://api.sketchfab.com/v3/tags/rider"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "horse",
+            "slug": "horse",
+            "uri": "https://api.sketchfab.com/v3/tags/horse"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3130dcf06e5e48c78d677e619e702a9b",
+                "width": 1920,
+                "height": 1080,
+                "size": 71734,
+                "url": "https://media.sketchfab.com/models/1d71e4f721094aa7b7d8cc5d3d84294d/thumbnails/e47dc70c5dda43de823901ad3cc30ab2/5e9e14af98b848af9b2cf4c5a1d0f95c.jpeg"
+            },
+            {
+                "uid": "b7c9656484414feb8e97ec302870462e",
+                "width": 1024,
+                "height": 576,
+                "size": 23120,
+                "url": "https://media.sketchfab.com/models/1d71e4f721094aa7b7d8cc5d3d84294d/thumbnails/e47dc70c5dda43de823901ad3cc30ab2/ced5634ebf314b4e8599a3807da1ec4b.jpeg"
+            },
+            {
+                "uid": "76af5c91c2214c579a4bbe26c7d55e4b",
+                "width": 720,
+                "height": 405,
+                "size": 12951,
+                "url": "https://media.sketchfab.com/models/1d71e4f721094aa7b7d8cc5d3d84294d/thumbnails/e47dc70c5dda43de823901ad3cc30ab2/9d99fe097caa4c9380aa50ea289aeef5.jpeg"
+            },
+            {
+                "uid": "82586d47db26431b92adb0d7524f675d",
+                "width": 256,
+                "height": 144,
+                "size": 2605,
+                "url": "https://media.sketchfab.com/models/1d71e4f721094aa7b7d8cc5d3d84294d/thumbnails/e47dc70c5dda43de823901ad3cc30ab2/5f0227d076ee40618673f31a65b0d4b7.jpeg"
+            },
+            {
+                "uid": "83663d8221ee48be9cea19694e2f9688",
+                "width": 64,
+                "height": 36,
+                "size": 817,
+                "url": "https://media.sketchfab.com/models/1d71e4f721094aa7b7d8cc5d3d84294d/thumbnails/e47dc70c5dda43de823901ad3cc30ab2/3fb1dacdedbf44859044ab14069735c7.jpeg"
+            }
+        ]
+    },
+    "uid": "1d71e4f721094aa7b7d8cc5d3d84294d",
+    "uri": "https://api.sketchfab.com/v3/models/1d71e4f721094aa7b7d8cc5d3d84294d",
+    "user": {
+        "uid": "6722833a13c24b54af9757e64201cbfe",
+        "username": "kmkrtchyan70",
+        "displayName": "Ded Makar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kmkrtchyan70",
+        "avatar": {
+            "uid": "e426f8f1bdcc46e0a45fa572af73859a",
+            "uri": "https://api.sketchfab.com/v3/avatars/e426f8f1bdcc46e0a45fa572af73859a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1182,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/efb9a0da56c64d7b8c866671a862673a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1673,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01b13b16a4c84c0da2a7b25e9d870279.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3615,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/883afddce77a4ecf9d2d26c8dc259872.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4214,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01042899c933428d8a46f9387a1c5717.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6722833a13c24b54af9757e64201cbfe"
+    },
+    "vertexCount": 469308,
+    "viewCount": 22,
+    "viewerUrl": "https://sketchfab.com/3d-models/desert-cavalier-1d71e4f721094aa7b7d8cc5d3d84294d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Desert-Cavalier-v2-019c7f4b-33d0-7b83-af6c-2b417e7d8775?utm_source=sketchfab](https://www.meshy.ai/3d-models/Desert-Cavalier-v2-019c7f4b-33d0-7b83-af6c-2b417e7d8775?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/1d71e4f721094aa7b7d8cc5d3d84294d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T10:20:21.527993",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

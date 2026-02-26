@@ -1,0 +1,42 @@
+{
+    "category": "Electronics & Gadgets",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Science & Technology",
+            "score": 0.8
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Clean"
+    ],
+    "tags": [
+        "circuit board",
+        "motherboard",
+        "electronics"
+    ]
+}

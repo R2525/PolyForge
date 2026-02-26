@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-28T05:31:27.931366",
+    "embedUrl": "https://sketchfab.com/models/3315d40a4ff84851a6e9a5878fe73592/embed",
+    "faceCount": 5912,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Spaceship-✖-['Hypn0s']",
+    "publishedAt": "2025-12-28T05:40:14.350502",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "vehicles",
+            "slug": "vehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicles"
+        },
+        {
+            "name": "starship",
+            "slug": "starship",
+            "uri": "https://api.sketchfab.com/v3/tags/starship"
+        },
+        {
+            "name": "spacecraft",
+            "slug": "spacecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/spacecraft"
+        },
+        {
+            "name": "starfighter",
+            "slug": "starfighter",
+            "uri": "https://api.sketchfab.com/v3/tags/starfighter"
+        },
+        {
+            "name": "star-fighter",
+            "slug": "star-fighter",
+            "uri": "https://api.sketchfab.com/v3/tags/star-fighter"
+        },
+        {
+            "name": "Space fighter",
+            "slug": "space-fighter",
+            "uri": "https://api.sketchfab.com/v3/tags/space-fighter"
+        },
+        {
+            "name": "uvmapped",
+            "slug": "uvmapped",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped"
+        },
+        {
+            "name": "space-ship",
+            "slug": "space-ship",
+            "uri": "https://api.sketchfab.com/v3/tags/space-ship"
+        },
+        {
+            "name": "ussenterprise",
+            "slug": "ussenterprise",
+            "uri": "https://api.sketchfab.com/v3/tags/ussenterprise"
+        },
+        {
+            "name": "star-wars",
+            "slug": "star-wars",
+            "uri": "https://api.sketchfab.com/v3/tags/star-wars"
+        },
+        {
+            "name": "uvmap",
+            "slug": "uvmap",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmap"
+        },
+        {
+            "name": "starships",
+            "slug": "starships",
+            "uri": "https://api.sketchfab.com/v3/tags/starships"
+        },
+        {
+            "name": "spaceship-sci-fi",
+            "slug": "spaceship-sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship-sci-fi"
+        },
+        {
+            "name": "scifi-spaceship",
+            "slug": "scifi-spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi-spaceship"
+        },
+        {
+            "name": "futuristic-vehicle",
+            "slug": "futuristic-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic-vehicle"
+        },
+        {
+            "name": "futuristic-science-fiction-sciencefiction",
+            "slug": "futuristic-science-fiction-sciencefiction",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic-science-fiction-sciencefiction"
+        },
+        {
+            "name": "spaceship-spacecraft",
+            "slug": "spaceship-spacecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship-spacecraft"
+        },
+        {
+            "name": "startrek-starships",
+            "slug": "startrek-starships",
+            "uri": "https://api.sketchfab.com/v3/tags/startrek-starships"
+        },
+        {
+            "name": "spacecraft-scifi",
+            "slug": "spacecraft-scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/spacecraft-scifi"
+        },
+        {
+            "name": "interstellar-spaceship",
+            "slug": "interstellar-spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/interstellar-spaceship"
+        },
+        {
+            "name": "hypnos",
+            "slug": "hypnos",
+            "uri": "https://api.sketchfab.com/v3/tags/hypnos"
+        },
+        {
+            "name": "startrek-spacecraft-scifi",
+            "slug": "startrek-spacecraft-scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/startrek-spacecraft-scifi"
+        },
+        {
+            "name": "sci-fi-spaceship",
+            "slug": "sci-fi-spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi-spaceship"
+        },
+        {
+            "name": "scifispacecraft",
+            "slug": "scifispacecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/scifispacecraft"
+        },
+        {
+            "name": "vehicle-sci-fi",
+            "slug": "vehicle-sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle-sci-fi"
+        },
+        {
+            "name": "futuristic-sci-fi",
+            "slug": "futuristic-sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic-sci-fi"
+        },
+        {
+            "name": "scifispaceship",
+            "slug": "scifispaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/scifispaceship"
+        },
+        {
+            "name": "spaceship",
+            "slug": "spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship"
+        },
+        {
+            "name": "starwars-ships",
+            "slug": "starwars-ships",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars-ships"
+        },
+        {
+            "name": "star-trek-inspired",
+            "slug": "star-trek-inspired",
+            "uri": "https://api.sketchfab.com/v3/tags/star-trek-inspired"
+        },
+        {
+            "name": "copilot",
+            "slug": "copilot",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot"
+        },
+        {
+            "name": "interstellar-pilot",
+            "slug": "interstellar-pilot",
+            "uri": "https://api.sketchfab.com/v3/tags/interstellar-pilot"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "spaceflyer",
+            "slug": "spaceflyer",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceflyer"
+        },
+        {
+            "name": "uvmapped-model",
+            "slug": "uvmapped-model",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped-model"
+        },
+        {
+            "name": "copilot3d",
+            "slug": "copilot3d",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3d"
+        },
+        {
+            "name": "copilotai",
+            "slug": "copilotai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotai"
+        },
+        {
+            "name": "copilotlabs",
+            "slug": "copilotlabs",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotlabs"
+        },
+        {
+            "name": "copilot3dai",
+            "slug": "copilot3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3dai"
+        },
+        {
+            "name": "copilot-models",
+            "slug": "copilot-models",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot-models"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "bf41ed201fff46be8d92c44129d76dd3",
+                "width": 1920,
+                "height": 1080,
+                "size": 329114,
+                "url": "https://media.sketchfab.com/models/3315d40a4ff84851a6e9a5878fe73592/thumbnails/be9fdcdfa1904df2ab0880f3cbd97463/2bee8ac0deed425fadd3963db4281de4.jpeg"
+            },
+            {
+                "uid": "99b7c8559d664450947a8a85a6528fa9",
+                "width": 1024,
+                "height": 576,
+                "size": 68690,
+                "url": "https://media.sketchfab.com/models/3315d40a4ff84851a6e9a5878fe73592/thumbnails/be9fdcdfa1904df2ab0880f3cbd97463/569ab56c0b55445ebfd6c2cd5e7f0c1b.jpeg"
+            },
+            {
+                "uid": "2e806125aae7446fa04812a56b096162",
+                "width": 720,
+                "height": 405,
+                "size": 37760,
+                "url": "https://media.sketchfab.com/models/3315d40a4ff84851a6e9a5878fe73592/thumbnails/be9fdcdfa1904df2ab0880f3cbd97463/0ead7a9ec54e476fb4a1660ee9b933cd.jpeg"
+            },
+            {
+                "uid": "f2c3815fc7f54b4f9c3ddb8e505775bc",
+                "width": 256,
+                "height": 144,
+                "size": 7391,
+                "url": "https://media.sketchfab.com/models/3315d40a4ff84851a6e9a5878fe73592/thumbnails/be9fdcdfa1904df2ab0880f3cbd97463/b34ce8c212304d63a90395cfca92a96d.jpeg"
+            },
+            {
+                "uid": "72e1571926274bd2bcfd2b52d9890354",
+                "width": 64,
+                "height": 36,
+                "size": 1441,
+                "url": "https://media.sketchfab.com/models/3315d40a4ff84851a6e9a5878fe73592/thumbnails/be9fdcdfa1904df2ab0880f3cbd97463/ca5a0c648af1406688c12ab92eb2fa84.jpeg"
+            }
+        ]
+    },
+    "uid": "3315d40a4ff84851a6e9a5878fe73592",
+    "uri": "https://api.sketchfab.com/v3/models/3315d40a4ff84851a6e9a5878fe73592",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 2958,
+    "viewCount": 31,
+    "viewerUrl": "https://sketchfab.com/3d-models/spaceship-hypn0s-3315d40a4ff84851a6e9a5878fe73592",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/3315d40a4ff84851a6e9a5878fe73592/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-22T14:44:04.459328",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

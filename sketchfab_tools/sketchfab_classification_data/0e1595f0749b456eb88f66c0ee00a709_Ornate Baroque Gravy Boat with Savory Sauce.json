@@ -1,0 +1,67 @@
+{
+    "category": "Food & Drink",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Baroque",
+            "score": 0.6
+        },
+        {
+            "name": "Dramatic",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "3D Render",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "gravy boat",
+        "baroque",
+        "ornate",
+        "sauce",
+        "food",
+        "dining",
+        "cuisine",
+        "vintage"
+    ],
+    "model_id_full": "0e1595f0749b456eb88f66c0ee00a709_Ornate Baroque Gravy Boat with Savory Sauce",
+    "sketchfab_id": "0e1595f0749b456eb88f66c0ee00a709",
+    "asset_name": "Ornate Baroque Gravy Boat with Savory Sauce"
+}

@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T07:56:35.463074",
+    "embedUrl": "https://sketchfab.com/models/087cf2a0cbea4ba094a4586fb4547f42/embed",
+    "faceCount": 4810,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Stylized Helmet",
+    "publishedAt": "2026-02-21T07:59:02.355208",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ca75e75467aa403dac5008bd09b7e369",
+                "width": 1920,
+                "height": 1080,
+                "size": 38920,
+                "url": "https://media.sketchfab.com/models/087cf2a0cbea4ba094a4586fb4547f42/thumbnails/55d16f67a35d4eaa8e449d858c258da0/7220565155824fb58f842d394a154594.jpeg"
+            },
+            {
+                "uid": "57f25f6150db4430a1976589675af391",
+                "width": 1024,
+                "height": 576,
+                "size": 12700,
+                "url": "https://media.sketchfab.com/models/087cf2a0cbea4ba094a4586fb4547f42/thumbnails/55d16f67a35d4eaa8e449d858c258da0/5db909a970334a9196d235c6ba1e2d94.jpeg"
+            },
+            {
+                "uid": "4678045512e541e991b0e2a91669728a",
+                "width": 720,
+                "height": 405,
+                "size": 7329,
+                "url": "https://media.sketchfab.com/models/087cf2a0cbea4ba094a4586fb4547f42/thumbnails/55d16f67a35d4eaa8e449d858c258da0/b0eebe92bb4b44a19fac98c4bd4cc392.jpeg"
+            },
+            {
+                "uid": "847790f1a61c40a8ac5557b42f21ef3c",
+                "width": 256,
+                "height": 144,
+                "size": 1941,
+                "url": "https://media.sketchfab.com/models/087cf2a0cbea4ba094a4586fb4547f42/thumbnails/55d16f67a35d4eaa8e449d858c258da0/a3d1b763435a44458e643f520e64046d.jpeg"
+            },
+            {
+                "uid": "71a4452ac6404c699c7aa36242f73b89",
+                "width": 64,
+                "height": 36,
+                "size": 809,
+                "url": "https://media.sketchfab.com/models/087cf2a0cbea4ba094a4586fb4547f42/thumbnails/55d16f67a35d4eaa8e449d858c258da0/2dfab9b6c8824994a105fcba6be16377.jpeg"
+            }
+        ]
+    },
+    "uid": "087cf2a0cbea4ba094a4586fb4547f42",
+    "uri": "https://api.sketchfab.com/v3/models/087cf2a0cbea4ba094a4586fb4547f42",
+    "user": {
+        "uid": "0a33a6752c7141099a65204c8cb4a95c",
+        "username": "DesignerCafe",
+        "displayName": "DesignerCafe",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DesignerCafe",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0a33a6752c7141099a65204c8cb4a95c"
+    },
+    "vertexCount": 2426,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-helmet-087cf2a0cbea4ba094a4586fb4547f42",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the Original format.The viewer version is intended for web viewing only. In the original file, the following are fully preserved:✔ original scene hierarchy✔ complete materials without reduction✔ correct PBR texture maps✔ proper object namingIf you plan to use this model in production, select the source file.Stylized medieval helmet in old fantasy fashion with pbr textures",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/087cf2a0cbea4ba094a4586fb4547f42/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T07:59:02.495216",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

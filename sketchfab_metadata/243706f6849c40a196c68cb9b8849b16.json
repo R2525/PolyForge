@@ -1,0 +1,186 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-08T22:15:19.755446",
+    "embedUrl": "https://sketchfab.com/models/243706f6849c40a196c68cb9b8849b16/embed",
+    "faceCount": 216,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Dark saber V1 low poly",
+    "publishedAt": "2026-02-08T22:35:58.313271",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "lightsaber",
+            "slug": "lightsaber",
+            "uri": "https://api.sketchfab.com/v3/tags/lightsaber"
+        },
+        {
+            "name": "darksaber",
+            "slug": "darksaber",
+            "uri": "https://api.sketchfab.com/v3/tags/darksaber"
+        },
+        {
+            "name": "beginner-model",
+            "slug": "beginner-model",
+            "uri": "https://api.sketchfab.com/v3/tags/beginner-model"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ac1e42d637d94c3d81665ef305445fc9",
+                "width": 1920,
+                "height": 1080,
+                "size": 35471,
+                "url": "https://media.sketchfab.com/models/243706f6849c40a196c68cb9b8849b16/thumbnails/57fde54ce4c94c0d8f5ad252918b0e86/af6f813326764ce087c739d33d897df5.jpeg"
+            },
+            {
+                "uid": "0bbb84f518b04835b5c1b2480d51d8f2",
+                "width": 1024,
+                "height": 576,
+                "size": 11055,
+                "url": "https://media.sketchfab.com/models/243706f6849c40a196c68cb9b8849b16/thumbnails/57fde54ce4c94c0d8f5ad252918b0e86/7f359f91b8774faba9b1f29f64e3c069.jpeg"
+            },
+            {
+                "uid": "51c6617aee34450488d84bc5bae78e17",
+                "width": 720,
+                "height": 405,
+                "size": 6193,
+                "url": "https://media.sketchfab.com/models/243706f6849c40a196c68cb9b8849b16/thumbnails/57fde54ce4c94c0d8f5ad252918b0e86/314bb43e18714a24a431ba163875364a.jpeg"
+            },
+            {
+                "uid": "b8874fd1f7894b17be25df511a5cd614",
+                "width": 256,
+                "height": 144,
+                "size": 1510,
+                "url": "https://media.sketchfab.com/models/243706f6849c40a196c68cb9b8849b16/thumbnails/57fde54ce4c94c0d8f5ad252918b0e86/ab7ef53e853b40f6b269c7205405579e.jpeg"
+            },
+            {
+                "uid": "7d8a6142611e41608b6d86b2b6d1fec7",
+                "width": 64,
+                "height": 36,
+                "size": 717,
+                "url": "https://media.sketchfab.com/models/243706f6849c40a196c68cb9b8849b16/thumbnails/57fde54ce4c94c0d8f5ad252918b0e86/36555504c2f64986aef8a26a69a7a280.jpeg"
+            }
+        ]
+    },
+    "uid": "243706f6849c40a196c68cb9b8849b16",
+    "uri": "https://api.sketchfab.com/v3/models/243706f6849c40a196c68cb9b8849b16",
+    "user": {
+        "uid": "88fb600ec54044a5ad7211d8853eabd8",
+        "username": "coolguyelimarano",
+        "displayName": "coolguyelimarano",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/coolguyelimarano",
+        "avatar": {
+            "uid": "73bae24b430e4aa6bbada44bb7de0d1f",
+            "uri": "https://api.sketchfab.com/v3/avatars/73bae24b430e4aa6bbada44bb7de0d1f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2645,
+                    "url": "https://media.sketchfab.com/avatars/73bae24b430e4aa6bbada44bb7de0d1f/4e6a059f623d4a2bb3eb70abf9a2faab.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5704,
+                    "url": "https://media.sketchfab.com/avatars/73bae24b430e4aa6bbada44bb7de0d1f/9790800e1ba340439ebd4be3de15db26.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 19296,
+                    "url": "https://media.sketchfab.com/avatars/73bae24b430e4aa6bbada44bb7de0d1f/073910d22cef43d9ac8411dd721a8025.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 23689,
+                    "url": "https://media.sketchfab.com/avatars/73bae24b430e4aa6bbada44bb7de0d1f/d54863d8d631493393f49f6717bc4266.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/88fb600ec54044a5ad7211d8853eabd8"
+    },
+    "vertexCount": 130,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/dark-saber-v1-low-poly-243706f6849c40a196c68cb9b8849b16",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "The Dark saber from star wars. This is my first time creating and publishing somthing using blender 5.0, but i hope to improve the modle in the future. If you go into blender and import this file, you can make it glow by creating a material as emmission. then go to geomatry nodes and add a new one at the top. then when the lines split to group output and viewer, put a glare node and set it to bloom. then go back to layout and next to the renders viewport shading at the top left, click the drop down and select alwayss on compositer. you can also adjust the stranght of the glow in the material settings by sliding strength. If you have any ideas on how i could improve this, plz let me know in the comments!",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/243706f6849c40a196c68cb9b8849b16/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T21:11:46.930359",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 3
+}

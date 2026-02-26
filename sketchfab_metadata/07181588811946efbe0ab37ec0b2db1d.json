@@ -1,0 +1,142 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-08T03:55:36.283419",
+    "embedUrl": "https://sketchfab.com/models/07181588811946efbe0ab37ec0b2db1d/embed",
+    "faceCount": 3286,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Super Smash Bros. Ultimate Bellossom",
+    "publishedAt": "2026-02-08T04:00:45.923653",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "supersmashbros",
+            "slug": "supersmashbros",
+            "uri": "https://api.sketchfab.com/v3/tags/supersmashbros"
+        },
+        {
+            "name": "supersmashbrosultimate",
+            "slug": "supersmashbrosultimate",
+            "uri": "https://api.sketchfab.com/v3/tags/supersmashbrosultimate"
+        },
+        {
+            "name": "bellossom",
+            "slug": "bellossom",
+            "uri": "https://api.sketchfab.com/v3/tags/bellossom"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4d71df9f9b13491d8f3635917874d9a2",
+                "width": 1920,
+                "height": 1080,
+                "size": 322507,
+                "url": "https://media.sketchfab.com/models/07181588811946efbe0ab37ec0b2db1d/thumbnails/94809faa7da149b1aad71edbfadad74b/71c27440d07d4146867c1bde1c4240ec.jpeg"
+            },
+            {
+                "uid": "bef7b5e0315a47358083f9690d9ebf1b",
+                "width": 1024,
+                "height": 576,
+                "size": 55744,
+                "url": "https://media.sketchfab.com/models/07181588811946efbe0ab37ec0b2db1d/thumbnails/94809faa7da149b1aad71edbfadad74b/84cc62273d55403f9edd3f50e1efeba2.jpeg"
+            },
+            {
+                "uid": "b226fc05bb084fe8b108b8cb5628f9d9",
+                "width": 720,
+                "height": 405,
+                "size": 29921,
+                "url": "https://media.sketchfab.com/models/07181588811946efbe0ab37ec0b2db1d/thumbnails/94809faa7da149b1aad71edbfadad74b/2eb9cac2e7bd4dcca81055cb391297ef.jpeg"
+            },
+            {
+                "uid": "fa22493d9c34492cb3eef28af06c7d92",
+                "width": 256,
+                "height": 144,
+                "size": 7033,
+                "url": "https://media.sketchfab.com/models/07181588811946efbe0ab37ec0b2db1d/thumbnails/94809faa7da149b1aad71edbfadad74b/554a911c1ea34100b2d175e099d5e116.jpeg"
+            },
+            {
+                "uid": "2ca38810593e4b7da918a947c9fe803e",
+                "width": 64,
+                "height": 36,
+                "size": 1547,
+                "url": "https://media.sketchfab.com/models/07181588811946efbe0ab37ec0b2db1d/thumbnails/94809faa7da149b1aad71edbfadad74b/6f2dc196788b4d3ba10e9296cdeca042.jpeg"
+            }
+        ]
+    },
+    "uid": "07181588811946efbe0ab37ec0b2db1d",
+    "uri": "https://api.sketchfab.com/v3/models/07181588811946efbe0ab37ec0b2db1d",
+    "user": {
+        "uid": "f54d48d207cf46c48a5a20e0feb75d28",
+        "username": "danielsouzabarbosadasilva078",
+        "displayName": "DANIEL 2",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/danielsouzabarbosadasilva078",
+        "avatar": {
+            "uid": "031abcc839ab479ba91cdc2cdc6f7957",
+            "uri": "https://api.sketchfab.com/v3/avatars/031abcc839ab479ba91cdc2cdc6f7957",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2200,
+                    "url": "https://media.sketchfab.com/avatars/031abcc839ab479ba91cdc2cdc6f7957/402d0bee378642529627db5f74d46516.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4172,
+                    "url": "https://media.sketchfab.com/avatars/031abcc839ab479ba91cdc2cdc6f7957/5e27e1d31772406db9a8e380bce88323.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 10886,
+                    "url": "https://media.sketchfab.com/avatars/031abcc839ab479ba91cdc2cdc6f7957/1c04f2843eb14607af9a864742467427.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 12841,
+                    "url": "https://media.sketchfab.com/avatars/031abcc839ab479ba91cdc2cdc6f7957/85ad06b25d7648d5a4dc8602d2909cb8.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f54d48d207cf46c48a5a20e0feb75d28"
+    },
+    "vertexCount": 1691,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/super-smash-bros-ultimate-bellossom-07181588811946efbe0ab37ec0b2db1d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/07181588811946efbe0ab37ec0b2db1d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-08T04:03:48.266961",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

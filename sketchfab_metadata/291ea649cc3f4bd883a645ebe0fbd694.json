@@ -1,0 +1,184 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-12T19:54:27.923464",
+    "embedUrl": "https://sketchfab.com/models/291ea649cc3f4bd883a645ebe0fbd694/embed",
+    "faceCount": 912282,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Mega Starmie",
+    "publishedAt": "2026-02-19T17:35:04.491083",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "b3d",
+            "slug": "b3d",
+            "uri": "https://api.sketchfab.com/v3/tags/b3d"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "feather3d",
+            "slug": "feather3d",
+            "uri": "https://api.sketchfab.com/v3/tags/feather3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "03aed00cfff14ee3b48291cdc31e7936",
+                "width": 1920,
+                "height": 1080,
+                "size": 203343,
+                "url": "https://media.sketchfab.com/models/291ea649cc3f4bd883a645ebe0fbd694/thumbnails/6c67bec73db64a32a79bc60423f7b4ff/14a4d6f8d0504b758dc29aea7c63943a.jpeg"
+            },
+            {
+                "uid": "59aa9e11f0c34c9cbac2a01ba160f120",
+                "width": 1024,
+                "height": 576,
+                "size": 61059,
+                "url": "https://media.sketchfab.com/models/291ea649cc3f4bd883a645ebe0fbd694/thumbnails/6c67bec73db64a32a79bc60423f7b4ff/dadbdf42a80844448e90bc2094995808.jpeg"
+            },
+            {
+                "uid": "4cde40a6230d42d8a110e878a6d1e42b",
+                "width": 720,
+                "height": 405,
+                "size": 34396,
+                "url": "https://media.sketchfab.com/models/291ea649cc3f4bd883a645ebe0fbd694/thumbnails/6c67bec73db64a32a79bc60423f7b4ff/8ff5d9efb058428ea96519b8396cbe0d.jpeg"
+            },
+            {
+                "uid": "14243232f3104e1199a5d441f1f6dd96",
+                "width": 256,
+                "height": 144,
+                "size": 6111,
+                "url": "https://media.sketchfab.com/models/291ea649cc3f4bd883a645ebe0fbd694/thumbnails/6c67bec73db64a32a79bc60423f7b4ff/478b47b895ad4b44b783621b8249abfe.jpeg"
+            },
+            {
+                "uid": "ad9fa4c0241249aa9662aa149a661599",
+                "width": 64,
+                "height": 36,
+                "size": 1080,
+                "url": "https://media.sketchfab.com/models/291ea649cc3f4bd883a645ebe0fbd694/thumbnails/6c67bec73db64a32a79bc60423f7b4ff/394922f09ff042c68a524719e9bee572.jpeg"
+            }
+        ]
+    },
+    "uid": "291ea649cc3f4bd883a645ebe0fbd694",
+    "uri": "https://api.sketchfab.com/v3/models/291ea649cc3f4bd883a645ebe0fbd694",
+    "user": {
+        "uid": "8d8e9e4b57c44a769d7d0a627436820f",
+        "username": "sy-kim",
+        "displayName": "sy-kim",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/sy-kim",
+        "avatar": {
+            "uid": "db875444afd54933b758c48360a4c2b0",
+            "uri": "https://api.sketchfab.com/v3/avatars/db875444afd54933b758c48360a4c2b0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 843,
+                    "url": "https://media.sketchfab.com/avatars/db875444afd54933b758c48360a4c2b0/bbd1596b78ec4528a494e6b6c013b92b.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1606,
+                    "url": "https://media.sketchfab.com/avatars/db875444afd54933b758c48360a4c2b0/e5b19a7f57104a01b6208f5c2aee89d0.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4449,
+                    "url": "https://media.sketchfab.com/avatars/db875444afd54933b758c48360a4c2b0/fa6ffac89af94d5dbd17be1cb3932cc2.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5293,
+                    "url": "https://media.sketchfab.com/avatars/db875444afd54933b758c48360a4c2b0/e6edfbdd05bd493fa6d56cb62c97bad5.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8d8e9e4b57c44a769d7d0a627436820f"
+    },
+    "vertexCount": 467337,
+    "viewCount": 25,
+    "viewerUrl": "https://sketchfab.com/3d-models/mega-starmie-291ea649cc3f4bd883a645ebe0fbd694",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Mega Starmie from Pokemon series\n\nmade with feather3d",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/291ea649cc3f4bd883a645ebe0fbd694/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T18:52:04.320420",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 14
+}

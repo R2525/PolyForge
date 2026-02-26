@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T16:39:23.423115",
+    "embedUrl": "https://sketchfab.com/models/31f50082d47d49ab85436205c3e93514/embed",
+    "faceCount": 43376,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Neon Sign Exit",
+    "publishedAt": "2026-02-21T16:40:01.136076",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "board",
+            "slug": "board",
+            "uri": "https://api.sketchfab.com/v3/tags/board"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "sign",
+            "slug": "sign",
+            "uri": "https://api.sketchfab.com/v3/tags/sign"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "chinese",
+            "slug": "chinese",
+            "uri": "https://api.sketchfab.com/v3/tags/chinese"
+        },
+        {
+            "name": "exit",
+            "slug": "exit",
+            "uri": "https://api.sketchfab.com/v3/tags/exit"
+        },
+        {
+            "name": "glowing",
+            "slug": "glowing",
+            "uri": "https://api.sketchfab.com/v3/tags/glowing"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7d2431b5fcb2428699729d759a96e408",
+                "width": 1920,
+                "height": 1080,
+                "size": 50738,
+                "url": "https://media.sketchfab.com/models/31f50082d47d49ab85436205c3e93514/thumbnails/49146e7c5e864744b6861eb7ab2c5aa5/d342be06eb9a4ab994d605eea284de11.jpeg"
+            },
+            {
+                "uid": "3ccff7de2dc04eb2a4ad97724087ec49",
+                "width": 1024,
+                "height": 576,
+                "size": 17620,
+                "url": "https://media.sketchfab.com/models/31f50082d47d49ab85436205c3e93514/thumbnails/49146e7c5e864744b6861eb7ab2c5aa5/f2626cfbba5b49bfbd5f31b9bcf87494.jpeg"
+            },
+            {
+                "uid": "be967d07b0444549ad9d31a10a9a89ce",
+                "width": 720,
+                "height": 405,
+                "size": 9812,
+                "url": "https://media.sketchfab.com/models/31f50082d47d49ab85436205c3e93514/thumbnails/49146e7c5e864744b6861eb7ab2c5aa5/023350d24b604dd1bd7feac17e85ca7a.jpeg"
+            },
+            {
+                "uid": "aaed135773604a2096896e3648897604",
+                "width": 256,
+                "height": 144,
+                "size": 2132,
+                "url": "https://media.sketchfab.com/models/31f50082d47d49ab85436205c3e93514/thumbnails/49146e7c5e864744b6861eb7ab2c5aa5/8eedb8d58a4f46ba856b74ee9b0996ac.jpeg"
+            },
+            {
+                "uid": "c94892c49dec4834896583df07c96963",
+                "width": 64,
+                "height": 36,
+                "size": 755,
+                "url": "https://media.sketchfab.com/models/31f50082d47d49ab85436205c3e93514/thumbnails/49146e7c5e864744b6861eb7ab2c5aa5/e0354e5fc2af4e13aea6ff1d4fb6f587.jpeg"
+            }
+        ]
+    },
+    "uid": "31f50082d47d49ab85436205c3e93514",
+    "uri": "https://api.sketchfab.com/v3/models/31f50082d47d49ab85436205c3e93514",
+    "user": {
+        "uid": "5e3808ef3a514a819ae63fabcd920f5d",
+        "username": "hojib57398",
+        "displayName": "hojib57398",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hojib57398",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5e3808ef3a514a819ae63fabcd920f5d"
+    },
+    "vertexCount": 21744,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/neon-sign-exit-31f50082d47d49ab85436205c3e93514",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the source format.The viewer version is intended exclusively for browser preview. In the source file, the following are fully preserved:✔ full scene structure✔ all materials without simplification✔ accurate texture maps✔ proper object namingIf you plan to use this model in production, choose the source file.Light up your scenes with this neon sign Exit. You can fully change the materials according to your needs. It is perfect for cyberpunk streets cities industrial scenes a glare node set to bloom in the compositor to get the exact look as the thumbnail.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/31f50082d47d49ab85436205c3e93514/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T16:40:01.356679",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 2
+}

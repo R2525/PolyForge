@@ -1,0 +1,44 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Horror",
+            "score": 0.85
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "style": "Retro / PS1",
+    "top_styles": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.9
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Broken",
+        "Blood-stained",
+        "Dusty"
+    ],
+    "tags": [
+        "robot",
+        "creature",
+        "disassembled",
+        "old",
+        "damaged"
+    ]
+}

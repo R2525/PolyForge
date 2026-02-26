@@ -1,0 +1,344 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-15T15:42:03.950660",
+    "embedUrl": "https://sketchfab.com/models/0136b95e19b649f6b67aa9fcce8f3465/embed",
+    "faceCount": 494603,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Gothic Village Piaszno – Vineyard Building",
+    "publishedAt": "2026-02-15T16:22:56.056609",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "capture",
+            "slug": "capture",
+            "uri": "https://api.sketchfab.com/v3/tags/capture"
+        },
+        {
+            "name": "poland",
+            "slug": "poland",
+            "uri": "https://api.sketchfab.com/v3/tags/poland"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "reality",
+            "slug": "reality",
+            "uri": "https://api.sketchfab.com/v3/tags/reality"
+        },
+        {
+            "name": "twin",
+            "slug": "twin",
+            "uri": "https://api.sketchfab.com/v3/tags/twin"
+        },
+        {
+            "name": "heritage",
+            "slug": "heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage"
+        },
+        {
+            "name": "reconstruction",
+            "slug": "reconstruction",
+            "uri": "https://api.sketchfab.com/v3/tags/reconstruction"
+        },
+        {
+            "name": "polska",
+            "slug": "polska",
+            "uri": "https://api.sketchfab.com/v3/tags/polska"
+        },
+        {
+            "name": "gothic",
+            "slug": "gothic",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic"
+        },
+        {
+            "name": "engine",
+            "slug": "engine",
+            "uri": "https://api.sketchfab.com/v3/tags/engine"
+        },
+        {
+            "name": "Europe",
+            "slug": "europe",
+            "uri": "https://api.sketchfab.com/v3/tags/europe"
+        },
+        {
+            "name": "circles",
+            "slug": "circles",
+            "uri": "https://api.sketchfab.com/v3/tags/circles"
+        },
+        {
+            "name": "Settlement",
+            "slug": "settlement",
+            "uri": "https://api.sketchfab.com/v3/tags/settlement"
+        },
+        {
+            "name": "gothicarchitecture",
+            "slug": "gothicarchitecture",
+            "uri": "https://api.sketchfab.com/v3/tags/gothicarchitecture"
+        },
+        {
+            "name": "dziedzictwo",
+            "slug": "dziedzictwo",
+            "uri": "https://api.sketchfab.com/v3/tags/dziedzictwo"
+        },
+        {
+            "name": "pomerania",
+            "slug": "pomerania",
+            "uri": "https://api.sketchfab.com/v3/tags/pomerania"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "archaeology",
+            "slug": "archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology"
+        },
+        {
+            "name": "scan",
+            "slug": "scan",
+            "uri": "https://api.sketchfab.com/v3/tags/scan"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "digital",
+            "slug": "digital",
+            "uri": "https://api.sketchfab.com/v3/tags/digital"
+        },
+        {
+            "name": "village",
+            "slug": "village",
+            "uri": "https://api.sketchfab.com/v3/tags/village"
+        },
+        {
+            "name": "kashubia",
+            "slug": "kashubia",
+            "uri": "https://api.sketchfab.com/v3/tags/kashubia"
+        },
+        {
+            "name": "pomorze",
+            "slug": "pomorze",
+            "uri": "https://api.sketchfab.com/v3/tags/pomorze"
+        },
+        {
+            "name": "kamienne",
+            "slug": "kamienne",
+            "uri": "https://api.sketchfab.com/v3/tags/kamienne"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "gaussian",
+            "slug": "gaussian",
+            "uri": "https://api.sketchfab.com/v3/tags/gaussian"
+        },
+        {
+            "name": "splatting",
+            "slug": "splatting",
+            "uri": "https://api.sketchfab.com/v3/tags/splatting"
+        },
+        {
+            "name": "biskupin",
+            "slug": "biskupin",
+            "uri": "https://api.sketchfab.com/v3/tags/biskupin"
+        },
+        {
+            "name": "wioska",
+            "slug": "wioska",
+            "uri": "https://api.sketchfab.com/v3/tags/wioska"
+        },
+        {
+            "name": "gotow",
+            "slug": "gotow",
+            "uri": "https://api.sketchfab.com/v3/tags/gotow"
+        },
+        {
+            "name": "piaszno",
+            "slug": "piaszno",
+            "uri": "https://api.sketchfab.com/v3/tags/piaszno"
+        },
+        {
+            "name": "kaszuby",
+            "slug": "kaszuby",
+            "uri": "https://api.sketchfab.com/v3/tags/kaszuby"
+        },
+        {
+            "name": "kregi",
+            "slug": "kregi",
+            "uri": "https://api.sketchfab.com/v3/tags/kregi"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8b0ee665bb7349cc977f85d8c5ea78bd",
+                "width": 1920,
+                "height": 1080,
+                "size": 281035,
+                "url": "https://media.sketchfab.com/models/0136b95e19b649f6b67aa9fcce8f3465/thumbnails/a7f2d97e2b3c46728d3281814b6625b7/c0522030f3e343b496c6212559ca7cef.jpeg"
+            },
+            {
+                "uid": "665a491cedac47e9b9c2eab09b7bdbde",
+                "width": 1024,
+                "height": 576,
+                "size": 74346,
+                "url": "https://media.sketchfab.com/models/0136b95e19b649f6b67aa9fcce8f3465/thumbnails/a7f2d97e2b3c46728d3281814b6625b7/b1ecc9dd16814a2fa131e9f3008432c8.jpeg"
+            },
+            {
+                "uid": "c492688470e84b4bbcd38a140b0d123e",
+                "width": 720,
+                "height": 405,
+                "size": 39113,
+                "url": "https://media.sketchfab.com/models/0136b95e19b649f6b67aa9fcce8f3465/thumbnails/a7f2d97e2b3c46728d3281814b6625b7/972e3527ec364346b06a184ce7204f24.jpeg"
+            },
+            {
+                "uid": "7b0fe29a05754894a631b8fd7e4f3135",
+                "width": 256,
+                "height": 144,
+                "size": 6155,
+                "url": "https://media.sketchfab.com/models/0136b95e19b649f6b67aa9fcce8f3465/thumbnails/a7f2d97e2b3c46728d3281814b6625b7/4f3020704de2460ab4ebde2fcab276f8.jpeg"
+            },
+            {
+                "uid": "154b1178bbcd4e4c91090320632b9937",
+                "width": 64,
+                "height": 36,
+                "size": 1157,
+                "url": "https://media.sketchfab.com/models/0136b95e19b649f6b67aa9fcce8f3465/thumbnails/a7f2d97e2b3c46728d3281814b6625b7/7acd380dcfa043cca6aa97ed9856acc6.jpeg"
+            }
+        ]
+    },
+    "uid": "0136b95e19b649f6b67aa9fcce8f3465",
+    "uri": "https://api.sketchfab.com/v3/models/0136b95e19b649f6b67aa9fcce8f3465",
+    "user": {
+        "uid": "99b3a95338344fb69a3b1658025e4f81",
+        "username": "lama99",
+        "displayName": "PGSimulation",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/lama99",
+        "avatar": {
+            "uid": "bd3165c8b03a459d96ca4695ccb309dc",
+            "uri": "https://api.sketchfab.com/v3/avatars/bd3165c8b03a459d96ca4695ccb309dc",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1006,
+                    "url": "https://media.sketchfab.com/avatars/bd3165c8b03a459d96ca4695ccb309dc/d3ad39ebd5534f4894d1ae1b6ff0c4ec.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1185,
+                    "url": "https://media.sketchfab.com/avatars/bd3165c8b03a459d96ca4695ccb309dc/1e5c93c6c3e540ee811c6a26c635b40a.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2149,
+                    "url": "https://media.sketchfab.com/avatars/bd3165c8b03a459d96ca4695ccb309dc/bd6b53ac05304cdb9dcbda7e1ae3be2c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2363,
+                    "url": "https://media.sketchfab.com/avatars/bd3165c8b03a459d96ca4695ccb309dc/263b625ce3154fd7859d67b99f62384a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/99b3a95338344fb69a3b1658025e4f81"
+    },
+    "vertexCount": 265636,
+    "viewCount": 60,
+    "viewerUrl": "https://sketchfab.com/3d-models/gothic-village-piaszno-vineyard-building-0136b95e19b649f6b67aa9fcce8f3465",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Gothic Village Piaszno – Vineyard Structure | 3D Heritage Archive\n\nA unique addition to medieval reconstruction functional vineyard building showing early agricultural practices\nBuilt in the 1990s-2000s near Bytów by Klemens Leman, who dreamed of recreating the atmosphere of Biskupin right in Kashubia Part of experimental archaeology approach\nFeatures stone circles hidden in forest, traditional wooden buildings, kitchen, vineyard, and 22-meter observation tower with panoramic views \n\nUE5 Visualization \n[Imgur all images](https://imgur.com/a/wioska-gotow-JomL2vJ)\n![](https://i.imgur.com/OMkbevr.jpeg)\n![](https://i.imgur.com/G69Ozwc.jpeg)\n![](https://i.imgur.com/laCRyLB.jpeg)\n![](https://i.imgur.com/CZ8jyth.jpeg)\n\nExplore more:\n🔗 [PL Gothic Village Piaszno](https://www.szaryburek.pl/2025/02/01/wioska-gotow-na-kaszubach)\n\n54.08663701998958, 17.369547018058913",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0136b95e19b649f6b67aa9fcce8f3465/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-15T16:22:56.828462",
+    "pbrType": null,
+    "textureCount": 8,
+    "materialCount": 8
+}

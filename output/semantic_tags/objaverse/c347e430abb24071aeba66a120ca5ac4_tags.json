@@ -1,0 +1,42 @@
+{
+    "category": "Architecture",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.75
+        },
+        {
+            "name": "Modern",
+            "score": 0.65
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.9
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Wet",
+        "Glow",
+        "Clean"
+    ],
+    "tags": [
+        "glass dome",
+        "aquarium",
+        "underwater"
+    ]
+}

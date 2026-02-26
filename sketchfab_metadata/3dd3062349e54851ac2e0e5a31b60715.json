@@ -1,0 +1,206 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-10-11T23:28:25.646372",
+    "embedUrl": "https://sketchfab.com/models/3dd3062349e54851ac2e0e5a31b60715/embed",
+    "faceCount": 4840,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Cannon",
+    "publishedAt": "2025-10-11T23:41:19.385546",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "wheels",
+            "slug": "wheels",
+            "uri": "https://api.sketchfab.com/v3/tags/wheels"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "Cannon",
+            "slug": "cannon",
+            "uri": "https://api.sketchfab.com/v3/tags/cannon"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "ship",
+            "slug": "ship",
+            "uri": "https://api.sketchfab.com/v3/tags/ship"
+        },
+        {
+            "name": "pirate",
+            "slug": "pirate",
+            "uri": "https://api.sketchfab.com/v3/tags/pirate"
+        },
+        {
+            "name": "war",
+            "slug": "war",
+            "uri": "https://api.sketchfab.com/v3/tags/war"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "07a8e64ebeba4fa7bd2932985a93235f",
+                "width": 1920,
+                "height": 1080,
+                "size": 133987,
+                "url": "https://media.sketchfab.com/models/3dd3062349e54851ac2e0e5a31b60715/thumbnails/ba227cbb0ea5498fb776ea42cab85205/85afd688d4b647c091cb793545f11433.jpeg"
+            },
+            {
+                "uid": "8eff85ddfd534cb2a235b2028d0e6cf5",
+                "width": 1024,
+                "height": 576,
+                "size": 46813,
+                "url": "https://media.sketchfab.com/models/3dd3062349e54851ac2e0e5a31b60715/thumbnails/ba227cbb0ea5498fb776ea42cab85205/d012b2b2b39d476f8de495991a7e8bc6.jpeg"
+            },
+            {
+                "uid": "c166e40176a642bc9b311021365e6401",
+                "width": 720,
+                "height": 405,
+                "size": 27994,
+                "url": "https://media.sketchfab.com/models/3dd3062349e54851ac2e0e5a31b60715/thumbnails/ba227cbb0ea5498fb776ea42cab85205/f44a22997ce24bed9a1fe73f661f56e1.jpeg"
+            },
+            {
+                "uid": "ac40be029ff74ca7ba1bbb13bd2be21f",
+                "width": 256,
+                "height": 144,
+                "size": 6124,
+                "url": "https://media.sketchfab.com/models/3dd3062349e54851ac2e0e5a31b60715/thumbnails/ba227cbb0ea5498fb776ea42cab85205/89e346096d644e8db794c707558131b3.jpeg"
+            },
+            {
+                "uid": "5bd0e2b5d7384f8dadcbe6e9e0894e9e",
+                "width": 64,
+                "height": 36,
+                "size": 1328,
+                "url": "https://media.sketchfab.com/models/3dd3062349e54851ac2e0e5a31b60715/thumbnails/ba227cbb0ea5498fb776ea42cab85205/64e4b098cf1b4b839aec16f831932a33.jpeg"
+            }
+        ]
+    },
+    "uid": "3dd3062349e54851ac2e0e5a31b60715",
+    "uri": "https://api.sketchfab.com/v3/models/3dd3062349e54851ac2e0e5a31b60715",
+    "user": {
+        "uid": "4da529d8f0794b0889da2ce495dfd11a",
+        "username": "alsoliman905",
+        "displayName": "ChoboiAssets",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alsoliman905",
+        "avatar": {
+            "uid": "c7d395be28bc4bc0bd3914cf8c18e686",
+            "uri": "https://api.sketchfab.com/v3/avatars/c7d395be28bc4bc0bd3914cf8c18e686",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2712,
+                    "url": "https://media.sketchfab.com/avatars/c7d395be28bc4bc0bd3914cf8c18e686/4f2b80c69f7c415197c756c73f6a2227.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5673,
+                    "url": "https://media.sketchfab.com/avatars/c7d395be28bc4bc0bd3914cf8c18e686/354ae673c7ee4c35ab79c85bea3f4312.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 18231,
+                    "url": "https://media.sketchfab.com/avatars/c7d395be28bc4bc0bd3914cf8c18e686/7cfdc98e2fbd4697b4f0ce1d06a2599d.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 22125,
+                    "url": "https://media.sketchfab.com/avatars/c7d395be28bc4bc0bd3914cf8c18e686/cd313eaae53c4db2945391e2cd4e98c1.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4da529d8f0794b0889da2ce495dfd11a"
+    },
+    "vertexCount": 2234,
+    "viewCount": 37,
+    "viewerUrl": "https://sketchfab.com/3d-models/cannon-3dd3062349e54851ac2e0e5a31b60715",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "a basic cannon made with cast iron and wood, doesnt look the best but it shoots.\n\na lowpoly-ish cannon  and is free for download",
+    "price": null,
+    "downloadCount": 16,
+    "editorUrl": "https://sketchfab.com/models/3dd3062349e54851ac2e0e5a31b60715/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-10-11T23:41:19.504204",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

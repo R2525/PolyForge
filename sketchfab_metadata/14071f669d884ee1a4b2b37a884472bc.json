@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T09:12:45.517615",
+    "embedUrl": "https://sketchfab.com/models/14071f669d884ee1a4b2b37a884472bc/embed",
+    "faceCount": 8,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Hexagonal Pattern Metal Floor",
+    "publishedAt": "2026-02-20T09:13:22.361881",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "hexagon",
+            "slug": "hexagon",
+            "uri": "https://api.sketchfab.com/v3/tags/hexagon"
+        },
+        {
+            "name": "floor",
+            "slug": "floor",
+            "uri": "https://api.sketchfab.com/v3/tags/floor"
+        },
+        {
+            "name": "pattern",
+            "slug": "pattern",
+            "uri": "https://api.sketchfab.com/v3/tags/pattern"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "technology",
+            "slug": "technology",
+            "uri": "https://api.sketchfab.com/v3/tags/technology"
+        },
+        {
+            "name": "interior",
+            "slug": "interior",
+            "uri": "https://api.sketchfab.com/v3/tags/interior"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "83dc94561e9643d09b5a2bce3a36270d",
+                "width": 1920,
+                "height": 1080,
+                "size": 36404,
+                "url": "https://media.sketchfab.com/models/14071f669d884ee1a4b2b37a884472bc/thumbnails/989c48a68fa94cef81a6af6783543737/c22e65fbabdf426d90bce1d90696208c.jpeg"
+            },
+            {
+                "uid": "097d4eb605b24273a94bea5767db6cac",
+                "width": 1024,
+                "height": 576,
+                "size": 11316,
+                "url": "https://media.sketchfab.com/models/14071f669d884ee1a4b2b37a884472bc/thumbnails/989c48a68fa94cef81a6af6783543737/536ca2790041453385c41717c9e92f3f.jpeg"
+            },
+            {
+                "uid": "46b48c8160074be08dd66e1f30042a07",
+                "width": 720,
+                "height": 405,
+                "size": 6427,
+                "url": "https://media.sketchfab.com/models/14071f669d884ee1a4b2b37a884472bc/thumbnails/989c48a68fa94cef81a6af6783543737/c4621a50ad5e4e649d43611404f1da45.jpeg"
+            },
+            {
+                "uid": "ef2bf8e1d059423398078f17b7a1efd4",
+                "width": 256,
+                "height": 144,
+                "size": 1627,
+                "url": "https://media.sketchfab.com/models/14071f669d884ee1a4b2b37a884472bc/thumbnails/989c48a68fa94cef81a6af6783543737/04928785a11c4fa48fbac75a74f7a09b.jpeg"
+            },
+            {
+                "uid": "ec425df6978c41169556dd424a79a4b0",
+                "width": 64,
+                "height": 36,
+                "size": 767,
+                "url": "https://media.sketchfab.com/models/14071f669d884ee1a4b2b37a884472bc/thumbnails/989c48a68fa94cef81a6af6783543737/1fdb93f83ad142c6b2e366ad97c848b4.jpeg"
+            }
+        ]
+    },
+    "uid": "14071f669d884ee1a4b2b37a884472bc",
+    "uri": "https://api.sketchfab.com/v3/models/14071f669d884ee1a4b2b37a884472bc",
+    "user": {
+        "uid": "9322a6e0d21c470baf7d6a2a70228597",
+        "username": "josewolf",
+        "displayName": "josewolf",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/josewolf",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9322a6e0d21c470baf7d6a2a70228597"
+    },
+    "vertexCount": 9,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/hexagonal-pattern-metal-floor-14071f669d884ee1a4b2b37a884472bc",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "High quality metal floor with a hexagonal pattern. Perfect for sci fi interiors industrial environments corridors and futuristic scenes. Clean topology optimized geometry and ready to use in Blender.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/14071f669d884ee1a4b2b37a884472bc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T09:13:22.577621",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

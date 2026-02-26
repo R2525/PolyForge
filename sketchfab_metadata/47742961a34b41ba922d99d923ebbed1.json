@@ -1,0 +1,147 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-04T17:52:16.053436",
+    "embedUrl": "https://sketchfab.com/models/47742961a34b41ba922d99d923ebbed1/embed",
+    "faceCount": 8350,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "gray sylveon (from channel @SimpleThingsiO)",
+    "publishedAt": "2026-02-04T18:12:33.532560",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d8a8e87a9c5f4d5bbae1c23959ff6a90",
+                "width": 1920,
+                "height": 1080,
+                "size": 86205,
+                "url": "https://media.sketchfab.com/models/47742961a34b41ba922d99d923ebbed1/thumbnails/5ab28b256dbb48ba8bc6b321fed58e44/7852434dcb414a678b9e508e962054bd.jpeg"
+            },
+            {
+                "uid": "1a12a68c529340c1b53d753b165181f8",
+                "width": 1024,
+                "height": 576,
+                "size": 32784,
+                "url": "https://media.sketchfab.com/models/47742961a34b41ba922d99d923ebbed1/thumbnails/5ab28b256dbb48ba8bc6b321fed58e44/31dde5258f1b43a3a09f7313ad208e5f.jpeg"
+            },
+            {
+                "uid": "0567700be91b456ebbb742451b4ca76d",
+                "width": 720,
+                "height": 405,
+                "size": 20562,
+                "url": "https://media.sketchfab.com/models/47742961a34b41ba922d99d923ebbed1/thumbnails/5ab28b256dbb48ba8bc6b321fed58e44/d634d669a76746cf9ede6480552b13db.jpeg"
+            },
+            {
+                "uid": "376f4333cde04fc08bf9142442666c7f",
+                "width": 256,
+                "height": 144,
+                "size": 5745,
+                "url": "https://media.sketchfab.com/models/47742961a34b41ba922d99d923ebbed1/thumbnails/5ab28b256dbb48ba8bc6b321fed58e44/fe9c71aebf324a099435de47e95f93cb.jpeg"
+            },
+            {
+                "uid": "bc570935215a4caab3c256bd46f4017e",
+                "width": 64,
+                "height": 36,
+                "size": 1373,
+                "url": "https://media.sketchfab.com/models/47742961a34b41ba922d99d923ebbed1/thumbnails/5ab28b256dbb48ba8bc6b321fed58e44/2eaa80514264442f83d782be19eab477.jpeg"
+            }
+        ]
+    },
+    "uid": "47742961a34b41ba922d99d923ebbed1",
+    "uri": "https://api.sketchfab.com/v3/models/47742961a34b41ba922d99d923ebbed1",
+    "user": {
+        "uid": "3f9b811584614247aec9974a42e7e3f9",
+        "username": "luisfelipra067",
+        "displayName": "anubispalworld534",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/luisfelipra067",
+        "avatar": {
+            "uid": "db7be0b0c581400e9887cb6720cce44e",
+            "uri": "https://api.sketchfab.com/v3/avatars/db7be0b0c581400e9887cb6720cce44e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 897,
+                    "url": "https://media.sketchfab.com/avatars/db7be0b0c581400e9887cb6720cce44e/df6d325d44f4453ea452d4498bdb4a97.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1087,
+                    "url": "https://media.sketchfab.com/avatars/db7be0b0c581400e9887cb6720cce44e/b9b24d3c4c784c99b1789c3f2d401149.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1943,
+                    "url": "https://media.sketchfab.com/avatars/db7be0b0c581400e9887cb6720cce44e/c3a365af0e9d4b30b98089d7f12f80c7.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2169,
+                    "url": "https://media.sketchfab.com/avatars/db7be0b0c581400e9887cb6720cce44e/7d6ec0a01a544c7e83c9062a4e5e740f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3f9b811584614247aec9974a42e7e3f9"
+    },
+    "vertexCount": 4246,
+    "viewCount": 34,
+    "viewerUrl": "https://sketchfab.com/3d-models/gray-sylveon-from-channel-simplethingsio-47742961a34b41ba922d99d923ebbed1",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "i made the texture in base of gray sylveon from the channel vaporen in youtube @SimpleThingsiO, in posts he put that gray sylveon and espeon and i made a texture of the real gray sylveon from vaporen channel",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/47742961a34b41ba922d99d923ebbed1/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-13T06:08:24.651143",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 4
+}

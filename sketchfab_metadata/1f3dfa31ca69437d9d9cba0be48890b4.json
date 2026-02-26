@@ -1,0 +1,152 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T01:27:01.248962",
+    "embedUrl": "https://sketchfab.com/models/1f3dfa31ca69437d9d9cba0be48890b4/embed",
+    "faceCount": 1020,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "LOW POLY TREE WITHOUT COLOR",
+    "publishedAt": "2026-02-23T01:28:43.958064",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4cc0af42b0ba4249816ef574b4b8587e",
+                "width": 1920,
+                "height": 1080,
+                "size": 45920,
+                "url": "https://media.sketchfab.com/models/1f3dfa31ca69437d9d9cba0be48890b4/thumbnails/f74fe061784b4663b492177aeda068a4/1582f4ea6ea44bccb649e5b35d8fab2a.jpeg"
+            },
+            {
+                "uid": "de14cd8c74434ecd979851d9c26a16fc",
+                "width": 1024,
+                "height": 576,
+                "size": 15316,
+                "url": "https://media.sketchfab.com/models/1f3dfa31ca69437d9d9cba0be48890b4/thumbnails/f74fe061784b4663b492177aeda068a4/87d2b4a10037428fbf62c4f27ecf1155.jpeg"
+            },
+            {
+                "uid": "79bdc7bded5c4ac5b28a14cb0f6c5624",
+                "width": 720,
+                "height": 405,
+                "size": 8931,
+                "url": "https://media.sketchfab.com/models/1f3dfa31ca69437d9d9cba0be48890b4/thumbnails/f74fe061784b4663b492177aeda068a4/24a6e24ad6ea46d0a9673c5d03cfc435.jpeg"
+            },
+            {
+                "uid": "a70e30136ee74bceb04a582653f9e60e",
+                "width": 256,
+                "height": 144,
+                "size": 2204,
+                "url": "https://media.sketchfab.com/models/1f3dfa31ca69437d9d9cba0be48890b4/thumbnails/f74fe061784b4663b492177aeda068a4/1d5bf322adbd4bb8bc9ce6aa7ad8e3b5.jpeg"
+            },
+            {
+                "uid": "5fcae2a0d6a64b9385acec5f4a1c759f",
+                "width": 64,
+                "height": 36,
+                "size": 856,
+                "url": "https://media.sketchfab.com/models/1f3dfa31ca69437d9d9cba0be48890b4/thumbnails/f74fe061784b4663b492177aeda068a4/a13f1baf7929486bb500ba5d712bf01b.jpeg"
+            }
+        ]
+    },
+    "uid": "1f3dfa31ca69437d9d9cba0be48890b4",
+    "uri": "https://api.sketchfab.com/v3/models/1f3dfa31ca69437d9d9cba0be48890b4",
+    "user": {
+        "uid": "9663ecda4137468b870d536219f3d62c",
+        "username": "Honefront201030",
+        "displayName": "Honefront201030",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Honefront201030",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9663ecda4137468b870d536219f3d62c"
+    },
+    "vertexCount": 276,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-tree-without-color-1f3dfa31ca69437d9d9cba0be48890b4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "THIS IS MY FIRST LOW POLY TREE I MADE IN BLENDER",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/1f3dfa31ca69437d9d9cba0be48890b4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T01:28:44.100994",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-09-13T13:24:29.640026",
+    "embedUrl": "https://sketchfab.com/models/2aa1dc71e08b46a199ddbc623615a28a/embed",
+    "faceCount": 768,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "GHIBLI FOOD MINECRAFT V2",
+    "publishedAt": "2025-09-13T13:26:51.303803",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "food",
+            "slug": "food",
+            "uri": "https://api.sketchfab.com/v3/tags/food"
+        },
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "64065e4a1e6f4bec9dd243446c8fc58f",
+                "width": 1920,
+                "height": 1080,
+                "size": 106490,
+                "url": "https://media.sketchfab.com/models/2aa1dc71e08b46a199ddbc623615a28a/thumbnails/5a190bcaf2f940d8ab7c84d573570e79/b44a47b9d6a94d05a12839de0394cb53.jpeg"
+            },
+            {
+                "uid": "75e5cdae34f54914b5dfb6c78d140c97",
+                "width": 1024,
+                "height": 576,
+                "size": 41035,
+                "url": "https://media.sketchfab.com/models/2aa1dc71e08b46a199ddbc623615a28a/thumbnails/5a190bcaf2f940d8ab7c84d573570e79/ef76b6981189490a92e4b1d5a6f1ad80.jpeg"
+            },
+            {
+                "uid": "62d036fab2e047d393fb8be755e8c0fa",
+                "width": 720,
+                "height": 405,
+                "size": 24850,
+                "url": "https://media.sketchfab.com/models/2aa1dc71e08b46a199ddbc623615a28a/thumbnails/5a190bcaf2f940d8ab7c84d573570e79/e65b01a7c761433aa4ba559af913f71b.jpeg"
+            },
+            {
+                "uid": "7807adef4e8c4fbfa4ded24f6acd4122",
+                "width": 256,
+                "height": 144,
+                "size": 5458,
+                "url": "https://media.sketchfab.com/models/2aa1dc71e08b46a199ddbc623615a28a/thumbnails/5a190bcaf2f940d8ab7c84d573570e79/3667bbfcbc734f3bbb71de73cf26c0d5.jpeg"
+            },
+            {
+                "uid": "a0c55013d494476e9b3007a6e42d0039",
+                "width": 64,
+                "height": 36,
+                "size": 1197,
+                "url": "https://media.sketchfab.com/models/2aa1dc71e08b46a199ddbc623615a28a/thumbnails/5a190bcaf2f940d8ab7c84d573570e79/eea2a46ab1f54846a7cb4208c8edf250.jpeg"
+            }
+        ]
+    },
+    "uid": "2aa1dc71e08b46a199ddbc623615a28a",
+    "uri": "https://api.sketchfab.com/v3/models/2aa1dc71e08b46a199ddbc623615a28a",
+    "user": {
+        "uid": "3ebcf6e7c2174604a5a1699d1132ecf6",
+        "username": "Limoshop",
+        "displayName": "Limo Store",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Limoshop",
+        "avatar": {
+            "uid": "1df9caf6ab4b4b97858feca3d1ff082c",
+            "uri": "https://api.sketchfab.com/v3/avatars/1df9caf6ab4b4b97858feca3d1ff082c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1652,
+                    "url": "https://media.sketchfab.com/avatars/1df9caf6ab4b4b97858feca3d1ff082c/c09a151d419c4bec900b4f279a6f3d01.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2808,
+                    "url": "https://media.sketchfab.com/avatars/1df9caf6ab4b4b97858feca3d1ff082c/8cf0da3f3c00457a84bafc309c9d0b58.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5550,
+                    "url": "https://media.sketchfab.com/avatars/1df9caf6ab4b4b97858feca3d1ff082c/d5e12c8b50414b8cb22697af89c05053.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6141,
+                    "url": "https://media.sketchfab.com/avatars/1df9caf6ab4b4b97858feca3d1ff082c/ba351ac53544496fa4d6b0f1b796bebd.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3ebcf6e7c2174604a5a1699d1132ecf6"
+    },
+    "vertexCount": 512,
+    "viewCount": 48,
+    "viewerUrl": "https://sketchfab.com/3d-models/ghibli-food-minecraft-v2-2aa1dc71e08b46a199ddbc623615a28a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2aa1dc71e08b46a199ddbc623615a28a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-09-13T13:26:51.406948",
+    "pbrType": null,
+    "textureCount": 6,
+    "materialCount": 6
+}

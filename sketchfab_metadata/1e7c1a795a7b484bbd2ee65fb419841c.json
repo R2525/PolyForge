@@ -1,0 +1,114 @@
+{
+    "animationCount": 3,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-06-09T23:02:52.612863",
+    "embedUrl": "https://sketchfab.com/models/1e7c1a795a7b484bbd2ee65fb419841c/embed",
+    "faceCount": 55620,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Kessen_Jens_ShowMeWhatYou'veGot_3D_2025",
+    "publishedAt": "2025-06-09T23:15:06.576480",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4dae457e030a454b94a6ab3a002d1ea5",
+                "width": 1920,
+                "height": 1080,
+                "size": 123332,
+                "url": "https://media.sketchfab.com/models/1e7c1a795a7b484bbd2ee65fb419841c/thumbnails/92a1e3db212c408baae33858b7c83dd7/3f0fc29a7edc4825bd0c3225948b597a.jpeg"
+            },
+            {
+                "uid": "a33a8a15cf4c45988ad9c3d7a3b91fb7",
+                "width": 1024,
+                "height": 576,
+                "size": 49013,
+                "url": "https://media.sketchfab.com/models/1e7c1a795a7b484bbd2ee65fb419841c/thumbnails/92a1e3db212c408baae33858b7c83dd7/2f1c9f405dd14c259169a83150edd558.jpeg"
+            },
+            {
+                "uid": "3310d8241f2841c78442b5c6d912e174",
+                "width": 720,
+                "height": 405,
+                "size": 30085,
+                "url": "https://media.sketchfab.com/models/1e7c1a795a7b484bbd2ee65fb419841c/thumbnails/92a1e3db212c408baae33858b7c83dd7/bde1ddbb9cd143039a712d18e1bb1e57.jpeg"
+            },
+            {
+                "uid": "055ccda6acb444c4a5e186970326d485",
+                "width": 256,
+                "height": 144,
+                "size": 7284,
+                "url": "https://media.sketchfab.com/models/1e7c1a795a7b484bbd2ee65fb419841c/thumbnails/92a1e3db212c408baae33858b7c83dd7/0aba04144985484794b0720144139afe.jpeg"
+            },
+            {
+                "uid": "678ed08887564d20848a8197855b30f9",
+                "width": 64,
+                "height": 36,
+                "size": 1465,
+                "url": "https://media.sketchfab.com/models/1e7c1a795a7b484bbd2ee65fb419841c/thumbnails/92a1e3db212c408baae33858b7c83dd7/cf62f38f00244ac989b26e30f7485785.jpeg"
+            }
+        ]
+    },
+    "uid": "1e7c1a795a7b484bbd2ee65fb419841c",
+    "uri": "https://api.sketchfab.com/v3/models/1e7c1a795a7b484bbd2ee65fb419841c",
+    "user": {
+        "uid": "52eb72b9e58346f28546a455f8eca613",
+        "username": "jkessen30",
+        "displayName": "jkessen30",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/jkessen30",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/52eb72b9e58346f28546a455f8eca613"
+    },
+    "vertexCount": 29098,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/kessen-jens-showmewhatyouvegot-3d-2025-1e7c1a795a7b484bbd2ee65fb419841c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Sadly couldn't import ghibli shader for waterfall, facial animations won't work in sketchfab either",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1e7c1a795a7b484bbd2ee65fb419841c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-06-10T06:36:36.323609",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 10
+}

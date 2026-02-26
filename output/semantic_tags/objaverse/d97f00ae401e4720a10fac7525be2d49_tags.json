@@ -1,0 +1,40 @@
+{
+    "category": "Animals & Creatures",
+    "top_genres": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Abstract",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "rhino",
+        "3D model",
+        "low poly"
+    ]
+}

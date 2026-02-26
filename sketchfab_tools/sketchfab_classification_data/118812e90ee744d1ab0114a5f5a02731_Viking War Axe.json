@@ -1,0 +1,47 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Vibrant Fantasy",
+    "top_genres": [
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic",
+            "score": 0.6
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Polished",
+        "Dusty"
+    ],
+    "tags": [
+        "waraxe",
+        "viking",
+        "military",
+        "hammer",
+        "weapon",
+        "historical",
+        "ancient",
+        "metal"
+    ],
+    "model_id_full": "118812e90ee744d1ab0114a5f5a02731_Viking War Axe",
+    "sketchfab_id": "118812e90ee744d1ab0114a5f5a02731",
+    "asset_name": "Viking War Axe"
+}

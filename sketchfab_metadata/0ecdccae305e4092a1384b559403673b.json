@@ -1,0 +1,196 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2024-07-12T19:51:20.921582",
+    "embedUrl": "https://sketchfab.com/models/0ecdccae305e4092a1384b559403673b/embed",
+    "faceCount": 28146,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/783b685da9bf457d81e829fa283f3567",
+        "label": "Standard",
+        "fullName": "Standard",
+        "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+        "url": "https://sketchfab.com/licenses",
+        "slug": "st"
+    },
+    "likeCount": 5,
+    "name": "Tree Colors of Fall",
+    "publishedAt": "2024-07-12T20:05:01.932112",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "Fall",
+            "slug": "fall",
+            "uri": "https://api.sketchfab.com/v3/tags/fall"
+        },
+        {
+            "name": "tiltbrush",
+            "slug": "tiltbrush",
+            "uri": "https://api.sketchfab.com/v3/tags/tiltbrush"
+        },
+        {
+            "name": "studioghibli",
+            "slug": "studioghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/studioghibli"
+        },
+        {
+            "name": "openbrush",
+            "slug": "openbrush",
+            "uri": "https://api.sketchfab.com/v3/tags/openbrush"
+        },
+        {
+            "name": "autumn-leaves",
+            "slug": "autumn-leaves",
+            "uri": "https://api.sketchfab.com/v3/tags/autumn-leaves"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "41df7fc1e0fb4e2badcabf1ff44b8873",
+                "width": 1920,
+                "height": 1080,
+                "size": 162657,
+                "url": "https://media.sketchfab.com/models/0ecdccae305e4092a1384b559403673b/thumbnails/e23f904752114c35bfd96a46378f075a/85a6c5eeb58045949f4b46b5d8630a2f.jpeg"
+            },
+            {
+                "uid": "9f9a87266a044b53b2069a16dbb2eb0a",
+                "width": 1024,
+                "height": 576,
+                "size": 51857,
+                "url": "https://media.sketchfab.com/models/0ecdccae305e4092a1384b559403673b/thumbnails/e23f904752114c35bfd96a46378f075a/1b6b8cc4181748678dc7a6b8841396d4.jpeg"
+            },
+            {
+                "uid": "59c9414c280e4bd994c8fc154297224a",
+                "width": 720,
+                "height": 405,
+                "size": 29565,
+                "url": "https://media.sketchfab.com/models/0ecdccae305e4092a1384b559403673b/thumbnails/e23f904752114c35bfd96a46378f075a/f0d8ecf1fc964458b2d7f527af3cde7d.jpeg"
+            },
+            {
+                "uid": "52e648aee97f45948cc1eda2869281be",
+                "width": 256,
+                "height": 144,
+                "size": 5621,
+                "url": "https://media.sketchfab.com/models/0ecdccae305e4092a1384b559403673b/thumbnails/e23f904752114c35bfd96a46378f075a/a64ad2cd35534aefa553f92d2babab23.jpeg"
+            },
+            {
+                "uid": "baeae9ea27d249d786d98671d3639914",
+                "width": 64,
+                "height": 36,
+                "size": 1137,
+                "url": "https://media.sketchfab.com/models/0ecdccae305e4092a1384b559403673b/thumbnails/e23f904752114c35bfd96a46378f075a/6b326ac487154253a57253866df11713.jpeg"
+            }
+        ]
+    },
+    "uid": "0ecdccae305e4092a1384b559403673b",
+    "uri": "https://api.sketchfab.com/v3/models/0ecdccae305e4092a1384b559403673b",
+    "user": {
+        "uid": "4a258e93573e41528a33422cc816d5e3",
+        "username": "amreenasarwat",
+        "displayName": "Amreena",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/amreenasarwat",
+        "avatar": {
+            "uid": "bd4244e021fd4a93b9b9660986de55d2",
+            "uri": "https://api.sketchfab.com/v3/avatars/bd4244e021fd4a93b9b9660986de55d2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1078,
+                    "url": "https://media.sketchfab.com/avatars/bd4244e021fd4a93b9b9660986de55d2/72fac68aa3724041ab468729e8d320f8.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1539,
+                    "url": "https://media.sketchfab.com/avatars/bd4244e021fd4a93b9b9660986de55d2/80bc15daca864af9ab822dcee6e59040.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3499,
+                    "url": "https://media.sketchfab.com/avatars/bd4244e021fd4a93b9b9660986de55d2/0f382abdba344234ad0f3379d2341d42.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4010,
+                    "url": "https://media.sketchfab.com/avatars/bd4244e021fd4a93b9b9660986de55d2/9fe7daf39a4d4c58b8252906b2d223cd.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4a258e93573e41528a33422cc816d5e3"
+    },
+    "vertexCount": 54380,
+    "viewCount": 182,
+    "viewerUrl": "https://sketchfab.com/3d-models/tree-colors-of-fall-0ecdccae305e4092a1384b559403673b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Falling leaves",
+    "price": 399,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0ecdccae305e4092a1384b559403673b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "open-brush",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2024-07-12T20:05:02.064942",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 3
+}

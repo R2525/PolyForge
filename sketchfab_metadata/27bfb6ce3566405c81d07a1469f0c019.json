@@ -1,0 +1,114 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-02T14:04:20.786374",
+    "embedUrl": "https://sketchfab.com/models/27bfb6ce3566405c81d07a1469f0c019/embed",
+    "faceCount": 5240,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Post Apocalyptic City",
+    "publishedAt": "2026-01-02T14:05:16.891099",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "43e39c76edea464288dd4aedd2a1252a",
+                "width": 1920,
+                "height": 1080,
+                "size": 45062,
+                "url": "https://media.sketchfab.com/models/27bfb6ce3566405c81d07a1469f0c019/thumbnails/b48e16e2f2234a3facbbb0c99b51a49c/5e91661a8e0547fbb5e113b183fbc300.jpeg"
+            },
+            {
+                "uid": "0e4aa8f6e06c4fe48d3e63524cfe393a",
+                "width": 1024,
+                "height": 576,
+                "size": 15575,
+                "url": "https://media.sketchfab.com/models/27bfb6ce3566405c81d07a1469f0c019/thumbnails/b48e16e2f2234a3facbbb0c99b51a49c/8fbcb6e0900f40b18b4a502ab0359574.jpeg"
+            },
+            {
+                "uid": "9bba2290eed5464282f4d9dad3821945",
+                "width": 720,
+                "height": 405,
+                "size": 9457,
+                "url": "https://media.sketchfab.com/models/27bfb6ce3566405c81d07a1469f0c019/thumbnails/b48e16e2f2234a3facbbb0c99b51a49c/71a38688f2464745b54cdc23261ef76a.jpeg"
+            },
+            {
+                "uid": "379594e5cd7b485d9716830596bc5985",
+                "width": 256,
+                "height": 144,
+                "size": 2431,
+                "url": "https://media.sketchfab.com/models/27bfb6ce3566405c81d07a1469f0c019/thumbnails/b48e16e2f2234a3facbbb0c99b51a49c/56cb8a1c58fb4f80b44ad43167f14c47.jpeg"
+            },
+            {
+                "uid": "b014cac6c0254561b5bad5126ef728ac",
+                "width": 64,
+                "height": 36,
+                "size": 891,
+                "url": "https://media.sketchfab.com/models/27bfb6ce3566405c81d07a1469f0c019/thumbnails/b48e16e2f2234a3facbbb0c99b51a49c/a5e02cc2cc424ac4b5564e5ef082aa96.jpeg"
+            }
+        ]
+    },
+    "uid": "27bfb6ce3566405c81d07a1469f0c019",
+    "uri": "https://api.sketchfab.com/v3/models/27bfb6ce3566405c81d07a1469f0c019",
+    "user": {
+        "uid": "2c0c858d93ec4c9db14bb4325135bef3",
+        "username": "andrejoelie",
+        "displayName": "andrejoelie",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/andrejoelie",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2c0c858d93ec4c9db14bb4325135bef3"
+    },
+    "vertexCount": 2806,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/post-apocalyptic-city-27bfb6ce3566405c81d07a1469f0c019",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/27bfb6ce3566405c81d07a1469f0c019/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-02T14:08:23.324431",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 67
+}

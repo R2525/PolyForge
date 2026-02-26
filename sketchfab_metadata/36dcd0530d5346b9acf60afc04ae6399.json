@@ -1,0 +1,295 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-11-26T14:25:43.326523",
+    "embedUrl": "https://sketchfab.com/models/36dcd0530d5346b9acf60afc04ae6399/embed",
+    "faceCount": 3236,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Low Poly Sword Pack – 6 Unique swords",
+    "publishedAt": "2025-11-26T14:34:18.900545",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "minimal",
+            "slug": "minimal",
+            "uri": "https://api.sketchfab.com/v3/tags/minimal"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "no",
+            "slug": "no",
+            "uri": "https://api.sketchfab.com/v3/tags/no"
+        },
+        {
+            "name": "indie",
+            "slug": "indie",
+            "uri": "https://api.sketchfab.com/v3/tags/indie"
+        },
+        {
+            "name": "textures",
+            "slug": "textures",
+            "uri": "https://api.sketchfab.com/v3/tags/textures"
+        },
+        {
+            "name": "materials",
+            "slug": "materials",
+            "uri": "https://api.sketchfab.com/v3/tags/materials"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "pack",
+            "slug": "pack",
+            "uri": "https://api.sketchfab.com/v3/tags/pack"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "friendly",
+            "slug": "friendly",
+            "uri": "https://api.sketchfab.com/v3/tags/friendly"
+        },
+        {
+            "name": "Plain",
+            "slug": "plain",
+            "uri": "https://api.sketchfab.com/v3/tags/plain"
+        },
+        {
+            "name": "engine",
+            "slug": "engine",
+            "uri": "https://api.sketchfab.com/v3/tags/engine"
+        },
+        {
+            "name": "swords",
+            "slug": "swords",
+            "uri": "https://api.sketchfab.com/v3/tags/swords"
+        },
+        {
+            "name": "lightweight",
+            "slug": "lightweight",
+            "uri": "https://api.sketchfab.com/v3/tags/lightweight"
+        },
+        {
+            "name": "godot",
+            "slug": "godot",
+            "uri": "https://api.sketchfab.com/v3/tags/godot"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "mobile",
+            "slug": "mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/mobile"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "simple",
+            "slug": "simple",
+            "uri": "https://api.sketchfab.com/v3/tags/simple"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a9d97ea30b674e7cb7b75c6d8b73fae1",
+                "width": 1920,
+                "height": 1080,
+                "size": 77925,
+                "url": "https://media.sketchfab.com/models/36dcd0530d5346b9acf60afc04ae6399/thumbnails/c914f0a5f62e45638af0d063a18dd8f6/63cebf8de30246eeb675bf1fc677db76.jpeg"
+            },
+            {
+                "uid": "150267d096624ee292cd06c85cee603a",
+                "width": 1024,
+                "height": 576,
+                "size": 29711,
+                "url": "https://media.sketchfab.com/models/36dcd0530d5346b9acf60afc04ae6399/thumbnails/c914f0a5f62e45638af0d063a18dd8f6/f77e4205001a4d64b22056802d518f13.jpeg"
+            },
+            {
+                "uid": "e94035ffd6124d518b8bea69db568f72",
+                "width": 720,
+                "height": 405,
+                "size": 18757,
+                "url": "https://media.sketchfab.com/models/36dcd0530d5346b9acf60afc04ae6399/thumbnails/c914f0a5f62e45638af0d063a18dd8f6/e051e08ebdb0437ca5073419f0b32e35.jpeg"
+            },
+            {
+                "uid": "98f422e6afdc4998a3858d95614508cc",
+                "width": 256,
+                "height": 144,
+                "size": 5001,
+                "url": "https://media.sketchfab.com/models/36dcd0530d5346b9acf60afc04ae6399/thumbnails/c914f0a5f62e45638af0d063a18dd8f6/51fbfa5dbf984936877859a0e155937e.jpeg"
+            },
+            {
+                "uid": "5132c748c65b42ed9a3865fc573a6926",
+                "width": 64,
+                "height": 36,
+                "size": 1227,
+                "url": "https://media.sketchfab.com/models/36dcd0530d5346b9acf60afc04ae6399/thumbnails/c914f0a5f62e45638af0d063a18dd8f6/453ce71d410741689c67660f8e34a650.jpeg"
+            }
+        ]
+    },
+    "uid": "36dcd0530d5346b9acf60afc04ae6399",
+    "uri": "https://api.sketchfab.com/v3/models/36dcd0530d5346b9acf60afc04ae6399",
+    "user": {
+        "uid": "1558a74f61d9484fb45272f48f5955c9",
+        "username": "wErTT",
+        "displayName": "wErT",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/wErTT",
+        "avatar": {
+            "uid": "0ba14feb4f0a4af1a69302e84bc3d8f1",
+            "uri": "https://api.sketchfab.com/v3/avatars/0ba14feb4f0a4af1a69302e84bc3d8f1",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2193,
+                    "url": "https://media.sketchfab.com/avatars/0ba14feb4f0a4af1a69302e84bc3d8f1/40ead1a08f004007a22146faad1f5430.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4441,
+                    "url": "https://media.sketchfab.com/avatars/0ba14feb4f0a4af1a69302e84bc3d8f1/b952beea4ec047e1bd6272ed91f74b92.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 13268,
+                    "url": "https://media.sketchfab.com/avatars/0ba14feb4f0a4af1a69302e84bc3d8f1/bda88a4b86f0413eae23de6ffd1d85c0.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 15810,
+                    "url": "https://media.sketchfab.com/avatars/0ba14feb4f0a4af1a69302e84bc3d8f1/02dcc6b1f0134ffd9600565cf0157a08.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1558a74f61d9484fb45272f48f5955c9"
+    },
+    "vertexCount": 2177,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-sword-pack-6-unique-swords-36dcd0530d5346b9acf60afc04ae6399",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This pack contains 6 low poly sword models, each designed with clean geometry and plain material colors—no textures required. Perfect for developers who want simple, lightweight weapons that are easy to integrate into games.\n\nAll swords are optimized for performance and work well in:\n\nstylized games\n\nmobile projects\n\nlow poly RPGs\n\nprototyping\n\naction or adventure titles\n\nBecause the models use basic materials only, you can easily adjust colors, add your own shaders, or re-style them to fit any project.\n\n⭐ FEATURES\n\n6 unique low poly sword designs\n\nPlain materials only (no textures)\n\nGame-ready, clean topology\n\nLightweight & mobile-friendly\n\nEasy to modify and recolor\n\nWorks in Unity, Unreal, Godot, Blender, and more",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/36dcd0530d5346b9acf60afc04ae6399/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-26T14:34:19.004466",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 27
+}

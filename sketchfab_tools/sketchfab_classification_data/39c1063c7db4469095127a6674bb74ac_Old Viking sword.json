@@ -1,0 +1,68 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Historical",
+            "score": 0.5
+        },
+        {
+            "name": "Medieval",
+            "score": 0.4
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        },
+        {
+            "name": "Realistic",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Cracked"
+    ],
+    "tags": [
+        "Viking",
+        "Sword",
+        "Old",
+        "Historical",
+        "Metal",
+        "Ancient",
+        "Weapons",
+        "Medieval"
+    ],
+    "model_id_full": "39c1063c7db4469095127a6674bb74ac_Old Viking sword",
+    "sketchfab_id": "39c1063c7db4469095127a6674bb74ac",
+    "asset_name": "Old Viking sword"
+}

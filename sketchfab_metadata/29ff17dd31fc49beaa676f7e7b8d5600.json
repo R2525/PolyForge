@@ -1,0 +1,259 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-08T06:29:05.597682",
+    "embedUrl": "https://sketchfab.com/models/29ff17dd31fc49beaa676f7e7b8d5600/embed",
+    "faceCount": 1036044,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 8,
+    "name": "Fantasy Fight Arena 1",
+    "publishedAt": "2026-02-08T08:00:57.846629",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "fight",
+            "slug": "fight",
+            "uri": "https://api.sketchfab.com/v3/tags/fight"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "island",
+            "slug": "island",
+            "uri": "https://api.sketchfab.com/v3/tags/island"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "coliseum",
+            "slug": "coliseum",
+            "uri": "https://api.sketchfab.com/v3/tags/coliseum"
+        },
+        {
+            "name": "boss",
+            "slug": "boss",
+            "uri": "https://api.sketchfab.com/v3/tags/boss"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "arena",
+            "slug": "arena",
+            "uri": "https://api.sketchfab.com/v3/tags/arena"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+        },
+        {
+            "name": "Ruine",
+            "slug": "ruine",
+            "uri": "https://api.sketchfab.com/v3/tags/ruine"
+        },
+        {
+            "name": "Volcanic",
+            "slug": "volcanic",
+            "uri": "https://api.sketchfab.com/v3/tags/volcanic"
+        },
+        {
+            "name": "heroic",
+            "slug": "heroic",
+            "uri": "https://api.sketchfab.com/v3/tags/heroic"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "rock",
+            "slug": "rock",
+            "uri": "https://api.sketchfab.com/v3/tags/rock"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cb6adba938d9472698e0a902b8f0a5e7",
+                "width": 1920,
+                "height": 1080,
+                "size": 334227,
+                "url": "https://media.sketchfab.com/models/29ff17dd31fc49beaa676f7e7b8d5600/thumbnails/8e201308a8e74738bd8cdc37d02ceada/794970fcb93a4d70a02e79dffc187485.jpeg"
+            },
+            {
+                "uid": "ff052b68b2874c82b667b84e3049856e",
+                "width": 1024,
+                "height": 576,
+                "size": 81138,
+                "url": "https://media.sketchfab.com/models/29ff17dd31fc49beaa676f7e7b8d5600/thumbnails/8e201308a8e74738bd8cdc37d02ceada/ef20efbe8cc34dad8a359c596a6248d8.jpeg"
+            },
+            {
+                "uid": "a00dc4c446594c358510d6b6da4c1797",
+                "width": 720,
+                "height": 405,
+                "size": 42201,
+                "url": "https://media.sketchfab.com/models/29ff17dd31fc49beaa676f7e7b8d5600/thumbnails/8e201308a8e74738bd8cdc37d02ceada/ecf2607f10184abcbabe5e8b74195958.jpeg"
+            },
+            {
+                "uid": "8af79221283a47ccb09e65edf2afed36",
+                "width": 256,
+                "height": 144,
+                "size": 7125,
+                "url": "https://media.sketchfab.com/models/29ff17dd31fc49beaa676f7e7b8d5600/thumbnails/8e201308a8e74738bd8cdc37d02ceada/2a40739e710d47afbc0098d68c0efa6d.jpeg"
+            },
+            {
+                "uid": "aacca9b014794b6c8d77f9c12467fcf9",
+                "width": 64,
+                "height": 36,
+                "size": 1214,
+                "url": "https://media.sketchfab.com/models/29ff17dd31fc49beaa676f7e7b8d5600/thumbnails/8e201308a8e74738bd8cdc37d02ceada/80d76d4cdacb4d989fdcf8149367f22d.jpeg"
+            }
+        ]
+    },
+    "uid": "29ff17dd31fc49beaa676f7e7b8d5600",
+    "uri": "https://api.sketchfab.com/v3/models/29ff17dd31fc49beaa676f7e7b8d5600",
+    "user": {
+        "uid": "6fbe5968753c43d796e3a8703d9bb232",
+        "username": "Nicu_Tepes_Vulpe",
+        "displayName": "Nicu_Tepes_Vulpe",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nicu_Tepes_Vulpe",
+        "avatar": {
+            "uid": "53dfd2b7d3b7404cb2efa906ce441e16",
+            "uri": "https://api.sketchfab.com/v3/avatars/53dfd2b7d3b7404cb2efa906ce441e16",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1308,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/e7c9f95c3a98417a9932411e09e61f48.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1976,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/6cd348f4d1b44e4692cf30bfa7828b42.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4374,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/9f1a9d1a016c48fcb6f72d5dff444cc3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5017,
+                    "url": "https://media.sketchfab.com/avatars/53dfd2b7d3b7404cb2efa906ce441e16/d6e77392c2be4e8c9742529c105c60cb.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6fbe5968753c43d796e3a8703d9bb232"
+    },
+    "vertexCount": 532475,
+    "viewCount": 137,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-fight-arena-1-29ff17dd31fc49beaa676f7e7b8d5600",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Fantasy Fight Arena 3D model\n\npolys 518578\n\nverts 532573\n\ntris 1037156\n\nmaterials 6\n\ntextures (pbr 30) (ue 18) 4K resolution\n\nThis is an extremely detailed, photorealistic 3D model of a Fantasy Fight Arena 3D model, created using PBR workflows. Meticulously crafted for high-end use in video production, visualizations, AAA games, VR/AR applications, and digital art.\n\nThe provided archive is a comprehensive package, including:\n\n    Models: OBJ and FBX files for the Fantasy Fight Arena 3D model. Island - 9th, wall - 20th, stones - 16th, Fontain - 14th, Bridge - 16, \n\n    Production Scenes: Ready-to-render scenes in Marmoset Toolbag and Blender.\n\n    PBR Textures (4K): Base Color, Metallic, Ambient Occlusion, Normal, and Roughness maps.\n\n    Unreal Engine Textures (4K): Optimized texture set (Base Color, Normal, OcclusionRoughnessMetallic) for direct import.\n\nThis all-in-one kit offers ultimate flexibility for professional 3D creation and real-time rendering.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/29ff17dd31fc49beaa676f7e7b8d5600/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-08T08:00:58.066050",
+    "pbrType": "metalness",
+    "textureCount": 30,
+    "materialCount": 6
+}

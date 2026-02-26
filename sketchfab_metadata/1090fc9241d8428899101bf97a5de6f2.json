@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-07T14:42:11.719265",
+    "embedUrl": "https://sketchfab.com/models/1090fc9241d8428899101bf97a5de6f2/embed",
+    "faceCount": 15214,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Laputa Robot - Laputa:Castle In the Sky",
+    "publishedAt": "2026-01-07T15:02:59.165017",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "laputa",
+            "slug": "laputa",
+            "uri": "https://api.sketchfab.com/v3/tags/laputa"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "54f277e1ca5d42e7945314ab357fc35c",
+                "width": 1920,
+                "height": 1080,
+                "size": 50503,
+                "url": "https://media.sketchfab.com/models/1090fc9241d8428899101bf97a5de6f2/thumbnails/a8b2c13c2cc548998dae9fee7ff299a7/845416fc267a46e2a82af7d659d9f9a5.jpeg"
+            },
+            {
+                "uid": "1dbcda45206641b6a4e65e87b55f8d90",
+                "width": 1024,
+                "height": 576,
+                "size": 16412,
+                "url": "https://media.sketchfab.com/models/1090fc9241d8428899101bf97a5de6f2/thumbnails/a8b2c13c2cc548998dae9fee7ff299a7/f4a37ca926f842ef913864cecfc6fe9f.jpeg"
+            },
+            {
+                "uid": "3dba172433e14b74afec1b925b82f4b1",
+                "width": 720,
+                "height": 405,
+                "size": 9476,
+                "url": "https://media.sketchfab.com/models/1090fc9241d8428899101bf97a5de6f2/thumbnails/a8b2c13c2cc548998dae9fee7ff299a7/188705849d0d4a6a83981de146412738.jpeg"
+            },
+            {
+                "uid": "06434f542ded4c4eafe6d465eb0ed045",
+                "width": 256,
+                "height": 144,
+                "size": 2089,
+                "url": "https://media.sketchfab.com/models/1090fc9241d8428899101bf97a5de6f2/thumbnails/a8b2c13c2cc548998dae9fee7ff299a7/1889417b45354846887420874c256555.jpeg"
+            },
+            {
+                "uid": "b987b3a225ca4e3abcc63fbeb87c7485",
+                "width": 64,
+                "height": 36,
+                "size": 865,
+                "url": "https://media.sketchfab.com/models/1090fc9241d8428899101bf97a5de6f2/thumbnails/a8b2c13c2cc548998dae9fee7ff299a7/2bc59385189242f6bfdcb3b8b5480355.jpeg"
+            }
+        ]
+    },
+    "uid": "1090fc9241d8428899101bf97a5de6f2",
+    "uri": "https://api.sketchfab.com/v3/models/1090fc9241d8428899101bf97a5de6f2",
+    "user": {
+        "uid": "2b9e175de79a43bf888231d257deee11",
+        "username": "antoniuksasha89",
+        "displayName": "antoniuksasha89",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/antoniuksasha89",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2b9e175de79a43bf888231d257deee11"
+    },
+    "vertexCount": 7780,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/laputa-robot-laputacastle-in-the-sky-1090fc9241d8428899101bf97a5de6f2",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A stylised robot inspired by Laputa: Castle in the Sky, recreated with care and attention to silhouette, proportions, and animation friendliness.\nThe model is fully rigged and ready for animation, making it suitable for short films, games, real time projects, or learning animation and rigging workflows. Clean topology and a simple, intuitive rig make it easy to pose and animate straight away.\n\nFeatures:\nFully rigged character, animation ready\nClean topology suitable for real time or cinematic use\nStylised design inspired by classic animation aesthetics\nIdeal for games, films, VR, or personal projects\nPerfect for artists looking for a ready to use character, or fans of Studio Ghibli inspired worlds who want to bring a gentle robot to life.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1090fc9241d8428899101bf97a5de6f2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-07T15:03:40.914064",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

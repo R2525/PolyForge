@@ -1,0 +1,69 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.95
+        },
+        {
+            "name": "Ancient",
+            "score": 0.8
+        },
+        {
+            "name": "Historic",
+            "score": 0.7
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.6
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rustic",
+        "Dusty",
+        "Grainy",
+        "Tarnished"
+    ],
+    "tags": [
+        "medieval",
+        "dining",
+        "table",
+        "bench",
+        "wood",
+        "plate",
+        "bowl",
+        "goblet"
+    ],
+    "model_id_full": "0140b6b05933481eaa7906337dd65677_medieval style dining set (blender)",
+    "sketchfab_id": "0140b6b05933481eaa7906337dd65677",
+    "asset_name": "medieval style dining set (blender)"
+}

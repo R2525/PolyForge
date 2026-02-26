@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T17:42:11.027511",
+    "embedUrl": "https://sketchfab.com/models/1eb9925d817b421ab25cd88e22ffa16f/embed",
+    "faceCount": 1004310,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "fantasy dragon bookends,",
+    "publishedAt": "2026-02-23T17:42:39.763400",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "bookends",
+            "slug": "bookends",
+            "uri": "https://api.sketchfab.com/v3/tags/bookends"
+        },
+        {
+            "name": "dragon",
+            "slug": "dragon",
+            "uri": "https://api.sketchfab.com/v3/tags/dragon"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cab6b76c27394d088dce19610710cf4b",
+                "width": 1920,
+                "height": 1080,
+                "size": 84792,
+                "url": "https://media.sketchfab.com/models/1eb9925d817b421ab25cd88e22ffa16f/thumbnails/73c6d5f784074abfb96f0a1f7e681973/ee6db27bde4e4bc3b6e508a8660f4832.jpeg"
+            },
+            {
+                "uid": "75937f6395b9483fa56a924d5998c29f",
+                "width": 1024,
+                "height": 576,
+                "size": 28893,
+                "url": "https://media.sketchfab.com/models/1eb9925d817b421ab25cd88e22ffa16f/thumbnails/73c6d5f784074abfb96f0a1f7e681973/b9b889cd79994e90afe64149532d3c0b.jpeg"
+            },
+            {
+                "uid": "af697c2c3950428daf1bce567eb602cf",
+                "width": 720,
+                "height": 405,
+                "size": 16919,
+                "url": "https://media.sketchfab.com/models/1eb9925d817b421ab25cd88e22ffa16f/thumbnails/73c6d5f784074abfb96f0a1f7e681973/581f05eaeaa541408d976d69f6490b0d.jpeg"
+            },
+            {
+                "uid": "12372ae4fa1c469fabe9b3fa9074a5db",
+                "width": 256,
+                "height": 144,
+                "size": 3567,
+                "url": "https://media.sketchfab.com/models/1eb9925d817b421ab25cd88e22ffa16f/thumbnails/73c6d5f784074abfb96f0a1f7e681973/456aaa9477e740faa0c323927503a7f4.jpeg"
+            },
+            {
+                "uid": "586d431f17ea48f1a51a64bb5730765b",
+                "width": 64,
+                "height": 36,
+                "size": 952,
+                "url": "https://media.sketchfab.com/models/1eb9925d817b421ab25cd88e22ffa16f/thumbnails/73c6d5f784074abfb96f0a1f7e681973/fb32b84ec4534cdc998b81703717021f.jpeg"
+            }
+        ]
+    },
+    "uid": "1eb9925d817b421ab25cd88e22ffa16f",
+    "uri": "https://api.sketchfab.com/v3/models/1eb9925d817b421ab25cd88e22ffa16f",
+    "user": {
+        "uid": "46be76a6469d417c87ee30d6cedd0812",
+        "username": "gengen84",
+        "displayName": "gengen84",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/gengen84",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/46be76a6469d417c87ee30d6cedd0812"
+    },
+    "vertexCount": 501887,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-dragon-bookends-1eb9925d817b421ab25cd88e22ffa16f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/HhyVwx](https://www.meshy.ai/s/HhyVwx)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1eb9925d817b421ab25cd88e22ffa16f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:31:12.843179",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

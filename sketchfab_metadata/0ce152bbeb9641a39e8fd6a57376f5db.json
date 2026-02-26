@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-12T07:53:44.699490",
+    "embedUrl": "https://sketchfab.com/models/0ce152bbeb9641a39e8fd6a57376f5db/embed",
+    "faceCount": 638,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Warbow(Marvel)",
+    "publishedAt": "2026-02-12T07:55:52.100576",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b7ee3cf93702491db58d2765e473b666",
+                "width": 1920,
+                "height": 1080,
+                "size": 104536,
+                "url": "https://media.sketchfab.com/models/0ce152bbeb9641a39e8fd6a57376f5db/thumbnails/5021f9783cd545969ea16c389ab5e637/a6db884c8dcb4ab1a7a13253aa98223c.jpeg"
+            },
+            {
+                "uid": "1bd3f92e1aff4e9caef0ea4226b826a2",
+                "width": 1024,
+                "height": 576,
+                "size": 33758,
+                "url": "https://media.sketchfab.com/models/0ce152bbeb9641a39e8fd6a57376f5db/thumbnails/5021f9783cd545969ea16c389ab5e637/4f67df1b3ce0431ba36e1c7697a3b6aa.jpeg"
+            },
+            {
+                "uid": "6e32f128442643859046355c6d3c5a0f",
+                "width": 720,
+                "height": 405,
+                "size": 19130,
+                "url": "https://media.sketchfab.com/models/0ce152bbeb9641a39e8fd6a57376f5db/thumbnails/5021f9783cd545969ea16c389ab5e637/f897a8cad8134b05915a033db401e22c.jpeg"
+            },
+            {
+                "uid": "f151928bb7b64c5f97a82b3478afde22",
+                "width": 256,
+                "height": 144,
+                "size": 3948,
+                "url": "https://media.sketchfab.com/models/0ce152bbeb9641a39e8fd6a57376f5db/thumbnails/5021f9783cd545969ea16c389ab5e637/faed618e67664ebdb932ca47825f0fa3.jpeg"
+            },
+            {
+                "uid": "592c920f27384b2393fdd10b6d16df00",
+                "width": 64,
+                "height": 36,
+                "size": 1082,
+                "url": "https://media.sketchfab.com/models/0ce152bbeb9641a39e8fd6a57376f5db/thumbnails/5021f9783cd545969ea16c389ab5e637/f0242336a16f4f7ba09de085ddefcae9.jpeg"
+            }
+        ]
+    },
+    "uid": "0ce152bbeb9641a39e8fd6a57376f5db",
+    "uri": "https://api.sketchfab.com/v3/models/0ce152bbeb9641a39e8fd6a57376f5db",
+    "user": {
+        "uid": "34bdaec9495f41ae81f50b96ca4cef97",
+        "username": "mitchellgarcia1009",
+        "displayName": "mitchellgarcia1009",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mitchellgarcia1009",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/34bdaec9495f41ae81f50b96ca4cef97"
+    },
+    "vertexCount": 313,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/warbowmarvel-0ce152bbeb9641a39e8fd6a57376f5db",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/0ce152bbeb9641a39e8fd6a57376f5db/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-12T07:55:52.207421",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,41 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Horror",
+            "score": 0.85
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Clean"
+    ],
+    "tags": [
+        "grave",
+        "stone",
+        "skeleton"
+    ]
+}

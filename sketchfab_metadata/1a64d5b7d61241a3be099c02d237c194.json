@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-16T11:16:02.905544",
+    "embedUrl": "https://sketchfab.com/models/1a64d5b7d61241a3be099c02d237c194/embed",
+    "faceCount": 260790,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Cyberpunk_ Famas_❌_'Alpha-Assembly'",
+    "publishedAt": "2026-02-16T11:26:05.731692",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rifle",
+            "slug": "rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle"
+        },
+        {
+            "name": "machinegun",
+            "slug": "machinegun",
+            "uri": "https://api.sketchfab.com/v3/tags/machinegun"
+        },
+        {
+            "name": "famas",
+            "slug": "famas",
+            "uri": "https://api.sketchfab.com/v3/tags/famas"
+        },
+        {
+            "name": "assaultrifle",
+            "slug": "assaultrifle",
+            "uri": "https://api.sketchfab.com/v3/tags/assaultrifle"
+        },
+        {
+            "name": "Assault Rifle",
+            "slug": "assault-rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/assault-rifle"
+        },
+        {
+            "name": "rifles",
+            "slug": "rifles",
+            "uri": "https://api.sketchfab.com/v3/tags/rifles"
+        },
+        {
+            "name": "machine-gun",
+            "slug": "machine-gun",
+            "uri": "https://api.sketchfab.com/v3/tags/machine-gun"
+        },
+        {
+            "name": "weapon-sci-fi",
+            "slug": "weapon-sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon-sci-fi"
+        },
+        {
+            "name": "weapon-3dmodel",
+            "slug": "weapon-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon-3dmodel"
+        },
+        {
+            "name": "machineguns",
+            "slug": "machineguns",
+            "uri": "https://api.sketchfab.com/v3/tags/machineguns"
+        },
+        {
+            "name": "pbrweapon",
+            "slug": "pbrweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/pbrweapon"
+        },
+        {
+            "name": "rifle-gun",
+            "slug": "rifle-gun",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle-gun"
+        },
+        {
+            "name": "weapon-futuristic",
+            "slug": "weapon-futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon-futuristic"
+        },
+        {
+            "name": "rifle-assault-rifle",
+            "slug": "rifle-assault-rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle-assault-rifle"
+        },
+        {
+            "name": "gun-futuristic-gun-sci-fi",
+            "slug": "gun-futuristic-gun-sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/gun-futuristic-gun-sci-fi"
+        },
+        {
+            "name": "modernweapon",
+            "slug": "modernweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/modernweapon"
+        },
+        {
+            "name": "assault-rifle-weapon",
+            "slug": "assault-rifle-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/assault-rifle-weapon"
+        },
+        {
+            "name": "futuristic-rifle",
+            "slug": "futuristic-rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic-rifle"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        },
+        {
+            "name": "guns",
+            "slug": "guns",
+            "uri": "https://api.sketchfab.com/v3/tags/guns"
+        },
+        {
+            "name": "gun-gameart-games-weapon-3dmodel-weapon",
+            "slug": "gun-gameart-games-weapon-3dmodel-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/gun-gameart-games-weapon-3dmodel-weapon"
+        },
+        {
+            "name": "modern-weapon",
+            "slug": "modern-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/modern-weapon"
+        },
+        {
+            "name": "famas-outer-space",
+            "slug": "famas-outer-space",
+            "uri": "https://api.sketchfab.com/v3/tags/famas-outer-space"
+        },
+        {
+            "name": "famas-custom-skin",
+            "slug": "famas-custom-skin",
+            "uri": "https://api.sketchfab.com/v3/tags/famas-custom-skin"
+        },
+        {
+            "name": "rifle-weapon",
+            "slug": "rifle-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle-weapon"
+        },
+        {
+            "name": "gun-sci-fi-game-ready",
+            "slug": "gun-sci-fi-game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/gun-sci-fi-game-ready"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "meshyai",
+            "slug": "meshyai",
+            "uri": "https://api.sketchfab.com/v3/tags/meshyai"
+        },
+        {
+            "name": "meshycreatedwithaiairealistic",
+            "slug": "meshycreatedwithaiairealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/meshycreatedwithaiairealistic"
+        },
+        {
+            "name": "meshy3d",
+            "slug": "meshy3d",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy3d"
+        },
+        {
+            "name": "meshymodel",
+            "slug": "meshymodel",
+            "uri": "https://api.sketchfab.com/v3/tags/meshymodel"
+        },
+        {
+            "name": "pbrweapons",
+            "slug": "pbrweapons",
+            "uri": "https://api.sketchfab.com/v3/tags/pbrweapons"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "meshy-model",
+            "slug": "meshy-model",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy-model"
+        },
+        {
+            "name": "modern-rifle",
+            "slug": "modern-rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/modern-rifle"
+        },
+        {
+            "name": "meshy3dai",
+            "slug": "meshy3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy3dai"
+        },
+        {
+            "name": "cyberpunkfamas",
+            "slug": "cyberpunkfamas",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunkfamas"
+        },
+        {
+            "name": "cyberpunk-famas",
+            "slug": "cyberpunk-famas",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk-famas"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3775d3aa3e0d4803bec2deacecd1a353",
+                "width": 1920,
+                "height": 1080,
+                "size": 327904,
+                "url": "https://media.sketchfab.com/models/1a64d5b7d61241a3be099c02d237c194/thumbnails/42d1245f8ef047a1bec4289e786562bf/8c6dd96f78344beb970c8c7aa4b61d11.jpeg"
+            },
+            {
+                "uid": "a2c636ed189e46e8b6ae9d636ec016ac",
+                "width": 1024,
+                "height": 576,
+                "size": 57300,
+                "url": "https://media.sketchfab.com/models/1a64d5b7d61241a3be099c02d237c194/thumbnails/42d1245f8ef047a1bec4289e786562bf/2397bb64f6fc43a3b626026c49d4ee5c.jpeg"
+            },
+            {
+                "uid": "29ee6184b37d4b508995fa9f0312944a",
+                "width": 720,
+                "height": 405,
+                "size": 30373,
+                "url": "https://media.sketchfab.com/models/1a64d5b7d61241a3be099c02d237c194/thumbnails/42d1245f8ef047a1bec4289e786562bf/e1cafa96f27e431bb57fad2c6bc27899.jpeg"
+            },
+            {
+                "uid": "b70b662ee98c4110804f642a3cf90e21",
+                "width": 256,
+                "height": 144,
+                "size": 6536,
+                "url": "https://media.sketchfab.com/models/1a64d5b7d61241a3be099c02d237c194/thumbnails/42d1245f8ef047a1bec4289e786562bf/d18773d13e624a06b5576015eb96710c.jpeg"
+            },
+            {
+                "uid": "4ce27a82190f465a8061da13a475a623",
+                "width": 64,
+                "height": 36,
+                "size": 1387,
+                "url": "https://media.sketchfab.com/models/1a64d5b7d61241a3be099c02d237c194/thumbnails/42d1245f8ef047a1bec4289e786562bf/82d2ce584e9c4ea09e6a38f98bf43720.jpeg"
+            }
+        ]
+    },
+    "uid": "1a64d5b7d61241a3be099c02d237c194",
+    "uri": "https://api.sketchfab.com/v3/models/1a64d5b7d61241a3be099c02d237c194",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 130387,
+    "viewCount": 20,
+    "viewerUrl": "https://sketchfab.com/3d-models/cyberpunk--famas--alpha-assembly-1a64d5b7d61241a3be099c02d237c194",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/1a64d5b7d61241a3be099c02d237c194/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T19:32:11.744363",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

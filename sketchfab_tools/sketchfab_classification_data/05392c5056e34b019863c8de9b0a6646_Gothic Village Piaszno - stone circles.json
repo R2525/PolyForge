@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Historical",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "3D Render",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Dusty",
+        "Weathered",
+        "Rusty",
+        "Cracked"
+    ],
+    "tags": [
+        "3D model",
+        "village",
+        "stone circle",
+        "wooden house",
+        "ancient",
+        "historical",
+        "garden",
+        "cave"
+    ],
+    "model_id_full": "05392c5056e34b019863c8de9b0a6646_Gothic Village Piaszno - stone circles",
+    "sketchfab_id": "05392c5056e34b019863c8de9b0a6646",
+    "asset_name": "Gothic Village Piaszno - stone circles"
+}

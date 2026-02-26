@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T16:54:04.874776",
+    "embedUrl": "https://sketchfab.com/models/2c91cadabfe9454695f73c89dab3a299/embed",
+    "faceCount": 105386,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "PSX market",
+    "publishedAt": "2026-02-24T17:04:47.327339",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "indie",
+            "slug": "indie",
+            "uri": "https://api.sketchfab.com/v3/tags/indie"
+        },
+        {
+            "name": "psx",
+            "slug": "psx",
+            "uri": "https://api.sketchfab.com/v3/tags/psx"
+        },
+        {
+            "name": "supermarket",
+            "slug": "supermarket",
+            "uri": "https://api.sketchfab.com/v3/tags/supermarket"
+        },
+        {
+            "name": "horrorgame",
+            "slug": "horrorgame",
+            "uri": "https://api.sketchfab.com/v3/tags/horrorgame"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "86b416bd364c4ba1b2ec580b8cea5096",
+                "width": 1920,
+                "height": 1080,
+                "size": 444078,
+                "url": "https://media.sketchfab.com/models/2c91cadabfe9454695f73c89dab3a299/thumbnails/d1d3f4b145e243babbf8db8a31354756/873341a86b584b4cb543f5ff98dfd522.jpeg"
+            },
+            {
+                "uid": "fdba691dc3344f019abaa5ae68782cc7",
+                "width": 1024,
+                "height": 576,
+                "size": 106938,
+                "url": "https://media.sketchfab.com/models/2c91cadabfe9454695f73c89dab3a299/thumbnails/d1d3f4b145e243babbf8db8a31354756/5d27b0a618ba4189ad92a3c8e02f7431.jpeg"
+            },
+            {
+                "uid": "593929ef016a40bb8848b09f2dba1b29",
+                "width": 720,
+                "height": 405,
+                "size": 56120,
+                "url": "https://media.sketchfab.com/models/2c91cadabfe9454695f73c89dab3a299/thumbnails/d1d3f4b145e243babbf8db8a31354756/d4f24976ec274a66b315f003fe794340.jpeg"
+            },
+            {
+                "uid": "72a0999b94794cb1af0ed2e2cf571914",
+                "width": 256,
+                "height": 144,
+                "size": 8497,
+                "url": "https://media.sketchfab.com/models/2c91cadabfe9454695f73c89dab3a299/thumbnails/d1d3f4b145e243babbf8db8a31354756/9a9f664ebdbe457f8c908d181b8842e5.jpeg"
+            },
+            {
+                "uid": "4a0f04de9161458b8b81bb195cfc33bf",
+                "width": 64,
+                "height": 36,
+                "size": 1396,
+                "url": "https://media.sketchfab.com/models/2c91cadabfe9454695f73c89dab3a299/thumbnails/d1d3f4b145e243babbf8db8a31354756/8b6ffe18118d4f4094cd3f444b96f55e.jpeg"
+            }
+        ]
+    },
+    "uid": "2c91cadabfe9454695f73c89dab3a299",
+    "uri": "https://api.sketchfab.com/v3/models/2c91cadabfe9454695f73c89dab3a299",
+    "user": {
+        "uid": "313b779c441340cbb47268d35c15ffb4",
+        "username": "Artemick",
+        "displayName": "Artemkartem",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Artemick",
+        "avatar": {
+            "uid": "60e5f3c88696406abb6486b85e295905",
+            "uri": "https://api.sketchfab.com/v3/avatars/60e5f3c88696406abb6486b85e295905",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2144,
+                    "url": "https://media.sketchfab.com/avatars/60e5f3c88696406abb6486b85e295905/aafd788a988f4d12bed5bc32ddf1778d.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4294,
+                    "url": "https://media.sketchfab.com/avatars/60e5f3c88696406abb6486b85e295905/0ca4cd43ed0f47c1b8a3fbe4c9c7b3b7.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12863,
+                    "url": "https://media.sketchfab.com/avatars/60e5f3c88696406abb6486b85e295905/1ce9d908393d47b0b6527db3d3ef0a74.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 15524,
+                    "url": "https://media.sketchfab.com/avatars/60e5f3c88696406abb6486b85e295905/672ede1d39674ac0b3e098ae95dd1e90.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/313b779c441340cbb47268d35c15ffb4"
+    },
+    "vertexCount": 53026,
+    "viewCount": 19,
+    "viewerUrl": "https://sketchfab.com/3d-models/psx-market-2c91cadabfe9454695f73c89dab3a299",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "PSX MARKET PACK - ENTER THE RETRO AISLES\n\nBring back the raw nostalgic energy of the PlayStation-era horror and indie aesthetics with this fully modular supermarket environment.",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/2c91cadabfe9454695f73c89dab3a299/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T17:58:06.783707",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 7
+}

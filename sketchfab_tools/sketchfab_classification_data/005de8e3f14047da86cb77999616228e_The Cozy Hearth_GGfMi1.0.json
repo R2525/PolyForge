@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Charming Rustic Cottage",
+    "top_genres": [
+        {
+            "name": "Charming Rustic Cottage",
+            "score": 0.95
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Gothic",
+            "score": 0.75
+        },
+        {
+            "name": "Rustic Thatched Cottage",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.6
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.88
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.75
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.65
+        },
+        {
+            "name": "Art & Abstract",
+            "score": 0.55
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Weathered",
+        "Dusty",
+        "Rusty",
+        "Cracked"
+    ],
+    "tags": [
+        "cottage",
+        "thatched roof",
+        "wooden house",
+        "rustic",
+        "cozy",
+        "small house",
+        "cottage house",
+        "old house"
+    ],
+    "model_id_full": "005de8e3f14047da86cb77999616228e_The Cozy Hearth_GGfMi1.0",
+    "sketchfab_id": "005de8e3f14047da86cb77999616228e",
+    "asset_name": "The Cozy Hearth_GGfMi1.0"
+}

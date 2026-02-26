@@ -1,0 +1,137 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-10-12T22:48:46.681416",
+    "embedUrl": "https://sketchfab.com/models/43ef0b1d1b6249d2bd321d16b2555ca0/embed",
+    "faceCount": 155375,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Iron Warhammer",
+    "publishedAt": "2025-10-12T22:49:20.429586",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f745a2c9c8fc4b4699f21e40bd3d6248",
+                "width": 1920,
+                "height": 1080,
+                "size": 52644,
+                "url": "https://media.sketchfab.com/models/43ef0b1d1b6249d2bd321d16b2555ca0/thumbnails/1cc7e65b119a4919bc8a026299fb0da2/abba27466e8b4c26af3747974da0af53.jpeg"
+            },
+            {
+                "uid": "da55541693734ee88b13ddefc4183cb2",
+                "width": 1024,
+                "height": 576,
+                "size": 17051,
+                "url": "https://media.sketchfab.com/models/43ef0b1d1b6249d2bd321d16b2555ca0/thumbnails/1cc7e65b119a4919bc8a026299fb0da2/3218cafb7b694d32afeb7efd9d6354dd.jpeg"
+            },
+            {
+                "uid": "68cc3f1fa91241a88b7ff33b72353d3b",
+                "width": 720,
+                "height": 405,
+                "size": 9770,
+                "url": "https://media.sketchfab.com/models/43ef0b1d1b6249d2bd321d16b2555ca0/thumbnails/1cc7e65b119a4919bc8a026299fb0da2/381729b607e74bf0a639ac26914b32b7.jpeg"
+            },
+            {
+                "uid": "952aea65ce644f41b5f1455221c3e38e",
+                "width": 256,
+                "height": 144,
+                "size": 2110,
+                "url": "https://media.sketchfab.com/models/43ef0b1d1b6249d2bd321d16b2555ca0/thumbnails/1cc7e65b119a4919bc8a026299fb0da2/4bb6304d9d404849b2316d90ecf9795c.jpeg"
+            },
+            {
+                "uid": "ddb8d4f3beb04f8e9954684b33917be4",
+                "width": 64,
+                "height": 36,
+                "size": 856,
+                "url": "https://media.sketchfab.com/models/43ef0b1d1b6249d2bd321d16b2555ca0/thumbnails/1cc7e65b119a4919bc8a026299fb0da2/aadffa967bdc490893037e1fbcdba439.jpeg"
+            }
+        ]
+    },
+    "uid": "43ef0b1d1b6249d2bd321d16b2555ca0",
+    "uri": "https://api.sketchfab.com/v3/models/43ef0b1d1b6249d2bd321d16b2555ca0",
+    "user": {
+        "uid": "183b5be1017f455db3cf1512481bdf08",
+        "username": "AdyManning",
+        "displayName": "AdyManning",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/AdyManning",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/183b5be1017f455db3cf1512481bdf08"
+    },
+    "vertexCount": 77690,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/iron-warhammer-43ef0b1d1b6249d2bd321d16b2555ca0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Iron-Warhammer-v2-0199da9a-cff0-7b6b-8362-09b1c7038fe4?utm_source=sketchfab](https://www.meshy.ai/3d-models/Iron-Warhammer-v2-0199da9a-cff0-7b6b-8362-09b1c7038fe4?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/43ef0b1d1b6249d2bd321d16b2555ca0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-10-13T06:28:51.307052",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

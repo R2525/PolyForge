@@ -1,0 +1,41 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Clean"
+    ],
+    "tags": [
+        "dragon",
+        "creature",
+        "head"
+    ]
+}

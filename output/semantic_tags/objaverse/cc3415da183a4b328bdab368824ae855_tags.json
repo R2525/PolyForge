@@ -1,0 +1,41 @@
+{
+    "category": "Electronics & Gadgets",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.7
+        },
+        {
+            "name": "Modern",
+            "score": 0.6
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.95
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Abstract",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Metallic"
+    ],
+    "tags": [
+        "cube",
+        "3D model",
+        "electronics"
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-07T20:02:31.827494",
+    "embedUrl": "https://sketchfab.com/models/39710ce85e4644869c5b9a76299f0f48/embed",
+    "faceCount": 4998,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Sword & Display Rack",
+    "publishedAt": "2026-01-07T20:05:02.473913",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "stand",
+            "slug": "stand",
+            "uri": "https://api.sketchfab.com/v3/tags/stand"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "rack",
+            "slug": "rack",
+            "uri": "https://api.sketchfab.com/v3/tags/rack"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "display",
+            "slug": "display",
+            "uri": "https://api.sketchfab.com/v3/tags/display"
+        },
+        {
+            "name": "armory",
+            "slug": "armory",
+            "uri": "https://api.sketchfab.com/v3/tags/armory"
+        },
+        {
+            "name": "blacksmith",
+            "slug": "blacksmith",
+            "uri": "https://api.sketchfab.com/v3/tags/blacksmith"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "3D Model,",
+            "slug": "3d-model",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-model"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "hand-painted",
+            "slug": "hand-painted",
+            "uri": "https://api.sketchfab.com/v3/tags/hand-painted"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c981fe3f43334c1484176d5e07e28962",
+                "width": 1920,
+                "height": 1080,
+                "size": 75603,
+                "url": "https://media.sketchfab.com/models/39710ce85e4644869c5b9a76299f0f48/thumbnails/a4a2d57a7855489fbe59fcb25019e0f1/5bd1de886f344709b2385ab8d68edb82.jpeg"
+            },
+            {
+                "uid": "8876b3399c7b46f489fce38b62c4f76f",
+                "width": 1024,
+                "height": 576,
+                "size": 25905,
+                "url": "https://media.sketchfab.com/models/39710ce85e4644869c5b9a76299f0f48/thumbnails/a4a2d57a7855489fbe59fcb25019e0f1/d13300c49c00402fa95ff91cc7ebf20a.jpeg"
+            },
+            {
+                "uid": "7ef5778ab92c47eda5bd024ac2176742",
+                "width": 720,
+                "height": 405,
+                "size": 15468,
+                "url": "https://media.sketchfab.com/models/39710ce85e4644869c5b9a76299f0f48/thumbnails/a4a2d57a7855489fbe59fcb25019e0f1/1c00524923e746f984bc56dce8c726e3.jpeg"
+            },
+            {
+                "uid": "4e0d2cc507fb4f64b98e8910ea2dd7b2",
+                "width": 256,
+                "height": 144,
+                "size": 3543,
+                "url": "https://media.sketchfab.com/models/39710ce85e4644869c5b9a76299f0f48/thumbnails/a4a2d57a7855489fbe59fcb25019e0f1/ee4429a787da471aa451f3d6eef711d4.jpeg"
+            },
+            {
+                "uid": "33d545690cf449989b0731fee529bd3b",
+                "width": 64,
+                "height": 36,
+                "size": 1003,
+                "url": "https://media.sketchfab.com/models/39710ce85e4644869c5b9a76299f0f48/thumbnails/a4a2d57a7855489fbe59fcb25019e0f1/2db175a7775b44d6a538336d6348933d.jpeg"
+            }
+        ]
+    },
+    "uid": "39710ce85e4644869c5b9a76299f0f48",
+    "uri": "https://api.sketchfab.com/v3/models/39710ce85e4644869c5b9a76299f0f48",
+    "user": {
+        "uid": "bbab143e3c0742e487b158ac03a42a60",
+        "username": "FrieDev",
+        "displayName": "FrieDev",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/FrieDev",
+        "avatar": {
+            "uid": "748d4c4e4a2d496c8e983802390cfce5",
+            "uri": "https://api.sketchfab.com/v3/avatars/748d4c4e4a2d496c8e983802390cfce5",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1176,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/a361f16cac9d4d14a2ea796ad3278909.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1723,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/d6a96def3f054d6aa09b4e59ce11920f.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4912,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/5fe66f328b384198997ff49534dd4227.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5798,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/2b4a2115380940fbb4277d15d6f5b068.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bbab143e3c0742e487b158ac03a42a60"
+    },
+    "vertexCount": 2492,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/sword-display-rack-39710ce85e4644869c5b9a76299f0f48",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A stylized, low-poly sword resting on a wooden display rack. Ideally suited for medieval fantasy RPGs, shop environments, or as a \"starter weapon\" prop. The sword features a chunky design with a gold guard, iron blade, and leather-wrapped handle.",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/39710ce85e4644869c5b9a76299f0f48/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-07T20:05:02.915886",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

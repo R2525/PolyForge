@@ -1,0 +1,168 @@
+
+  [DEBUG] Trying to match Material: 'mi_ext_parts_01' -> Tokens: ['ext', 'parts']
+  [DEBUG] Available textures count: 24
+    - food.tga
+    - tx_ads_01_nrm.tga
+    - tx_ext_part_alb.tga
+    - tx_ext_part_emm.tga
+    - tx_ext_part_nrm.tga
+    - tx_ext_part_rma.tga
+    - tx_fireex_alb.tga
+    - tx_fireex_nrm.tga
+    - tx_fireex_rma.tga
+    - tx_metal_02_rma.tga
+    - tx_microdetail_m.tga
+    - tx_trash_01_alb.tga
+    - tx_trash_01_nrm.tga
+    - tx_trash_01_rma.tga
+    - tx_trims_01_alb.tga
+    - tx_trims_01_emm.tga
+    - tx_trims_01_nrm.tga
+    - tx_trims_01_rma.tga
+    - tx_vents_alb.tga
+    - tx_vents_nrm.tga
+    - tx_vents_rma.tga
+    - tx_wallattachments_01_alb.tga
+    - tx_wallattachments_01_nrm.tga
+    - tx_wallattachments_01_rma.tga
+  [SUCCESS] Force-linked texture: TX_ext_part_ALB.TGA to material MI_ext_parts_01
+
+  [DEBUG] Trying to match Material: 'mi_trim_01' -> Tokens: ['tri01']
+  [DEBUG] Available textures count: 24
+    - food.tga
+    - tx_ads_01_nrm.tga
+    - tx_ext_part_alb.tga
+    - tx_ext_part_emm.tga
+    - tx_ext_part_nrm.tga
+    - tx_ext_part_rma.tga
+    - tx_fireex_alb.tga
+    - tx_fireex_nrm.tga
+    - tx_fireex_rma.tga
+    - tx_metal_02_rma.tga
+    - tx_microdetail_m.tga
+    - tx_trash_01_alb.tga
+    - tx_trash_01_nrm.tga
+    - tx_trash_01_rma.tga
+    - tx_trims_01_alb.tga
+    - tx_trims_01_emm.tga
+    - tx_trims_01_nrm.tga
+    - tx_trims_01_rma.tga
+    - tx_vents_alb.tga
+    - tx_vents_nrm.tga
+    - tx_vents_rma.tga
+    - tx_wallattachments_01_alb.tga
+    - tx_wallattachments_01_nrm.tga
+    - tx_wallattachments_01_rma.tga
+  [SUCCESS] Force-linked texture: TX_ext_part_ALB.TGA to material MI_trim_01
+
+  [DEBUG] Trying to match Material: 'mi_ext_parts_01' -> Tokens: ['ext', 'parts']
+  [DEBUG] Available textures count: 24
+    - food.tga
+    - tx_ads_01_nrm.tga
+    - tx_ext_part_alb.tga
+    - tx_ext_part_emm.tga
+    - tx_ext_part_nrm.tga
+    - tx_ext_part_rma.tga
+    - tx_fireex_alb.tga
+    - tx_fireex_nrm.tga
+    - tx_fireex_rma.tga
+    - tx_metal_02_rma.tga
+    - tx_microdetail_m.tga
+    - tx_trash_01_alb.tga
+    - tx_trash_01_nrm.tga
+    - tx_trash_01_rma.tga
+    - tx_trims_01_alb.tga
+    - tx_trims_01_emm.tga
+    - tx_trims_01_nrm.tga
+    - tx_trims_01_rma.tga
+    - tx_vents_alb.tga
+    - tx_vents_nrm.tga
+    - tx_vents_rma.tga
+    - tx_wallattachments_01_alb.tga
+    - tx_wallattachments_01_nrm.tga
+    - tx_wallattachments_01_rma.tga
+  [SUCCESS] Force-linked texture: TX_ext_part_ALB.TGA to material MI_ext_parts_01
+
+  [DEBUG] Trying to match Material: 'mi_fireex_01' -> Tokens: ['fireex']
+  [DEBUG] Available textures count: 24
+    - food.tga
+    - tx_ads_01_nrm.tga
+    - tx_ext_part_alb.tga
+    - tx_ext_part_emm.tga
+    - tx_ext_part_nrm.tga
+    - tx_ext_part_rma.tga
+    - tx_fireex_alb.tga
+    - tx_fireex_nrm.tga
+    - tx_fireex_rma.tga
+    - tx_metal_02_rma.tga
+    - tx_microdetail_m.tga
+    - tx_trash_01_alb.tga
+    - tx_trash_01_nrm.tga
+    - tx_trash_01_rma.tga
+    - tx_trims_01_alb.tga
+    - tx_trims_01_emm.tga
+    - tx_trims_01_nrm.tga
+    - tx_trims_01_rma.tga
+    - tx_vents_alb.tga
+    - tx_vents_nrm.tga
+    - tx_vents_rma.tga
+    - tx_wallattachments_01_alb.tga
+    - tx_wallattachments_01_nrm.tga
+    - tx_wallattachments_01_rma.tga
+  [SUCCESS] Force-linked texture: TX_fireex_ALB.TGA to material MI_fireex_01
+
+  [DEBUG] Trying to match Material: 'mi_vents_01' -> Tokens: ['vents']
+  [DEBUG] Available textures count: 24
+    - food.tga
+    - tx_ads_01_nrm.tga
+    - tx_ext_part_alb.tga
+    - tx_ext_part_emm.tga
+    - tx_ext_part_nrm.tga
+    - tx_ext_part_rma.tga
+    - tx_fireex_alb.tga
+    - tx_fireex_nrm.tga
+    - tx_fireex_rma.tga
+    - tx_metal_02_rma.tga
+    - tx_microdetail_m.tga
+    - tx_trash_01_alb.tga
+    - tx_trash_01_nrm.tga
+    - tx_trash_01_rma.tga
+    - tx_trims_01_alb.tga
+    - tx_trims_01_emm.tga
+    - tx_trims_01_nrm.tga
+    - tx_trims_01_rma.tga
+    - tx_vents_alb.tga
+    - tx_vents_nrm.tga
+    - tx_vents_rma.tga
+    - tx_wallattachments_01_alb.tga
+    - tx_wallattachments_01_nrm.tga
+    - tx_wallattachments_01_rma.tga
+  [SUCCESS] Force-linked texture: TX_vents_ALB.TGA to material MI_vents_01
+
+  [DEBUG] Trying to match Material: 'mi_wallattachments_01' -> Tokens: ['wallattachments']
+  [DEBUG] Available textures count: 24
+    - food.tga
+    - tx_ads_01_nrm.tga
+    - tx_ext_part_alb.tga
+    - tx_ext_part_emm.tga
+    - tx_ext_part_nrm.tga
+    - tx_ext_part_rma.tga
+    - tx_fireex_alb.tga
+    - tx_fireex_nrm.tga
+    - tx_fireex_rma.tga
+    - tx_metal_02_rma.tga
+    - tx_microdetail_m.tga
+    - tx_trash_01_alb.tga
+    - tx_trash_01_nrm.tga
+    - tx_trash_01_rma.tga
+    - tx_trims_01_alb.tga
+    - tx_trims_01_emm.tga
+    - tx_trims_01_nrm.tga
+    - tx_trims_01_rma.tga
+    - tx_vents_alb.tga
+    - tx_vents_nrm.tga
+    - tx_vents_rma.tga
+    - tx_wallattachments_01_alb.tga
+    - tx_wallattachments_01_nrm.tga
+    - tx_wallattachments_01_rma.tga
+  [SUCCESS] Force-linked texture: TX_wallattachments_01_ALB.TGA to material MI_wallattachments_01

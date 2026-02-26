@@ -1,0 +1,231 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-10T11:33:06.891263",
+    "embedUrl": "https://sketchfab.com/models/005de8e3f14047da86cb77999616228e/embed",
+    "faceCount": 93777,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "The Cozy Hearth_GGfMi1.0",
+    "publishedAt": "2026-01-10T11:40:47.959469",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "cottage",
+            "slug": "cottage",
+            "uri": "https://api.sketchfab.com/v3/tags/cottage"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "rustic",
+            "slug": "rustic",
+            "uri": "https://api.sketchfab.com/v3/tags/rustic"
+        },
+        {
+            "name": "cozy",
+            "slug": "cozy",
+            "uri": "https://api.sketchfab.com/v3/tags/cozy"
+        },
+        {
+            "name": "wood-house",
+            "slug": "wood-house",
+            "uri": "https://api.sketchfab.com/v3/tags/wood-house"
+        },
+        {
+            "name": "log-cabin",
+            "slug": "log-cabin",
+            "uri": "https://api.sketchfab.com/v3/tags/log-cabin"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "village",
+            "slug": "village",
+            "uri": "https://api.sketchfab.com/v3/tags/village"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "thatched-roof",
+            "slug": "thatched-roof",
+            "uri": "https://api.sketchfab.com/v3/tags/thatched-roof"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8ce8395974844856a849285f14d097ac",
+                "width": 1920,
+                "height": 1080,
+                "size": 511083,
+                "url": "https://media.sketchfab.com/models/005de8e3f14047da86cb77999616228e/thumbnails/a2d5915a5df14ff9bd4b81c031a75afe/9e3ae116053d4e5db5f19a16be0fbd63.jpeg"
+            },
+            {
+                "uid": "8065201025e648c4998b0e73bd779cf0",
+                "width": 1024,
+                "height": 576,
+                "size": 67804,
+                "url": "https://media.sketchfab.com/models/005de8e3f14047da86cb77999616228e/thumbnails/a2d5915a5df14ff9bd4b81c031a75afe/a68a78a366e042728fa5aa596bc5600b.jpeg"
+            },
+            {
+                "uid": "10167a8189f74ac38ea2857c447c458f",
+                "width": 720,
+                "height": 405,
+                "size": 31096,
+                "url": "https://media.sketchfab.com/models/005de8e3f14047da86cb77999616228e/thumbnails/a2d5915a5df14ff9bd4b81c031a75afe/14d463b74d024b1b8e063661f36a5b93.jpeg"
+            },
+            {
+                "uid": "4383de519de4466bbce900ac092b20f7",
+                "width": 256,
+                "height": 144,
+                "size": 5015,
+                "url": "https://media.sketchfab.com/models/005de8e3f14047da86cb77999616228e/thumbnails/a2d5915a5df14ff9bd4b81c031a75afe/ae51f5c2ce5e496f84636110d2c3f85e.jpeg"
+            },
+            {
+                "uid": "45ddfacc40b047d5b97c91d427fec63b",
+                "width": 64,
+                "height": 36,
+                "size": 1147,
+                "url": "https://media.sketchfab.com/models/005de8e3f14047da86cb77999616228e/thumbnails/a2d5915a5df14ff9bd4b81c031a75afe/e840cb7228af4cf3983f7e0c3a4bed31.jpeg"
+            }
+        ]
+    },
+    "uid": "005de8e3f14047da86cb77999616228e",
+    "uri": "https://api.sketchfab.com/v3/models/005de8e3f14047da86cb77999616228e",
+    "user": {
+        "uid": "8dcd2c23b5da4d0a90cb10bdb0be99a0",
+        "username": "GalaxyAbundant",
+        "displayName": "Galaxy Abundant",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/GalaxyAbundant",
+        "avatar": {
+            "uid": "81412244641947759612e0738f375269",
+            "uri": "https://api.sketchfab.com/v3/avatars/81412244641947759612e0738f375269",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 655,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/e40febffe8cc49248bfd94492ddfac24.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 930,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/b410feb5a6e84f949dd90af0fbde5c59.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1864,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/c0390a25580c4f42a17eadbe55bd9f97.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2110,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/6bb8a6761d5043288f18a3f790417f8b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8dcd2c23b5da4d0a90cb10bdb0be99a0"
+    },
+    "vertexCount": 46679,
+    "viewCount": 44,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-cozy-hearth-ggfmi10-005de8e3f14047da86cb77999616228e",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "The Cozy Hearth: Rustic Thatched Cottage_Low Poly\n\nA charming, rustic cottage asset designed with a cozy, weathered aesthetic.\nThis model features dark, hand-crafted wood logs and a detailed river stone foundation. The thick, mossy thatched roof and the warm, glowing windows make it the perfect centerpiece for a fantasy village or a secluded forest scene.\n\nKey Features:\nAtmosphere: Dappled sunlight-ready textures and a welcoming \"lived-in\" feel.\nDetails: Includes small wooden porch steps, flower pots, and a stone chimney.\nStyle: Great for RPGs, stylized environments, or historical dioramas.",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/005de8e3f14047da86cb77999616228e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-01-11T02:26:30.935915",
+    "pbrType": "specular",
+    "textureCount": 4,
+    "materialCount": 1
+}

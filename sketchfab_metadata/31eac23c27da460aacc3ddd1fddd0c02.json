@@ -1,0 +1,216 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-23T23:35:40.527833",
+    "embedUrl": "https://sketchfab.com/models/31eac23c27da460aacc3ddd1fddd0c02/embed",
+    "faceCount": 166282,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 7,
+    "name": "Low-poly Futuristic Cyberpunk Weapons",
+    "publishedAt": "2026-01-23T23:38:48.008638",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rifle",
+            "slug": "rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle"
+        },
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "machinegun",
+            "slug": "machinegun",
+            "uri": "https://api.sketchfab.com/v3/tags/machinegun"
+        },
+        {
+            "name": "submachinegun",
+            "slug": "submachinegun",
+            "uri": "https://api.sketchfab.com/v3/tags/submachinegun"
+        },
+        {
+            "name": "weapons3d",
+            "slug": "weapons3d",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons3d"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        },
+        {
+            "name": "guns",
+            "slug": "guns",
+            "uri": "https://api.sketchfab.com/v3/tags/guns"
+        },
+        {
+            "name": "sniperrfile",
+            "slug": "sniperrfile",
+            "uri": "https://api.sketchfab.com/v3/tags/sniperrfile"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "570c8dc3ef364c77bc7c84015f30ac59",
+                "width": 1920,
+                "height": 1080,
+                "size": 103792,
+                "url": "https://media.sketchfab.com/models/31eac23c27da460aacc3ddd1fddd0c02/thumbnails/e32e36b985e54dda872925bd126790b5/171ced4bf9b14be8a05fef290bc4ee50.jpeg"
+            },
+            {
+                "uid": "259d6b7d73574e7d80ca7d43159131eb",
+                "width": 1024,
+                "height": 576,
+                "size": 37188,
+                "url": "https://media.sketchfab.com/models/31eac23c27da460aacc3ddd1fddd0c02/thumbnails/e32e36b985e54dda872925bd126790b5/7c4ad43105d8443a8b87172e71ef9398.jpeg"
+            },
+            {
+                "uid": "422b9c385b8d4551a55eb732b925a4b4",
+                "width": 720,
+                "height": 405,
+                "size": 22277,
+                "url": "https://media.sketchfab.com/models/31eac23c27da460aacc3ddd1fddd0c02/thumbnails/e32e36b985e54dda872925bd126790b5/07431ff1db5241c0afa755f68c0e35c6.jpeg"
+            },
+            {
+                "uid": "dd9270b0e1894ad2915e76beb682ff86",
+                "width": 256,
+                "height": 144,
+                "size": 5169,
+                "url": "https://media.sketchfab.com/models/31eac23c27da460aacc3ddd1fddd0c02/thumbnails/e32e36b985e54dda872925bd126790b5/3b9e479fc8184379b312bd48638e4270.jpeg"
+            },
+            {
+                "uid": "ca12b11e5e904f6c8d87f2f8b6a5e335",
+                "width": 64,
+                "height": 36,
+                "size": 1227,
+                "url": "https://media.sketchfab.com/models/31eac23c27da460aacc3ddd1fddd0c02/thumbnails/e32e36b985e54dda872925bd126790b5/48b1fc1059c34f61a79b221ae744af0e.jpeg"
+            }
+        ]
+    },
+    "uid": "31eac23c27da460aacc3ddd1fddd0c02",
+    "uri": "https://api.sketchfab.com/v3/models/31eac23c27da460aacc3ddd1fddd0c02",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 83543,
+    "viewCount": 78,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-futuristic-cyberpunk-weapons-31eac23c27da460aacc3ddd1fddd0c02",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Low-poly Futuristic Cyberpunk Weapons, all solo uploads are high poly, this one contains all guns, machineguns, laserguns, submachineguns, knives and sniperrifle in the same style, used, worn out, yellow and black",
+    "price": null,
+    "downloadCount": 10,
+    "editorUrl": "https://sketchfab.com/models/31eac23c27da460aacc3ddd1fddd0c02/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-23T23:51:49.686013",
+    "pbrType": null,
+    "textureCount": 8,
+    "materialCount": 8
+}

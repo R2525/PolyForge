@@ -1,0 +1,69 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Historical",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.75
+        },
+        {
+            "name": "Realistic",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Weathered",
+        "Dusty",
+        "Cracked",
+        "Mossy"
+    ],
+    "tags": [
+        "iron anvil",
+        "blacksmithing",
+        "ancient",
+        "historical",
+        "weapon",
+        "metal",
+        "rust",
+        "old"
+    ],
+    "model_id_full": "4a80d8c0b2d642bd9ccd7ec443b91f62_Realistic Iron Anvil",
+    "sketchfab_id": "4a80d8c0b2d642bd9ccd7ec443b91f62",
+    "asset_name": "Realistic Iron Anvil"
+}

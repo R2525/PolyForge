@@ -1,0 +1,157 @@
+{
+    "animationCount": 115,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-04T00:31:34.263976",
+    "embedUrl": "https://sketchfab.com/models/0b77d7d60a3e4529905a6fb6b2842701/embed",
+    "faceCount": 6344,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 6,
+    "name": "Mega Raichu X",
+    "publishedAt": "2026-02-04T00:44:00.100105",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "raichu",
+            "slug": "raichu",
+            "uri": "https://api.sketchfab.com/v3/tags/raichu"
+        },
+        {
+            "name": "pokemonlegendsza",
+            "slug": "pokemonlegendsza",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemonlegendsza"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "bdda77dbec354b53ad89d201a16a07af",
+                "width": 1920,
+                "height": 1080,
+                "size": 101922,
+                "url": "https://media.sketchfab.com/models/0b77d7d60a3e4529905a6fb6b2842701/thumbnails/1f65336d4726418394d3509c15c91398/af8320e99aa44256be33aab0f8b6c3e1.jpeg"
+            },
+            {
+                "uid": "e6cf6362095c44018299b3033cc891a6",
+                "width": 1024,
+                "height": 576,
+                "size": 36899,
+                "url": "https://media.sketchfab.com/models/0b77d7d60a3e4529905a6fb6b2842701/thumbnails/1f65336d4726418394d3509c15c91398/405ff1820c16454ab29c8cadb8262850.jpeg"
+            },
+            {
+                "uid": "ed9d5ae08365426dbbe909cd8ad552bd",
+                "width": 720,
+                "height": 405,
+                "size": 22772,
+                "url": "https://media.sketchfab.com/models/0b77d7d60a3e4529905a6fb6b2842701/thumbnails/1f65336d4726418394d3509c15c91398/b96bff4eb8d841fb9e9c17debc05e656.jpeg"
+            },
+            {
+                "uid": "eaf6eff416374a9d9dd1566f1cf3717e",
+                "width": 256,
+                "height": 144,
+                "size": 5463,
+                "url": "https://media.sketchfab.com/models/0b77d7d60a3e4529905a6fb6b2842701/thumbnails/1f65336d4726418394d3509c15c91398/536d27072f83435eb859d6b6334f303c.jpeg"
+            },
+            {
+                "uid": "43c3724254414b649ae85e370dd25ec9",
+                "width": 64,
+                "height": 36,
+                "size": 1232,
+                "url": "https://media.sketchfab.com/models/0b77d7d60a3e4529905a6fb6b2842701/thumbnails/1f65336d4726418394d3509c15c91398/96eb8f6a2eec49df876ec5a3ba5c4188.jpeg"
+            }
+        ]
+    },
+    "uid": "0b77d7d60a3e4529905a6fb6b2842701",
+    "uri": "https://api.sketchfab.com/v3/models/0b77d7d60a3e4529905a6fb6b2842701",
+    "user": {
+        "uid": "59c6308b8f2045d5908aed07e365f393",
+        "username": "raichutwarner",
+        "displayName": "raichutwarner",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/raichutwarner",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/59c6308b8f2045d5908aed07e365f393"
+    },
+    "vertexCount": 3272,
+    "viewCount": 200,
+    "viewerUrl": "https://sketchfab.com/3d-models/mega-raichu-x-0b77d7d60a3e4529905a6fb6b2842701",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Non-Shiny Mega Raichu X",
+    "price": null,
+    "downloadCount": 18,
+    "editorUrl": "https://sketchfab.com/models/0b77d7d60a3e4529905a6fb6b2842701/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-04T00:44:00.201848",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 8
+}

@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-15T22:50:44.464288",
+    "embedUrl": "https://sketchfab.com/models/468460c027564621b1d1f02c296410fe/embed",
+    "faceCount": 80150,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Warhammer Space Marine Black Templar 2",
+    "publishedAt": "2026-01-15T23:00:09.510936",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marine",
+            "slug": "marine",
+            "uri": "https://api.sketchfab.com/v3/tags/marine"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        },
+        {
+            "name": "warhammer40k",
+            "slug": "warhammer40k",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer40k"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c50e47d0f40a431186259eb3cbd4bee2",
+                "width": 1920,
+                "height": 1080,
+                "size": 176484,
+                "url": "https://media.sketchfab.com/models/468460c027564621b1d1f02c296410fe/thumbnails/14b8a1b2cc5643b1b787980c0dc9a306/b591b5b60ec44780a26de829c1a5b174.jpeg"
+            },
+            {
+                "uid": "566fb1c8592a4d02a2134eb02a632220",
+                "width": 1024,
+                "height": 576,
+                "size": 43738,
+                "url": "https://media.sketchfab.com/models/468460c027564621b1d1f02c296410fe/thumbnails/14b8a1b2cc5643b1b787980c0dc9a306/39448bf9ecba4fecb5981687be966eb3.jpeg"
+            },
+            {
+                "uid": "cc549bffba5b4b45a206814606d7a1a8",
+                "width": 720,
+                "height": 405,
+                "size": 24077,
+                "url": "https://media.sketchfab.com/models/468460c027564621b1d1f02c296410fe/thumbnails/14b8a1b2cc5643b1b787980c0dc9a306/9b283031880644a5a0678220ee2bd851.jpeg"
+            },
+            {
+                "uid": "b5cc95fcf0854547ab288539d6efe0cc",
+                "width": 256,
+                "height": 144,
+                "size": 4689,
+                "url": "https://media.sketchfab.com/models/468460c027564621b1d1f02c296410fe/thumbnails/14b8a1b2cc5643b1b787980c0dc9a306/0fca8378c56d4d2198df24ec9a2b372b.jpeg"
+            },
+            {
+                "uid": "3ebe05f4759c4ae28bb894e86b19fc32",
+                "width": 64,
+                "height": 36,
+                "size": 1084,
+                "url": "https://media.sketchfab.com/models/468460c027564621b1d1f02c296410fe/thumbnails/14b8a1b2cc5643b1b787980c0dc9a306/3a6cb7353fee479093cf68bcfbaaf4e1.jpeg"
+            }
+        ]
+    },
+    "uid": "468460c027564621b1d1f02c296410fe",
+    "uri": "https://api.sketchfab.com/v3/models/468460c027564621b1d1f02c296410fe",
+    "user": {
+        "uid": "36779aa3dc1244b68e5acdf753f3f5c6",
+        "username": "crazycool",
+        "displayName": "CrazyCool",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/crazycool",
+        "avatar": {
+            "uid": "608d3e03a3334cb5b50c20dbfe376f4d",
+            "uri": "https://api.sketchfab.com/v3/avatars/608d3e03a3334cb5b50c20dbfe376f4d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 4103,
+                    "url": "https://media.sketchfab.com/avatars/608d3e03a3334cb5b50c20dbfe376f4d/2eb4535eb06345259453f3c92c785397.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5842,
+                    "url": "https://media.sketchfab.com/avatars/608d3e03a3334cb5b50c20dbfe376f4d/9b3e6d15ae154e0aa6166356bebab7b1.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9821,
+                    "url": "https://media.sketchfab.com/avatars/608d3e03a3334cb5b50c20dbfe376f4d/6b392eba490c4f1f977535618f385726.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 8933,
+                    "url": "https://media.sketchfab.com/avatars/608d3e03a3334cb5b50c20dbfe376f4d/b78099a3c5d846f5a9b7d22d7e2d0dab.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/36779aa3dc1244b68e5acdf753f3f5c6"
+    },
+    "vertexCount": 40139,
+    "viewCount": 196,
+    "viewerUrl": "https://sketchfab.com/3d-models/warhammer-space-marine-black-templar-2-468460c027564621b1d1f02c296410fe",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Test",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/468460c027564621b1d1f02c296410fe/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-15T23:00:09.762101",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 3
+}

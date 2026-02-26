@@ -1,0 +1,41 @@
+{
+    "category": "Electronics & Gadgets",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.78
+        },
+        {
+            "name": "Military",
+            "score": 0.72
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.78
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Glow"
+    ],
+    "tags": [
+        "helmet",
+        "gear",
+        "headgear"
+    ]
+}

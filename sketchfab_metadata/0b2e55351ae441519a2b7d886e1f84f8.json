@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-22T21:12:42.385373",
+    "embedUrl": "https://sketchfab.com/models/0b2e55351ae441519a2b7d886e1f84f8/embed",
+    "faceCount": 1632,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Medieval_Prop_Project",
+    "publishedAt": "2025-12-22T21:20:43.382975",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "infinityblade",
+            "slug": "infinityblade",
+            "uri": "https://api.sketchfab.com/v3/tags/infinityblade"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "15a523cebf354d9bb0d86d304c43e531",
+                "width": 1920,
+                "height": 1080,
+                "size": 307957,
+                "url": "https://media.sketchfab.com/models/0b2e55351ae441519a2b7d886e1f84f8/thumbnails/702e3906a7734dbf90fe4ea6dc9a3fa5/c6b0aab0ae1b4a4592188db2dc3ff027.jpeg"
+            },
+            {
+                "uid": "b1d81414f5374c2082fa2b874826f7b7",
+                "width": 1024,
+                "height": 576,
+                "size": 25730,
+                "url": "https://media.sketchfab.com/models/0b2e55351ae441519a2b7d886e1f84f8/thumbnails/702e3906a7734dbf90fe4ea6dc9a3fa5/3fcf744290724216afd40f832ccfb64c.jpeg"
+            },
+            {
+                "uid": "ac5df797a7324dd2a12384c003579639",
+                "width": 720,
+                "height": 405,
+                "size": 14150,
+                "url": "https://media.sketchfab.com/models/0b2e55351ae441519a2b7d886e1f84f8/thumbnails/702e3906a7734dbf90fe4ea6dc9a3fa5/442c4772fa544cd193734ab5ff00c06a.jpeg"
+            },
+            {
+                "uid": "13cdb537e93b49d2929dcee0943b4bcd",
+                "width": 256,
+                "height": 144,
+                "size": 3316,
+                "url": "https://media.sketchfab.com/models/0b2e55351ae441519a2b7d886e1f84f8/thumbnails/702e3906a7734dbf90fe4ea6dc9a3fa5/60d093e0d6104b05a7a3d94823821b9e.jpeg"
+            },
+            {
+                "uid": "1bb21dfc26b4475dbc62390de098a224",
+                "width": 64,
+                "height": 36,
+                "size": 1041,
+                "url": "https://media.sketchfab.com/models/0b2e55351ae441519a2b7d886e1f84f8/thumbnails/702e3906a7734dbf90fe4ea6dc9a3fa5/bb3888284eac49fb8bad3f99174bcdc1.jpeg"
+            }
+        ]
+    },
+    "uid": "0b2e55351ae441519a2b7d886e1f84f8",
+    "uri": "https://api.sketchfab.com/v3/models/0b2e55351ae441519a2b7d886e1f84f8",
+    "user": {
+        "uid": "8a98c8db58734bd99cff8f08818176fd",
+        "username": "Nanino1",
+        "displayName": "Nanino1",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nanino1",
+        "avatar": {
+            "uid": "b9c2dbeaffe94f589544a0e309aa1fc2",
+            "uri": "https://api.sketchfab.com/v3/avatars/b9c2dbeaffe94f589544a0e309aa1fc2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 736,
+                    "url": "https://media.sketchfab.com/avatars/b9c2dbeaffe94f589544a0e309aa1fc2/3fd89b5fb66945059a602dae6afd35a4.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 777,
+                    "url": "https://media.sketchfab.com/avatars/b9c2dbeaffe94f589544a0e309aa1fc2/eeacc55f3295495d89b168da9adf1d75.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1037,
+                    "url": "https://media.sketchfab.com/avatars/b9c2dbeaffe94f589544a0e309aa1fc2/be29a39095cc48eba4c66df3aa1e8869.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1081,
+                    "url": "https://media.sketchfab.com/avatars/b9c2dbeaffe94f589544a0e309aa1fc2/ae53a07f9a6740168ca497dc744ca56e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8a98c8db58734bd99cff8f08818176fd"
+    },
+    "vertexCount": 923,
+    "viewCount": 30,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-prop-project-0b2e55351ae441519a2b7d886e1f84f8",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a low-poly medieval sword created using a low–high workflow for real-time use. The design is based on the Infinity Blade (Epic Games). Details were baked from a high-resolution sculpt and finished in Substance 3D Painter using PBR textures (base color, normal, roughness, metallic).\nDesigned for a medieval or fantasy environment, with an efficient polygon budget bellow 1000 faces. Presented here with simple lighting to showcase materials and baked detail.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0b2e55351ae441519a2b7d886e1f84f8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-22T21:35:02.927148",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

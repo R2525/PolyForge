@@ -1,0 +1,41 @@
+{
+    "category": "Places & Locations",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.65
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.55
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.8
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Dusty",
+        "Clean"
+    ],
+    "tags": [
+        "town",
+        "station",
+        "railway"
+    ]
+}

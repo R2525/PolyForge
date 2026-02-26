@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-31T16:59:49.147192",
+    "embedUrl": "https://sketchfab.com/models/2d4f4e4be776448595663f4bfbd71085/embed",
+    "faceCount": 1181536,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+    },
+    "likeCount": 21,
+    "name": "Stadtmodell",
+    "publishedAt": "2026-02-01T07:19:39.923673",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "hungary",
+            "slug": "hungary",
+            "uri": "https://api.sketchfab.com/v3/tags/hungary"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "city",
+            "slug": "city",
+            "uri": "https://api.sketchfab.com/v3/tags/city"
+        },
+        {
+            "name": "koszeg",
+            "slug": "koszeg",
+            "uri": "https://api.sketchfab.com/v3/tags/koszeg"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a7ce622041154f8a92a8080042f46923",
+                "width": 1920,
+                "height": 1080,
+                "size": 579637,
+                "url": "https://media.sketchfab.com/models/2d4f4e4be776448595663f4bfbd71085/thumbnails/943fbceab60d4ea09f16ec43ad6287de/74fae2b141c446f6bbd5bae3f64986ae.jpeg"
+            },
+            {
+                "uid": "9f0bdf5853054e1aafa8b66913b41c4d",
+                "width": 1024,
+                "height": 576,
+                "size": 145640,
+                "url": "https://media.sketchfab.com/models/2d4f4e4be776448595663f4bfbd71085/thumbnails/943fbceab60d4ea09f16ec43ad6287de/4f0cba34e80249ea867d284fb1eba144.jpeg"
+            },
+            {
+                "uid": "636d675a7ee9424980f5e975de43e47a",
+                "width": 720,
+                "height": 405,
+                "size": 74658,
+                "url": "https://media.sketchfab.com/models/2d4f4e4be776448595663f4bfbd71085/thumbnails/943fbceab60d4ea09f16ec43ad6287de/f4fedc2380b547329ba0e98d6d64e0ed.jpeg"
+            },
+            {
+                "uid": "888608d6063c47fbbe1aeaf51c7aee4c",
+                "width": 256,
+                "height": 144,
+                "size": 10665,
+                "url": "https://media.sketchfab.com/models/2d4f4e4be776448595663f4bfbd71085/thumbnails/943fbceab60d4ea09f16ec43ad6287de/ea6edb9686674cff84c3f55a291d70b8.jpeg"
+            },
+            {
+                "uid": "f87de49722004ae58c74cfeca0c0d2bb",
+                "width": 64,
+                "height": 36,
+                "size": 1480,
+                "url": "https://media.sketchfab.com/models/2d4f4e4be776448595663f4bfbd71085/thumbnails/943fbceab60d4ea09f16ec43ad6287de/21b306000e6646059cf6d3491ea45f21.jpeg"
+            }
+        ]
+    },
+    "uid": "2d4f4e4be776448595663f4bfbd71085",
+    "uri": "https://api.sketchfab.com/v3/models/2d4f4e4be776448595663f4bfbd71085",
+    "user": {
+        "uid": "8d731463710c49b88837b9c8f355e3a6",
+        "username": "www.noe-3d.at",
+        "displayName": "noe-3d.at",
+        "account": "prem",
+        "profileUrl": "https://sketchfab.com/www.noe-3d.at",
+        "avatar": {
+            "uid": "4ff5da1808d64620a3c823cc37fbc284",
+            "uri": "https://api.sketchfab.com/v3/avatars/4ff5da1808d64620a3c823cc37fbc284",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 790,
+                    "url": "https://media.sketchfab.com/avatars/4ff5da1808d64620a3c823cc37fbc284/fc29b80bad134b35aba207a2ee493552.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 900,
+                    "url": "https://media.sketchfab.com/avatars/4ff5da1808d64620a3c823cc37fbc284/cbfa8757755743fcb2734dc2f971de34.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1276,
+                    "url": "https://media.sketchfab.com/avatars/4ff5da1808d64620a3c823cc37fbc284/5608ad563cb74094932040bbb5d7075e.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1374,
+                    "url": "https://media.sketchfab.com/avatars/4ff5da1808d64620a3c823cc37fbc284/e477198d12b3483694f30874051aa563.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8d731463710c49b88837b9c8f355e3a6"
+    },
+    "vertexCount": 593357,
+    "viewCount": 269,
+    "viewerUrl": "https://sketchfab.com/3d-models/stadtmodell-2d4f4e4be776448595663f4bfbd71085",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "The model of Kőszeg is a plastic model of the medieval town and shows what Kőszeg looked like before the Ottoman siege in 1532. It was erected in 2012 and is located near the corner of Schneller István utca and Táblaház utca. The model depicts the historic old town as a three-dimensional miniature, including the city walls, towers, and the location of the castle. It serves primarily educational and tourist purposes and helps visitors to better imagine the structure and significance of the medieval town before the great siege. Kőszeg itself is an exceptionally well-preserved medieval town in western Hungary near the Austrian border, known for its historic buildings, Jurisics Castle, and its enclosed old town center, and is often referred to as the “jewel box of Hungary.”",
+    "price": null,
+    "downloadCount": 25,
+    "editorUrl": "https://sketchfab.com/models/2d4f4e4be776448595663f4bfbd71085/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-01T07:19:40.016483",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 2
+}

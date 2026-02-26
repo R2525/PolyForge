@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T08:25:45.555491",
+    "embedUrl": "https://sketchfab.com/models/15dfa137002345deb45ffa0926ea2a9e/embed",
+    "faceCount": 24562,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "The Black Tree - \"Employer\" Form Preview",
+    "publishedAt": "2026-02-21T09:16:54.181928",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "horrorgamecharacter",
+            "slug": "horrorgamecharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/horrorgamecharacter"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c2b2478605e846ebb5406b92638ed4bf",
+                "width": 1920,
+                "height": 1080,
+                "size": 76628,
+                "url": "https://media.sketchfab.com/models/15dfa137002345deb45ffa0926ea2a9e/thumbnails/cfd186cb0a704c22a36e1b8f2c66e4df/de5f51b96d5247268a614d9b66d69d29.jpeg"
+            },
+            {
+                "uid": "2c66fb07a2bd45c3869cd384872c88b9",
+                "width": 1024,
+                "height": 576,
+                "size": 24527,
+                "url": "https://media.sketchfab.com/models/15dfa137002345deb45ffa0926ea2a9e/thumbnails/cfd186cb0a704c22a36e1b8f2c66e4df/dae26a1223964872b93b16d099392fd3.jpeg"
+            },
+            {
+                "uid": "3693f58975db444f82b6d218fafde067",
+                "width": 720,
+                "height": 405,
+                "size": 14446,
+                "url": "https://media.sketchfab.com/models/15dfa137002345deb45ffa0926ea2a9e/thumbnails/cfd186cb0a704c22a36e1b8f2c66e4df/2cad77e6dbf644538eba91638ebd638c.jpeg"
+            },
+            {
+                "uid": "25412334be374a56bd4b1a6926722c95",
+                "width": 256,
+                "height": 144,
+                "size": 3499,
+                "url": "https://media.sketchfab.com/models/15dfa137002345deb45ffa0926ea2a9e/thumbnails/cfd186cb0a704c22a36e1b8f2c66e4df/423df9bfe0544b7792204e44437db5a8.jpeg"
+            },
+            {
+                "uid": "744cd7a6fd1c4ef6832717fcd3ecbaac",
+                "width": 64,
+                "height": 36,
+                "size": 962,
+                "url": "https://media.sketchfab.com/models/15dfa137002345deb45ffa0926ea2a9e/thumbnails/cfd186cb0a704c22a36e1b8f2c66e4df/3421c108e8b04dc2a184a56acfbdf7e0.jpeg"
+            }
+        ]
+    },
+    "uid": "15dfa137002345deb45ffa0926ea2a9e",
+    "uri": "https://api.sketchfab.com/v3/models/15dfa137002345deb45ffa0926ea2a9e",
+    "user": {
+        "uid": "a37998a5a70a4f2497e9e518386a38d7",
+        "username": "TheWalshinator",
+        "displayName": "TheWalshinator",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/TheWalshinator",
+        "avatar": {
+            "uid": "2b7bd36b5b3348aaae401c3da166f7f1",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b7bd36b5b3348aaae401c3da166f7f1",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2185,
+                    "url": "https://media.sketchfab.com/avatars/2b7bd36b5b3348aaae401c3da166f7f1/ee0a394f4bca4d2394c28cd19ada180f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4312,
+                    "url": "https://media.sketchfab.com/avatars/2b7bd36b5b3348aaae401c3da166f7f1/331bb291de6e457a90c7e1869fa6bc24.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12541,
+                    "url": "https://media.sketchfab.com/avatars/2b7bd36b5b3348aaae401c3da166f7f1/cc28d62ea2ed4518ba3cb23c2ceed8a0.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 15054,
+                    "url": "https://media.sketchfab.com/avatars/2b7bd36b5b3348aaae401c3da166f7f1/0f6f3041f583454e966d0d099a0c6cd5.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a37998a5a70a4f2497e9e518386a38d7"
+    },
+    "vertexCount": 12397,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-black-tree-employer-form-preview-15dfa137002345deb45ffa0926ea2a9e",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "The first form of The Black Tree, created myself for my horror game project *ALWAYS HUNTING - Jacob's Story*. The design and lore of the creature draws inspiration from the Slender Man mythos.\n\nUnfortunately the alpha textures on the clothes weren't working which is why the sleeves and trousers don't have the \"torn\" ends.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/15dfa137002345deb45ffa0926ea2a9e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T09:16:54.342525",
+    "pbrType": null,
+    "textureCount": 9,
+    "materialCount": 2
+}

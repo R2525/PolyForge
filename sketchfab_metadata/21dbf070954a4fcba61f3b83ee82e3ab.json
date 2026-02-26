@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T20:10:00.283751",
+    "embedUrl": "https://sketchfab.com/models/21dbf070954a4fcba61f3b83ee82e3ab/embed",
+    "faceCount": 111164,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Protobot",
+    "publishedAt": "2026-02-21T20:15:25.874465",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cargo",
+            "slug": "cargo",
+            "uri": "https://api.sketchfab.com/v3/tags/cargo"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "protobot",
+            "slug": "protobot",
+            "uri": "https://api.sketchfab.com/v3/tags/protobot"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "24d27c01379c464fb523a5c627831cec",
+                "width": 1920,
+                "height": 1080,
+                "size": 60747,
+                "url": "https://media.sketchfab.com/models/21dbf070954a4fcba61f3b83ee82e3ab/thumbnails/823fa4366dfa452f93719bac71ff7335/390cd436bbb940d3b4d59054de96d3db.jpeg"
+            },
+            {
+                "uid": "6963f682490f4b11ae25cc43882634bc",
+                "width": 1024,
+                "height": 576,
+                "size": 19007,
+                "url": "https://media.sketchfab.com/models/21dbf070954a4fcba61f3b83ee82e3ab/thumbnails/823fa4366dfa452f93719bac71ff7335/6a911ee3deb04effbe33e98fd41c9309.jpeg"
+            },
+            {
+                "uid": "3e6c41e0ccdb4241942652c5b3d6301e",
+                "width": 720,
+                "height": 405,
+                "size": 11021,
+                "url": "https://media.sketchfab.com/models/21dbf070954a4fcba61f3b83ee82e3ab/thumbnails/823fa4366dfa452f93719bac71ff7335/ce7c083f9a644664a342b91878b7ad49.jpeg"
+            },
+            {
+                "uid": "5b6c484904f445249eb6166a20c95994",
+                "width": 256,
+                "height": 144,
+                "size": 2527,
+                "url": "https://media.sketchfab.com/models/21dbf070954a4fcba61f3b83ee82e3ab/thumbnails/823fa4366dfa452f93719bac71ff7335/bbcff056241f4855ab79bf8be1e17e5b.jpeg"
+            },
+            {
+                "uid": "7a5c9f4041e5449b9c4e92ec72125721",
+                "width": 64,
+                "height": 36,
+                "size": 848,
+                "url": "https://media.sketchfab.com/models/21dbf070954a4fcba61f3b83ee82e3ab/thumbnails/823fa4366dfa452f93719bac71ff7335/1e785ab1304c44b1b71be65858822cf3.jpeg"
+            }
+        ]
+    },
+    "uid": "21dbf070954a4fcba61f3b83ee82e3ab",
+    "uri": "https://api.sketchfab.com/v3/models/21dbf070954a4fcba61f3b83ee82e3ab",
+    "user": {
+        "uid": "4af3520b29c643028e0c4249b46c18a7",
+        "username": "monke75",
+        "displayName": "monke75",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/monke75",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4af3520b29c643028e0c4249b46c18a7"
+    },
+    "vertexCount": 55780,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/protobot-21dbf070954a4fcba61f3b83ee82e3ab",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the source format.The Converted version is intended for web viewing only. In the Original format, the following are fully preserved:✔ native scene structure✔ all materials without simplification✔ correct PBR texture maps✔ correct object namesIf you intend to use the asset in a production environment, download the source file.A low poly cargo delivery bot capable of space flight and hovering.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/21dbf070954a4fcba61f3b83ee82e3ab/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T20:15:26.128233",
+    "pbrType": "metalness",
+    "textureCount": 17,
+    "materialCount": 5
+}

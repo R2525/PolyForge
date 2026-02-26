@@ -1,0 +1,186 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-27T16:09:37.849065",
+    "embedUrl": "https://sketchfab.com/models/0720615c24094270bb5f7835bd90fd9d/embed",
+    "faceCount": 240477,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Ballyellin: partial cross slab",
+    "publishedAt": "2026-01-27T16:14:48.917962",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "granite",
+            "slug": "granite",
+            "uri": "https://api.sketchfab.com/v3/tags/granite"
+        },
+        {
+            "name": "carlow3d",
+            "slug": "carlow3d",
+            "uri": "https://api.sketchfab.com/v3/tags/carlow3d"
+        },
+        {
+            "name": "kiriengine",
+            "slug": "kiriengine",
+            "uri": "https://api.sketchfab.com/v3/tags/kiriengine"
+        },
+        {
+            "name": "photograpmmetry",
+            "slug": "photograpmmetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photograpmmetry"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5fb056f61b6c4a519f2bcee7b829427a",
+                "width": 1920,
+                "height": 1080,
+                "size": 193200,
+                "url": "https://media.sketchfab.com/models/0720615c24094270bb5f7835bd90fd9d/thumbnails/126c1ad76b604de7a226a117c96762d3/8354f099d440470cbb2eec0b8b516ccb.jpeg"
+            },
+            {
+                "uid": "d5b00e584f37491f90873b80b299b0d9",
+                "width": 1024,
+                "height": 576,
+                "size": 49723,
+                "url": "https://media.sketchfab.com/models/0720615c24094270bb5f7835bd90fd9d/thumbnails/126c1ad76b604de7a226a117c96762d3/d16b078876e44e81b68c662c6d0568a3.jpeg"
+            },
+            {
+                "uid": "67cd85868dfd4e4991d1f26bd4b91c1f",
+                "width": 720,
+                "height": 405,
+                "size": 26458,
+                "url": "https://media.sketchfab.com/models/0720615c24094270bb5f7835bd90fd9d/thumbnails/126c1ad76b604de7a226a117c96762d3/e152dc94791d4aff82eec9a4c6c0fbd5.jpeg"
+            },
+            {
+                "uid": "79cae821f5e24ac496e8023622d64cc2",
+                "width": 256,
+                "height": 144,
+                "size": 4547,
+                "url": "https://media.sketchfab.com/models/0720615c24094270bb5f7835bd90fd9d/thumbnails/126c1ad76b604de7a226a117c96762d3/423dcf30815b4341ba3cc96f76839d0e.jpeg"
+            },
+            {
+                "uid": "746d85b9bb44487dba84344864f7efd8",
+                "width": 64,
+                "height": 36,
+                "size": 1003,
+                "url": "https://media.sketchfab.com/models/0720615c24094270bb5f7835bd90fd9d/thumbnails/126c1ad76b604de7a226a117c96762d3/c9209b0f29de411fb24dabe5eeb869cf.jpeg"
+            }
+        ]
+    },
+    "uid": "0720615c24094270bb5f7835bd90fd9d",
+    "uri": "https://api.sketchfab.com/v3/models/0720615c24094270bb5f7835bd90fd9d",
+    "user": {
+        "uid": "4d9ac526066f4adc90a32dd57ddc42dc",
+        "username": "b-unicycling",
+        "displayName": "b-unicycling",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/b-unicycling",
+        "avatar": {
+            "uid": "6993d14140a241a9ac3a5b48ab9b6abc",
+            "uri": "https://api.sketchfab.com/v3/avatars/6993d14140a241a9ac3a5b48ab9b6abc",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2335,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/6baf43359e634dba8122684a52e0bb72.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4058,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/7977252be95f4b3a82341af4778882b4.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8726,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/ec8ce19d537049fdba0a5421e7a38503.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10011,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/e554dd6be43a4b3f9089c549228edb8c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4d9ac526066f4adc90a32dd57ddc42dc"
+    },
+    "vertexCount": 120750,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/ballyellin-partial-cross-slab-0720615c24094270bb5f7835bd90fd9d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Discovery 2 at the second visit: A partial cross slab (bottom part, but used here upside down) dating likely to the 13th or 14th century, judging from the fleur-de-lys motif. Also not recorded by the National Monuments Service (yet). There is no inscription on it, but they tended to be towards the head of the cross which is missing. It might still be in the graveyard somewhere, though.\n\nMade in KiriEngine from 107 images.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/0720615c24094270bb5f7835bd90fd9d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-27T16:37:32.974218",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

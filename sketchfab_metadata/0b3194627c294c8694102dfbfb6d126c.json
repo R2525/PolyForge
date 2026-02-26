@@ -1,0 +1,245 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T03:14:31.816087",
+    "embedUrl": "https://sketchfab.com/models/0b3194627c294c8694102dfbfb6d126c/embed",
+    "faceCount": 5132,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Swort Abyssal Spine Reaver",
+    "publishedAt": "2026-02-22T05:04:18.683895",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "organic",
+            "slug": "organic",
+            "uri": "https://api.sketchfab.com/v3/tags/organic"
+        },
+        {
+            "name": "demon",
+            "slug": "demon",
+            "uri": "https://api.sketchfab.com/v3/tags/demon"
+        },
+        {
+            "name": "bone",
+            "slug": "bone",
+            "uri": "https://api.sketchfab.com/v3/tags/bone"
+        },
+        {
+            "name": "boss",
+            "slug": "boss",
+            "uri": "https://api.sketchfab.com/v3/tags/boss"
+        },
+        {
+            "name": "spine",
+            "slug": "spine",
+            "uri": "https://api.sketchfab.com/v3/tags/spine"
+        },
+        {
+            "name": "greatsword",
+            "slug": "greatsword",
+            "uri": "https://api.sketchfab.com/v3/tags/greatsword"
+        },
+        {
+            "name": "Eldritch",
+            "slug": "eldritch",
+            "uri": "https://api.sketchfab.com/v3/tags/eldritch"
+        },
+        {
+            "name": "cursed",
+            "slug": "cursed",
+            "uri": "https://api.sketchfab.com/v3/tags/cursed"
+        },
+        {
+            "name": "soulslike",
+            "slug": "soulslike",
+            "uri": "https://api.sketchfab.com/v3/tags/soulslike"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7ce784020c7c4c6c9b7a13cab7731131",
+                "width": 1920,
+                "height": 1080,
+                "size": 65487,
+                "url": "https://media.sketchfab.com/models/0b3194627c294c8694102dfbfb6d126c/thumbnails/206cddeec5ee443ea5291ce96f33d1ec/77f06c9abbb44ab097705d4bcaade184.jpeg"
+            },
+            {
+                "uid": "a43880dc9af9405c963afb1d2c14c78e",
+                "width": 1024,
+                "height": 576,
+                "size": 22353,
+                "url": "https://media.sketchfab.com/models/0b3194627c294c8694102dfbfb6d126c/thumbnails/206cddeec5ee443ea5291ce96f33d1ec/57c384593b954f39b66a4a52af8dea3e.jpeg"
+            },
+            {
+                "uid": "0ae41780b05b4cd7b9b5003bb9e375a9",
+                "width": 720,
+                "height": 405,
+                "size": 13183,
+                "url": "https://media.sketchfab.com/models/0b3194627c294c8694102dfbfb6d126c/thumbnails/206cddeec5ee443ea5291ce96f33d1ec/55092b93f31c4cf087e4cf9c1f34dc2b.jpeg"
+            },
+            {
+                "uid": "09fe316191d149b790e675043ba5b861",
+                "width": 256,
+                "height": 144,
+                "size": 2863,
+                "url": "https://media.sketchfab.com/models/0b3194627c294c8694102dfbfb6d126c/thumbnails/206cddeec5ee443ea5291ce96f33d1ec/f4506eaca92e434bb2c428d098bb202e.jpeg"
+            },
+            {
+                "uid": "d6a6d2086aba4b329a1e53e3d6f29995",
+                "width": 64,
+                "height": 36,
+                "size": 902,
+                "url": "https://media.sketchfab.com/models/0b3194627c294c8694102dfbfb6d126c/thumbnails/206cddeec5ee443ea5291ce96f33d1ec/e46f4be9353c49d590a823b906140ed3.jpeg"
+            }
+        ]
+    },
+    "uid": "0b3194627c294c8694102dfbfb6d126c",
+    "uri": "https://api.sketchfab.com/v3/models/0b3194627c294c8694102dfbfb6d126c",
+    "user": {
+        "uid": "21753078511049d28f3c19e8831e2944",
+        "username": "pcfcsta",
+        "displayName": "TRXXspeed",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/pcfcsta",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/21753078511049d28f3c19e8831e2944"
+    },
+    "vertexCount": 2597,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/swort-abyssal-spine-reaver-0b3194627c294c8694102dfbfb6d126c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Abyssal Spine Reaver is a dark organic greatsword forged from the corrupted spine of an ancient abyssal entity.\n\nThis weapon features a jagged vertebrae-like structure with sharp bone protrusions along the blade, and a haunting embedded eye near the guard that seems to watch its prey. The design blends horror, fantasy, and eldritch aesthetics, making it perfect for dark RPG, boss weapons, or cursed artifact concepts.\n\n🔹 Style: Dark Fantasy / Eldritch / Horror\n🔹 Suitable for: RPG, Souls-like, Dark-themed games\n🔹 High detail sculpt with organic surface texture\n🔹 Game-ready / Concept-ready asset\n\nThe Abyssal Spine Reaver is not forged it is grown.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0b3194627c294c8694102dfbfb6d126c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T18:17:28.268731",
+    "pbrType": "metalness",
+    "textureCount": 6,
+    "materialCount": 2
+}

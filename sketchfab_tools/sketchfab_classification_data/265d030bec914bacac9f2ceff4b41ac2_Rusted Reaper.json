@@ -1,0 +1,70 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.7
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.6
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Realistic",
+            "score": 0.6
+        },
+        {
+            "name": "High-Definition",
+            "score": 0.5
+        },
+        {
+            "name": "3D Render",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Weathered",
+        "Faded",
+        "Corroded"
+    ],
+    "tags": [
+        "reaper",
+        "warrior",
+        "military",
+        "fantasy",
+        "gore",
+        "post-apocalyptic",
+        "dark",
+        "dying",
+        "grim"
+    ],
+    "model_id_full": "265d030bec914bacac9f2ceff4b41ac2_Rusted Reaper",
+    "sketchfab_id": "265d030bec914bacac9f2ceff4b41ac2",
+    "asset_name": "Rusted Reaper"
+}

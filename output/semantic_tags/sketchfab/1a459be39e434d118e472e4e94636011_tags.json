@@ -1,0 +1,32 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Abstract",
+            "score": 0.85
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.9
+        },
+        {
+            "name": "Abstract",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "cube",
+        "3D",
+        "model"
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "animationCount": 18,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T20:16:22.776861",
+    "embedUrl": "https://sketchfab.com/models/2c9c38199b7940949b505a3811a0c336/embed",
+    "faceCount": 1980,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Rayquaza Mega Galaxy (Cobblemon)",
+    "publishedAt": "2026-02-20T20:20:41.426878",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "server",
+            "slug": "server",
+            "uri": "https://api.sketchfab.com/v3/tags/server"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "Galaxy",
+            "slug": "galaxy",
+            "uri": "https://api.sketchfab.com/v3/tags/galaxy"
+        },
+        {
+            "name": "artist",
+            "slug": "artist",
+            "uri": "https://api.sketchfab.com/v3/tags/artist"
+        },
+        {
+            "name": "Pixelmon",
+            "slug": "pixelmon",
+            "uri": "https://api.sketchfab.com/v3/tags/pixelmon"
+        },
+        {
+            "name": "Bundle",
+            "slug": "bundle",
+            "uri": "https://api.sketchfab.com/v3/tags/bundle"
+        },
+        {
+            "name": "sell",
+            "slug": "sell",
+            "uri": "https://api.sketchfab.com/v3/tags/sell"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "megarayquaza",
+            "slug": "megarayquaza",
+            "uri": "https://api.sketchfab.com/v3/tags/megarayquaza"
+        },
+        {
+            "name": "cobblemon",
+            "slug": "cobblemon",
+            "uri": "https://api.sketchfab.com/v3/tags/cobblemon"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3f81e9eaa486464e943160af46f3dee5",
+                "width": 1920,
+                "height": 1080,
+                "size": 123651,
+                "url": "https://media.sketchfab.com/models/2c9c38199b7940949b505a3811a0c336/thumbnails/9aa7e167df4b448ea73db2fc0c395ef4/2f69739c2b2b453c808e2cd61dd015eb.jpeg"
+            },
+            {
+                "uid": "3b7ad4c821d448ec980d1b95368db025",
+                "width": 1024,
+                "height": 576,
+                "size": 44866,
+                "url": "https://media.sketchfab.com/models/2c9c38199b7940949b505a3811a0c336/thumbnails/9aa7e167df4b448ea73db2fc0c395ef4/f594370bd9d3434fb9a64e8778a8ba96.jpeg"
+            },
+            {
+                "uid": "a2b6cc4e0df644fcbe6689147aa3a036",
+                "width": 720,
+                "height": 405,
+                "size": 26966,
+                "url": "https://media.sketchfab.com/models/2c9c38199b7940949b505a3811a0c336/thumbnails/9aa7e167df4b448ea73db2fc0c395ef4/21cec0bc8b5e479bb551175799c987f5.jpeg"
+            },
+            {
+                "uid": "478a2c113c1644299c04c91bc500ff48",
+                "width": 256,
+                "height": 144,
+                "size": 5886,
+                "url": "https://media.sketchfab.com/models/2c9c38199b7940949b505a3811a0c336/thumbnails/9aa7e167df4b448ea73db2fc0c395ef4/f85d5a9b4e724ef2a6bacd8941722a76.jpeg"
+            },
+            {
+                "uid": "b33a21d6053247aa8d7a5944b7421911",
+                "width": 64,
+                "height": 36,
+                "size": 1222,
+                "url": "https://media.sketchfab.com/models/2c9c38199b7940949b505a3811a0c336/thumbnails/9aa7e167df4b448ea73db2fc0c395ef4/3b341c29b630454d9085a2d9051d6066.jpeg"
+            }
+        ]
+    },
+    "uid": "2c9c38199b7940949b505a3811a0c336",
+    "uri": "https://api.sketchfab.com/v3/models/2c9c38199b7940949b505a3811a0c336",
+    "user": {
+        "uid": "8111a8f67a24456daca3b2825ebed417",
+        "username": "Acesky",
+        "displayName": "Acesky",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Acesky",
+        "avatar": {
+            "uid": "2c6213bfb2134cdb955b3429932f3366",
+            "uri": "https://api.sketchfab.com/v3/avatars/2c6213bfb2134cdb955b3429932f3366",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 970,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/966d614345e54b6e9e8182364e2b8d4a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1249,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/75155f3e349b46a1ab44adbb1b4580d8.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2319,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/055e7547ae8f436292ddd0ebc9b46c03.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2617,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/da4b85ed779c4b41a5ce53a6e7130728.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8111a8f67a24456daca3b2825ebed417"
+    },
+    "vertexCount": 1320,
+    "viewCount": 29,
+    "viewerUrl": "https://sketchfab.com/3d-models/rayquaza-mega-galaxy-cobblemon-2c9c38199b7940949b505a3811a0c336",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2c9c38199b7940949b505a3811a0c336/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T20:20:41.667657",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

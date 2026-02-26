@@ -1,0 +1,261 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T06:05:29.989000",
+    "embedUrl": "https://sketchfab.com/models/33f8d64792964b0aa5000844ba6c577d/embed",
+    "faceCount": 2000,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Dark Hooded Skull Mask Low Poly Mobile Ready",
+    "publishedAt": "2026-02-22T06:14:44.512179",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "assassin",
+            "slug": "assassin",
+            "uri": "https://api.sketchfab.com/v3/tags/assassin"
+        },
+        {
+            "name": "death",
+            "slug": "death",
+            "uri": "https://api.sketchfab.com/v3/tags/death"
+        },
+        {
+            "name": "bone",
+            "slug": "bone",
+            "uri": "https://api.sketchfab.com/v3/tags/bone"
+        },
+        {
+            "name": "reaper",
+            "slug": "reaper",
+            "uri": "https://api.sketchfab.com/v3/tags/reaper"
+        },
+        {
+            "name": "undead",
+            "slug": "undead",
+            "uri": "https://api.sketchfab.com/v3/tags/undead"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "ar",
+            "slug": "ar",
+            "uri": "https://api.sketchfab.com/v3/tags/ar"
+        },
+        {
+            "name": "accessory",
+            "slug": "accessory",
+            "uri": "https://api.sketchfab.com/v3/tags/accessory"
+        },
+        {
+            "name": "Mask",
+            "slug": "mask",
+            "uri": "https://api.sketchfab.com/v3/tags/mask"
+        },
+        {
+            "name": "hooded",
+            "slug": "hooded",
+            "uri": "https://api.sketchfab.com/v3/tags/hooded"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "skull",
+            "slug": "skull",
+            "uri": "https://api.sketchfab.com/v3/tags/skull"
+        },
+        {
+            "name": "mobile",
+            "slug": "mobile",
+            "uri": "https://api.sketchfab.com/v3/tags/mobile"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "clothing",
+            "slug": "clothing",
+            "uri": "https://api.sketchfab.com/v3/tags/clothing"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c1da7565a08f40d4889b3748f3dbd009",
+                "width": 1920,
+                "height": 1080,
+                "size": 68331,
+                "url": "https://media.sketchfab.com/models/33f8d64792964b0aa5000844ba6c577d/thumbnails/87ac4bc8e82a4871a08296fe79845a85/d54ec88c30d7447baf6f06e301c544b2.jpeg"
+            },
+            {
+                "uid": "45b5ca34b4b14f35a615ef4c4f86e310",
+                "width": 1024,
+                "height": 576,
+                "size": 23631,
+                "url": "https://media.sketchfab.com/models/33f8d64792964b0aa5000844ba6c577d/thumbnails/87ac4bc8e82a4871a08296fe79845a85/6b529250a6364f52bf51eaf771961d81.jpeg"
+            },
+            {
+                "uid": "cc0181758ce64d5b9164a803f9ef9039",
+                "width": 720,
+                "height": 405,
+                "size": 14219,
+                "url": "https://media.sketchfab.com/models/33f8d64792964b0aa5000844ba6c577d/thumbnails/87ac4bc8e82a4871a08296fe79845a85/a9f771f9e67046f7ae25389d2777186d.jpeg"
+            },
+            {
+                "uid": "ab88803c1d014c0fa339c204747dc9c9",
+                "width": 256,
+                "height": 144,
+                "size": 3455,
+                "url": "https://media.sketchfab.com/models/33f8d64792964b0aa5000844ba6c577d/thumbnails/87ac4bc8e82a4871a08296fe79845a85/854c5264754547b097c215392f5925be.jpeg"
+            },
+            {
+                "uid": "f6d47d5d65ba45ffb82c1a91d7816bc3",
+                "width": 64,
+                "height": 36,
+                "size": 970,
+                "url": "https://media.sketchfab.com/models/33f8d64792964b0aa5000844ba6c577d/thumbnails/87ac4bc8e82a4871a08296fe79845a85/50258518be6a42738f3216c2b048eb1e.jpeg"
+            }
+        ]
+    },
+    "uid": "33f8d64792964b0aa5000844ba6c577d",
+    "uri": "https://api.sketchfab.com/v3/models/33f8d64792964b0aa5000844ba6c577d",
+    "user": {
+        "uid": "7e013db77018400d8f7c081a239c87ae",
+        "username": "mahensanketh",
+        "displayName": "gamedevme",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mahensanketh",
+        "avatar": {
+            "uid": "43f96a036fe64189871f02a5120d436c",
+            "uri": "https://api.sketchfab.com/v3/avatars/43f96a036fe64189871f02a5120d436c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2468,
+                    "url": "https://media.sketchfab.com/avatars/43f96a036fe64189871f02a5120d436c/b1f15c88e68448c39740c40ef96c623d.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4696,
+                    "url": "https://media.sketchfab.com/avatars/43f96a036fe64189871f02a5120d436c/b5d134fecde84723bdec7520b6d23c0b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12077,
+                    "url": "https://media.sketchfab.com/avatars/43f96a036fe64189871f02a5120d436c/a19ddb5f9fed4da2a5340c93b37e0504.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 14110,
+                    "url": "https://media.sketchfab.com/avatars/43f96a036fe64189871f02a5120d436c/31b401abba9a44618b69cfe2b8412d76.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7e013db77018400d8f7c081a239c87ae"
+    },
+    "vertexCount": 985,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/dark-hooded-skull-mask-low-poly-mobile-ready-33f8d64792964b0aa5000844ba6c577d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Grim Reaper Skull Mask - Low Poly / Mobile Ready\nA high-quality, low-poly skull mask featuring a dark fabric hood. Designed specifically for mobile games, VR/AR applications, and real-time engines. Whether you’re building a dark fantasy RPG or a horror survival title, this asset is optimized to keep your frame rates high and your aesthetic gritty",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/33f8d64792964b0aa5000844ba6c577d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T06:14:44.714065",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

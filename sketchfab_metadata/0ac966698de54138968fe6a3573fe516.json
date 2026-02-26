@@ -1,0 +1,255 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-05T09:23:21.932271",
+    "embedUrl": "https://sketchfab.com/models/0ac966698de54138968fe6a3573fe516/embed",
+    "faceCount": 19491,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Frosthwn",
+    "publishedAt": "2025-11-05T09:23:56.444433",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "hammer",
+            "slug": "hammer",
+            "uri": "https://api.sketchfab.com/v3/tags/hammer"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "rusty",
+            "slug": "rusty",
+            "uri": "https://api.sketchfab.com/v3/tags/rusty"
+        },
+        {
+            "name": "pack",
+            "slug": "pack",
+            "uri": "https://api.sketchfab.com/v3/tags/pack"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "doom",
+            "slug": "doom",
+            "uri": "https://api.sketchfab.com/v3/tags/doom"
+        },
+        {
+            "name": "blacksmith",
+            "slug": "blacksmith",
+            "uri": "https://api.sketchfab.com/v3/tags/blacksmith"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "designs",
+            "slug": "designs",
+            "uri": "https://api.sketchfab.com/v3/tags/designs"
+        },
+        {
+            "name": "forged",
+            "slug": "forged",
+            "uri": "https://api.sketchfab.com/v3/tags/forged"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "916a6e5d48494fb3adfb47595093d531",
+                "width": 1920,
+                "height": 1080,
+                "size": 66769,
+                "url": "https://media.sketchfab.com/models/0ac966698de54138968fe6a3573fe516/thumbnails/4745e1adde294adda7721131bce501b8/eb71e5c8a3f542faa73e86e1439306bf.jpeg"
+            },
+            {
+                "uid": "26ea1bcec4d54ce5bb483bf39dd9509f",
+                "width": 1024,
+                "height": 576,
+                "size": 22150,
+                "url": "https://media.sketchfab.com/models/0ac966698de54138968fe6a3573fe516/thumbnails/4745e1adde294adda7721131bce501b8/ee72e0ea335e461c996050cabec892a9.jpeg"
+            },
+            {
+                "uid": "209c75251b674906afd3fb211fbd5f4c",
+                "width": 720,
+                "height": 405,
+                "size": 12631,
+                "url": "https://media.sketchfab.com/models/0ac966698de54138968fe6a3573fe516/thumbnails/4745e1adde294adda7721131bce501b8/080e8ffb78c44ccfbe0b3d4cdd795aef.jpeg"
+            },
+            {
+                "uid": "5f9a9d37788742c78aafc62cce08915f",
+                "width": 256,
+                "height": 144,
+                "size": 2851,
+                "url": "https://media.sketchfab.com/models/0ac966698de54138968fe6a3573fe516/thumbnails/4745e1adde294adda7721131bce501b8/27a56cfbaba2481ea8e63aa51285761c.jpeg"
+            },
+            {
+                "uid": "ccd238bfc1e34d82b30197b36693a0b5",
+                "width": 64,
+                "height": 36,
+                "size": 909,
+                "url": "https://media.sketchfab.com/models/0ac966698de54138968fe6a3573fe516/thumbnails/4745e1adde294adda7721131bce501b8/acc82a6621a1429585356fcfb700139b.jpeg"
+            }
+        ]
+    },
+    "uid": "0ac966698de54138968fe6a3573fe516",
+    "uri": "https://api.sketchfab.com/v3/models/0ac966698de54138968fe6a3573fe516",
+    "user": {
+        "uid": "65a9eaccafeb495fab79bf73a6d0666f",
+        "username": "doomdesigns3d",
+        "displayName": "doomdesigns3d",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/doomdesigns3d",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/65a9eaccafeb495fab79bf73a6d0666f"
+    },
+    "vertexCount": 9750,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/frosthwn-0ac966698de54138968fe6a3573fe516",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Medieval Fantasy Sword — DooM Designs\n\nA handcrafted fantasy Battle Hammer designed with a realistic, battle-worn aesthetic. Built from scratch in Blender, this model features clean low-poly geometry, and layered metal textures that bring an ancient forged look to life.\n\nPerfect for game developers, animators, or collectors of 3D fantasy assets, this sword fits seamlessly into medieval, dark-fantasy, or RPG settings.\n\nDetails:\n\nModeled and UV unwrapped in Blender\n\nGame-ready low-poly mesh\n\nIncludes multiple texture variations\n\n4K PBR materials (Base Color, Roughness, Metallic, Normal)\n\nClean topology and optimized for real-time rendering\n\nFormats: .blend, .glb\n\nCreated by DooM Designs — join the forge and discover more weapons and props: 🔗 https://www.patreon.com/DooMDesigns",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0ac966698de54138968fe6a3573fe516/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-05T09:23:56.829959",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

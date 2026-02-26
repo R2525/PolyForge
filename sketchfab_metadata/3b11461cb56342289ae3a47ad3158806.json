@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-10-03T12:37:44.152032",
+    "embedUrl": "https://sketchfab.com/models/3b11461cb56342289ae3a47ad3158806/embed",
+    "faceCount": 1962,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Shield of Chaos",
+    "publishedAt": "2025-10-03T12:50:35.822762",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "chaos",
+            "slug": "chaos",
+            "uri": "https://api.sketchfab.com/v3/tags/chaos"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9cd17ffb9c8b4a6bb497efd7a4705316",
+                "width": 1920,
+                "height": 1080,
+                "size": 258012,
+                "url": "https://media.sketchfab.com/models/3b11461cb56342289ae3a47ad3158806/thumbnails/764aa35364b34e65a9e9fafe66bddfe8/ffb94350625640518f6cb828ff4592f6.jpeg"
+            },
+            {
+                "uid": "277b61ccf25d430e8c2206ab2645a9a7",
+                "width": 1024,
+                "height": 576,
+                "size": 44040,
+                "url": "https://media.sketchfab.com/models/3b11461cb56342289ae3a47ad3158806/thumbnails/764aa35364b34e65a9e9fafe66bddfe8/5c6a33dfef6a4e97b922da4958051b69.jpeg"
+            },
+            {
+                "uid": "4195e3b5e77445c298552360097ce93f",
+                "width": 720,
+                "height": 405,
+                "size": 21584,
+                "url": "https://media.sketchfab.com/models/3b11461cb56342289ae3a47ad3158806/thumbnails/764aa35364b34e65a9e9fafe66bddfe8/5db66c8344d240818e30ad55aacf58fe.jpeg"
+            },
+            {
+                "uid": "550373408234402bbe2a1de5ac3f4fda",
+                "width": 256,
+                "height": 144,
+                "size": 3962,
+                "url": "https://media.sketchfab.com/models/3b11461cb56342289ae3a47ad3158806/thumbnails/764aa35364b34e65a9e9fafe66bddfe8/23ef25c193614c6291b860a05a257273.jpeg"
+            },
+            {
+                "uid": "7090a21cddac440db0d68f026a5c546d",
+                "width": 64,
+                "height": 36,
+                "size": 990,
+                "url": "https://media.sketchfab.com/models/3b11461cb56342289ae3a47ad3158806/thumbnails/764aa35364b34e65a9e9fafe66bddfe8/3e5ad6b44e804ac6bf36ad247493222b.jpeg"
+            }
+        ]
+    },
+    "uid": "3b11461cb56342289ae3a47ad3158806",
+    "uri": "https://api.sketchfab.com/v3/models/3b11461cb56342289ae3a47ad3158806",
+    "user": {
+        "uid": "f495f7058cce40d99ef7b9b0c3e99fbe",
+        "username": "riualy",
+        "displayName": "riualy",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/riualy",
+        "avatar": {
+            "uid": "3dc23564e64e42bc8f97f56db85a6531",
+            "uri": "https://api.sketchfab.com/v3/avatars/3dc23564e64e42bc8f97f56db85a6531",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1058,
+                    "url": "https://media.sketchfab.com/avatars/3dc23564e64e42bc8f97f56db85a6531/0fb43e36b1de4d83a4ad9d7be620b250.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1503,
+                    "url": "https://media.sketchfab.com/avatars/3dc23564e64e42bc8f97f56db85a6531/ba07f8185b5b474d8c4312f381b241d2.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3204,
+                    "url": "https://media.sketchfab.com/avatars/3dc23564e64e42bc8f97f56db85a6531/4b8f4e6683c34cd3a6d5dd3fef3b94e4.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3627,
+                    "url": "https://media.sketchfab.com/avatars/3dc23564e64e42bc8f97f56db85a6531/4b0c7ad2a3264835b8c4789e80891733.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f495f7058cce40d99ef7b9b0c3e99fbe"
+    },
+    "vertexCount": 1183,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/shield-of-chaos-3b11461cb56342289ae3a47ad3158806",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "* Time taken: 20 hours\n* Concept art: https://www.artstation.com/artwork/OvDbzg",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3b11461cb56342289ae3a47ad3158806/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-10-03T12:50:36.061299",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

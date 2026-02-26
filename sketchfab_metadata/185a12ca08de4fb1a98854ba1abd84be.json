@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T15:06:30.266258",
+    "embedUrl": "https://sketchfab.com/models/185a12ca08de4fb1a98854ba1abd84be/embed",
+    "faceCount": 40474,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Dog Foam Costume Ik Rigged",
+    "publishedAt": "2026-02-21T15:09:14.758364",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "dog",
+            "slug": "dog",
+            "uri": "https://api.sketchfab.com/v3/tags/dog"
+        },
+        {
+            "name": "gaming",
+            "slug": "gaming",
+            "uri": "https://api.sketchfab.com/v3/tags/gaming"
+        },
+        {
+            "name": "creepy",
+            "slug": "creepy",
+            "uri": "https://api.sketchfab.com/v3/tags/creepy"
+        },
+        {
+            "name": "foam",
+            "slug": "foam",
+            "uri": "https://api.sketchfab.com/v3/tags/foam"
+        },
+        {
+            "name": "fnaf",
+            "slug": "fnaf",
+            "uri": "https://api.sketchfab.com/v3/tags/fnaf"
+        },
+        {
+            "name": "mimics",
+            "slug": "mimics",
+            "uri": "https://api.sketchfab.com/v3/tags/mimics"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "bcbba1884566400c99d9dcd08ec145f0",
+                "width": 1920,
+                "height": 1080,
+                "size": 38419,
+                "url": "https://media.sketchfab.com/models/185a12ca08de4fb1a98854ba1abd84be/thumbnails/15d6bf1134b84055bdc3cf8cd91bcc2d/3b82ab8f75dd486c96a084a0aaa50b14.jpeg"
+            },
+            {
+                "uid": "c43686649675456aa8c707ab9bbe509f",
+                "width": 1024,
+                "height": 576,
+                "size": 12431,
+                "url": "https://media.sketchfab.com/models/185a12ca08de4fb1a98854ba1abd84be/thumbnails/15d6bf1134b84055bdc3cf8cd91bcc2d/7754e008845b45738f1112ff50b9bae3.jpeg"
+            },
+            {
+                "uid": "f093c29273a04eacac6ccfc73ac603f3",
+                "width": 720,
+                "height": 405,
+                "size": 7094,
+                "url": "https://media.sketchfab.com/models/185a12ca08de4fb1a98854ba1abd84be/thumbnails/15d6bf1134b84055bdc3cf8cd91bcc2d/f0ec773ff71d469191d35324eb5878bd.jpeg"
+            },
+            {
+                "uid": "ec3cc715ddbd47feb4ede667e1c268ac",
+                "width": 256,
+                "height": 144,
+                "size": 1839,
+                "url": "https://media.sketchfab.com/models/185a12ca08de4fb1a98854ba1abd84be/thumbnails/15d6bf1134b84055bdc3cf8cd91bcc2d/373f120e2a324b85afdacecf1a8e72f6.jpeg"
+            },
+            {
+                "uid": "10a93b86f3334a15a0a84593c8398808",
+                "width": 64,
+                "height": 36,
+                "size": 794,
+                "url": "https://media.sketchfab.com/models/185a12ca08de4fb1a98854ba1abd84be/thumbnails/15d6bf1134b84055bdc3cf8cd91bcc2d/bf4043f1dece459481b78ecae5299e1f.jpeg"
+            }
+        ]
+    },
+    "uid": "185a12ca08de4fb1a98854ba1abd84be",
+    "uri": "https://api.sketchfab.com/v3/models/185a12ca08de4fb1a98854ba1abd84be",
+    "user": {
+        "uid": "fdca8ac47fa544c6a539ea138d7d8d8a",
+        "username": "GaLenHe",
+        "displayName": "GaLenHe",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/GaLenHe",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fdca8ac47fa544c6a539ea138d7d8d8a"
+    },
+    "vertexCount": 20269,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/dog-foam-costume-ik-rigged-185a12ca08de4fb1a98854ba1abd84be",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the Original format.The converted file is intended only for use in the web viewer. In the source file, the following are fully preserved:✔ original scene hierarchy✔ unsimplified materials✔ proper texture maps✔ correct object namesIf you plan to use this model in production, choose the source file.Foam costume of a dog. Fully rigged with IK.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/185a12ca08de4fb1a98854ba1abd84be/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T15:09:14.929174",
+    "pbrType": null,
+    "textureCount": 7,
+    "materialCount": 3
+}

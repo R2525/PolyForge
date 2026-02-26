@@ -1,0 +1,260 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-17T01:21:05.459666",
+    "embedUrl": "https://sketchfab.com/models/2d47df7e9acd451d9208a3c9c1447dbc/embed",
+    "faceCount": 3636,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Custom K-16 Bryar Pistol",
+    "publishedAt": "2026-01-17T01:38:52.370489",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "custom",
+            "slug": "custom",
+            "uri": "https://api.sketchfab.com/v3/tags/custom"
+        },
+        {
+            "name": "scope",
+            "slug": "scope",
+            "uri": "https://api.sketchfab.com/v3/tags/scope"
+        },
+        {
+            "name": "blaster",
+            "slug": "blaster",
+            "uri": "https://api.sketchfab.com/v3/tags/blaster"
+        },
+        {
+            "name": "jedi",
+            "slug": "jedi",
+            "uri": "https://api.sketchfab.com/v3/tags/jedi"
+        },
+        {
+            "name": "heavy",
+            "slug": "heavy",
+            "uri": "https://api.sketchfab.com/v3/tags/heavy"
+        },
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "Pistol",
+            "slug": "pistol",
+            "uri": "https://api.sketchfab.com/v3/tags/pistol"
+        },
+        {
+            "name": "personal",
+            "slug": "personal",
+            "uri": "https://api.sketchfab.com/v3/tags/personal"
+        },
+        {
+            "name": "glow",
+            "slug": "glow",
+            "uri": "https://api.sketchfab.com/v3/tags/glow"
+        },
+        {
+            "name": "holographic",
+            "slug": "holographic",
+            "uri": "https://api.sketchfab.com/v3/tags/holographic"
+        },
+        {
+            "name": "Academy",
+            "slug": "academy",
+            "uri": "https://api.sketchfab.com/v3/tags/academy"
+        },
+        {
+            "name": "10mm",
+            "slug": "10mm",
+            "uri": "https://api.sketchfab.com/v3/tags/10mm"
+        },
+        {
+            "name": "forces",
+            "slug": "forces",
+            "uri": "https://api.sketchfab.com/v3/tags/forces"
+        },
+        {
+            "name": "battlefront",
+            "slug": "battlefront",
+            "uri": "https://api.sketchfab.com/v3/tags/battlefront"
+        },
+        {
+            "name": "6520",
+            "slug": "6520",
+            "uri": "https://api.sketchfab.com/v3/tags/6520"
+        },
+        {
+            "name": "outcast",
+            "slug": "outcast",
+            "uri": "https://api.sketchfab.com/v3/tags/outcast"
+        },
+        {
+            "name": "andor",
+            "slug": "andor",
+            "uri": "https://api.sketchfab.com/v3/tags/andor"
+        },
+        {
+            "name": "bryar",
+            "slug": "bryar",
+            "uri": "https://api.sketchfab.com/v3/tags/bryar"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        },
+        {
+            "name": "colt",
+            "slug": "colt",
+            "uri": "https://api.sketchfab.com/v3/tags/colt"
+        },
+        {
+            "name": "fallout",
+            "slug": "fallout",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ae70cfcb97d34c97b96747136dcf86ed",
+                "width": 1920,
+                "height": 1080,
+                "size": 130246,
+                "url": "https://media.sketchfab.com/models/2d47df7e9acd451d9208a3c9c1447dbc/thumbnails/cc9439a8bc62413598572b2fd20d930f/581af432654441568fcdf46473048f20.jpeg"
+            },
+            {
+                "uid": "06660ed55447489d8b6db8f513e37d4b",
+                "width": 1024,
+                "height": 576,
+                "size": 40510,
+                "url": "https://media.sketchfab.com/models/2d47df7e9acd451d9208a3c9c1447dbc/thumbnails/cc9439a8bc62413598572b2fd20d930f/54c539ca22ea4252a86d10026d43ff71.jpeg"
+            },
+            {
+                "uid": "66f06f0f301a4877ba2f530a258d94df",
+                "width": 720,
+                "height": 405,
+                "size": 23289,
+                "url": "https://media.sketchfab.com/models/2d47df7e9acd451d9208a3c9c1447dbc/thumbnails/cc9439a8bc62413598572b2fd20d930f/07f485809576487abf7b6175b3419849.jpeg"
+            },
+            {
+                "uid": "52a7307b9cd242048cb3c04a30e3f135",
+                "width": 256,
+                "height": 144,
+                "size": 4741,
+                "url": "https://media.sketchfab.com/models/2d47df7e9acd451d9208a3c9c1447dbc/thumbnails/cc9439a8bc62413598572b2fd20d930f/4c619d29521041319446697ffc9fb530.jpeg"
+            },
+            {
+                "uid": "1c51be686c914404abbd5236f3b66ad6",
+                "width": 64,
+                "height": 36,
+                "size": 1080,
+                "url": "https://media.sketchfab.com/models/2d47df7e9acd451d9208a3c9c1447dbc/thumbnails/cc9439a8bc62413598572b2fd20d930f/6fb23bfbbb6d4caf853e43938337b76a.jpeg"
+            }
+        ]
+    },
+    "uid": "2d47df7e9acd451d9208a3c9c1447dbc",
+    "uri": "https://api.sketchfab.com/v3/models/2d47df7e9acd451d9208a3c9c1447dbc",
+    "user": {
+        "uid": "06d18df6c51f4eba9e48948bffa92fc2",
+        "username": "terallis",
+        "displayName": "Terallis",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/terallis",
+        "avatar": {
+            "uid": "eb85f1e10ec240c8ab9671bca6138db1",
+            "uri": "https://api.sketchfab.com/v3/avatars/eb85f1e10ec240c8ab9671bca6138db1",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 3407,
+                    "url": "https://media.sketchfab.com/avatars/eb85f1e10ec240c8ab9671bca6138db1/80d53e4925cb41a4bf0f4532fb8ca7fa.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 7192,
+                    "url": "https://media.sketchfab.com/avatars/eb85f1e10ec240c8ab9671bca6138db1/b5e875c508704f0fb6f53a747718e3ed.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 21972,
+                    "url": "https://media.sketchfab.com/avatars/eb85f1e10ec240c8ab9671bca6138db1/05b4d994a1634ca2ade3ee1a4638f672.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 26410,
+                    "url": "https://media.sketchfab.com/avatars/eb85f1e10ec240c8ab9671bca6138db1/fcdac4a017694a43a7911e519a9588aa.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/06d18df6c51f4eba9e48948bffa92fc2"
+    },
+    "vertexCount": 2052,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/custom-k-16-bryar-pistol-2d47df7e9acd451d9208a3c9c1447dbc",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a personalized, custom design of the K-16 Bryar Pistol, in Star Wars. However, closer to the handle has larger inspiration grabbed from the Colt 6520 in the Fallout series. The Bryar Pistol parts drew inspiration from various designs, both from old and newer designs (Dark Forces, Jedi Knight, Jedi Outcast/Academy, Battlefront 2, Andor.)\n\nPlan to make additional attachments, mainly in the way Andor converts his own blaster into a rifle. But will get to that in time. Texture of the magazine/heatsink on the left side also carries inspiration from the design of the Energy Cell in Jedi Knight/Outcast, as the Bryar Pistol uses that as ammunition.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2d47df7e9acd451d9208a3c9c1447dbc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-17T01:42:48.022878",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

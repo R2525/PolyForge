@@ -1,0 +1,174 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-13T04:21:18.788199",
+    "embedUrl": "https://sketchfab.com/models/3b3afcd6aa364139be472b2974638302/embed",
+    "faceCount": 7691,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Low Poly Barbarian",
+    "publishedAt": "2026-02-13T04:23:07.156755",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "characterdesign",
+            "slug": "characterdesign",
+            "uri": "https://api.sketchfab.com/v3/tags/characterdesign"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e7cce0c90bf84e4f8cbf5a6f7d7ab908",
+                "width": 1920,
+                "height": 1080,
+                "size": 69289,
+                "url": "https://media.sketchfab.com/models/3b3afcd6aa364139be472b2974638302/thumbnails/78e04bc9af7f4781b3ee410ee32f83c9/027c6034061044f69dad08a525355a03.jpeg"
+            },
+            {
+                "uid": "79e8ec0139b247eabab507a23dd72561",
+                "width": 1024,
+                "height": 576,
+                "size": 24699,
+                "url": "https://media.sketchfab.com/models/3b3afcd6aa364139be472b2974638302/thumbnails/78e04bc9af7f4781b3ee410ee32f83c9/b2b30f043f1749afadea3ab9d6f8c0ef.jpeg"
+            },
+            {
+                "uid": "3d83c8c276fb4d2fb150f8806b373e34",
+                "width": 720,
+                "height": 405,
+                "size": 15012,
+                "url": "https://media.sketchfab.com/models/3b3afcd6aa364139be472b2974638302/thumbnails/78e04bc9af7f4781b3ee410ee32f83c9/73837a2f8dd54341a40b6a039309f4a0.jpeg"
+            },
+            {
+                "uid": "9df5278dc6f548129ab5f0353c87922a",
+                "width": 256,
+                "height": 144,
+                "size": 3588,
+                "url": "https://media.sketchfab.com/models/3b3afcd6aa364139be472b2974638302/thumbnails/78e04bc9af7f4781b3ee410ee32f83c9/bd0bc38cfd5945f9a97523e060d75904.jpeg"
+            },
+            {
+                "uid": "3df5c1e8a3804dd4a55913ad1b8ae9f4",
+                "width": 64,
+                "height": 36,
+                "size": 995,
+                "url": "https://media.sketchfab.com/models/3b3afcd6aa364139be472b2974638302/thumbnails/78e04bc9af7f4781b3ee410ee32f83c9/d043b0c33f0d44cf8f7933e5d0db3490.jpeg"
+            }
+        ]
+    },
+    "uid": "3b3afcd6aa364139be472b2974638302",
+    "uri": "https://api.sketchfab.com/v3/models/3b3afcd6aa364139be472b2974638302",
+    "user": {
+        "uid": "1ec844dff73b4d97846cc8c03cb7f0fe",
+        "username": "maurozinn",
+        "displayName": "Mauro Marinho",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/maurozinn",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1ec844dff73b4d97846cc8c03cb7f0fe"
+    },
+    "vertexCount": 3883,
+    "viewCount": 20,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-barbarian-3b3afcd6aa364139be472b2974638302",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "I'm actually (trying to) model a blacksmith, but it's turning out so cool that I decided to upload this stage of progress, why not!?",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3b3afcd6aa364139be472b2974638302/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-13T04:28:22.090391",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 6
+}

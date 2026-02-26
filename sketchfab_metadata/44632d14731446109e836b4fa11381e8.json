@@ -1,0 +1,222 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-02T13:26:31.494168",
+    "embedUrl": "https://sketchfab.com/models/44632d14731446109e836b4fa11381e8/embed",
+    "faceCount": 2764,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Beer Mug",
+    "publishedAt": "2026-02-02T13:38:43.896123",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "drink",
+            "slug": "drink",
+            "uri": "https://api.sketchfab.com/v3/tags/drink"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "pub",
+            "slug": "pub",
+            "uri": "https://api.sketchfab.com/v3/tags/pub"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "inn",
+            "slug": "inn",
+            "uri": "https://api.sketchfab.com/v3/tags/inn"
+        },
+        {
+            "name": "mead",
+            "slug": "mead",
+            "uri": "https://api.sketchfab.com/v3/tags/mead"
+        },
+        {
+            "name": "tavern",
+            "slug": "tavern",
+            "uri": "https://api.sketchfab.com/v3/tags/tavern"
+        },
+        {
+            "name": "mug",
+            "slug": "mug",
+            "uri": "https://api.sketchfab.com/v3/tags/mug"
+        },
+        {
+            "name": "beer",
+            "slug": "beer",
+            "uri": "https://api.sketchfab.com/v3/tags/beer"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "alcohol",
+            "slug": "alcohol",
+            "uri": "https://api.sketchfab.com/v3/tags/alcohol"
+        },
+        {
+            "name": "Items",
+            "slug": "items",
+            "uri": "https://api.sketchfab.com/v3/tags/items"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "ale",
+            "slug": "ale",
+            "uri": "https://api.sketchfab.com/v3/tags/ale"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9c589f685e6545a8b994ba4ea7fc6d4d",
+                "width": 1920,
+                "height": 1080,
+                "size": 69970,
+                "url": "https://media.sketchfab.com/models/44632d14731446109e836b4fa11381e8/thumbnails/69adc59fcd934b41a1c055d5f442d862/79427238dd044bad90b107d4ce6c22a5.jpeg"
+            },
+            {
+                "uid": "f0b00dbcdcbe4deeaff476f90d518931",
+                "width": 1024,
+                "height": 576,
+                "size": 23489,
+                "url": "https://media.sketchfab.com/models/44632d14731446109e836b4fa11381e8/thumbnails/69adc59fcd934b41a1c055d5f442d862/b62e780cefa94e9996dc648ea08b5a86.jpeg"
+            },
+            {
+                "uid": "0da367a136a5446d8b723fa81859a657",
+                "width": 720,
+                "height": 405,
+                "size": 13530,
+                "url": "https://media.sketchfab.com/models/44632d14731446109e836b4fa11381e8/thumbnails/69adc59fcd934b41a1c055d5f442d862/9fe2bddae0da4eb296347d5d7789120b.jpeg"
+            },
+            {
+                "uid": "f544a610e32b4b55b80534598884a3fa",
+                "width": 256,
+                "height": 144,
+                "size": 3214,
+                "url": "https://media.sketchfab.com/models/44632d14731446109e836b4fa11381e8/thumbnails/69adc59fcd934b41a1c055d5f442d862/352d2b6941ab4bf491c276d2af0bc294.jpeg"
+            },
+            {
+                "uid": "d0e94a5a1f914b3c8a1bb8e1c12ae80f",
+                "width": 64,
+                "height": 36,
+                "size": 1000,
+                "url": "https://media.sketchfab.com/models/44632d14731446109e836b4fa11381e8/thumbnails/69adc59fcd934b41a1c055d5f442d862/210f7f5920424d35addb0339f4e804a8.jpeg"
+            }
+        ]
+    },
+    "uid": "44632d14731446109e836b4fa11381e8",
+    "uri": "https://api.sketchfab.com/v3/models/44632d14731446109e836b4fa11381e8",
+    "user": {
+        "uid": "1ee936b7aaba4d45a8b3276f3742c95d",
+        "username": "Iris-Jase",
+        "displayName": "Iris-Jase",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Iris-Jase",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1ee936b7aaba4d45a8b3276f3742c95d"
+    },
+    "vertexCount": 1442,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/beer-mug-44632d14731446109e836b4fa11381e8",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/44632d14731446109e836b4fa11381e8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-02T13:46:39.896598",
+    "pbrType": "metalness",
+    "textureCount": 3,
+    "materialCount": 1
+}

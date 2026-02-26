@@ -1,0 +1,294 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-02T17:11:53.762114",
+    "embedUrl": "https://sketchfab.com/models/3fc4ffc4f08f447888f26d1dca67f0cc/embed",
+    "faceCount": 802816,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Post Apocalyptic Propane Tank",
+    "publishedAt": "2026-01-02T17:25:25.021074",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cylinder",
+            "slug": "cylinder",
+            "uri": "https://api.sketchfab.com/v3/tags/cylinder"
+        },
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "tanks",
+            "slug": "tanks",
+            "uri": "https://api.sketchfab.com/v3/tags/tanks"
+        },
+        {
+            "name": "postapocalyptic",
+            "slug": "postapocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/postapocalyptic"
+        },
+        {
+            "name": "Tank",
+            "slug": "tank",
+            "uri": "https://api.sketchfab.com/v3/tags/tank"
+        },
+        {
+            "name": "forniture",
+            "slug": "forniture",
+            "uri": "https://api.sketchfab.com/v3/tags/forniture"
+        },
+        {
+            "name": "Blender-3D",
+            "slug": "blender-3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender-3d"
+        },
+        {
+            "name": "propane",
+            "slug": "propane",
+            "uri": "https://api.sketchfab.com/v3/tags/propane"
+        },
+        {
+            "name": "substance_painter",
+            "slug": "substance_painter",
+            "uri": "https://api.sketchfab.com/v3/tags/substance_painter"
+        },
+        {
+            "name": "blender3dmodel",
+            "slug": "blender3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3dmodel"
+        },
+        {
+            "name": "fallout3",
+            "slug": "fallout3",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout3"
+        },
+        {
+            "name": "falloutnewvegas",
+            "slug": "falloutnewvegas",
+            "uri": "https://api.sketchfab.com/v3/tags/falloutnewvegas"
+        },
+        {
+            "name": "fallout4",
+            "slug": "fallout4",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout4"
+        },
+        {
+            "name": "propanetank",
+            "slug": "propanetank",
+            "uri": "https://api.sketchfab.com/v3/tags/propanetank"
+        },
+        {
+            "name": "envoironment",
+            "slug": "envoironment",
+            "uri": "https://api.sketchfab.com/v3/tags/envoironment"
+        },
+        {
+            "name": "blender3d-modeling",
+            "slug": "blender3d-modeling",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d-modeling"
+        },
+        {
+            "name": "fallout2",
+            "slug": "fallout2",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout2"
+        },
+        {
+            "name": "propane-tank",
+            "slug": "propane-tank",
+            "uri": "https://api.sketchfab.com/v3/tags/propane-tank"
+        },
+        {
+            "name": "fallout76",
+            "slug": "fallout76",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout76"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "substance-painter",
+            "slug": "substance-painter",
+            "uri": "https://api.sketchfab.com/v3/tags/substance-painter"
+        },
+        {
+            "name": "fallout",
+            "slug": "fallout",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout"
+        },
+        {
+            "name": "cylinder-gas",
+            "slug": "cylinder-gas",
+            "uri": "https://api.sketchfab.com/v3/tags/cylinder-gas"
+        },
+        {
+            "name": "volperellowatercolor",
+            "slug": "volperellowatercolor",
+            "uri": "https://api.sketchfab.com/v3/tags/volperellowatercolor"
+        },
+        {
+            "name": "volperello",
+            "slug": "volperello",
+            "uri": "https://api.sketchfab.com/v3/tags/volperello"
+        },
+        {
+            "name": "forniture3d",
+            "slug": "forniture3d",
+            "uri": "https://api.sketchfab.com/v3/tags/forniture3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ff0c42df04514ebdb651c81af09bab74",
+                "width": 1920,
+                "height": 1080,
+                "size": 283946,
+                "url": "https://media.sketchfab.com/models/3fc4ffc4f08f447888f26d1dca67f0cc/thumbnails/053cb33499b54cce923f69b8c3a85812/9edeca4066194f0b83bd2d29cd4c0939.jpeg"
+            },
+            {
+                "uid": "6b1e42cf63b8406b9c5d31c32de07490",
+                "width": 1024,
+                "height": 576,
+                "size": 78529,
+                "url": "https://media.sketchfab.com/models/3fc4ffc4f08f447888f26d1dca67f0cc/thumbnails/053cb33499b54cce923f69b8c3a85812/4458d9b611fb4396ae802f4ca1a6a2fd.jpeg"
+            },
+            {
+                "uid": "8a87a5c533c345a799e8796511f4494d",
+                "width": 720,
+                "height": 405,
+                "size": 37657,
+                "url": "https://media.sketchfab.com/models/3fc4ffc4f08f447888f26d1dca67f0cc/thumbnails/053cb33499b54cce923f69b8c3a85812/6c919660f0ad4b4a9be7cbfd1713cbf9.jpeg"
+            },
+            {
+                "uid": "3076b13a54d24bbea5f5146fbaee8054",
+                "width": 256,
+                "height": 144,
+                "size": 5094,
+                "url": "https://media.sketchfab.com/models/3fc4ffc4f08f447888f26d1dca67f0cc/thumbnails/053cb33499b54cce923f69b8c3a85812/85fd8e952525432480517e4e88c81603.jpeg"
+            },
+            {
+                "uid": "b820b5f555664c8095b3d09da7663098",
+                "width": 64,
+                "height": 36,
+                "size": 1034,
+                "url": "https://media.sketchfab.com/models/3fc4ffc4f08f447888f26d1dca67f0cc/thumbnails/053cb33499b54cce923f69b8c3a85812/989367940f304f14b9bd9883242b2a89.jpeg"
+            }
+        ]
+    },
+    "uid": "3fc4ffc4f08f447888f26d1dca67f0cc",
+    "uri": "https://api.sketchfab.com/v3/models/3fc4ffc4f08f447888f26d1dca67f0cc",
+    "user": {
+        "uid": "a637b965027449118d4660e18a24beca",
+        "username": "volperellowatercolor",
+        "displayName": "volperellowatercolor",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/volperellowatercolor",
+        "avatar": {
+            "uid": "1944f9da97bf4d8cb14d607b8d669006",
+            "uri": "https://api.sketchfab.com/v3/avatars/1944f9da97bf4d8cb14d607b8d669006",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2722,
+                    "url": "https://media.sketchfab.com/avatars/1944f9da97bf4d8cb14d607b8d669006/d04710830ab3468680db2a27b3fc2e4b.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4855,
+                    "url": "https://media.sketchfab.com/avatars/1944f9da97bf4d8cb14d607b8d669006/8187cced01b84d9d9cd105e1006834a3.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 11949,
+                    "url": "https://media.sketchfab.com/avatars/1944f9da97bf4d8cb14d607b8d669006/8f12642e644f490fa264a01943b53a8e.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 13898,
+                    "url": "https://media.sketchfab.com/avatars/1944f9da97bf4d8cb14d607b8d669006/ecd63dc98c9f463cbc385fae3955bd21.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a637b965027449118d4660e18a24beca"
+    },
+    "vertexCount": 401414,
+    "viewCount": 20,
+    "viewerUrl": "https://sketchfab.com/3d-models/post-apocalyptic-propane-tank-3fc4ffc4f08f447888f26d1dca67f0cc",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "You're in a desolate land, the fallout has been there for about fifty years. All around you are the wreckage of a bygone world, and among the wreckage, the torn-down, and destroyed pillars of a provincial house, you see a small propane tank poking out. Maybe... it will be useful.\n____________________________________________________________________________________________________\nSei in una landa desolata, il fallout si è posato da circa una cinquantina di anni. Intorno a te vedi solo rottami di un mondo passato, e fra le lamiere, i piloni divelti e distrutti di una casa di provincia vedi sbucare una piccola bombola di propano. Forse... sarà utile\n\nModeling: Blender\nTexturing: Substance Painter",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3fc4ffc4f08f447888f26d1dca67f0cc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-02T17:26:04.413869",
+    "pbrType": "metalness",
+    "textureCount": 13,
+    "materialCount": 2
+}

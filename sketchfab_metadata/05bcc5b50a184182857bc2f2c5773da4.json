@@ -1,0 +1,259 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-13T06:05:59.599759",
+    "embedUrl": "https://sketchfab.com/models/05bcc5b50a184182857bc2f2c5773da4/embed",
+    "faceCount": 450125,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 5,
+    "name": "Doors Collection - 101 pieces",
+    "publishedAt": "2026-02-18T13:16:05.077461",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "office",
+            "slug": "office",
+            "uri": "https://api.sketchfab.com/v3/tags/office"
+        },
+        {
+            "name": "exterior",
+            "slug": "exterior",
+            "uri": "https://api.sketchfab.com/v3/tags/exterior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "entrance",
+            "slug": "entrance",
+            "uri": "https://api.sketchfab.com/v3/tags/entrance"
+        },
+        {
+            "name": "magazine",
+            "slug": "magazine",
+            "uri": "https://api.sketchfab.com/v3/tags/magazine"
+        },
+        {
+            "name": "out",
+            "slug": "out",
+            "uri": "https://api.sketchfab.com/v3/tags/out"
+        },
+        {
+            "name": "entry",
+            "slug": "entry",
+            "uri": "https://api.sketchfab.com/v3/tags/entry"
+        },
+        {
+            "name": "store",
+            "slug": "store",
+            "uri": "https://api.sketchfab.com/v3/tags/store"
+        },
+        {
+            "name": "trade",
+            "slug": "trade",
+            "uri": "https://api.sketchfab.com/v3/tags/trade"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "decor",
+            "slug": "decor",
+            "uri": "https://api.sketchfab.com/v3/tags/decor"
+        },
+        {
+            "name": "Facade",
+            "slug": "facade",
+            "uri": "https://api.sketchfab.com/v3/tags/facade"
+        },
+        {
+            "name": "exit",
+            "slug": "exit",
+            "uri": "https://api.sketchfab.com/v3/tags/exit"
+        },
+        {
+            "name": "manukyan",
+            "slug": "manukyan",
+            "uri": "https://api.sketchfab.com/v3/tags/manukyan"
+        },
+        {
+            "name": "home",
+            "slug": "home",
+            "uri": "https://api.sketchfab.com/v3/tags/home"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "workshop",
+            "slug": "workshop",
+            "uri": "https://api.sketchfab.com/v3/tags/workshop"
+        },
+        {
+            "name": "shop",
+            "slug": "shop",
+            "uri": "https://api.sketchfab.com/v3/tags/shop"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        },
+        {
+            "name": "wall",
+            "slug": "wall",
+            "uri": "https://api.sketchfab.com/v3/tags/wall"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cf5ea5f2a168478e95101948ba5af6ce",
+                "width": 1920,
+                "height": 1080,
+                "size": 421435,
+                "url": "https://media.sketchfab.com/models/05bcc5b50a184182857bc2f2c5773da4/thumbnails/d17dfdd95b484f298706054e1de65be6/28a6f39c1a904c948a545ba09652fbd4.jpeg"
+            },
+            {
+                "uid": "531e3953913b4578b148838cac154ced",
+                "width": 1024,
+                "height": 576,
+                "size": 118727,
+                "url": "https://media.sketchfab.com/models/05bcc5b50a184182857bc2f2c5773da4/thumbnails/d17dfdd95b484f298706054e1de65be6/5df73378cc1345a781a7f09b63758511.jpeg"
+            },
+            {
+                "uid": "973bc0d68625474d882dc2600b2b4357",
+                "width": 720,
+                "height": 405,
+                "size": 66343,
+                "url": "https://media.sketchfab.com/models/05bcc5b50a184182857bc2f2c5773da4/thumbnails/d17dfdd95b484f298706054e1de65be6/0d3ba2ac34e441bc97acb864636ea00c.jpeg"
+            },
+            {
+                "uid": "e0c809bd7e8543d999007cf5cddf4540",
+                "width": 256,
+                "height": 144,
+                "size": 12445,
+                "url": "https://media.sketchfab.com/models/05bcc5b50a184182857bc2f2c5773da4/thumbnails/d17dfdd95b484f298706054e1de65be6/4cec833e22344ff18253aada71117bb0.jpeg"
+            },
+            {
+                "uid": "0ffc6a0f0b1248b1b0b4d491b02b86e1",
+                "width": 64,
+                "height": 36,
+                "size": 1799,
+                "url": "https://media.sketchfab.com/models/05bcc5b50a184182857bc2f2c5773da4/thumbnails/d17dfdd95b484f298706054e1de65be6/8c7365f48bc34f8cbf88b9ed324b7915.jpeg"
+            }
+        ]
+    },
+    "uid": "05bcc5b50a184182857bc2f2c5773da4",
+    "uri": "https://api.sketchfab.com/v3/models/05bcc5b50a184182857bc2f2c5773da4",
+    "user": {
+        "uid": "0ac1eaa31b684b519ca8d7fce506bc1c",
+        "username": "3d.armzep",
+        "displayName": "3d.armzep",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/3d.armzep",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0ac1eaa31b684b519ca8d7fce506bc1c"
+    },
+    "vertexCount": 251401,
+    "viewCount": 126,
+    "viewerUrl": "https://sketchfab.com/3d-models/doors-collection-101-pieces-05bcc5b50a184182857bc2f2c5773da4",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Get pack - FAB - https://fab.com/s/083fadea4d34     -     Artstation - https://www.artstation.com/a/53339929\n                   \n101 low poly medival, modern, furniture and industrial doors\n\n- clean quad and close mesh(97% quad poly)\n- material ID \n- real size\n- UV mapped (hard edges UV, Y up)\n- NO subdiv , NO textures \n- include max(2022), blend(5.0), fbx and obj files\n- total poly - 245641\n- total vert - 252667",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/05bcc5b50a184182857bc2f2c5773da4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T13:30:00.039422",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 8
+}

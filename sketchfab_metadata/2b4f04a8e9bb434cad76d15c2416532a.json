@@ -1,0 +1,212 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-03T11:25:14.557460",
+    "embedUrl": "https://sketchfab.com/models/2b4f04a8e9bb434cad76d15c2416532a/embed",
+    "faceCount": 416,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Sword - low poly",
+    "publishedAt": "2026-01-03T11:27:35.056856",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "obj",
+            "slug": "obj",
+            "uri": "https://api.sketchfab.com/v3/tags/obj"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "unrealengine",
+            "slug": "unrealengine",
+            "uri": "https://api.sketchfab.com/v3/tags/unrealengine"
+        },
+        {
+            "name": "uvunwrapped",
+            "slug": "uvunwrapped",
+            "uri": "https://api.sketchfab.com/v3/tags/uvunwrapped"
+        },
+        {
+            "name": "unityassetstore",
+            "slug": "unityassetstore",
+            "uri": "https://api.sketchfab.com/v3/tags/unityassetstore"
+        },
+        {
+            "name": "pbrtexture",
+            "slug": "pbrtexture",
+            "uri": "https://api.sketchfab.com/v3/tags/pbrtexture"
+        },
+        {
+            "name": "fantasyweapon",
+            "slug": "fantasyweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyweapon"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5222f1120dff47a8a9e7484963cf788d",
+                "width": 1920,
+                "height": 1080,
+                "size": 40429,
+                "url": "https://media.sketchfab.com/models/2b4f04a8e9bb434cad76d15c2416532a/thumbnails/feaafb0912f64f888c092441847f082d/7fcd3820851c4d9ba553cac2b4a54212.jpeg"
+            },
+            {
+                "uid": "b381edc6c37549138b7c60aef0ef6139",
+                "width": 1024,
+                "height": 576,
+                "size": 12901,
+                "url": "https://media.sketchfab.com/models/2b4f04a8e9bb434cad76d15c2416532a/thumbnails/feaafb0912f64f888c092441847f082d/631494c692ee4623b38263293079784e.jpeg"
+            },
+            {
+                "uid": "7f173c0d08924f019766845080b7d788",
+                "width": 720,
+                "height": 405,
+                "size": 7129,
+                "url": "https://media.sketchfab.com/models/2b4f04a8e9bb434cad76d15c2416532a/thumbnails/feaafb0912f64f888c092441847f082d/85debc5c53f049c5b8653c94ed79ba7e.jpeg"
+            },
+            {
+                "uid": "859543835a21403cb7d32ca5966d6cd3",
+                "width": 256,
+                "height": 144,
+                "size": 1679,
+                "url": "https://media.sketchfab.com/models/2b4f04a8e9bb434cad76d15c2416532a/thumbnails/feaafb0912f64f888c092441847f082d/147af7d2635f406a9b412e32c338c1e4.jpeg"
+            },
+            {
+                "uid": "a044833c8294474391ad981ff8acd2f0",
+                "width": 64,
+                "height": 36,
+                "size": 771,
+                "url": "https://media.sketchfab.com/models/2b4f04a8e9bb434cad76d15c2416532a/thumbnails/feaafb0912f64f888c092441847f082d/0edda7972cc24bddb8512c7321ce57f9.jpeg"
+            }
+        ]
+    },
+    "uid": "2b4f04a8e9bb434cad76d15c2416532a",
+    "uri": "https://api.sketchfab.com/v3/models/2b4f04a8e9bb434cad76d15c2416532a",
+    "user": {
+        "uid": "cfb9cbe4fd4b479e88aa2d0d480bd1ca",
+        "username": "X3animate",
+        "displayName": "X3animate",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/X3animate",
+        "avatar": {
+            "uid": "826d52bf2cbb46a0ae07f8b713b2d85a",
+            "uri": "https://api.sketchfab.com/v3/avatars/826d52bf2cbb46a0ae07f8b713b2d85a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1489,
+                    "url": "https://media.sketchfab.com/avatars/826d52bf2cbb46a0ae07f8b713b2d85a/dcfa7db0ce2e404c9bab57b231a5fe69.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2704,
+                    "url": "https://media.sketchfab.com/avatars/826d52bf2cbb46a0ae07f8b713b2d85a/7142e53bcebe4cfbba9f955f76b135fb.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 6978,
+                    "url": "https://media.sketchfab.com/avatars/826d52bf2cbb46a0ae07f8b713b2d85a/489e44d3464c4aefb6c229d18d2a4874.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 8039,
+                    "url": "https://media.sketchfab.com/avatars/826d52bf2cbb46a0ae07f8b713b2d85a/46a76fcbcda8492a899fa907712c3f8c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cfb9cbe4fd4b479e88aa2d0d480bd1ca"
+    },
+    "vertexCount": 227,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/sword-low-poly-2b4f04a8e9bb434cad76d15c2416532a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Introducing the Sword — a sleek, minimalist 3D low-poly sword asset designed for creators who value style, simplicity, and speed.\n\nWith just the right balance of detail and efficiency, this sword is optimized for performance — perfect for mobile games, web-based experiences, or fast-paced indie projects where every polygon counts.\n\nFeaturing a distinct low-poly aesthetic, the weapon combines a faceted steel blade with a textured leather grip and, all rendered in a versatile, game-ready PBR material set (diffuse, normal, and roughness maps included). easy to recolor or integrate into any fantasy, sci-fi, or post-apocalyptic world.\n\nIt's UV unwrapped, center-pivoted, and ready to drop into Unity, Unreal, Blender, or your engine of choice — no assembly required.\n\nBest of all? It's 100% free for personal and commercial use.\n\nGrab your sword. Forge your world. Adventure awaits — one triangle at a time.\n\nFeatures\nPoly - 173\nVerts - 213\nNumber of meshes/prefabs - 1\nUv mapping - yes\nPBR Textures",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/2b4f04a8e9bb434cad76d15c2416532a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-03T11:27:35.330705",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 2
+}

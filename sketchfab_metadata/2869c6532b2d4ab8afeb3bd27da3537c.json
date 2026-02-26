@@ -1,0 +1,121 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 1,
+    "createdAt": "2026-02-17T17:26:01.753755",
+    "embedUrl": "https://sketchfab.com/models/2869c6532b2d4ab8afeb3bd27da3537c/embed",
+    "faceCount": 33558,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Toxic gunner-GDI HORROR",
+    "publishedAt": "2026-02-17T17:31:24.653090",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "161faccfb54646a1976ea3dc0d1f3d84",
+                "width": 1920,
+                "height": 1080,
+                "size": 47537,
+                "url": "https://media.sketchfab.com/models/2869c6532b2d4ab8afeb3bd27da3537c/thumbnails/13a7b1a4808b4445a91707526a1ac952/8f729772560f40878b33dd5576a50c3f.jpeg"
+            },
+            {
+                "uid": "cc615976bcd1461ea0d0109789ac9e08",
+                "width": 1024,
+                "height": 576,
+                "size": 14917,
+                "url": "https://media.sketchfab.com/models/2869c6532b2d4ab8afeb3bd27da3537c/thumbnails/13a7b1a4808b4445a91707526a1ac952/0398895329994406be58fc11860d9a0d.jpeg"
+            },
+            {
+                "uid": "cccf99b12dce418c931701ca7563298c",
+                "width": 720,
+                "height": 405,
+                "size": 8254,
+                "url": "https://media.sketchfab.com/models/2869c6532b2d4ab8afeb3bd27da3537c/thumbnails/13a7b1a4808b4445a91707526a1ac952/681ee8870ab74ca8862994102ec6359c.jpeg"
+            },
+            {
+                "uid": "bfe23aff77c14fcdbb1713d122008a97",
+                "width": 256,
+                "height": 144,
+                "size": 1787,
+                "url": "https://media.sketchfab.com/models/2869c6532b2d4ab8afeb3bd27da3537c/thumbnails/13a7b1a4808b4445a91707526a1ac952/87addc449c8f4d199dec3e936c0038e6.jpeg"
+            },
+            {
+                "uid": "04586fe883c14e40ad1b52a16179febe",
+                "width": 64,
+                "height": 36,
+                "size": 715,
+                "url": "https://media.sketchfab.com/models/2869c6532b2d4ab8afeb3bd27da3537c/thumbnails/13a7b1a4808b4445a91707526a1ac952/7c716f57f8264a5f8bf2b207e3a5972e.jpeg"
+            }
+        ]
+    },
+    "uid": "2869c6532b2d4ab8afeb3bd27da3537c",
+    "uri": "https://api.sketchfab.com/v3/models/2869c6532b2d4ab8afeb3bd27da3537c",
+    "user": {
+        "uid": "d85ca153944b44fb93e4648e0cd19d95",
+        "username": "Ermskidder",
+        "displayName": "Master skidder",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Ermskidder",
+        "avatar": {
+            "uid": "1ff8d1b88e5448bdbab5ab021ffbc2f9",
+            "uri": "https://api.sketchfab.com/v3/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1092,
+                    "url": "https://media.sketchfab.com/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9/0df94da46da34876ab8a2d633a3c40a3.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1536,
+                    "url": "https://media.sketchfab.com/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9/2d7ca77a23bb47ae94476dcb485252a1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3103,
+                    "url": "https://media.sketchfab.com/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9/21deee91d8814d14a69b05c801901e94.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3527,
+                    "url": "https://media.sketchfab.com/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9/3985d25ce95c4395b68767d1766f628a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d85ca153944b44fb93e4648e0cd19d95"
+    },
+    "vertexCount": 17245,
+    "viewCount": 71,
+    "viewerUrl": "https://sketchfab.com/3d-models/toxic-gunner-gdi-horror-2869c6532b2d4ab8afeb3bd27da3537c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/2869c6532b2d4ab8afeb3bd27da3537c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T01:25:40.609363",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 4
+}

@@ -1,0 +1,184 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-03T12:00:29.606836",
+    "embedUrl": "https://sketchfab.com/models/04c59cc241b843e99c0ffb869b511391/embed",
+    "faceCount": 96448,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Medieval Chest",
+    "publishedAt": "2026-02-03T12:10:08.052897",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "chest",
+            "slug": "chest",
+            "uri": "https://api.sketchfab.com/v3/tags/chest"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "item",
+            "slug": "item",
+            "uri": "https://api.sketchfab.com/v3/tags/item"
+        },
+        {
+            "name": "treasure",
+            "slug": "treasure",
+            "uri": "https://api.sketchfab.com/v3/tags/treasure"
+        },
+        {
+            "name": "gameplay",
+            "slug": "gameplay",
+            "uri": "https://api.sketchfab.com/v3/tags/gameplay"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "711f3bfa802f44a284747dc4c9a0475d",
+                "width": 1920,
+                "height": 1080,
+                "size": 207011,
+                "url": "https://media.sketchfab.com/models/04c59cc241b843e99c0ffb869b511391/thumbnails/f4d5dbca64c9435e917b58d53b4b38a1/f9603ff6214e41449240e89312b4ea26.jpeg"
+            },
+            {
+                "uid": "7cf8d14267304414a98c64a6a47c6dfe",
+                "width": 1024,
+                "height": 576,
+                "size": 54139,
+                "url": "https://media.sketchfab.com/models/04c59cc241b843e99c0ffb869b511391/thumbnails/f4d5dbca64c9435e917b58d53b4b38a1/493fde78e8f248e8a360d88d1928b573.jpeg"
+            },
+            {
+                "uid": "2665f678f580476ca277b628c1c9a8a5",
+                "width": 720,
+                "height": 405,
+                "size": 28667,
+                "url": "https://media.sketchfab.com/models/04c59cc241b843e99c0ffb869b511391/thumbnails/f4d5dbca64c9435e917b58d53b4b38a1/41a0e1955e1e451299b9b22cd3b55e29.jpeg"
+            },
+            {
+                "uid": "9701ae0b1c504daba9d5bae37cdbe58a",
+                "width": 256,
+                "height": 144,
+                "size": 5091,
+                "url": "https://media.sketchfab.com/models/04c59cc241b843e99c0ffb869b511391/thumbnails/f4d5dbca64c9435e917b58d53b4b38a1/1894b5eeb08547ed90f34d3da5813f19.jpeg"
+            },
+            {
+                "uid": "936880cac0a345949c033052bc722091",
+                "width": 64,
+                "height": 36,
+                "size": 1095,
+                "url": "https://media.sketchfab.com/models/04c59cc241b843e99c0ffb869b511391/thumbnails/f4d5dbca64c9435e917b58d53b4b38a1/57539ece037046adbaec22ec83600d83.jpeg"
+            }
+        ]
+    },
+    "uid": "04c59cc241b843e99c0ffb869b511391",
+    "uri": "https://api.sketchfab.com/v3/models/04c59cc241b843e99c0ffb869b511391",
+    "user": {
+        "uid": "7df3d55794dd4e58b01caf145658b7d2",
+        "username": "enrique.pedretti",
+        "displayName": "enrique.pedretti",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/enrique.pedretti",
+        "avatar": {
+            "uid": "9f9308fdc44247f2b19b80d778ce5a84",
+            "uri": "https://api.sketchfab.com/v3/avatars/9f9308fdc44247f2b19b80d778ce5a84",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 984,
+                    "url": "https://media.sketchfab.com/avatars/9f9308fdc44247f2b19b80d778ce5a84/d7befd6fead84266b4ab6dad11468471.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1313,
+                    "url": "https://media.sketchfab.com/avatars/9f9308fdc44247f2b19b80d778ce5a84/0f99d89235e9403190666b3cf3ac8936.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2526,
+                    "url": "https://media.sketchfab.com/avatars/9f9308fdc44247f2b19b80d778ce5a84/f641f195815141d2b6115ca833894bf1.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2849,
+                    "url": "https://media.sketchfab.com/avatars/9f9308fdc44247f2b19b80d778ce5a84/b30480b40aea4229b4418963a3e4d100.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7df3d55794dd4e58b01caf145658b7d2"
+    },
+    "vertexCount": 48254,
+    "viewCount": 96,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-chest-04c59cc241b843e99c0ffb869b511391",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Medieval chest prop model as a part of a project called Soul Knight. The ideia is to make the character interact with the chest in order to acquire items throughtout the game, setting the effects and systems in the engine.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/04c59cc241b843e99c0ffb869b511391/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-03T12:10:08.167379",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

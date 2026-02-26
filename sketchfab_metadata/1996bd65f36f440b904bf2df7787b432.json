@@ -1,0 +1,165 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2026-02-21T13:43:52.135528",
+    "embedUrl": "https://sketchfab.com/models/1996bd65f36f440b904bf2df7787b432/embed",
+    "faceCount": 4752,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "MantisBlade",
+    "publishedAt": "2026-02-21T15:45:17.483886",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "cyberpunk-2077",
+            "slug": "cyberpunk-2077",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk-2077"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "mantisblade",
+            "slug": "mantisblade",
+            "uri": "https://api.sketchfab.com/v3/tags/mantisblade"
+        },
+        {
+            "name": "geckolib",
+            "slug": "geckolib",
+            "uri": "https://api.sketchfab.com/v3/tags/geckolib"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1151fda6f0e6473583fe2c3e99ed1345",
+                "width": 1920,
+                "height": 1080,
+                "size": 99897,
+                "url": "https://media.sketchfab.com/models/1996bd65f36f440b904bf2df7787b432/thumbnails/352d50e0381b4a7e9d433097ffd3c32c/af3e7804d3494713af9310561ccacca2.jpeg"
+            },
+            {
+                "uid": "37e15ad02bef4c22910e32c71b59c48f",
+                "width": 1024,
+                "height": 576,
+                "size": 38515,
+                "url": "https://media.sketchfab.com/models/1996bd65f36f440b904bf2df7787b432/thumbnails/352d50e0381b4a7e9d433097ffd3c32c/f626c4e092bd4151a4e80ef6517c6f77.jpeg"
+            },
+            {
+                "uid": "40096c40014f49a6af953baaefe58fb0",
+                "width": 720,
+                "height": 405,
+                "size": 24220,
+                "url": "https://media.sketchfab.com/models/1996bd65f36f440b904bf2df7787b432/thumbnails/352d50e0381b4a7e9d433097ffd3c32c/38b4e3f237a6418f85e27894f33d351d.jpeg"
+            },
+            {
+                "uid": "da081bc9d49b427c95f8efc9980beb45",
+                "width": 256,
+                "height": 144,
+                "size": 6110,
+                "url": "https://media.sketchfab.com/models/1996bd65f36f440b904bf2df7787b432/thumbnails/352d50e0381b4a7e9d433097ffd3c32c/bc8fd6ea1d794459acacd81a1549245f.jpeg"
+            },
+            {
+                "uid": "9be170a933be4967bf11f275a275b6c3",
+                "width": 64,
+                "height": 36,
+                "size": 1445,
+                "url": "https://media.sketchfab.com/models/1996bd65f36f440b904bf2df7787b432/thumbnails/352d50e0381b4a7e9d433097ffd3c32c/bcad90ee26a544afb07cd220d81d9a76.jpeg"
+            }
+        ]
+    },
+    "uid": "1996bd65f36f440b904bf2df7787b432",
+    "uri": "https://api.sketchfab.com/v3/models/1996bd65f36f440b904bf2df7787b432",
+    "user": {
+        "uid": "e5b660382b5c495e81896120865d56bb",
+        "username": "LouisLue",
+        "displayName": "LouisLue",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/LouisLue",
+        "avatar": {
+            "uid": "d9cfd3f072e34f22a50d758fb6cc35e0",
+            "uri": "https://api.sketchfab.com/v3/avatars/d9cfd3f072e34f22a50d758fb6cc35e0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1939,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/85b0fb9fff1641dc9fd92a89d2c27791.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3489,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/ba0d09d819644db8be7ee338a96721e1.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8591,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/b7ac6474b3dc406b87d9c4db8ca0f9db.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10060,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/9010ad508fc84b8f9fef290022d6ea92.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e5b660382b5c495e81896120865d56bb"
+    },
+    "vertexCount": 3168,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/mantisblade-1996bd65f36f440b904bf2df7787b432",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Mantis Blade from Cyberpunk 2077!\n\nMade with **BlockBench** and **GeckoLib** plugin.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1996bd65f36f440b904bf2df7787b432/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T15:48:40.854200",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

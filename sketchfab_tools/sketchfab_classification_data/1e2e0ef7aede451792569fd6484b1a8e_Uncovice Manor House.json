@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Historic",
+            "score": 0.8
+        },
+        {
+            "name": "Medieval",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.6
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Minimalist 3D",
+    "top_styles": [
+        {
+            "name": "Minimalist 3D",
+            "score": 0.8
+        },
+        {
+            "name": "Low Poly",
+            "score": 0.7
+        },
+        {
+            "name": "Clean Art",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        },
+        {
+            "name": "Modernist",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Smooth",
+        "White",
+        "Neutral",
+        "Clean"
+    ],
+    "tags": [
+        "manor house",
+        "3D model",
+        "architecture",
+        "building",
+        "house",
+        "gothic",
+        "cathedral",
+        "structure"
+    ],
+    "model_id_full": "1e2e0ef7aede451792569fd6484b1a8e_Uncovice Manor House",
+    "sketchfab_id": "1e2e0ef7aede451792569fd6484b1a8e",
+    "asset_name": "Uncovice Manor House"
+}

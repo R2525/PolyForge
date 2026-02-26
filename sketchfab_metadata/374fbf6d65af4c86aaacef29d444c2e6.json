@@ -1,0 +1,279 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-08T04:12:57.472069",
+    "embedUrl": "https://sketchfab.com/models/374fbf6d65af4c86aaacef29d444c2e6/embed",
+    "faceCount": 46392,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "PLATE 04 - The \"Bagyo\" Variable Temp Hammer",
+    "publishedAt": "2026-02-08T05:04:05.947025",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wind",
+            "slug": "wind",
+            "uri": "https://api.sketchfab.com/v3/tags/wind"
+        },
+        {
+            "name": "hammer",
+            "slug": "hammer",
+            "uri": "https://api.sketchfab.com/v3/tags/hammer"
+        },
+        {
+            "name": "fan",
+            "slug": "fan",
+            "uri": "https://api.sketchfab.com/v3/tags/fan"
+        },
+        {
+            "name": "windturbine",
+            "slug": "windturbine",
+            "uri": "https://api.sketchfab.com/v3/tags/windturbine"
+        },
+        {
+            "name": "original",
+            "slug": "original",
+            "uri": "https://api.sketchfab.com/v3/tags/original"
+        },
+        {
+            "name": "hammered",
+            "slug": "hammered",
+            "uri": "https://api.sketchfab.com/v3/tags/hammered"
+        },
+        {
+            "name": "filipino",
+            "slug": "filipino",
+            "uri": "https://api.sketchfab.com/v3/tags/filipino"
+        },
+        {
+            "name": "hammers",
+            "slug": "hammers",
+            "uri": "https://api.sketchfab.com/v3/tags/hammers"
+        },
+        {
+            "name": "conceptdesign",
+            "slug": "conceptdesign",
+            "uri": "https://api.sketchfab.com/v3/tags/conceptdesign"
+        },
+        {
+            "name": "temperature",
+            "slug": "temperature",
+            "uri": "https://api.sketchfab.com/v3/tags/temperature"
+        },
+        {
+            "name": "weapon-3dmodel",
+            "slug": "weapon-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon-3dmodel"
+        },
+        {
+            "name": "variablefighters",
+            "slug": "variablefighters",
+            "uri": "https://api.sketchfab.com/v3/tags/variablefighters"
+        },
+        {
+            "name": "fantasyweapon",
+            "slug": "fantasyweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyweapon"
+        },
+        {
+            "name": "fantasycharacter",
+            "slug": "fantasycharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasycharacter"
+        },
+        {
+            "name": "originaldesign",
+            "slug": "originaldesign",
+            "uri": "https://api.sketchfab.com/v3/tags/originaldesign"
+        },
+        {
+            "name": "filipinoweapon",
+            "slug": "filipinoweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/filipinoweapon"
+        },
+        {
+            "name": "weaponcraft",
+            "slug": "weaponcraft",
+            "uri": "https://api.sketchfab.com/v3/tags/weaponcraft"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "concept",
+            "slug": "concept",
+            "uri": "https://api.sketchfab.com/v3/tags/concept"
+        },
+        {
+            "name": "temperature_sensor",
+            "slug": "temperature_sensor",
+            "uri": "https://api.sketchfab.com/v3/tags/temperature_sensor"
+        },
+        {
+            "name": "bagyo",
+            "slug": "bagyo",
+            "uri": "https://api.sketchfab.com/v3/tags/bagyo"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2ebeda20bdb240a9bed848f07b094f2a",
+                "width": 1920,
+                "height": 1080,
+                "size": 49602,
+                "url": "https://media.sketchfab.com/models/374fbf6d65af4c86aaacef29d444c2e6/thumbnails/de81ff2592064e6e9477d6f2dab47949/272ea10aa96f4799a5b5674ffbba6448.jpeg"
+            },
+            {
+                "uid": "158d0727603a4316804eec79f7bbb894",
+                "width": 1024,
+                "height": 576,
+                "size": 15582,
+                "url": "https://media.sketchfab.com/models/374fbf6d65af4c86aaacef29d444c2e6/thumbnails/de81ff2592064e6e9477d6f2dab47949/470422dc8334423d9959183ef23f489f.jpeg"
+            },
+            {
+                "uid": "a790aeff02144a07bacb1338789e148f",
+                "width": 720,
+                "height": 405,
+                "size": 8856,
+                "url": "https://media.sketchfab.com/models/374fbf6d65af4c86aaacef29d444c2e6/thumbnails/de81ff2592064e6e9477d6f2dab47949/00dba3bf93f94b998b8182cad4aede3a.jpeg"
+            },
+            {
+                "uid": "1859999dd315436db444d7b67b1171a5",
+                "width": 256,
+                "height": 144,
+                "size": 2177,
+                "url": "https://media.sketchfab.com/models/374fbf6d65af4c86aaacef29d444c2e6/thumbnails/de81ff2592064e6e9477d6f2dab47949/312fb79345bb414eb148bf9ca77bfb73.jpeg"
+            },
+            {
+                "uid": "1e8fe5fe3567490ab28d5fc1a32dc0fa",
+                "width": 64,
+                "height": 36,
+                "size": 848,
+                "url": "https://media.sketchfab.com/models/374fbf6d65af4c86aaacef29d444c2e6/thumbnails/de81ff2592064e6e9477d6f2dab47949/3c50a6dfd41e438cad0117125dc45391.jpeg"
+            }
+        ]
+    },
+    "uid": "374fbf6d65af4c86aaacef29d444c2e6",
+    "uri": "https://api.sketchfab.com/v3/models/374fbf6d65af4c86aaacef29d444c2e6",
+    "user": {
+        "uid": "4eab99ea6ba94e198c8376bba1706290",
+        "username": "chzpizza",
+        "displayName": "Isabelle",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/chzpizza",
+        "avatar": {
+            "uid": "ef92188c109d4c97986f97dd5c753a64",
+            "uri": "https://api.sketchfab.com/v3/avatars/ef92188c109d4c97986f97dd5c753a64",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1031,
+                    "url": "https://media.sketchfab.com/avatars/ef92188c109d4c97986f97dd5c753a64/0feae180cb08422a8c02f0f738b866a7.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1367,
+                    "url": "https://media.sketchfab.com/avatars/ef92188c109d4c97986f97dd5c753a64/14c68307fc94402ea60e6ae32688006e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2618,
+                    "url": "https://media.sketchfab.com/avatars/ef92188c109d4c97986f97dd5c753a64/4fd56521b5504ba29138ede392162d15.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2927,
+                    "url": "https://media.sketchfab.com/avatars/ef92188c109d4c97986f97dd5c753a64/745c23df23b74f03bd06a800e435801d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4eab99ea6ba94e198c8376bba1706290"
+    },
+    "vertexCount": 23414,
+    "viewCount": 20,
+    "viewerUrl": "https://sketchfab.com/3d-models/plate-04-the-bagyo-variable-temp-hammer-374fbf6d65af4c86aaacef29d444c2e6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "In the humid haze of a steampunk Manila, Kael’s **\"Bagyo\"** hammer is a masterpiece of salvaged grit. Just above the grip, three brass buttons allow him to instantly adapt to the chaos: the *Amihan Protocol* flash-freezes the hammer’s face to shatter fire-wielding foes, while *Mayon Mode* superheats the metal into a magma-like glow to sear through steel armor. When raw power is needed, *Neutral Mode* disables all thermals, funneling every bit of battery into a high-pitched turbine scream that propels his swings at supersonic speeds.\n\nTo prevent detonation, the **\"Eye of the Storm\"** gauge monitors stability: blue warns of freezing brittleness, orange signals motor-melting heat, and green marks safe kinetic strikes. It ensures Kael’s scrap masterpiece remains a tool of survival, not a ticking time bomb.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/374fbf6d65af4c86aaacef29d444c2e6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-08T05:06:09.253467",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 2
+}

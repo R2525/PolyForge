@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T09:09:07.974014",
+    "embedUrl": "https://sketchfab.com/models/070e443307664519ae5a5c03688a87fe/embed",
+    "faceCount": 10642,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Door Handle Knocker Iron",
+    "publishedAt": "2026-02-20T09:11:06.013641",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "handle",
+            "slug": "handle",
+            "uri": "https://api.sketchfab.com/v3/tags/handle"
+        },
+        {
+            "name": "iron",
+            "slug": "iron",
+            "uri": "https://api.sketchfab.com/v3/tags/iron"
+        },
+        {
+            "name": "accesories",
+            "slug": "accesories",
+            "uri": "https://api.sketchfab.com/v3/tags/accesories"
+        },
+        {
+            "name": "knocker",
+            "slug": "knocker",
+            "uri": "https://api.sketchfab.com/v3/tags/knocker"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8d59e304b17c4c44a6358a519638435e",
+                "width": 1920,
+                "height": 1080,
+                "size": 51182,
+                "url": "https://media.sketchfab.com/models/070e443307664519ae5a5c03688a87fe/thumbnails/7ea6d182fee2436fb55d916fe8c84920/4173f9d759c943e7928f214377041be2.jpeg"
+            },
+            {
+                "uid": "2d8876754ace4dc9b39f7096a9195d3a",
+                "width": 1024,
+                "height": 576,
+                "size": 16856,
+                "url": "https://media.sketchfab.com/models/070e443307664519ae5a5c03688a87fe/thumbnails/7ea6d182fee2436fb55d916fe8c84920/74b3557cf3df42d492cc8bb7411bffdc.jpeg"
+            },
+            {
+                "uid": "b2fabab1af3743ac9eb078457b4009b9",
+                "width": 720,
+                "height": 405,
+                "size": 9781,
+                "url": "https://media.sketchfab.com/models/070e443307664519ae5a5c03688a87fe/thumbnails/7ea6d182fee2436fb55d916fe8c84920/8da5ac231f2a4f9c8b35bbe8a3f69521.jpeg"
+            },
+            {
+                "uid": "017b8c0fdc9a419694fb7e3c6bc3c2ea",
+                "width": 256,
+                "height": 144,
+                "size": 2410,
+                "url": "https://media.sketchfab.com/models/070e443307664519ae5a5c03688a87fe/thumbnails/7ea6d182fee2436fb55d916fe8c84920/187699736d8941f7895d0da0a434d1ce.jpeg"
+            },
+            {
+                "uid": "b35880e7020c41e392def2ae1ba7989a",
+                "width": 64,
+                "height": 36,
+                "size": 891,
+                "url": "https://media.sketchfab.com/models/070e443307664519ae5a5c03688a87fe/thumbnails/7ea6d182fee2436fb55d916fe8c84920/94bfa5a1371149bd8370eaea46dfc790.jpeg"
+            }
+        ]
+    },
+    "uid": "070e443307664519ae5a5c03688a87fe",
+    "uri": "https://api.sketchfab.com/v3/models/070e443307664519ae5a5c03688a87fe",
+    "user": {
+        "uid": "15a7c8e5cf0a40c89f72ee5b372865c4",
+        "username": "alghoul.ammar",
+        "displayName": "alghoul.ammar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alghoul.ammar",
+        "avatar": {
+            "uid": "a9a9a6f9a6564003b62c6c29d11e7159",
+            "uri": "https://api.sketchfab.com/v3/avatars/a9a9a6f9a6564003b62c6c29d11e7159",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2074,
+                    "url": "https://media.sketchfab.com/avatars/a9a9a6f9a6564003b62c6c29d11e7159/2095333e004c4800a24fc2c6eada6234.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3725,
+                    "url": "https://media.sketchfab.com/avatars/a9a9a6f9a6564003b62c6c29d11e7159/0410c31ccd4946e0805ba3354ec982d6.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9287,
+                    "url": "https://media.sketchfab.com/avatars/a9a9a6f9a6564003b62c6c29d11e7159/003df7d7b2a84dfbbf360645c0b4b6c2.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10632,
+                    "url": "https://media.sketchfab.com/avatars/a9a9a6f9a6564003b62c6c29d11e7159/eb146cde68f048b2a8deb1a95658e171.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/15a7c8e5cf0a40c89f72ee5b372865c4"
+    },
+    "vertexCount": 5948,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/door-handle-knocker-iron-070e443307664519ae5a5c03688a87fe",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Medieval style door handle and knocker made of iron. 2k textures channel packed. Lowpoly",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/070e443307664519ae5a5c03688a87fe/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T09:11:06.193810",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,41 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.55
+        },
+        {
+            "name": "Steampunk",
+            "score": 0.45
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Clean"
+    ],
+    "tags": [
+        "candle",
+        "chandelier",
+        "candlestick"
+    ]
+}

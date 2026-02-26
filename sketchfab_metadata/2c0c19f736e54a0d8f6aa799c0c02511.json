@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-03T16:54:03.504016",
+    "embedUrl": "https://sketchfab.com/models/2c0c19f736e54a0d8f6aa799c0c02511/embed",
+    "faceCount": 2508,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Star Wars Themed Swords for Minecraft",
+    "publishedAt": "2025-12-03T16:59:11.818017",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "swords",
+            "slug": "swords",
+            "uri": "https://api.sketchfab.com/v3/tags/swords"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c710fadd6ff94543b4bf16495801e210",
+                "width": 1920,
+                "height": 1080,
+                "size": 115414,
+                "url": "https://media.sketchfab.com/models/2c0c19f736e54a0d8f6aa799c0c02511/thumbnails/13a2111c5a4246fe9736e59f5a694f1d/b870d6af8c074b0d943e5d99fc0308de.jpeg"
+            },
+            {
+                "uid": "84e649ceb05b44bf92a9f56dac9106ef",
+                "width": 1024,
+                "height": 576,
+                "size": 41389,
+                "url": "https://media.sketchfab.com/models/2c0c19f736e54a0d8f6aa799c0c02511/thumbnails/13a2111c5a4246fe9736e59f5a694f1d/9c7e7d918096454bbd5efad6d7379205.jpeg"
+            },
+            {
+                "uid": "77e02e4f46954142bed3a044f7c10cd3",
+                "width": 720,
+                "height": 405,
+                "size": 23957,
+                "url": "https://media.sketchfab.com/models/2c0c19f736e54a0d8f6aa799c0c02511/thumbnails/13a2111c5a4246fe9736e59f5a694f1d/2756d16d44244baea7da2eca41864ac9.jpeg"
+            },
+            {
+                "uid": "79d90853b5b04580af1be1320473b965",
+                "width": 256,
+                "height": 144,
+                "size": 5114,
+                "url": "https://media.sketchfab.com/models/2c0c19f736e54a0d8f6aa799c0c02511/thumbnails/13a2111c5a4246fe9736e59f5a694f1d/b9946bc84d7041f0ab22de0765aebc5d.jpeg"
+            },
+            {
+                "uid": "ba270eb263564079b9edcdd67f387b00",
+                "width": 64,
+                "height": 36,
+                "size": 1266,
+                "url": "https://media.sketchfab.com/models/2c0c19f736e54a0d8f6aa799c0c02511/thumbnails/13a2111c5a4246fe9736e59f5a694f1d/99994310abde49d19bb2991475e90bd9.jpeg"
+            }
+        ]
+    },
+    "uid": "2c0c19f736e54a0d8f6aa799c0c02511",
+    "uri": "https://api.sketchfab.com/v3/models/2c0c19f736e54a0d8f6aa799c0c02511",
+    "user": {
+        "uid": "e38b30bdfc6a4d07a2e6fd419835770a",
+        "username": "SheepModels",
+        "displayName": "Sheep",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/SheepModels",
+        "avatar": {
+            "uid": "d307f569ff984508b05ccd41c1ac0a05",
+            "uri": "https://api.sketchfab.com/v3/avatars/d307f569ff984508b05ccd41c1ac0a05",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 600,
+                    "url": "https://media.sketchfab.com/avatars/d307f569ff984508b05ccd41c1ac0a05/039d42ff399c452eb9ee25bc81fd2f89.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 874,
+                    "url": "https://media.sketchfab.com/avatars/d307f569ff984508b05ccd41c1ac0a05/8452451f72b1400984240696267f432d.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1650,
+                    "url": "https://media.sketchfab.com/avatars/d307f569ff984508b05ccd41c1ac0a05/e4bf112963d74c77ac1a4539b9b8888c.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1837,
+                    "url": "https://media.sketchfab.com/avatars/d307f569ff984508b05ccd41c1ac0a05/1c2e53d399aa4c82860b8e9b713aae69.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e38b30bdfc6a4d07a2e6fd419835770a"
+    },
+    "vertexCount": 1672,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/star-wars-themed-swords-for-minecraft-2c0c19f736e54a0d8f6aa799c0c02511",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "⚔️ Galactic Faction Sword Set (Imperial, Rebel, Separatist-Inspired)\n\nA pack of three custom Minecraft swords themed after iconic galactic factions. Each blade uses colours, shapes, and energy accents inspired by their side of the conflict — perfect for sci-fi servers, adventure maps, or resource packs.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2c0c19f736e54a0d8f6aa799c0c02511/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-03T16:59:47.038614",
+    "pbrType": null,
+    "textureCount": 8,
+    "materialCount": 8
+}

@@ -1,0 +1,212 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T08:50:05.324334",
+    "embedUrl": "https://sketchfab.com/models/273ff1de7d004ad98d05c1c3dcb4716a/embed",
+    "faceCount": 317866,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Futuristic VR headset",
+    "publishedAt": "2026-02-24T09:05:07.926127",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "headset",
+            "slug": "headset",
+            "uri": "https://api.sketchfab.com/v3/tags/headset"
+        },
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "device",
+            "slug": "device",
+            "uri": "https://api.sketchfab.com/v3/tags/device"
+        },
+        {
+            "name": "goggles",
+            "slug": "goggles",
+            "uri": "https://api.sketchfab.com/v3/tags/goggles"
+        },
+        {
+            "name": "future",
+            "slug": "future",
+            "uri": "https://api.sketchfab.com/v3/tags/future"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "electronics",
+            "slug": "electronics",
+            "uri": "https://api.sketchfab.com/v3/tags/electronics"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "technology",
+            "slug": "technology",
+            "uri": "https://api.sketchfab.com/v3/tags/technology"
+        },
+        {
+            "name": "cabels",
+            "slug": "cabels",
+            "uri": "https://api.sketchfab.com/v3/tags/cabels"
+        },
+        {
+            "name": "glasess",
+            "slug": "glasess",
+            "uri": "https://api.sketchfab.com/v3/tags/glasess"
+        },
+        {
+            "name": "matallic",
+            "slug": "matallic",
+            "uri": "https://api.sketchfab.com/v3/tags/matallic"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cb302a09100d43f7b8be0569d8813f24",
+                "width": 1920,
+                "height": 1080,
+                "size": 88429,
+                "url": "https://media.sketchfab.com/models/273ff1de7d004ad98d05c1c3dcb4716a/thumbnails/fa853134c22f4e67990fd8955a30e5ed/fbeb4f67e01c4c7893053c2a5fee14fa.jpeg"
+            },
+            {
+                "uid": "33a81d366b6a4164a1401d17f671df13",
+                "width": 1024,
+                "height": 576,
+                "size": 30791,
+                "url": "https://media.sketchfab.com/models/273ff1de7d004ad98d05c1c3dcb4716a/thumbnails/fa853134c22f4e67990fd8955a30e5ed/6e89661e43fb43b08777911f79b7dec0.jpeg"
+            },
+            {
+                "uid": "711672fc4f53407486e1d636b8e87cb3",
+                "width": 720,
+                "height": 405,
+                "size": 18335,
+                "url": "https://media.sketchfab.com/models/273ff1de7d004ad98d05c1c3dcb4716a/thumbnails/fa853134c22f4e67990fd8955a30e5ed/313983da5d644110aa0f3e0a42e0e938.jpeg"
+            },
+            {
+                "uid": "e0c5486a91a24aaf8e3cb9a3b7b8383b",
+                "width": 256,
+                "height": 144,
+                "size": 4074,
+                "url": "https://media.sketchfab.com/models/273ff1de7d004ad98d05c1c3dcb4716a/thumbnails/fa853134c22f4e67990fd8955a30e5ed/7b810086d8494a8f9d80908610b22092.jpeg"
+            },
+            {
+                "uid": "e5b0d9eda9834c4aacdb85d13f08d8b0",
+                "width": 64,
+                "height": 36,
+                "size": 1000,
+                "url": "https://media.sketchfab.com/models/273ff1de7d004ad98d05c1c3dcb4716a/thumbnails/fa853134c22f4e67990fd8955a30e5ed/975409bd74694f87a518d6dd8789257a.jpeg"
+            }
+        ]
+    },
+    "uid": "273ff1de7d004ad98d05c1c3dcb4716a",
+    "uri": "https://api.sketchfab.com/v3/models/273ff1de7d004ad98d05c1c3dcb4716a",
+    "user": {
+        "uid": "b93364d4cab14bfd8892308983aabb7e",
+        "username": "tityus",
+        "displayName": "graphiccompressor",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/tityus",
+        "avatar": {
+            "uid": "1bdd1293fa8b44238d81a1aab2e803e4",
+            "uri": "https://api.sketchfab.com/v3/avatars/1bdd1293fa8b44238d81a1aab2e803e4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/1bdd1293fa8b44238d81a1aab2e803e4/0d4fd081858148c3809676c1e1e3ada3.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1562,
+                    "url": "https://media.sketchfab.com/avatars/1bdd1293fa8b44238d81a1aab2e803e4/85465db8539d412eade6645b92396115.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3742,
+                    "url": "https://media.sketchfab.com/avatars/1bdd1293fa8b44238d81a1aab2e803e4/5e9091e20221496bac3c619f06cf3110.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4187,
+                    "url": "https://media.sketchfab.com/avatars/1bdd1293fa8b44238d81a1aab2e803e4/3a0b42f4023247fca48aea904445ca16.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b93364d4cab14bfd8892308983aabb7e"
+    },
+    "vertexCount": 155221,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/futuristic-vr-headset-273ff1de7d004ad98d05c1c3dcb4716a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Goggles modeled in Blender. Simple UV unwraped. Zip file includes OBJ, FBX and .blender file. \nWithout textures. Not gameready.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/273ff1de7d004ad98d05c1c3dcb4716a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T13:11:31.951898",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

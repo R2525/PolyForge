@@ -1,0 +1,219 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "name": "Sports & Fitness",
+            "slug": "sports-fitness",
+            "uri": "https://api.sketchfab.com/v3/categories/ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/2cc5442dbf0aeeed5327cbf073964157-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T00:58:27.229840",
+    "embedUrl": "https://sketchfab.com/models/21341c9db2f34643b2f6a7551fe7b04a/embed",
+    "faceCount": 281192,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "The Iron Titan | Stylized Anime Brawler",
+    "publishedAt": "2026-02-22T00:59:35.621091",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "pose",
+            "slug": "pose",
+            "uri": "https://api.sketchfab.com/v3/tags/pose"
+        },
+        {
+            "name": "jeans",
+            "slug": "jeans",
+            "uri": "https://api.sketchfab.com/v3/tags/jeans"
+        },
+        {
+            "name": "belt",
+            "slug": "belt",
+            "uri": "https://api.sketchfab.com/v3/tags/belt"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "sneakers",
+            "slug": "sneakers",
+            "uri": "https://api.sketchfab.com/v3/tags/sneakers"
+        },
+        {
+            "name": "wear",
+            "slug": "wear",
+            "uri": "https://api.sketchfab.com/v3/tags/wear"
+        },
+        {
+            "name": "buff",
+            "slug": "buff",
+            "uri": "https://api.sketchfab.com/v3/tags/buff"
+        },
+        {
+            "name": "bald",
+            "slug": "bald",
+            "uri": "https://api.sketchfab.com/v3/tags/bald"
+        },
+        {
+            "name": "man",
+            "slug": "man",
+            "uri": "https://api.sketchfab.com/v3/tags/man"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1bb4925ce29f4c5bb8fb083512d56500",
+                "width": 1920,
+                "height": 1080,
+                "size": 315036,
+                "url": "https://media.sketchfab.com/models/21341c9db2f34643b2f6a7551fe7b04a/thumbnails/de532ebbca424255af24dca499171f68/87c3bf4cff824915b3ce27291fd62016.jpeg"
+            },
+            {
+                "uid": "7cf8926e13b0454b96d25f14c4b444ac",
+                "width": 1024,
+                "height": 576,
+                "size": 28733,
+                "url": "https://media.sketchfab.com/models/21341c9db2f34643b2f6a7551fe7b04a/thumbnails/de532ebbca424255af24dca499171f68/273beff6b9624796bea3ee2ccf62df84.jpeg"
+            },
+            {
+                "uid": "8110d143f7174d5485fd3249111288c1",
+                "width": 720,
+                "height": 405,
+                "size": 15945,
+                "url": "https://media.sketchfab.com/models/21341c9db2f34643b2f6a7551fe7b04a/thumbnails/de532ebbca424255af24dca499171f68/211f8601c84d43a789a9dca6cbb91f39.jpeg"
+            },
+            {
+                "uid": "444a8d3dc03b4ae0ac62d061dd845b79",
+                "width": 256,
+                "height": 144,
+                "size": 3666,
+                "url": "https://media.sketchfab.com/models/21341c9db2f34643b2f6a7551fe7b04a/thumbnails/de532ebbca424255af24dca499171f68/d7d08bad48c04f52928ff6dea85538e7.jpeg"
+            },
+            {
+                "uid": "64dce48378f545c08c4b0d45527dee04",
+                "width": 64,
+                "height": 36,
+                "size": 1076,
+                "url": "https://media.sketchfab.com/models/21341c9db2f34643b2f6a7551fe7b04a/thumbnails/de532ebbca424255af24dca499171f68/4a6f9f2c97234377b7a3eed266ca040c.jpeg"
+            }
+        ]
+    },
+    "uid": "21341c9db2f34643b2f6a7551fe7b04a",
+    "uri": "https://api.sketchfab.com/v3/models/21341c9db2f34643b2f6a7551fe7b04a",
+    "user": {
+        "uid": "1640a5b098264819b9fcddb899552f04",
+        "username": "NotPlayin",
+        "displayName": "DoubleUp2xCUP",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/NotPlayin",
+        "avatar": {
+            "uid": "ab69a59b7c724dff95fb902e61bc9476",
+            "uri": "https://api.sketchfab.com/v3/avatars/ab69a59b7c724dff95fb902e61bc9476",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2487,
+                    "url": "https://media.sketchfab.com/avatars/ab69a59b7c724dff95fb902e61bc9476/caed7f5aa74c40bdb4e4fbf613b5e7da.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4846,
+                    "url": "https://media.sketchfab.com/avatars/ab69a59b7c724dff95fb902e61bc9476/f51dfb4b42aa4dd0baa5006dbc8e5ba9.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12607,
+                    "url": "https://media.sketchfab.com/avatars/ab69a59b7c724dff95fb902e61bc9476/f34029a9d4114fa1a6c8b5c613e9b296.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 14679,
+                    "url": "https://media.sketchfab.com/avatars/ab69a59b7c724dff95fb902e61bc9476/a0754636328e4fab8c0a2b21385bbf4b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1640a5b098264819b9fcddb899552f04"
+    },
+    "vertexCount": 140597,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-iron-titan-stylized-anime-brawler-21341c9db2f34643b2f6a7551fe7b04a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A high-fidelity stylized 3D model of a powerhouse character. This bald-headed titan features an exaggerated, heroic physique inspired by classic 90s battle manga.\r\n\r\nModel Details:\r\n\r\nPhysique: Ultra-buff, anatomical precision with anime-style cel-shading potential.\r\n\r\nOutfit: Minimalist \"Street Fighter\" aesthetic—faded blue denim, a heavy leather belt with a brass buckle, and custom grey/black accents on performance sneakers.\r\n\r\nPose: Default A-pose for easy rigging, featuring a confident thumbs-up gesture.\r\nThis model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/vpHouD](https://www.meshy.ai/s/vpHouD)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/21341c9db2f34643b2f6a7551fe7b04a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T02:02:58.925104",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

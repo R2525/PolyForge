@@ -1,0 +1,205 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-04T11:02:51.978257",
+    "embedUrl": "https://sketchfab.com/models/024a82e8d3bd4528948b33bb99175b9b/embed",
+    "faceCount": 2128,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Low Poly Wooden Door Stylized Game Asset",
+    "publishedAt": "2026-02-08T18:19:11.072551",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "engine",
+            "slug": "engine",
+            "uri": "https://api.sketchfab.com/v3/tags/engine"
+        },
+        {
+            "name": "godot",
+            "slug": "godot",
+            "uri": "https://api.sketchfab.com/v3/tags/godot"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "206809e82c904c99b1bd907b4dee1790",
+                "width": 1920,
+                "height": 1080,
+                "size": 84602,
+                "url": "https://media.sketchfab.com/models/024a82e8d3bd4528948b33bb99175b9b/thumbnails/858f8b90493341ae9398e82547946edf/82974d83626b43719fc8eef040f27384.jpeg"
+            },
+            {
+                "uid": "9ac3fdfc4baf4788a1821118b16eb77a",
+                "width": 1024,
+                "height": 576,
+                "size": 29417,
+                "url": "https://media.sketchfab.com/models/024a82e8d3bd4528948b33bb99175b9b/thumbnails/858f8b90493341ae9398e82547946edf/4adb78b054514e5da9871a0535fa50f5.jpeg"
+            },
+            {
+                "uid": "10f29beddcf7483eb23cf4c971e07a7a",
+                "width": 720,
+                "height": 405,
+                "size": 17095,
+                "url": "https://media.sketchfab.com/models/024a82e8d3bd4528948b33bb99175b9b/thumbnails/858f8b90493341ae9398e82547946edf/27537c9f39154c719d5d201a24900f5c.jpeg"
+            },
+            {
+                "uid": "9cf2108b80724d1bbb52d073d358f56f",
+                "width": 256,
+                "height": 144,
+                "size": 4038,
+                "url": "https://media.sketchfab.com/models/024a82e8d3bd4528948b33bb99175b9b/thumbnails/858f8b90493341ae9398e82547946edf/1d9900f93e784a599fdeb8be61e1de4e.jpeg"
+            },
+            {
+                "uid": "b3e50ab23a2c43a798e9753e3fb3e2e5",
+                "width": 64,
+                "height": 36,
+                "size": 1109,
+                "url": "https://media.sketchfab.com/models/024a82e8d3bd4528948b33bb99175b9b/thumbnails/858f8b90493341ae9398e82547946edf/877062ff099e475e8991219916b32782.jpeg"
+            }
+        ]
+    },
+    "uid": "024a82e8d3bd4528948b33bb99175b9b",
+    "uri": "https://api.sketchfab.com/v3/models/024a82e8d3bd4528948b33bb99175b9b",
+    "user": {
+        "uid": "d2cbad0a42714192a2f677b10b5769b7",
+        "username": "owowowsam",
+        "displayName": "owowowsam",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/owowowsam",
+        "avatar": {
+            "uid": "7cc429b9375a4e66a30b26736d699e46",
+            "uri": "https://api.sketchfab.com/v3/avatars/7cc429b9375a4e66a30b26736d699e46",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2387,
+                    "url": "https://media.sketchfab.com/avatars/7cc429b9375a4e66a30b26736d699e46/1258dcf80bc340269861a325cff0f81d.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4909,
+                    "url": "https://media.sketchfab.com/avatars/7cc429b9375a4e66a30b26736d699e46/d756267330164f60a19d9567501165ab.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14854,
+                    "url": "https://media.sketchfab.com/avatars/7cc429b9375a4e66a30b26736d699e46/55b4482272e74d248d54f13593bb5473.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17861,
+                    "url": "https://media.sketchfab.com/avatars/7cc429b9375a4e66a30b26736d699e46/0651ed56414a488c8c4c6593782ae49d.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d2cbad0a42714192a2f677b10b5769b7"
+    },
+    "vertexCount": 1158,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-wooden-door-stylized-game-asset-024a82e8d3bd4528948b33bb99175b9b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a low poly wooden door created in Blender\nas part of a daily game asset creation challenge.\n\nThe door is built from block shapes for simplicity and clean topology,\nwhile the handle was crafted using Bezier Curves\nto achieve smooth and accurate geometry.\n\nDesigned for fantasy or medieval-style games,\nthe asset uses a single shared color palette texture.\nAll colors are assigned via UV mapping,\nallowing the same palette to be reused across the series.\n\nA timelapse of the modeling process is available on YouTube.\nThis model will also be available on CGTrader.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/024a82e8d3bd4528948b33bb99175b9b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-08T18:19:11.219250",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

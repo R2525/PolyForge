@@ -1,0 +1,349 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T12:10:09.857637",
+    "embedUrl": "https://sketchfab.com/models/178d0a7696a54eb39d170eb5c78ad467/embed",
+    "faceCount": 2021832,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Futuristic Cyberpunk Motorcycle",
+    "publishedAt": "2026-02-21T12:22:14.395087",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "games",
+            "slug": "games",
+            "uri": "https://api.sketchfab.com/v3/tags/games"
+        },
+        {
+            "name": "geometry",
+            "slug": "geometry",
+            "uri": "https://api.sketchfab.com/v3/tags/geometry"
+        },
+        {
+            "name": "printing",
+            "slug": "printing",
+            "uri": "https://api.sketchfab.com/v3/tags/printing"
+        },
+        {
+            "name": "by",
+            "slug": "by",
+            "uri": "https://api.sketchfab.com/v3/tags/by"
+        },
+        {
+            "name": "visualization",
+            "slug": "visualization",
+            "uri": "https://api.sketchfab.com/v3/tags/visualization"
+        },
+        {
+            "name": "mechanical",
+            "slug": "mechanical",
+            "uri": "https://api.sketchfab.com/v3/tags/mechanical"
+        },
+        {
+            "name": "panels",
+            "slug": "panels",
+            "uri": "https://api.sketchfab.com/v3/tags/panels"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "designed",
+            "slug": "designed",
+            "uri": "https://api.sketchfab.com/v3/tags/designed"
+        },
+        {
+            "name": "motorcycle",
+            "slug": "motorcycle",
+            "uri": "https://api.sketchfab.com/v3/tags/motorcycle"
+        },
+        {
+            "name": "display",
+            "slug": "display",
+            "uri": "https://api.sketchfab.com/v3/tags/display"
+        },
+        {
+            "name": "detailed",
+            "slug": "detailed",
+            "uri": "https://api.sketchfab.com/v3/tags/detailed"
+        },
+        {
+            "name": "inspired",
+            "slug": "inspired",
+            "uri": "https://api.sketchfab.com/v3/tags/inspired"
+        },
+        {
+            "name": "collectible",
+            "slug": "collectible",
+            "uri": "https://api.sketchfab.com/v3/tags/collectible"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "created",
+            "slug": "created",
+            "uri": "https://api.sketchfab.com/v3/tags/created"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "projects",
+            "slug": "projects",
+            "uri": "https://api.sketchfab.com/v3/tags/projects"
+        },
+        {
+            "name": "Scenes",
+            "slug": "scenes",
+            "uri": "https://api.sketchfab.com/v3/tags/scenes"
+        },
+        {
+            "name": "renders",
+            "slug": "renders",
+            "uri": "https://api.sketchfab.com/v3/tags/renders"
+        },
+        {
+            "name": "kitbash",
+            "slug": "kitbash",
+            "uri": "https://api.sketchfab.com/v3/tags/kitbash"
+        },
+        {
+            "name": "Features",
+            "slug": "features",
+            "uri": "https://api.sketchfab.com/v3/tags/features"
+        },
+        {
+            "name": "high-detail",
+            "slug": "high-detail",
+            "uri": "https://api.sketchfab.com/v3/tags/high-detail"
+        },
+        {
+            "name": "dioramas",
+            "slug": "dioramas",
+            "uri": "https://api.sketchfab.com/v3/tags/dioramas"
+        },
+        {
+            "name": "modeling",
+            "slug": "modeling",
+            "uri": "https://api.sketchfab.com/v3/tags/modeling"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "design",
+            "slug": "design",
+            "uri": "https://api.sketchfab.com/v3/tags/design"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "concept",
+            "slug": "concept",
+            "uri": "https://api.sketchfab.com/v3/tags/concept"
+        },
+        {
+            "name": "rendering",
+            "slug": "rendering",
+            "uri": "https://api.sketchfab.com/v3/tags/rendering"
+        },
+        {
+            "name": "suitable",
+            "slug": "suitable",
+            "uri": "https://api.sketchfab.com/v3/tags/suitable"
+        },
+        {
+            "name": "ai-assisted",
+            "slug": "ai-assisted",
+            "uri": "https://api.sketchfab.com/v3/tags/ai-assisted"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "68789770f17d48baa4dbed00690a2ec2",
+                "width": 1920,
+                "height": 1080,
+                "size": 332542,
+                "url": "https://media.sketchfab.com/models/178d0a7696a54eb39d170eb5c78ad467/thumbnails/546482b6fc114a4aad24e6d4422997b6/1d92daea16dd49ed8ba10b7b13d0ef98.jpeg"
+            },
+            {
+                "uid": "da471d7892b64eb3b354c6432fe295df",
+                "width": 1024,
+                "height": 576,
+                "size": 33854,
+                "url": "https://media.sketchfab.com/models/178d0a7696a54eb39d170eb5c78ad467/thumbnails/546482b6fc114a4aad24e6d4422997b6/254120730d824574bb1e8f9d3da30941.jpeg"
+            },
+            {
+                "uid": "958b030e3ec1473b87b5a785c2e05190",
+                "width": 720,
+                "height": 405,
+                "size": 18636,
+                "url": "https://media.sketchfab.com/models/178d0a7696a54eb39d170eb5c78ad467/thumbnails/546482b6fc114a4aad24e6d4422997b6/7d11ad445c094552a58d4a6e5bc91392.jpeg"
+            },
+            {
+                "uid": "587b2d3911384b00a9f1d87f77671cef",
+                "width": 256,
+                "height": 144,
+                "size": 4080,
+                "url": "https://media.sketchfab.com/models/178d0a7696a54eb39d170eb5c78ad467/thumbnails/546482b6fc114a4aad24e6d4422997b6/ec434c41498147caad31f0c4be476bd3.jpeg"
+            },
+            {
+                "uid": "68a4544fd82c4d299f81e12487958141",
+                "width": 64,
+                "height": 36,
+                "size": 1121,
+                "url": "https://media.sketchfab.com/models/178d0a7696a54eb39d170eb5c78ad467/thumbnails/546482b6fc114a4aad24e6d4422997b6/7b1efc9cb42b4ba8958155b0439f54eb.jpeg"
+            }
+        ]
+    },
+    "uid": "178d0a7696a54eb39d170eb5c78ad467",
+    "uri": "https://api.sketchfab.com/v3/models/178d0a7696a54eb39d170eb5c78ad467",
+    "user": {
+        "uid": "99c0796bb55749eea4b4ad38e2091a14",
+        "username": "inked1979",
+        "displayName": "inked1979",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/inked1979",
+        "avatar": {
+            "uid": "2378e2f17b2949f285e48ccff359bb75",
+            "uri": "https://api.sketchfab.com/v3/avatars/2378e2f17b2949f285e48ccff359bb75",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2662,
+                    "url": "https://media.sketchfab.com/avatars/2378e2f17b2949f285e48ccff359bb75/3358ab96486943e2a0982bab05476269.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5203,
+                    "url": "https://media.sketchfab.com/avatars/2378e2f17b2949f285e48ccff359bb75/e5f92f06599e4e7faa0f79e942ff32e7.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 15469,
+                    "url": "https://media.sketchfab.com/avatars/2378e2f17b2949f285e48ccff359bb75/2194250e61eb4c21992e1e94c1eaa6cb.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 18542,
+                    "url": "https://media.sketchfab.com/avatars/2378e2f17b2949f285e48ccff359bb75/acb4813862984194830d0f2d565beb97.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/99c0796bb55749eea4b4ad38e2091a14"
+    },
+    "vertexCount": 1145713,
+    "viewCount": 22,
+    "viewerUrl": "https://sketchfab.com/3d-models/futuristic-cyberpunk-motorcycle-178d0a7696a54eb39d170eb5c78ad467",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "High-detail futuristic cyberpunk motorcycle designed for real-time rendering, 3D visualization, and collectible display projects.\n\nThis model features a sleek sci-fi design inspired by cyberpunk aesthetics, with detailed mechanical components, stylized body panels, and realistic proportions suitable for games, animation, or 3D printing reference.\n\nCreated using AI-assisted modeling workflows and refined for clean presentation and rendering.\n\nFeatures\n\nHigh-resolution geometry\n\nDetailed mechanical design\n\nCyberpunk / futuristic styling\n\nGame-ready presentation\n\nSuitable for rendering, concept art, and kitbash projects\n\nIdeal For\n\nGame development\n\nCyberpunk scenes\n\nBlender renders\n\nConcept visualization\n\nDioramas & collectible design",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/178d0a7696a54eb39d170eb5c78ad467/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T11:37:54.057172",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

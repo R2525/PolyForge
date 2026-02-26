@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T13:05:50.783851",
+    "embedUrl": "https://sketchfab.com/models/2a5ab5f501fa45e09a69a8fd3affa1e5/embed",
+    "faceCount": 97664,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "A Creepy Tree Model v1 (human create)",
+    "publishedAt": "2026-02-20T13:16:32.923141",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "v1",
+            "slug": "v1",
+            "uri": "https://api.sketchfab.com/v3/tags/v1"
+        },
+        {
+            "name": "4k",
+            "slug": "4k",
+            "uri": "https://api.sketchfab.com/v3/tags/4k"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "068d4cd8530c46f9bef3e962a6705357",
+                "width": 1920,
+                "height": 1080,
+                "size": 44746,
+                "url": "https://media.sketchfab.com/models/2a5ab5f501fa45e09a69a8fd3affa1e5/thumbnails/2ebd3cdad1aa4fcabfcba7d78aedb81a/9e7d4b522b56490cbe0afb3f860d3cbb.jpeg"
+            },
+            {
+                "uid": "7f2a199a4937402095cc64176e4cee32",
+                "width": 1024,
+                "height": 576,
+                "size": 14695,
+                "url": "https://media.sketchfab.com/models/2a5ab5f501fa45e09a69a8fd3affa1e5/thumbnails/2ebd3cdad1aa4fcabfcba7d78aedb81a/45d2c0ef9767493f8fce978f2941394c.jpeg"
+            },
+            {
+                "uid": "3c1baad3ee3e4fa78624e8bcc47a9d50",
+                "width": 720,
+                "height": 405,
+                "size": 8406,
+                "url": "https://media.sketchfab.com/models/2a5ab5f501fa45e09a69a8fd3affa1e5/thumbnails/2ebd3cdad1aa4fcabfcba7d78aedb81a/65dbe5db320c474e95d05b000aa11deb.jpeg"
+            },
+            {
+                "uid": "93dbfefcb2804930b10585e15b555314",
+                "width": 256,
+                "height": 144,
+                "size": 1943,
+                "url": "https://media.sketchfab.com/models/2a5ab5f501fa45e09a69a8fd3affa1e5/thumbnails/2ebd3cdad1aa4fcabfcba7d78aedb81a/ec41f5db92a74b849998384ba6a73f57.jpeg"
+            },
+            {
+                "uid": "f84b7cfdfbcb4de29a92bb9109ac8183",
+                "width": 64,
+                "height": 36,
+                "size": 768,
+                "url": "https://media.sketchfab.com/models/2a5ab5f501fa45e09a69a8fd3affa1e5/thumbnails/2ebd3cdad1aa4fcabfcba7d78aedb81a/7979f4adb55941b8b5cde591a3fcfeb1.jpeg"
+            }
+        ]
+    },
+    "uid": "2a5ab5f501fa45e09a69a8fd3affa1e5",
+    "uri": "https://api.sketchfab.com/v3/models/2a5ab5f501fa45e09a69a8fd3affa1e5",
+    "user": {
+        "uid": "8bea34113fa3435d91965236b1573128",
+        "username": "roafdalkher",
+        "displayName": "Omartix",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/roafdalkher",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8bea34113fa3435d91965236b1573128"
+    },
+    "vertexCount": 48834,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/a-creepy-tree-model-v1-human-create-2a5ab5f501fa45e09a69a8fd3affa1e5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A Creepy Tree Model v1 (human create)\nuse this model to your horror game for free! sorry no texture 🙏\n(this model by human create in blender 2.7.9)",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/2a5ab5f501fa45e09a69a8fd3affa1e5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T13:16:33.241105",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

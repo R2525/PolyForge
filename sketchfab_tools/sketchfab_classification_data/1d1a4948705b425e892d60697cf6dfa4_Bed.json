@@ -1,0 +1,67 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Vibrant Fantasy",
+    "top_genres": [
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Cultural Heritage & History",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic",
+            "score": 0.6
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.5
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.4
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "3D Render",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.5
+        },
+        {
+            "name": "Cartoonish",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Natural Wood Grain",
+        "Polished"
+    ],
+    "tags": [
+        "bed",
+        "wooden",
+        "furniture",
+        "home",
+        "3D model",
+        "bedroom",
+        "quilt",
+        "pillow"
+    ],
+    "model_id_full": "1d1a4948705b425e892d60697cf6dfa4_Bed",
+    "sketchfab_id": "1d1a4948705b425e892d60697cf6dfa4",
+    "asset_name": "Bed"
+}

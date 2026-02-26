@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-13T17:43:42.856449",
+    "embedUrl": "https://sketchfab.com/models/25b93ab5cc1e4669850da161ebc32a1a/embed",
+    "faceCount": 749780,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Armored Sentinel",
+    "publishedAt": "2025-11-13T17:44:12.920827",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8a448ed4d7bf4f4aad34e01f4a20999a",
+                "width": 1920,
+                "height": 1080,
+                "size": 64406,
+                "url": "https://media.sketchfab.com/models/25b93ab5cc1e4669850da161ebc32a1a/thumbnails/77c99477810e4f45ad7ac818c4763cd7/abc0779ee08146beb4eb607fc7efbc44.jpeg"
+            },
+            {
+                "uid": "0e8c0d4780384d858e5525244a3fafc0",
+                "width": 1024,
+                "height": 576,
+                "size": 22406,
+                "url": "https://media.sketchfab.com/models/25b93ab5cc1e4669850da161ebc32a1a/thumbnails/77c99477810e4f45ad7ac818c4763cd7/d90405e118184f549e46b1830ebb9b69.jpeg"
+            },
+            {
+                "uid": "ea5e9f1657c443c889d48cc928dcbccd",
+                "width": 720,
+                "height": 405,
+                "size": 12951,
+                "url": "https://media.sketchfab.com/models/25b93ab5cc1e4669850da161ebc32a1a/thumbnails/77c99477810e4f45ad7ac818c4763cd7/b43b5aa775404663a421d9213a99c5cf.jpeg"
+            },
+            {
+                "uid": "adbdbe7941cc4c05947bfb181e3bb5b5",
+                "width": 256,
+                "height": 144,
+                "size": 2744,
+                "url": "https://media.sketchfab.com/models/25b93ab5cc1e4669850da161ebc32a1a/thumbnails/77c99477810e4f45ad7ac818c4763cd7/abc2f9bcba43427b962746c3b7690ed4.jpeg"
+            },
+            {
+                "uid": "74f0f84f6088476e80514a63b3e6d5c2",
+                "width": 64,
+                "height": 36,
+                "size": 828,
+                "url": "https://media.sketchfab.com/models/25b93ab5cc1e4669850da161ebc32a1a/thumbnails/77c99477810e4f45ad7ac818c4763cd7/2afd99385930435ea30c05f6edc8b8ea.jpeg"
+            }
+        ]
+    },
+    "uid": "25b93ab5cc1e4669850da161ebc32a1a",
+    "uri": "https://api.sketchfab.com/v3/models/25b93ab5cc1e4669850da161ebc32a1a",
+    "user": {
+        "uid": "262c562e2aa24c92a98bd4ab8f2ddc88",
+        "username": "school7a.z",
+        "displayName": "school7a.z",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/school7a.z",
+        "avatar": {
+            "uid": "324c59e2f9d2465eaa3bf3fb2f9f29a3",
+            "uri": "https://api.sketchfab.com/v3/avatars/324c59e2f9d2465eaa3bf3fb2f9f29a3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1146,
+                    "url": "https://media.sketchfab.com/avatars/324c59e2f9d2465eaa3bf3fb2f9f29a3/2a46fa6ce6cb4c9a8c82dccbef26a374.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1670,
+                    "url": "https://media.sketchfab.com/avatars/324c59e2f9d2465eaa3bf3fb2f9f29a3/8dfa249bc6604324ac9f7c75a4e28b63.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3755,
+                    "url": "https://media.sketchfab.com/avatars/324c59e2f9d2465eaa3bf3fb2f9f29a3/cfd19d70a6814a0892760b3c9127ed3b.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4334,
+                    "url": "https://media.sketchfab.com/avatars/324c59e2f9d2465eaa3bf3fb2f9f29a3/618bce54565e4e3bae6deafe3f8102fc.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/262c562e2aa24c92a98bd4ab8f2ddc88"
+    },
+    "vertexCount": 374847,
+    "viewCount": 37,
+    "viewerUrl": "https://sketchfab.com/3d-models/armored-sentinel-25b93ab5cc1e4669850da161ebc32a1a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Armored-Sentinel-v2-019a7e4c-041e-75b8-b7d5-01730a600057?utm_source=sketchfab](https://www.meshy.ai/3d-models/Armored-Sentinel-v2-019a7e4c-041e-75b8-b7d5-01730a600057?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/25b93ab5cc1e4669850da161ebc32a1a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-13T17:44:12.899284",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

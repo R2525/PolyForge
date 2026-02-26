@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T01:20:07.280382",
+    "embedUrl": "https://sketchfab.com/models/038de6328ba944588d991295037e5cd4/embed",
+    "faceCount": 56856,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Worn Park Bench",
+    "publishedAt": "2026-02-21T01:22:21.636803",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "abandoned",
+            "slug": "abandoned",
+            "uri": "https://api.sketchfab.com/v3/tags/abandoned"
+        },
+        {
+            "name": "bench",
+            "slug": "bench",
+            "uri": "https://api.sketchfab.com/v3/tags/bench"
+        },
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "worn",
+            "slug": "worn",
+            "uri": "https://api.sketchfab.com/v3/tags/worn"
+        },
+        {
+            "name": "park",
+            "slug": "park",
+            "uri": "https://api.sketchfab.com/v3/tags/park"
+        },
+        {
+            "name": "street",
+            "slug": "street",
+            "uri": "https://api.sketchfab.com/v3/tags/street"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a97e841d33504fb5ae73e8f94bf1059f",
+                "width": 1920,
+                "height": 1080,
+                "size": 63989,
+                "url": "https://media.sketchfab.com/models/038de6328ba944588d991295037e5cd4/thumbnails/d30334f871c34998ab140f312a64c0cc/cd877208664a4b75bf3e9d12897e5c9a.jpeg"
+            },
+            {
+                "uid": "dde9a44bffec49409debcff6db93c46a",
+                "width": 1024,
+                "height": 576,
+                "size": 22596,
+                "url": "https://media.sketchfab.com/models/038de6328ba944588d991295037e5cd4/thumbnails/d30334f871c34998ab140f312a64c0cc/16e070f45d23408389d3fb93f92c0ade.jpeg"
+            },
+            {
+                "uid": "9ab6f7107d7248e7a1eb8982518cabf0",
+                "width": 720,
+                "height": 405,
+                "size": 12988,
+                "url": "https://media.sketchfab.com/models/038de6328ba944588d991295037e5cd4/thumbnails/d30334f871c34998ab140f312a64c0cc/47be82c2a02a45b69940004f0bca3981.jpeg"
+            },
+            {
+                "uid": "6e4d460173cd44d1a32d9fef5c8f7876",
+                "width": 256,
+                "height": 144,
+                "size": 2483,
+                "url": "https://media.sketchfab.com/models/038de6328ba944588d991295037e5cd4/thumbnails/d30334f871c34998ab140f312a64c0cc/a20f363b746c4450b521022e4eee245f.jpeg"
+            },
+            {
+                "uid": "465831981fee444bbba099cfb313351e",
+                "width": 64,
+                "height": 36,
+                "size": 798,
+                "url": "https://media.sketchfab.com/models/038de6328ba944588d991295037e5cd4/thumbnails/d30334f871c34998ab140f312a64c0cc/641f42626ac54ab68d89244b533faff2.jpeg"
+            }
+        ]
+    },
+    "uid": "038de6328ba944588d991295037e5cd4",
+    "uri": "https://api.sketchfab.com/v3/models/038de6328ba944588d991295037e5cd4",
+    "user": {
+        "uid": "31074ac5a3f34d328dddc26a29f11b7b",
+        "username": "hieuto",
+        "displayName": "hieuto",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hieuto",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/31074ac5a3f34d328dddc26a29f11b7b"
+    },
+    "vertexCount": 28564,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/worn-park-bench-038de6328ba944588d991295037e5cd4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For complete workflow compatibility, we recommend downloading the Original format.The Converted version is intended for web viewing only. In the original file, the following are fully preserved:✔ native scene structure✔ complete materials without reduction✔ proper texture maps✔ correct object namesIf you are going to integrate the model into a project, select the original version.A considerably worn ribbed steel park bench. Suitable for post apocalyptic scenes for example.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/038de6328ba944588d991295037e5cd4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T01:22:21.814572",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

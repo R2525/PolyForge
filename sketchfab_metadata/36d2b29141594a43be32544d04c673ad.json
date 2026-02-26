@@ -1,0 +1,145 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T20:44:18.204749",
+    "embedUrl": "https://sketchfab.com/models/36d2b29141594a43be32544d04c673ad/embed",
+    "faceCount": 107925,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Ignatius Blackward 3D Model",
+    "publishedAt": "2026-02-21T20:48:48.673564",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "nightmarecreatures",
+            "slug": "nightmarecreatures",
+            "uri": "https://api.sketchfab.com/v3/tags/nightmarecreatures"
+        },
+        {
+            "name": "ignatiusblackward",
+            "slug": "ignatiusblackward",
+            "uri": "https://api.sketchfab.com/v3/tags/ignatiusblackward"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "37b795d79fe74cf7a59421bbe0a24af1",
+                "width": 1920,
+                "height": 1080,
+                "size": 74265,
+                "url": "https://media.sketchfab.com/models/36d2b29141594a43be32544d04c673ad/thumbnails/5e05e721fddc45ee91f65eb6e5bd5924/e7487840822949d59646f48b4d81c6f3.jpeg"
+            },
+            {
+                "uid": "90d9029c6bff4f4995f97bd72bc1814b",
+                "width": 1024,
+                "height": 576,
+                "size": 26054,
+                "url": "https://media.sketchfab.com/models/36d2b29141594a43be32544d04c673ad/thumbnails/5e05e721fddc45ee91f65eb6e5bd5924/7637b77bb71e4ade98dfbb8d96a7e657.jpeg"
+            },
+            {
+                "uid": "3ec0c54ffeb141e0b53f1890431a7857",
+                "width": 720,
+                "height": 405,
+                "size": 15600,
+                "url": "https://media.sketchfab.com/models/36d2b29141594a43be32544d04c673ad/thumbnails/5e05e721fddc45ee91f65eb6e5bd5924/d4367eb57cb8480aa43d362a24a13ad1.jpeg"
+            },
+            {
+                "uid": "e5f59caf5fa44a18a0b97627f143b927",
+                "width": 256,
+                "height": 144,
+                "size": 3960,
+                "url": "https://media.sketchfab.com/models/36d2b29141594a43be32544d04c673ad/thumbnails/5e05e721fddc45ee91f65eb6e5bd5924/ddffcf67d9194c729d82155357dd43f1.jpeg"
+            },
+            {
+                "uid": "59c5fd1427234691993c433255224161",
+                "width": 64,
+                "height": 36,
+                "size": 1069,
+                "url": "https://media.sketchfab.com/models/36d2b29141594a43be32544d04c673ad/thumbnails/5e05e721fddc45ee91f65eb6e5bd5924/084ab5a1309b4911aaeaaa761e70f32d.jpeg"
+            }
+        ]
+    },
+    "uid": "36d2b29141594a43be32544d04c673ad",
+    "uri": "https://api.sketchfab.com/v3/models/36d2b29141594a43be32544d04c673ad",
+    "user": {
+        "uid": "e26825bdfe0e43a191102a1c29fd76f9",
+        "username": "MohammadRajabloo",
+        "displayName": "Mohammad Rajabloo",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/MohammadRajabloo",
+        "avatar": {
+            "uid": "02e3362f8cea43f28de6e929e7fec7e8",
+            "uri": "https://api.sketchfab.com/v3/avatars/02e3362f8cea43f28de6e929e7fec7e8",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1804,
+                    "url": "https://media.sketchfab.com/avatars/02e3362f8cea43f28de6e929e7fec7e8/cbc44f09592f4a9a8e258d1488d98d84.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3486,
+                    "url": "https://media.sketchfab.com/avatars/02e3362f8cea43f28de6e929e7fec7e8/f4155711cd2a49afaa10b8b9d4fefac5.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 10015,
+                    "url": "https://media.sketchfab.com/avatars/02e3362f8cea43f28de6e929e7fec7e8/644dd3387bcf43cf839e2fc7df9a86ad.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11954,
+                    "url": "https://media.sketchfab.com/avatars/02e3362f8cea43f28de6e929e7fec7e8/76823f819640497a9e7adedf5e6091de.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e26825bdfe0e43a191102a1c29fd76f9"
+    },
+    "vertexCount": 54090,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/ignatius-blackward-3d-model-36d2b29141594a43be32544d04c673ad",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a high-fidelity 3D recreation of Ignatius Blackward, the legendary monster hunter from the classic horror game Nightmare Creatures.\n\nThis model was meticulously crafted by **Mohammad Rajabloo** as a personal fan-made project and a tribute to this nostalgic masterpiece. It serves as a showcase of character art and a salute to the original game's atmosphere.\n\n**Important Notice: This model is for display purposes only. It is not available for download, purchase, or any commercial distribution. All rights to the original character belong to the respective copyright holders.**",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/36d2b29141594a43be32544d04c673ad/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T20:52:06.423993",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 5
+}

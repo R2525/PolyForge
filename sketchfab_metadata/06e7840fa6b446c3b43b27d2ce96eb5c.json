@@ -1,0 +1,226 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-16T12:01:04.044192",
+    "embedUrl": "https://sketchfab.com/models/06e7840fa6b446c3b43b27d2ce96eb5c/embed",
+    "faceCount": 973112,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Crusader Knight VII",
+    "publishedAt": "2026-02-16T12:01:34.551989",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "miniature",
+            "slug": "miniature",
+            "uri": "https://api.sketchfab.com/v3/tags/miniature"
+        },
+        {
+            "name": "Figures",
+            "slug": "figures",
+            "uri": "https://api.sketchfab.com/v3/tags/figures"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "crusader",
+            "slug": "crusader",
+            "uri": "https://api.sketchfab.com/v3/tags/crusader"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "452174cab5c141ae8aa43bde1f2d1459",
+                "width": 1920,
+                "height": 1080,
+                "size": 84377,
+                "url": "https://media.sketchfab.com/models/06e7840fa6b446c3b43b27d2ce96eb5c/thumbnails/7daa8245f6a2459bb095b0b7d7e2d085/030dab359d55403ab83a33b489a60c8c.jpeg"
+            },
+            {
+                "uid": "9311b1ee992e4de5b565600c7a873c55",
+                "width": 1024,
+                "height": 576,
+                "size": 27905,
+                "url": "https://media.sketchfab.com/models/06e7840fa6b446c3b43b27d2ce96eb5c/thumbnails/7daa8245f6a2459bb095b0b7d7e2d085/1658b3e4656e441b8b9e9a75d83e50c2.jpeg"
+            },
+            {
+                "uid": "6bdb27dcfefd4b3d916d70d4aec590ab",
+                "width": 720,
+                "height": 405,
+                "size": 15729,
+                "url": "https://media.sketchfab.com/models/06e7840fa6b446c3b43b27d2ce96eb5c/thumbnails/7daa8245f6a2459bb095b0b7d7e2d085/4045877133934424beaacb1dedff1728.jpeg"
+            },
+            {
+                "uid": "ee1d5ef12162408480718040ee155a0c",
+                "width": 256,
+                "height": 144,
+                "size": 3116,
+                "url": "https://media.sketchfab.com/models/06e7840fa6b446c3b43b27d2ce96eb5c/thumbnails/7daa8245f6a2459bb095b0b7d7e2d085/1056cd27b0434d1b9b85a7eb43511633.jpeg"
+            },
+            {
+                "uid": "e55239293eb04a8ba698f443672389ed",
+                "width": 64,
+                "height": 36,
+                "size": 886,
+                "url": "https://media.sketchfab.com/models/06e7840fa6b446c3b43b27d2ce96eb5c/thumbnails/7daa8245f6a2459bb095b0b7d7e2d085/4926e751773641c28dbb49712cb31f23.jpeg"
+            }
+        ]
+    },
+    "uid": "06e7840fa6b446c3b43b27d2ce96eb5c",
+    "uri": "https://api.sketchfab.com/v3/models/06e7840fa6b446c3b43b27d2ce96eb5c",
+    "user": {
+        "uid": "6722833a13c24b54af9757e64201cbfe",
+        "username": "kmkrtchyan70",
+        "displayName": "Ded Makar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kmkrtchyan70",
+        "avatar": {
+            "uid": "e426f8f1bdcc46e0a45fa572af73859a",
+            "uri": "https://api.sketchfab.com/v3/avatars/e426f8f1bdcc46e0a45fa572af73859a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1182,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/efb9a0da56c64d7b8c866671a862673a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1673,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01b13b16a4c84c0da2a7b25e9d870279.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3615,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/883afddce77a4ecf9d2d26c8dc259872.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4214,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01042899c933428d8a46f9387a1c5717.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6722833a13c24b54af9757e64201cbfe"
+    },
+    "vertexCount": 486544,
+    "viewCount": 30,
+    "viewerUrl": "https://sketchfab.com/3d-models/crusader-knight-vii-06e7840fa6b446c3b43b27d2ce96eb5c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/8u8JQA](https://www.meshy.ai/s/8u8JQA)",
+    "price": null,
+    "downloadCount": 9,
+    "editorUrl": "https://sketchfab.com/models/06e7840fa6b446c3b43b27d2ce96eb5c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T12:04:41.962612",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

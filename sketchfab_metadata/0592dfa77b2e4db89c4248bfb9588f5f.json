@@ -1,0 +1,352 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-01T19:36:19.468894",
+    "embedUrl": "https://sketchfab.com/models/0592dfa77b2e4db89c4248bfb9588f5f/embed",
+    "faceCount": 39394,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 5,
+    "name": "Riot Revolver",
+    "publishedAt": "2026-02-01T20:38:23.262741",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "revolver",
+            "slug": "revolver",
+            "uri": "https://api.sketchfab.com/v3/tags/revolver"
+        },
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "cowboy",
+            "slug": "cowboy",
+            "uri": "https://api.sketchfab.com/v3/tags/cowboy"
+        },
+        {
+            "name": "western",
+            "slug": "western",
+            "uri": "https://api.sketchfab.com/v3/tags/western"
+        },
+        {
+            "name": "bethesda",
+            "slug": "bethesda",
+            "uri": "https://api.sketchfab.com/v3/tags/bethesda"
+        },
+        {
+            "name": "Pistol",
+            "slug": "pistol",
+            "uri": "https://api.sketchfab.com/v3/tags/pistol"
+        },
+        {
+            "name": "fanmade",
+            "slug": "fanmade",
+            "uri": "https://api.sketchfab.com/v3/tags/fanmade"
+        },
+        {
+            "name": "riot",
+            "slug": "riot",
+            "uri": "https://api.sketchfab.com/v3/tags/riot"
+        },
+        {
+            "name": "handcannon",
+            "slug": "handcannon",
+            "uri": "https://api.sketchfab.com/v3/tags/handcannon"
+        },
+        {
+            "name": "fallout3",
+            "slug": "fallout3",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout3"
+        },
+        {
+            "name": "falloutnewvegas",
+            "slug": "falloutnewvegas",
+            "uri": "https://api.sketchfab.com/v3/tags/falloutnewvegas"
+        },
+        {
+            "name": "fallout4",
+            "slug": "fallout4",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout4"
+        },
+        {
+            "name": "retrofuturism",
+            "slug": "retrofuturism",
+            "uri": "https://api.sketchfab.com/v3/tags/retrofuturism"
+        },
+        {
+            "name": "tskib-soo",
+            "slug": "tskib-soo",
+            "uri": "https://api.sketchfab.com/v3/tags/tskib-soo"
+        },
+        {
+            "name": "retrofuturistic",
+            "slug": "retrofuturistic",
+            "uri": "https://api.sketchfab.com/v3/tags/retrofuturistic"
+        },
+        {
+            "name": "fallout2",
+            "slug": "fallout2",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout2"
+        },
+        {
+            "name": "zenimax",
+            "slug": "zenimax",
+            "uri": "https://api.sketchfab.com/v3/tags/zenimax"
+        },
+        {
+            "name": "falloutnv",
+            "slug": "falloutnv",
+            "uri": "https://api.sketchfab.com/v3/tags/falloutnv"
+        },
+        {
+            "name": "freetouse",
+            "slug": "freetouse",
+            "uri": "https://api.sketchfab.com/v3/tags/freetouse"
+        },
+        {
+            "name": "fallout76",
+            "slug": "fallout76",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout76"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "shotgun",
+            "slug": "shotgun",
+            "uri": "https://api.sketchfab.com/v3/tags/shotgun"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "fallout",
+            "slug": "fallout",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout"
+        },
+        {
+            "name": "break-action",
+            "slug": "break-action",
+            "uri": "https://api.sketchfab.com/v3/tags/break-action"
+        },
+        {
+            "name": "singleactionrevolver",
+            "slug": "singleactionrevolver",
+            "uri": "https://api.sketchfab.com/v3/tags/singleactionrevolver"
+        },
+        {
+            "name": "shotgunrevolver",
+            "slug": "shotgunrevolver",
+            "uri": "https://api.sketchfab.com/v3/tags/shotgunrevolver"
+        },
+        {
+            "name": "modderresource",
+            "slug": "modderresource",
+            "uri": "https://api.sketchfab.com/v3/tags/modderresource"
+        },
+        {
+            "name": "fallouttvshow",
+            "slug": "fallouttvshow",
+            "uri": "https://api.sketchfab.com/v3/tags/fallouttvshow"
+        },
+        {
+            "name": "thanoidactionllc",
+            "slug": "thanoidactionllc",
+            "uri": "https://api.sketchfab.com/v3/tags/thanoidactionllc"
+        },
+        {
+            "name": "thanoidaction",
+            "slug": "thanoidaction",
+            "uri": "https://api.sketchfab.com/v3/tags/thanoidaction"
+        },
+        {
+            "name": "singleaction",
+            "slug": "singleaction",
+            "uri": "https://api.sketchfab.com/v3/tags/singleaction"
+        },
+        {
+            "name": "ghoulsgun",
+            "slug": "ghoulsgun",
+            "uri": "https://api.sketchfab.com/v3/tags/ghoulsgun"
+        },
+        {
+            "name": "dompedro",
+            "slug": "dompedro",
+            "uri": "https://api.sketchfab.com/v3/tags/dompedro"
+        },
+        {
+            "name": "pseudo-smg",
+            "slug": "pseudo-smg",
+            "uri": "https://api.sketchfab.com/v3/tags/pseudo-smg"
+        },
+        {
+            "name": "mts255",
+            "slug": "mts255",
+            "uri": "https://api.sketchfab.com/v3/tags/mts255"
+        },
+        {
+            "name": "cooperhoward",
+            "slug": "cooperhoward",
+            "uri": "https://api.sketchfab.com/v3/tags/cooperhoward"
+        },
+        {
+            "name": "amazonstudio",
+            "slug": "amazonstudio",
+            "uri": "https://api.sketchfab.com/v3/tags/amazonstudio"
+        },
+        {
+            "name": "kilterfilms",
+            "slug": "kilterfilms",
+            "uri": "https://api.sketchfab.com/v3/tags/kilterfilms"
+        },
+        {
+            "name": "kilterarms",
+            "slug": "kilterarms",
+            "uri": "https://api.sketchfab.com/v3/tags/kilterarms"
+        },
+        {
+            "name": "californiacreststudios",
+            "slug": "californiacreststudios",
+            "uri": "https://api.sketchfab.com/v3/tags/californiacreststudios"
+        },
+        {
+            "name": "riotrevolver",
+            "slug": "riotrevolver",
+            "uri": "https://api.sketchfab.com/v3/tags/riotrevolver"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b1e97ec28e834e0dbb1a4e42b684fb56",
+                "width": 1920,
+                "height": 1080,
+                "size": 358164,
+                "url": "https://media.sketchfab.com/models/0592dfa77b2e4db89c4248bfb9588f5f/thumbnails/350aeaf3b47e469d8a1fb8c7a1331287/8b5a1ba2704f4794929c79f34bf349b3.jpeg"
+            },
+            {
+                "uid": "601d3187254441699d3dbfb93cdedb3b",
+                "width": 1024,
+                "height": 576,
+                "size": 72446,
+                "url": "https://media.sketchfab.com/models/0592dfa77b2e4db89c4248bfb9588f5f/thumbnails/350aeaf3b47e469d8a1fb8c7a1331287/9a1bb5d9de874a5883a624757d24b88f.jpeg"
+            },
+            {
+                "uid": "41ff09c638f649aa85f4fafa2159b95a",
+                "width": 720,
+                "height": 405,
+                "size": 34547,
+                "url": "https://media.sketchfab.com/models/0592dfa77b2e4db89c4248bfb9588f5f/thumbnails/350aeaf3b47e469d8a1fb8c7a1331287/2403ace3725a402aa1725a9f4707d9d2.jpeg"
+            },
+            {
+                "uid": "83c5d6a77b1b4090852ae25ddf3cfb08",
+                "width": 256,
+                "height": 144,
+                "size": 5895,
+                "url": "https://media.sketchfab.com/models/0592dfa77b2e4db89c4248bfb9588f5f/thumbnails/350aeaf3b47e469d8a1fb8c7a1331287/ee7969a9ed114a3faeb8ebc34f720434.jpeg"
+            },
+            {
+                "uid": "3ac1f39b699e4581a7271c0e57523cf4",
+                "width": 64,
+                "height": 36,
+                "size": 1228,
+                "url": "https://media.sketchfab.com/models/0592dfa77b2e4db89c4248bfb9588f5f/thumbnails/350aeaf3b47e469d8a1fb8c7a1331287/6c88e93a45f64a2c96aca0f25d542a25.jpeg"
+            }
+        ]
+    },
+    "uid": "0592dfa77b2e4db89c4248bfb9588f5f",
+    "uri": "https://api.sketchfab.com/v3/models/0592dfa77b2e4db89c4248bfb9588f5f",
+    "user": {
+        "uid": "93d8859d7b7742738a1037ba3db35211",
+        "username": "thanoidiscominggaming",
+        "displayName": "thanoidiscominggaming",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/thanoidiscominggaming",
+        "avatar": {
+            "uid": "8550bd044c864ceb991105972cd839c0",
+            "uri": "https://api.sketchfab.com/v3/avatars/8550bd044c864ceb991105972cd839c0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2161,
+                    "url": "https://media.sketchfab.com/avatars/8550bd044c864ceb991105972cd839c0/856e3eeeda3f4ddd9d15238f1c20f6d7.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3903,
+                    "url": "https://media.sketchfab.com/avatars/8550bd044c864ceb991105972cd839c0/cf25bb27f04b40db9b919da6d4c73a87.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9586,
+                    "url": "https://media.sketchfab.com/avatars/8550bd044c864ceb991105972cd839c0/d96c5d8f88004ccdbd787691c9be1f99.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11353,
+                    "url": "https://media.sketchfab.com/avatars/8550bd044c864ceb991105972cd839c0/a9e39719ccbb48edaa774597e81097f8.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/93d8859d7b7742738a1037ba3db35211"
+    },
+    "vertexCount": 19717,
+    "viewCount": 196,
+    "viewerUrl": "https://sketchfab.com/3d-models/riot-revolver-0592dfa77b2e4db89c4248bfb9588f5f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A strange, medium-sized break-action revolver straight out of a fantasy western, the Riot Revolver was developed in the mid-21st century by Kilter Arms with Thanoid Action LLC as a low-cost, reliable alternative to riot shotguns. Its unconventional single-action design favored durability, simplicity, and easy maintenance over modern complexity, following a strict “don’t fix what isn’t broken” philosophy. Typically chambered in .308, field reports and rumors suggest interchangeable cylinders for 12 gauge, .22 LR, .38, and even .50 BMG, and despite its outdated mechanics it saw widespread pre-War adoption by U.S. law enforcement. The weapon later achieved legendary status after appearing in a popular pre-War fantasy western starring Cooper Howard, driving massive civilian demand, countless variants, and aftermarket mods, \n\nghoul’s gun, Dom Pedro, seen in the Amazon Fallout TV show and Fallout 76. \n\nI’ve been slacking a lot. I am well aware of that so I hope this makes up for it.",
+    "price": null,
+    "downloadCount": 10,
+    "editorUrl": "https://sketchfab.com/models/0592dfa77b2e4db89c4248bfb9588f5f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-02T04:15:33.616667",
+    "pbrType": "metalness",
+    "textureCount": 10,
+    "materialCount": 12
+}

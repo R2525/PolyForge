@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T01:21:16.872455",
+    "embedUrl": "https://sketchfab.com/models/19b8dd8fb9c944baae8eec05eb4fa1f5/embed",
+    "faceCount": 265424,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "High Poly Sci Fi Pipe Half Turn",
+    "publishedAt": "2026-02-20T01:25:23.813534",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pipe",
+            "slug": "pipe",
+            "uri": "https://api.sketchfab.com/v3/tags/pipe"
+        },
+        {
+            "name": "tube",
+            "slug": "tube",
+            "uri": "https://api.sketchfab.com/v3/tags/tube"
+        },
+        {
+            "name": "pipes",
+            "slug": "pipes",
+            "uri": "https://api.sketchfab.com/v3/tags/pipes"
+        },
+        {
+            "name": "iron",
+            "slug": "iron",
+            "uri": "https://api.sketchfab.com/v3/tags/iron"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2937e5a54d254d9b820791d924e397ea",
+                "width": 1920,
+                "height": 1080,
+                "size": 72863,
+                "url": "https://media.sketchfab.com/models/19b8dd8fb9c944baae8eec05eb4fa1f5/thumbnails/4eb76c22e76e4300a7f3e49209518388/8c442f6f617c42869f7aab7356095ef9.jpeg"
+            },
+            {
+                "uid": "614d8931bccb4f8fbfa612e7e97d6904",
+                "width": 1024,
+                "height": 576,
+                "size": 24024,
+                "url": "https://media.sketchfab.com/models/19b8dd8fb9c944baae8eec05eb4fa1f5/thumbnails/4eb76c22e76e4300a7f3e49209518388/189ee36ce71d4b72bcdf92487521e6b9.jpeg"
+            },
+            {
+                "uid": "50e8e86988e141f0ac5549cb7a3eec2d",
+                "width": 720,
+                "height": 405,
+                "size": 13537,
+                "url": "https://media.sketchfab.com/models/19b8dd8fb9c944baae8eec05eb4fa1f5/thumbnails/4eb76c22e76e4300a7f3e49209518388/15462a8ea97c48b5ae9773a228fed7e2.jpeg"
+            },
+            {
+                "uid": "8220b33c6a614f799c94331935840cf7",
+                "width": 256,
+                "height": 144,
+                "size": 2785,
+                "url": "https://media.sketchfab.com/models/19b8dd8fb9c944baae8eec05eb4fa1f5/thumbnails/4eb76c22e76e4300a7f3e49209518388/897b40c9467b419eaa5ae731f061d3a6.jpeg"
+            },
+            {
+                "uid": "ba86dd7329444ae7a12777f911fa3f13",
+                "width": 64,
+                "height": 36,
+                "size": 901,
+                "url": "https://media.sketchfab.com/models/19b8dd8fb9c944baae8eec05eb4fa1f5/thumbnails/4eb76c22e76e4300a7f3e49209518388/2ae6b48a50644371b2b768e7fc9194d6.jpeg"
+            }
+        ]
+    },
+    "uid": "19b8dd8fb9c944baae8eec05eb4fa1f5",
+    "uri": "https://api.sketchfab.com/v3/models/19b8dd8fb9c944baae8eec05eb4fa1f5",
+    "user": {
+        "uid": "bce1a200de1b45feab25d54db676c0d3",
+        "username": "cloudachetiv1984",
+        "displayName": "cloudachetiv1984",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/cloudachetiv1984",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bce1a200de1b45feab25d54db676c0d3"
+    },
+    "vertexCount": 141741,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/high-poly-sci-fi-pipe-half-turn-19b8dd8fb9c944baae8eec05eb4fa1f5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Modular pipes for your scifi scenes",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/19b8dd8fb9c944baae8eec05eb4fa1f5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T01:25:24.050575",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 15
+}

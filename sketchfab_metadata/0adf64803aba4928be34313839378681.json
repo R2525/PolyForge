@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-12-15T12:58:02.921134",
+    "embedUrl": "https://sketchfab.com/models/0adf64803aba4928be34313839378681/embed",
+    "faceCount": 13879,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 23,
+    "name": "DCA/FK20 2 20mm Zwillinge (WARNO)",
+    "publishedAt": "2025-12-15T14:16:11.516860",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a12454d1d7b94c409ea79158d5073516",
+                "width": 1920,
+                "height": 1080,
+                "size": 52773,
+                "url": "https://media.sketchfab.com/models/0adf64803aba4928be34313839378681/thumbnails/41da31ec107845f68a4abd247d4483eb/8ac9cb17460d41838d8e96ddb7394a31.jpeg"
+            },
+            {
+                "uid": "c26ff4407d204894a7631b366962b766",
+                "width": 1024,
+                "height": 576,
+                "size": 16618,
+                "url": "https://media.sketchfab.com/models/0adf64803aba4928be34313839378681/thumbnails/41da31ec107845f68a4abd247d4483eb/1f82d23825de4f21b7e5a7580d72b0b4.jpeg"
+            },
+            {
+                "uid": "7f6739c4da544decb1917adfa338bd63",
+                "width": 720,
+                "height": 405,
+                "size": 9373,
+                "url": "https://media.sketchfab.com/models/0adf64803aba4928be34313839378681/thumbnails/41da31ec107845f68a4abd247d4483eb/47cbca8d16fc4f6a8f9c5edc10a3849a.jpeg"
+            },
+            {
+                "uid": "ab0ceaa8adfe44db923b78b9ffb41cad",
+                "width": 256,
+                "height": 144,
+                "size": 2130,
+                "url": "https://media.sketchfab.com/models/0adf64803aba4928be34313839378681/thumbnails/41da31ec107845f68a4abd247d4483eb/af54e9892da14efba280f0617b0171e2.jpeg"
+            },
+            {
+                "uid": "9ecc7c65a1d7433e94dde24df94e35f6",
+                "width": 64,
+                "height": 36,
+                "size": 817,
+                "url": "https://media.sketchfab.com/models/0adf64803aba4928be34313839378681/thumbnails/41da31ec107845f68a4abd247d4483eb/92127e5b7e8342259416f8e8c1987d87.jpeg"
+            }
+        ]
+    },
+    "uid": "0adf64803aba4928be34313839378681",
+    "uri": "https://api.sketchfab.com/v3/models/0adf64803aba4928be34313839378681",
+    "user": {
+        "uid": "85f702e7998044b8b856bd10c6f48778",
+        "username": "KojfDiscord",
+        "displayName": "KojfDiscord",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/KojfDiscord",
+        "avatar": {
+            "uid": "d4b1101d955e449cb6d92c0c0c3cb4d0",
+            "uri": "https://api.sketchfab.com/v3/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1207,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/fd0850c6e13f463083f350c151d94de2.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1888,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/b1b01ae81f3042d4a15bcc8172b28a8a.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4524,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/4e5efc15c69a417ba2eb0bab579b27d3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5180,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/07fd657217a44f10aee40cf096ee0193.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/85f702e7998044b8b856bd10c6f48778"
+    },
+    "vertexCount": 8392,
+    "viewCount": 273,
+    "viewerUrl": "https://sketchfab.com/3d-models/dcafk20-2-20mm-zwillinge-warno-0adf64803aba4928be34313839378681",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 63,
+    "editorUrl": "https://sketchfab.com/models/0adf64803aba4928be34313839378681/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-15T14:16:11.627365",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

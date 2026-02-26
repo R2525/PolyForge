@@ -1,0 +1,139 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T00:18:11.052707",
+    "embedUrl": "https://sketchfab.com/models/386d3f2699a141edb4c4564ac9b41e69/embed",
+    "faceCount": 2992348,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Speaway City 350x350",
+    "publishedAt": "2026-02-18T00:20:49.910805",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "mineways",
+            "slug": "mineways",
+            "uri": "https://api.sketchfab.com/v3/tags/mineways"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7719c97744d34f20b8170797e63cea2c",
+                "width": 448,
+                "height": 280,
+                "size": 5925,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/448.jpg"
+            },
+            {
+                "uid": "a6b20474be7c402db8f8a5a6b9ff4730",
+                "width": 200,
+                "height": 200,
+                "size": 2275,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/200x200.jpg"
+            },
+            {
+                "uid": "98095b18341b4f49affb313ad9843d70",
+                "width": 100,
+                "height": 100,
+                "size": 841,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/100x100.jpg"
+            },
+            {
+                "uid": "af9d9afad4f1427a8a6e68dffa18c236",
+                "width": 50,
+                "height": 50,
+                "size": 421,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/50x50.jpg"
+            },
+            {
+                "uid": "b0855968e7eb4421b1d57761d0f2e2f1",
+                "width": 640,
+                "height": 400,
+                "size": 12257,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/640.jpg"
+            },
+            {
+                "uid": "4cfc787dbb4a4a0190430bca9721c6cf",
+                "width": 1024,
+                "height": 640,
+                "size": 28643,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/1024.jpg"
+            },
+            {
+                "uid": "bdbd1b7885db45ba959aede0fd468199",
+                "width": 854,
+                "height": 534,
+                "size": 21153,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/854.jpg"
+            }
+        ]
+    },
+    "uid": "386d3f2699a141edb4c4564ac9b41e69",
+    "uri": "https://api.sketchfab.com/v3/models/386d3f2699a141edb4c4564ac9b41e69",
+    "user": {
+        "uid": "07b4ab35e1214a1d932aea99384047ec",
+        "username": "Speaway",
+        "displayName": "Speaway",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Speaway",
+        "avatar": {
+            "uid": "c21e7f74df304543a57c0075adb5eb86",
+            "uri": "https://api.sketchfab.com/v3/avatars/c21e7f74df304543a57c0075adb5eb86",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1095,
+                    "url": "https://media.sketchfab.com/avatars/c21e7f74df304543a57c0075adb5eb86/47f60f1270444b179a8ccacc9283ee56.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1541,
+                    "url": "https://media.sketchfab.com/avatars/c21e7f74df304543a57c0075adb5eb86/2a0dc1f934374c04a83f217696147590.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2958,
+                    "url": "https://media.sketchfab.com/avatars/c21e7f74df304543a57c0075adb5eb86/f4bd910487bb41c2a21163cf9f9cd086.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3299,
+                    "url": "https://media.sketchfab.com/avatars/c21e7f74df304543a57c0075adb5eb86/484d793ba15c4a01bde8ba8f82f05dd6.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/07b4ab35e1214a1d932aea99384047ec"
+    },
+    "vertexCount": 1795491,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/speaway-city-350x350-386d3f2699a141edb4c4564ac9b41e69",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/386d3f2699a141edb4c4564ac9b41e69/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "mineways",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T00:20:49.882844",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 25
+}

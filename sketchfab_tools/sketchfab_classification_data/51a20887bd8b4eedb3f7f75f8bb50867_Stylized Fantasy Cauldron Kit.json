@@ -1,0 +1,69 @@
+{
+    "category": "Food & Drink",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Cauldron",
+            "score": 0.7
+        },
+        {
+            "name": "Witchcraft",
+            "score": 0.6
+        },
+        {
+            "name": "Mystical",
+            "score": 0.5
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "3D Render",
+            "score": 0.6
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.5
+        },
+        {
+            "name": "Cauldron",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Weathered",
+        "Mossy",
+        "Dusty",
+        "Cracked"
+    ],
+    "tags": [
+        "cauldron",
+        "magic",
+        "witch",
+        "alchemy",
+        "fantasy",
+        "3D model",
+        "cursed",
+        "boiling"
+    ],
+    "model_id_full": "51a20887bd8b4eedb3f7f75f8bb50867_Stylized Fantasy Cauldron Kit",
+    "sketchfab_id": "51a20887bd8b4eedb3f7f75f8bb50867",
+    "asset_name": "Stylized Fantasy Cauldron Kit"
+}

@@ -1,0 +1,196 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "name": "Sports & Fitness",
+            "slug": "sports-fitness",
+            "uri": "https://api.sketchfab.com/v3/categories/ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/2cc5442dbf0aeeed5327cbf073964157-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2026-02-15T08:22:11.266568",
+    "embedUrl": "https://sketchfab.com/models/214cc7d3163442f6a9ca11c3147fa830/embed",
+    "faceCount": 43993,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 11,
+    "name": "Super Creek space Marine Terminator",
+    "publishedAt": "2026-02-15T08:26:58.419069",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "40k",
+            "slug": "40k",
+            "uri": "https://api.sketchfab.com/v3/tags/40k"
+        },
+        {
+            "name": "spacemarine",
+            "slug": "spacemarine",
+            "uri": "https://api.sketchfab.com/v3/tags/spacemarine"
+        },
+        {
+            "name": "musume",
+            "slug": "musume",
+            "uri": "https://api.sketchfab.com/v3/tags/musume"
+        },
+        {
+            "name": "uma",
+            "slug": "uma",
+            "uri": "https://api.sketchfab.com/v3/tags/uma"
+        },
+        {
+            "name": "umamusume",
+            "slug": "umamusume",
+            "uri": "https://api.sketchfab.com/v3/tags/umamusume"
+        },
+        {
+            "name": "terminators",
+            "slug": "terminators",
+            "uri": "https://api.sketchfab.com/v3/tags/terminators"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "08b622adc750495d908c657b026fc4f5",
+                "width": 1920,
+                "height": 1080,
+                "size": 93691,
+                "url": "https://media.sketchfab.com/models/214cc7d3163442f6a9ca11c3147fa830/thumbnails/a99e0e0c36ef42a0b054563c29b011e1/afc679a1dd854560996b60aa1ed584d5.jpeg"
+            },
+            {
+                "uid": "1e21ce66332249d3a7ec6a144df1fccd",
+                "width": 1024,
+                "height": 576,
+                "size": 33178,
+                "url": "https://media.sketchfab.com/models/214cc7d3163442f6a9ca11c3147fa830/thumbnails/a99e0e0c36ef42a0b054563c29b011e1/64e7e14dfc36401e9796d430b582089c.jpeg"
+            },
+            {
+                "uid": "757fbbd9ea0848418b35b255f0e3dea9",
+                "width": 720,
+                "height": 405,
+                "size": 19591,
+                "url": "https://media.sketchfab.com/models/214cc7d3163442f6a9ca11c3147fa830/thumbnails/a99e0e0c36ef42a0b054563c29b011e1/39042b965d3543b6881b846447420a81.jpeg"
+            },
+            {
+                "uid": "5c25f40a67e34c888a79d7101ebd2e4f",
+                "width": 256,
+                "height": 144,
+                "size": 4279,
+                "url": "https://media.sketchfab.com/models/214cc7d3163442f6a9ca11c3147fa830/thumbnails/a99e0e0c36ef42a0b054563c29b011e1/93df68c42c604f619304ae2c77ed20e0.jpeg"
+            },
+            {
+                "uid": "c4a6c473497d46698c8975d67ebc7c15",
+                "width": 64,
+                "height": 36,
+                "size": 1063,
+                "url": "https://media.sketchfab.com/models/214cc7d3163442f6a9ca11c3147fa830/thumbnails/a99e0e0c36ef42a0b054563c29b011e1/cd332feed4cd49b490908c0d7b777839.jpeg"
+            }
+        ]
+    },
+    "uid": "214cc7d3163442f6a9ca11c3147fa830",
+    "uri": "https://api.sketchfab.com/v3/models/214cc7d3163442f6a9ca11c3147fa830",
+    "user": {
+        "uid": "2bd493b1ab244895857b4be48345eca7",
+        "username": "inonshalev42",
+        "displayName": "inonshalev42",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/inonshalev42",
+        "avatar": {
+            "uid": "313e5badfb274c9d82d8b25ebd164b6a",
+            "uri": "https://api.sketchfab.com/v3/avatars/313e5badfb274c9d82d8b25ebd164b6a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1106,
+                    "url": "https://media.sketchfab.com/avatars/313e5badfb274c9d82d8b25ebd164b6a/80fdd75864c3473290c5ef604bfb055d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1651,
+                    "url": "https://media.sketchfab.com/avatars/313e5badfb274c9d82d8b25ebd164b6a/7f49fd22f05944989133c01a88a41596.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4039,
+                    "url": "https://media.sketchfab.com/avatars/313e5badfb274c9d82d8b25ebd164b6a/2a0f49aeb7de4088a92f915090bcfb97.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4637,
+                    "url": "https://media.sketchfab.com/avatars/313e5badfb274c9d82d8b25ebd164b6a/45f273d655d544e08ae0323147aee7e9.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2bd493b1ab244895857b4be48345eca7"
+    },
+    "vertexCount": 25213,
+    "viewCount": 313,
+    "viewerUrl": "https://sketchfab.com/3d-models/super-creek-space-marine-terminator-214cc7d3163442f6a9ca11c3147fa830",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "model by the people who made Uma musume and the people from this Discord server discord.com/invite/9pvPNeDE and Joazzz",
+    "price": null,
+    "downloadCount": 21,
+    "editorUrl": "https://sketchfab.com/models/214cc7d3163442f6a9ca11c3147fa830/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T15:44:08.401548",
+    "pbrType": null,
+    "textureCount": 6,
+    "materialCount": 9
+}

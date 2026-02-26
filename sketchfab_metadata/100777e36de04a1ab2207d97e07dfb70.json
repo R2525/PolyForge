@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-18T06:30:30.698462",
+    "embedUrl": "https://sketchfab.com/models/100777e36de04a1ab2207d97e07dfb70/embed",
+    "faceCount": 14716,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Medieval Cart",
+    "publishedAt": "2025-12-18T06:49:38.300225",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "cart",
+            "slug": "cart",
+            "uri": "https://api.sketchfab.com/v3/tags/cart"
+        },
+        {
+            "name": "mediaeval",
+            "slug": "mediaeval",
+            "uri": "https://api.sketchfab.com/v3/tags/mediaeval"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "aa35b271fbd24c21a83c8aae56e4b919",
+                "width": 1920,
+                "height": 1080,
+                "size": 212299,
+                "url": "https://media.sketchfab.com/models/100777e36de04a1ab2207d97e07dfb70/thumbnails/e7c232b48db94d979a824d34417b61e0/74027f5506d647f6822681d7a35ae623.jpeg"
+            },
+            {
+                "uid": "f15656e5b73342f0b2c75aec9107b36d",
+                "width": 1024,
+                "height": 576,
+                "size": 30864,
+                "url": "https://media.sketchfab.com/models/100777e36de04a1ab2207d97e07dfb70/thumbnails/e7c232b48db94d979a824d34417b61e0/8ae5745b2a16402596ccab2a455ebe84.jpeg"
+            },
+            {
+                "uid": "e40f98592c14408d857ac46a17385e78",
+                "width": 720,
+                "height": 405,
+                "size": 17695,
+                "url": "https://media.sketchfab.com/models/100777e36de04a1ab2207d97e07dfb70/thumbnails/e7c232b48db94d979a824d34417b61e0/0bf88136113642e196d1bc348e7a5bb2.jpeg"
+            },
+            {
+                "uid": "73ad93c6fb3c4003b77160483c927369",
+                "width": 256,
+                "height": 144,
+                "size": 3911,
+                "url": "https://media.sketchfab.com/models/100777e36de04a1ab2207d97e07dfb70/thumbnails/e7c232b48db94d979a824d34417b61e0/e70dc626ab304bd3b6d36fe7df49aa65.jpeg"
+            },
+            {
+                "uid": "214e42a2e7714a69abfe171221477b1b",
+                "width": 64,
+                "height": 36,
+                "size": 1098,
+                "url": "https://media.sketchfab.com/models/100777e36de04a1ab2207d97e07dfb70/thumbnails/e7c232b48db94d979a824d34417b61e0/08a4962040f8427d99bdc8fd2dd11af0.jpeg"
+            }
+        ]
+    },
+    "uid": "100777e36de04a1ab2207d97e07dfb70",
+    "uri": "https://api.sketchfab.com/v3/models/100777e36de04a1ab2207d97e07dfb70",
+    "user": {
+        "uid": "fe1283e7d1dc446b9bac918d6047e96f",
+        "username": "JosephEllisFoers",
+        "displayName": "JosephEllisFoers",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/JosephEllisFoers",
+        "avatar": {
+            "uid": "3644b9666d4f45feb6a760b019de56e0",
+            "uri": "https://api.sketchfab.com/v3/avatars/3644b9666d4f45feb6a760b019de56e0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1134,
+                    "url": "https://media.sketchfab.com/avatars/3644b9666d4f45feb6a760b019de56e0/a373fc14184746588b7649ad0599643f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1639,
+                    "url": "https://media.sketchfab.com/avatars/3644b9666d4f45feb6a760b019de56e0/95d68be006b848488b515dd4c881c6fc.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3634,
+                    "url": "https://media.sketchfab.com/avatars/3644b9666d4f45feb6a760b019de56e0/336a56127354485fb0fa35125baa8695.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4308,
+                    "url": "https://media.sketchfab.com/avatars/3644b9666d4f45feb6a760b019de56e0/ae1d28b7fc024272a413cdc5ff1c2d28.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fe1283e7d1dc446b9bac918d6047e96f"
+    },
+    "vertexCount": 7731,
+    "viewCount": 45,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-cart-100777e36de04a1ab2207d97e07dfb70",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Hero model created for https://www.artstation.com/artwork/6LE6Rr",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/100777e36de04a1ab2207d97e07dfb70/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2025-12-18T06:49:38.482644",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

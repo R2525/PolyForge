@@ -1,0 +1,252 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-08-12T09:08:00.224830",
+    "embedUrl": "https://sketchfab.com/models/1621c5a1282044a99eb7e2417341ba1c/embed",
+    "faceCount": 986,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+    },
+    "likeCount": 5,
+    "name": "Stylized Rocks",
+    "publishedAt": "2025-08-12T09:21:42.497070",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "toon",
+            "slug": "toon",
+            "uri": "https://api.sketchfab.com/v3/tags/toon"
+        },
+        {
+            "name": "rocks",
+            "slug": "rocks",
+            "uri": "https://api.sketchfab.com/v3/tags/rocks"
+        },
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        },
+        {
+            "name": "stones",
+            "slug": "stones",
+            "uri": "https://api.sketchfab.com/v3/tags/stones"
+        },
+        {
+            "name": "mossy",
+            "slug": "mossy",
+            "uri": "https://api.sketchfab.com/v3/tags/mossy"
+        },
+        {
+            "name": "anime3d",
+            "slug": "anime3d",
+            "uri": "https://api.sketchfab.com/v3/tags/anime3d"
+        },
+        {
+            "name": "stylized-environment",
+            "slug": "stylized-environment",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-environment"
+        },
+        {
+            "name": "mossy-rock",
+            "slug": "mossy-rock",
+            "uri": "https://api.sketchfab.com/v3/tags/mossy-rock"
+        },
+        {
+            "name": "animestyle",
+            "slug": "animestyle",
+            "uri": "https://api.sketchfab.com/v3/tags/animestyle"
+        },
+        {
+            "name": "ghibli-studio",
+            "slug": "ghibli-studio",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli-studio"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "rock",
+            "slug": "rock",
+            "uri": "https://api.sketchfab.com/v3/tags/rock"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "stylized-rock",
+            "slug": "stylized-rock",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-rock"
+        },
+        {
+            "name": "stylized-rocks",
+            "slug": "stylized-rocks",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-rocks"
+        },
+        {
+            "name": "rocks-and-minerals",
+            "slug": "rocks-and-minerals",
+            "uri": "https://api.sketchfab.com/v3/tags/rocks-and-minerals"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "61ccbc5786e644fd8b5a6d3341a400cf",
+                "width": 1920,
+                "height": 1080,
+                "size": 60488,
+                "url": "https://media.sketchfab.com/models/1621c5a1282044a99eb7e2417341ba1c/thumbnails/b686b2f16f27467e9a10ec8260871fee/32ea9d1d74894b538a11aac63e82a32a.jpeg"
+            },
+            {
+                "uid": "a1b8381e1bd54abb9ab1105310542436",
+                "width": 1024,
+                "height": 576,
+                "size": 18502,
+                "url": "https://media.sketchfab.com/models/1621c5a1282044a99eb7e2417341ba1c/thumbnails/b686b2f16f27467e9a10ec8260871fee/7b4e8835f36b458584727abd53c356c3.jpeg"
+            },
+            {
+                "uid": "50ffb10940164c5d9ccaacb1e1c82245",
+                "width": 720,
+                "height": 405,
+                "size": 10403,
+                "url": "https://media.sketchfab.com/models/1621c5a1282044a99eb7e2417341ba1c/thumbnails/b686b2f16f27467e9a10ec8260871fee/758e053ff2ef44719468fe210eecdb02.jpeg"
+            },
+            {
+                "uid": "cbec0b1f45c540b7b60ff29207dee6c1",
+                "width": 256,
+                "height": 144,
+                "size": 2341,
+                "url": "https://media.sketchfab.com/models/1621c5a1282044a99eb7e2417341ba1c/thumbnails/b686b2f16f27467e9a10ec8260871fee/6374941ea042402c8f85146463868218.jpeg"
+            },
+            {
+                "uid": "bc00b349e5ca42579ffceae4e09b8313",
+                "width": 64,
+                "height": 36,
+                "size": 856,
+                "url": "https://media.sketchfab.com/models/1621c5a1282044a99eb7e2417341ba1c/thumbnails/b686b2f16f27467e9a10ec8260871fee/6d72e007f2804cf5847dbd4b20fc5fcd.jpeg"
+            }
+        ]
+    },
+    "uid": "1621c5a1282044a99eb7e2417341ba1c",
+    "uri": "https://api.sketchfab.com/v3/models/1621c5a1282044a99eb7e2417341ba1c",
+    "user": {
+        "uid": "f923e95f1fff4387b5212c01dd67bed3",
+        "username": "laplahce",
+        "displayName": "laplahce",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/laplahce",
+        "avatar": {
+            "uid": "e35e3ff8771a407186bae64b88252c20",
+            "uri": "https://api.sketchfab.com/v3/avatars/e35e3ff8771a407186bae64b88252c20",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 721,
+                    "url": "https://media.sketchfab.com/avatars/e35e3ff8771a407186bae64b88252c20/30b728b01e66429d84f642213b16c950.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1235,
+                    "url": "https://media.sketchfab.com/avatars/e35e3ff8771a407186bae64b88252c20/0a7cdebcff8e4c18b8ca3e1909da283e.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2149,
+                    "url": "https://media.sketchfab.com/avatars/e35e3ff8771a407186bae64b88252c20/9fe435a270eb460b9c8c3c428ac198f9.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2393,
+                    "url": "https://media.sketchfab.com/avatars/e35e3ff8771a407186bae64b88252c20/e9a731698d0346fb99ddb303371cd80c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f923e95f1fff4387b5212c01dd67bed3"
+    },
+    "vertexCount": 495,
+    "viewCount": 148,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-rocks-1621c5a1282044a99eb7e2417341ba1c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is a sample for a collection of 20 hand-sculpted rocks, each with 6 texture variants to suit your artstyle & 3 LODs.\n\nFeel free to use this rock for personal projects but for commercial use and 19 more rocks - [check out the full collection on FAB (Epic Games Store) here](https://fab.com/s/f782b9b7f937)",
+    "price": null,
+    "downloadCount": 81,
+    "editorUrl": "https://sketchfab.com/models/1621c5a1282044a99eb7e2417341ba1c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-08-12T09:21:42.776392",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

@@ -1,0 +1,142 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T18:37:48.068656",
+    "embedUrl": "https://sketchfab.com/models/23675bb6edc64545b75ab4690b82506d/embed",
+    "faceCount": 499932,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Anime-style robot girl figure",
+    "publishedAt": "2026-02-20T18:38:20.267435",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "Rodin",
+            "slug": "rodin",
+            "uri": "https://api.sketchfab.com/v3/tags/rodin"
+        },
+        {
+            "name": "shaded",
+            "slug": "shaded",
+            "uri": "https://api.sketchfab.com/v3/tags/shaded"
+        },
+        {
+            "name": "gen-1",
+            "slug": "gen-1",
+            "uri": "https://api.sketchfab.com/v3/tags/gen-1"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "52ea989880f842b98c3d36b785175db7",
+                "width": 1920,
+                "height": 1080,
+                "size": 56940,
+                "url": "https://media.sketchfab.com/models/23675bb6edc64545b75ab4690b82506d/thumbnails/7e93a655ca6f4edd95c2ad7022790c59/1f86fc20e72341b6becf097bde64a887.jpeg"
+            },
+            {
+                "uid": "81d0e39ac6bf4885aeef00f8e3910d3b",
+                "width": 1024,
+                "height": 576,
+                "size": 19267,
+                "url": "https://media.sketchfab.com/models/23675bb6edc64545b75ab4690b82506d/thumbnails/7e93a655ca6f4edd95c2ad7022790c59/4246621f161f4814a9dc8cf2dbf4e371.jpeg"
+            },
+            {
+                "uid": "33da1b704510475182b94e04a12e7959",
+                "width": 720,
+                "height": 405,
+                "size": 11274,
+                "url": "https://media.sketchfab.com/models/23675bb6edc64545b75ab4690b82506d/thumbnails/7e93a655ca6f4edd95c2ad7022790c59/f408fc4649d8468ba079a4a4837a501c.jpeg"
+            },
+            {
+                "uid": "b8915d8f33eb471c88e9594267bed9fa",
+                "width": 256,
+                "height": 144,
+                "size": 2570,
+                "url": "https://media.sketchfab.com/models/23675bb6edc64545b75ab4690b82506d/thumbnails/7e93a655ca6f4edd95c2ad7022790c59/4ef14cb7c805469cbd8e4cd5507f3737.jpeg"
+            },
+            {
+                "uid": "fe04f6102b2645528220a336058a2b14",
+                "width": 64,
+                "height": 36,
+                "size": 842,
+                "url": "https://media.sketchfab.com/models/23675bb6edc64545b75ab4690b82506d/thumbnails/7e93a655ca6f4edd95c2ad7022790c59/c34a3076440d4f6db9103c63fd19d81d.jpeg"
+            }
+        ]
+    },
+    "uid": "23675bb6edc64545b75ab4690b82506d",
+    "uri": "https://api.sketchfab.com/v3/models/23675bb6edc64545b75ab4690b82506d",
+    "user": {
+        "uid": "ab5de688740b46cfb4f106ad122d2381",
+        "username": "mrianogj01",
+        "displayName": "mrianogj01",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mrianogj01",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ab5de688740b46cfb4f106ad122d2381"
+    },
+    "vertexCount": 249962,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/anime-style-robot-girl-figure-23675bb6edc64545b75ab4690b82506d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model is generated by the state-of-the-art 3D GenAI tool, Rodin Gen-1.However, its ideas and creativity originate from the human author.\r\n\r\nCreate your own model from images:\r\n\r\n[https://hyperhuman.deemos.com](https://hyperhuman.deemos.com)\r\n\r\n[https://hyper3d.ai](https://hyper3d.ai)",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/23675bb6edc64545b75ab4690b82506d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T18:38:51.550627",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

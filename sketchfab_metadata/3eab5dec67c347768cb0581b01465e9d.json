@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T20:57:54.977538",
+    "embedUrl": "https://sketchfab.com/models/3eab5dec67c347768cb0581b01465e9d/embed",
+    "faceCount": 12176,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Tree Trunk",
+    "publishedAt": "2026-02-20T20:58:34.076574",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "tall",
+            "slug": "tall",
+            "uri": "https://api.sketchfab.com/v3/tags/tall"
+        },
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "log",
+            "slug": "log",
+            "uri": "https://api.sketchfab.com/v3/tags/log"
+        },
+        {
+            "name": "trunk",
+            "slug": "trunk",
+            "uri": "https://api.sketchfab.com/v3/tags/trunk"
+        },
+        {
+            "name": "Stump",
+            "slug": "stump",
+            "uri": "https://api.sketchfab.com/v3/tags/stump"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b4b85087c7d34a5396b4db375a51c1a2",
+                "width": 1920,
+                "height": 1080,
+                "size": 78145,
+                "url": "https://media.sketchfab.com/models/3eab5dec67c347768cb0581b01465e9d/thumbnails/0013aa2be7af46e4a2e381aa27bd171e/835543b7dd1f431488425acf92067efb.jpeg"
+            },
+            {
+                "uid": "9d3a1a3af5ab458d9bb77f6c0b2dfaab",
+                "width": 1024,
+                "height": 576,
+                "size": 23537,
+                "url": "https://media.sketchfab.com/models/3eab5dec67c347768cb0581b01465e9d/thumbnails/0013aa2be7af46e4a2e381aa27bd171e/caed83938509447aaeff6144f2133865.jpeg"
+            },
+            {
+                "uid": "467d408b15a9463d92abe8f3f09919d2",
+                "width": 720,
+                "height": 405,
+                "size": 12928,
+                "url": "https://media.sketchfab.com/models/3eab5dec67c347768cb0581b01465e9d/thumbnails/0013aa2be7af46e4a2e381aa27bd171e/b2a71a9fa99a43209371fffdb8960239.jpeg"
+            },
+            {
+                "uid": "3b5a278d8988404fad8eee88629251e5",
+                "width": 256,
+                "height": 144,
+                "size": 2636,
+                "url": "https://media.sketchfab.com/models/3eab5dec67c347768cb0581b01465e9d/thumbnails/0013aa2be7af46e4a2e381aa27bd171e/97b6670a05cd48f8b398339c6d24b53c.jpeg"
+            },
+            {
+                "uid": "00701b4da0da48c28ca90212081f57a4",
+                "width": 64,
+                "height": 36,
+                "size": 872,
+                "url": "https://media.sketchfab.com/models/3eab5dec67c347768cb0581b01465e9d/thumbnails/0013aa2be7af46e4a2e381aa27bd171e/9c2b94b1d12a40d3af30c9fdcf91b628.jpeg"
+            }
+        ]
+    },
+    "uid": "3eab5dec67c347768cb0581b01465e9d",
+    "uri": "https://api.sketchfab.com/v3/models/3eab5dec67c347768cb0581b01465e9d",
+    "user": {
+        "uid": "2263ad73af4e480ca339300dc04f2066",
+        "username": "monostract",
+        "displayName": "monostract",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/monostract",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2263ad73af4e480ca339300dc04f2066"
+    },
+    "vertexCount": 6224,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/tree-trunk-3eab5dec67c347768cb0581b01465e9d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the original file.The converted file is intended for web viewing only. In the source file, the following are fully preserved:✔ native scene structure✔ all materials without simplification✔ correct PBR texture maps✔ correct object namesIf you are going to integrate the model into a project, choose the source file.3D scanned Tree Trunk photorealistic and reduced to 15K lowpoly",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/3eab5dec67c347768cb0581b01465e9d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T20:58:34.806864",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

@@ -1,0 +1,137 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T12:53:49.482678",
+    "embedUrl": "https://sketchfab.com/models/0798a17dd0254bc688ac65a9bcbba051/embed",
+    "faceCount": 8626,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "автомат low poly",
+    "publishedAt": "2026-02-22T12:54:42.431616",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "455ec016ad264a069a2be90467047c93",
+                "width": 1920,
+                "height": 1080,
+                "size": 60892,
+                "url": "https://media.sketchfab.com/models/0798a17dd0254bc688ac65a9bcbba051/thumbnails/9bc6f2475e7a471882741c18a80ed78a/a740f5e95d11421ebfef357254bf6d1e.jpeg"
+            },
+            {
+                "uid": "127d3fe1ffab42d1a0eae39e37bbf350",
+                "width": 1024,
+                "height": 576,
+                "size": 20899,
+                "url": "https://media.sketchfab.com/models/0798a17dd0254bc688ac65a9bcbba051/thumbnails/9bc6f2475e7a471882741c18a80ed78a/9b744dae29b5426288afa22e063274bd.jpeg"
+            },
+            {
+                "uid": "9f1c1e735c434f5eb961f3068604e24f",
+                "width": 720,
+                "height": 405,
+                "size": 12389,
+                "url": "https://media.sketchfab.com/models/0798a17dd0254bc688ac65a9bcbba051/thumbnails/9bc6f2475e7a471882741c18a80ed78a/9d6825cbf0f54275ab674754f253494b.jpeg"
+            },
+            {
+                "uid": "6d68a98c9faa4a5fb6b4afcac66bffa0",
+                "width": 256,
+                "height": 144,
+                "size": 3018,
+                "url": "https://media.sketchfab.com/models/0798a17dd0254bc688ac65a9bcbba051/thumbnails/9bc6f2475e7a471882741c18a80ed78a/3ecfce92e5b1413382b9cc2efb56b28a.jpeg"
+            },
+            {
+                "uid": "bb9641d7f4b14dda9602a67cd59290fc",
+                "width": 64,
+                "height": 36,
+                "size": 950,
+                "url": "https://media.sketchfab.com/models/0798a17dd0254bc688ac65a9bcbba051/thumbnails/9bc6f2475e7a471882741c18a80ed78a/048b96e9d1634c1fb5af2a9176ae1e16.jpeg"
+            }
+        ]
+    },
+    "uid": "0798a17dd0254bc688ac65a9bcbba051",
+    "uri": "https://api.sketchfab.com/v3/models/0798a17dd0254bc688ac65a9bcbba051",
+    "user": {
+        "uid": "9f0795409a6d48b1bc4de1ed231220f4",
+        "username": "linkavel",
+        "displayName": "linkavel",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/linkavel",
+        "avatar": {
+            "uid": "fa49e0f2e32c41efae00c7e0d0c5dfeb",
+            "uri": "https://api.sketchfab.com/v3/avatars/fa49e0f2e32c41efae00c7e0d0c5dfeb",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 728,
+                    "url": "https://media.sketchfab.com/avatars/fa49e0f2e32c41efae00c7e0d0c5dfeb/0fabd0d9bd444d9eb7512f4992cd7250.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/fa49e0f2e32c41efae00c7e0d0c5dfeb/1dd56b77a66e4190a87f9586c1ff87f8.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2653,
+                    "url": "https://media.sketchfab.com/avatars/fa49e0f2e32c41efae00c7e0d0c5dfeb/095c899ec13c4de082e82174117d6a62.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3135,
+                    "url": "https://media.sketchfab.com/avatars/fa49e0f2e32c41efae00c7e0d0c5dfeb/ec07a9550ef548109f579b1bbcdef4a5.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9f0795409a6d48b1bc4de1ed231220f4"
+    },
+    "vertexCount": 4266,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-0798a17dd0254bc688ac65a9bcbba051",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/vy9Zxm](https://www.meshy.ai/s/vy9Zxm)",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/0798a17dd0254bc688ac65a9bcbba051/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:32:50.014592",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

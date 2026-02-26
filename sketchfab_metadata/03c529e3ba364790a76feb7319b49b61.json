@@ -1,0 +1,219 @@
+{
+    "animationCount": 11,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-09T19:16:00.620515",
+    "embedUrl": "https://sketchfab.com/models/03c529e3ba364790a76feb7319b49b61/embed",
+    "faceCount": 8774,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Zombie Warrior - Undead Army Infantry Lv2",
+    "publishedAt": "2026-02-09T19:21:08.111086",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "undead",
+            "slug": "undead",
+            "uri": "https://api.sketchfab.com/v3/tags/undead"
+        },
+        {
+            "name": "infantry",
+            "slug": "infantry",
+            "uri": "https://api.sketchfab.com/v3/tags/infantry"
+        },
+        {
+            "name": "animations",
+            "slug": "animations",
+            "uri": "https://api.sketchfab.com/v3/tags/animations"
+        },
+        {
+            "name": "Gradient",
+            "slug": "gradient",
+            "uri": "https://api.sketchfab.com/v3/tags/gradient"
+        },
+        {
+            "name": "gradienttexture",
+            "slug": "gradienttexture",
+            "uri": "https://api.sketchfab.com/v3/tags/gradienttexture"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "zombie",
+            "slug": "zombie",
+            "uri": "https://api.sketchfab.com/v3/tags/zombie"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f5b6d394c79042e4b954cc7f67a3225c",
+                "width": 1920,
+                "height": 1080,
+                "size": 72584,
+                "url": "https://media.sketchfab.com/models/03c529e3ba364790a76feb7319b49b61/thumbnails/ac1fe86d2e6a4edd9d3e6db12b116feb/e9ca6899e4504ceabaa4194bbae0802e.jpeg"
+            },
+            {
+                "uid": "2bf65ae8493446a4a837e69e31f94cee",
+                "width": 1024,
+                "height": 576,
+                "size": 24268,
+                "url": "https://media.sketchfab.com/models/03c529e3ba364790a76feb7319b49b61/thumbnails/ac1fe86d2e6a4edd9d3e6db12b116feb/1142a757ef4e4360815555df928bd680.jpeg"
+            },
+            {
+                "uid": "59691785a54d4a458d7c30d715598c0b",
+                "width": 720,
+                "height": 405,
+                "size": 14677,
+                "url": "https://media.sketchfab.com/models/03c529e3ba364790a76feb7319b49b61/thumbnails/ac1fe86d2e6a4edd9d3e6db12b116feb/0a723ddd95c24e808ea0c42e4cb907c3.jpeg"
+            },
+            {
+                "uid": "312049e5c2c94d52858a0a13c381c461",
+                "width": 256,
+                "height": 144,
+                "size": 3457,
+                "url": "https://media.sketchfab.com/models/03c529e3ba364790a76feb7319b49b61/thumbnails/ac1fe86d2e6a4edd9d3e6db12b116feb/4728150a484540cd873c58c42abe47e5.jpeg"
+            },
+            {
+                "uid": "31148d0d43c2443e94c0801050c6d8b8",
+                "width": 64,
+                "height": 36,
+                "size": 980,
+                "url": "https://media.sketchfab.com/models/03c529e3ba364790a76feb7319b49b61/thumbnails/ac1fe86d2e6a4edd9d3e6db12b116feb/839c6f734f3543c6b5a089ace910b7ef.jpeg"
+            }
+        ]
+    },
+    "uid": "03c529e3ba364790a76feb7319b49b61",
+    "uri": "https://api.sketchfab.com/v3/models/03c529e3ba364790a76feb7319b49b61",
+    "user": {
+        "uid": "a84b2d4b848d4802b5f5b981fbcb5678",
+        "username": "guigodead",
+        "displayName": "guigodead",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/guigodead",
+        "avatar": {
+            "uid": "cee89517489444259184ab26489174ff",
+            "uri": "https://api.sketchfab.com/v3/avatars/cee89517489444259184ab26489174ff",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2772,
+                    "url": "https://media.sketchfab.com/avatars/cee89517489444259184ab26489174ff/60c216f6a59045e48d176613474907e8.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5614,
+                    "url": "https://media.sketchfab.com/avatars/cee89517489444259184ab26489174ff/2606c2a411124b139f6a1b78c2d99f74.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 18103,
+                    "url": "https://media.sketchfab.com/avatars/cee89517489444259184ab26489174ff/70c690b18dd243fab9875e5515ddbe9c.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 22146,
+                    "url": "https://media.sketchfab.com/avatars/cee89517489444259184ab26489174ff/559d80fe64754e2fa10c3e6aa630634c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a84b2d4b848d4802b5f5b981fbcb5678"
+    },
+    "vertexCount": 4646,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/zombie-warrior-undead-army-infantry-lv2-03c529e3ba364790a76feb7319b49b61",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "# Info\n\n - Made in Blender\n - 512x512 textures\n\n# Statistics\n\n - 10 Animations\n - 4,646 vertices\n - 13,391 Edges\n - 8,774 Tris\n\n# Other stuff\n\nThis model is part of an asset pack I'm working on. The asset pack has an undead army theme, and this Zombie Warrior is meant to be the equivalent of a Infantry of the faction. I plan to post the other units here on SketchFab as soon as they are ready.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/03c529e3ba364790a76feb7319b49b61/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T19:28:36.225713",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-28T11:23:53.582636",
+    "embedUrl": "https://sketchfab.com/models/0a8d61abea5c4ec49eec05fde9573395/embed",
+    "faceCount": 1064,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Low Poly Bucket",
+    "publishedAt": "2025-11-28T11:25:31.680940",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "bucket",
+            "slug": "bucket",
+            "uri": "https://api.sketchfab.com/v3/tags/bucket"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "335c9625b53e41d982551a42a880b040",
+                "width": 1920,
+                "height": 1080,
+                "size": 51413,
+                "url": "https://media.sketchfab.com/models/0a8d61abea5c4ec49eec05fde9573395/thumbnails/d9832d0bd3be4ccbbee63242b7a26bfc/7e5798d9c98d4ab0969076ce04a86f6c.jpeg"
+            },
+            {
+                "uid": "40a0d811af124dd2a1cb0c6b9d9936c9",
+                "width": 1024,
+                "height": 576,
+                "size": 18020,
+                "url": "https://media.sketchfab.com/models/0a8d61abea5c4ec49eec05fde9573395/thumbnails/d9832d0bd3be4ccbbee63242b7a26bfc/1578d54a999a4929a7e6449523f209b9.jpeg"
+            },
+            {
+                "uid": "29191e7775234538bc199d278ccec8d4",
+                "width": 720,
+                "height": 405,
+                "size": 10857,
+                "url": "https://media.sketchfab.com/models/0a8d61abea5c4ec49eec05fde9573395/thumbnails/d9832d0bd3be4ccbbee63242b7a26bfc/4498c2a5fea749ceb25cb310ee2a7ef0.jpeg"
+            },
+            {
+                "uid": "536c7af34e9d428ab5114ec96b8dd040",
+                "width": 256,
+                "height": 144,
+                "size": 2847,
+                "url": "https://media.sketchfab.com/models/0a8d61abea5c4ec49eec05fde9573395/thumbnails/d9832d0bd3be4ccbbee63242b7a26bfc/11e4fee9fee745ae97a5e517c3970222.jpeg"
+            },
+            {
+                "uid": "47f38c8238a54f8d9619f1dbdd20cd27",
+                "width": 64,
+                "height": 36,
+                "size": 964,
+                "url": "https://media.sketchfab.com/models/0a8d61abea5c4ec49eec05fde9573395/thumbnails/d9832d0bd3be4ccbbee63242b7a26bfc/2b5a678e682044baac69dfe063823d17.jpeg"
+            }
+        ]
+    },
+    "uid": "0a8d61abea5c4ec49eec05fde9573395",
+    "uri": "https://api.sketchfab.com/v3/models/0a8d61abea5c4ec49eec05fde9573395",
+    "user": {
+        "uid": "fc67dfb65ee147e8b67f728d44d161e2",
+        "username": "Shofking",
+        "displayName": "Shofking",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Shofking",
+        "avatar": {
+            "uid": "64b9b13bd7bb489f98ec8eefd8435d0c",
+            "uri": "https://api.sketchfab.com/v3/avatars/64b9b13bd7bb489f98ec8eefd8435d0c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1470,
+                    "url": "https://media.sketchfab.com/avatars/64b9b13bd7bb489f98ec8eefd8435d0c/6ce0a832028a4b9899b10f98cc0a9776.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2570,
+                    "url": "https://media.sketchfab.com/avatars/64b9b13bd7bb489f98ec8eefd8435d0c/e1290b22668b4fc2a2b4de26f223c954.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 6413,
+                    "url": "https://media.sketchfab.com/avatars/64b9b13bd7bb489f98ec8eefd8435d0c/cf10539d630f4d40900fabbe2722a95b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 7533,
+                    "url": "https://media.sketchfab.com/avatars/64b9b13bd7bb489f98ec8eefd8435d0c/670ceb986a064bcda9f54def2886b036.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fc67dfb65ee147e8b67f728d44d161e2"
+    },
+    "vertexCount": 342,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-bucket-0a8d61abea5c4ec49eec05fde9573395",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "low poly stylized bucket for that adventure feel.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0a8d61abea5c4ec49eec05fde9573395/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-28T11:25:31.893712",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 2
+}

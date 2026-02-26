@@ -1,0 +1,296 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-10T22:21:59.016073",
+    "embedUrl": "https://sketchfab.com/models/3053e716a22f4c39ab98b34e1df1532e/embed",
+    "faceCount": 7440,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Ogr",
+    "publishedAt": "2026-01-10T22:41:07.047025",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "green",
+            "slug": "green",
+            "uri": "https://api.sketchfab.com/v3/tags/green"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "style",
+            "slug": "style",
+            "uri": "https://api.sketchfab.com/v3/tags/style"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "indie",
+            "slug": "indie",
+            "uri": "https://api.sketchfab.com/v3/tags/indie"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "painted",
+            "slug": "painted",
+            "uri": "https://api.sketchfab.com/v3/tags/painted"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "ogre",
+            "slug": "ogre",
+            "uri": "https://api.sketchfab.com/v3/tags/ogre"
+        },
+        {
+            "name": "bandages",
+            "slug": "bandages",
+            "uri": "https://api.sketchfab.com/v3/tags/bandages"
+        },
+        {
+            "name": "belt",
+            "slug": "belt",
+            "uri": "https://api.sketchfab.com/v3/tags/belt"
+        },
+        {
+            "name": "kilt",
+            "slug": "kilt",
+            "uri": "https://api.sketchfab.com/v3/tags/kilt"
+        },
+        {
+            "name": "barefoot",
+            "slug": "barefoot",
+            "uri": "https://api.sketchfab.com/v3/tags/barefoot"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "skull",
+            "slug": "skull",
+            "uri": "https://api.sketchfab.com/v3/tags/skull"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        },
+        {
+            "name": "hand",
+            "slug": "hand",
+            "uri": "https://api.sketchfab.com/v3/tags/hand"
+        },
+        {
+            "name": "skin",
+            "slug": "skin",
+            "uri": "https://api.sketchfab.com/v3/tags/skin"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "044f0c75566744018bd95f13c046c935",
+                "width": 1920,
+                "height": 1080,
+                "size": 78636,
+                "url": "https://media.sketchfab.com/models/3053e716a22f4c39ab98b34e1df1532e/thumbnails/ced0d7c2f313409e9131a76be75988af/0847a8fcb9794c95b5408cd427bbf60c.jpeg"
+            },
+            {
+                "uid": "666f8d10c9674ecd8fdb92648f4c1e8f",
+                "width": 1024,
+                "height": 576,
+                "size": 26043,
+                "url": "https://media.sketchfab.com/models/3053e716a22f4c39ab98b34e1df1532e/thumbnails/ced0d7c2f313409e9131a76be75988af/de05cb116c134b9083a531e9e49a33e9.jpeg"
+            },
+            {
+                "uid": "74a064d6786a4288beeb9beff87a456b",
+                "width": 720,
+                "height": 405,
+                "size": 15585,
+                "url": "https://media.sketchfab.com/models/3053e716a22f4c39ab98b34e1df1532e/thumbnails/ced0d7c2f313409e9131a76be75988af/e064a9e97bc741f081d2f58888b7f417.jpeg"
+            },
+            {
+                "uid": "e9d8ca4031224032bfeb30bd19e8427c",
+                "width": 256,
+                "height": 144,
+                "size": 3553,
+                "url": "https://media.sketchfab.com/models/3053e716a22f4c39ab98b34e1df1532e/thumbnails/ced0d7c2f313409e9131a76be75988af/de909023a9c541228bd95d0211336077.jpeg"
+            },
+            {
+                "uid": "d209d4b322a4460cb8a3ebce60ea13a9",
+                "width": 64,
+                "height": 36,
+                "size": 1019,
+                "url": "https://media.sketchfab.com/models/3053e716a22f4c39ab98b34e1df1532e/thumbnails/ced0d7c2f313409e9131a76be75988af/7903d20979664e9c82fc88324dca9b1f.jpeg"
+            }
+        ]
+    },
+    "uid": "3053e716a22f4c39ab98b34e1df1532e",
+    "uri": "https://api.sketchfab.com/v3/models/3053e716a22f4c39ab98b34e1df1532e",
+    "user": {
+        "uid": "06893956511343f48cb0eef88544fecd",
+        "username": "zhenyazybko17",
+        "displayName": "zhenyazybko17",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/zhenyazybko17",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/06893956511343f48cb0eef88544fecd"
+    },
+    "vertexCount": 3726,
+    "viewCount": 59,
+    "viewerUrl": "https://sketchfab.com/3d-models/ogr-3053e716a22f4c39ab98b34e1df1532e",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Low-poly 3D Ogre character, fully textured.\nThe model depicts a green-skinned ogre with a rough, primitive appearance. The character is barefoot, with cloth bandages wrapped around the arms and legs. A belt with a skull attached is worn around the waist. The lower body is covered with a simple kilt-like skirt, similar in style to traditional Scottish attire. Suitable for games, real-time applications, and stylized fantasy projects.",
+    "price": null,
+    "downloadCount": 10,
+    "editorUrl": "https://sketchfab.com/models/3053e716a22f4c39ab98b34e1df1532e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-10T22:41:07.508075",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

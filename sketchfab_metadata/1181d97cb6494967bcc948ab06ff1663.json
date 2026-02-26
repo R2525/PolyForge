@@ -1,0 +1,152 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-23T03:51:21.160671",
+    "embedUrl": "https://sketchfab.com/models/1181d97cb6494967bcc948ab06ff1663/embed",
+    "faceCount": 3452,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Voxel Home Scene",
+    "publishedAt": "2026-02-23T04:00:42.688535",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "house-model",
+            "slug": "house-model",
+            "uri": "https://api.sketchfab.com/v3/tags/house-model"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "769577caa27844889c023a39719ad579",
+                "width": 1920,
+                "height": 1080,
+                "size": 125731,
+                "url": "https://media.sketchfab.com/models/1181d97cb6494967bcc948ab06ff1663/thumbnails/ce847615232242fc9d461737861d2511/ad67b62f5ebb43129ebe054752adb3f9.jpeg"
+            },
+            {
+                "uid": "cb06538dc67d4fa292da09dfa58d884d",
+                "width": 1024,
+                "height": 576,
+                "size": 50140,
+                "url": "https://media.sketchfab.com/models/1181d97cb6494967bcc948ab06ff1663/thumbnails/ce847615232242fc9d461737861d2511/c8f8b88e3d3841449f41c58163c0f3cf.jpeg"
+            },
+            {
+                "uid": "8c7ee1b0c5b04fbda952d2729048ad41",
+                "width": 720,
+                "height": 405,
+                "size": 30854,
+                "url": "https://media.sketchfab.com/models/1181d97cb6494967bcc948ab06ff1663/thumbnails/ce847615232242fc9d461737861d2511/2609f596248c44608c02b5d2c34c40c6.jpeg"
+            },
+            {
+                "uid": "7b8bf9c839594740a35077131113215a",
+                "width": 256,
+                "height": 144,
+                "size": 6694,
+                "url": "https://media.sketchfab.com/models/1181d97cb6494967bcc948ab06ff1663/thumbnails/ce847615232242fc9d461737861d2511/03fa485a532147398a11bbd0a79fabe3.jpeg"
+            },
+            {
+                "uid": "56e2b08faf3945a7a02d00227e12661b",
+                "width": 64,
+                "height": 36,
+                "size": 1296,
+                "url": "https://media.sketchfab.com/models/1181d97cb6494967bcc948ab06ff1663/thumbnails/ce847615232242fc9d461737861d2511/31a380f871014b85b2d1cece9997915e.jpeg"
+            }
+        ]
+    },
+    "uid": "1181d97cb6494967bcc948ab06ff1663",
+    "uri": "https://api.sketchfab.com/v3/models/1181d97cb6494967bcc948ab06ff1663",
+    "user": {
+        "uid": "1d08fed4a46d43608d4bcb69f315b80c",
+        "username": "fanjaztic",
+        "displayName": "fanjaztic",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/fanjaztic",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1d08fed4a46d43608d4bcb69f315b80c"
+    },
+    "vertexCount": 1703,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/voxel-home-scene-1181d97cb6494967bcc948ab06ff1663",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "My First Voxel Scene!",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/1181d97cb6494967bcc948ab06ff1663/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T04:00:42.815984",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

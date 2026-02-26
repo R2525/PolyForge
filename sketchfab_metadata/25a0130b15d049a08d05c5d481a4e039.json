@@ -1,0 +1,349 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-17T14:26:57.160283",
+    "embedUrl": "https://sketchfab.com/models/25a0130b15d049a08d05c5d481a4e039/embed",
+    "faceCount": 9508,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Animated Game-Ready Wooden Box",
+    "publishedAt": "2025-12-17T14:33:38.067161",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "object",
+            "slug": "object",
+            "uri": "https://api.sketchfab.com/v3/tags/object"
+        },
+        {
+            "name": "storage",
+            "slug": "storage",
+            "uri": "https://api.sketchfab.com/v3/tags/storage"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "dungeon",
+            "slug": "dungeon",
+            "uri": "https://api.sketchfab.com/v3/tags/dungeon"
+        },
+        {
+            "name": "mesh",
+            "slug": "mesh",
+            "uri": "https://api.sketchfab.com/v3/tags/mesh"
+        },
+        {
+            "name": "chest",
+            "slug": "chest",
+            "uri": "https://api.sketchfab.com/v3/tags/chest"
+        },
+        {
+            "name": "textures",
+            "slug": "textures",
+            "uri": "https://api.sketchfab.com/v3/tags/textures"
+        },
+        {
+            "name": "interactive",
+            "slug": "interactive",
+            "uri": "https://api.sketchfab.com/v3/tags/interactive"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "open",
+            "slug": "open",
+            "uri": "https://api.sketchfab.com/v3/tags/open"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "treasure",
+            "slug": "treasure",
+            "uri": "https://api.sketchfab.com/v3/tags/treasure"
+        },
+        {
+            "name": "4k",
+            "slug": "4k",
+            "uri": "https://api.sketchfab.com/v3/tags/4k"
+        },
+        {
+            "name": "loot",
+            "slug": "loot",
+            "uri": "https://api.sketchfab.com/v3/tags/loot"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "engine",
+            "slug": "engine",
+            "uri": "https://api.sketchfab.com/v3/tags/engine"
+        },
+        {
+            "name": "box",
+            "slug": "box",
+            "uri": "https://api.sketchfab.com/v3/tags/box"
+        },
+        {
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "glb",
+            "slug": "glb",
+            "uri": "https://api.sketchfab.com/v3/tags/glb"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "animated",
+            "slug": "animated",
+            "uri": "https://api.sketchfab.com/v3/tags/animated"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3b34865a8eb34b55b51f93b5e594fd04",
+                "width": 1920,
+                "height": 1080,
+                "size": 349100,
+                "url": "https://media.sketchfab.com/models/25a0130b15d049a08d05c5d481a4e039/thumbnails/402ac71dfccd40999b00228bb21e161a/49d839129c0148029a76ba909c8999ef.jpeg"
+            },
+            {
+                "uid": "baf91f3367284c42af5cf34331d59b64",
+                "width": 1024,
+                "height": 576,
+                "size": 75665,
+                "url": "https://media.sketchfab.com/models/25a0130b15d049a08d05c5d481a4e039/thumbnails/402ac71dfccd40999b00228bb21e161a/51447e3bbb14463eb75754e5ec9916f5.jpeg"
+            },
+            {
+                "uid": "4f8c01578605417ab5f1ea9c7f71f2d2",
+                "width": 720,
+                "height": 405,
+                "size": 35092,
+                "url": "https://media.sketchfab.com/models/25a0130b15d049a08d05c5d481a4e039/thumbnails/402ac71dfccd40999b00228bb21e161a/f3d7b63466d8448fb4bdb6909997b33b.jpeg"
+            },
+            {
+                "uid": "8e0c614796a84a3f909327b214507ada",
+                "width": 256,
+                "height": 144,
+                "size": 4772,
+                "url": "https://media.sketchfab.com/models/25a0130b15d049a08d05c5d481a4e039/thumbnails/402ac71dfccd40999b00228bb21e161a/8b49fe9b5e864c7d93662b9b271205a9.jpeg"
+            },
+            {
+                "uid": "083aad70c7d641388c13ac43f2d991a4",
+                "width": 64,
+                "height": 36,
+                "size": 1025,
+                "url": "https://media.sketchfab.com/models/25a0130b15d049a08d05c5d481a4e039/thumbnails/402ac71dfccd40999b00228bb21e161a/63c2798825254c9096c88f5420f4defe.jpeg"
+            }
+        ]
+    },
+    "uid": "25a0130b15d049a08d05c5d481a4e039",
+    "uri": "https://api.sketchfab.com/v3/models/25a0130b15d049a08d05c5d481a4e039",
+    "user": {
+        "uid": "52a43f96112049e59df515528656e74e",
+        "username": "hanyahmed4521",
+        "displayName": "hanyahmed4521",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hanyahmed4521",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/52a43f96112049e59df515528656e74e"
+    },
+    "vertexCount": 4787,
+    "viewCount": 38,
+    "viewerUrl": "https://sketchfab.com/3d-models/animated-game-ready-wooden-box-25a0130b15d049a08d05c5d481a4e039",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Game-Ready Wooden Box with Open Animation\n\nHigh-quality, optimized wooden chest designed for real-time applications such as games, cinematics, and VR projects.\nThe model is fully game-ready with clean topology, efficient UVs, and detailed 4K PBR textures.\nIncludes a smooth open/close animation, making it perfect for loot systems, puzzles, or interactive environments.\n\n🔹 Features\nGame-ready & optimized\n\nClean topology and UVs\n\nRealistic PBR materials\n\nSmooth open animation\n\nIdeal for horror, adventure, RPG, and survival games\n\n📐 Technical Details\nVertices: 4,800\n\nFaces: 4,600\n\nTextures: 4K PBR\n\nAnimation: Chest open / close\n\nFormats Included:\n\nFBX\n\nOBJ\n\nPLY\n\nGLB\n\n🎮 Engine Compatibility\n\nUnreal Engine\n\nUnity\n\nGodot\n\nAny engine supporting FBX / GLB",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/25a0130b15d049a08d05c5d481a4e039/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-17T14:44:53.556158",
+    "pbrType": "metalness",
+    "textureCount": 10,
+    "materialCount": 2
+}

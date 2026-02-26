@@ -1,0 +1,185 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-27T15:13:11.212509",
+    "embedUrl": "https://sketchfab.com/models/2a96ccacac4d467b97e5704cddb3ecaf/embed",
+    "faceCount": 5920,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Mythical Sword Redevelopment",
+    "publishedAt": "2026-02-19T23:56:46.641092",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "illustrator",
+            "slug": "illustrator",
+            "uri": "https://api.sketchfab.com/v3/tags/illustrator"
+        },
+        {
+            "name": "college-project",
+            "slug": "college-project",
+            "uri": "https://api.sketchfab.com/v3/tags/college-project"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "photoshop",
+            "slug": "photoshop",
+            "uri": "https://api.sketchfab.com/v3/tags/photoshop"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "mythical-weapon",
+            "slug": "mythical-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/mythical-weapon"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "73a2db4ff4bc4d8fa809a6880ea5c61d",
+                "width": 1920,
+                "height": 1080,
+                "size": 170565,
+                "url": "https://media.sketchfab.com/models/2a96ccacac4d467b97e5704cddb3ecaf/thumbnails/dd95cae8f2b64f8da08c209b3496573c/a05cd991eaa244b4879088a21af5158f.jpeg"
+            },
+            {
+                "uid": "26892560444a4261a1078992bfe84fa3",
+                "width": 1024,
+                "height": 576,
+                "size": 25217,
+                "url": "https://media.sketchfab.com/models/2a96ccacac4d467b97e5704cddb3ecaf/thumbnails/dd95cae8f2b64f8da08c209b3496573c/e8300cb4e9764ca79eb3c1702d4e8cc8.jpeg"
+            },
+            {
+                "uid": "298e10d26d5d4c0fa419bb75f4a31acd",
+                "width": 720,
+                "height": 405,
+                "size": 14435,
+                "url": "https://media.sketchfab.com/models/2a96ccacac4d467b97e5704cddb3ecaf/thumbnails/dd95cae8f2b64f8da08c209b3496573c/4d2d44c0ea6c46f6a19b3bfcbd0b22fd.jpeg"
+            },
+            {
+                "uid": "0bbcd2d7345b4fbab8414384c50c9cf0",
+                "width": 256,
+                "height": 144,
+                "size": 3195,
+                "url": "https://media.sketchfab.com/models/2a96ccacac4d467b97e5704cddb3ecaf/thumbnails/dd95cae8f2b64f8da08c209b3496573c/ef15fdbb0d83477085e46525281ba044.jpeg"
+            },
+            {
+                "uid": "0220364f4b5641a3a3bb33b7f006c412",
+                "width": 64,
+                "height": 36,
+                "size": 980,
+                "url": "https://media.sketchfab.com/models/2a96ccacac4d467b97e5704cddb3ecaf/thumbnails/dd95cae8f2b64f8da08c209b3496573c/77aed2c0fc9348bc97f37fa4263a66ae.jpeg"
+            }
+        ]
+    },
+    "uid": "2a96ccacac4d467b97e5704cddb3ecaf",
+    "uri": "https://api.sketchfab.com/v3/models/2a96ccacac4d467b97e5704cddb3ecaf",
+    "user": {
+        "uid": "c2042a97319e47479bea99527d95b73d",
+        "username": "M-KE",
+        "displayName": "M-KE",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/M-KE",
+        "avatar": {
+            "uid": "2130e38c034949db93b91f76f6d23fa7",
+            "uri": "https://api.sketchfab.com/v3/avatars/2130e38c034949db93b91f76f6d23fa7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1009,
+                    "url": "https://media.sketchfab.com/avatars/2130e38c034949db93b91f76f6d23fa7/a433f32ea0b14cc8990d4d5aba741da0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1497,
+                    "url": "https://media.sketchfab.com/avatars/2130e38c034949db93b91f76f6d23fa7/99b6b92f66be48af974b307dfea332a8.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3198,
+                    "url": "https://media.sketchfab.com/avatars/2130e38c034949db93b91f76f6d23fa7/dd28719ef0e24c4aaa8d8fcd8cb201de.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3877,
+                    "url": "https://media.sketchfab.com/avatars/2130e38c034949db93b91f76f6d23fa7/111dee4c49c547ca90c0000332e87494.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c2042a97319e47479bea99527d95b73d"
+    },
+    "vertexCount": 3203,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/mythical-sword-redevelopment-2a96ccacac4d467b97e5704cddb3ecaf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a small redevelopment of the sword I've already made. I've made changes to some of the textures on the hilt and blade, and have also changed the angle the sword sits at when viewing it. This was worked on for the Game Art Seminar at MVCC.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2a96ccacac4d467b97e5704cddb3ecaf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T23:56:46.896084",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,186 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+            "name": "Places & Travel",
+            "slug": "places-travel",
+            "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-26T12:32:27.765226",
+    "embedUrl": "https://sketchfab.com/models/30c446847b2f45d98b0e2cfebc0e7563/embed",
+    "faceCount": 9049,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Ff dc 2025 bundle free-fire",
+    "publishedAt": "2026-01-26T12:35:27.922690",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "dc",
+            "slug": "dc",
+            "uri": "https://api.sketchfab.com/v3/tags/dc"
+        },
+        {
+            "name": "ff",
+            "slug": "ff",
+            "uri": "https://api.sketchfab.com/v3/tags/ff"
+        },
+        {
+            "name": "Bundle",
+            "slug": "bundle",
+            "uri": "https://api.sketchfab.com/v3/tags/bundle"
+        },
+        {
+            "name": "2025",
+            "slug": "2025",
+            "uri": "https://api.sketchfab.com/v3/tags/2025"
+        },
+        {
+            "name": "freefire",
+            "slug": "freefire",
+            "uri": "https://api.sketchfab.com/v3/tags/freefire"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8c6a3ae2352344d9a1dc0e2e58dec192",
+                "width": 1920,
+                "height": 1080,
+                "size": 313631,
+                "url": "https://media.sketchfab.com/models/30c446847b2f45d98b0e2cfebc0e7563/thumbnails/9ec6c72be3fe4e6a881aac7a79eab4c9/3eaadb70fe5c4eccbbb380793c8520be.jpeg"
+            },
+            {
+                "uid": "3fe57c4b4b0d47fea70fd71a70af7013",
+                "width": 1024,
+                "height": 576,
+                "size": 89809,
+                "url": "https://media.sketchfab.com/models/30c446847b2f45d98b0e2cfebc0e7563/thumbnails/9ec6c72be3fe4e6a881aac7a79eab4c9/e7a62ee414614a5f972cbca182924d96.jpeg"
+            },
+            {
+                "uid": "2b68e2a7ebe44e70959cde60f032b18a",
+                "width": 720,
+                "height": 405,
+                "size": 42632,
+                "url": "https://media.sketchfab.com/models/30c446847b2f45d98b0e2cfebc0e7563/thumbnails/9ec6c72be3fe4e6a881aac7a79eab4c9/253d703f0d234a73bdd308490001f16d.jpeg"
+            },
+            {
+                "uid": "42173a086df441c593d66ae3910b285f",
+                "width": 256,
+                "height": 144,
+                "size": 5730,
+                "url": "https://media.sketchfab.com/models/30c446847b2f45d98b0e2cfebc0e7563/thumbnails/9ec6c72be3fe4e6a881aac7a79eab4c9/5aa3058e115245f0bfea8157a84d1600.jpeg"
+            },
+            {
+                "uid": "826e34cb30de4d1db7cc9873480b71be",
+                "width": 64,
+                "height": 36,
+                "size": 1118,
+                "url": "https://media.sketchfab.com/models/30c446847b2f45d98b0e2cfebc0e7563/thumbnails/9ec6c72be3fe4e6a881aac7a79eab4c9/e1d646d783a34a1199d3e202eafc8908.jpeg"
+            }
+        ]
+    },
+    "uid": "30c446847b2f45d98b0e2cfebc0e7563",
+    "uri": "https://api.sketchfab.com/v3/models/30c446847b2f45d98b0e2cfebc0e7563",
+    "user": {
+        "uid": "e1d313d933ad483b9e2bb2589cf28e2c",
+        "username": "amansoyal781",
+        "displayName": "KAKASHI",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/amansoyal781",
+        "avatar": {
+            "uid": "8b969a8475fd4bf794570f4a1a60c855",
+            "uri": "https://api.sketchfab.com/v3/avatars/8b969a8475fd4bf794570f4a1a60c855",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1125,
+                    "url": "https://media.sketchfab.com/avatars/8b969a8475fd4bf794570f4a1a60c855/99db7316bd0647c6b877514fa95ce847.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1518,
+                    "url": "https://media.sketchfab.com/avatars/8b969a8475fd4bf794570f4a1a60c855/5aa3f3eba3ac4aa0ab77585b8cfba9fd.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3204,
+                    "url": "https://media.sketchfab.com/avatars/8b969a8475fd4bf794570f4a1a60c855/ce6d2e38bf7d442fb656457b796ac4f4.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3623,
+                    "url": "https://media.sketchfab.com/avatars/8b969a8475fd4bf794570f4a1a60c855/4fd875db6ef64f8ba9277bb7ca84ff11.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e1d313d933ad483b9e2bb2589cf28e2c"
+    },
+    "vertexCount": 5385,
+    "viewCount": 70,
+    "viewerUrl": "https://sketchfab.com/3d-models/ff-dc-2025-bundle-free-fire-30c446847b2f45d98b0e2cfebc0e7563",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Ff dc 2025 bundle free-fire",
+    "price": null,
+    "downloadCount": 20,
+    "editorUrl": "https://sketchfab.com/models/30c446847b2f45d98b0e2cfebc0e7563/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-26T12:35:40.533659",
+    "pbrType": null,
+    "textureCount": 7,
+    "materialCount": 7
+}

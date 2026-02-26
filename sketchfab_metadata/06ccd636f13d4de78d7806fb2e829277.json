@@ -1,0 +1,206 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-01T16:52:23.332319",
+    "embedUrl": "https://sketchfab.com/models/06ccd636f13d4de78d7806fb2e829277/embed",
+    "faceCount": 1766,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 15,
+    "name": "Lowpoly Small Medieval Building",
+    "publishedAt": "2026-01-01T16:57:46.500534",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "small",
+            "slug": "small",
+            "uri": "https://api.sketchfab.com/v3/tags/small"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "fab",
+            "slug": "fab",
+            "uri": "https://api.sketchfab.com/v3/tags/fab"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "home",
+            "slug": "home",
+            "uri": "https://api.sketchfab.com/v3/tags/home"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "19665bc85a314c3e9fc6257f5c472700",
+                "width": 1920,
+                "height": 1080,
+                "size": 550883,
+                "url": "https://media.sketchfab.com/models/06ccd636f13d4de78d7806fb2e829277/thumbnails/4fe782ea44da4235bceb26fd0d9c4998/db28a5fc62ea48dfa5ca1620f79224b6.jpeg"
+            },
+            {
+                "uid": "aa837b39016e4b4baf51b976ef9b6969",
+                "width": 1024,
+                "height": 576,
+                "size": 68014,
+                "url": "https://media.sketchfab.com/models/06ccd636f13d4de78d7806fb2e829277/thumbnails/4fe782ea44da4235bceb26fd0d9c4998/a816feefa31442819eba685cddd1ca7f.jpeg"
+            },
+            {
+                "uid": "3412ca841fdf42efa9bd03eb2e71d5e9",
+                "width": 720,
+                "height": 405,
+                "size": 29927,
+                "url": "https://media.sketchfab.com/models/06ccd636f13d4de78d7806fb2e829277/thumbnails/4fe782ea44da4235bceb26fd0d9c4998/f0624377e69d453e9c32174fd149cac8.jpeg"
+            },
+            {
+                "uid": "59480a8849cd408aba7eef98398ddf51",
+                "width": 256,
+                "height": 144,
+                "size": 4214,
+                "url": "https://media.sketchfab.com/models/06ccd636f13d4de78d7806fb2e829277/thumbnails/4fe782ea44da4235bceb26fd0d9c4998/915016b6a0e5492eb780d17352df45da.jpeg"
+            },
+            {
+                "uid": "ce565e47ecbb42b384969eaa01cefe30",
+                "width": 64,
+                "height": 36,
+                "size": 1041,
+                "url": "https://media.sketchfab.com/models/06ccd636f13d4de78d7806fb2e829277/thumbnails/4fe782ea44da4235bceb26fd0d9c4998/c837aeab2908422cbedcff8b85de3cf2.jpeg"
+            }
+        ]
+    },
+    "uid": "06ccd636f13d4de78d7806fb2e829277",
+    "uri": "https://api.sketchfab.com/v3/models/06ccd636f13d4de78d7806fb2e829277",
+    "user": {
+        "uid": "1a0d3a8b94c145f78bd3e98cd5429344",
+        "username": "AspectStudio",
+        "displayName": "AspectStudios",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/AspectStudio",
+        "avatar": {
+            "uid": "f1924f25294b4b44b7be3fdee1be0537",
+            "uri": "https://api.sketchfab.com/v3/avatars/f1924f25294b4b44b7be3fdee1be0537",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 566,
+                    "url": "https://media.sketchfab.com/avatars/f1924f25294b4b44b7be3fdee1be0537/2a7cdee17c9f485da836ffa2a0023797.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 945,
+                    "url": "https://media.sketchfab.com/avatars/f1924f25294b4b44b7be3fdee1be0537/8893a90473f5474ebd77def65e18f90d.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2597,
+                    "url": "https://media.sketchfab.com/avatars/f1924f25294b4b44b7be3fdee1be0537/7593287108ae4fa6bf680407c7a514ec.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2956,
+                    "url": "https://media.sketchfab.com/avatars/f1924f25294b4b44b7be3fdee1be0537/3a66f28fb1694105906b839203492d02.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1a0d3a8b94c145f78bd3e98cd5429344"
+    },
+    "vertexCount": 1053,
+    "viewCount": 164,
+    "viewerUrl": "https://sketchfab.com/3d-models/lowpoly-small-medieval-building-06ccd636f13d4de78d7806fb2e829277",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "**Small Medieval Building**\n\n\n\nFeel free to use - A like or follow goes a long way!",
+    "price": null,
+    "downloadCount": 32,
+    "editorUrl": "https://sketchfab.com/models/06ccd636f13d4de78d7806fb2e829277/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-01T16:58:05.146390",
+    "pbrType": null,
+    "textureCount": 8,
+    "materialCount": 5
+}

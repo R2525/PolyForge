@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-23T04:04:08.307224",
+    "embedUrl": "https://sketchfab.com/models/0ae5a367405f44bf8572002f62fbe09f/embed",
+    "faceCount": 1168,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Medieval bucket variant",
+    "publishedAt": "2025-12-23T04:07:14.163414",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "adobe",
+            "slug": "adobe",
+            "uri": "https://api.sketchfab.com/v3/tags/adobe"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "subsance-painter",
+            "slug": "subsance-painter",
+            "uri": "https://api.sketchfab.com/v3/tags/subsance-painter"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3e5afcae92da4ef9b28af31d108d174c",
+                "width": 1920,
+                "height": 1080,
+                "size": 108132,
+                "url": "https://media.sketchfab.com/models/0ae5a367405f44bf8572002f62fbe09f/thumbnails/88098deb62d545f1a418fb2a86538671/1426b725f974465f9353448a8bfe391f.jpeg"
+            },
+            {
+                "uid": "5a5f25691e2240e98e2abf73f811c110",
+                "width": 1024,
+                "height": 576,
+                "size": 32959,
+                "url": "https://media.sketchfab.com/models/0ae5a367405f44bf8572002f62fbe09f/thumbnails/88098deb62d545f1a418fb2a86538671/30bce1fcb9564743b1a165378fab90a8.jpeg"
+            },
+            {
+                "uid": "e49be684a39d4d60b745f4e0de7777be",
+                "width": 720,
+                "height": 405,
+                "size": 18201,
+                "url": "https://media.sketchfab.com/models/0ae5a367405f44bf8572002f62fbe09f/thumbnails/88098deb62d545f1a418fb2a86538671/54ba045346254551a4d5d48da1ce906b.jpeg"
+            },
+            {
+                "uid": "60a0af3fc7644202af0b2f4fe31c3398",
+                "width": 256,
+                "height": 144,
+                "size": 3367,
+                "url": "https://media.sketchfab.com/models/0ae5a367405f44bf8572002f62fbe09f/thumbnails/88098deb62d545f1a418fb2a86538671/abea90dd33b2420fae83f7d9075fbfa7.jpeg"
+            },
+            {
+                "uid": "2749eecba8054ec3b7d43729675e6d55",
+                "width": 64,
+                "height": 36,
+                "size": 972,
+                "url": "https://media.sketchfab.com/models/0ae5a367405f44bf8572002f62fbe09f/thumbnails/88098deb62d545f1a418fb2a86538671/ffd8bac49fcf4ea7b434b2e3c562f19e.jpeg"
+            }
+        ]
+    },
+    "uid": "0ae5a367405f44bf8572002f62fbe09f",
+    "uri": "https://api.sketchfab.com/v3/models/0ae5a367405f44bf8572002f62fbe09f",
+    "user": {
+        "uid": "184f4a5fe82f4a879056ba8b0409cd06",
+        "username": "MandatoryR",
+        "displayName": "MandatoryR",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/MandatoryR",
+        "avatar": {
+            "uid": "3e933aadc4a6486d8bd65b30b072d0e9",
+            "uri": "https://api.sketchfab.com/v3/avatars/3e933aadc4a6486d8bd65b30b072d0e9",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1912,
+                    "url": "https://media.sketchfab.com/avatars/3e933aadc4a6486d8bd65b30b072d0e9/453d1b85c20b4598b736b5ecce37df52.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3686,
+                    "url": "https://media.sketchfab.com/avatars/3e933aadc4a6486d8bd65b30b072d0e9/53215c1c38db4fd8a203b869d4f6495a.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 10360,
+                    "url": "https://media.sketchfab.com/avatars/3e933aadc4a6486d8bd65b30b072d0e9/bb97b77c12044ef69c3f609bc1c11de6.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 12380,
+                    "url": "https://media.sketchfab.com/avatars/3e933aadc4a6486d8bd65b30b072d0e9/59ea6bcf441446dcae882983a43c7076.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/184f4a5fe82f4a879056ba8b0409cd06"
+    },
+    "vertexCount": 742,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-bucket-variant-0ae5a367405f44bf8572002f62fbe09f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "CC3 project",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/0ae5a367405f44bf8572002f62fbe09f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-23T04:07:14.254262",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

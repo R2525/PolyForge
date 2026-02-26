@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-11-25T14:47:29.600784",
+    "embedUrl": "https://sketchfab.com/models/1cdafd87009b45fd9fcd1eb84c8a405e/embed",
+    "faceCount": 5589,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Two Handed Sword",
+    "publishedAt": "2025-11-25T14:50:19.897428",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "Zweihander",
+            "slug": "zweihander",
+            "uri": "https://api.sketchfab.com/v3/tags/zweihander"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "058a9c9f7ffb4438ac63e95da96875c2",
+                "width": 1920,
+                "height": 1080,
+                "size": 49328,
+                "url": "https://media.sketchfab.com/models/1cdafd87009b45fd9fcd1eb84c8a405e/thumbnails/969a2c589fab44e49f43a05370c10151/07b20546fc5142d491110c21b952b827.jpeg"
+            },
+            {
+                "uid": "be39d656fb624817b8491bdd6b42ca01",
+                "width": 1024,
+                "height": 576,
+                "size": 15998,
+                "url": "https://media.sketchfab.com/models/1cdafd87009b45fd9fcd1eb84c8a405e/thumbnails/969a2c589fab44e49f43a05370c10151/da67d4530d854ebdae2725b46367d69e.jpeg"
+            },
+            {
+                "uid": "c8c15d7aa21b4b3f836c500eb7fc4fc3",
+                "width": 720,
+                "height": 405,
+                "size": 9346,
+                "url": "https://media.sketchfab.com/models/1cdafd87009b45fd9fcd1eb84c8a405e/thumbnails/969a2c589fab44e49f43a05370c10151/87e8cd653634498fb90d7922dadc2abd.jpeg"
+            },
+            {
+                "uid": "24f80dd418e0454aaac51b4997558bfa",
+                "width": 256,
+                "height": 144,
+                "size": 2263,
+                "url": "https://media.sketchfab.com/models/1cdafd87009b45fd9fcd1eb84c8a405e/thumbnails/969a2c589fab44e49f43a05370c10151/8aeca72dc04d491fa3d0807dcbcb9b12.jpeg"
+            },
+            {
+                "uid": "ceaf692577774b76b20a4fd0790dfef8",
+                "width": 64,
+                "height": 36,
+                "size": 871,
+                "url": "https://media.sketchfab.com/models/1cdafd87009b45fd9fcd1eb84c8a405e/thumbnails/969a2c589fab44e49f43a05370c10151/ea210f9f21d34b00a49491b1fbd3ef56.jpeg"
+            }
+        ]
+    },
+    "uid": "1cdafd87009b45fd9fcd1eb84c8a405e",
+    "uri": "https://api.sketchfab.com/v3/models/1cdafd87009b45fd9fcd1eb84c8a405e",
+    "user": {
+        "uid": "6849420d8e0049ba986111b80c2ee228",
+        "username": "GCPimlott",
+        "displayName": "georgepimlott",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/GCPimlott",
+        "avatar": {
+            "uid": "03b0b44e27c744b6850ceae4b2208c83",
+            "uri": "https://api.sketchfab.com/v3/avatars/03b0b44e27c744b6850ceae4b2208c83",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1092,
+                    "url": "https://media.sketchfab.com/avatars/03b0b44e27c744b6850ceae4b2208c83/3dd621748bfe470693d3ac4e7335d07b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1546,
+                    "url": "https://media.sketchfab.com/avatars/03b0b44e27c744b6850ceae4b2208c83/f7c2da34165c4e1d977b9914d13380a7.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3437,
+                    "url": "https://media.sketchfab.com/avatars/03b0b44e27c744b6850ceae4b2208c83/90091c8b43d142f9872eba3a2bf3647f.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3875,
+                    "url": "https://media.sketchfab.com/avatars/03b0b44e27c744b6850ceae4b2208c83/3ef653cd3bf84c7582cb8cbfe63ee46d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6849420d8e0049ba986111b80c2ee228"
+    },
+    "vertexCount": 2839,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/two-handed-sword-1cdafd87009b45fd9fcd1eb84c8a405e",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A Slightly Textured Medieval Zweihänder Sword based upon a Medieval Battle theme given to me. This sword was for a 3D Modelling and Animation assignment in University.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1cdafd87009b45fd9fcd1eb84c8a405e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-25T14:53:34.678555",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 3
+}

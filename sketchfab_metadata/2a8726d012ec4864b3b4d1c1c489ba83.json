@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T10:25:29.475947",
+    "embedUrl": "https://sketchfab.com/models/2a8726d012ec4864b3b4d1c1c489ba83/embed",
+    "faceCount": 38800,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "💎'Mystical-Crystalshard'✦X✦'Golgotha'💎",
+    "publishedAt": "2026-02-23T10:37:23.822025",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "monument",
+            "slug": "monument",
+            "uri": "https://api.sketchfab.com/v3/tags/monument"
+        },
+        {
+            "name": "crystal",
+            "slug": "crystal",
+            "uri": "https://api.sketchfab.com/v3/tags/crystal"
+        },
+        {
+            "name": "pillars",
+            "slug": "pillars",
+            "uri": "https://api.sketchfab.com/v3/tags/pillars"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "pillar",
+            "slug": "pillar",
+            "uri": "https://api.sketchfab.com/v3/tags/pillar"
+        },
+        {
+            "name": "markers",
+            "slug": "markers",
+            "uri": "https://api.sketchfab.com/v3/tags/markers"
+        },
+        {
+            "name": "monolith",
+            "slug": "monolith",
+            "uri": "https://api.sketchfab.com/v3/tags/monolith"
+        },
+        {
+            "name": "fantasy-gameasset",
+            "slug": "fantasy-gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-gameasset"
+        },
+        {
+            "name": "crystal-structure",
+            "slug": "crystal-structure",
+            "uri": "https://api.sketchfab.com/v3/tags/crystal-structure"
+        },
+        {
+            "name": "waypoint",
+            "slug": "waypoint",
+            "uri": "https://api.sketchfab.com/v3/tags/waypoint"
+        },
+        {
+            "name": "monoliths",
+            "slug": "monoliths",
+            "uri": "https://api.sketchfab.com/v3/tags/monoliths"
+        },
+        {
+            "name": "medieval-decorations",
+            "slug": "medieval-decorations",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-decorations"
+        },
+        {
+            "name": "antique-furniture",
+            "slug": "antique-furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/antique-furniture"
+        },
+        {
+            "name": "golgotha",
+            "slug": "golgotha",
+            "uri": "https://api.sketchfab.com/v3/tags/golgotha"
+        },
+        {
+            "name": "structure-architecture-house",
+            "slug": "structure-architecture-house",
+            "uri": "https://api.sketchfab.com/v3/tags/structure-architecture-house"
+        },
+        {
+            "name": "furniture-concept",
+            "slug": "furniture-concept",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture-concept"
+        },
+        {
+            "name": "structure",
+            "slug": "structure",
+            "uri": "https://api.sketchfab.com/v3/tags/structure"
+        },
+        {
+            "name": "diamond-pendant",
+            "slug": "diamond-pendant",
+            "uri": "https://api.sketchfab.com/v3/tags/diamond-pendant"
+        },
+        {
+            "name": "diamond-tools",
+            "slug": "diamond-tools",
+            "uri": "https://api.sketchfab.com/v3/tags/diamond-tools"
+        },
+        {
+            "name": "pillar-antique",
+            "slug": "pillar-antique",
+            "uri": "https://api.sketchfab.com/v3/tags/pillar-antique"
+        },
+        {
+            "name": "pillar-game-asset-game-art",
+            "slug": "pillar-game-asset-game-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pillar-game-asset-game-art"
+        },
+        {
+            "name": "ancientpillar",
+            "slug": "ancientpillar",
+            "uri": "https://api.sketchfab.com/v3/tags/ancientpillar"
+        },
+        {
+            "name": "oldpillar",
+            "slug": "oldpillar",
+            "uri": "https://api.sketchfab.com/v3/tags/oldpillar"
+        },
+        {
+            "name": "pillar-capital",
+            "slug": "pillar-capital",
+            "uri": "https://api.sketchfab.com/v3/tags/pillar-capital"
+        },
+        {
+            "name": "diablo2fanart",
+            "slug": "diablo2fanart",
+            "uri": "https://api.sketchfab.com/v3/tags/diablo2fanart"
+        },
+        {
+            "name": "ancient-statue",
+            "slug": "ancient-statue",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient-statue"
+        },
+        {
+            "name": "ancient-pillar",
+            "slug": "ancient-pillar",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient-pillar"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "sloyd",
+            "slug": "sloyd",
+            "uri": "https://api.sketchfab.com/v3/tags/sloyd"
+        },
+        {
+            "name": "sloydai",
+            "slug": "sloydai",
+            "uri": "https://api.sketchfab.com/v3/tags/sloydai"
+        },
+        {
+            "name": "diamondskull",
+            "slug": "diamondskull",
+            "uri": "https://api.sketchfab.com/v3/tags/diamondskull"
+        },
+        {
+            "name": "fantasy-statues",
+            "slug": "fantasy-statues",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-statues"
+        },
+        {
+            "name": "desert-architecture",
+            "slug": "desert-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/desert-architecture"
+        },
+        {
+            "name": "antique-pillar",
+            "slug": "antique-pillar",
+            "uri": "https://api.sketchfab.com/v3/tags/antique-pillar"
+        },
+        {
+            "name": "crystalshard",
+            "slug": "crystalshard",
+            "uri": "https://api.sketchfab.com/v3/tags/crystalshard"
+        },
+        {
+            "name": "sloyd3d",
+            "slug": "sloyd3d",
+            "uri": "https://api.sketchfab.com/v3/tags/sloyd3d"
+        },
+        {
+            "name": "sloyd3dai",
+            "slug": "sloyd3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/sloyd3dai"
+        },
+        {
+            "name": "monolithicarchitecture",
+            "slug": "monolithicarchitecture",
+            "uri": "https://api.sketchfab.com/v3/tags/monolithicarchitecture"
+        },
+        {
+            "name": "sloyd-models",
+            "slug": "sloyd-models",
+            "uri": "https://api.sketchfab.com/v3/tags/sloyd-models"
+        },
+        {
+            "name": "mysticalcrystalshard",
+            "slug": "mysticalcrystalshard",
+            "uri": "https://api.sketchfab.com/v3/tags/mysticalcrystalshard"
+        },
+        {
+            "name": "mystical-crystalshard",
+            "slug": "mystical-crystalshard",
+            "uri": "https://api.sketchfab.com/v3/tags/mystical-crystalshard"
+        },
+        {
+            "name": "desert-patrol",
+            "slug": "desert-patrol",
+            "uri": "https://api.sketchfab.com/v3/tags/desert-patrol"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "824e22eaffd14e80b08bc00ad7358686",
+                "width": 1920,
+                "height": 1080,
+                "size": 286036,
+                "url": "https://media.sketchfab.com/models/2a8726d012ec4864b3b4d1c1c489ba83/thumbnails/d05eba88589d443ea34422246812b86e/5bef75ba0035424bbed20c10e9f8c969.jpeg"
+            },
+            {
+                "uid": "9ddccb0a24464042aa40fc7b205f66b0",
+                "width": 1024,
+                "height": 576,
+                "size": 46698,
+                "url": "https://media.sketchfab.com/models/2a8726d012ec4864b3b4d1c1c489ba83/thumbnails/d05eba88589d443ea34422246812b86e/f2f90881c05d43e28e25fcb189c263d5.jpeg"
+            },
+            {
+                "uid": "93ee50f36a2f43b5a4b89b06314e0d32",
+                "width": 720,
+                "height": 405,
+                "size": 22597,
+                "url": "https://media.sketchfab.com/models/2a8726d012ec4864b3b4d1c1c489ba83/thumbnails/d05eba88589d443ea34422246812b86e/05dabd52321b44258f1e77f843fcda2d.jpeg"
+            },
+            {
+                "uid": "613ed188442b429081faebadeadcd991",
+                "width": 256,
+                "height": 144,
+                "size": 3995,
+                "url": "https://media.sketchfab.com/models/2a8726d012ec4864b3b4d1c1c489ba83/thumbnails/d05eba88589d443ea34422246812b86e/f25c5660d3a24f9a944a4debcab07d74.jpeg"
+            },
+            {
+                "uid": "0a70aaac1e4847cf92c9d8fd680b193f",
+                "width": 64,
+                "height": 36,
+                "size": 1171,
+                "url": "https://media.sketchfab.com/models/2a8726d012ec4864b3b4d1c1c489ba83/thumbnails/d05eba88589d443ea34422246812b86e/efd931dab4684facbb8a3e2d4e270633.jpeg"
+            }
+        ]
+    },
+    "uid": "2a8726d012ec4864b3b4d1c1c489ba83",
+    "uri": "https://api.sketchfab.com/v3/models/2a8726d012ec4864b3b4d1c1c489ba83",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 19541,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/mystical-crystalshardxgolgotha-2a8726d012ec4864b3b4d1c1c489ba83",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/2a8726d012ec4864b3b4d1c1c489ba83/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:31:46.441068",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

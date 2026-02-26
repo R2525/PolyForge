@@ -1,0 +1,36 @@
+{
+    "category": "Sports & Fitness",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.8
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "shoe",
+        "running",
+        "footwear"
+    ]
+}

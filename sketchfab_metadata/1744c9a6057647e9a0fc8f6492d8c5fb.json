@@ -1,0 +1,135 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-04-30T12:07:47.768835",
+    "embedUrl": "https://sketchfab.com/models/1744c9a6057647e9a0fc8f6492d8c5fb/embed",
+    "faceCount": 9994,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Ghibli",
+    "publishedAt": "2025-04-30T12:08:02.922559",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "85c6c5d3002247da81f70d97ef66b312",
+                "width": 1920,
+                "height": 1080,
+                "size": 80179,
+                "url": "https://media.sketchfab.com/models/1744c9a6057647e9a0fc8f6492d8c5fb/thumbnails/e75575add18140c38736c36b85dcfad8/1dab604118644719a2ac10f152373ca6.jpeg"
+            },
+            {
+                "uid": "c6006e878d85447c9438187f3ab6f851",
+                "width": 1024,
+                "height": 576,
+                "size": 27352,
+                "url": "https://media.sketchfab.com/models/1744c9a6057647e9a0fc8f6492d8c5fb/thumbnails/e75575add18140c38736c36b85dcfad8/6d514c547b3c4c1d998a15c2c02733d2.jpeg"
+            },
+            {
+                "uid": "f30ecef811a34ec199bb1c00612816a2",
+                "width": 720,
+                "height": 405,
+                "size": 15919,
+                "url": "https://media.sketchfab.com/models/1744c9a6057647e9a0fc8f6492d8c5fb/thumbnails/e75575add18140c38736c36b85dcfad8/fc1df2cc51ad40878eab6d481ca070ce.jpeg"
+            },
+            {
+                "uid": "1fcada662319429491106028389eaefc",
+                "width": 256,
+                "height": 144,
+                "size": 3490,
+                "url": "https://media.sketchfab.com/models/1744c9a6057647e9a0fc8f6492d8c5fb/thumbnails/e75575add18140c38736c36b85dcfad8/8144c3bb4fca4b9bb2d245cc56d9883b.jpeg"
+            },
+            {
+                "uid": "eeef9aa3fb264a8b8f36b48b4e64dc77",
+                "width": 64,
+                "height": 36,
+                "size": 945,
+                "url": "https://media.sketchfab.com/models/1744c9a6057647e9a0fc8f6492d8c5fb/thumbnails/e75575add18140c38736c36b85dcfad8/c810d0d3038a4747a64e803ac1c50672.jpeg"
+            }
+        ]
+    },
+    "uid": "1744c9a6057647e9a0fc8f6492d8c5fb",
+    "uri": "https://api.sketchfab.com/v3/models/1744c9a6057647e9a0fc8f6492d8c5fb",
+    "user": {
+        "uid": "70e9805de6bd435cb8ce435dae49d16c",
+        "username": "kristianbkr",
+        "displayName": "01KikoSK",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kristianbkr",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/70e9805de6bd435cb8ce435dae49d16c"
+    },
+    "vertexCount": 4868,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/ghibli-1744c9a6057647e9a0fc8f6492d8c5fb",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Ghibli-v2-01968696-5a8a-7eb9-beb9-69b866ea907f?utm_source=sketchfab](https://www.meshy.ai/3d-models/Ghibli-v2-01968696-5a8a-7eb9-beb9-69b866ea907f?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1744c9a6057647e9a0fc8f6492d8c5fb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-04-30T12:08:06.221581",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

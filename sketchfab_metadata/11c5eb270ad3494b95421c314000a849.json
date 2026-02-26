@@ -1,0 +1,225 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T13:39:01.755626",
+    "embedUrl": "https://sketchfab.com/models/11c5eb270ad3494b95421c314000a849/embed",
+    "faceCount": 111980,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Realistic Strawberry Ice Cream Waffle Cone",
+    "publishedAt": "2026-02-19T13:43:16.284600",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "food",
+            "slug": "food",
+            "uri": "https://api.sketchfab.com/v3/tags/food"
+        },
+        {
+            "name": "cafe",
+            "slug": "cafe",
+            "uri": "https://api.sketchfab.com/v3/tags/cafe"
+        },
+        {
+            "name": "restaurant",
+            "slug": "restaurant",
+            "uri": "https://api.sketchfab.com/v3/tags/restaurant"
+        },
+        {
+            "name": "ice",
+            "slug": "ice",
+            "uri": "https://api.sketchfab.com/v3/tags/ice"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "cream",
+            "slug": "cream",
+            "uri": "https://api.sketchfab.com/v3/tags/cream"
+        },
+        {
+            "name": "cone",
+            "slug": "cone",
+            "uri": "https://api.sketchfab.com/v3/tags/cone"
+        },
+        {
+            "name": "summer",
+            "slug": "summer",
+            "uri": "https://api.sketchfab.com/v3/tags/summer"
+        },
+        {
+            "name": "snack",
+            "slug": "snack",
+            "uri": "https://api.sketchfab.com/v3/tags/snack"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "waffle",
+            "slug": "waffle",
+            "uri": "https://api.sketchfab.com/v3/tags/waffle"
+        },
+        {
+            "name": "dessert",
+            "slug": "dessert",
+            "uri": "https://api.sketchfab.com/v3/tags/dessert"
+        },
+        {
+            "name": "sweets",
+            "slug": "sweets",
+            "uri": "https://api.sketchfab.com/v3/tags/sweets"
+        },
+        {
+            "name": "strawberry",
+            "slug": "strawberry",
+            "uri": "https://api.sketchfab.com/v3/tags/strawberry"
+        },
+        {
+            "name": "confectionery",
+            "slug": "confectionery",
+            "uri": "https://api.sketchfab.com/v3/tags/confectionery"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b8d8fc1f4e0749b4b9cb48d01a1d7d2c",
+                "width": 1920,
+                "height": 1080,
+                "size": 86044,
+                "url": "https://media.sketchfab.com/models/11c5eb270ad3494b95421c314000a849/thumbnails/41666d55689d4d14987d8469d7aa738f/7b97a29191334e0bbab998afa55d419c.jpeg"
+            },
+            {
+                "uid": "615ed1156eb14c3bb8ba504da1617276",
+                "width": 1024,
+                "height": 576,
+                "size": 29792,
+                "url": "https://media.sketchfab.com/models/11c5eb270ad3494b95421c314000a849/thumbnails/41666d55689d4d14987d8469d7aa738f/80280f56bb934927a2dc818ab34d72e3.jpeg"
+            },
+            {
+                "uid": "25d7548ca06a48229bc79862d49229f3",
+                "width": 720,
+                "height": 405,
+                "size": 17455,
+                "url": "https://media.sketchfab.com/models/11c5eb270ad3494b95421c314000a849/thumbnails/41666d55689d4d14987d8469d7aa738f/96be7fe5f42a410f8dbafdb2c28b7bd9.jpeg"
+            },
+            {
+                "uid": "1dcf9f711ade4713ad74603545cda5a6",
+                "width": 256,
+                "height": 144,
+                "size": 3796,
+                "url": "https://media.sketchfab.com/models/11c5eb270ad3494b95421c314000a849/thumbnails/41666d55689d4d14987d8469d7aa738f/46b93c4538b644a9b9eec3df6962474e.jpeg"
+            },
+            {
+                "uid": "4901f74d9da74f2ebba92a1d3a5cd6af",
+                "width": 64,
+                "height": 36,
+                "size": 1027,
+                "url": "https://media.sketchfab.com/models/11c5eb270ad3494b95421c314000a849/thumbnails/41666d55689d4d14987d8469d7aa738f/59dffc5a359d4cd8ae08732ffb6a7ea4.jpeg"
+            }
+        ]
+    },
+    "uid": "11c5eb270ad3494b95421c314000a849",
+    "uri": "https://api.sketchfab.com/v3/models/11c5eb270ad3494b95421c314000a849",
+    "user": {
+        "uid": "78577c6121204f4a95f803dc15eaad67",
+        "username": "Fuminosakura",
+        "displayName": "Sakura_media",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Fuminosakura",
+        "avatar": {
+            "uid": "25d6e5663ff8438aaf0a2611dca3c539",
+            "uri": "https://api.sketchfab.com/v3/avatars/25d6e5663ff8438aaf0a2611dca3c539",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 678,
+                    "url": "https://media.sketchfab.com/avatars/25d6e5663ff8438aaf0a2611dca3c539/c1f944ee5983494c8007102e1c779712.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1093,
+                    "url": "https://media.sketchfab.com/avatars/25d6e5663ff8438aaf0a2611dca3c539/64b854668f5a4dfa97c8ad2037a37bb3.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2385,
+                    "url": "https://media.sketchfab.com/avatars/25d6e5663ff8438aaf0a2611dca3c539/36c018562160405a95b8ed02988d4416.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2704,
+                    "url": "https://media.sketchfab.com/avatars/25d6e5663ff8438aaf0a2611dca3c539/a4a082f4d0a8474cb40dc127c3f5670b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/78577c6121204f4a95f803dc15eaad67"
+    },
+    "vertexCount": 55994,
+    "viewCount": 43,
+    "viewerUrl": "https://sketchfab.com/3d-models/realistic-strawberry-ice-cream-waffle-cone-11c5eb270ad3494b95421c314000a849",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "3D asset depicts a highly detailed strawberry ice cream waffle cone, featuring two scoops with visible fruit swirls",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/11c5eb270ad3494b95421c314000a849/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T13:43:59.939322",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

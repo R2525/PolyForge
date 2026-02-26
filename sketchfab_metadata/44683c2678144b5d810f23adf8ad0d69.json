@@ -1,0 +1,266 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-27T12:32:17.482023",
+    "embedUrl": "https://sketchfab.com/models/44683c2678144b5d810f23adf8ad0d69/embed",
+    "faceCount": 857282,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 25,
+    "name": "Winged Dark Gothic Knight with Dragon Helmet",
+    "publishedAt": "2026-01-27T12:41:08.361570",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "shadow",
+            "slug": "shadow",
+            "uri": "https://api.sketchfab.com/v3/tags/shadow"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "wings",
+            "slug": "wings",
+            "uri": "https://api.sketchfab.com/v3/tags/wings"
+        },
+        {
+            "name": "legendary",
+            "slug": "legendary",
+            "uri": "https://api.sketchfab.com/v3/tags/legendary"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "scary",
+            "slug": "scary",
+            "uri": "https://api.sketchfab.com/v3/tags/scary"
+        },
+        {
+            "name": "gothic",
+            "slug": "gothic",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic"
+        },
+        {
+            "name": "boss",
+            "slug": "boss",
+            "uri": "https://api.sketchfab.com/v3/tags/boss"
+        },
+        {
+            "name": "spiky",
+            "slug": "spiky",
+            "uri": "https://api.sketchfab.com/v3/tags/spiky"
+        },
+        {
+            "name": "mythic",
+            "slug": "mythic",
+            "uri": "https://api.sketchfab.com/v3/tags/mythic"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "dragon",
+            "slug": "dragon",
+            "uri": "https://api.sketchfab.com/v3/tags/dragon"
+        },
+        {
+            "name": "black",
+            "slug": "black",
+            "uri": "https://api.sketchfab.com/v3/tags/black"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "evil",
+            "slug": "evil",
+            "uri": "https://api.sketchfab.com/v3/tags/evil"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "440c39364a594cad90653355dbff7850",
+                "width": 1920,
+                "height": 1080,
+                "size": 289006,
+                "url": "https://media.sketchfab.com/models/44683c2678144b5d810f23adf8ad0d69/thumbnails/f744263312c2412ead5ebffa356bcb73/99dc058f968544bd88a87f1156e79e93.jpeg"
+            },
+            {
+                "uid": "ebcbc54ec3df451991dab0310e505a36",
+                "width": 1024,
+                "height": 576,
+                "size": 56822,
+                "url": "https://media.sketchfab.com/models/44683c2678144b5d810f23adf8ad0d69/thumbnails/f744263312c2412ead5ebffa356bcb73/7b606a9d2546458b8cb2baadaabe0437.jpeg"
+            },
+            {
+                "uid": "590a78e6547841408526114b34c52601",
+                "width": 720,
+                "height": 405,
+                "size": 29340,
+                "url": "https://media.sketchfab.com/models/44683c2678144b5d810f23adf8ad0d69/thumbnails/f744263312c2412ead5ebffa356bcb73/f4dc665b223144ffb22fde54030c599a.jpeg"
+            },
+            {
+                "uid": "7de2c834e07d45df829fb13aedfb3d3e",
+                "width": 256,
+                "height": 144,
+                "size": 5626,
+                "url": "https://media.sketchfab.com/models/44683c2678144b5d810f23adf8ad0d69/thumbnails/f744263312c2412ead5ebffa356bcb73/8d658a893e884f4f8de7e7d9418ad3c7.jpeg"
+            },
+            {
+                "uid": "8c6f76a8e4bc4919a400fbe5f10ef887",
+                "width": 64,
+                "height": 36,
+                "size": 1168,
+                "url": "https://media.sketchfab.com/models/44683c2678144b5d810f23adf8ad0d69/thumbnails/f744263312c2412ead5ebffa356bcb73/0a6b6fe1fd0a4ff0bcea09b2f4430ff6.jpeg"
+            }
+        ]
+    },
+    "uid": "44683c2678144b5d810f23adf8ad0d69",
+    "uri": "https://api.sketchfab.com/v3/models/44683c2678144b5d810f23adf8ad0d69",
+    "user": {
+        "uid": "c0e7cb6abbb54c4fbed332c1f658479d",
+        "username": "s8819296",
+        "displayName": "Pigcraft",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/s8819296",
+        "avatar": {
+            "uid": "7797ae77db2943ff8057f36882c126a7",
+            "uri": "https://api.sketchfab.com/v3/avatars/7797ae77db2943ff8057f36882c126a7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 912,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/641a80e3656e4f619687ec58200ffc86.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1244,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/4f74af7c9e17476b97fc30e551115c65.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2524,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/1979744444a44908b96f3bcaf009a9c4.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2809,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/cff0eb04a21445cb82338bb2738345f6.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c0e7cb6abbb54c4fbed332c1f658479d"
+    },
+    "vertexCount": 428641,
+    "viewCount": 518,
+    "viewerUrl": "https://sketchfab.com/3d-models/winged-dark-gothic-knight-with-dragon-helmet-44683c2678144b5d810f23adf8ad0d69",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A dark, gothic knight clad in black armor, adorned with majestic wings and a fearsome dragon-inspired helmet. The armor is detailed with sharp edges, spikes, and gothic motifs, giving the knight a terrifying and regal presence. Ideal for dark fantasy games, cinematic battles, or as a powerful boss character, this knight combines elegance and menace in one imposing figure.",
+    "price": null,
+    "downloadCount": 87,
+    "editorUrl": "https://sketchfab.com/models/44683c2678144b5d810f23adf8ad0d69/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-27T12:41:08.553641",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T11:20:04.800155",
+    "embedUrl": "https://sketchfab.com/models/12b9a7d1627541ef8e8b419cfa932e56/embed",
+    "faceCount": 94448,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Neon Sign Cyber Cafe",
+    "publishedAt": "2026-02-21T11:20:41.830881",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "text",
+            "slug": "text",
+            "uri": "https://api.sketchfab.com/v3/tags/text"
+        },
+        {
+            "name": "cafe",
+            "slug": "cafe",
+            "uri": "https://api.sketchfab.com/v3/tags/cafe"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "sign",
+            "slug": "sign",
+            "uri": "https://api.sketchfab.com/v3/tags/sign"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "chinese",
+            "slug": "chinese",
+            "uri": "https://api.sketchfab.com/v3/tags/chinese"
+        },
+        {
+            "name": "glowing",
+            "slug": "glowing",
+            "uri": "https://api.sketchfab.com/v3/tags/glowing"
+        },
+        {
+            "name": "light",
+            "slug": "light",
+            "uri": "https://api.sketchfab.com/v3/tags/light"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b840fe9ec4714fb184dd1778624f9b5c",
+                "width": 1920,
+                "height": 1080,
+                "size": 46078,
+                "url": "https://media.sketchfab.com/models/12b9a7d1627541ef8e8b419cfa932e56/thumbnails/7e2c0c10b3bd4e76abf0b139ca56e8f5/f3e0c7abca0847468ae17d03ba0b5a12.jpeg"
+            },
+            {
+                "uid": "37af258dd7bb4d84b001680b30bad6a5",
+                "width": 1024,
+                "height": 576,
+                "size": 15723,
+                "url": "https://media.sketchfab.com/models/12b9a7d1627541ef8e8b419cfa932e56/thumbnails/7e2c0c10b3bd4e76abf0b139ca56e8f5/ab9467f594c6402eb7cdeea1337d90a3.jpeg"
+            },
+            {
+                "uid": "e0aa76495e0b4d29a7cc053e21417ce9",
+                "width": 720,
+                "height": 405,
+                "size": 8239,
+                "url": "https://media.sketchfab.com/models/12b9a7d1627541ef8e8b419cfa932e56/thumbnails/7e2c0c10b3bd4e76abf0b139ca56e8f5/b50125876a494a6fb02d0fca1e190c8e.jpeg"
+            },
+            {
+                "uid": "b328b97fcdbd4b04921e2203c26527bc",
+                "width": 256,
+                "height": 144,
+                "size": 1534,
+                "url": "https://media.sketchfab.com/models/12b9a7d1627541ef8e8b419cfa932e56/thumbnails/7e2c0c10b3bd4e76abf0b139ca56e8f5/0efbeb1822f148f6a8501f7c784075fa.jpeg"
+            },
+            {
+                "uid": "364071abc0c9497992f4067fcbdbca99",
+                "width": 64,
+                "height": 36,
+                "size": 702,
+                "url": "https://media.sketchfab.com/models/12b9a7d1627541ef8e8b419cfa932e56/thumbnails/7e2c0c10b3bd4e76abf0b139ca56e8f5/2371155038d0448d89602999ca581144.jpeg"
+            }
+        ]
+    },
+    "uid": "12b9a7d1627541ef8e8b419cfa932e56",
+    "uri": "https://api.sketchfab.com/v3/models/12b9a7d1627541ef8e8b419cfa932e56",
+    "user": {
+        "uid": "1c7c9f9627ac4e3a8437ff9f3a234d63",
+        "username": "patsaenz",
+        "displayName": "patsaenz",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/patsaenz",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1c7c9f9627ac4e3a8437ff9f3a234d63"
+    },
+    "vertexCount": 47296,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/neon-sign-cyber-cafe-12b9a7d1627541ef8e8b419cfa932e56",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the Original format.The converted file is intended for web viewing only. In the original file, the following are fully preserved:✔ original scene hierarchy✔ unsimplified materials✔ correct PBR texture maps✔ correct object namesIf you are going to integrate the model into a project, choose the original version.Light up your scenes with this neon sign Cyber Cafe. You can fully change the materials according to your needs. It is perfect for cyberpunk streets cities a glare node set to bloom in the compositor to get the exact look as the thumbnail.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/12b9a7d1627541ef8e8b419cfa932e56/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T11:20:42.098823",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 2
+}

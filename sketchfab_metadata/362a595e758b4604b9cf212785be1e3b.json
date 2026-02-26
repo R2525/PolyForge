@@ -1,0 +1,216 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T05:14:20.894753",
+    "embedUrl": "https://sketchfab.com/models/362a595e758b4604b9cf212785be1e3b/embed",
+    "faceCount": 4992,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Lamb - Cult of the lamb character",
+    "publishedAt": "2026-02-22T05:56:36.262304",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "fanart",
+            "slug": "fanart",
+            "uri": "https://api.sketchfab.com/v3/tags/fanart"
+        },
+        {
+            "name": "cute",
+            "slug": "cute",
+            "uri": "https://api.sketchfab.com/v3/tags/cute"
+        },
+        {
+            "name": "chibi",
+            "slug": "chibi",
+            "uri": "https://api.sketchfab.com/v3/tags/chibi"
+        },
+        {
+            "name": "videogame",
+            "slug": "videogame",
+            "uri": "https://api.sketchfab.com/v3/tags/videogame"
+        },
+        {
+            "name": "Lamb",
+            "slug": "lamb",
+            "uri": "https://api.sketchfab.com/v3/tags/lamb"
+        },
+        {
+            "name": "chibi-character",
+            "slug": "chibi-character",
+            "uri": "https://api.sketchfab.com/v3/tags/chibi-character"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "gameart",
+            "slug": "gameart",
+            "uri": "https://api.sketchfab.com/v3/tags/gameart"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b1ad7422f9a5490f9ed6d5bda306131c",
+                "width": 1920,
+                "height": 1080,
+                "size": 219708,
+                "url": "https://media.sketchfab.com/models/362a595e758b4604b9cf212785be1e3b/thumbnails/2c34f6d11c3b4128bbf9f708c1bbdf5d/e2c37a52641a4f0bae5d58a7a7bea69c.jpeg"
+            },
+            {
+                "uid": "d17d4f0749f644baa291be5ee33e6694",
+                "width": 1024,
+                "height": 576,
+                "size": 26474,
+                "url": "https://media.sketchfab.com/models/362a595e758b4604b9cf212785be1e3b/thumbnails/2c34f6d11c3b4128bbf9f708c1bbdf5d/35f37ff9f652472d990810ebc3b625af.jpeg"
+            },
+            {
+                "uid": "f9c632806a0e41388251fac53532cef3",
+                "width": 720,
+                "height": 405,
+                "size": 16116,
+                "url": "https://media.sketchfab.com/models/362a595e758b4604b9cf212785be1e3b/thumbnails/2c34f6d11c3b4128bbf9f708c1bbdf5d/c6ecae03d74e44c8b571456c4af81dac.jpeg"
+            },
+            {
+                "uid": "a1ad1891adc24de99e76342a2f410a34",
+                "width": 256,
+                "height": 144,
+                "size": 3778,
+                "url": "https://media.sketchfab.com/models/362a595e758b4604b9cf212785be1e3b/thumbnails/2c34f6d11c3b4128bbf9f708c1bbdf5d/78d1239848e8407493307c9421af9f9a.jpeg"
+            },
+            {
+                "uid": "a1738f40bc084d0b8b138c1bfed5f56b",
+                "width": 64,
+                "height": 36,
+                "size": 1075,
+                "url": "https://media.sketchfab.com/models/362a595e758b4604b9cf212785be1e3b/thumbnails/2c34f6d11c3b4128bbf9f708c1bbdf5d/a86d5584dbcb4135bfe0efbae90060c4.jpeg"
+            }
+        ]
+    },
+    "uid": "362a595e758b4604b9cf212785be1e3b",
+    "uri": "https://api.sketchfab.com/v3/models/362a595e758b4604b9cf212785be1e3b",
+    "user": {
+        "uid": "bf2d430cda4340789d2ecedfb32fc9c4",
+        "username": "DotMatu",
+        "displayName": "DotMatu01",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DotMatu",
+        "avatar": {
+            "uid": "dad84ad8f6464e9c8d69fe4f82e42a13",
+            "uri": "https://api.sketchfab.com/v3/avatars/dad84ad8f6464e9c8d69fe4f82e42a13",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1166,
+                    "url": "https://media.sketchfab.com/avatars/dad84ad8f6464e9c8d69fe4f82e42a13/c7094b12a5df4bdc8742145d73afd72e.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1653,
+                    "url": "https://media.sketchfab.com/avatars/dad84ad8f6464e9c8d69fe4f82e42a13/d231a608e52045b2ac7f0a15e9fe9ab2.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3874,
+                    "url": "https://media.sketchfab.com/avatars/dad84ad8f6464e9c8d69fe4f82e42a13/0e3a2661e4664ae7880a59f4f2a6c32c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4464,
+                    "url": "https://media.sketchfab.com/avatars/dad84ad8f6464e9c8d69fe4f82e42a13/7c09078067df4ad59b3446dea6a6d07b.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bf2d430cda4340789d2ecedfb32fc9c4"
+    },
+    "vertexCount": 2526,
+    "viewCount": 60,
+    "viewerUrl": "https://sketchfab.com/3d-models/lamb-cult-of-the-lamb-character-362a595e758b4604b9cf212785be1e3b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "My first 3D character model, created entirely in Blender.\nThis is my fan art of the main character from Cult of the Lamb, made as a personal project to practice modeling and texturing.\n\nHope you like it! :p",
+    "price": null,
+    "downloadCount": 13,
+    "editorUrl": "https://sketchfab.com/models/362a595e758b4604b9cf212785be1e3b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T05:56:36.481232",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

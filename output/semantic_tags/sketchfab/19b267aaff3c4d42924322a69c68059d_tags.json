@@ -1,0 +1,42 @@
+{
+    "category": "Architecture",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.7
+        },
+        {
+            "name": "Steampunk",
+            "score": 0.6
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Toon / Anime",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Mossy"
+    ],
+    "tags": [
+        "stone wall",
+        "wooden table",
+        "stools"
+    ]
+}

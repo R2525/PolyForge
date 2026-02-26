@@ -1,0 +1,114 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-12-09T16:26:15.749123",
+    "embedUrl": "https://sketchfab.com/models/23e73123135445a5a3c85bf883886553/embed",
+    "faceCount": 575012,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "PR92-ELSA-DCE-251120",
+    "publishedAt": "2025-12-09T16:31:49.852720",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "402e49124c1e4cdcb835973607ec6239",
+                "width": 1920,
+                "height": 1080,
+                "size": 228058,
+                "url": "https://media.sketchfab.com/models/23e73123135445a5a3c85bf883886553/thumbnails/7ad45a8fb0de42429ec8533638631c59/1500d749296d4c59ba1d9d57b41acca6.jpeg"
+            },
+            {
+                "uid": "ca059d393b6f4d4fa61ed899f70f158a",
+                "width": 1024,
+                "height": 576,
+                "size": 65017,
+                "url": "https://media.sketchfab.com/models/23e73123135445a5a3c85bf883886553/thumbnails/7ad45a8fb0de42429ec8533638631c59/278db9b7312044689dbf1d8bc3ab9163.jpeg"
+            },
+            {
+                "uid": "5af7327ff27d411e8f107fb53c2b4c17",
+                "width": 720,
+                "height": 405,
+                "size": 36441,
+                "url": "https://media.sketchfab.com/models/23e73123135445a5a3c85bf883886553/thumbnails/7ad45a8fb0de42429ec8533638631c59/01e7a0f518aa433aa99d75067e59b811.jpeg"
+            },
+            {
+                "uid": "abac317c51d84949a9c1f51fc1cff3d7",
+                "width": 256,
+                "height": 144,
+                "size": 7066,
+                "url": "https://media.sketchfab.com/models/23e73123135445a5a3c85bf883886553/thumbnails/7ad45a8fb0de42429ec8533638631c59/55cc1ae9447a4060a0083051166331b2.jpeg"
+            },
+            {
+                "uid": "738830a977434ed18dcda46c1706a0cb",
+                "width": 64,
+                "height": 36,
+                "size": 1336,
+                "url": "https://media.sketchfab.com/models/23e73123135445a5a3c85bf883886553/thumbnails/7ad45a8fb0de42429ec8533638631c59/a43a2a9f23cd42ff97e8ccc039e9c9f3.jpeg"
+            }
+        ]
+    },
+    "uid": "23e73123135445a5a3c85bf883886553",
+    "uri": "https://api.sketchfab.com/v3/models/23e73123135445a5a3c85bf883886553",
+    "user": {
+        "uid": "40ba8b68753e47258393b50f5cc0082a",
+        "username": "jpoutrain-ulysses",
+        "displayName": "jpoutrain-ulysses",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/jpoutrain-ulysses",
+        "avatar": {
+            "uid": "d3b4d85de34a43aba36888321d898c9d",
+            "uri": "https://api.sketchfab.com/v3/avatars/d3b4d85de34a43aba36888321d898c9d",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1523,
+                    "url": "https://media.sketchfab.com/avatars/d3b4d85de34a43aba36888321d898c9d/bb7e54079db84040a07dbd7676625db0.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1402,
+                    "url": "https://media.sketchfab.com/avatars/d3b4d85de34a43aba36888321d898c9d/1144283cb4bb4fedb874607bc7e3f425.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 833,
+                    "url": "https://media.sketchfab.com/avatars/d3b4d85de34a43aba36888321d898c9d/698bf6d167ff4641b28c9ac2e171e920.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 602,
+                    "url": "https://media.sketchfab.com/avatars/d3b4d85de34a43aba36888321d898c9d/c00d29086f84469e882888af910f5a24.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/40ba8b68753e47258393b50f5cc0082a"
+    },
+    "vertexCount": 343680,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/pr92-elsa-dce-251120-23e73123135445a5a3c85bf883886553",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/23e73123135445a5a3c85bf883886553/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-09T16:31:50.772010",
+    "pbrType": null,
+    "textureCount": 33,
+    "materialCount": 58
+}

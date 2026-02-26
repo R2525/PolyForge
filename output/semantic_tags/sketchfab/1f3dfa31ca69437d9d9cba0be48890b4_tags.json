@@ -1,0 +1,40 @@
+{
+    "category": "Nature & Plants",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.8
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.95
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Abstract",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "tree",
+        "plant",
+        "3D model"
+    ]
+}

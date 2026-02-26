@@ -1,0 +1,54 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.8
+        },
+        {
+            "name": "Victorian",
+            "score": 0.75
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Rustic",
+            "score": 0.7
+        },
+        {
+            "name": "Vintage",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Weathered",
+        "Polished",
+        "Dusty"
+    ],
+    "tags": [
+        "door knob",
+        "keyed",
+        "faux",
+        "antique",
+        "faux",
+        "metal",
+        "knob",
+        "doorknob",
+        "furniture",
+        "home"
+    ],
+    "model_id_full": "33f73901c7684159bc2b26add349d7d4_Keyed_ Door_ Knob_ Grey(GLB)",
+    "sketchfab_id": "33f73901c7684159bc2b26add349d7d4",
+    "asset_name": "Keyed_ Door_ Knob_ Grey(GLB)"
+}

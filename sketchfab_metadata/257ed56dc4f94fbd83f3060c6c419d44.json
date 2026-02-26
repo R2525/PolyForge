@@ -1,0 +1,170 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-29T10:45:41.677780",
+    "embedUrl": "https://sketchfab.com/models/257ed56dc4f94fbd83f3060c6c419d44/embed",
+    "faceCount": 17487,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 9,
+    "name": "Star Wars - Valken 38x",
+    "publishedAt": "2025-12-29T12:08:16.979782",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "arma3",
+            "slug": "arma3",
+            "uri": "https://api.sketchfab.com/v3/tags/arma3"
+        },
+        {
+            "name": "Sniper",
+            "slug": "sniper",
+            "uri": "https://api.sketchfab.com/v3/tags/sniper"
+        },
+        {
+            "name": "sniperrifle",
+            "slug": "sniperrifle",
+            "uri": "https://api.sketchfab.com/v3/tags/sniperrifle"
+        },
+        {
+            "name": "clonewars",
+            "slug": "clonewars",
+            "uri": "https://api.sketchfab.com/v3/tags/clonewars"
+        },
+        {
+            "name": "battlefront2",
+            "slug": "battlefront2",
+            "uri": "https://api.sketchfab.com/v3/tags/battlefront2"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "valken38",
+            "slug": "valken38",
+            "uri": "https://api.sketchfab.com/v3/tags/valken38"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5d91be547a484c4baee7a9abf756e6b4",
+                "width": 1920,
+                "height": 1080,
+                "size": 93903,
+                "url": "https://media.sketchfab.com/models/257ed56dc4f94fbd83f3060c6c419d44/thumbnails/88bb1e3a431842708180fff1ab2f2f80/adde93d3659846bb89ef36c9165f2b7a.jpeg"
+            },
+            {
+                "uid": "80fd9acbd8b543628bfd0f5bd19b645d",
+                "width": 1024,
+                "height": 576,
+                "size": 27650,
+                "url": "https://media.sketchfab.com/models/257ed56dc4f94fbd83f3060c6c419d44/thumbnails/88bb1e3a431842708180fff1ab2f2f80/3b7f3415413048e99a7138410f5394d8.jpeg"
+            },
+            {
+                "uid": "f0a19a0589ae4c61923e3207a7deeaee",
+                "width": 720,
+                "height": 405,
+                "size": 15846,
+                "url": "https://media.sketchfab.com/models/257ed56dc4f94fbd83f3060c6c419d44/thumbnails/88bb1e3a431842708180fff1ab2f2f80/d9b41bf53d0e4d51bb6302adb0ca5316.jpeg"
+            },
+            {
+                "uid": "f6b1a48ac9f34101af6be763986c07e2",
+                "width": 256,
+                "height": 144,
+                "size": 3203,
+                "url": "https://media.sketchfab.com/models/257ed56dc4f94fbd83f3060c6c419d44/thumbnails/88bb1e3a431842708180fff1ab2f2f80/288dea04f14844db872e62ea5c9f5a00.jpeg"
+            },
+            {
+                "uid": "de98a9a8750f4b5b9ac5d669baf74a1a",
+                "width": 64,
+                "height": 36,
+                "size": 899,
+                "url": "https://media.sketchfab.com/models/257ed56dc4f94fbd83f3060c6c419d44/thumbnails/88bb1e3a431842708180fff1ab2f2f80/f01c039ed64e4a9d8fd64fa943b8975f.jpeg"
+            }
+        ]
+    },
+    "uid": "257ed56dc4f94fbd83f3060c6c419d44",
+    "uri": "https://api.sketchfab.com/v3/models/257ed56dc4f94fbd83f3060c6c419d44",
+    "user": {
+        "uid": "39a5a3a9ce4a47d19af809f2def3ca66",
+        "username": "reizer",
+        "displayName": "reizer",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/reizer",
+        "avatar": {
+            "uid": "3e2cee056c9a41c3b221d29a8015def4",
+            "uri": "https://api.sketchfab.com/v3/avatars/3e2cee056c9a41c3b221d29a8015def4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 829,
+                    "url": "https://media.sketchfab.com/avatars/3e2cee056c9a41c3b221d29a8015def4/14aa56ee8f2e48cab31768d34454e1cf.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1345,
+                    "url": "https://media.sketchfab.com/avatars/3e2cee056c9a41c3b221d29a8015def4/255b40493d47405bab8eddb7ed130f40.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3347,
+                    "url": "https://media.sketchfab.com/avatars/3e2cee056c9a41c3b221d29a8015def4/de5e474b7fd34672adf62f4d58fda9cc.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3855,
+                    "url": "https://media.sketchfab.com/avatars/3e2cee056c9a41c3b221d29a8015def4/8ae093c220bf4a41aad0c7fc9fa89e5c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/39a5a3a9ce4a47d19af809f2def3ca66"
+    },
+    "vertexCount": 9504,
+    "viewCount": 150,
+    "viewerUrl": "https://sketchfab.com/3d-models/star-wars-valken-38x-257ed56dc4f94fbd83f3060c6c419d44",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "* Comissioned by (unannounced project)\n* Made for Arma 3",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/257ed56dc4f94fbd83f3060c6c419d44/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-30T20:19:31.636491",
+    "pbrType": "metalness",
+    "textureCount": 10,
+    "materialCount": 2
+}

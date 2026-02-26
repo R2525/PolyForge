@@ -1,0 +1,211 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-15T01:41:44.973555",
+    "embedUrl": "https://sketchfab.com/models/176bfae376064bb2a48a38a9ae613483/embed",
+    "faceCount": 85681,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Futuristic Cyberpunk Satchel",
+    "publishedAt": "2026-02-15T01:42:16.357368",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "leather",
+            "slug": "leather",
+            "uri": "https://api.sketchfab.com/v3/tags/leather"
+        },
+        {
+            "name": "tech",
+            "slug": "tech",
+            "uri": "https://api.sketchfab.com/v3/tags/tech"
+        },
+        {
+            "name": "bag",
+            "slug": "bag",
+            "uri": "https://api.sketchfab.com/v3/tags/bag"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "backpack",
+            "slug": "backpack",
+            "uri": "https://api.sketchfab.com/v3/tags/backpack"
+        },
+        {
+            "name": "yellow",
+            "slug": "yellow",
+            "uri": "https://api.sketchfab.com/v3/tags/yellow"
+        },
+        {
+            "name": "satchel",
+            "slug": "satchel",
+            "uri": "https://api.sketchfab.com/v3/tags/satchel"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "gear",
+            "slug": "gear",
+            "uri": "https://api.sketchfab.com/v3/tags/gear"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d4a360ed122146859813986179ac1c61",
+                "width": 1920,
+                "height": 1080,
+                "size": 118361,
+                "url": "https://media.sketchfab.com/models/176bfae376064bb2a48a38a9ae613483/thumbnails/58a6bb092b00449da2ac47bd1a102abe/ed798fc7a7724e7caa65ac518bd94085.jpeg"
+            },
+            {
+                "uid": "7541b1dd9a374321a99de64c01ed5474",
+                "width": 1024,
+                "height": 576,
+                "size": 39671,
+                "url": "https://media.sketchfab.com/models/176bfae376064bb2a48a38a9ae613483/thumbnails/58a6bb092b00449da2ac47bd1a102abe/9d0ed0ba27734a44a0747e1ce826bcdd.jpeg"
+            },
+            {
+                "uid": "c2654aeeb7574ddc807ca6686c02127d",
+                "width": 720,
+                "height": 405,
+                "size": 22626,
+                "url": "https://media.sketchfab.com/models/176bfae376064bb2a48a38a9ae613483/thumbnails/58a6bb092b00449da2ac47bd1a102abe/b1fe6561d8b44d5d8749c1cafcf743fb.jpeg"
+            },
+            {
+                "uid": "8c40f976a07e46708680f83644368fba",
+                "width": 256,
+                "height": 144,
+                "size": 4488,
+                "url": "https://media.sketchfab.com/models/176bfae376064bb2a48a38a9ae613483/thumbnails/58a6bb092b00449da2ac47bd1a102abe/cbfe4a8fcd41473790e5dbaa97be4c17.jpeg"
+            },
+            {
+                "uid": "d4389e21cde84a9fa15b6fd3ad8d0dab",
+                "width": 64,
+                "height": 36,
+                "size": 1129,
+                "url": "https://media.sketchfab.com/models/176bfae376064bb2a48a38a9ae613483/thumbnails/58a6bb092b00449da2ac47bd1a102abe/848cde7fed60415db8447d613de83eb5.jpeg"
+            }
+        ]
+    },
+    "uid": "176bfae376064bb2a48a38a9ae613483",
+    "uri": "https://api.sketchfab.com/v3/models/176bfae376064bb2a48a38a9ae613483",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 42830,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/futuristic-cyberpunk-satchel-176bfae376064bb2a48a38a9ae613483",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Futuristic Cyberpunk Satchel",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/176bfae376064bb2a48a38a9ae613483/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-15T02:06:09.895888",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

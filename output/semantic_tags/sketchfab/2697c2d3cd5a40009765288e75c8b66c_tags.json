@@ -1,0 +1,41 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Military",
+            "score": 0.7
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.6
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.75
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty"
+    ],
+    "tags": [
+        "AT-AT",
+        "battle robot",
+        "mech"
+    ]
+}

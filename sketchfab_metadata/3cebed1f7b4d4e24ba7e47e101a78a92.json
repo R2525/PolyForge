@@ -1,0 +1,240 @@
+{
+    "animationCount": 7,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T11:26:02.489452",
+    "embedUrl": "https://sketchfab.com/models/3cebed1f7b4d4e24ba7e47e101a78a92/embed",
+    "faceCount": 29420,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "First Hassan - The Old Man of the Mountain",
+    "publishedAt": "2026-02-24T13:35:42.475749",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blood",
+            "slug": "blood",
+            "uri": "https://api.sketchfab.com/v3/tags/blood"
+        },
+        {
+            "name": "humanoid",
+            "slug": "humanoid",
+            "uri": "https://api.sketchfab.com/v3/tags/humanoid"
+        },
+        {
+            "name": "assassin",
+            "slug": "assassin",
+            "uri": "https://api.sketchfab.com/v3/tags/assassin"
+        },
+        {
+            "name": "grand",
+            "slug": "grand",
+            "uri": "https://api.sketchfab.com/v3/tags/grand"
+        },
+        {
+            "name": "death",
+            "slug": "death",
+            "uri": "https://api.sketchfab.com/v3/tags/death"
+        },
+        {
+            "name": "bloody",
+            "slug": "bloody",
+            "uri": "https://api.sketchfab.com/v3/tags/bloody"
+        },
+        {
+            "name": "cloak",
+            "slug": "cloak",
+            "uri": "https://api.sketchfab.com/v3/tags/cloak"
+        },
+        {
+            "name": "King",
+            "slug": "king",
+            "uri": "https://api.sketchfab.com/v3/tags/king"
+        },
+        {
+            "name": "Mask",
+            "slug": "mask",
+            "uri": "https://api.sketchfab.com/v3/tags/mask"
+        },
+        {
+            "name": "greatsword",
+            "slug": "greatsword",
+            "uri": "https://api.sketchfab.com/v3/tags/greatsword"
+        },
+        {
+            "name": "servant",
+            "slug": "servant",
+            "uri": "https://api.sketchfab.com/v3/tags/servant"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "fatego",
+            "slug": "fatego",
+            "uri": "https://api.sketchfab.com/v3/tags/fatego"
+        },
+        {
+            "name": "fategrandorder",
+            "slug": "fategrandorder",
+            "uri": "https://api.sketchfab.com/v3/tags/fategrandorder"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "skull",
+            "slug": "skull",
+            "uri": "https://api.sketchfab.com/v3/tags/skull"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        },
+        {
+            "name": "fate",
+            "slug": "fate",
+            "uri": "https://api.sketchfab.com/v3/tags/fate"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f7e4e1bc71a04978906a4f2ac3db8bcc",
+                "width": 1920,
+                "height": 1080,
+                "size": 256347,
+                "url": "https://media.sketchfab.com/models/3cebed1f7b4d4e24ba7e47e101a78a92/thumbnails/980f2af6266e46ec8323c7ec53db5d75/93f3c856549a40abbaaf19b88db4bbad.jpeg"
+            },
+            {
+                "uid": "4159085b7b14495bb36633797bdf29d9",
+                "width": 1024,
+                "height": 576,
+                "size": 83440,
+                "url": "https://media.sketchfab.com/models/3cebed1f7b4d4e24ba7e47e101a78a92/thumbnails/980f2af6266e46ec8323c7ec53db5d75/fc4264994444416d95cdf7942c6f40b2.jpeg"
+            },
+            {
+                "uid": "69a320d0466c46afa18af7b6a0eb86d5",
+                "width": 720,
+                "height": 405,
+                "size": 47338,
+                "url": "https://media.sketchfab.com/models/3cebed1f7b4d4e24ba7e47e101a78a92/thumbnails/980f2af6266e46ec8323c7ec53db5d75/473664d5cb45479485a5a4850fc484a9.jpeg"
+            },
+            {
+                "uid": "d53d3a2d05b44423b7f88c2b41f954db",
+                "width": 256,
+                "height": 144,
+                "size": 8637,
+                "url": "https://media.sketchfab.com/models/3cebed1f7b4d4e24ba7e47e101a78a92/thumbnails/980f2af6266e46ec8323c7ec53db5d75/e24827112b354948be42853ce2ce6810.jpeg"
+            },
+            {
+                "uid": "f960530774864b88ab961aba39bd49c1",
+                "width": 64,
+                "height": 36,
+                "size": 1387,
+                "url": "https://media.sketchfab.com/models/3cebed1f7b4d4e24ba7e47e101a78a92/thumbnails/980f2af6266e46ec8323c7ec53db5d75/0dc5e89fc86e4dad8d9bc48462822e3e.jpeg"
+            }
+        ]
+    },
+    "uid": "3cebed1f7b4d4e24ba7e47e101a78a92",
+    "uri": "https://api.sketchfab.com/v3/models/3cebed1f7b4d4e24ba7e47e101a78a92",
+    "user": {
+        "uid": "e859a4fd770947c29386b476f791addf",
+        "username": "Zuyura",
+        "displayName": "Zuyura",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Zuyura",
+        "avatar": {
+            "uid": "21054c5d939a49fe98a37f489b3427f3",
+            "uri": "https://api.sketchfab.com/v3/avatars/21054c5d939a49fe98a37f489b3427f3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2525,
+                    "url": "https://media.sketchfab.com/avatars/21054c5d939a49fe98a37f489b3427f3/ef55e8fec753457bad4fe8b04cae1a8c.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5107,
+                    "url": "https://media.sketchfab.com/avatars/21054c5d939a49fe98a37f489b3427f3/9ca9dd331e234c9996f67d1e07bd622f.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14615,
+                    "url": "https://media.sketchfab.com/avatars/21054c5d939a49fe98a37f489b3427f3/239efca655944a448f79d02265317ca2.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17387,
+                    "url": "https://media.sketchfab.com/avatars/21054c5d939a49fe98a37f489b3427f3/c6d7b585d6de42f7a84498ce55fce99c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e859a4fd770947c29386b476f791addf"
+    },
+    "vertexCount": 16308,
+    "viewCount": 32,
+    "viewerUrl": "https://sketchfab.com/3d-models/first-hassan-the-old-man-of-the-mountain-3cebed1f7b4d4e24ba7e47e101a78a92",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Change Animations for more poses**\n\"Old Man of the Mountain\" (\"山の翁\", Yama no Okina), Class Name Assassin (アサシン, Asashin), is an Assassin-class Servant summoned by Ritsuka Fujimaru in the Grand Orders of Fate/Grand Order. He was Grand Assassin (グランドアサシン, Gurando Asashin) until he removed himself of his rank of \"Grand\" during the battle with Tiamat.\nHe is also known as First Hassan, as the first to hold the title of Hassan-i-Sabbah and the founder of the Hashashin where he is considered to be the first and the last \"Old Man\". He is given the nickname of King Hassan (キングハサン, Kingu Hasan) by Ritsuka Fujimaru, to which he takes a liking. He chose to fight head-on with a greatsword rather than hidden weapons, in honor of his solemn duty to assassinate assassins. Describing himself as \"a Hassan who killeth Hassans\", throughout all of history, every single Hassan-i-Sabbah has met their end at First Hassan's blade due to failing their duties as Old Man of the Mountain.\n(TYPE-MOON Wiki)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3cebed1f7b4d4e24ba7e47e101a78a92/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T15:18:29.600789",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

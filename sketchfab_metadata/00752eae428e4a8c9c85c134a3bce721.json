@@ -1,0 +1,166 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "name": "Sports & Fitness",
+            "slug": "sports-fitness",
+            "uri": "https://api.sketchfab.com/v3/categories/ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/2cc5442dbf0aeeed5327cbf073964157-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T14:19:25.690272",
+    "embedUrl": "https://sketchfab.com/models/00752eae428e4a8c9c85c134a3bce721/embed",
+    "faceCount": 50417,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Real 041 (V.2)",
+    "publishedAt": "2026-02-24T14:23:53.532445",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "basketball",
+            "slug": "basketball",
+            "uri": "https://api.sketchfab.com/v3/tags/basketball"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3bd430a75e6b487f92d4bc04c924d81b",
+                "width": 1920,
+                "height": 1080,
+                "size": 53530,
+                "url": "https://media.sketchfab.com/models/00752eae428e4a8c9c85c134a3bce721/thumbnails/4be5ecb259834461b3e9c5418ec3b0c4/316f8f9cec5a44b8afe62c453549c359.jpeg"
+            },
+            {
+                "uid": "add24c87256c47f3b11219efd94a8ae1",
+                "width": 1024,
+                "height": 576,
+                "size": 17365,
+                "url": "https://media.sketchfab.com/models/00752eae428e4a8c9c85c134a3bce721/thumbnails/4be5ecb259834461b3e9c5418ec3b0c4/20d52714999f4d26babda96f4b6d63dc.jpeg"
+            },
+            {
+                "uid": "cb0138c2c2324330911f0483225590eb",
+                "width": 720,
+                "height": 405,
+                "size": 10049,
+                "url": "https://media.sketchfab.com/models/00752eae428e4a8c9c85c134a3bce721/thumbnails/4be5ecb259834461b3e9c5418ec3b0c4/aa9fb0f9bee64e30b3e27ce619d9bd0c.jpeg"
+            },
+            {
+                "uid": "438af6e9d2684bc799861228751da573",
+                "width": 256,
+                "height": 144,
+                "size": 2534,
+                "url": "https://media.sketchfab.com/models/00752eae428e4a8c9c85c134a3bce721/thumbnails/4be5ecb259834461b3e9c5418ec3b0c4/9b6df7b9cec941f1bcf38a86b8cc0679.jpeg"
+            },
+            {
+                "uid": "e4be80e321b84ebeb2e4d3999ded7e32",
+                "width": 64,
+                "height": 36,
+                "size": 946,
+                "url": "https://media.sketchfab.com/models/00752eae428e4a8c9c85c134a3bce721/thumbnails/4be5ecb259834461b3e9c5418ec3b0c4/00a06333b1a84c9dbccb365aae8bbbcc.jpeg"
+            }
+        ]
+    },
+    "uid": "00752eae428e4a8c9c85c134a3bce721",
+    "uri": "https://api.sketchfab.com/v3/models/00752eae428e4a8c9c85c134a3bce721",
+    "user": {
+        "uid": "3694929ad76c463ab9c35cde96635c42",
+        "username": "guj65536",
+        "displayName": "顧士傑",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/guj65536",
+        "avatar": {
+            "uid": "2b5742df103b479088f5f0d2c547e552",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b5742df103b479088f5f0d2c547e552",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1841,
+                    "url": "https://media.sketchfab.com/avatars/2b5742df103b479088f5f0d2c547e552/e43914166b35469ca39feb23299b57f4.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3240,
+                    "url": "https://media.sketchfab.com/avatars/2b5742df103b479088f5f0d2c547e552/ca07877e67674ad3bda2862abea2a128.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 7843,
+                    "url": "https://media.sketchfab.com/avatars/2b5742df103b479088f5f0d2c547e552/d116f305e2cb491b89045838dd7bfb5e.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 9024,
+                    "url": "https://media.sketchfab.com/avatars/2b5742df103b479088f5f0d2c547e552/b25b2d38711f4e2fb42f18cb994bb45c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3694929ad76c463ab9c35cde96635c42"
+    },
+    "vertexCount": 29867,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/real-041-v2-00752eae428e4a8c9c85c134a3bce721",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "徐維駿\n\nbasketball person\nfamilydex or pokemon",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/00752eae428e4a8c9c85c134a3bce721/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T14:24:07.619898",
+    "pbrType": null,
+    "textureCount": 15,
+    "materialCount": 12
+}

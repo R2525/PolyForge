@@ -1,0 +1,66 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Medieval",
+            "score": 0.8
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient",
+            "score": 0.6
+        },
+        {
+            "name": "Warrior",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Rusted Metal",
+            "score": 0.6
+        },
+        {
+            "name": "Fantasy Art",
+            "score": 0.5
+        },
+        {
+            "name": "Metallic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Weathered",
+        "Dusty",
+        "Polished",
+        "Mossy"
+    ],
+    "tags": [
+        "staff",
+        "mace",
+        "weapon",
+        "magic",
+        "crystal"
+    ],
+    "model_id_full": "37326e940e37421b9b92f9d3c53e2be4_Crystal Of The Elder Staff",
+    "sketchfab_id": "37326e940e37421b9b92f9d3c53e2be4",
+    "asset_name": "Crystal Of The Elder Staff"
+}

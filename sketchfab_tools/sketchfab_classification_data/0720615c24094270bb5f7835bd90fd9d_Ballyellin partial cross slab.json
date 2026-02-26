@@ -1,0 +1,69 @@
+{
+    "category": "Cultural Heritage & History",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Medieval",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Archaeological",
+            "score": 0.6
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Realistic",
+            "score": 0.6
+        },
+        {
+            "name": "Historical",
+            "score": 0.5
+        },
+        {
+            "name": "Ancient",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Weathered",
+        "Cracked",
+        "Dusty",
+        "Rusty"
+    ],
+    "tags": [
+        "stone",
+        "cross",
+        "slab",
+        "cultural",
+        "heritage",
+        "ancient",
+        "history",
+        "moss"
+    ],
+    "model_id_full": "0720615c24094270bb5f7835bd90fd9d_Ballyellin partial cross slab",
+    "sketchfab_id": "0720615c24094270bb5f7835bd90fd9d",
+    "asset_name": "Ballyellin partial cross slab"
+}

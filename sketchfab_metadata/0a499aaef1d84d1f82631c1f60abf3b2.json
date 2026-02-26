@@ -1,0 +1,196 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-13T17:10:38.539738",
+    "embedUrl": "https://sketchfab.com/models/0a499aaef1d84d1f82631c1f60abf3b2/embed",
+    "faceCount": 33180,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Daz3d G8 Female Cyberpunk Gloves",
+    "publishedAt": "2026-02-13T17:14:00.061163",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "worn",
+            "slug": "worn",
+            "uri": "https://api.sketchfab.com/v3/tags/worn"
+        },
+        {
+            "name": "used",
+            "slug": "used",
+            "uri": "https://api.sketchfab.com/v3/tags/used"
+        },
+        {
+            "name": "coat",
+            "slug": "coat",
+            "uri": "https://api.sketchfab.com/v3/tags/coat"
+        },
+        {
+            "name": "gloves",
+            "slug": "gloves",
+            "uri": "https://api.sketchfab.com/v3/tags/gloves"
+        },
+        {
+            "name": "cyberpunkgloves",
+            "slug": "cyberpunkgloves",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunkgloves"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "52c1dc30e9e34919bef2c30436a92786",
+                "width": 1920,
+                "height": 1080,
+                "size": 41488,
+                "url": "https://media.sketchfab.com/models/0a499aaef1d84d1f82631c1f60abf3b2/thumbnails/4fec65375627474e8066162c34b75ad6/c8c5d2e9b23948f6b31cf39a8a1a117c.jpeg"
+            },
+            {
+                "uid": "95ca2e16719f4e2bb1baff185ff56c00",
+                "width": 1024,
+                "height": 576,
+                "size": 13303,
+                "url": "https://media.sketchfab.com/models/0a499aaef1d84d1f82631c1f60abf3b2/thumbnails/4fec65375627474e8066162c34b75ad6/51b02d016ddc4ae3a60d2b1ede7f51b1.jpeg"
+            },
+            {
+                "uid": "73eb02df32c744d3bc820f29c0f71248",
+                "width": 720,
+                "height": 405,
+                "size": 7538,
+                "url": "https://media.sketchfab.com/models/0a499aaef1d84d1f82631c1f60abf3b2/thumbnails/4fec65375627474e8066162c34b75ad6/fac63489a9c64f098fb38afe1f16c19e.jpeg"
+            },
+            {
+                "uid": "4a24719ffb054326b06c63fb2edf75f1",
+                "width": 256,
+                "height": 144,
+                "size": 1782,
+                "url": "https://media.sketchfab.com/models/0a499aaef1d84d1f82631c1f60abf3b2/thumbnails/4fec65375627474e8066162c34b75ad6/b5d773e42c2e4115af4e2ad632a3c231.jpeg"
+            },
+            {
+                "uid": "60a1342fdbe44fc7b70b58852a189963",
+                "width": 64,
+                "height": 36,
+                "size": 776,
+                "url": "https://media.sketchfab.com/models/0a499aaef1d84d1f82631c1f60abf3b2/thumbnails/4fec65375627474e8066162c34b75ad6/99e63ab8e98a4c4b95ba45a7ee6859d3.jpeg"
+            }
+        ]
+    },
+    "uid": "0a499aaef1d84d1f82631c1f60abf3b2",
+    "uri": "https://api.sketchfab.com/v3/models/0a499aaef1d84d1f82631c1f60abf3b2",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 16612,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/daz3d-g8-female-cyberpunk-gloves-0a499aaef1d84d1f82631c1f60abf3b2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Worn out, used, slightly scratched, cyberpunk black and yellow colored gloves for the Daz3d Genesis 8 Female, in the a pose which is the default pose, note that this is not yet a wearable but it was created in 3dsmax fitted on the Genesis 8 Female, assisted by Daz3d, 3dsmax, Paintshopro and materialize",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/0a499aaef1d84d1f82631c1f60abf3b2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-14T23:59:48.785216",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

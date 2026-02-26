@@ -1,0 +1,185 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-08T23:00:30.756275",
+    "embedUrl": "https://sketchfab.com/models/33498b4a39e845639836f0ac836139d8/embed",
+    "faceCount": 30434,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Runaway Railway Steam Locomotive",
+    "publishedAt": "2026-02-08T23:29:38.036440",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "train",
+            "slug": "train",
+            "uri": "https://api.sketchfab.com/v3/tags/train"
+        },
+        {
+            "name": "goofy",
+            "slug": "goofy",
+            "uri": "https://api.sketchfab.com/v3/tags/goofy"
+        },
+        {
+            "name": "Disney",
+            "slug": "disney",
+            "uri": "https://api.sketchfab.com/v3/tags/disney"
+        },
+        {
+            "name": "cubic",
+            "slug": "cubic",
+            "uri": "https://api.sketchfab.com/v3/tags/cubic"
+        },
+        {
+            "name": "disneyland",
+            "slug": "disneyland",
+            "uri": "https://api.sketchfab.com/v3/tags/disneyland"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "cubicstudio",
+            "slug": "cubicstudio",
+            "uri": "https://api.sketchfab.com/v3/tags/cubicstudio"
+        },
+        {
+            "name": "mickeyandminnie",
+            "slug": "mickeyandminnie",
+            "uri": "https://api.sketchfab.com/v3/tags/mickeyandminnie"
+        },
+        {
+            "name": "runawayrailroad",
+            "slug": "runawayrailroad",
+            "uri": "https://api.sketchfab.com/v3/tags/runawayrailroad"
+        },
+        {
+            "name": "minecraftdisney",
+            "slug": "minecraftdisney",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraftdisney"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1b843c7126a3498391550b2a251c8bcc",
+                "width": 1920,
+                "height": 1080,
+                "size": 135742,
+                "url": "https://media.sketchfab.com/models/33498b4a39e845639836f0ac836139d8/thumbnails/b69e3e44923d40f3a52d2d699904f853/a88f84b54d064ed8beff74962536dda9.jpeg"
+            },
+            {
+                "uid": "7221cd2672924046b73dc9aa3e63ccb8",
+                "width": 1024,
+                "height": 576,
+                "size": 45534,
+                "url": "https://media.sketchfab.com/models/33498b4a39e845639836f0ac836139d8/thumbnails/b69e3e44923d40f3a52d2d699904f853/904417ab8dc1447da40c0f1275975858.jpeg"
+            },
+            {
+                "uid": "2890f970bd6f45fca9bb63fe4af2d658",
+                "width": 720,
+                "height": 405,
+                "size": 26727,
+                "url": "https://media.sketchfab.com/models/33498b4a39e845639836f0ac836139d8/thumbnails/b69e3e44923d40f3a52d2d699904f853/1a6775595a8942e9a774285c9e381066.jpeg"
+            },
+            {
+                "uid": "d4689ef78ecc4394b6ce627838d63a56",
+                "width": 256,
+                "height": 144,
+                "size": 5853,
+                "url": "https://media.sketchfab.com/models/33498b4a39e845639836f0ac836139d8/thumbnails/b69e3e44923d40f3a52d2d699904f853/ee705c9bd9e4467889f825e2d7b0fb7a.jpeg"
+            },
+            {
+                "uid": "53ebd2c4032348ecad3d351d6dfab3a2",
+                "width": 64,
+                "height": 36,
+                "size": 1279,
+                "url": "https://media.sketchfab.com/models/33498b4a39e845639836f0ac836139d8/thumbnails/b69e3e44923d40f3a52d2d699904f853/82442261edbf45f0b98a71cfad3a82ee.jpeg"
+            }
+        ]
+    },
+    "uid": "33498b4a39e845639836f0ac836139d8",
+    "uri": "https://api.sketchfab.com/v3/models/33498b4a39e845639836f0ac836139d8",
+    "user": {
+        "uid": "9cde4b0a18854710afa9fd38e2f33fd5",
+        "username": "KevinMar",
+        "displayName": "GamerKM",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/KevinMar",
+        "avatar": {
+            "uid": "811cdd0f42314bf59b897469c7976038",
+            "uri": "https://api.sketchfab.com/v3/avatars/811cdd0f42314bf59b897469c7976038",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1024,
+                    "url": "https://media.sketchfab.com/avatars/811cdd0f42314bf59b897469c7976038/cfbb0963b4014f0384dd8db60d4de708.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1444,
+                    "url": "https://media.sketchfab.com/avatars/811cdd0f42314bf59b897469c7976038/0922021bb12a428381b1dbe650dcbde9.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2940,
+                    "url": "https://media.sketchfab.com/avatars/811cdd0f42314bf59b897469c7976038/70f4ca2e22b1450b8a927ab4b670c8f3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3332,
+                    "url": "https://media.sketchfab.com/avatars/811cdd0f42314bf59b897469c7976038/267abb0de9294c108ba7022b3838e05c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9cde4b0a18854710afa9fd38e2f33fd5"
+    },
+    "vertexCount": 12757,
+    "viewCount": 51,
+    "viewerUrl": "https://sketchfab.com/3d-models/runaway-railway-steam-locomotive-33498b4a39e845639836f0ac836139d8",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Runaway Railway Steam Locomotive\nA stylized voxel recreation of the lead train engine from Mickey & Minnie’s Runaway Railway.\n\n🎨 Designed by Kevin Mar (GamerKM) in February 2026, as part of Haxiclesticks—a Disneyland Minecraft recreation project originally started in 2011.\n\nThis model was built to be fully rideable in-game, as part of a larger theme park simulation. It mirrors the look and feel of the original ride vehicle designed by Disney Imagineering for both Disneyland California and Walt Disney World.\n\nMore from the project: https://linktr.ee/KevinMar\n\n⚒️ Built in Cubik Studio – https://cubik.studio\n\n\n🎮 Join the Disneyland Minecraft Server\n🌐 Server IP: mc.haxiclesticks.com\n📦 Version: 1.19.2 (as of 2026)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/33498b4a39e845639836f0ac836139d8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T06:18:04.363992",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

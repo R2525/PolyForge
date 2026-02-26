@@ -1,0 +1,262 @@
+{
+    "animationCount": 63,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-24T00:48:19.300002",
+    "embedUrl": "https://sketchfab.com/models/19427e9238bc416c98326793e1d06a9f/embed",
+    "faceCount": 2188,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 8,
+    "name": "Leader Bot The Hulk Video Game | With Animations",
+    "publishedAt": "2026-01-24T00:55:50.066482",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "computer",
+            "slug": "computer",
+            "uri": "https://api.sketchfab.com/v3/tags/computer"
+        },
+        {
+            "name": "xbox",
+            "slug": "xbox",
+            "uri": "https://api.sketchfab.com/v3/tags/xbox"
+        },
+        {
+            "name": "bot",
+            "slug": "bot",
+            "uri": "https://api.sketchfab.com/v3/tags/bot"
+        },
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "pc",
+            "slug": "pc",
+            "uri": "https://api.sketchfab.com/v3/tags/pc"
+        },
+        {
+            "name": "windows",
+            "slug": "windows",
+            "uri": "https://api.sketchfab.com/v3/tags/windows"
+        },
+        {
+            "name": "videogame",
+            "slug": "videogame",
+            "uri": "https://api.sketchfab.com/v3/tags/videogame"
+        },
+        {
+            "name": "console",
+            "slug": "console",
+            "uri": "https://api.sketchfab.com/v3/tags/console"
+        },
+        {
+            "name": "hulk",
+            "slug": "hulk",
+            "uri": "https://api.sketchfab.com/v3/tags/hulk"
+        },
+        {
+            "name": "gamecube",
+            "slug": "gamecube",
+            "uri": "https://api.sketchfab.com/v3/tags/gamecube"
+        },
+        {
+            "name": "boss",
+            "slug": "boss",
+            "uri": "https://api.sketchfab.com/v3/tags/boss"
+        },
+        {
+            "name": "the",
+            "slug": "the",
+            "uri": "https://api.sketchfab.com/v3/tags/the"
+        },
+        {
+            "name": "2003",
+            "slug": "2003",
+            "uri": "https://api.sketchfab.com/v3/tags/2003"
+        },
+        {
+            "name": "video-games",
+            "slug": "video-games",
+            "uri": "https://api.sketchfab.com/v3/tags/video-games"
+        },
+        {
+            "name": "marvelcomics",
+            "slug": "marvelcomics",
+            "uri": "https://api.sketchfab.com/v3/tags/marvelcomics"
+        },
+        {
+            "name": "GC",
+            "slug": "gc",
+            "uri": "https://api.sketchfab.com/v3/tags/gc"
+        },
+        {
+            "name": "leader",
+            "slug": "leader",
+            "uri": "https://api.sketchfab.com/v3/tags/leader"
+        },
+        {
+            "name": "cutscene",
+            "slug": "cutscene",
+            "uri": "https://api.sketchfab.com/v3/tags/cutscene"
+        },
+        {
+            "name": "hulkmarvel",
+            "slug": "hulkmarvel",
+            "uri": "https://api.sketchfab.com/v3/tags/hulkmarvel"
+        },
+        {
+            "name": "cutscenes",
+            "slug": "cutscenes",
+            "uri": "https://api.sketchfab.com/v3/tags/cutscenes"
+        },
+        {
+            "name": "marvelcomics-marvel",
+            "slug": "marvelcomics-marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvelcomics-marvel"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "video",
+            "slug": "video",
+            "uri": "https://api.sketchfab.com/v3/tags/video"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "fmv",
+            "slug": "fmv",
+            "uri": "https://api.sketchfab.com/v3/tags/fmv"
+        },
+        {
+            "name": "win32",
+            "slug": "win32",
+            "uri": "https://api.sketchfab.com/v3/tags/win32"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6203a28bbb0244e285cbc4cdebfe04ff",
+                "width": 1920,
+                "height": 1080,
+                "size": 102056,
+                "url": "https://media.sketchfab.com/models/19427e9238bc416c98326793e1d06a9f/thumbnails/364f6b281fe041d1a72dcd544a2f614f/4bd5fde9c3c54848808dd996dea21078.jpeg"
+            },
+            {
+                "uid": "bf09b03507a640aba3ec606cd2cf3dff",
+                "width": 1024,
+                "height": 576,
+                "size": 37350,
+                "url": "https://media.sketchfab.com/models/19427e9238bc416c98326793e1d06a9f/thumbnails/364f6b281fe041d1a72dcd544a2f614f/2d26b98ffc0f4235bd1ab560d601c826.jpeg"
+            },
+            {
+                "uid": "d48e639c43204aa485d45937c28cc09b",
+                "width": 720,
+                "height": 405,
+                "size": 23079,
+                "url": "https://media.sketchfab.com/models/19427e9238bc416c98326793e1d06a9f/thumbnails/364f6b281fe041d1a72dcd544a2f614f/a0495cae0f1246279fe0348a6100a5f6.jpeg"
+            },
+            {
+                "uid": "b3b671d1622945f5963934feea397513",
+                "width": 256,
+                "height": 144,
+                "size": 5437,
+                "url": "https://media.sketchfab.com/models/19427e9238bc416c98326793e1d06a9f/thumbnails/364f6b281fe041d1a72dcd544a2f614f/cfae2847c74845bc8b8425d5b944face.jpeg"
+            },
+            {
+                "uid": "8ba4ced66ee340b0800eeb3700d7b0c2",
+                "width": 64,
+                "height": 36,
+                "size": 1279,
+                "url": "https://media.sketchfab.com/models/19427e9238bc416c98326793e1d06a9f/thumbnails/364f6b281fe041d1a72dcd544a2f614f/5887dfbe8c754d939dd92330cc23750c.jpeg"
+            }
+        ]
+    },
+    "uid": "19427e9238bc416c98326793e1d06a9f",
+    "uri": "https://api.sketchfab.com/v3/models/19427e9238bc416c98326793e1d06a9f",
+    "user": {
+        "uid": "15b16b3b67dc43f0b71447e2eb474143",
+        "username": "TurkishDude",
+        "displayName": "TurkishDude",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/TurkishDude",
+        "avatar": {
+            "uid": "0bbf670dabbe4aa39368fe9cd6005972",
+            "uri": "https://api.sketchfab.com/v3/avatars/0bbf670dabbe4aa39368fe9cd6005972",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2187,
+                    "url": "https://media.sketchfab.com/avatars/0bbf670dabbe4aa39368fe9cd6005972/bd0bc6a28c58462bba3cb2fbadbd865a.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4513,
+                    "url": "https://media.sketchfab.com/avatars/0bbf670dabbe4aa39368fe9cd6005972/55550f8dd1d74a0fb1a6261424b95a57.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 13952,
+                    "url": "https://media.sketchfab.com/avatars/0bbf670dabbe4aa39368fe9cd6005972/1aa375aa567a47fea7f6b05e58880a7b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 16758,
+                    "url": "https://media.sketchfab.com/avatars/0bbf670dabbe4aa39368fe9cd6005972/4021ef74269a4d5da9192a15a3694f5a.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/15b16b3b67dc43f0b71447e2eb474143"
+    },
+    "vertexCount": 1106,
+    "viewCount": 91,
+    "viewerUrl": "https://sketchfab.com/3d-models/leader-bot-the-hulk-video-game-with-animations-19427e9238bc416c98326793e1d06a9f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is Leader Bot from The Hulk 2003: Video Game with his console texture and his extracted animations, original rigged skeleton from the game in FBX format. The game is made Radical Entertainment. Credit me if you will use the animations and the texture.\n\nDeviantart:\nhttps://www.deviantart.com/turkishdude/art/1290551351",
+    "price": null,
+    "downloadCount": 19,
+    "editorUrl": "https://sketchfab.com/models/19427e9238bc416c98326793e1d06a9f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-24T01:17:15.282067",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

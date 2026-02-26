@@ -1,0 +1,69 @@
+{
+    "category": "Cultural Heritage & History",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        },
+        {
+            "name": "Religious",
+            "score": 0.5
+        },
+        {
+            "name": "Medieval",
+            "score": 0.4
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Stone Carving",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Sculpture",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Dusty",
+        "Cracked",
+        "Mossy",
+        "Rusty"
+    ],
+    "tags": [
+        "stone",
+        "carved",
+        "effigy",
+        "bishop",
+        "cathedral",
+        "historical",
+        "religious",
+        "ancient"
+    ],
+    "model_id_full": "244bca5e899b40bbb29b65b02321975d_Peterborough Cathedral, effigy of a bishop",
+    "sketchfab_id": "244bca5e899b40bbb29b65b02321975d",
+    "asset_name": "Peterborough Cathedral, effigy of a bishop"
+}

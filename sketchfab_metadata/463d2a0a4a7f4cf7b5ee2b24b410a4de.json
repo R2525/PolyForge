@@ -1,0 +1,289 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T07:30:47.300289",
+    "embedUrl": "https://sketchfab.com/models/463d2a0a4a7f4cf7b5ee2b24b410a4de/embed",
+    "faceCount": 3410,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Usaf Boeing X-37B Rigged and Detailed",
+    "publishedAt": "2026-02-25T07:40:01.727249",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "assault",
+            "slug": "assault",
+            "uri": "https://api.sketchfab.com/v3/tags/assault"
+        },
+        {
+            "name": "boeing",
+            "slug": "boeing",
+            "uri": "https://api.sketchfab.com/v3/tags/boeing"
+        },
+        {
+            "name": "shuttle",
+            "slug": "shuttle",
+            "uri": "https://api.sketchfab.com/v3/tags/shuttle"
+        },
+        {
+            "name": "usaf",
+            "slug": "usaf",
+            "uri": "https://api.sketchfab.com/v3/tags/usaf"
+        },
+        {
+            "name": "fighter",
+            "slug": "fighter",
+            "uri": "https://api.sketchfab.com/v3/tags/fighter"
+        },
+        {
+            "name": "aerospace",
+            "slug": "aerospace",
+            "uri": "https://api.sketchfab.com/v3/tags/aerospace"
+        },
+        {
+            "name": "spacecraft",
+            "slug": "spacecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/spacecraft"
+        },
+        {
+            "name": "flight",
+            "slug": "flight",
+            "uri": "https://api.sketchfab.com/v3/tags/flight"
+        },
+        {
+            "name": "aviation",
+            "slug": "aviation",
+            "uri": "https://api.sketchfab.com/v3/tags/aviation"
+        },
+        {
+            "name": "orbital",
+            "slug": "orbital",
+            "uri": "https://api.sketchfab.com/v3/tags/orbital"
+        },
+        {
+            "name": "jet",
+            "slug": "jet",
+            "uri": "https://api.sketchfab.com/v3/tags/jet"
+        },
+        {
+            "name": "rocket",
+            "slug": "rocket",
+            "uri": "https://api.sketchfab.com/v3/tags/rocket"
+        },
+        {
+            "name": "spaceplane",
+            "slug": "spaceplane",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceplane"
+        },
+        {
+            "name": "hypersonic",
+            "slug": "hypersonic",
+            "uri": "https://api.sketchfab.com/v3/tags/hypersonic"
+        },
+        {
+            "name": "spaceexplorer",
+            "slug": "spaceexplorer",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceexplorer"
+        },
+        {
+            "name": "spacetime",
+            "slug": "spacetime",
+            "uri": "https://api.sketchfab.com/v3/tags/spacetime"
+        },
+        {
+            "name": "rocketship",
+            "slug": "rocketship",
+            "uri": "https://api.sketchfab.com/v3/tags/rocketship"
+        },
+        {
+            "name": "spaceexploration",
+            "slug": "spaceexploration",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceexploration"
+        },
+        {
+            "name": "plane",
+            "slug": "plane",
+            "uri": "https://api.sketchfab.com/v3/tags/plane"
+        },
+        {
+            "name": "usa",
+            "slug": "usa",
+            "uri": "https://api.sketchfab.com/v3/tags/usa"
+        },
+        {
+            "name": "spaceship",
+            "slug": "spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "hypersonicaircraft",
+            "slug": "hypersonicaircraft",
+            "uri": "https://api.sketchfab.com/v3/tags/hypersonicaircraft"
+        },
+        {
+            "name": "hypersonicjet",
+            "slug": "hypersonicjet",
+            "uri": "https://api.sketchfab.com/v3/tags/hypersonicjet"
+        },
+        {
+            "name": "gemreer",
+            "slug": "gemreer",
+            "uri": "https://api.sketchfab.com/v3/tags/gemreer"
+        },
+        {
+            "name": "gokhan-emre-er",
+            "slug": "gokhan-emre-er",
+            "uri": "https://api.sketchfab.com/v3/tags/gokhan-emre-er"
+        },
+        {
+            "name": "x37",
+            "slug": "x37",
+            "uri": "https://api.sketchfab.com/v3/tags/x37"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2dba54a26d7744cb8a6ebf5f4178ed2b",
+                "width": 1920,
+                "height": 1080,
+                "size": 266907,
+                "url": "https://media.sketchfab.com/models/463d2a0a4a7f4cf7b5ee2b24b410a4de/thumbnails/0ce104ff6d7c46fcac49f69bffd08308/517c992a1a134614ae3a1f47d8f42a41.jpeg"
+            },
+            {
+                "uid": "998eb7b3bfc24f7da37fcf5bb4f228c7",
+                "width": 1024,
+                "height": 576,
+                "size": 92584,
+                "url": "https://media.sketchfab.com/models/463d2a0a4a7f4cf7b5ee2b24b410a4de/thumbnails/0ce104ff6d7c46fcac49f69bffd08308/e52fad558e694d12b8724bda1b2967dd.jpeg"
+            },
+            {
+                "uid": "2c98812ad2f84e3a8aba7fc59c1d0e3e",
+                "width": 720,
+                "height": 405,
+                "size": 54354,
+                "url": "https://media.sketchfab.com/models/463d2a0a4a7f4cf7b5ee2b24b410a4de/thumbnails/0ce104ff6d7c46fcac49f69bffd08308/b6b40b3df9eb4ad9815ae0bb70402e5e.jpeg"
+            },
+            {
+                "uid": "0dd8818d2d7b4e308b6b63be078a651a",
+                "width": 256,
+                "height": 144,
+                "size": 10394,
+                "url": "https://media.sketchfab.com/models/463d2a0a4a7f4cf7b5ee2b24b410a4de/thumbnails/0ce104ff6d7c46fcac49f69bffd08308/5a4e17c5a80341d6968b90828b9daf4a.jpeg"
+            },
+            {
+                "uid": "ac1f551b53b4493bb4a8c06e03dccc5b",
+                "width": 64,
+                "height": 36,
+                "size": 1577,
+                "url": "https://media.sketchfab.com/models/463d2a0a4a7f4cf7b5ee2b24b410a4de/thumbnails/0ce104ff6d7c46fcac49f69bffd08308/ec58ed7c8cc34c3ca5a489a741e49f27.jpeg"
+            }
+        ]
+    },
+    "uid": "463d2a0a4a7f4cf7b5ee2b24b410a4de",
+    "uri": "https://api.sketchfab.com/v3/models/463d2a0a4a7f4cf7b5ee2b24b410a4de",
+    "user": {
+        "uid": "40ed526d8c164295b778b5c92037efd7",
+        "username": "gemreer",
+        "displayName": "Gökhan Emre Er",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/gemreer",
+        "avatar": {
+            "uid": "e1188a87f38049279f2a98a3db5a933c",
+            "uri": "https://api.sketchfab.com/v3/avatars/e1188a87f38049279f2a98a3db5a933c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/e1188a87f38049279f2a98a3db5a933c/7a42959f064344b8ad3564ab6bece93c.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1668,
+                    "url": "https://media.sketchfab.com/avatars/e1188a87f38049279f2a98a3db5a933c/633c0c9ad9e04aac92f86fca36d20f96.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3899,
+                    "url": "https://media.sketchfab.com/avatars/e1188a87f38049279f2a98a3db5a933c/731f1868c94d4616ade84933e1e99773.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4509,
+                    "url": "https://media.sketchfab.com/avatars/e1188a87f38049279f2a98a3db5a933c/23cc04ccaafb4c60a2736900f69d66bd.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/40ed526d8c164295b778b5c92037efd7"
+    },
+    "vertexCount": 1448,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/usaf-boeing-x-37b-rigged-and-detailed-463d2a0a4a7f4cf7b5ee2b24b410a4de",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Buy Link: https://www.fab.com/tr/listings/d370e87b-f387-469b-8711-3ed820597d62\n\nUSAF Boeing X37 High Quality 3D Model\n\nEngineered for missions that never make the headlines.\n\nThis high-detail orbital spaceplane model captures the stealth aesthetic of next-generation military aerospace platforms. Designed for cinematic realism, it features accurate heat shield tiling, refined panel detailing, and subtle surface wear to ensure believable close-ups and powerful wide shots.\n\nBuilt with both real-time engines and high-resolution rendering in mind, the asset is suitable for Unreal Engine, Unity, cinematic sequences, and advanced sci-fi visualizations.\n\nKey Features:\n\n* High-resolution exterior detailing - Clean and optimized topology\n\n* Game-ready geometry \n\n* Cinematic presentation quality\n*\n* All Platform Easy Import\n\nSilent. Strategic. Orbital. \n\n![r](https://media.fab.com/image_previews/gallery_images/4c2dd90a-2d2c-49ee-a12c-6cc59481655d/76cb0ab9-ecfb-4d65-a438-6f5d205c371a.jpg)\n\n\nGökhan Emre Er 2026",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/463d2a0a4a7f4cf7b5ee2b24b410a4de/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T07:51:00.875376",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 4
+}

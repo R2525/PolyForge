@@ -1,0 +1,160 @@
+{
+    "animationCount": 4,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T15:50:39.330997",
+    "embedUrl": "https://sketchfab.com/models/30cc2534482645eca0909bd365606cdc/embed",
+    "faceCount": 1104,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Draugrim",
+    "publishedAt": "2026-02-23T15:52:35.259641",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "creatures",
+            "slug": "creatures",
+            "uri": "https://api.sketchfab.com/v3/tags/creatures"
+        },
+        {
+            "name": "void",
+            "slug": "void",
+            "uri": "https://api.sketchfab.com/v3/tags/void"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4121516fec874324a53cf8dd65aa4803",
+                "width": 1920,
+                "height": 1080,
+                "size": 94802,
+                "url": "https://media.sketchfab.com/models/30cc2534482645eca0909bd365606cdc/thumbnails/42876e6cd1264c51baf15fee28010e5a/99241be6afe248e895a40a5d209f8f36.jpeg"
+            },
+            {
+                "uid": "6f55d67e9fbf48dc9c5a7827db3407b7",
+                "width": 1024,
+                "height": 576,
+                "size": 33651,
+                "url": "https://media.sketchfab.com/models/30cc2534482645eca0909bd365606cdc/thumbnails/42876e6cd1264c51baf15fee28010e5a/4c060993d24e490b87da9575873d1329.jpeg"
+            },
+            {
+                "uid": "d125e72e563848d4b9e73cd0bd0cbc30",
+                "width": 720,
+                "height": 405,
+                "size": 19856,
+                "url": "https://media.sketchfab.com/models/30cc2534482645eca0909bd365606cdc/thumbnails/42876e6cd1264c51baf15fee28010e5a/038127d58fa24e1a9f054c63020b9599.jpeg"
+            },
+            {
+                "uid": "bd5888f700554fb69bcd2829469fb0d1",
+                "width": 256,
+                "height": 144,
+                "size": 4265,
+                "url": "https://media.sketchfab.com/models/30cc2534482645eca0909bd365606cdc/thumbnails/42876e6cd1264c51baf15fee28010e5a/67d25d36c4dc476da8be532bd30d7592.jpeg"
+            },
+            {
+                "uid": "47c179f62a7543d499335c1a819aa01f",
+                "width": 64,
+                "height": 36,
+                "size": 990,
+                "url": "https://media.sketchfab.com/models/30cc2534482645eca0909bd365606cdc/thumbnails/42876e6cd1264c51baf15fee28010e5a/5ac43c0a44f24490a4c973b7f4e2564c.jpeg"
+            }
+        ]
+    },
+    "uid": "30cc2534482645eca0909bd365606cdc",
+    "uri": "https://api.sketchfab.com/v3/models/30cc2534482645eca0909bd365606cdc",
+    "user": {
+        "uid": "f59569a91911420b9feaf1a4b062ee4c",
+        "username": "NopesCreations",
+        "displayName": "Nope",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/NopesCreations",
+        "avatar": {
+            "uid": "f91169d147614d50a791f7a8f4090e42",
+            "uri": "https://api.sketchfab.com/v3/avatars/f91169d147614d50a791f7a8f4090e42",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 992,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/7036d821a82f47598a8783521d573953.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1406,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/280c37667f554b8b99ac9d070d89443e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3412,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/8020031926994ebaaf414a27a39d9b00.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3919,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/99592f6d7ec34ebbb1b5cd42f38ff58c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f59569a91911420b9feaf1a4b062ee4c"
+    },
+    "vertexCount": 880,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/draugrim-30cc2534482645eca0909bd365606cdc",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Low poly fantasy void monsters.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/30cc2534482645eca0909bd365606cdc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T15:52:35.401086",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 3
+}

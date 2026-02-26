@@ -1,0 +1,51 @@
+{
+    "category": "Cultural Heritage & History",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Cracked"
+    ],
+    "tags": [
+        "ring",
+        "gold-plated",
+        "silver",
+        "fleur-de-lis",
+        "ancient",
+        "historical",
+        "cultural",
+        "medieval"
+    ],
+    "model_id_full": "4babb4a56dee409282b5630aeb1df161_Gold-plated silver ring",
+    "sketchfab_id": "4babb4a56dee409282b5630aeb1df161",
+    "asset_name": "Gold-plated silver ring"
+}

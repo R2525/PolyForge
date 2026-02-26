@@ -1,0 +1,69 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Fantasy",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.6
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "Gothic",
+            "score": 0.5
+        },
+        {
+            "name": "Stylized Fantasy",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Weathered",
+        "Dusty"
+    ],
+    "tags": [
+        "helmet",
+        "iron",
+        "knight",
+        "fantasy",
+        "warrior",
+        "dark fantasy",
+        "armor",
+        "medieval",
+        "goblin",
+        "legendary"
+    ],
+    "model_id_full": "4c6ae7e83bb34d24884251f9e6bc5afd_Iron Knight Helm",
+    "sketchfab_id": "4c6ae7e83bb34d24884251f9e6bc5afd",
+    "asset_name": "Iron Knight Helm"
+}

@@ -1,0 +1,40 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.8
+        },
+        {
+            "name": "Contemporary",
+            "score": 0.7
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.8
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "console",
+        "cabinet",
+        "storage"
+    ]
+}

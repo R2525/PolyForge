@@ -1,0 +1,41 @@
+{
+    "category": "Architecture",
+    "top_genres": [
+        {
+            "name": "Low-Poly",
+            "score": 0.95
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.75
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.95
+        },
+        {
+            "name": "Stylized",
+            "score": 0.85
+        },
+        {
+            "name": "Toon / Anime",
+            "score": 0.75
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Glow"
+    ],
+    "tags": [
+        "house",
+        "cabin",
+        "winter"
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T20:09:42.435417",
+    "embedUrl": "https://sketchfab.com/models/463fc98e6b6b41029dc3d0bc98f6a630/embed",
+    "faceCount": 304,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Lp Plank 2m B",
+    "publishedAt": "2026-02-21T20:10:16.799140",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "uv",
+            "slug": "uv",
+            "uri": "https://api.sketchfab.com/v3/tags/uv"
+        },
+        {
+            "name": "manifold",
+            "slug": "manifold",
+            "uri": "https://api.sketchfab.com/v3/tags/manifold"
+        },
+        {
+            "name": "constrution",
+            "slug": "constrution",
+            "uri": "https://api.sketchfab.com/v3/tags/constrution"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e25c2222ecb84c25a334137b40487134",
+                "width": 1920,
+                "height": 1080,
+                "size": 39760,
+                "url": "https://media.sketchfab.com/models/463fc98e6b6b41029dc3d0bc98f6a630/thumbnails/815101adf4ef40a68e8474cb8a487737/0867dd5d672542fd93b58ab228cbf6f2.jpeg"
+            },
+            {
+                "uid": "a2937084f89d42089f9f6f4c5fdb80d1",
+                "width": 1024,
+                "height": 576,
+                "size": 12563,
+                "url": "https://media.sketchfab.com/models/463fc98e6b6b41029dc3d0bc98f6a630/thumbnails/815101adf4ef40a68e8474cb8a487737/6d91dbfceb7a44809cf39fea6d2b6ef3.jpeg"
+            },
+            {
+                "uid": "a28fe7f85c4a4d5484ad0c61affba9e8",
+                "width": 720,
+                "height": 405,
+                "size": 7084,
+                "url": "https://media.sketchfab.com/models/463fc98e6b6b41029dc3d0bc98f6a630/thumbnails/815101adf4ef40a68e8474cb8a487737/6a238e2cd8eb44fe8fb7534d3f907334.jpeg"
+            },
+            {
+                "uid": "9df13807f510455884a1582b708f5a0f",
+                "width": 256,
+                "height": 144,
+                "size": 1693,
+                "url": "https://media.sketchfab.com/models/463fc98e6b6b41029dc3d0bc98f6a630/thumbnails/815101adf4ef40a68e8474cb8a487737/e6745a3f02724d21baca758c4d7193f4.jpeg"
+            },
+            {
+                "uid": "e387045d2a46402b8fde40d17899c9b9",
+                "width": 64,
+                "height": 36,
+                "size": 740,
+                "url": "https://media.sketchfab.com/models/463fc98e6b6b41029dc3d0bc98f6a630/thumbnails/815101adf4ef40a68e8474cb8a487737/8560453791844ecc98b938c6833d19f7.jpeg"
+            }
+        ]
+    },
+    "uid": "463fc98e6b6b41029dc3d0bc98f6a630",
+    "uri": "https://api.sketchfab.com/v3/models/463fc98e6b6b41029dc3d0bc98f6a630",
+    "user": {
+        "uid": "ccdd84ecc23f42a7a92f21d116a9bcdd",
+        "username": "alecs1313",
+        "displayName": "alecs1313",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alecs1313",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ccdd84ecc23f42a7a92f21d116a9bcdd"
+    },
+    "vertexCount": 154,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/lp-plank-2m-b-463fc98e6b6b41029dc3d0bc98f6a630",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the source format.The converted file is intended for web viewing only. In the original file, the following are fully preserved:✔ original scene hierarchy✔ unsimplified materials✔ proper texture maps✔ proper object namingIf you plan to use this model in production, choose the original version.low poly palnk 1m w material",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/463fc98e6b6b41029dc3d0bc98f6a630/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T20:10:16.965892",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

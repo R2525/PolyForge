@@ -1,0 +1,199 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-16T16:17:18.787316",
+    "embedUrl": "https://sketchfab.com/models/2baff8ca00774d1f942d5a83f16eea45/embed",
+    "faceCount": 97980,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "40k Emperor of Mankind on the wheels",
+    "publishedAt": "2026-02-16T16:18:46.002958",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "40k",
+            "slug": "40k",
+            "uri": "https://api.sketchfab.com/v3/tags/40k"
+        },
+        {
+            "name": "cart",
+            "slug": "cart",
+            "uri": "https://api.sketchfab.com/v3/tags/cart"
+        },
+        {
+            "name": "emperor",
+            "slug": "emperor",
+            "uri": "https://api.sketchfab.com/v3/tags/emperor"
+        },
+        {
+            "name": "figurine",
+            "slug": "figurine",
+            "uri": "https://api.sketchfab.com/v3/tags/figurine"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "gold",
+            "slug": "gold",
+            "uri": "https://api.sketchfab.com/v3/tags/gold"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "90c5f05ec1b84baf914ff59473dc9828",
+                "width": 1920,
+                "height": 1080,
+                "size": 109950,
+                "url": "https://media.sketchfab.com/models/2baff8ca00774d1f942d5a83f16eea45/thumbnails/bb61c2625bd54457b29b74ff337b342b/e523de1c4d8447efafa5f76c0191d663.jpeg"
+            },
+            {
+                "uid": "d408d4ca8b5442de8f013287f3890272",
+                "width": 1024,
+                "height": 576,
+                "size": 36723,
+                "url": "https://media.sketchfab.com/models/2baff8ca00774d1f942d5a83f16eea45/thumbnails/bb61c2625bd54457b29b74ff337b342b/6253f3c927db4ba1a88ee5cd0790dcc2.jpeg"
+            },
+            {
+                "uid": "ca4144e04e394180ac7bb03706b980d9",
+                "width": 720,
+                "height": 405,
+                "size": 21092,
+                "url": "https://media.sketchfab.com/models/2baff8ca00774d1f942d5a83f16eea45/thumbnails/bb61c2625bd54457b29b74ff337b342b/e5a1c6bdcf0e43569e15189259108048.jpeg"
+            },
+            {
+                "uid": "e50498bf860e4bab8e8c9b5c306da938",
+                "width": 256,
+                "height": 144,
+                "size": 4268,
+                "url": "https://media.sketchfab.com/models/2baff8ca00774d1f942d5a83f16eea45/thumbnails/bb61c2625bd54457b29b74ff337b342b/4fe411f37c3f4e3086977a2912b82aae.jpeg"
+            },
+            {
+                "uid": "9efcd4fe8d0d4cdfb4906de4e5b74af6",
+                "width": 64,
+                "height": 36,
+                "size": 989,
+                "url": "https://media.sketchfab.com/models/2baff8ca00774d1f942d5a83f16eea45/thumbnails/bb61c2625bd54457b29b74ff337b342b/5747697199dc4303926170df7f481899.jpeg"
+            }
+        ]
+    },
+    "uid": "2baff8ca00774d1f942d5a83f16eea45",
+    "uri": "https://api.sketchfab.com/v3/models/2baff8ca00774d1f942d5a83f16eea45",
+    "user": {
+        "uid": "03ee911186c6445882fd1564d8b6f2c4",
+        "username": "amylovedc",
+        "displayName": "amylovedc",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/amylovedc",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/03ee911186c6445882fd1564d8b6f2c4"
+    },
+    "vertexCount": 48930,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/40k-emperor-of-mankind-on-the-wheels-2baff8ca00774d1f942d5a83f16eea45",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/bLyoRP](https://www.meshy.ai/s/bLyoRP)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2baff8ca00774d1f942d5a83f16eea45/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T16:18:45.982731",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

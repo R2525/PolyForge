@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-20T23:53:43.970109",
+    "embedUrl": "https://sketchfab.com/models/3ec2dd42f4964f0bb515809864797ec7/embed",
+    "faceCount": 30258,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Harley Quinn Prisionera",
+    "publishedAt": "2025-12-20T23:55:12.510689",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "batman",
+            "slug": "batman",
+            "uri": "https://api.sketchfab.com/v3/tags/batman"
+        },
+        {
+            "name": "dc",
+            "slug": "dc",
+            "uri": "https://api.sketchfab.com/v3/tags/dc"
+        },
+        {
+            "name": "Injustice",
+            "slug": "injustice",
+            "uri": "https://api.sketchfab.com/v3/tags/injustice"
+        },
+        {
+            "name": "dccomics",
+            "slug": "dccomics",
+            "uri": "https://api.sketchfab.com/v3/tags/dccomics"
+        },
+        {
+            "name": "harley-quinn",
+            "slug": "harley-quinn",
+            "uri": "https://api.sketchfab.com/v3/tags/harley-quinn"
+        },
+        {
+            "name": "harleenquinzel",
+            "slug": "harleenquinzel",
+            "uri": "https://api.sketchfab.com/v3/tags/harleenquinzel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ed38f8eeb62f47dbb8b630c5f287676a",
+                "width": 1920,
+                "height": 1080,
+                "size": 51004,
+                "url": "https://media.sketchfab.com/models/3ec2dd42f4964f0bb515809864797ec7/thumbnails/82a1bff627bc4ba0b2888a4f142e47b4/c8df8910f2b9494e91ec01e6ace08075.jpeg"
+            },
+            {
+                "uid": "9d7096c892b24ae1be16d9f49927893c",
+                "width": 1024,
+                "height": 576,
+                "size": 16965,
+                "url": "https://media.sketchfab.com/models/3ec2dd42f4964f0bb515809864797ec7/thumbnails/82a1bff627bc4ba0b2888a4f142e47b4/5b3087cce29d40fd9237762a9a21628a.jpeg"
+            },
+            {
+                "uid": "877782074396452cad0a5eb85e568944",
+                "width": 720,
+                "height": 405,
+                "size": 9722,
+                "url": "https://media.sketchfab.com/models/3ec2dd42f4964f0bb515809864797ec7/thumbnails/82a1bff627bc4ba0b2888a4f142e47b4/394db9a773b947b78bf2d94ee76dc006.jpeg"
+            },
+            {
+                "uid": "00a7244f5cc9406a98120b2707dfb555",
+                "width": 256,
+                "height": 144,
+                "size": 2220,
+                "url": "https://media.sketchfab.com/models/3ec2dd42f4964f0bb515809864797ec7/thumbnails/82a1bff627bc4ba0b2888a4f142e47b4/610a0a4cb18846b7a3bb2e8ee5c0df29.jpeg"
+            },
+            {
+                "uid": "27e4bcc835b74bc1a22204552b5bd005",
+                "width": 64,
+                "height": 36,
+                "size": 821,
+                "url": "https://media.sketchfab.com/models/3ec2dd42f4964f0bb515809864797ec7/thumbnails/82a1bff627bc4ba0b2888a4f142e47b4/6cf458725d7042a586acdc2e5c42cf06.jpeg"
+            }
+        ]
+    },
+    "uid": "3ec2dd42f4964f0bb515809864797ec7",
+    "uri": "https://api.sketchfab.com/v3/models/3ec2dd42f4964f0bb515809864797ec7",
+    "user": {
+        "uid": "3500d040079140439a97e11c7beaae41",
+        "username": "oscar05.emiliano",
+        "displayName": "Look02",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/oscar05.emiliano",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3500d040079140439a97e11c7beaae41"
+    },
+    "vertexCount": 15790,
+    "viewCount": 59,
+    "viewerUrl": "https://sketchfab.com/3d-models/harley-quinn-prisionera-3ec2dd42f4964f0bb515809864797ec7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "modelo 3d a partir de inju. GDSAUS",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/3ec2dd42f4964f0bb515809864797ec7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-20T23:55:12.698587",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 3
+}

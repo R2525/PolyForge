@@ -1,0 +1,41 @@
+{
+    "category": "Electronics & Gadgets",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.75
+        },
+        {
+            "name": "Steampunk",
+            "score": 0.7
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Clean"
+    ],
+    "tags": [
+        "robot",
+        "arm",
+        "mechanical"
+    ]
+}

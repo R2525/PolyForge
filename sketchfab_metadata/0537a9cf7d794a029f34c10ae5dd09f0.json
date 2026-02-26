@@ -1,0 +1,185 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T13:00:43.330892",
+    "embedUrl": "https://sketchfab.com/models/0537a9cf7d794a029f34c10ae5dd09f0/embed",
+    "faceCount": 156692,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Pix and Lucky",
+    "publishedAt": "2026-02-22T13:20:20.902906",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "nintendo",
+            "slug": "nintendo",
+            "uri": "https://api.sketchfab.com/v3/tags/nintendo"
+        },
+        {
+            "name": "anthro",
+            "slug": "anthro",
+            "uri": "https://api.sketchfab.com/v3/tags/anthro"
+        },
+        {
+            "name": "commission",
+            "slug": "commission",
+            "uri": "https://api.sketchfab.com/v3/tags/commission"
+        },
+        {
+            "name": "furry",
+            "slug": "furry",
+            "uri": "https://api.sketchfab.com/v3/tags/furry"
+        },
+        {
+            "name": "Umbreon",
+            "slug": "umbreon",
+            "uri": "https://api.sketchfab.com/v3/tags/umbreon"
+        },
+        {
+            "name": "sylveon",
+            "slug": "sylveon",
+            "uri": "https://api.sketchfab.com/v3/tags/sylveon"
+        },
+        {
+            "name": "anthromorphic",
+            "slug": "anthromorphic",
+            "uri": "https://api.sketchfab.com/v3/tags/anthromorphic"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6bcecbe30e8848cfb23fdd0d1a3c85db",
+                "width": 1920,
+                "height": 1080,
+                "size": 94389,
+                "url": "https://media.sketchfab.com/models/0537a9cf7d794a029f34c10ae5dd09f0/thumbnails/0e26e46a14c6473f86813f4446477cb4/4d093a83ae4f4951b22a874a193327a8.jpeg"
+            },
+            {
+                "uid": "7f849f5a0bb34e6ba0273a0e931287bd",
+                "width": 1024,
+                "height": 576,
+                "size": 34487,
+                "url": "https://media.sketchfab.com/models/0537a9cf7d794a029f34c10ae5dd09f0/thumbnails/0e26e46a14c6473f86813f4446477cb4/6ff5df4fb10c4d35abe0966597003f13.jpeg"
+            },
+            {
+                "uid": "a5306b19e4bb4e85b134f68e930d87b7",
+                "width": 720,
+                "height": 405,
+                "size": 20654,
+                "url": "https://media.sketchfab.com/models/0537a9cf7d794a029f34c10ae5dd09f0/thumbnails/0e26e46a14c6473f86813f4446477cb4/d5826d8242954b96a9c74b81e3df7d73.jpeg"
+            },
+            {
+                "uid": "94924811d0d14583a1f931d68782a722",
+                "width": 256,
+                "height": 144,
+                "size": 4562,
+                "url": "https://media.sketchfab.com/models/0537a9cf7d794a029f34c10ae5dd09f0/thumbnails/0e26e46a14c6473f86813f4446477cb4/b0c428610562438d8107b2d33b396e1e.jpeg"
+            },
+            {
+                "uid": "8c8dfbecd4e6440fa75b2cc63d2ac68b",
+                "width": 64,
+                "height": 36,
+                "size": 1025,
+                "url": "https://media.sketchfab.com/models/0537a9cf7d794a029f34c10ae5dd09f0/thumbnails/0e26e46a14c6473f86813f4446477cb4/14d0230105744e5d9807e2a6b8ffd6e1.jpeg"
+            }
+        ]
+    },
+    "uid": "0537a9cf7d794a029f34c10ae5dd09f0",
+    "uri": "https://api.sketchfab.com/v3/models/0537a9cf7d794a029f34c10ae5dd09f0",
+    "user": {
+        "uid": "2b98d2f5c5ce4bbfa3c1562a608778a3",
+        "username": "UmbyZ",
+        "displayName": "UmbyZ",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/UmbyZ",
+        "avatar": {
+            "uid": "d714f7f011494a979da598ab52597de0",
+            "uri": "https://api.sketchfab.com/v3/avatars/d714f7f011494a979da598ab52597de0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2283,
+                    "url": "https://media.sketchfab.com/avatars/d714f7f011494a979da598ab52597de0/b04f1aa0e34248bfb396f900c0d0d216.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4566,
+                    "url": "https://media.sketchfab.com/avatars/d714f7f011494a979da598ab52597de0/a62e73b6d5ef44828266b4584d475f7d.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12487,
+                    "url": "https://media.sketchfab.com/avatars/d714f7f011494a979da598ab52597de0/095b282d4c7e487590e8a5d215a13f7a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 14840,
+                    "url": "https://media.sketchfab.com/avatars/d714f7f011494a979da598ab52597de0/9399357bb90d4f91af7e35c366b9c335.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2b98d2f5c5ce4bbfa3c1562a608778a3"
+    },
+    "vertexCount": 79527,
+    "viewCount": 31,
+    "viewerUrl": "https://sketchfab.com/3d-models/pix-and-lucky-0537a9cf7d794a029f34c10ae5dd09f0",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Artstyle practise by making these 2 goobers\n\nOCS BY ODEKOYMA ON X",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0537a9cf7d794a029f34c10ae5dd09f0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T16:47:49.939169",
+    "pbrType": null,
+    "textureCount": 6,
+    "materialCount": 6
+}

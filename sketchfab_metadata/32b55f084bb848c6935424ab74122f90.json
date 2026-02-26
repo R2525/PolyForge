@@ -1,0 +1,185 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T02:14:01.703046",
+    "embedUrl": "https://sketchfab.com/models/32b55f084bb848c6935424ab74122f90/embed",
+    "faceCount": 10308,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Stylized Viking with an orc head (Low Poly)",
+    "publishedAt": "2026-02-24T02:26:48.207631",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "gaming",
+            "slug": "gaming",
+            "uri": "https://api.sketchfab.com/v3/tags/gaming"
+        },
+        {
+            "name": "orc",
+            "slug": "orc",
+            "uri": "https://api.sketchfab.com/v3/tags/orc"
+        },
+        {
+            "name": "retro",
+            "slug": "retro",
+            "uri": "https://api.sketchfab.com/v3/tags/retro"
+        },
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "Vikings",
+            "slug": "vikings",
+            "uri": "https://api.sketchfab.com/v3/tags/vikings"
+        },
+        {
+            "name": "retrogames",
+            "slug": "retrogames",
+            "uri": "https://api.sketchfab.com/v3/tags/retrogames"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e166f3c5e4cf4d14bd599c9352f67fc7",
+                "width": 1920,
+                "height": 1080,
+                "size": 84284,
+                "url": "https://media.sketchfab.com/models/32b55f084bb848c6935424ab74122f90/thumbnails/ca82c221f80e4d988cc4540211d75d56/e9abad69dac24b85abd779c5546f0596.jpeg"
+            },
+            {
+                "uid": "7a0ebdaefc3a4a6eaff726a61632cef1",
+                "width": 1024,
+                "height": 576,
+                "size": 25519,
+                "url": "https://media.sketchfab.com/models/32b55f084bb848c6935424ab74122f90/thumbnails/ca82c221f80e4d988cc4540211d75d56/9b6f038b8f1f4001afbe4448483727e5.jpeg"
+            },
+            {
+                "uid": "9acde913036b439996b3e68fdf099e33",
+                "width": 720,
+                "height": 405,
+                "size": 15367,
+                "url": "https://media.sketchfab.com/models/32b55f084bb848c6935424ab74122f90/thumbnails/ca82c221f80e4d988cc4540211d75d56/0b571ff6546f4dad8fd7361841411871.jpeg"
+            },
+            {
+                "uid": "3d8ecd47304544bb87577c33188e8f7c",
+                "width": 256,
+                "height": 144,
+                "size": 3544,
+                "url": "https://media.sketchfab.com/models/32b55f084bb848c6935424ab74122f90/thumbnails/ca82c221f80e4d988cc4540211d75d56/459701e3ae4a46dc83e11566c335f7ee.jpeg"
+            },
+            {
+                "uid": "bfddb53ec82647a18e737472b1220c6d",
+                "width": 64,
+                "height": 36,
+                "size": 1031,
+                "url": "https://media.sketchfab.com/models/32b55f084bb848c6935424ab74122f90/thumbnails/ca82c221f80e4d988cc4540211d75d56/d2f4e087c0cb4acc98c9d7eeb3d1a4b1.jpeg"
+            }
+        ]
+    },
+    "uid": "32b55f084bb848c6935424ab74122f90",
+    "uri": "https://api.sketchfab.com/v3/models/32b55f084bb848c6935424ab74122f90",
+    "user": {
+        "uid": "950bf80c7abe48d3905f18abdafe468a",
+        "username": "bruno-bricchi",
+        "displayName": "Bruno Bricchi",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/bruno-bricchi",
+        "avatar": {
+            "uid": "dc994b78642d4b90974dbc4cd5bbc991",
+            "uri": "https://api.sketchfab.com/v3/avatars/dc994b78642d4b90974dbc4cd5bbc991",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2273,
+                    "url": "https://media.sketchfab.com/avatars/dc994b78642d4b90974dbc4cd5bbc991/5de5faece5d84ffc854dd406752a2366.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4767,
+                    "url": "https://media.sketchfab.com/avatars/dc994b78642d4b90974dbc4cd5bbc991/2ca9c23bc30e42009c2b5404254d1bb4.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 15490,
+                    "url": "https://media.sketchfab.com/avatars/dc994b78642d4b90974dbc4cd5bbc991/7a82e1d0877b4d3e96a6e90984971bde.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 18894,
+                    "url": "https://media.sketchfab.com/avatars/dc994b78642d4b90974dbc4cd5bbc991/9e210459f80a4de49936975495b16d8b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/950bf80c7abe48d3905f18abdafe468a"
+    },
+    "vertexCount": 5748,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-viking-with-an-orc-head-low-poly-32b55f084bb848c6935424ab74122f90",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A low-poly, stylized Viking warrior holding a severed Orc head. This model features a clean silhouette and vibrant colors",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/32b55f084bb848c6935424ab74122f90/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T02:26:48.376773",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 26
+}

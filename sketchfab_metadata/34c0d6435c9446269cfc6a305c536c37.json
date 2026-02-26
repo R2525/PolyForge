@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-10T03:28:48.532379",
+    "embedUrl": "https://sketchfab.com/models/34c0d6435c9446269cfc6a305c536c37/embed",
+    "faceCount": 5100,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Cherry_blossom_tree",
+    "publishedAt": "2026-02-10T03:31:03.371050",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "trees",
+            "slug": "trees",
+            "uri": "https://api.sketchfab.com/v3/tags/trees"
+        },
+        {
+            "name": "cherryblossom",
+            "slug": "cherryblossom",
+            "uri": "https://api.sketchfab.com/v3/tags/cherryblossom"
+        },
+        {
+            "name": "cherrytree",
+            "slug": "cherrytree",
+            "uri": "https://api.sketchfab.com/v3/tags/cherrytree"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "3dtreelowpoly",
+            "slug": "3dtreelowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/3dtreelowpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2b16427168734395a201147197d3d3cf",
+                "width": 1920,
+                "height": 1080,
+                "size": 50087,
+                "url": "https://media.sketchfab.com/models/34c0d6435c9446269cfc6a305c536c37/thumbnails/e9e29cbe8f594fc3b931c03d65b8efe5/baa4013105dd4c2d8c8b37ff2f895761.jpeg"
+            },
+            {
+                "uid": "5735b8aa6da443ae8dc76a2d675074cf",
+                "width": 1024,
+                "height": 576,
+                "size": 16549,
+                "url": "https://media.sketchfab.com/models/34c0d6435c9446269cfc6a305c536c37/thumbnails/e9e29cbe8f594fc3b931c03d65b8efe5/0b4fd62eba914939b010af76b97cc91f.jpeg"
+            },
+            {
+                "uid": "521d719f4aef4f70ad0bc5adb5c75514",
+                "width": 720,
+                "height": 405,
+                "size": 9455,
+                "url": "https://media.sketchfab.com/models/34c0d6435c9446269cfc6a305c536c37/thumbnails/e9e29cbe8f594fc3b931c03d65b8efe5/de4cd25a34614be1824fbf5c5c2e73ff.jpeg"
+            },
+            {
+                "uid": "d84ca41b78fc448491cc0e1ae16c24d3",
+                "width": 256,
+                "height": 144,
+                "size": 2061,
+                "url": "https://media.sketchfab.com/models/34c0d6435c9446269cfc6a305c536c37/thumbnails/e9e29cbe8f594fc3b931c03d65b8efe5/574f83576c4e49f79c1dc96479ccaacd.jpeg"
+            },
+            {
+                "uid": "d314236fa23d4c18846fa381bb0aca0b",
+                "width": 64,
+                "height": 36,
+                "size": 812,
+                "url": "https://media.sketchfab.com/models/34c0d6435c9446269cfc6a305c536c37/thumbnails/e9e29cbe8f594fc3b931c03d65b8efe5/2741fc4ef4bd4cfcba8c91264581d953.jpeg"
+            }
+        ]
+    },
+    "uid": "34c0d6435c9446269cfc6a305c536c37",
+    "uri": "https://api.sketchfab.com/v3/models/34c0d6435c9446269cfc6a305c536c37",
+    "user": {
+        "uid": "1757acac9b17490e89b49c7a21f8f3e8",
+        "username": "brendanus.synder.1",
+        "displayName": "bumble blurt",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/brendanus.synder.1",
+        "avatar": {
+            "uid": "d378d960c957490fb4121ba66fdd92cb",
+            "uri": "https://api.sketchfab.com/v3/avatars/d378d960c957490fb4121ba66fdd92cb",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2383,
+                    "url": "https://media.sketchfab.com/avatars/d378d960c957490fb4121ba66fdd92cb/d382c44c928c46d6876d8eb7779354e2.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4809,
+                    "url": "https://media.sketchfab.com/avatars/d378d960c957490fb4121ba66fdd92cb/a2035ab2c99e4573af83948c1a13d857.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14804,
+                    "url": "https://media.sketchfab.com/avatars/d378d960c957490fb4121ba66fdd92cb/319baa1d12e540cca8e359efa533aeb6.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17988,
+                    "url": "https://media.sketchfab.com/avatars/d378d960c957490fb4121ba66fdd92cb/add8bfd6688340b5aa08677e3aa67ffb.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1757acac9b17490e89b49c7a21f8f3e8"
+    },
+    "vertexCount": 3542,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/cherry-blossom-tree-34c0d6435c9446269cfc6a305c536c37",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a low poly tree. Instead of my voxel models, this is low poly. Its good for props, or just display. You can also use it for games. sorry for the long time.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/34c0d6435c9446269cfc6a305c536c37/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-10T03:33:53.548934",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 5
+}

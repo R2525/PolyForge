@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T07:31:47.852145",
+    "embedUrl": "https://sketchfab.com/models/063166750c14438d837c456bbc5d3a7b/embed",
+    "faceCount": 32574,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "A boy with outstretched arms",
+    "publishedAt": "2026-02-19T07:31:59.113583",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6bbb4cd0fea14ea487b7e0a73d927cc1",
+                "width": 1920,
+                "height": 1080,
+                "size": 54113,
+                "url": "https://media.sketchfab.com/models/063166750c14438d837c456bbc5d3a7b/thumbnails/4eee504f04b24bebbc4972a3e3b2549e/d6dcd33f22be4324ace85bca72a27752.jpeg"
+            },
+            {
+                "uid": "651c74ca732544099582bca8c7e531c8",
+                "width": 1024,
+                "height": 576,
+                "size": 18110,
+                "url": "https://media.sketchfab.com/models/063166750c14438d837c456bbc5d3a7b/thumbnails/4eee504f04b24bebbc4972a3e3b2549e/59d307061f3040aaa0e50921d7253fb9.jpeg"
+            },
+            {
+                "uid": "1fa9c6f195cb44e2ac334138ac357162",
+                "width": 720,
+                "height": 405,
+                "size": 10549,
+                "url": "https://media.sketchfab.com/models/063166750c14438d837c456bbc5d3a7b/thumbnails/4eee504f04b24bebbc4972a3e3b2549e/bbfc55c1be0b4b44ad0d647150a98b64.jpeg"
+            },
+            {
+                "uid": "f58b2e3f81374e81a66910701d3e32eb",
+                "width": 256,
+                "height": 144,
+                "size": 2430,
+                "url": "https://media.sketchfab.com/models/063166750c14438d837c456bbc5d3a7b/thumbnails/4eee504f04b24bebbc4972a3e3b2549e/a596f3c992ec4dbf96e5f300b2751f43.jpeg"
+            },
+            {
+                "uid": "0da19dcba2764988a88da1058fda9468",
+                "width": 64,
+                "height": 36,
+                "size": 831,
+                "url": "https://media.sketchfab.com/models/063166750c14438d837c456bbc5d3a7b/thumbnails/4eee504f04b24bebbc4972a3e3b2549e/9d283bdadfed4eafad1cdbb304091fb2.jpeg"
+            }
+        ]
+    },
+    "uid": "063166750c14438d837c456bbc5d3a7b",
+    "uri": "https://api.sketchfab.com/v3/models/063166750c14438d837c456bbc5d3a7b",
+    "user": {
+        "uid": "0f93840c6864481399375d0b7a36dd1b",
+        "username": "vishalhirrtikathome",
+        "displayName": "Marvel Jesus",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/vishalhirrtikathome",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f93840c6864481399375d0b7a36dd1b"
+    },
+    "vertexCount": 16283,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/a-boy-with-outstretched-arms-063166750c14438d837c456bbc5d3a7b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/063166750c14438d837c456bbc5d3a7b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T07:35:18.452265",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

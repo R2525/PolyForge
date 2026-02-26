@@ -1,0 +1,241 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-05T15:02:10.404841",
+    "embedUrl": "https://sketchfab.com/models/23d7211ef1dd4c26b57b710d1ff6665f/embed",
+    "faceCount": 588,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "\"Barrel – Low Poly Game Asset\"",
+    "publishedAt": "2026-01-05T15:03:38.606153",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "storage",
+            "slug": "storage",
+            "uri": "https://api.sketchfab.com/v3/tags/storage"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "barrel",
+            "slug": "barrel",
+            "uri": "https://api.sketchfab.com/v3/tags/barrel"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f520dafb1c1c4383a39784ecf3f025cb",
+                "width": 1920,
+                "height": 1080,
+                "size": 52026,
+                "url": "https://media.sketchfab.com/models/23d7211ef1dd4c26b57b710d1ff6665f/thumbnails/24a10f25b042414faaa8af51a65de37b/54b7a9003b034192805efe5b2312a61b.jpeg"
+            },
+            {
+                "uid": "67ef3be89a934727864448909ea93bff",
+                "width": 1024,
+                "height": 576,
+                "size": 18140,
+                "url": "https://media.sketchfab.com/models/23d7211ef1dd4c26b57b710d1ff6665f/thumbnails/24a10f25b042414faaa8af51a65de37b/5875c728f8f04c1f86ee3dea05d9531b.jpeg"
+            },
+            {
+                "uid": "54ed75757df7474c9a3768c77bdfc9b0",
+                "width": 720,
+                "height": 405,
+                "size": 10982,
+                "url": "https://media.sketchfab.com/models/23d7211ef1dd4c26b57b710d1ff6665f/thumbnails/24a10f25b042414faaa8af51a65de37b/f19d2ab8ee7c441cb336fd214b1907b5.jpeg"
+            },
+            {
+                "uid": "d0e52a6e9f8947a485d167b72a80bb2e",
+                "width": 256,
+                "height": 144,
+                "size": 2875,
+                "url": "https://media.sketchfab.com/models/23d7211ef1dd4c26b57b710d1ff6665f/thumbnails/24a10f25b042414faaa8af51a65de37b/dd87b4c14dd9457fb1b53a4529efb60e.jpeg"
+            },
+            {
+                "uid": "509300d286104277999bfbb3eba06b06",
+                "width": 64,
+                "height": 36,
+                "size": 993,
+                "url": "https://media.sketchfab.com/models/23d7211ef1dd4c26b57b710d1ff6665f/thumbnails/24a10f25b042414faaa8af51a65de37b/f45b3a4c06814dc4b2f93e0500daeb5c.jpeg"
+            }
+        ]
+    },
+    "uid": "23d7211ef1dd4c26b57b710d1ff6665f",
+    "uri": "https://api.sketchfab.com/v3/models/23d7211ef1dd4c26b57b710d1ff6665f",
+    "user": {
+        "uid": "be978aa01bd94789977dcfa9ae056406",
+        "username": "HafeezAhmed",
+        "displayName": "Hafeez Ahmed",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/HafeezAhmed",
+        "avatar": {
+            "uid": "50a2453b42d0415caa53d4a90d7eba08",
+            "uri": "https://api.sketchfab.com/v3/avatars/50a2453b42d0415caa53d4a90d7eba08",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1969,
+                    "url": "https://media.sketchfab.com/avatars/50a2453b42d0415caa53d4a90d7eba08/9f25ce87fa954e8491df918deb3229bc.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3295,
+                    "url": "https://media.sketchfab.com/avatars/50a2453b42d0415caa53d4a90d7eba08/ec849bb12fe24380b01100bc82f3e59d.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 7582,
+                    "url": "https://media.sketchfab.com/avatars/50a2453b42d0415caa53d4a90d7eba08/d6248207cdd74d7fb7f85ba93acf5d31.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 8748,
+                    "url": "https://media.sketchfab.com/avatars/50a2453b42d0415caa53d4a90d7eba08/c266296e281847ba82f063a3d90d4145.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/be978aa01bd94789977dcfa9ae056406"
+    },
+    "vertexCount": 352,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/barrel-low-poly-game-asset-23d7211ef1dd4c26b57b710d1ff6665f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is a Barrel 3D model, suitable for use as an environment prop in games, animations, and real-time applications.\n\nThe model features clean geometry and optimized topology, making it ideal for game engines, VR/AR, and cinematic scenes.\n\nThis asset can be used in medieval, industrial, fantasy, or modern environments, depending on your scene setup.\n\nIncluded parts:\n\nBarrel body\n\nTop lid\n\nBottom base\n\nCreated using Blender.",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/23d7211ef1dd4c26b57b710d1ff6665f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-05T15:03:38.988249",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 2
+}

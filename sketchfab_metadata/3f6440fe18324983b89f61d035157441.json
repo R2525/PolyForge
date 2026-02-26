@@ -1,0 +1,197 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-13T13:47:36.490681",
+    "embedUrl": "https://sketchfab.com/models/3f6440fe18324983b89f61d035157441/embed",
+    "faceCount": 1790048,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Stylized Tavern Table",
+    "publishedAt": "2026-01-13T13:49:54.001659",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "tavern",
+            "slug": "tavern",
+            "uri": "https://api.sketchfab.com/v3/tags/tavern"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8d886973e4754a53ad01053f2954e9f6",
+                "width": 1920,
+                "height": 1080,
+                "size": 56030,
+                "url": "https://media.sketchfab.com/models/3f6440fe18324983b89f61d035157441/thumbnails/9e466e6c564c4beca71cf038ee2058a4/125f4c3c8ac54fc2a9e71128d0fe9283.jpeg"
+            },
+            {
+                "uid": "a7cc0db3221c44cea31c517cc41a53d5",
+                "width": 1024,
+                "height": 576,
+                "size": 19753,
+                "url": "https://media.sketchfab.com/models/3f6440fe18324983b89f61d035157441/thumbnails/9e466e6c564c4beca71cf038ee2058a4/8deec5c583d44a52b779dbd2999cf7e0.jpeg"
+            },
+            {
+                "uid": "e7b7d355638649508942f2886b4c903d",
+                "width": 720,
+                "height": 405,
+                "size": 11255,
+                "url": "https://media.sketchfab.com/models/3f6440fe18324983b89f61d035157441/thumbnails/9e466e6c564c4beca71cf038ee2058a4/00f3657f80d4425cb755bc7dfef4c8a7.jpeg"
+            },
+            {
+                "uid": "ee2ec043241a44e692d49ad47bcee7c3",
+                "width": 256,
+                "height": 144,
+                "size": 2743,
+                "url": "https://media.sketchfab.com/models/3f6440fe18324983b89f61d035157441/thumbnails/9e466e6c564c4beca71cf038ee2058a4/01453dbfe89d4a8f9908129a12e5601b.jpeg"
+            },
+            {
+                "uid": "8129e234d492400fbfc61e423c6f6015",
+                "width": 64,
+                "height": 36,
+                "size": 925,
+                "url": "https://media.sketchfab.com/models/3f6440fe18324983b89f61d035157441/thumbnails/9e466e6c564c4beca71cf038ee2058a4/ca212c41554d4cbb929b60868929eceb.jpeg"
+            }
+        ]
+    },
+    "uid": "3f6440fe18324983b89f61d035157441",
+    "uri": "https://api.sketchfab.com/v3/models/3f6440fe18324983b89f61d035157441",
+    "user": {
+        "uid": "1cb61fbf80eb4a6ea770932272322a15",
+        "username": "AhmadGujjar",
+        "displayName": "Ahmad Gujjar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/AhmadGujjar",
+        "avatar": {
+            "uid": "995cb8386e4c44c1b483f8f38fbab199",
+            "uri": "https://api.sketchfab.com/v3/avatars/995cb8386e4c44c1b483f8f38fbab199",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1136,
+                    "url": "https://media.sketchfab.com/avatars/995cb8386e4c44c1b483f8f38fbab199/aa476fdcc94e46dfa10d9354ae0818ae.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1707,
+                    "url": "https://media.sketchfab.com/avatars/995cb8386e4c44c1b483f8f38fbab199/64a4a9fea5e64f98bfc8e9f1dbdfd037.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4071,
+                    "url": "https://media.sketchfab.com/avatars/995cb8386e4c44c1b483f8f38fbab199/1e112de2c6b74b39be862466315d62d0.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4719,
+                    "url": "https://media.sketchfab.com/avatars/995cb8386e4c44c1b483f8f38fbab199/87bec86cbffd4e1782cb7c3a5361cd46.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1cb61fbf80eb4a6ea770932272322a15"
+    },
+    "vertexCount": 896830,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-tavern-table-3f6440fe18324983b89f61d035157441",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A high-quality, Stylized Tavern Table perfect for fantasy RPGs, medieval environments, and stylized adventure games. This asset features a unique, hand-sculpted look with ensuring that your environments look rich and detailed while remaining highly optimized for real-time engines.\n\nThe model is built with a focus on silhouette and artistic charm, making it an ideal prop for taverns, rustic cottages, or town squares.",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/3f6440fe18324983b89f61d035157441/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-13T13:49:54.298533",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 11
+}

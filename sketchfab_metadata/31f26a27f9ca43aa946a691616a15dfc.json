@@ -1,0 +1,175 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-15T21:39:29.866465",
+    "embedUrl": "https://sketchfab.com/models/31f26a27f9ca43aa946a691616a15dfc/embed",
+    "faceCount": 890066,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "12th Century Frosterley Marble Font, Redmarshall",
+    "publishedAt": "2025-12-15T21:48:13.926550",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "font",
+            "slug": "font",
+            "uri": "https://api.sketchfab.com/v3/tags/font"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "12th-century",
+            "slug": "12th-century",
+            "uri": "https://api.sketchfab.com/v3/tags/12th-century"
+        },
+        {
+            "name": "county-durham",
+            "slug": "county-durham",
+            "uri": "https://api.sketchfab.com/v3/tags/county-durham"
+        },
+        {
+            "name": "church-architecture-photogrammetry",
+            "slug": "church-architecture-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/church-architecture-photogrammetry"
+        },
+        {
+            "name": "marble-sculpture",
+            "slug": "marble-sculpture",
+            "uri": "https://api.sketchfab.com/v3/tags/marble-sculpture"
+        },
+        {
+            "name": "frosterley",
+            "slug": "frosterley",
+            "uri": "https://api.sketchfab.com/v3/tags/frosterley"
+        },
+        {
+            "name": "redmarshall",
+            "slug": "redmarshall",
+            "uri": "https://api.sketchfab.com/v3/tags/redmarshall"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5f85d675187b4a50984f9c76501da87a",
+                "width": 1920,
+                "height": 1080,
+                "size": 270648,
+                "url": "https://media.sketchfab.com/models/31f26a27f9ca43aa946a691616a15dfc/thumbnails/7e1569749fa64cfdb23d0b5ce633a397/0f63ab42d0674f7997a613cc380032f4.jpeg"
+            },
+            {
+                "uid": "ca4a821fe43b481a8aee63ab9632ccf9",
+                "width": 1024,
+                "height": 576,
+                "size": 41745,
+                "url": "https://media.sketchfab.com/models/31f26a27f9ca43aa946a691616a15dfc/thumbnails/7e1569749fa64cfdb23d0b5ce633a397/51557ef08510444390cdcc70d00f8e54.jpeg"
+            },
+            {
+                "uid": "25e3819bf2734c8aaf5066aaf97ecb76",
+                "width": 720,
+                "height": 405,
+                "size": 19819,
+                "url": "https://media.sketchfab.com/models/31f26a27f9ca43aa946a691616a15dfc/thumbnails/7e1569749fa64cfdb23d0b5ce633a397/effe0248ea774857a005d458a56073bd.jpeg"
+            },
+            {
+                "uid": "3b0d92dca757400dad004b801f48a47a",
+                "width": 256,
+                "height": 144,
+                "size": 3296,
+                "url": "https://media.sketchfab.com/models/31f26a27f9ca43aa946a691616a15dfc/thumbnails/7e1569749fa64cfdb23d0b5ce633a397/c6fab86c123541b98a5d7829af3c5947.jpeg"
+            },
+            {
+                "uid": "c1cf56cc0f4848bcbe3b40e24691c3ca",
+                "width": 64,
+                "height": 36,
+                "size": 913,
+                "url": "https://media.sketchfab.com/models/31f26a27f9ca43aa946a691616a15dfc/thumbnails/7e1569749fa64cfdb23d0b5ce633a397/8a1256cfc84e440b816c7b3b0436825b.jpeg"
+            }
+        ]
+    },
+    "uid": "31f26a27f9ca43aa946a691616a15dfc",
+    "uri": "https://api.sketchfab.com/v3/models/31f26a27f9ca43aa946a691616a15dfc",
+    "user": {
+        "uid": "6216b053a38d4accb19a1b9f7ac5c6eb",
+        "username": "TTHG2005",
+        "displayName": "TTHG",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/TTHG2005",
+        "avatar": {
+            "uid": "984df3382f844ac5bb59becf965aea3a",
+            "uri": "https://api.sketchfab.com/v3/avatars/984df3382f844ac5bb59becf965aea3a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1153,
+                    "url": "https://media.sketchfab.com/avatars/984df3382f844ac5bb59becf965aea3a/b284874d038945ba95f16c3dc49dde08.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1639,
+                    "url": "https://media.sketchfab.com/avatars/984df3382f844ac5bb59becf965aea3a/2537c9aa98614cdc8c42eaac8c032e48.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3817,
+                    "url": "https://media.sketchfab.com/avatars/984df3382f844ac5bb59becf965aea3a/5f2ab9ef72664e5ea4680db860477a5c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4301,
+                    "url": "https://media.sketchfab.com/avatars/984df3382f844ac5bb59becf965aea3a/294200e7228c4b37810d5a229ead4b48.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6216b053a38d4accb19a1b9f7ac5c6eb"
+    },
+    "vertexCount": 446334,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/12th-century-frosterley-marble-font-redmarshall-31f26a27f9ca43aa946a691616a15dfc",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "C12th Century Frosterley Marble Font from St. Cuthbert's Church Redmarshall, County Durham.\n\nThis font is significant, being sculpted out of a single large block of Frosterley marble from Weardale. This distinctive limestone is characterised by its dark grey colour (black when polished) and it’s high content of white fossils of extinct prehistoric corals and marine creatures. The font has an overall height of 0.99 m and consists of a circular basin (of outer diameter 0.68 m) on a shaft and moulded base. \n\nThe font was likely commissioned during the time of Hugh de Puiset, Bishop of Durham from 1153 to 1196 AD. He was a significant figure, known for his wealth, power, and his patronage of the arts, particularly architecture. He was responsible for the building of Elvet Bridge in Durham, the Galilee Chapel at Durham Catherdral, Auckland Castle and many other notable buildings. The Frosterley marble alter slabs (or mensas) at both nearby Grindon and Elwick churches likely date from the same period and patronage.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/31f26a27f9ca43aa946a691616a15dfc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-17T11:52:09.891294",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,66 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Vibrant Fantasy",
+    "top_genres": [
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "3D Render",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Mossy",
+        "Cracked"
+    ],
+    "tags": [
+        "wooden",
+        "barrel",
+        "storage",
+        "furniture",
+        "home"
+    ],
+    "model_id_full": "2ae57bfdf77145299b2af74d01d2f6da_Wooden barrel",
+    "sketchfab_id": "2ae57bfdf77145299b2af74d01d2f6da",
+    "asset_name": "Wooden barrel"
+}

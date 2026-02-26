@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-12T09:35:55.196193",
+    "embedUrl": "https://sketchfab.com/models/2e7869260ad04c7abcb5cfec9d5fe55a/embed",
+    "faceCount": 488640,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+    },
+    "likeCount": 3,
+    "name": "Disch Brooch",
+    "publishedAt": "2026-02-05T13:33:04.598171",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "jewellery",
+            "slug": "jewellery",
+            "uri": "https://api.sketchfab.com/v3/tags/jewellery"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "grave-find",
+            "slug": "grave-find",
+            "uri": "https://api.sketchfab.com/v3/tags/grave-find"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f67bdf6f4561422986c1ced1d9cd37d3",
+                "width": 1920,
+                "height": 1080,
+                "size": 238525,
+                "url": "https://media.sketchfab.com/models/2e7869260ad04c7abcb5cfec9d5fe55a/thumbnails/b601fe798d6a43d49115fecd59d8c033/28f70ec16d744ea6a18ef8655049c7ba.jpeg"
+            },
+            {
+                "uid": "5bea76378c7f46c4a3cf25f46c5da70f",
+                "width": 1024,
+                "height": 576,
+                "size": 71706,
+                "url": "https://media.sketchfab.com/models/2e7869260ad04c7abcb5cfec9d5fe55a/thumbnails/b601fe798d6a43d49115fecd59d8c033/bc7353e0e6b8416d81805557dac59e56.jpeg"
+            },
+            {
+                "uid": "444895ba130e478c99bb4e51138b2f2d",
+                "width": 720,
+                "height": 405,
+                "size": 38549,
+                "url": "https://media.sketchfab.com/models/2e7869260ad04c7abcb5cfec9d5fe55a/thumbnails/b601fe798d6a43d49115fecd59d8c033/eb022fc0af534fc59f4a41f980425282.jpeg"
+            },
+            {
+                "uid": "eb6a221f81804488b12b85ca1ffec09a",
+                "width": 256,
+                "height": 144,
+                "size": 6579,
+                "url": "https://media.sketchfab.com/models/2e7869260ad04c7abcb5cfec9d5fe55a/thumbnails/b601fe798d6a43d49115fecd59d8c033/450a476fd0884cf0921253325146569c.jpeg"
+            },
+            {
+                "uid": "d4593d448fce4ce2a62f2db6d569b246",
+                "width": 64,
+                "height": 36,
+                "size": 1234,
+                "url": "https://media.sketchfab.com/models/2e7869260ad04c7abcb5cfec9d5fe55a/thumbnails/b601fe798d6a43d49115fecd59d8c033/4c9d303488444c02af5e178800a6420a.jpeg"
+            }
+        ]
+    },
+    "uid": "2e7869260ad04c7abcb5cfec9d5fe55a",
+    "uri": "https://api.sketchfab.com/v3/models/2e7869260ad04c7abcb5cfec9d5fe55a",
+    "user": {
+        "uid": "9a364f335b9d4c17b59e5aa03ddc69d2",
+        "username": "landessammlungen-noe",
+        "displayName": "Landessammlungen Niederösterreich",
+        "account": "prem",
+        "profileUrl": "https://sketchfab.com/landessammlungen-noe",
+        "avatar": {
+            "uid": "a371dd4670814f9785326b41b544db1d",
+            "uri": "https://api.sketchfab.com/v3/avatars/a371dd4670814f9785326b41b544db1d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 789,
+                    "url": "https://media.sketchfab.com/avatars/a371dd4670814f9785326b41b544db1d/a14524c58ef44f62af4d06aaf0ed3f29.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1075,
+                    "url": "https://media.sketchfab.com/avatars/a371dd4670814f9785326b41b544db1d/d6e29de538864cddb0b18dba482cdf50.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1683,
+                    "url": "https://media.sketchfab.com/avatars/a371dd4670814f9785326b41b544db1d/819cee54ac9e4fd4b9b321854298c3c7.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2172,
+                    "url": "https://media.sketchfab.com/avatars/a371dd4670814f9785326b41b544db1d/f0085c684d114b61b9b73c855f8276b7.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9a364f335b9d4c17b59e5aa03ddc69d2"
+    },
+    "vertexCount": 244318,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/disch-brooch-2e7869260ad04c7abcb5cfec9d5fe55a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "**Collection:** Prehistory and Historical Archeology Dept.\n\n**Inv.-No.:** [UF-8267.2](https://www.online.landessammlungen-noe.at/objects/229507)\n\n**Material:** Copper\n\n**Dimensions:** 2,1 cm\n\n**Dating:** 800 - 975 CE\n\nA circular enamel disc brooch. The brooch was crafted using a method known as metal casting.  The edge is elevated and embellished with pearls. The main motif features the Pelta cross in a colour scheme of blue, red and light green, and was created through the utilisation of the enamel technique.\n\nThis object was digitized through the ‘Kulturerbe digital’ program of the Federal Ministry for Arts, Culture, Public Service and Sport.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/2e7869260ad04c7abcb5cfec9d5fe55a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-05T13:33:04.782142",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

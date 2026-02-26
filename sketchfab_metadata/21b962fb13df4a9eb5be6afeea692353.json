@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T18:08:03.978618",
+    "embedUrl": "https://sketchfab.com/models/21b962fb13df4a9eb5be6afeea692353/embed",
+    "faceCount": 3144,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "IcE.❎.HammeR.SaturN.♄.",
+    "publishedAt": "2026-02-23T18:19:20.485150",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "hammer",
+            "slug": "hammer",
+            "uri": "https://api.sketchfab.com/v3/tags/hammer"
+        },
+        {
+            "name": "saturn",
+            "slug": "saturn",
+            "uri": "https://api.sketchfab.com/v3/tags/saturn"
+        },
+        {
+            "name": "melee",
+            "slug": "melee",
+            "uri": "https://api.sketchfab.com/v3/tags/melee"
+        },
+        {
+            "name": "melee weapon",
+            "slug": "melee-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/melee-weapon"
+        },
+        {
+            "name": "magicweapon",
+            "slug": "magicweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/magicweapon"
+        },
+        {
+            "name": "stylizedweapon",
+            "slug": "stylizedweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedweapon"
+        },
+        {
+            "name": "hammers",
+            "slug": "hammers",
+            "uri": "https://api.sketchfab.com/v3/tags/hammers"
+        },
+        {
+            "name": "meleeweapon",
+            "slug": "meleeweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/meleeweapon"
+        },
+        {
+            "name": "melee-weapons",
+            "slug": "melee-weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/melee-weapons"
+        },
+        {
+            "name": "lowpolyhammer",
+            "slug": "lowpolyhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolyhammer"
+        },
+        {
+            "name": "fantasyweapon",
+            "slug": "fantasyweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyweapon"
+        },
+        {
+            "name": "ancient-weapon",
+            "slug": "ancient-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient-weapon"
+        },
+        {
+            "name": "iceweapon",
+            "slug": "iceweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/iceweapon"
+        },
+        {
+            "name": "ancient-weapons",
+            "slug": "ancient-weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient-weapons"
+        },
+        {
+            "name": "fantasy-hammer",
+            "slug": "fantasy-hammer",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-hammer"
+        },
+        {
+            "name": "melee-meleeweapon",
+            "slug": "melee-meleeweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/melee-meleeweapon"
+        },
+        {
+            "name": "stylized-hammer",
+            "slug": "stylized-hammer",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-hammer"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "fantasy-weapon",
+            "slug": "fantasy-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-weapon"
+        },
+        {
+            "name": "frozen-axe",
+            "slug": "frozen-axe",
+            "uri": "https://api.sketchfab.com/v3/tags/frozen-axe"
+        },
+        {
+            "name": "weapon-military",
+            "slug": "weapon-military",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon-military"
+        },
+        {
+            "name": "magic-weapon",
+            "slug": "magic-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/magic-weapon"
+        },
+        {
+            "name": "meleeweapon-lowpoly",
+            "slug": "meleeweapon-lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/meleeweapon-lowpoly"
+        },
+        {
+            "name": "stylized-weapons",
+            "slug": "stylized-weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-weapons"
+        },
+        {
+            "name": "stylizedweapons",
+            "slug": "stylizedweapons",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedweapons"
+        },
+        {
+            "name": "fantasyhammer",
+            "slug": "fantasyhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyhammer"
+        },
+        {
+            "name": "stylizedhammer",
+            "slug": "stylizedhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedhammer"
+        },
+        {
+            "name": "copilot",
+            "slug": "copilot",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meleeweapons",
+            "slug": "meleeweapons",
+            "uri": "https://api.sketchfab.com/v3/tags/meleeweapons"
+        },
+        {
+            "name": "lowpoly-hammer",
+            "slug": "lowpoly-hammer",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly-hammer"
+        },
+        {
+            "name": "iceweapons",
+            "slug": "iceweapons",
+            "uri": "https://api.sketchfab.com/v3/tags/iceweapons"
+        },
+        {
+            "name": "ice-hammer",
+            "slug": "ice-hammer",
+            "uri": "https://api.sketchfab.com/v3/tags/ice-hammer"
+        },
+        {
+            "name": "icehammer",
+            "slug": "icehammer",
+            "uri": "https://api.sketchfab.com/v3/tags/icehammer"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "copilot3d",
+            "slug": "copilot3d",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3d"
+        },
+        {
+            "name": "copilotai",
+            "slug": "copilotai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotai"
+        },
+        {
+            "name": "copilotlabs",
+            "slug": "copilotlabs",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotlabs"
+        },
+        {
+            "name": "copilot3dai",
+            "slug": "copilot3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3dai"
+        },
+        {
+            "name": "copilot-models",
+            "slug": "copilot-models",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot-models"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a17509f966a3496881b19ae647cac5b3",
+                "width": 1920,
+                "height": 1080,
+                "size": 235531,
+                "url": "https://media.sketchfab.com/models/21b962fb13df4a9eb5be6afeea692353/thumbnails/df6a0415bd594a5f8aaea0417ce90062/64c385b025b14e86b141cc7608297012.jpeg"
+            },
+            {
+                "uid": "9aab7294c1154308984f4557e585fe64",
+                "width": 1024,
+                "height": 576,
+                "size": 32097,
+                "url": "https://media.sketchfab.com/models/21b962fb13df4a9eb5be6afeea692353/thumbnails/df6a0415bd594a5f8aaea0417ce90062/2a08902e88774bc7999e363d00d0cb43.jpeg"
+            },
+            {
+                "uid": "311e6e6117154d3c9b43015b7fdf91ed",
+                "width": 720,
+                "height": 405,
+                "size": 15675,
+                "url": "https://media.sketchfab.com/models/21b962fb13df4a9eb5be6afeea692353/thumbnails/df6a0415bd594a5f8aaea0417ce90062/69cef9f7ba59402ab418f04c1a83865f.jpeg"
+            },
+            {
+                "uid": "a9585625dd1e488fa21c36ad589a6395",
+                "width": 256,
+                "height": 144,
+                "size": 3312,
+                "url": "https://media.sketchfab.com/models/21b962fb13df4a9eb5be6afeea692353/thumbnails/df6a0415bd594a5f8aaea0417ce90062/bf5040f312594c7e8be7ec1d7572fb0b.jpeg"
+            },
+            {
+                "uid": "6713af6ea40d404a85797adc925d89dd",
+                "width": 64,
+                "height": 36,
+                "size": 1003,
+                "url": "https://media.sketchfab.com/models/21b962fb13df4a9eb5be6afeea692353/thumbnails/df6a0415bd594a5f8aaea0417ce90062/5ad6b7f7ed0143f0af8c1de140e04bc9.jpeg"
+            }
+        ]
+    },
+    "uid": "21b962fb13df4a9eb5be6afeea692353",
+    "uri": "https://api.sketchfab.com/v3/models/21b962fb13df4a9eb5be6afeea692353",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 1571,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/icehammersaturn-21b962fb13df4a9eb5be6afeea692353",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/21b962fb13df4a9eb5be6afeea692353/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:31:09.201310",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

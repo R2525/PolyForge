@@ -1,0 +1,40 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Toon / Anime",
+            "score": 0.95
+        },
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.75
+        }
+    ],
+    "style": "Toon / Anime",
+    "top_styles": [
+        {
+            "name": "Toon / Anime",
+            "score": 0.95
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Modern",
+            "score": 0.75
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "anime",
+        "school uniform",
+        "girl"
+    ]
+}

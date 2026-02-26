@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.4
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        },
+        {
+            "name": "Low Poly",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Cracked",
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Mossy"
+    ],
+    "tags": [
+        "door",
+        "medieval",
+        "stone",
+        "rune",
+        "architectural",
+        "fantasy",
+        "gothic",
+        "3D model"
+    ],
+    "model_id_full": "25b481ea9a3a405a8c4badf95e9943f7_Medieval Stylized Door with Rune",
+    "sketchfab_id": "25b481ea9a3a405a8c4badf95e9943f7",
+    "asset_name": "Medieval Stylized Door with Rune"
+}

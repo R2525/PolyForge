@@ -1,0 +1,301 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-12-01T03:58:44.781210",
+    "embedUrl": "https://sketchfab.com/models/3876eab9a96040b6a0796e05dfb8e322/embed",
+    "faceCount": 2340,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 6,
+    "name": "Demonic Spiked War Mace – Game Ready PBR Weapon",
+    "publishedAt": "2025-12-01T04:04:59.420084",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "demonic",
+            "slug": "demonic",
+            "uri": "https://api.sketchfab.com/v3/tags/demonic"
+        },
+        {
+            "name": "textures",
+            "slug": "textures",
+            "uri": "https://api.sketchfab.com/v3/tags/textures"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "spiked",
+            "slug": "spiked",
+            "uri": "https://api.sketchfab.com/v3/tags/spiked"
+        },
+        {
+            "name": "brutal",
+            "slug": "brutal",
+            "uri": "https://api.sketchfab.com/v3/tags/brutal"
+        },
+        {
+            "name": "mace",
+            "slug": "mace",
+            "uri": "https://api.sketchfab.com/v3/tags/mace"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "first",
+            "slug": "first",
+            "uri": "https://api.sketchfab.com/v3/tags/first"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "soulslike",
+            "slug": "soulslike",
+            "uri": "https://api.sketchfab.com/v3/tags/soulslike"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "painter",
+            "slug": "painter",
+            "uri": "https://api.sketchfab.com/v3/tags/painter"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "war",
+            "slug": "war",
+            "uri": "https://api.sketchfab.com/v3/tags/war"
+        },
+        {
+            "name": "person",
+            "slug": "person",
+            "uri": "https://api.sketchfab.com/v3/tags/person"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "29aad227a96740d58487d08dfd7f0fc8",
+                "width": 1920,
+                "height": 1080,
+                "size": 45053,
+                "url": "https://media.sketchfab.com/models/3876eab9a96040b6a0796e05dfb8e322/thumbnails/7349d40ff4d34d4f879d68836c822264/43ed858dc1304931b2e0beaee8cb463e.jpeg"
+            },
+            {
+                "uid": "0742563ca409493aab9377b6ca5d639b",
+                "width": 1024,
+                "height": 576,
+                "size": 15070,
+                "url": "https://media.sketchfab.com/models/3876eab9a96040b6a0796e05dfb8e322/thumbnails/7349d40ff4d34d4f879d68836c822264/e1a68763a2054a529075fb6b90ce7d9c.jpeg"
+            },
+            {
+                "uid": "a600d8b81eb942328b73e1ba0a89a9ee",
+                "width": 720,
+                "height": 405,
+                "size": 8543,
+                "url": "https://media.sketchfab.com/models/3876eab9a96040b6a0796e05dfb8e322/thumbnails/7349d40ff4d34d4f879d68836c822264/346c0cc1225744419ca2778bdb535d6e.jpeg"
+            },
+            {
+                "uid": "a47fae11910444e9b096d91e108892e8",
+                "width": 256,
+                "height": 144,
+                "size": 2070,
+                "url": "https://media.sketchfab.com/models/3876eab9a96040b6a0796e05dfb8e322/thumbnails/7349d40ff4d34d4f879d68836c822264/bb9b467c22254c558fcca5fefea20e15.jpeg"
+            },
+            {
+                "uid": "d7e053fe7803458bbd40bc46e81f3fc8",
+                "width": 64,
+                "height": 36,
+                "size": 810,
+                "url": "https://media.sketchfab.com/models/3876eab9a96040b6a0796e05dfb8e322/thumbnails/7349d40ff4d34d4f879d68836c822264/17289909d0b647119135fee7ac6e1812.jpeg"
+            }
+        ]
+    },
+    "uid": "3876eab9a96040b6a0796e05dfb8e322",
+    "uri": "https://api.sketchfab.com/v3/models/3876eab9a96040b6a0796e05dfb8e322",
+    "user": {
+        "uid": "28525516dd7e40c892539957cd882f4e",
+        "username": "prietomontanaj",
+        "displayName": "prietomontanaj",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/prietomontanaj",
+        "avatar": {
+            "uid": "3dfd14bdc5f9418aa58d502ce8495690",
+            "uri": "https://api.sketchfab.com/v3/avatars/3dfd14bdc5f9418aa58d502ce8495690",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1073,
+                    "url": "https://media.sketchfab.com/avatars/3dfd14bdc5f9418aa58d502ce8495690/160cd708487f47db807e6eb1f6462bf5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1561,
+                    "url": "https://media.sketchfab.com/avatars/3dfd14bdc5f9418aa58d502ce8495690/19386e2c7f9745a9be2b05d10199baad.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3653,
+                    "url": "https://media.sketchfab.com/avatars/3dfd14bdc5f9418aa58d502ce8495690/953a6f5d21204b3696427d311985eefe.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4219,
+                    "url": "https://media.sketchfab.com/avatars/3dfd14bdc5f9418aa58d502ce8495690/3c0c731bf82b445db379824d9aab1126.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/28525516dd7e40c892539957cd882f4e"
+    },
+    "vertexCount": 1224,
+    "viewCount": 124,
+    "viewerUrl": "https://sketchfab.com/3d-models/demonic-spiked-war-mace-game-ready-pbr-weapon-3876eab9a96040b6a0796e05dfb8e322",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is a high-quality PBR melee weapon inspired by dark fantasy aesthetics.\nThe mace features a hand-forged metal head, oxidized spikes, blood stains, micro-dents, and a burnt wooden shaft reinforced with aged metal rings.\n\nFully textured in Substance Painter, following a realistic workflow with handcrafted smart masks, edge wear, micro-details, dents, and layered grime.\nIdeal for dark fantasy, souls-like, RPG, survival, first-person, or medieval horror projects.\n\nTechnical Details:\n\nPBR Metallic/Roughness workflow\n\n2K or 4K textures (Base Color, Roughness, Metallic, Normal, AO)\n\nOptimized clean topology\n\nGame-ready asset suitable for engines like Unreal Engine, Unity, GODOT or Roblox\n\nFeel free to inspect the textures and the model in 3D.\nLet me know if you want a customized weapon model!",
+    "price": null,
+    "downloadCount": 19,
+    "editorUrl": "https://sketchfab.com/models/3876eab9a96040b6a0796e05dfb8e322/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-08T18:12:06.585443",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

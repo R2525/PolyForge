@@ -1,0 +1,206 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-22T16:41:11.385724",
+    "embedUrl": "https://sketchfab.com/models/36848534e4dd4a88bd6176c874ccc25e/embed",
+    "faceCount": 10902,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/72eb2b1960364637901eacce19283624",
+        "label": "Free Standard",
+        "fullName": "Free Standard",
+        "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+        "url": "https://sketchfab.com/licenses",
+        "slug": "free-st"
+    },
+    "likeCount": 8,
+    "name": "Minecraft",
+    "publishedAt": "2026-02-22T16:42:28.849064",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "bathroom",
+            "slug": "bathroom",
+            "uri": "https://api.sketchfab.com/v3/tags/bathroom"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "baked",
+            "slug": "baked",
+            "uri": "https://api.sketchfab.com/v3/tags/baked"
+        },
+        {
+            "name": "pool",
+            "slug": "pool",
+            "uri": "https://api.sketchfab.com/v3/tags/pool"
+        },
+        {
+            "name": "physics",
+            "slug": "physics",
+            "uri": "https://api.sketchfab.com/v3/tags/physics"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "website",
+            "slug": "website",
+            "uri": "https://api.sketchfab.com/v3/tags/website"
+        },
+        {
+            "name": "threejs",
+            "slug": "threejs",
+            "uri": "https://api.sketchfab.com/v3/tags/threejs"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f3092c1e430241ada18c3d6ce8dc5c02",
+                "width": 1920,
+                "height": 1080,
+                "size": 312054,
+                "url": "https://media.sketchfab.com/models/36848534e4dd4a88bd6176c874ccc25e/thumbnails/cf2935b160c94dccb635f7299c82ab79/83be9e0860c64ede9b5bbbfca61ff86f.jpeg"
+            },
+            {
+                "uid": "ea60b3b7483f4cceb9415ac069d5109e",
+                "width": 1024,
+                "height": 576,
+                "size": 91500,
+                "url": "https://media.sketchfab.com/models/36848534e4dd4a88bd6176c874ccc25e/thumbnails/cf2935b160c94dccb635f7299c82ab79/34faeb55cf7f4e93a21cecd889bde868.jpeg"
+            },
+            {
+                "uid": "d4e39dcf41f04f05bd65f5f6a4965e67",
+                "width": 720,
+                "height": 405,
+                "size": 52000,
+                "url": "https://media.sketchfab.com/models/36848534e4dd4a88bd6176c874ccc25e/thumbnails/cf2935b160c94dccb635f7299c82ab79/7854c1755d274c969cc230024c687916.jpeg"
+            },
+            {
+                "uid": "1ba70bf8fe764300a004b219619f1af0",
+                "width": 256,
+                "height": 144,
+                "size": 9480,
+                "url": "https://media.sketchfab.com/models/36848534e4dd4a88bd6176c874ccc25e/thumbnails/cf2935b160c94dccb635f7299c82ab79/84e7a5bdcc104c079ca4453fd5c54ed9.jpeg"
+            },
+            {
+                "uid": "0d5889331e5345fbb3ad247313fc77bb",
+                "width": 64,
+                "height": 36,
+                "size": 1499,
+                "url": "https://media.sketchfab.com/models/36848534e4dd4a88bd6176c874ccc25e/thumbnails/cf2935b160c94dccb635f7299c82ab79/97841424489549e489357e41ef43c641.jpeg"
+            }
+        ]
+    },
+    "uid": "36848534e4dd4a88bd6176c874ccc25e",
+    "uri": "https://api.sketchfab.com/v3/models/36848534e4dd4a88bd6176c874ccc25e",
+    "user": {
+        "uid": "d801da361d284a679d2444e29f84ef24",
+        "username": "abhayexe",
+        "displayName": "abhayexe",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/abhayexe",
+        "avatar": {
+            "uid": "ad4d4c5b2b7a4e5ab9f0648a830d635a",
+            "uri": "https://api.sketchfab.com/v3/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1075,
+                    "url": "https://media.sketchfab.com/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a/6f29bd72fed74be99c990d5635999538.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2137,
+                    "url": "https://media.sketchfab.com/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a/9d6bd144e63c49e1903c44bf8a7bdc25.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4959,
+                    "url": "https://media.sketchfab.com/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a/629c1ca78d5d4acdbf0c75592570e14e.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5672,
+                    "url": "https://media.sketchfab.com/avatars/ad4d4c5b2b7a4e5ab9f0648a830d635a/95698209c6be4004bc1afec2ec8218e0.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d801da361d284a679d2444e29f84ef24"
+    },
+    "vertexCount": 5559,
+    "viewCount": 53,
+    "viewerUrl": "https://sketchfab.com/3d-models/minecraft-36848534e4dd4a88bd6176c874ccc25e",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/36848534e4dd4a88bd6176c874ccc25e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T16:46:02.024949",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

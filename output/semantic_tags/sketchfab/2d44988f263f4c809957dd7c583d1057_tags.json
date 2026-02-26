@@ -1,0 +1,37 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Abstract",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        }
+    ],
+    "style": "Abstract",
+    "top_styles": [
+        {
+            "name": "Abstract",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "cube",
+        "3D",
+        "model",
+        "geometric"
+    ]
+}

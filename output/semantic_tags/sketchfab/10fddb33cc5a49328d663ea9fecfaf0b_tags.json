@@ -1,0 +1,41 @@
+{
+    "category": "Food & Drink",
+    "top_genres": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.8
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.6
+        }
+    ],
+    "style": "Retro / PS1",
+    "top_styles": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.8
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Wet"
+    ],
+    "tags": [
+        "chicken",
+        "roasted",
+        "food"
+    ]
+}

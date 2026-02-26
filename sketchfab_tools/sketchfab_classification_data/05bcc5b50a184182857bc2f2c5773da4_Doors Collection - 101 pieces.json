@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.85
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized 3D",
+            "score": 0.5
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Weathered",
+        "Dusty",
+        "Mossy",
+        "Cracked"
+    ],
+    "tags": [
+        "3D model",
+        "door",
+        "architecture",
+        "collection",
+        "textures",
+        "doors",
+        "design",
+        "furniture"
+    ],
+    "model_id_full": "05bcc5b50a184182857bc2f2c5773da4_Doors Collection - 101 pieces",
+    "sketchfab_id": "05bcc5b50a184182857bc2f2c5773da4",
+    "asset_name": "Doors Collection - 101 pieces"
+}

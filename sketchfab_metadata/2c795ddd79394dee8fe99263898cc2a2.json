@@ -1,0 +1,238 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T03:50:28.482321",
+    "embedUrl": "https://sketchfab.com/models/2c795ddd79394dee8fe99263898cc2a2/embed",
+    "faceCount": 815477,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Sanctum of the Eternal Star",
+    "publishedAt": "2026-02-18T03:51:21.143463",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ornate",
+            "slug": "ornate",
+            "uri": "https://api.sketchfab.com/v3/tags/ornate"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "crystal",
+            "slug": "crystal",
+            "uri": "https://api.sketchfab.com/v3/tags/crystal"
+        },
+        {
+            "name": "artifact",
+            "slug": "artifact",
+            "uri": "https://api.sketchfab.com/v3/tags/artifact"
+        },
+        {
+            "name": "mystical",
+            "slug": "mystical",
+            "uri": "https://api.sketchfab.com/v3/tags/mystical"
+        },
+        {
+            "name": "gothic",
+            "slug": "gothic",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic"
+        },
+        {
+            "name": "altar",
+            "slug": "altar",
+            "uri": "https://api.sketchfab.com/v3/tags/altar"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "statues",
+            "slug": "statues",
+            "uri": "https://api.sketchfab.com/v3/tags/statues"
+        },
+        {
+            "name": "realm",
+            "slug": "realm",
+            "uri": "https://api.sketchfab.com/v3/tags/realm"
+        },
+        {
+            "name": "sanctum",
+            "slug": "sanctum",
+            "uri": "https://api.sketchfab.com/v3/tags/sanctum"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7719c97744d34f20b8170797e63cea2c",
+                "width": 448,
+                "height": 280,
+                "size": 5925,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/448.jpg"
+            },
+            {
+                "uid": "a6b20474be7c402db8f8a5a6b9ff4730",
+                "width": 200,
+                "height": 200,
+                "size": 2275,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/200x200.jpg"
+            },
+            {
+                "uid": "98095b18341b4f49affb313ad9843d70",
+                "width": 100,
+                "height": 100,
+                "size": 841,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/100x100.jpg"
+            },
+            {
+                "uid": "af9d9afad4f1427a8a6e68dffa18c236",
+                "width": 50,
+                "height": 50,
+                "size": 421,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/50x50.jpg"
+            },
+            {
+                "uid": "b0855968e7eb4421b1d57761d0f2e2f1",
+                "width": 640,
+                "height": 400,
+                "size": 12257,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/640.jpg"
+            },
+            {
+                "uid": "4cfc787dbb4a4a0190430bca9721c6cf",
+                "width": 1024,
+                "height": 640,
+                "size": 28643,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/1024.jpg"
+            },
+            {
+                "uid": "bdbd1b7885db45ba959aede0fd468199",
+                "width": 854,
+                "height": 534,
+                "size": 21153,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/854.jpg"
+            }
+        ]
+    },
+    "uid": "2c795ddd79394dee8fe99263898cc2a2",
+    "uri": "https://api.sketchfab.com/v3/models/2c795ddd79394dee8fe99263898cc2a2",
+    "user": {
+        "uid": "19da3ad709f54d34a948c76482b59fa1",
+        "username": "DIFFU",
+        "displayName": "DIFFU",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DIFFU",
+        "avatar": {
+            "uid": "479054e73cb741b190b97066665ea671",
+            "uri": "https://api.sketchfab.com/v3/avatars/479054e73cb741b190b97066665ea671",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2015,
+                    "url": "https://media.sketchfab.com/avatars/479054e73cb741b190b97066665ea671/5c11c9a50158406ba8b587fffb79ae8e.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3949,
+                    "url": "https://media.sketchfab.com/avatars/479054e73cb741b190b97066665ea671/e713e94915d248698c682ca1cfc104a6.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 11631,
+                    "url": "https://media.sketchfab.com/avatars/479054e73cb741b190b97066665ea671/e109b0199c744722a9f1e69404a5429e.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 14060,
+                    "url": "https://media.sketchfab.com/avatars/479054e73cb741b190b97066665ea671/7e46f43cae884e0ab14c1032335cdae3.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/19da3ad709f54d34a948c76482b59fa1"
+    },
+    "vertexCount": 407669,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/sanctum-of-the-eternal-star-2c795ddd79394dee8fe99263898cc2a2",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/q5Laaq](https://www.meshy.ai/s/q5Laaq)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2c795ddd79394dee8fe99263898cc2a2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T03:51:21.125403",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,40 @@
+{
+    "category": "Nature & Plants",
+    "top_genres": [
+        {
+            "name": "Low-Poly",
+            "score": 0.85
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "rock",
+        "boulder",
+        "natural"
+    ]
+}

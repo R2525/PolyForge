@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Victorian",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "3D Render",
+            "score": 0.5
+        },
+        {
+            "name": "Historical Reconstruction",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Cracked",
+        "Weathered",
+        "Dusty",
+        "Rusty",
+        "Mossy"
+    ],
+    "tags": [
+        "stone",
+        "pillar",
+        "ancient",
+        "architecture",
+        "historical",
+        "column",
+        "3D model",
+        "palace"
+    ],
+    "model_id_full": "0b468d2edb7a439f8b2b71767649164e_Pilastra, Palacio de Pedro I, Astudillo",
+    "sketchfab_id": "0b468d2edb7a439f8b2b71767649164e",
+    "asset_name": "Pilastra, Palacio de Pedro I, Astudillo"
+}

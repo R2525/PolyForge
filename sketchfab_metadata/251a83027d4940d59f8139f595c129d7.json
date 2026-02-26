@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-11-28T12:41:31.894194",
+    "embedUrl": "https://sketchfab.com/models/251a83027d4940d59f8139f595c129d7/embed",
+    "faceCount": 899964,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 6,
+    "name": "Zapato de doña Inés Téllez Girón (sin restaurar)",
+    "publishedAt": "2025-12-01T09:30:04.799842",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "textile",
+            "slug": "textile",
+            "uri": "https://api.sketchfab.com/v3/tags/textile"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "restauration",
+            "slug": "restauration",
+            "uri": "https://api.sketchfab.com/v3/tags/restauration"
+        },
+        {
+            "name": "museoarqueologiconacional",
+            "slug": "museoarqueologiconacional",
+            "uri": "https://api.sketchfab.com/v3/tags/museoarqueologiconacional"
+        },
+        {
+            "name": "medieval-archaeology",
+            "slug": "medieval-archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-archaeology"
+        },
+        {
+            "name": "realitycapture",
+            "slug": "realitycapture",
+            "uri": "https://api.sketchfab.com/v3/tags/realitycapture"
+        },
+        {
+            "name": "museoarqueologiconacionaldemadrid",
+            "slug": "museoarqueologiconacionaldemadrid",
+            "uri": "https://api.sketchfab.com/v3/tags/museoarqueologiconacionaldemadrid"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d97953d00f53495bbdcbab3d71b0816f",
+                "width": 1920,
+                "height": 1080,
+                "size": 79976,
+                "url": "https://media.sketchfab.com/models/251a83027d4940d59f8139f595c129d7/thumbnails/cde8cef5fb3c4d1c82e3c157c7b08f14/61bf0438fb644b7185c15960cbf19ee8.jpeg"
+            },
+            {
+                "uid": "9da5b284303a46638b73891861f46df0",
+                "width": 1024,
+                "height": 576,
+                "size": 26184,
+                "url": "https://media.sketchfab.com/models/251a83027d4940d59f8139f595c129d7/thumbnails/cde8cef5fb3c4d1c82e3c157c7b08f14/46f9a781ae574d00b1ed98cec092ba7e.jpeg"
+            },
+            {
+                "uid": "52c4a09682134007a4a0cf6c9ee6e43c",
+                "width": 720,
+                "height": 405,
+                "size": 15197,
+                "url": "https://media.sketchfab.com/models/251a83027d4940d59f8139f595c129d7/thumbnails/cde8cef5fb3c4d1c82e3c157c7b08f14/1a91ccb46a884b7f8dfe0b1231fa587b.jpeg"
+            },
+            {
+                "uid": "037efa70a12842c4bee01323fcdcaedf",
+                "width": 256,
+                "height": 144,
+                "size": 3077,
+                "url": "https://media.sketchfab.com/models/251a83027d4940d59f8139f595c129d7/thumbnails/cde8cef5fb3c4d1c82e3c157c7b08f14/29f746a9673f4853acb9c231bcdcc2c4.jpeg"
+            },
+            {
+                "uid": "cfc97945363748f8a512e9b90743980b",
+                "width": 64,
+                "height": 36,
+                "size": 887,
+                "url": "https://media.sketchfab.com/models/251a83027d4940d59f8139f595c129d7/thumbnails/cde8cef5fb3c4d1c82e3c157c7b08f14/deb743a9804c4a46b2711266b8010fe4.jpeg"
+            }
+        ]
+    },
+    "uid": "251a83027d4940d59f8139f595c129d7",
+    "uri": "https://api.sketchfab.com/v3/models/251a83027d4940d59f8139f595c129d7",
+    "user": {
+        "uid": "6beceb21199e4770b6dddb7030e9600c",
+        "username": "man",
+        "displayName": "Museo Arqueológico Nacional",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/man",
+        "avatar": {
+            "uid": "fca09a683a7a4c65a7175671a7b3906d",
+            "uri": "https://api.sketchfab.com/v3/avatars/fca09a683a7a4c65a7175671a7b3906d",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3342,
+                    "url": "https://media.sketchfab.com/avatars/fca09a683a7a4c65a7175671a7b3906d/7b12d5c8039c461ea7bcb3aac0f24239.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2900,
+                    "url": "https://media.sketchfab.com/avatars/fca09a683a7a4c65a7175671a7b3906d/01697e41b4324f13b46aca4f0f3e0e8d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1317,
+                    "url": "https://media.sketchfab.com/avatars/fca09a683a7a4c65a7175671a7b3906d/3a429fba418240c9a322d120ce718d07.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 753,
+                    "url": "https://media.sketchfab.com/avatars/fca09a683a7a4c65a7175671a7b3906d/1800810c4eb64335abea5ad9a6b9c7d2.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6beceb21199e4770b6dddb7030e9600c"
+    },
+    "vertexCount": 449966,
+    "viewCount": 131,
+    "viewerUrl": "https://sketchfab.com/3d-models/zapato-de-dona-ines-tellez-giron-sin-restaurar-251a83027d4940d59f8139f595c129d7",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Zapato izquierdo de doña Inés Téllez Girón y Guevara**\n\nNº de inventario: 51884\n\nCuero, pan de oro y pigmento rojo\n\nGuadamecí, suela cosida\n\nSiglo XIII (antes de 1265)\n\nSepulcro de doña Inés. Iglesia de Santa María La Blanca (Villalcázar de Sirga, Palencia)\n\nMás info ver en [Ceres](http://ceres.mcu.es/pages/Main?inventary=51884&museum=51)\n\n________________________________________________________________________________________________________________\n\n**Left shoe of Mrs. Inés Téllez Girón y Guevara**\n\nInventory No.: 51884\n\nLeather, gold leaf, and red pigment\n\nGuadamecí (gilded leather), stitched sole\n\n13th century (before 1265)\n\nTomb of Doña Inés. Church of Santa María La Blanca (Villalcázar de Sirga, Palencia)\n\nMore info in [Ceres](http://ceres.mcu.es/pages/Main?inventary=51884&museum=51)\n\n\nCreado por / Created by: IH3D Ingeniería y Patrimonio virtual S.L.\n              \nLicense:**CC Attribution-NonCommercial**",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/251a83027d4940d59f8139f595c129d7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "reality-capture",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-01T09:30:04.902806",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

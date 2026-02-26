@@ -1,0 +1,67 @@
+{
+    "category": "Architecture",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Medieval Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Cozy",
+            "score": 0.75
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.65
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Hand-painted",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Mossy",
+        "Dusty"
+    ],
+    "tags": [
+        "medieval",
+        "fantasy",
+        "house",
+        "cottage",
+        "cozy",
+        "gothic",
+        "architectural",
+        "3D model"
+    ],
+    "model_id_full": "27f2c33e2f6a4754b9578df5bf23ceb8_Stylized Medieval Fantasy House",
+    "sketchfab_id": "27f2c33e2f6a4754b9578df5bf23ceb8",
+    "asset_name": "Stylized Medieval Fantasy House"
+}

@@ -1,0 +1,180 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T20:38:27.200524",
+    "embedUrl": "https://sketchfab.com/models/3588d0e4a887484388e7d1054728e978/embed",
+    "faceCount": 3652,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "N-vision NOX35",
+    "publishedAt": "2026-02-23T20:39:32.838067",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "scope",
+            "slug": "scope",
+            "uri": "https://api.sketchfab.com/v3/tags/scope"
+        },
+        {
+            "name": "thermal",
+            "slug": "thermal",
+            "uri": "https://api.sketchfab.com/v3/tags/thermal"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "nvision",
+            "slug": "nvision",
+            "uri": "https://api.sketchfab.com/v3/tags/nvision"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "tacz",
+            "slug": "tacz",
+            "uri": "https://api.sketchfab.com/v3/tags/tacz"
+        },
+        {
+            "name": "nox35",
+            "slug": "nox35",
+            "uri": "https://api.sketchfab.com/v3/tags/nox35"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4cb07c50df7848e4bcf5651c076cb5f7",
+                "width": 1920,
+                "height": 1080,
+                "size": 68329,
+                "url": "https://media.sketchfab.com/models/3588d0e4a887484388e7d1054728e978/thumbnails/469da0792acd405fa192afeef700b640/0ca9e414740742d58e6202d0b27461cd.jpeg"
+            },
+            {
+                "uid": "2f2cc847a2fe43bfb75a9f00bbf99f86",
+                "width": 1024,
+                "height": 576,
+                "size": 23386,
+                "url": "https://media.sketchfab.com/models/3588d0e4a887484388e7d1054728e978/thumbnails/469da0792acd405fa192afeef700b640/21adb952407a4105a3dd125e310d1c95.jpeg"
+            },
+            {
+                "uid": "e83a9db2c70141b6afe6df2752a5cc6c",
+                "width": 720,
+                "height": 405,
+                "size": 13611,
+                "url": "https://media.sketchfab.com/models/3588d0e4a887484388e7d1054728e978/thumbnails/469da0792acd405fa192afeef700b640/13818ed358f84b2581cdcff7892fc4c2.jpeg"
+            },
+            {
+                "uid": "5cd09b4c5f5048088de3f41b1ad473f9",
+                "width": 256,
+                "height": 144,
+                "size": 3039,
+                "url": "https://media.sketchfab.com/models/3588d0e4a887484388e7d1054728e978/thumbnails/469da0792acd405fa192afeef700b640/7f9f3e65e3644e67a7b868129e1b4874.jpeg"
+            },
+            {
+                "uid": "41e8f3baefe34bee901bb5f137c8198f",
+                "width": 64,
+                "height": 36,
+                "size": 882,
+                "url": "https://media.sketchfab.com/models/3588d0e4a887484388e7d1054728e978/thumbnails/469da0792acd405fa192afeef700b640/0db5f111a62441ceaeff39972bf73be6.jpeg"
+            }
+        ]
+    },
+    "uid": "3588d0e4a887484388e7d1054728e978",
+    "uri": "https://api.sketchfab.com/v3/models/3588d0e4a887484388e7d1054728e978",
+    "user": {
+        "uid": "b4f956dbd19744d5aad4d60c9a958748",
+        "username": "aderinox",
+        "displayName": "aderinox",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/aderinox",
+        "avatar": {
+            "uid": "2fa724df3f3d41caa2adc56a2beb48bb",
+            "uri": "https://api.sketchfab.com/v3/avatars/2fa724df3f3d41caa2adc56a2beb48bb",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1628,
+                    "url": "https://media.sketchfab.com/avatars/2fa724df3f3d41caa2adc56a2beb48bb/6f2d28e9fa734f999cbd0dc3645714cb.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2995,
+                    "url": "https://media.sketchfab.com/avatars/2fa724df3f3d41caa2adc56a2beb48bb/7ea6576db5d24074a64fcc8369826811.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8304,
+                    "url": "https://media.sketchfab.com/avatars/2fa724df3f3d41caa2adc56a2beb48bb/98e21f9df122485f8ff864aca5939350.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 9848,
+                    "url": "https://media.sketchfab.com/avatars/2fa724df3f3d41caa2adc56a2beb48bb/ab0e39af745f49ae9a4928bc3aaed9e3.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b4f956dbd19744d5aad4d60c9a958748"
+    },
+    "vertexCount": 2616,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/n-vision-nox35-3588d0e4a887484388e7d1054728e978",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "thermal scope for all your thermal needs idk what to write\r\n\r\nfor tacz addon pack maxstuff\r\n\r\ntexturing not yet",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3588d0e4a887484388e7d1054728e978/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T01:35:32.822527",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 8
+}

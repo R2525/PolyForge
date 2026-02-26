@@ -1,0 +1,235 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-28T18:09:47.410110",
+    "embedUrl": "https://sketchfab.com/models/42e41326049643c492b3a6532953dae9/embed",
+    "faceCount": 1343265,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "3D bed model",
+    "publishedAt": "2026-01-28T18:17:52.580546",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "field",
+            "slug": "field",
+            "uri": "https://api.sketchfab.com/v3/tags/field"
+        },
+        {
+            "name": "radiance",
+            "slug": "radiance",
+            "uri": "https://api.sketchfab.com/v3/tags/radiance"
+        },
+        {
+            "name": "bed",
+            "slug": "bed",
+            "uri": "https://api.sketchfab.com/v3/tags/bed"
+        },
+        {
+            "name": "bedroom",
+            "slug": "bedroom",
+            "uri": "https://api.sketchfab.com/v3/tags/bedroom"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "neural",
+            "slug": "neural",
+            "uri": "https://api.sketchfab.com/v3/tags/neural"
+        },
+        {
+            "name": "splat",
+            "slug": "splat",
+            "uri": "https://api.sketchfab.com/v3/tags/splat"
+        },
+        {
+            "name": "realitycapture",
+            "slug": "realitycapture",
+            "uri": "https://api.sketchfab.com/v3/tags/realitycapture"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "scan",
+            "slug": "scan",
+            "uri": "https://api.sketchfab.com/v3/tags/scan"
+        },
+        {
+            "name": "design",
+            "slug": "design",
+            "uri": "https://api.sketchfab.com/v3/tags/design"
+        },
+        {
+            "name": "interior",
+            "slug": "interior",
+            "uri": "https://api.sketchfab.com/v3/tags/interior"
+        },
+        {
+            "name": "rendering",
+            "slug": "rendering",
+            "uri": "https://api.sketchfab.com/v3/tags/rendering"
+        },
+        {
+            "name": "gaussian",
+            "slug": "gaussian",
+            "uri": "https://api.sketchfab.com/v3/tags/gaussian"
+        },
+        {
+            "name": "splatting",
+            "slug": "splatting",
+            "uri": "https://api.sketchfab.com/v3/tags/splatting"
+        },
+        {
+            "name": "3dgs",
+            "slug": "3dgs",
+            "uri": "https://api.sketchfab.com/v3/tags/3dgs"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "427cbfb3ee354264a5287c674220815c",
+                "width": 1920,
+                "height": 1080,
+                "size": 83040,
+                "url": "https://media.sketchfab.com/models/42e41326049643c492b3a6532953dae9/thumbnails/9e65390a2e104887ac1fba2bb313b97b/6cd3b0b9a4a643f4b603af8f397c60d8.jpeg"
+            },
+            {
+                "uid": "87e3a7fdc7b44c38bd10101830205b11",
+                "width": 1024,
+                "height": 576,
+                "size": 27023,
+                "url": "https://media.sketchfab.com/models/42e41326049643c492b3a6532953dae9/thumbnails/9e65390a2e104887ac1fba2bb313b97b/a5aa103006fb4298a38d905673eba551.jpeg"
+            },
+            {
+                "uid": "36de9a17a518465d99219b5ce108246c",
+                "width": 720,
+                "height": 405,
+                "size": 15812,
+                "url": "https://media.sketchfab.com/models/42e41326049643c492b3a6532953dae9/thumbnails/9e65390a2e104887ac1fba2bb313b97b/4597aa66d6c246daac22203c8f08aa55.jpeg"
+            },
+            {
+                "uid": "7ce003970a834a2e9aab8f5f52c08785",
+                "width": 256,
+                "height": 144,
+                "size": 3652,
+                "url": "https://media.sketchfab.com/models/42e41326049643c492b3a6532953dae9/thumbnails/9e65390a2e104887ac1fba2bb313b97b/9bc383cbccad4e32ba5c23895827a410.jpeg"
+            },
+            {
+                "uid": "bf6a7a74e1d64ea1820af0e521ec0d39",
+                "width": 64,
+                "height": 36,
+                "size": 1030,
+                "url": "https://media.sketchfab.com/models/42e41326049643c492b3a6532953dae9/thumbnails/9e65390a2e104887ac1fba2bb313b97b/6f6bbaf522e846e5b5e587f53856ea16.jpeg"
+            }
+        ]
+    },
+    "uid": "42e41326049643c492b3a6532953dae9",
+    "uri": "https://api.sketchfab.com/v3/models/42e41326049643c492b3a6532953dae9",
+    "user": {
+        "uid": "2c2809b066af4cc5bd5c206495f6fc04",
+        "username": "designova",
+        "displayName": "designova",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/designova",
+        "avatar": {
+            "uid": "41f392ea28c949109ef43249733ab196",
+            "uri": "https://api.sketchfab.com/v3/avatars/41f392ea28c949109ef43249733ab196",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1927,
+                    "url": "https://media.sketchfab.com/avatars/41f392ea28c949109ef43249733ab196/2e5755a0005e44b1adae3b0de2d6e3c5.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1826,
+                    "url": "https://media.sketchfab.com/avatars/41f392ea28c949109ef43249733ab196/5fa0388ab0e248b297eb127f4cf0bcf7.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 979,
+                    "url": "https://media.sketchfab.com/avatars/41f392ea28c949109ef43249733ab196/c5d802b472c74d46a8cc1cc83283e763.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 604,
+                    "url": "https://media.sketchfab.com/avatars/41f392ea28c949109ef43249733ab196/27ef85e91d464ed39950775d71fecf3a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2c2809b066af4cc5bd5c206495f6fc04"
+    },
+    "vertexCount": 671706,
+    "viewCount": 79,
+    "viewerUrl": "https://sketchfab.com/3d-models/3d-bed-model-42e41326049643c492b3a6532953dae9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A 3D model rendered using a spherical rig (200 shots), then converted into a Gaussian Splat in RealityCapture, optimized in Blender, and exported to glTF — completing the full circle 😄",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/42e41326049643c492b3a6532953dae9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-29T06:54:04.634292",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

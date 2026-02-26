@@ -1,0 +1,145 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-30T19:26:43.463309",
+    "embedUrl": "https://sketchfab.com/models/0a0a8306a73d45618ec54d3bb98d4fa5/embed",
+    "faceCount": 816,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Tenna",
+    "publishedAt": "2026-01-30T19:37:29.723696",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "tenna",
+            "slug": "tenna",
+            "uri": "https://api.sketchfab.com/v3/tags/tenna"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "684df3e1fa424d5da65f5deff3ae8350",
+                "width": 1920,
+                "height": 1080,
+                "size": 50926,
+                "url": "https://media.sketchfab.com/models/0a0a8306a73d45618ec54d3bb98d4fa5/thumbnails/8276fc47e4eb4c76a1780d30ee6d7c33/d15e3d4b06ca4fd8a7bf509119c2ed25.jpeg"
+            },
+            {
+                "uid": "efe5a989c2c64c1ea602f1b6c962e5df",
+                "width": 1024,
+                "height": 576,
+                "size": 17800,
+                "url": "https://media.sketchfab.com/models/0a0a8306a73d45618ec54d3bb98d4fa5/thumbnails/8276fc47e4eb4c76a1780d30ee6d7c33/b852483327744e00a4356748eeb33f5c.jpeg"
+            },
+            {
+                "uid": "2cbd1d8dad8e49faa2b45ccc05ef45d3",
+                "width": 720,
+                "height": 405,
+                "size": 11081,
+                "url": "https://media.sketchfab.com/models/0a0a8306a73d45618ec54d3bb98d4fa5/thumbnails/8276fc47e4eb4c76a1780d30ee6d7c33/86e8c618dcdf4f35b13d9aa5375330de.jpeg"
+            },
+            {
+                "uid": "f9eeda0fd3ef4085a9e71cadc3c8b760",
+                "width": 256,
+                "height": 144,
+                "size": 2780,
+                "url": "https://media.sketchfab.com/models/0a0a8306a73d45618ec54d3bb98d4fa5/thumbnails/8276fc47e4eb4c76a1780d30ee6d7c33/2cec7fe6ccb24078b835c43890c4b0e8.jpeg"
+            },
+            {
+                "uid": "18d92596a6b14ed09efebcab0d79ce5a",
+                "width": 64,
+                "height": 36,
+                "size": 984,
+                "url": "https://media.sketchfab.com/models/0a0a8306a73d45618ec54d3bb98d4fa5/thumbnails/8276fc47e4eb4c76a1780d30ee6d7c33/ff5d4a397ea2400bb2fd80a61310899b.jpeg"
+            }
+        ]
+    },
+    "uid": "0a0a8306a73d45618ec54d3bb98d4fa5",
+    "uri": "https://api.sketchfab.com/v3/models/0a0a8306a73d45618ec54d3bb98d4fa5",
+    "user": {
+        "uid": "4b8056643932438886c51404a1cc7789",
+        "username": "ItsJouga",
+        "displayName": "ItsJouga",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ItsJouga",
+        "avatar": {
+            "uid": "a53de9ebf4dd4f8db1e9d81935019edd",
+            "uri": "https://api.sketchfab.com/v3/avatars/a53de9ebf4dd4f8db1e9d81935019edd",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1193,
+                    "url": "https://media.sketchfab.com/avatars/a53de9ebf4dd4f8db1e9d81935019edd/58806b9b004c4a8a8d4c8be8054942a2.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1866,
+                    "url": "https://media.sketchfab.com/avatars/a53de9ebf4dd4f8db1e9d81935019edd/9a6f85319c2a44c3bb7652982c56f0d2.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4631,
+                    "url": "https://media.sketchfab.com/avatars/a53de9ebf4dd4f8db1e9d81935019edd/b985a2ffc8af49dbb52eacebbf87eaec.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5443,
+                    "url": "https://media.sketchfab.com/avatars/a53de9ebf4dd4f8db1e9d81935019edd/6b45624fd3284206a0ce6960445b8da8.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4b8056643932438886c51404a1cc7789"
+    },
+    "vertexCount": 544,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/tenna-0a0a8306a73d45618ec54d3bb98d4fa5",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "it does be the time for television",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0a0a8306a73d45618ec54d3bb98d4fa5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-30T19:37:29.865050",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

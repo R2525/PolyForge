@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-24T14:11:02.170475",
+    "embedUrl": "https://sketchfab.com/models/2a1ff710ceca4072935f00125eb57fa9/embed",
+    "faceCount": 287083,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Fantasy Castle (study)",
+    "publishedAt": "2025-12-24T14:18:57.093472",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "study",
+            "slug": "study",
+            "uri": "https://api.sketchfab.com/v3/tags/study"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6eecffc4839b4e488da4646d9f19ff8d",
+                "width": 1920,
+                "height": 1080,
+                "size": 232337,
+                "url": "https://media.sketchfab.com/models/2a1ff710ceca4072935f00125eb57fa9/thumbnails/424890f8b4a648d285b92d910a378a99/9b9db2ae10aa4ab2a51c44e76511fb7e.jpeg"
+            },
+            {
+                "uid": "c5d6eca6fa9c408f9c99f5aa8bdbbc6f",
+                "width": 1024,
+                "height": 576,
+                "size": 64841,
+                "url": "https://media.sketchfab.com/models/2a1ff710ceca4072935f00125eb57fa9/thumbnails/424890f8b4a648d285b92d910a378a99/7d3b05b74183418286297a8dd0207a0c.jpeg"
+            },
+            {
+                "uid": "99aeb625c44a4ef5a4cf6982f0dac095",
+                "width": 720,
+                "height": 405,
+                "size": 34580,
+                "url": "https://media.sketchfab.com/models/2a1ff710ceca4072935f00125eb57fa9/thumbnails/424890f8b4a648d285b92d910a378a99/9470ce1aa910442e95ab27459f7892b8.jpeg"
+            },
+            {
+                "uid": "de94d3ff1fa8435e895a306a386569f2",
+                "width": 256,
+                "height": 144,
+                "size": 6127,
+                "url": "https://media.sketchfab.com/models/2a1ff710ceca4072935f00125eb57fa9/thumbnails/424890f8b4a648d285b92d910a378a99/67d6cd9ec6524a96ad9a7eec5c7344a6.jpeg"
+            },
+            {
+                "uid": "6a896c98089146a7a89b238d461d61d2",
+                "width": 64,
+                "height": 36,
+                "size": 1219,
+                "url": "https://media.sketchfab.com/models/2a1ff710ceca4072935f00125eb57fa9/thumbnails/424890f8b4a648d285b92d910a378a99/8b0fda85235a479f94834777de1129ad.jpeg"
+            }
+        ]
+    },
+    "uid": "2a1ff710ceca4072935f00125eb57fa9",
+    "uri": "https://api.sketchfab.com/v3/models/2a1ff710ceca4072935f00125eb57fa9",
+    "user": {
+        "uid": "16bfd6e343564d5ba2a1e142444e8f43",
+        "username": "nnyoun",
+        "displayName": "nnyoun",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/nnyoun",
+        "avatar": {
+            "uid": "7ef4bf67a12842b59e8b58ba838fda44",
+            "uri": "https://api.sketchfab.com/v3/avatars/7ef4bf67a12842b59e8b58ba838fda44",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2481,
+                    "url": "https://media.sketchfab.com/avatars/7ef4bf67a12842b59e8b58ba838fda44/c532a2675ebb442089f9c89e895e0317.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4926,
+                    "url": "https://media.sketchfab.com/avatars/7ef4bf67a12842b59e8b58ba838fda44/db24eedf55f9455a9ef02fdf04fb70ec.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14451,
+                    "url": "https://media.sketchfab.com/avatars/7ef4bf67a12842b59e8b58ba838fda44/6ee5a43634ad4819ad1bfeb2123503f2.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17328,
+                    "url": "https://media.sketchfab.com/avatars/7ef4bf67a12842b59e8b58ba838fda44/48f718057ee34319adb2c469d8576feb.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/16bfd6e343564d5ba2a1e142444e8f43"
+    },
+    "vertexCount": 160636,
+    "viewCount": 30,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-castle-study-2a1ff710ceca4072935f00125eb57fa9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Original design by Giimann. This is a 3D modeling study for personal portfolio https://sketchfab.com/3d-models/fantasy-castle-0b52b208d78f4cd6b38312a1c1a4180e\n\nThe tile maps for the walls and roof were created by myself. used software is 3dsMax, zbrush, substance 3D painter",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2a1ff710ceca4072935f00125eb57fa9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-24T16:08:13.161912",
+    "pbrType": "metalness",
+    "textureCount": 16,
+    "materialCount": 4
+}

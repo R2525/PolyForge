@@ -1,0 +1,294 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-10T18:32:33.892058",
+    "embedUrl": "https://sketchfab.com/models/1d238e5084d1464bbcfdf1c57cba6200/embed",
+    "faceCount": 38354,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Medieval Fantasy Armor Asset - Thesis Work",
+    "publishedAt": "2025-12-10T18:50:19.871371",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "cloth",
+            "slug": "cloth",
+            "uri": "https://api.sketchfab.com/v3/tags/cloth"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "clothes",
+            "slug": "clothes",
+            "uri": "https://api.sketchfab.com/v3/tags/clothes"
+        },
+        {
+            "name": "simulation",
+            "slug": "simulation",
+            "uri": "https://api.sketchfab.com/v3/tags/simulation"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "finnish",
+            "slug": "finnish",
+            "uri": "https://api.sketchfab.com/v3/tags/finnish"
+        },
+        {
+            "name": "Krita",
+            "slug": "krita",
+            "uri": "https://api.sketchfab.com/v3/tags/krita"
+        },
+        {
+            "name": "ArmorSet",
+            "slug": "armorset",
+            "uri": "https://api.sketchfab.com/v3/tags/armorset"
+        },
+        {
+            "name": "fantasyarmor",
+            "slug": "fantasyarmor",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyarmor"
+        },
+        {
+            "name": "veil",
+            "slug": "veil",
+            "uri": "https://api.sketchfab.com/v3/tags/veil"
+        },
+        {
+            "name": "tamk",
+            "slug": "tamk",
+            "uri": "https://api.sketchfab.com/v3/tags/tamk"
+        },
+        {
+            "name": "pbrmaterials",
+            "slug": "pbrmaterials",
+            "uri": "https://api.sketchfab.com/v3/tags/pbrmaterials"
+        },
+        {
+            "name": "clothsimulation",
+            "slug": "clothsimulation",
+            "uri": "https://api.sketchfab.com/v3/tags/clothsimulation"
+        },
+        {
+            "name": "medievalfantasyassets",
+            "slug": "medievalfantasyassets",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalfantasyassets"
+        },
+        {
+            "name": "medievalfantasy",
+            "slug": "medievalfantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalfantasy"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "clothing",
+            "slug": "clothing",
+            "uri": "https://api.sketchfab.com/v3/tags/clothing"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "substance3dpainter",
+            "slug": "substance3dpainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substance3dpainter"
+        },
+        {
+            "name": "realisticclothing",
+            "slug": "realisticclothing",
+            "uri": "https://api.sketchfab.com/v3/tags/realisticclothing"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "852db3c4ecd7477289bbef5878a43441",
+                "width": 1920,
+                "height": 1080,
+                "size": 261791,
+                "url": "https://media.sketchfab.com/models/1d238e5084d1464bbcfdf1c57cba6200/thumbnails/e5aa8f9432ea49a38bd38f1b418bea05/3cbc182c70ed4afd918908b2f109d5fd.jpeg"
+            },
+            {
+                "uid": "1b03e700ff9744689150643f4e51047b",
+                "width": 1024,
+                "height": 576,
+                "size": 30345,
+                "url": "https://media.sketchfab.com/models/1d238e5084d1464bbcfdf1c57cba6200/thumbnails/e5aa8f9432ea49a38bd38f1b418bea05/9bceecf9adcc412fb81e4796ab34cfa4.jpeg"
+            },
+            {
+                "uid": "d47879a85ebc482a9d3ccdfba8d122d9",
+                "width": 720,
+                "height": 405,
+                "size": 17635,
+                "url": "https://media.sketchfab.com/models/1d238e5084d1464bbcfdf1c57cba6200/thumbnails/e5aa8f9432ea49a38bd38f1b418bea05/244803d7e2d84849871c246296780155.jpeg"
+            },
+            {
+                "uid": "862659ea81a649c186f4cd5a7f7519eb",
+                "width": 256,
+                "height": 144,
+                "size": 3990,
+                "url": "https://media.sketchfab.com/models/1d238e5084d1464bbcfdf1c57cba6200/thumbnails/e5aa8f9432ea49a38bd38f1b418bea05/3d0ea8b7c593472aa2c02d958f233f1b.jpeg"
+            },
+            {
+                "uid": "9b41a16f71cc46a491156156b3484cc7",
+                "width": 64,
+                "height": 36,
+                "size": 1138,
+                "url": "https://media.sketchfab.com/models/1d238e5084d1464bbcfdf1c57cba6200/thumbnails/e5aa8f9432ea49a38bd38f1b418bea05/04c628c4b32f4b6e99551f70f11c66b9.jpeg"
+            }
+        ]
+    },
+    "uid": "1d238e5084d1464bbcfdf1c57cba6200",
+    "uri": "https://api.sketchfab.com/v3/models/1d238e5084d1464bbcfdf1c57cba6200",
+    "user": {
+        "uid": "d1c4aa2e0974468daa7519be43ad6b9b",
+        "username": "riinukka",
+        "displayName": "Riina Koivisto",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/riinukka",
+        "avatar": {
+            "uid": "d6ea5698609442fc99dc801c0dd72ffa",
+            "uri": "https://api.sketchfab.com/v3/avatars/d6ea5698609442fc99dc801c0dd72ffa",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1123,
+                    "url": "https://media.sketchfab.com/avatars/d6ea5698609442fc99dc801c0dd72ffa/32e8d4d9a7df46ee8202e8b18d5de8ad.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1638,
+                    "url": "https://media.sketchfab.com/avatars/d6ea5698609442fc99dc801c0dd72ffa/9472d4a2f273432b81d74466fc04c5e2.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3547,
+                    "url": "https://media.sketchfab.com/avatars/d6ea5698609442fc99dc801c0dd72ffa/9412be9532c6465c86be344e2f105aaa.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4016,
+                    "url": "https://media.sketchfab.com/avatars/d6ea5698609442fc99dc801c0dd72ffa/aa284e4502d3499ca9efcca17ec1f38e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d1c4aa2e0974468daa7519be43ad6b9b"
+    },
+    "vertexCount": 19771,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-fantasy-armor-asset-thesis-work-1d238e5084d1464bbcfdf1c57cba6200",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A game-ready medieval fantasy armor set I designed and created for my thesis \"Creating Realistic Clothing and Armor for 3D Game Characters\". I wanted to create a feminine armor set with metal and cloth elements and realistic PBR materials. I also wanted to experiment with real time cloth simulations to create dynamic movement.\n\nBlender was used for modelling, UV mapping and rigging, Substance Painter for texturing and Unity for the final rendering and real-time cloth simulations. The mesh was designed to be quite simple and most of the detail was added through the PBR textures.\n\nGive my thesis a read if you're interested in the process of making realistic clothing for 3D games!\nhttps://urn.fi/URN:NBN:fi:amk-2025121034276",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1d238e5084d1464bbcfdf1c57cba6200/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-10T18:50:20.945429",
+    "pbrType": "metalness",
+    "textureCount": 11,
+    "materialCount": 2
+}

@@ -1,0 +1,235 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-05T16:27:18.123484",
+    "embedUrl": "https://sketchfab.com/models/2e67894e3d70428daf4cf466566ce0ef/embed",
+    "faceCount": 1846,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Feral Bloodaxe",
+    "publishedAt": "2026-01-05T18:45:37.789439",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blood",
+            "slug": "blood",
+            "uri": "https://api.sketchfab.com/v3/tags/blood"
+        },
+        {
+            "name": "bathroom",
+            "slug": "bathroom",
+            "uri": "https://api.sketchfab.com/v3/tags/bathroom"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "dungeon",
+            "slug": "dungeon",
+            "uri": "https://api.sketchfab.com/v3/tags/dungeon"
+        },
+        {
+            "name": "leather",
+            "slug": "leather",
+            "uri": "https://api.sketchfab.com/v3/tags/leather"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "Runes",
+            "slug": "runes",
+            "uri": "https://api.sketchfab.com/v3/tags/runes"
+        },
+        {
+            "name": "Relic",
+            "slug": "relic",
+            "uri": "https://api.sketchfab.com/v3/tags/relic"
+        },
+        {
+            "name": "video-games",
+            "slug": "video-games",
+            "uri": "https://api.sketchfab.com/v3/tags/video-games"
+        },
+        {
+            "name": "gamereadyasset",
+            "slug": "gamereadyasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gamereadyasset"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "09fc69781cd348b2aa5784ebb7a90b46",
+                "width": 1920,
+                "height": 1080,
+                "size": 66829,
+                "url": "https://media.sketchfab.com/models/2e67894e3d70428daf4cf466566ce0ef/thumbnails/1afe5d1d709541e39153a2d9b5c199c0/8d85bfce248a44bfb420c015265599e5.jpeg"
+            },
+            {
+                "uid": "e2d4d0051b6a4e7c9c26cd00356c670b",
+                "width": 1024,
+                "height": 576,
+                "size": 21622,
+                "url": "https://media.sketchfab.com/models/2e67894e3d70428daf4cf466566ce0ef/thumbnails/1afe5d1d709541e39153a2d9b5c199c0/fe22bcdee3444868bf5be2c9868b30ac.jpeg"
+            },
+            {
+                "uid": "725628c30d934d938b9b7c75a2139832",
+                "width": 720,
+                "height": 405,
+                "size": 12409,
+                "url": "https://media.sketchfab.com/models/2e67894e3d70428daf4cf466566ce0ef/thumbnails/1afe5d1d709541e39153a2d9b5c199c0/e47a5a8e5d2c4179b90eba3693046be9.jpeg"
+            },
+            {
+                "uid": "7fa5dd88a5b546649ead5618eb3a9c46",
+                "width": 256,
+                "height": 144,
+                "size": 2679,
+                "url": "https://media.sketchfab.com/models/2e67894e3d70428daf4cf466566ce0ef/thumbnails/1afe5d1d709541e39153a2d9b5c199c0/8ae85ce957dd49fa80a18c8f7ca38be9.jpeg"
+            },
+            {
+                "uid": "bde4c3c6d0e04655b19c6ae7d0c07787",
+                "width": 64,
+                "height": 36,
+                "size": 930,
+                "url": "https://media.sketchfab.com/models/2e67894e3d70428daf4cf466566ce0ef/thumbnails/1afe5d1d709541e39153a2d9b5c199c0/76b3d97f8a724eb2b2cde65af5ca23fd.jpeg"
+            }
+        ]
+    },
+    "uid": "2e67894e3d70428daf4cf466566ce0ef",
+    "uri": "https://api.sketchfab.com/v3/models/2e67894e3d70428daf4cf466566ce0ef",
+    "user": {
+        "uid": "c7048fbbe87c4f7cb74e54481bc74392",
+        "username": "yeepikayey",
+        "displayName": "yeepikayey",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/yeepikayey",
+        "avatar": {
+            "uid": "cccc6d7b3ab34ad38e3ac04b8597c1fa",
+            "uri": "https://api.sketchfab.com/v3/avatars/cccc6d7b3ab34ad38e3ac04b8597c1fa",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1632,
+                    "url": "https://media.sketchfab.com/avatars/cccc6d7b3ab34ad38e3ac04b8597c1fa/4611717c47cc46929c09e3e32cca67b0.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3359,
+                    "url": "https://media.sketchfab.com/avatars/cccc6d7b3ab34ad38e3ac04b8597c1fa/a75567a36d654351a3653848ad1b1858.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 10707,
+                    "url": "https://media.sketchfab.com/avatars/cccc6d7b3ab34ad38e3ac04b8597c1fa/675cd25cda6b489b99bda6a7802370ef.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 13075,
+                    "url": "https://media.sketchfab.com/avatars/cccc6d7b3ab34ad38e3ac04b8597c1fa/e219b9d03a5e48b6b53008bc6baff42e.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c7048fbbe87c4f7cb74e54481bc74392"
+    },
+    "vertexCount": 925,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/feral-bloodaxe-2e67894e3d70428daf4cf466566ce0ef",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A brutal tool for a brutal world. This hatchet has seen countless raids, evident by the deep chips in the steel and the permanent stain of combat on its grip. Balanced for quick, vicious strikes, it is the favored weapon of the northern clans who value function over beauty.\n\nAvailable on \nhttps://www.fab.com/listings/f0850236-2cc9-467b-9d5f-11abe1f0a2af",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2e67894e3d70428daf4cf466566ce0ef/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-24T18:31:34.991619",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,169 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-06T00:35:35.273239",
+    "embedUrl": "https://sketchfab.com/models/2f940658e61f47898dbce56ca5df510d/embed",
+    "faceCount": 318657,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Estela del Togado - Los Cabos, Pravia",
+    "publishedAt": "2026-02-06T00:49:39.423754",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "Asturias",
+            "slug": "asturias",
+            "uri": "https://api.sketchfab.com/v3/tags/asturias"
+        },
+        {
+            "name": "togado",
+            "slug": "togado",
+            "uri": "https://api.sketchfab.com/v3/tags/togado"
+        },
+        {
+            "name": "pravia",
+            "slug": "pravia",
+            "uri": "https://api.sketchfab.com/v3/tags/pravia"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c242600b3d784bd3a15ec7542ea7f4cd",
+                "width": 1920,
+                "height": 1080,
+                "size": 285053,
+                "url": "https://media.sketchfab.com/models/2f940658e61f47898dbce56ca5df510d/thumbnails/6a7cd16a49604c018253ae5cef78b5c4/4c319667ad404c14b07b2278247efca4.jpeg"
+            },
+            {
+                "uid": "ff8e90906b52414b88f6e8b885eb5326",
+                "width": 1024,
+                "height": 576,
+                "size": 54757,
+                "url": "https://media.sketchfab.com/models/2f940658e61f47898dbce56ca5df510d/thumbnails/6a7cd16a49604c018253ae5cef78b5c4/64fb464952c3443c91d109042a1e18b6.jpeg"
+            },
+            {
+                "uid": "a1f9b3821f8448878b00617a07b81275",
+                "width": 720,
+                "height": 405,
+                "size": 28783,
+                "url": "https://media.sketchfab.com/models/2f940658e61f47898dbce56ca5df510d/thumbnails/6a7cd16a49604c018253ae5cef78b5c4/d4e624370d7d4bdbb7d8850e046a6d90.jpeg"
+            },
+            {
+                "uid": "7f4a29a60f504a49b8a179e153cd6692",
+                "width": 256,
+                "height": 144,
+                "size": 5486,
+                "url": "https://media.sketchfab.com/models/2f940658e61f47898dbce56ca5df510d/thumbnails/6a7cd16a49604c018253ae5cef78b5c4/354675b6f2d642138ae56732d1e903c8.jpeg"
+            },
+            {
+                "uid": "eb53fd39c0da4c11a97d3722db04b0d8",
+                "width": 64,
+                "height": 36,
+                "size": 1222,
+                "url": "https://media.sketchfab.com/models/2f940658e61f47898dbce56ca5df510d/thumbnails/6a7cd16a49604c018253ae5cef78b5c4/1eec5cc8e383403ea0e2b0a3e086e67e.jpeg"
+            }
+        ]
+    },
+    "uid": "2f940658e61f47898dbce56ca5df510d",
+    "uri": "https://api.sketchfab.com/v3/models/2f940658e61f47898dbce56ca5df510d",
+    "user": {
+        "uid": "402170b730af43f591a3d94f76b0254d",
+        "username": "luiscoya",
+        "displayName": "luiscoya",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/luiscoya",
+        "avatar": {
+            "uid": "77871b32fe4f4fe7a58798ffce805daa",
+            "uri": "https://api.sketchfab.com/v3/avatars/77871b32fe4f4fe7a58798ffce805daa",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4734,
+                    "url": "https://media.sketchfab.com/avatars/77871b32fe4f4fe7a58798ffce805daa/0af8dbedca8e4eaab03e5c147a19a54e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3916,
+                    "url": "https://media.sketchfab.com/avatars/77871b32fe4f4fe7a58798ffce805daa/34178ac6aeef4c508c9fab4610ea14af.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1348,
+                    "url": "https://media.sketchfab.com/avatars/77871b32fe4f4fe7a58798ffce805daa/7237385a25594c79a2119590906869b4.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 787,
+                    "url": "https://media.sketchfab.com/avatars/77871b32fe4f4fe7a58798ffce805daa/1d922d673c594e35bb6de8d92f24b5e9.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/402170b730af43f591a3d94f76b0254d"
+    },
+    "vertexCount": 162677,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/estela-del-togado-los-cabos-pravia-2f940658e61f47898dbce56ca5df510d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Pieza hallada en Los Cabos (Pravia), realizada en arenisca y datada en los siglos I-III DC. La estela fue identiﬁcada en 1958 en el lugar de Los Cabos donde estaba empotrada en la pared de un hórreo. Fue publicada por Francisco Jordá y reinterpretada por Antonio García y Bellido. Representa a un personaje togado, motivo único en la epigrafía romana de Asturias. La inscripción se desarrolla sobre el marco en su parte superior en una banda de unos 4 cm de anchura donde parcialmente puede leerse el nombre del difunto. En el entorno de Los Cabos y el territorio de Pravia son abundantes los restos romanos de cierta importancia donde las fuentes clásicas parecen ubicar la polis de Flavionavia, presuntamente capital de los astures trasmontanos.\nSe conserva en el Museo Arqueológico en su exposición permanente.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2f940658e61f47898dbce56ca5df510d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-06T07:56:14.013596",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

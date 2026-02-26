@@ -1,0 +1,184 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2025-05-30T23:38:15.377968",
+    "embedUrl": "https://sketchfab.com/models/1ca949a16c904e3c88be4ceda342ac4f/embed",
+    "faceCount": 33505,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 9,
+    "name": "DAE Crib",
+    "publishedAt": "2025-05-31T08:37:50.247771",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "daehowest",
+            "slug": "daehowest",
+            "uri": "https://api.sketchfab.com/v3/tags/daehowest"
+        },
+        {
+            "name": "studioghibli",
+            "slug": "studioghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/studioghibli"
+        },
+        {
+            "name": "littlenightmares",
+            "slug": "littlenightmares",
+            "uri": "https://api.sketchfab.com/v3/tags/littlenightmares"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "daecrib",
+            "slug": "daecrib",
+            "uri": "https://api.sketchfab.com/v3/tags/daecrib"
+        },
+        {
+            "name": "gameart2025",
+            "slug": "gameart2025",
+            "uri": "https://api.sketchfab.com/v3/tags/gameart2025"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d9f0e305fd954bc484b662c247d37559",
+                "width": 1920,
+                "height": 1080,
+                "size": 292184,
+                "url": "https://media.sketchfab.com/models/1ca949a16c904e3c88be4ceda342ac4f/thumbnails/0a1b24ad5beb4da09260510286878e15/f638bced15a54a7f803c359e8b606c33.jpeg"
+            },
+            {
+                "uid": "a029fb96d35d43edadcdb24bf0352ae3",
+                "width": 1024,
+                "height": 576,
+                "size": 92487,
+                "url": "https://media.sketchfab.com/models/1ca949a16c904e3c88be4ceda342ac4f/thumbnails/0a1b24ad5beb4da09260510286878e15/1e384be7216248cfa3300c13da5b89ac.jpeg"
+            },
+            {
+                "uid": "42716cefaae1418e86b0a65636f1a30c",
+                "width": 720,
+                "height": 405,
+                "size": 52684,
+                "url": "https://media.sketchfab.com/models/1ca949a16c904e3c88be4ceda342ac4f/thumbnails/0a1b24ad5beb4da09260510286878e15/49fc827af1844ad190b87ccf2c6d7d2f.jpeg"
+            },
+            {
+                "uid": "8b3198763a1046df80f4159382ee9ff0",
+                "width": 256,
+                "height": 144,
+                "size": 9992,
+                "url": "https://media.sketchfab.com/models/1ca949a16c904e3c88be4ceda342ac4f/thumbnails/0a1b24ad5beb4da09260510286878e15/94d50b318d7948088f7feab800059264.jpeg"
+            },
+            {
+                "uid": "4db90a98dfb64322a89cef7241605c91",
+                "width": 64,
+                "height": 36,
+                "size": 1581,
+                "url": "https://media.sketchfab.com/models/1ca949a16c904e3c88be4ceda342ac4f/thumbnails/0a1b24ad5beb4da09260510286878e15/37d7462feaf64b2483d9919343441830.jpeg"
+            }
+        ]
+    },
+    "uid": "1ca949a16c904e3c88be4ceda342ac4f",
+    "uri": "https://api.sketchfab.com/v3/models/1ca949a16c904e3c88be4ceda342ac4f",
+    "user": {
+        "uid": "c08f0a1b8e644a848ab1d3e94d13b600",
+        "username": "Dominique_Bloemen",
+        "displayName": "Lucy_Bloemen",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Dominique_Bloemen",
+        "avatar": {
+            "uid": "b1aed36fabfb4af7a4553d49624bc312",
+            "uri": "https://api.sketchfab.com/v3/avatars/b1aed36fabfb4af7a4553d49624bc312",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 913,
+                    "url": "https://media.sketchfab.com/avatars/b1aed36fabfb4af7a4553d49624bc312/c34a9d1a1b514200be8028f894baf4fc.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1817,
+                    "url": "https://media.sketchfab.com/avatars/b1aed36fabfb4af7a4553d49624bc312/b1471cac7373465fadacb353177ce87e.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5686,
+                    "url": "https://media.sketchfab.com/avatars/b1aed36fabfb4af7a4553d49624bc312/69a64309fb0b4d7da092f2309087080a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6902,
+                    "url": "https://media.sketchfab.com/avatars/b1aed36fabfb4af7a4553d49624bc312/80af8e75eb1d49e48842dd850e1512e7.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c08f0a1b8e644a848ab1d3e94d13b600"
+    },
+    "vertexCount": 18397,
+    "viewCount": 231,
+    "viewerUrl": "https://sketchfab.com/3d-models/dae-crib-1ca949a16c904e3c88be4ceda342ac4f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "a style mash of Little Nightmares and Studio Ghibli",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1ca949a16c904e3c88be4ceda342ac4f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-05-31T08:37:50.367677",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

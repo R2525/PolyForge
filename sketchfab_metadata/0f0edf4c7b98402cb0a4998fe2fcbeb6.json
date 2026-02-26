@@ -1,0 +1,180 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-03T22:44:37.299616",
+    "embedUrl": "https://sketchfab.com/models/0f0edf4c7b98402cb0a4998fe2fcbeb6/embed",
+    "faceCount": 5814,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Stylized Medieval Tavern Table",
+    "publishedAt": "2025-12-03T22:57:41.303666",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "tavern",
+            "slug": "tavern",
+            "uri": "https://api.sketchfab.com/v3/tags/tavern"
+        },
+        {
+            "name": "table",
+            "slug": "table",
+            "uri": "https://api.sketchfab.com/v3/tags/table"
+        },
+        {
+            "name": "pbr-game-ready",
+            "slug": "pbr-game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-game-ready"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "54b8468eb691441c8fd0550bf2b7117e",
+                "width": 1920,
+                "height": 1080,
+                "size": 113527,
+                "url": "https://media.sketchfab.com/models/0f0edf4c7b98402cb0a4998fe2fcbeb6/thumbnails/dee42cbc2f62459a82e1f05ddb0f44ef/af67386afaf047ceb6dc98fdcd8c972c.jpeg"
+            },
+            {
+                "uid": "d4f9a080395e49c1b91390e798a8e72e",
+                "width": 1024,
+                "height": 576,
+                "size": 38308,
+                "url": "https://media.sketchfab.com/models/0f0edf4c7b98402cb0a4998fe2fcbeb6/thumbnails/dee42cbc2f62459a82e1f05ddb0f44ef/87d45de685424bb38227f30859e1c257.jpeg"
+            },
+            {
+                "uid": "76e96cee9574417c93df092ef7b1d7ea",
+                "width": 720,
+                "height": 405,
+                "size": 21751,
+                "url": "https://media.sketchfab.com/models/0f0edf4c7b98402cb0a4998fe2fcbeb6/thumbnails/dee42cbc2f62459a82e1f05ddb0f44ef/8c849e80519d4b44aad6ca55bd9728ad.jpeg"
+            },
+            {
+                "uid": "0590a9ccebec4f18a4a5a572c6b8a94a",
+                "width": 256,
+                "height": 144,
+                "size": 4305,
+                "url": "https://media.sketchfab.com/models/0f0edf4c7b98402cb0a4998fe2fcbeb6/thumbnails/dee42cbc2f62459a82e1f05ddb0f44ef/139c54ec837f460f8fafb452861b1926.jpeg"
+            },
+            {
+                "uid": "e0ccc8dc7c60407cade13c2778f1afe5",
+                "width": 64,
+                "height": 36,
+                "size": 1091,
+                "url": "https://media.sketchfab.com/models/0f0edf4c7b98402cb0a4998fe2fcbeb6/thumbnails/dee42cbc2f62459a82e1f05ddb0f44ef/ac1e3ae68baa4d41afb4a7e2330b5599.jpeg"
+            }
+        ]
+    },
+    "uid": "0f0edf4c7b98402cb0a4998fe2fcbeb6",
+    "uri": "https://api.sketchfab.com/v3/models/0f0edf4c7b98402cb0a4998fe2fcbeb6",
+    "user": {
+        "uid": "72880585b8e74b7292110c63ad19dd31",
+        "username": "yoruoki",
+        "displayName": "sensh1",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/yoruoki",
+        "avatar": {
+            "uid": "de70652b03d44ec8a5d60d063e068733",
+            "uri": "https://api.sketchfab.com/v3/avatars/de70652b03d44ec8a5d60d063e068733",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1154,
+                    "url": "https://media.sketchfab.com/avatars/de70652b03d44ec8a5d60d063e068733/552dbcd69f3940a4a2ca00f683eb452f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1641,
+                    "url": "https://media.sketchfab.com/avatars/de70652b03d44ec8a5d60d063e068733/ced71311eada4ab6a2ff5126321e4f4b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3612,
+                    "url": "https://media.sketchfab.com/avatars/de70652b03d44ec8a5d60d063e068733/066b4509ced449b0b50b5a5864f1f91e.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4221,
+                    "url": "https://media.sketchfab.com/avatars/de70652b03d44ec8a5d60d063e068733/00a44f94b3fb49dfa6d22976c7d05fd8.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/72880585b8e74b7292110c63ad19dd31"
+    },
+    "vertexCount": 3339,
+    "viewCount": 61,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-medieval-tavern-table-0f0edf4c7b98402cb0a4998fe2fcbeb6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Game-ready environment prop created for real-time use.\nModeled in Blender, textured using Substance Painter.\nOptimized topology, PBR workflow.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0f0edf4c7b98402cb0a4998fe2fcbeb6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-03T22:57:41.584611",
+    "pbrType": "metalness",
+    "textureCount": 15,
+    "materialCount": 3
+}

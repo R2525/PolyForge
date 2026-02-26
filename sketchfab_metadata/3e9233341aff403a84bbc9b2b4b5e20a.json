@@ -1,0 +1,206 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T09:56:49.451278",
+    "embedUrl": "https://sketchfab.com/models/3e9233341aff403a84bbc9b2b4b5e20a/embed",
+    "faceCount": 1532,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Japanese Ema stand part 1",
+    "publishedAt": "2026-02-25T10:08:31.818099",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "furnitures",
+            "slug": "furnitures",
+            "uri": "https://api.sketchfab.com/v3/tags/furnitures"
+        },
+        {
+            "name": "anime3d",
+            "slug": "anime3d",
+            "uri": "https://api.sketchfab.com/v3/tags/anime3d"
+        },
+        {
+            "name": "ema",
+            "slug": "ema",
+            "uri": "https://api.sketchfab.com/v3/tags/ema"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "temple",
+            "slug": "temple",
+            "uri": "https://api.sketchfab.com/v3/tags/temple"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c37ea1d6292d4459a24f9c3ae680d9bc",
+                "width": 1920,
+                "height": 1080,
+                "size": 71814,
+                "url": "https://media.sketchfab.com/models/3e9233341aff403a84bbc9b2b4b5e20a/thumbnails/656e5d33a5cc4725a8d96ff84dd605ec/88bf5f0a4dec4a8a92305e7428ff483f.jpeg"
+            },
+            {
+                "uid": "58931e14a4164c05beb3a83dfda63210",
+                "width": 1024,
+                "height": 576,
+                "size": 25144,
+                "url": "https://media.sketchfab.com/models/3e9233341aff403a84bbc9b2b4b5e20a/thumbnails/656e5d33a5cc4725a8d96ff84dd605ec/8c1bc91cde724a3995aaad4f866884b7.jpeg"
+            },
+            {
+                "uid": "efc6ace7cf5d462087122f8f183b918f",
+                "width": 720,
+                "height": 405,
+                "size": 15089,
+                "url": "https://media.sketchfab.com/models/3e9233341aff403a84bbc9b2b4b5e20a/thumbnails/656e5d33a5cc4725a8d96ff84dd605ec/81188b0c63b84c1591803563cb52251f.jpeg"
+            },
+            {
+                "uid": "a25d3d40b8024a43a4925630bd759efd",
+                "width": 256,
+                "height": 144,
+                "size": 3456,
+                "url": "https://media.sketchfab.com/models/3e9233341aff403a84bbc9b2b4b5e20a/thumbnails/656e5d33a5cc4725a8d96ff84dd605ec/101279b95e1048439f17553ab3dbaec9.jpeg"
+            },
+            {
+                "uid": "9fbde40889f84b6c8fd72de2fb3870c9",
+                "width": 64,
+                "height": 36,
+                "size": 1025,
+                "url": "https://media.sketchfab.com/models/3e9233341aff403a84bbc9b2b4b5e20a/thumbnails/656e5d33a5cc4725a8d96ff84dd605ec/16b0cbabafe447a4b09b04f3e346eed1.jpeg"
+            }
+        ]
+    },
+    "uid": "3e9233341aff403a84bbc9b2b4b5e20a",
+    "uri": "https://api.sketchfab.com/v3/models/3e9233341aff403a84bbc9b2b4b5e20a",
+    "user": {
+        "uid": "adcb6acd9246432b9596a34d43d27110",
+        "username": "IG_Shero",
+        "displayName": "IG_Shero",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/IG_Shero",
+        "avatar": {
+            "uid": "f560dc8f065d46e197a882035bd5f9c2",
+            "uri": "https://api.sketchfab.com/v3/avatars/f560dc8f065d46e197a882035bd5f9c2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1004,
+                    "url": "https://media.sketchfab.com/avatars/f560dc8f065d46e197a882035bd5f9c2/0d2b0a126d4b46dbbddbd62b78a7b0a8.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1391,
+                    "url": "https://media.sketchfab.com/avatars/f560dc8f065d46e197a882035bd5f9c2/1285b6d4d84d4536ab0ccc12f3d82d88.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3224,
+                    "url": "https://media.sketchfab.com/avatars/f560dc8f065d46e197a882035bd5f9c2/622deb50e24a487ebdc21046f594b5b6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3718,
+                    "url": "https://media.sketchfab.com/avatars/f560dc8f065d46e197a882035bd5f9c2/53b0c834f3f3492f9a5966e889a2ce41.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/adcb6acd9246432b9596a34d43d27110"
+    },
+    "vertexCount": 1230,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/japanese-ema-stand-part-1-3e9233341aff403a84bbc9b2b4b5e20a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Ema stand in Japanese style with anime textures vibe",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/3e9233341aff403a84bbc9b2b4b5e20a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T10:08:32.066238",
+    "pbrType": null,
+    "textureCount": 18,
+    "materialCount": 6
+}

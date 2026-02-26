@@ -1,0 +1,220 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-25T14:31:56.298171",
+    "embedUrl": "https://sketchfab.com/models/14504e6f586e4a089d4ada4feb1ff665/embed",
+    "faceCount": 3500,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "low poly wooden house (Type E)",
+    "publishedAt": "2026-01-25T14:35:21.361907",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "efficient",
+            "slug": "efficient",
+            "uri": "https://api.sketchfab.com/v3/tags/efficient"
+        },
+        {
+            "name": "godot",
+            "slug": "godot",
+            "uri": "https://api.sketchfab.com/v3/tags/godot"
+        },
+        {
+            "name": "reuse",
+            "slug": "reuse",
+            "uri": "https://api.sketchfab.com/v3/tags/reuse"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "village",
+            "slug": "village",
+            "uri": "https://api.sketchfab.com/v3/tags/village"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0efac04a4d334efd810a6b617ca69bfa",
+                "width": 1920,
+                "height": 1080,
+                "size": 87439,
+                "url": "https://media.sketchfab.com/models/14504e6f586e4a089d4ada4feb1ff665/thumbnails/a39d4fb380b94b329121195cf5b3b382/f7ebb6f595c5421abdc99eb860f712ca.jpeg"
+            },
+            {
+                "uid": "db2ba9d726f6464bbea0995a9e3fc969",
+                "width": 1024,
+                "height": 576,
+                "size": 29733,
+                "url": "https://media.sketchfab.com/models/14504e6f586e4a089d4ada4feb1ff665/thumbnails/a39d4fb380b94b329121195cf5b3b382/49063261c43340eeac6dc36a0018a035.jpeg"
+            },
+            {
+                "uid": "0989b9bb20d94bc08b7f9c619e5e4c66",
+                "width": 720,
+                "height": 405,
+                "size": 17687,
+                "url": "https://media.sketchfab.com/models/14504e6f586e4a089d4ada4feb1ff665/thumbnails/a39d4fb380b94b329121195cf5b3b382/d18ae0c2dd3146ac8aa6907d9c7e7fcf.jpeg"
+            },
+            {
+                "uid": "c0ad245257744cd980b26664eec8197f",
+                "width": 256,
+                "height": 144,
+                "size": 4026,
+                "url": "https://media.sketchfab.com/models/14504e6f586e4a089d4ada4feb1ff665/thumbnails/a39d4fb380b94b329121195cf5b3b382/8b31b2f1e99b481a9008558456cd1cc9.jpeg"
+            },
+            {
+                "uid": "7b3957162d18497798f4e29a60e6eb82",
+                "width": 64,
+                "height": 36,
+                "size": 1074,
+                "url": "https://media.sketchfab.com/models/14504e6f586e4a089d4ada4feb1ff665/thumbnails/a39d4fb380b94b329121195cf5b3b382/b3fc031926bc4d659d8db4f8cae95e21.jpeg"
+            }
+        ]
+    },
+    "uid": "14504e6f586e4a089d4ada4feb1ff665",
+    "uri": "https://api.sketchfab.com/v3/models/14504e6f586e4a089d4ada4feb1ff665",
+    "user": {
+        "uid": "d2cbad0a42714192a2f677b10b5769b7",
+        "username": "owowowsam",
+        "displayName": "owowowsam",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/owowowsam",
+        "avatar": {
+            "uid": "7cc429b9375a4e66a30b26736d699e46",
+            "uri": "https://api.sketchfab.com/v3/avatars/7cc429b9375a4e66a30b26736d699e46",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2387,
+                    "url": "https://media.sketchfab.com/avatars/7cc429b9375a4e66a30b26736d699e46/1258dcf80bc340269861a325cff0f81d.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4909,
+                    "url": "https://media.sketchfab.com/avatars/7cc429b9375a4e66a30b26736d699e46/d756267330164f60a19d9567501165ab.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14854,
+                    "url": "https://media.sketchfab.com/avatars/7cc429b9375a4e66a30b26736d699e46/55b4482272e74d248d54f13593bb5473.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17861,
+                    "url": "https://media.sketchfab.com/avatars/7cc429b9375a4e66a30b26736d699e46/0651ed56414a488c8c4c6593782ae49d.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d2cbad0a42714192a2f677b10b5769b7"
+    },
+    "vertexCount": 2022,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-wooden-house-type-e-14504e6f586e4a089d4ada4feb1ff665",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a **low poly wooden house (Type E)** modeled in Blender as part of a daily challenge:\ncreating one game-ready asset per day within approximately one hour.\n\nFor this version, parts from House B were reused to speed up production and ensure efficiency.  \nThis approach also allowed additional time to refine texturing and color placement for better visual quality.\n\nThe model is suitable for fantasy and medieval-style games, such as villages and towns.\n\nThe asset uses a **single shared color palette texture**, with all colors assigned via UV mapping,\nso the same palette can be reused across the entire series.\n\nA timelapse video of the modeling process is available on my YouTube channel.\nThis model is also available for purchase on CGTrader.\n\n**Key Points:**\n- One asset per day, ~1 hour production\n- Low poly, game-ready\n- Reused parts for efficient workflow\n- Focused on texturing and color placement\n- Single shared color palette texture\n- UV-based coloring\n- Compatible with Unity, Godot, Unreal Engine",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/14504e6f586e4a089d4ada4feb1ff665/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-27T12:13:48.476085",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

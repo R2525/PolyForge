@@ -1,0 +1,152 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-08T01:01:49.169785",
+    "embedUrl": "https://sketchfab.com/models/3abbdf082116410383b03615f397d020/embed",
+    "faceCount": 668083,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 7,
+    "name": "Star Wars Ahsoka Phantom II",
+    "publishedAt": "2025-12-08T01:02:42.074963",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "starship",
+            "slug": "starship",
+            "uri": "https://api.sketchfab.com/v3/tags/starship"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "287533c19cd647e1bbb1a08f3f2a4488",
+                "width": 1920,
+                "height": 1080,
+                "size": 128653,
+                "url": "https://media.sketchfab.com/models/3abbdf082116410383b03615f397d020/thumbnails/f4ccc7b9c2354ac9a5d6f0d6d1c0b3a4/bf9dacad06bf4adbb805c1c4008f971e.jpeg"
+            },
+            {
+                "uid": "cecc004450eb49139657a8811674a4a9",
+                "width": 1024,
+                "height": 576,
+                "size": 27345,
+                "url": "https://media.sketchfab.com/models/3abbdf082116410383b03615f397d020/thumbnails/f4ccc7b9c2354ac9a5d6f0d6d1c0b3a4/33b3c6f1402e42b1a64c890224fd1761.jpeg"
+            },
+            {
+                "uid": "a8f5e3d1c27d4843a0a1d2fb578c065a",
+                "width": 720,
+                "height": 405,
+                "size": 13707,
+                "url": "https://media.sketchfab.com/models/3abbdf082116410383b03615f397d020/thumbnails/f4ccc7b9c2354ac9a5d6f0d6d1c0b3a4/416ba78e2b34495fbfdcafdb170d7683.jpeg"
+            },
+            {
+                "uid": "5a93b58102494e24b0c309e48ca90cc3",
+                "width": 256,
+                "height": 144,
+                "size": 2754,
+                "url": "https://media.sketchfab.com/models/3abbdf082116410383b03615f397d020/thumbnails/f4ccc7b9c2354ac9a5d6f0d6d1c0b3a4/1680e74fb2f44ee39eb1d6ab9670aa5c.jpeg"
+            },
+            {
+                "uid": "bf5d38aa88c64d9d8e83947fe32ad613",
+                "width": 64,
+                "height": 36,
+                "size": 901,
+                "url": "https://media.sketchfab.com/models/3abbdf082116410383b03615f397d020/thumbnails/f4ccc7b9c2354ac9a5d6f0d6d1c0b3a4/60bb2482df714e059b08b1ec5a3e5238.jpeg"
+            }
+        ]
+    },
+    "uid": "3abbdf082116410383b03615f397d020",
+    "uri": "https://api.sketchfab.com/v3/models/3abbdf082116410383b03615f397d020",
+    "user": {
+        "uid": "07a868cf679941d78fc86973ebf60d08",
+        "username": "CaptainJamesKirk",
+        "displayName": "Cpt.Kirk",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/CaptainJamesKirk",
+        "avatar": {
+            "uid": "1bebc4ca6d87444fb72d92ee879027c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/1bebc4ca6d87444fb72d92ee879027c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1113,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/cf4d6df1b37d4c608bcdf19cb3ecd78d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1511,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/d4a8f984e1fc467db1a9ea57924d59da.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3394,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/70c073fad2e04eff80f02cc9e4127553.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3895,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/7b63b77d8938437688d7476eeeb5439d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/07a868cf679941d78fc86973ebf60d08"
+    },
+    "vertexCount": 333873,
+    "viewCount": 186,
+    "viewerUrl": "https://sketchfab.com/3d-models/star-wars-ahsoka-phantom-ii-3abbdf082116410383b03615f397d020",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model of the phantom \nin the series from Ahsoka this ship was seen on screen on corellia shipyards\nso, feel free to download my model and it's free to use \nfollow me for more 3d models",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/3abbdf082116410383b03615f397d020/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2025-12-08T01:15:50.294101",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,194 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-28T18:29:15.626907",
+    "embedUrl": "https://sketchfab.com/models/22273fc920a7435ab993f2f559968dc8/embed",
+    "faceCount": 29187,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Stylized Medieval Arena (low-poly Level Design)",
+    "publishedAt": "2025-11-28T18:44:57.404285",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "arena",
+            "slug": "arena",
+            "uri": "https://api.sketchfab.com/v3/tags/arena"
+        },
+        {
+            "name": "minimalist",
+            "slug": "minimalist",
+            "uri": "https://api.sketchfab.com/v3/tags/minimalist"
+        },
+        {
+            "name": "low-poly-model",
+            "slug": "low-poly-model",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly-model"
+        },
+        {
+            "name": "low-poly-blender",
+            "slug": "low-poly-blender",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly-blender"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1abc9b81fc8f4b4990ff99ab14ed838e",
+                "width": 1920,
+                "height": 1080,
+                "size": 64666,
+                "url": "https://media.sketchfab.com/models/22273fc920a7435ab993f2f559968dc8/thumbnails/19bd9c32cd6245369623db7cdd5b6ba8/428fa3c05a6f437da7c711e7b3f3c24a.jpeg"
+            },
+            {
+                "uid": "ce6a0ae377bb4127bb92bfff86329748",
+                "width": 1024,
+                "height": 576,
+                "size": 21422,
+                "url": "https://media.sketchfab.com/models/22273fc920a7435ab993f2f559968dc8/thumbnails/19bd9c32cd6245369623db7cdd5b6ba8/72ed0c5014f8479898ef5bbd5ab72a41.jpeg"
+            },
+            {
+                "uid": "0c4e35c3bb7144c0bade32a74b3259af",
+                "width": 720,
+                "height": 405,
+                "size": 12515,
+                "url": "https://media.sketchfab.com/models/22273fc920a7435ab993f2f559968dc8/thumbnails/19bd9c32cd6245369623db7cdd5b6ba8/3b9b39c6fdba4b64b39071eb73201e14.jpeg"
+            },
+            {
+                "uid": "d0d0b059d42744ec8d88de11b67d1f55",
+                "width": 256,
+                "height": 144,
+                "size": 2769,
+                "url": "https://media.sketchfab.com/models/22273fc920a7435ab993f2f559968dc8/thumbnails/19bd9c32cd6245369623db7cdd5b6ba8/d2e23c7adaa941c8879beab871851e69.jpeg"
+            },
+            {
+                "uid": "bf9ea119f7914cd4923f488ffc507ab0",
+                "width": 64,
+                "height": 36,
+                "size": 877,
+                "url": "https://media.sketchfab.com/models/22273fc920a7435ab993f2f559968dc8/thumbnails/19bd9c32cd6245369623db7cdd5b6ba8/dbbff3f6226642fe85864323c9bac0d2.jpeg"
+            }
+        ]
+    },
+    "uid": "22273fc920a7435ab993f2f559968dc8",
+    "uri": "https://api.sketchfab.com/v3/models/22273fc920a7435ab993f2f559968dc8",
+    "user": {
+        "uid": "017eeca9f29447ab85375710c3fd9622",
+        "username": "amitatul03",
+        "displayName": "phoenix arts",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/amitatul03",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/017eeca9f29447ab85375710c3fd9622"
+    },
+    "vertexCount": 14192,
+    "viewCount": 43,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-medieval-arena-low-poly-level-design-22273fc920a7435ab993f2f559968dc8",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**This is a low-poly 3D level designed with a stylized medieval arena vibe. The scene is surrounded by high stone walls and sharp mountain formations, creating a closed, fortress-like environment. Inside the arena, wooden watchtowers, walkways, and platforms are placed around the perimeter to add depth and structure to the space.**\n\n**The center area is kept open with scattered trees, bushes, and small props that break the empty ground without overcrowding it. The bright green terrain contrasts nicely with the warm wood tones and grey stone elements, giving the level a clean and visually readable look. Overall, the design aims for a simple, playful style while still feeling like a functional battle or training arena.**",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/22273fc920a7435ab993f2f559968dc8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-28T18:44:57.757566",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 16
+}

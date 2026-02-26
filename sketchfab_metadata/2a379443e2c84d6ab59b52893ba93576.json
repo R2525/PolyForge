@@ -1,0 +1,267 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-09T13:38:27.745384",
+    "embedUrl": "https://sketchfab.com/models/2a379443e2c84d6ab59b52893ba93576/embed",
+    "faceCount": 3926,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Old Rusted War Axe",
+    "publishedAt": "2025-12-09T13:40:50.273351",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "apocalyptic",
+            "slug": "apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/apocalyptic"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "melee",
+            "slug": "melee",
+            "uri": "https://api.sketchfab.com/v3/tags/melee"
+        },
+        {
+            "name": "equipment",
+            "slug": "equipment",
+            "uri": "https://api.sketchfab.com/v3/tags/equipment"
+        },
+        {
+            "name": "rusted",
+            "slug": "rusted",
+            "uri": "https://api.sketchfab.com/v3/tags/rusted"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "dystopian",
+            "slug": "dystopian",
+            "uri": "https://api.sketchfab.com/v3/tags/dystopian"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "painter",
+            "slug": "painter",
+            "uri": "https://api.sketchfab.com/v3/tags/painter"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "sketchfab",
+            "slug": "sketchfab",
+            "uri": "https://api.sketchfab.com/v3/tags/sketchfab"
+        },
+        {
+            "name": "war",
+            "slug": "war",
+            "uri": "https://api.sketchfab.com/v3/tags/war"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "fd4a4418700948b5ae4660cdd85cd3a8",
+                "width": 1920,
+                "height": 1080,
+                "size": 283096,
+                "url": "https://media.sketchfab.com/models/2a379443e2c84d6ab59b52893ba93576/thumbnails/526ac094305747eca17a40b4feff34f3/555cd71862d2410da9ec95247c61bd32.jpeg"
+            },
+            {
+                "uid": "0bba244705b54866b1cdc90180403cd5",
+                "width": 1024,
+                "height": 576,
+                "size": 58149,
+                "url": "https://media.sketchfab.com/models/2a379443e2c84d6ab59b52893ba93576/thumbnails/526ac094305747eca17a40b4feff34f3/e44ea73f7d8d43a6b3d628bda34ed264.jpeg"
+            },
+            {
+                "uid": "538d712a762e4b24b5b323353be47381",
+                "width": 720,
+                "height": 405,
+                "size": 26671,
+                "url": "https://media.sketchfab.com/models/2a379443e2c84d6ab59b52893ba93576/thumbnails/526ac094305747eca17a40b4feff34f3/0795ac20cadf4f7784a864018ffc2ee1.jpeg"
+            },
+            {
+                "uid": "33e00c9fba4b4777be301a13af793b9e",
+                "width": 256,
+                "height": 144,
+                "size": 4184,
+                "url": "https://media.sketchfab.com/models/2a379443e2c84d6ab59b52893ba93576/thumbnails/526ac094305747eca17a40b4feff34f3/7d602c31cef34dab9bf1112ff7589a54.jpeg"
+            },
+            {
+                "uid": "b85fc5a66bbe411b8f7b0999c2c091c5",
+                "width": 64,
+                "height": 36,
+                "size": 1011,
+                "url": "https://media.sketchfab.com/models/2a379443e2c84d6ab59b52893ba93576/thumbnails/526ac094305747eca17a40b4feff34f3/eef68f9e432b4c22af74572cbcacbf05.jpeg"
+            }
+        ]
+    },
+    "uid": "2a379443e2c84d6ab59b52893ba93576",
+    "uri": "https://api.sketchfab.com/v3/models/2a379443e2c84d6ab59b52893ba93576",
+    "user": {
+        "uid": "b9cb71bcd1184c12ab1bb88298c8b034",
+        "username": "ShannanTaylor",
+        "displayName": "Shannan Taylor",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ShannanTaylor",
+        "avatar": {
+            "uid": "71d3b42f626b45e19e4797c6970a137d",
+            "uri": "https://api.sketchfab.com/v3/avatars/71d3b42f626b45e19e4797c6970a137d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 857,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/cba2e22d0aec46d89833f32d54118d72.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1796,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/74db0555fd244506959afd9a28ca5d11.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5860,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/a8d957a90fb94ee5a3ecf364e098f73b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 7162,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/ded7e9a563a84bea935dccdd8f7e5a7f.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b9cb71bcd1184c12ab1bb88298c8b034"
+    },
+    "vertexCount": 1967,
+    "viewCount": 56,
+    "viewerUrl": "https://sketchfab.com/3d-models/old-rusted-war-axe-2a379443e2c84d6ab59b52893ba93576",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "V Axe - Battle-Worn Rusted War Axe Low-Poly PBR Game Ready 3D Model\n\nThis highly detailed, battle-worn rusted war axe is a versatile melee weapon asset, perfect for adding gritty realism to your projects. Featuring a heavy, corroded blade with deep rust effects and a rugged, weathered wooden handle wrapped in aged leather straps, this model captures the essence of a brutal, post-battle relic.\n\nIdeal for medieval fantasy games, survival horror titles, post-apocalyptic worlds, Viking-inspired scenes, or historical reconstructions. \n\nOptimized as a low-poly model with efficient topology, it performs seamlessly in real-time engines while retaining sharp visual detail for close-up views in VR/AR/MR applications.",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/2a379443e2c84d6ab59b52893ba93576/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "SubstancePainter",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-24T03:57:34.989761",
+    "pbrType": "metalness",
+    "textureCount": 14,
+    "materialCount": 2
+}

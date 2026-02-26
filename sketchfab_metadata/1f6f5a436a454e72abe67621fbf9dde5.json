@@ -1,0 +1,216 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-26T11:18:21.078619",
+    "embedUrl": "https://sketchfab.com/models/1f6f5a436a454e72abe67621fbf9dde5/embed",
+    "faceCount": 2,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Viking Shield Escudo Viking",
+    "publishedAt": "2026-01-26T11:23:32.793926",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "round",
+            "slug": "round",
+            "uri": "https://api.sketchfab.com/v3/tags/round"
+        },
+        {
+            "name": "age",
+            "slug": "age",
+            "uri": "https://api.sketchfab.com/v3/tags/age"
+        },
+        {
+            "name": "Nordic",
+            "slug": "nordic",
+            "uri": "https://api.sketchfab.com/v3/tags/nordic"
+        },
+        {
+            "name": "escudo",
+            "slug": "escudo",
+            "uri": "https://api.sketchfab.com/v3/tags/escudo"
+        },
+        {
+            "name": "norse",
+            "slug": "norse",
+            "uri": "https://api.sketchfab.com/v3/tags/norse"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5c348379faf14ebdbb66995c2201fb21",
+                "width": 1920,
+                "height": 1080,
+                "size": 280921,
+                "url": "https://media.sketchfab.com/models/1f6f5a436a454e72abe67621fbf9dde5/thumbnails/dd8fb01686d4454db4fe2f38bf241985/e9cddb59adda409eaef5b148b1c612f2.jpeg"
+            },
+            {
+                "uid": "2759eb4400be48aa9693c7ab81bf89ec",
+                "width": 1024,
+                "height": 576,
+                "size": 100477,
+                "url": "https://media.sketchfab.com/models/1f6f5a436a454e72abe67621fbf9dde5/thumbnails/dd8fb01686d4454db4fe2f38bf241985/ffe5f31f59eb4712a5cfb2a14f738966.jpeg"
+            },
+            {
+                "uid": "34c1dab6cbb04d0d8b54d4e880d117d6",
+                "width": 720,
+                "height": 405,
+                "size": 58191,
+                "url": "https://media.sketchfab.com/models/1f6f5a436a454e72abe67621fbf9dde5/thumbnails/dd8fb01686d4454db4fe2f38bf241985/c5d83aaf16df4e56bcc63b8b5a662fa0.jpeg"
+            },
+            {
+                "uid": "48bf19c99e1f4425bb26d94fa40c817e",
+                "width": 256,
+                "height": 144,
+                "size": 10152,
+                "url": "https://media.sketchfab.com/models/1f6f5a436a454e72abe67621fbf9dde5/thumbnails/dd8fb01686d4454db4fe2f38bf241985/1ffb82c3bb574e30819561b7201b54c8.jpeg"
+            },
+            {
+                "uid": "b960f586be8d41b39c893267988902da",
+                "width": 64,
+                "height": 36,
+                "size": 1517,
+                "url": "https://media.sketchfab.com/models/1f6f5a436a454e72abe67621fbf9dde5/thumbnails/dd8fb01686d4454db4fe2f38bf241985/28a29924933640ff80ad94bbfd3657a9.jpeg"
+            }
+        ]
+    },
+    "uid": "1f6f5a436a454e72abe67621fbf9dde5",
+    "uri": "https://api.sketchfab.com/v3/models/1f6f5a436a454e72abe67621fbf9dde5",
+    "user": {
+        "uid": "5e2673f26acb40cf89d6d370153c640a",
+        "username": "rajprajapat847",
+        "displayName": "rajprajapat847",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rajprajapat847",
+        "avatar": {
+            "uid": "8659fd4b3a194f938b6584677f9d6d57",
+            "uri": "https://api.sketchfab.com/v3/avatars/8659fd4b3a194f938b6584677f9d6d57",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 907,
+                    "url": "https://media.sketchfab.com/avatars/8659fd4b3a194f938b6584677f9d6d57/28b3c713e349488684bc63a94b364089.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1179,
+                    "url": "https://media.sketchfab.com/avatars/8659fd4b3a194f938b6584677f9d6d57/9768360aa8fb40e3af30fa0cf8e6872b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1911,
+                    "url": "https://media.sketchfab.com/avatars/8659fd4b3a194f938b6584677f9d6d57/ed525f5a18f642018dabf1f814eb7a2a.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2200,
+                    "url": "https://media.sketchfab.com/avatars/8659fd4b3a194f938b6584677f9d6d57/11393782c4f740cbae17f9b6142a9c6a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5e2673f26acb40cf89d6d370153c640a"
+    },
+    "vertexCount": 4,
+    "viewCount": 48,
+    "viewerUrl": "https://sketchfab.com/3d-models/viking-shield-escudo-viking-1f6f5a436a454e72abe67621fbf9dde5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Buy Now:  artstn.co/m/gdVwo\n\nThis Viking Shield (Escudo Viking) 3D model is inspired by authentic Norse round shields from the Viking Age. The model features a realistic wooden plank surface, reinforced with a metal rim and central boss, and decorated with bold Nordic tribal patterns engraved across the front.\n\nThe shield includes front and back details, with sturdy hand grips on the rear side, making it suitable for game assets, cinematic renders, VR/AR projects, and 3D printing. Its clean geometry and well-defined details ensure smooth performance in real-time engines and reliable results for physical prints.\n\nIdeal for Viking-themed games, medieval environments, fantasy characters, tabletop props, cosplay accessories, and historical dioramas.\n\nUse Cases\n\nGame asset (RPG, action, fantasy, medieval)\n\n️ 3D printing (PLA, ABS, resin)\n\nCinematic & animation renders\n\nProps for cosplay or collectibles\n\nVR / AR experiences",
+    "price": null,
+    "downloadCount": 16,
+    "editorUrl": "https://sketchfab.com/models/1f6f5a436a454e72abe67621fbf9dde5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-26T11:42:04.006894",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

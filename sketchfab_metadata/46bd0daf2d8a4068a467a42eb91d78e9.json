@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T03:59:50.415525",
+    "embedUrl": "https://sketchfab.com/models/46bd0daf2d8a4068a467a42eb91d78e9/embed",
+    "faceCount": 4720,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Cartoon Boot Shoe With Laces",
+    "publishedAt": "2026-02-22T04:00:29.315070",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "shoe",
+            "slug": "shoe",
+            "uri": "https://api.sketchfab.com/v3/tags/shoe"
+        },
+        {
+            "name": "boot",
+            "slug": "boot",
+            "uri": "https://api.sketchfab.com/v3/tags/boot"
+        },
+        {
+            "name": "laces",
+            "slug": "laces",
+            "uri": "https://api.sketchfab.com/v3/tags/laces"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c8b6f132474b44dba26b13086bf4ec48",
+                "width": 1920,
+                "height": 1080,
+                "size": 36942,
+                "url": "https://media.sketchfab.com/models/46bd0daf2d8a4068a467a42eb91d78e9/thumbnails/cc4f49b3e4d348e4808996a3fab7bd60/d559594769d947aeba03aefc77f73ad6.jpeg"
+            },
+            {
+                "uid": "ac9b1ec6f8c34857ab8dda632fe1ddd7",
+                "width": 1024,
+                "height": 576,
+                "size": 11707,
+                "url": "https://media.sketchfab.com/models/46bd0daf2d8a4068a467a42eb91d78e9/thumbnails/cc4f49b3e4d348e4808996a3fab7bd60/051dedcf316f4ae1aa6e4da4bd680345.jpeg"
+            },
+            {
+                "uid": "bce67f84dfa54079b8036d41e9a84b28",
+                "width": 720,
+                "height": 405,
+                "size": 6653,
+                "url": "https://media.sketchfab.com/models/46bd0daf2d8a4068a467a42eb91d78e9/thumbnails/cc4f49b3e4d348e4808996a3fab7bd60/5023b1f0ce4f43c7b45397b8886c5c4c.jpeg"
+            },
+            {
+                "uid": "525e2fc495bb4d48ae4cda549b779447",
+                "width": 256,
+                "height": 144,
+                "size": 1686,
+                "url": "https://media.sketchfab.com/models/46bd0daf2d8a4068a467a42eb91d78e9/thumbnails/cc4f49b3e4d348e4808996a3fab7bd60/ba32076a4cec490e8a3fd06fc2b27bf6.jpeg"
+            },
+            {
+                "uid": "70b21f3aa94c46308a8db8b146f0a4d6",
+                "width": 64,
+                "height": 36,
+                "size": 796,
+                "url": "https://media.sketchfab.com/models/46bd0daf2d8a4068a467a42eb91d78e9/thumbnails/cc4f49b3e4d348e4808996a3fab7bd60/1e162d09d91d434d9d0fc0fcc119c99b.jpeg"
+            }
+        ]
+    },
+    "uid": "46bd0daf2d8a4068a467a42eb91d78e9",
+    "uri": "https://api.sketchfab.com/v3/models/46bd0daf2d8a4068a467a42eb91d78e9",
+    "user": {
+        "uid": "d600b3a37a2848b8af0a9b86a6963b09",
+        "username": "dcdcsu",
+        "displayName": "dcdcsu",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/dcdcsu",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d600b3a37a2848b8af0a9b86a6963b09"
+    },
+    "vertexCount": 2778,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/cartoon-boot-shoe-with-laces-46bd0daf2d8a4068a467a42eb91d78e9",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the source format.The Converted version is intended only for use in the web viewer. In the source file, the following are fully preserved:✔ full scene structure✔ unsimplified materials✔ proper texture maps✔ proper object namingIf you intend to use the asset in a production environment, choose the original version.A smooth stylized shoe base with soft laces and clean topology. Perfect for cartoon characters game assets or stylized animation projects. Easily customizable for various footwear designs.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/46bd0daf2d8a4068a467a42eb91d78e9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T04:00:29.463687",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 3
+}

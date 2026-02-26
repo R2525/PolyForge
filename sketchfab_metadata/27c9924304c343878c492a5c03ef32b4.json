@@ -1,0 +1,241 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-10T15:53:13.120757",
+    "embedUrl": "https://sketchfab.com/models/27c9924304c343878c492a5c03ef32b4/embed",
+    "faceCount": 17462,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 6,
+    "name": "Industrial Ventilation Unit / HVAC Prop",
+    "publishedAt": "2026-01-10T16:00:12.097548",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rust",
+            "slug": "rust",
+            "uri": "https://api.sketchfab.com/v3/tags/rust"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "alley",
+            "slug": "alley",
+            "uri": "https://api.sketchfab.com/v3/tags/alley"
+        },
+        {
+            "name": "dirty",
+            "slug": "dirty",
+            "uri": "https://api.sketchfab.com/v3/tags/dirty"
+        },
+        {
+            "name": "grunge",
+            "slug": "grunge",
+            "uri": "https://api.sketchfab.com/v3/tags/grunge"
+        },
+        {
+            "name": "midpoly",
+            "slug": "midpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/midpoly"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "rooftop",
+            "slug": "rooftop",
+            "uri": "https://api.sketchfab.com/v3/tags/rooftop"
+        },
+        {
+            "name": "Levels",
+            "slug": "levels",
+            "uri": "https://api.sketchfab.com/v3/tags/levels"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "factory",
+            "slug": "factory",
+            "uri": "https://api.sketchfab.com/v3/tags/factory"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "337f17bd2d0344dc9267c212dd31d843",
+                "width": 1920,
+                "height": 1080,
+                "size": 128275,
+                "url": "https://media.sketchfab.com/models/27c9924304c343878c492a5c03ef32b4/thumbnails/5122ea763f9d480ea988ef4f62c6f9fc/dafbfdf3044f4bff9d47f00e7be3b4a8.jpeg"
+            },
+            {
+                "uid": "6064b7a136c14569ad1446f841963edc",
+                "width": 1024,
+                "height": 576,
+                "size": 37732,
+                "url": "https://media.sketchfab.com/models/27c9924304c343878c492a5c03ef32b4/thumbnails/5122ea763f9d480ea988ef4f62c6f9fc/3fe87e7f3800458bbe0e881a9f34b61d.jpeg"
+            },
+            {
+                "uid": "d46fab3e7b0b430c9af722939c28a33c",
+                "width": 720,
+                "height": 405,
+                "size": 20543,
+                "url": "https://media.sketchfab.com/models/27c9924304c343878c492a5c03ef32b4/thumbnails/5122ea763f9d480ea988ef4f62c6f9fc/ced8139e55ec41b4b10aafc8dbf5fa9c.jpeg"
+            },
+            {
+                "uid": "0cc8edbbe2a946e98c04fcc8e2337d09",
+                "width": 256,
+                "height": 144,
+                "size": 3674,
+                "url": "https://media.sketchfab.com/models/27c9924304c343878c492a5c03ef32b4/thumbnails/5122ea763f9d480ea988ef4f62c6f9fc/05f0ff155fba4ffe846ec6439a193ffe.jpeg"
+            },
+            {
+                "uid": "95680c21af87461aadad20ff46d56011",
+                "width": 64,
+                "height": 36,
+                "size": 908,
+                "url": "https://media.sketchfab.com/models/27c9924304c343878c492a5c03ef32b4/thumbnails/5122ea763f9d480ea988ef4f62c6f9fc/4944bdb3b6464b57868cfb2a0291e4f6.jpeg"
+            }
+        ]
+    },
+    "uid": "27c9924304c343878c492a5c03ef32b4",
+    "uri": "https://api.sketchfab.com/v3/models/27c9924304c343878c492a5c03ef32b4",
+    "user": {
+        "uid": "5efbdb4f83ee49f299eb86d669d934ff",
+        "username": "hamster228",
+        "displayName": "hamster228",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hamster228",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5efbdb4f83ee49f299eb86d669d934ff"
+    },
+    "vertexCount": 8431,
+    "viewCount": 94,
+    "viewerUrl": "https://sketchfab.com/3d-models/industrial-ventilation-unit-hvac-prop-27c9924304c343878c492a5c03ef32b4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Realistic industrial ventilation / HVAC unit suitable for games, cinematic scenes and environment art.\n\nThe model features worn metal surfaces, chipped paint, rust and dirt buildup, making it perfect for abandoned, urban, cyberpunk or post-apocalyptic environments. Designed as a mid-range prop for alleys, rooftops, basements or industrial interiors.",
+    "price": null,
+    "downloadCount": 31,
+    "editorUrl": "https://sketchfab.com/models/27c9924304c343878c492a5c03ef32b4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-10T19:32:20.737315",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

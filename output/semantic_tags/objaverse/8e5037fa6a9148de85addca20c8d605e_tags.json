@@ -1,0 +1,41 @@
+{
+    "category": "Electronics & Gadgets",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Steampunk",
+            "score": 0.7
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty"
+    ],
+    "tags": [
+        "lantern",
+        "oil lamp",
+        "gas lamp"
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T02:15:07.272892",
+    "embedUrl": "https://sketchfab.com/models/445e74154a89417e907009b8cd6e2abe/embed",
+    "faceCount": 692021,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 7,
+    "name": ".:☿:.Sexy.⛒.Liz.:☿:.",
+    "publishedAt": "2026-02-22T02:25:57.669527",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "people",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/tags/people"
+        },
+        {
+            "name": "women",
+            "slug": "women",
+            "uri": "https://api.sketchfab.com/v3/tags/women"
+        },
+        {
+            "name": "girls",
+            "slug": "girls",
+            "uri": "https://api.sketchfab.com/v3/tags/girls"
+        },
+        {
+            "name": "woman",
+            "slug": "woman",
+            "uri": "https://api.sketchfab.com/v3/tags/woman"
+        },
+        {
+            "name": "gamecharacters",
+            "slug": "gamecharacters",
+            "uri": "https://api.sketchfab.com/v3/tags/gamecharacters"
+        },
+        {
+            "name": "girlmodel",
+            "slug": "girlmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/girlmodel"
+        },
+        {
+            "name": "game-character",
+            "slug": "game-character",
+            "uri": "https://api.sketchfab.com/v3/tags/game-character"
+        },
+        {
+            "name": "sexygirl",
+            "slug": "sexygirl",
+            "uri": "https://api.sketchfab.com/v3/tags/sexygirl"
+        },
+        {
+            "name": "girl-model",
+            "slug": "girl-model",
+            "uri": "https://api.sketchfab.com/v3/tags/girl-model"
+        },
+        {
+            "name": "sexy-woman",
+            "slug": "sexy-woman",
+            "uri": "https://api.sketchfab.com/v3/tags/sexy-woman"
+        },
+        {
+            "name": "bikini-girl",
+            "slug": "bikini-girl",
+            "uri": "https://api.sketchfab.com/v3/tags/bikini-girl"
+        },
+        {
+            "name": "sexy-girl",
+            "slug": "sexy-girl",
+            "uri": "https://api.sketchfab.com/v3/tags/sexy-girl"
+        },
+        {
+            "name": "girlfriend",
+            "slug": "girlfriend",
+            "uri": "https://api.sketchfab.com/v3/tags/girlfriend"
+        },
+        {
+            "name": "women-girl-model",
+            "slug": "women-girl-model",
+            "uri": "https://api.sketchfab.com/v3/tags/women-girl-model"
+        },
+        {
+            "name": "peoples",
+            "slug": "peoples",
+            "uri": "https://api.sketchfab.com/v3/tags/peoples"
+        },
+        {
+            "name": "girlcharacter",
+            "slug": "girlcharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/girlcharacter"
+        },
+        {
+            "name": "girl-sexy-game-character",
+            "slug": "girl-sexy-game-character",
+            "uri": "https://api.sketchfab.com/v3/tags/girl-sexy-game-character"
+        },
+        {
+            "name": "sexy_girl",
+            "slug": "sexy_girl",
+            "uri": "https://api.sketchfab.com/v3/tags/sexy_girl"
+        },
+        {
+            "name": "girl-sexy-game-character-anime",
+            "slug": "girl-sexy-game-character-anime",
+            "uri": "https://api.sketchfab.com/v3/tags/girl-sexy-game-character-anime"
+        },
+        {
+            "name": "cute-girl",
+            "slug": "cute-girl",
+            "uri": "https://api.sketchfab.com/v3/tags/cute-girl"
+        },
+        {
+            "name": "girl-3d",
+            "slug": "girl-3d",
+            "uri": "https://api.sketchfab.com/v3/tags/girl-3d"
+        },
+        {
+            "name": "women-sexy",
+            "slug": "women-sexy",
+            "uri": "https://api.sketchfab.com/v3/tags/women-sexy"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        },
+        {
+            "name": "gamecharacter",
+            "slug": "gamecharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/gamecharacter"
+        },
+        {
+            "name": "gamecharacter-gameart",
+            "slug": "gamecharacter-gameart",
+            "uri": "https://api.sketchfab.com/v3/tags/gamecharacter-gameart"
+        },
+        {
+            "name": "sexywoman",
+            "slug": "sexywoman",
+            "uri": "https://api.sketchfab.com/v3/tags/sexywoman"
+        },
+        {
+            "name": "people-models",
+            "slug": "people-models",
+            "uri": "https://api.sketchfab.com/v3/tags/people-models"
+        },
+        {
+            "name": "girl-sexy",
+            "slug": "girl-sexy",
+            "uri": "https://api.sketchfab.com/v3/tags/girl-sexy"
+        },
+        {
+            "name": "cutegirls",
+            "slug": "cutegirls",
+            "uri": "https://api.sketchfab.com/v3/tags/cutegirls"
+        },
+        {
+            "name": "sexywomen",
+            "slug": "sexywomen",
+            "uri": "https://api.sketchfab.com/v3/tags/sexywomen"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "meshyai",
+            "slug": "meshyai",
+            "uri": "https://api.sketchfab.com/v3/tags/meshyai"
+        },
+        {
+            "name": "meshycreatedwithaiairealistic",
+            "slug": "meshycreatedwithaiairealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/meshycreatedwithaiairealistic"
+        },
+        {
+            "name": "meshy3d",
+            "slug": "meshy3d",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy3d"
+        },
+        {
+            "name": "meshymodel",
+            "slug": "meshymodel",
+            "uri": "https://api.sketchfab.com/v3/tags/meshymodel"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "meshy-model",
+            "slug": "meshy-model",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy-model"
+        },
+        {
+            "name": "meshy6",
+            "slug": "meshy6",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy6"
+        },
+        {
+            "name": "meshy3dai",
+            "slug": "meshy3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy3dai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "caf83bd2335f498cb2e1142b9a0f3c1e",
+                "width": 1920,
+                "height": 1080,
+                "size": 229595,
+                "url": "https://media.sketchfab.com/models/445e74154a89417e907009b8cd6e2abe/thumbnails/f080f51b884b46f08130b03d0ea50ac3/d538b624f3794eef885003130b10892e.jpeg"
+            },
+            {
+                "uid": "af1bbcac20e14e4b984e7c74769250a0",
+                "width": 1024,
+                "height": 576,
+                "size": 31865,
+                "url": "https://media.sketchfab.com/models/445e74154a89417e907009b8cd6e2abe/thumbnails/f080f51b884b46f08130b03d0ea50ac3/723df0ca15ae4ab4a3d1463eeba22f87.jpeg"
+            },
+            {
+                "uid": "0308f7e9d4cf4fcba43db090198b341b",
+                "width": 720,
+                "height": 405,
+                "size": 15811,
+                "url": "https://media.sketchfab.com/models/445e74154a89417e907009b8cd6e2abe/thumbnails/f080f51b884b46f08130b03d0ea50ac3/4719827a2d3f4a4387b83c74c5564a8e.jpeg"
+            },
+            {
+                "uid": "a2634b6037484c63b53a548f1ece8994",
+                "width": 256,
+                "height": 144,
+                "size": 3375,
+                "url": "https://media.sketchfab.com/models/445e74154a89417e907009b8cd6e2abe/thumbnails/f080f51b884b46f08130b03d0ea50ac3/8dda486cfc834f8d8b3d2e14dddd6751.jpeg"
+            },
+            {
+                "uid": "d4a6cc250d524aabad3990d01722f5ea",
+                "width": 64,
+                "height": 36,
+                "size": 1000,
+                "url": "https://media.sketchfab.com/models/445e74154a89417e907009b8cd6e2abe/thumbnails/f080f51b884b46f08130b03d0ea50ac3/96dfe088bae14cf6a829d13e7a4eb8cf.jpeg"
+            }
+        ]
+    },
+    "uid": "445e74154a89417e907009b8cd6e2abe",
+    "uri": "https://api.sketchfab.com/v3/models/445e74154a89417e907009b8cd6e2abe",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 345760,
+    "viewCount": 105,
+    "viewerUrl": "https://sketchfab.com/3d-models/sexyliz-445e74154a89417e907009b8cd6e2abe",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 14,
+    "editorUrl": "https://sketchfab.com/models/445e74154a89417e907009b8cd6e2abe/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:33:09.073901",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,174 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-16T14:23:23.825196",
+    "embedUrl": "https://sketchfab.com/models/3350c75eeeaf439b81bbb18700c836cb/embed",
+    "faceCount": 8958,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "lego magneto",
+    "publishedAt": "2026-02-16T14:33:43.292411",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "games",
+            "slug": "games",
+            "uri": "https://api.sketchfab.com/v3/tags/games"
+        },
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "magneto",
+            "slug": "magneto",
+            "uri": "https://api.sketchfab.com/v3/tags/magneto"
+        },
+        {
+            "name": "lego",
+            "slug": "lego",
+            "uri": "https://api.sketchfab.com/v3/tags/lego"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d57348d035ef42e19032e25d1a97da69",
+                "width": 1920,
+                "height": 1080,
+                "size": 55376,
+                "url": "https://media.sketchfab.com/models/3350c75eeeaf439b81bbb18700c836cb/thumbnails/4f359ed6f1f84144b477e445cce85eff/dc600c3e59c54c85b9f8b6b19ab96059.jpeg"
+            },
+            {
+                "uid": "eec921e516e547669256fb6f67dc22c3",
+                "width": 1024,
+                "height": 576,
+                "size": 19159,
+                "url": "https://media.sketchfab.com/models/3350c75eeeaf439b81bbb18700c836cb/thumbnails/4f359ed6f1f84144b477e445cce85eff/4f875b32c6f34032906b29e4ce14ab7a.jpeg"
+            },
+            {
+                "uid": "1f1eed618aec47bd91c76f99ef3e1b5e",
+                "width": 720,
+                "height": 405,
+                "size": 11315,
+                "url": "https://media.sketchfab.com/models/3350c75eeeaf439b81bbb18700c836cb/thumbnails/4f359ed6f1f84144b477e445cce85eff/252cb7e74f074d869dcaa7fe3633eab1.jpeg"
+            },
+            {
+                "uid": "76a1f707831147f68007e08468cca357",
+                "width": 256,
+                "height": 144,
+                "size": 2645,
+                "url": "https://media.sketchfab.com/models/3350c75eeeaf439b81bbb18700c836cb/thumbnails/4f359ed6f1f84144b477e445cce85eff/483823b3c2b64f73a509f1a452ded86b.jpeg"
+            },
+            {
+                "uid": "18c453a603ef4134b1f55f2b46f6a9e9",
+                "width": 64,
+                "height": 36,
+                "size": 863,
+                "url": "https://media.sketchfab.com/models/3350c75eeeaf439b81bbb18700c836cb/thumbnails/4f359ed6f1f84144b477e445cce85eff/18e98b84f2ed4561814c48c89158365b.jpeg"
+            }
+        ]
+    },
+    "uid": "3350c75eeeaf439b81bbb18700c836cb",
+    "uri": "https://api.sketchfab.com/v3/models/3350c75eeeaf439b81bbb18700c836cb",
+    "user": {
+        "uid": "de5cc10010834cb0a9b528a27a30ef64",
+        "username": "Ihavekevinprofilepicture",
+        "displayName": "Ihavekevinprofilepicture2",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Ihavekevinprofilepicture",
+        "avatar": {
+            "uid": "17c7c1e6493144d48e7b33e18fe58af3",
+            "uri": "https://api.sketchfab.com/v3/avatars/17c7c1e6493144d48e7b33e18fe58af3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2226,
+                    "url": "https://media.sketchfab.com/avatars/17c7c1e6493144d48e7b33e18fe58af3/1b42ab3b8d374ca4be39623813f3a56f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4257,
+                    "url": "https://media.sketchfab.com/avatars/17c7c1e6493144d48e7b33e18fe58af3/fdb4aa7ab1444f00ab5d56946c872626.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 11635,
+                    "url": "https://media.sketchfab.com/avatars/17c7c1e6493144d48e7b33e18fe58af3/c13486fcc1534b5e9ecac0373da9fe8a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 13096,
+                    "url": "https://media.sketchfab.com/avatars/17c7c1e6493144d48e7b33e18fe58af3/e904ae19eb3f4718b3f81121565c9a16.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/de5cc10010834cb0a9b528a27a30ef64"
+    },
+    "vertexCount": 4687,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/lego-magneto-3350c75eeeaf439b81bbb18700c836cb",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "The lego magneto, inspired from the videogame \"lego marvel superheroes\"\ni dont have a cape model",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3350c75eeeaf439b81bbb18700c836cb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T14:33:43.625865",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 6
+}

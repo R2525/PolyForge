@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T18:07:09.677847",
+    "embedUrl": "https://sketchfab.com/models/0586af7a8df244a5917dfda840ff28c2/embed",
+    "faceCount": 4604187,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Arrabal norte (Sondeo 4) - 2025",
+    "publishedAt": "2026-02-19T18:23:31.094335",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "arqueologia",
+            "slug": "arqueologia",
+            "uri": "https://api.sketchfab.com/v3/tags/arqueologia"
+        },
+        {
+            "name": "almeria",
+            "slug": "almeria",
+            "uri": "https://api.sketchfab.com/v3/tags/almeria"
+        },
+        {
+            "name": "al-andalus",
+            "slug": "al-andalus",
+            "uri": "https://api.sketchfab.com/v3/tags/al-andalus"
+        },
+        {
+            "name": "ugr",
+            "slug": "ugr",
+            "uri": "https://api.sketchfab.com/v3/tags/ugr"
+        },
+        {
+            "name": "archeology-photogrammetry",
+            "slug": "archeology-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/archeology-photogrammetry"
+        },
+        {
+            "name": "bayra",
+            "slug": "bayra",
+            "uri": "https://api.sketchfab.com/v3/tags/bayra"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5babf7d4639746cfad07321d8352cc53",
+                "width": 1920,
+                "height": 1080,
+                "size": 329552,
+                "url": "https://media.sketchfab.com/models/0586af7a8df244a5917dfda840ff28c2/thumbnails/ec431bf1df094e2399eb67c38ecf41bb/b68b4f77395c426c8bb917af2d533cf2.jpeg"
+            },
+            {
+                "uid": "27e0fb9ae32f4af4bbce4041474019bc",
+                "width": 1024,
+                "height": 576,
+                "size": 108066,
+                "url": "https://media.sketchfab.com/models/0586af7a8df244a5917dfda840ff28c2/thumbnails/ec431bf1df094e2399eb67c38ecf41bb/4422c4b1fad44c37b8d77079f698a7a5.jpeg"
+            },
+            {
+                "uid": "a09a2e6a20b741c19904ecea431578c6",
+                "width": 720,
+                "height": 405,
+                "size": 60465,
+                "url": "https://media.sketchfab.com/models/0586af7a8df244a5917dfda840ff28c2/thumbnails/ec431bf1df094e2399eb67c38ecf41bb/e19b8cc2649e4c5e9257aa317ace0b18.jpeg"
+            },
+            {
+                "uid": "da5eb2ffe51a46318d42258f53a1dbec",
+                "width": 256,
+                "height": 144,
+                "size": 10490,
+                "url": "https://media.sketchfab.com/models/0586af7a8df244a5917dfda840ff28c2/thumbnails/ec431bf1df094e2399eb67c38ecf41bb/e638ac9cfb5947d9a193e0684bd4a719.jpeg"
+            },
+            {
+                "uid": "99df085a9b784f67ac06b3c81cafe7b1",
+                "width": 64,
+                "height": 36,
+                "size": 1567,
+                "url": "https://media.sketchfab.com/models/0586af7a8df244a5917dfda840ff28c2/thumbnails/ec431bf1df094e2399eb67c38ecf41bb/ae76716558f4457093d5fd0eb9153280.jpeg"
+            }
+        ]
+    },
+    "uid": "0586af7a8df244a5917dfda840ff28c2",
+    "uri": "https://api.sketchfab.com/v3/models/0586af7a8df244a5917dfda840ff28c2",
+    "user": {
+        "uid": "fea5e2845ee3489a8e278b8c2b6705dd",
+        "username": "PRINMA",
+        "displayName": "Grupo PRINMA UGR",
+        "account": "prem",
+        "profileUrl": "https://sketchfab.com/PRINMA",
+        "avatar": {
+            "uid": "9fab0901d06d4c8b99cbe34deb65c3f0",
+            "uri": "https://api.sketchfab.com/v3/avatars/9fab0901d06d4c8b99cbe34deb65c3f0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 822,
+                    "url": "https://media.sketchfab.com/avatars/9fab0901d06d4c8b99cbe34deb65c3f0/2826d2cd42104fcda52bf775254f168b.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1314,
+                    "url": "https://media.sketchfab.com/avatars/9fab0901d06d4c8b99cbe34deb65c3f0/805198ff6a0c4a9a9407bb95867bb07d.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3169,
+                    "url": "https://media.sketchfab.com/avatars/9fab0901d06d4c8b99cbe34deb65c3f0/79fe0ed8151f45e5afd047ef5ffacda6.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3786,
+                    "url": "https://media.sketchfab.com/avatars/9fab0901d06d4c8b99cbe34deb65c3f0/6e951d0b8e904e18923cef841f71d8d5.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fea5e2845ee3489a8e278b8c2b6705dd"
+    },
+    "vertexCount": 2304056,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/arrabal-norte-sondeo-4-2025-0586af7a8df244a5917dfda840ff28c2",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Vista global del arrabal norte de la ciudad medieval de Bayra realizada durante la cuarta anualidad del PGI Bayra (Vera, Almería). Pueden verse los distintos espacios asociados a viviendas. Destacan los silos y la habitación cueva. \n\nFotografías realizadas con dron por Ricardo Santeramo. \n\nModelo y descripción realizadas por [Antonio Ibarra Medina](http://sketchfab.com/ibarramedinaA)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0586af7a8df244a5917dfda840ff28c2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T18:23:31.263025",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,187 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T04:59:33.974129",
+    "embedUrl": "https://sketchfab.com/models/11ec3d42994c4fb59b241d904cce2317/embed",
+    "faceCount": 19392,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sci Fi Barrel Container",
+    "publishedAt": "2026-02-22T05:02:22.744829",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "barrel",
+            "slug": "barrel",
+            "uri": "https://api.sketchfab.com/v3/tags/barrel"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "box",
+            "slug": "box",
+            "uri": "https://api.sketchfab.com/v3/tags/box"
+        },
+        {
+            "name": "Canister",
+            "slug": "canister",
+            "uri": "https://api.sketchfab.com/v3/tags/canister"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        },
+        {
+            "name": "container",
+            "slug": "container",
+            "uri": "https://api.sketchfab.com/v3/tags/container"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f9664b398ab44510aa2741b834d358b7",
+                "width": 1920,
+                "height": 1080,
+                "size": 105285,
+                "url": "https://media.sketchfab.com/models/11ec3d42994c4fb59b241d904cce2317/thumbnails/f67a37918c014d45a8929d20f225eeb5/6837a21f474b493f9b2e2a997ed1e0cf.jpeg"
+            },
+            {
+                "uid": "4dcd6b960fe540caa1243032195227d4",
+                "width": 1024,
+                "height": 576,
+                "size": 32667,
+                "url": "https://media.sketchfab.com/models/11ec3d42994c4fb59b241d904cce2317/thumbnails/f67a37918c014d45a8929d20f225eeb5/a299fef009c8491b9c989d848989b47b.jpeg"
+            },
+            {
+                "uid": "9f878683e74347ccaf5ed36d66415e56",
+                "width": 720,
+                "height": 405,
+                "size": 17805,
+                "url": "https://media.sketchfab.com/models/11ec3d42994c4fb59b241d904cce2317/thumbnails/f67a37918c014d45a8929d20f225eeb5/bcc6ebde9b6c47b191defe9b290e0329.jpeg"
+            },
+            {
+                "uid": "395227b3721f48a5b7b23ca0205ecebe",
+                "width": 256,
+                "height": 144,
+                "size": 3261,
+                "url": "https://media.sketchfab.com/models/11ec3d42994c4fb59b241d904cce2317/thumbnails/f67a37918c014d45a8929d20f225eeb5/be4e52d8e3cb474c8e1e152e1c374dd8.jpeg"
+            },
+            {
+                "uid": "7f580dcabe41425e8ea0c9b967822a37",
+                "width": 64,
+                "height": 36,
+                "size": 956,
+                "url": "https://media.sketchfab.com/models/11ec3d42994c4fb59b241d904cce2317/thumbnails/f67a37918c014d45a8929d20f225eeb5/682f5ee44d624c61b3b0d191aa73005e.jpeg"
+            }
+        ]
+    },
+    "uid": "11ec3d42994c4fb59b241d904cce2317",
+    "uri": "https://api.sketchfab.com/v3/models/11ec3d42994c4fb59b241d904cce2317",
+    "user": {
+        "uid": "9905f2948e5a4386b39bcbdb5af5f4af",
+        "username": "ekinmilre1989",
+        "displayName": "ekinmilre1989",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ekinmilre1989",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9905f2948e5a4386b39bcbdb5af5f4af"
+    },
+    "vertexCount": 9712,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-barrel-container-11ec3d42994c4fb59b241d904cce2317",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the original file.The converted file is intended exclusively for browser preview. In the original file, the following are fully preserved:✔ full scene structure✔ unsimplified materials✔ proper texture maps✔ proper object namingIf you are going to integrate the model into a project, download the original version.Futuristic Cylinrdical Container Textured in Substance Painter",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/11ec3d42994c4fb59b241d904cce2317/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T05:02:22.990032",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

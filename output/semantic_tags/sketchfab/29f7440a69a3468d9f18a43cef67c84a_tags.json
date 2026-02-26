@@ -1,0 +1,41 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Military",
+            "score": 0.7
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.6
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.95
+        },
+        {
+            "name": "Toon / Anime",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Broken",
+        "Clean"
+    ],
+    "tags": [
+        "warrior",
+        "armor",
+        "weapon"
+    ]
+}

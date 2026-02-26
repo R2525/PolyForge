@@ -1,0 +1,179 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-18T18:47:29.341103",
+    "embedUrl": "https://sketchfab.com/models/005f5cf65f7045e781d137bc455f4a83/embed",
+    "faceCount": 523695,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Tavern Diorama",
+    "publishedAt": "2025-12-18T18:58:16.291938",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "tavern",
+            "slug": "tavern",
+            "uri": "https://api.sketchfab.com/v3/tags/tavern"
+        },
+        {
+            "name": "diorama",
+            "slug": "diorama",
+            "uri": "https://api.sketchfab.com/v3/tags/diorama"
+        },
+        {
+            "name": "tavern-medieval",
+            "slug": "tavern-medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/tavern-medieval"
+        },
+        {
+            "name": "diorama3d",
+            "slug": "diorama3d",
+            "uri": "https://api.sketchfab.com/v3/tags/diorama3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7a7d0708e2bc4e41a12338cd68136357",
+                "width": 1920,
+                "height": 1080,
+                "size": 54028,
+                "url": "https://media.sketchfab.com/models/005f5cf65f7045e781d137bc455f4a83/thumbnails/5404b8977a1e4784aa01dc103fbe8915/98edc9f6056c487cabcc0621034f9941.jpeg"
+            },
+            {
+                "uid": "0cea3f4e9e134da4a4bee7aadd0b68ef",
+                "width": 1024,
+                "height": 576,
+                "size": 17985,
+                "url": "https://media.sketchfab.com/models/005f5cf65f7045e781d137bc455f4a83/thumbnails/5404b8977a1e4784aa01dc103fbe8915/9cae5a49bf674d98a0ae1241d7b71baf.jpeg"
+            },
+            {
+                "uid": "aca75fe72ece446b98a44fd37ad725b3",
+                "width": 720,
+                "height": 405,
+                "size": 10136,
+                "url": "https://media.sketchfab.com/models/005f5cf65f7045e781d137bc455f4a83/thumbnails/5404b8977a1e4784aa01dc103fbe8915/15b85299c37545f1b77838b72b083df8.jpeg"
+            },
+            {
+                "uid": "ceb50b7a42014dbea64b54d6e201ae6f",
+                "width": 256,
+                "height": 144,
+                "size": 2155,
+                "url": "https://media.sketchfab.com/models/005f5cf65f7045e781d137bc455f4a83/thumbnails/5404b8977a1e4784aa01dc103fbe8915/01ff7a8334d5449aba4d86d837179bb9.jpeg"
+            },
+            {
+                "uid": "6bfd304003984c3e93d3be6f7703c256",
+                "width": 64,
+                "height": 36,
+                "size": 820,
+                "url": "https://media.sketchfab.com/models/005f5cf65f7045e781d137bc455f4a83/thumbnails/5404b8977a1e4784aa01dc103fbe8915/5dc2acc587be441a9efa739d186fc458.jpeg"
+            }
+        ]
+    },
+    "uid": "005f5cf65f7045e781d137bc455f4a83",
+    "uri": "https://api.sketchfab.com/v3/models/005f5cf65f7045e781d137bc455f4a83",
+    "user": {
+        "uid": "4e0cd2b538904d60ba98c753393db3c4",
+        "username": "Franziska00",
+        "displayName": "Franziska00",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Franziska00",
+        "avatar": {
+            "uid": "6ace1c7440af41f8b516ef79a079524f",
+            "uri": "https://api.sketchfab.com/v3/avatars/6ace1c7440af41f8b516ef79a079524f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2639,
+                    "url": "https://media.sketchfab.com/avatars/6ace1c7440af41f8b516ef79a079524f/aae062eb23c54bb4a0a1f3b93e0d1270.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5636,
+                    "url": "https://media.sketchfab.com/avatars/6ace1c7440af41f8b516ef79a079524f/7f0f92851d384e48a91e48eaa27bd0ed.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 18650,
+                    "url": "https://media.sketchfab.com/avatars/6ace1c7440af41f8b516ef79a079524f/c9d55ed3866644209aaa05bc8161c868.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 22813,
+                    "url": "https://media.sketchfab.com/avatars/6ace1c7440af41f8b516ef79a079524f/71ec51d2691f4f72be740ca0e5d72322.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4e0cd2b538904d60ba98c753393db3c4"
+    },
+    "vertexCount": 265015,
+    "viewCount": 59,
+    "viewerUrl": "https://sketchfab.com/3d-models/tavern-diorama-005f5cf65f7045e781d137bc455f4a83",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "An exercise made to recreate as close as possible a 3D model from an image reference. Credits to Roman Klčo for the original : https://dribbble.com/shots/23828601-Medieval-Tavern",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/005f5cf65f7045e781d137bc455f4a83/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-18T18:58:16.650601",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 9
+}

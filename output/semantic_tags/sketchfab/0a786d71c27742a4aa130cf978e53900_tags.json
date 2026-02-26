@@ -1,0 +1,40 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Steampunk",
+            "score": 0.75
+        },
+        {
+            "name": "Military",
+            "score": 0.65
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.8
+        },
+        {
+            "name": "Steampunk",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "gun",
+        "pistol",
+        "weapon"
+    ]
+}

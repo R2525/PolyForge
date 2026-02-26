@@ -1,0 +1,142 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T21:56:12.136699",
+    "embedUrl": "https://sketchfab.com/models/4348efb38a76482a80a0cfa0eaab840b/embed",
+    "faceCount": 26194,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 5,
+    "name": "Double-bolter",
+    "publishedAt": "2026-02-11T21:57:29.762019",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "40k",
+            "slug": "40k",
+            "uri": "https://api.sketchfab.com/v3/tags/40k"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7710698d63bc43bb8fdea28979999120",
+                "width": 1920,
+                "height": 1080,
+                "size": 454562,
+                "url": "https://media.sketchfab.com/models/4348efb38a76482a80a0cfa0eaab840b/thumbnails/ecfe0265d0924bebbb705e61d2a507a2/b6eef87be7c24b7eb9c981721d36e593.jpeg"
+            },
+            {
+                "uid": "4d836fe2f96f4f36983dfa8b0562d7b7",
+                "width": 1024,
+                "height": 576,
+                "size": 66178,
+                "url": "https://media.sketchfab.com/models/4348efb38a76482a80a0cfa0eaab840b/thumbnails/ecfe0265d0924bebbb705e61d2a507a2/1a4a0f794ea042808515dae7db283ffa.jpeg"
+            },
+            {
+                "uid": "33e85c3d48eb4839b3b4510b6bf47635",
+                "width": 720,
+                "height": 405,
+                "size": 30521,
+                "url": "https://media.sketchfab.com/models/4348efb38a76482a80a0cfa0eaab840b/thumbnails/ecfe0265d0924bebbb705e61d2a507a2/38bacc1d52134baa83adf0e6c512fad1.jpeg"
+            },
+            {
+                "uid": "1b02c1b0a1914b13a39cd1e5e24083d2",
+                "width": 256,
+                "height": 144,
+                "size": 4952,
+                "url": "https://media.sketchfab.com/models/4348efb38a76482a80a0cfa0eaab840b/thumbnails/ecfe0265d0924bebbb705e61d2a507a2/9c099f57e30f4cf2b969c6b46d3edb55.jpeg"
+            },
+            {
+                "uid": "d18cb0cd88d94c5bbeef97b986045641",
+                "width": 64,
+                "height": 36,
+                "size": 1073,
+                "url": "https://media.sketchfab.com/models/4348efb38a76482a80a0cfa0eaab840b/thumbnails/ecfe0265d0924bebbb705e61d2a507a2/b4201d62130f4f2ebf82a47004ec24fc.jpeg"
+            }
+        ]
+    },
+    "uid": "4348efb38a76482a80a0cfa0eaab840b",
+    "uri": "https://api.sketchfab.com/v3/models/4348efb38a76482a80a0cfa0eaab840b",
+    "user": {
+        "uid": "9b23a77bab2443519d8b2e99d0769d39",
+        "username": "hell3879",
+        "displayName": "D3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hell3879",
+        "avatar": {
+            "uid": "dd7fb222643b45b3ba55db24a3188820",
+            "uri": "https://api.sketchfab.com/v3/avatars/dd7fb222643b45b3ba55db24a3188820",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 988,
+                    "url": "https://media.sketchfab.com/avatars/dd7fb222643b45b3ba55db24a3188820/58efef93eecb47759e4037605316c423.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1280,
+                    "url": "https://media.sketchfab.com/avatars/dd7fb222643b45b3ba55db24a3188820/6d1e30a8525f4a5fb02ba14efded9962.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2430,
+                    "url": "https://media.sketchfab.com/avatars/dd7fb222643b45b3ba55db24a3188820/b61f44ab4ec748ecb4fad2424fa87e4d.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2752,
+                    "url": "https://media.sketchfab.com/avatars/dd7fb222643b45b3ba55db24a3188820/213fce8abe994a4883ddac7e0cfc99d9.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9b23a77bab2443519d8b2e99d0769d39"
+    },
+    "vertexCount": 13507,
+    "viewCount": 13,
+    "viewerUrl": "https://sketchfab.com/3d-models/double-bolter-4348efb38a76482a80a0cfa0eaab840b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/4348efb38a76482a80a0cfa0eaab840b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "SubstancePainter",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-11T22:02:03.439973",
+    "pbrType": "metalness",
+    "textureCount": 14,
+    "materialCount": 3
+}

@@ -1,0 +1,41 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Steampunk",
+            "score": 0.85
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.6
+        }
+    ],
+    "style": "Retro / PS1",
+    "top_styles": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.9
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Clean"
+    ],
+    "tags": [
+        "lamp",
+        "sconce",
+        "wall-mounted"
+    ]
+}

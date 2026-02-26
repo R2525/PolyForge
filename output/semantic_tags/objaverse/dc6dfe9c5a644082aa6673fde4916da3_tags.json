@@ -1,0 +1,40 @@
+{
+    "category": "Science & Technology",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.7
+        },
+        {
+            "name": "Electronic & Gadgets",
+            "score": 0.65
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Modern",
+            "score": 0.55
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "bottle",
+        "plastic",
+        "container"
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T01:46:10.062321",
+    "embedUrl": "https://sketchfab.com/models/254692d0494147c694d7d34b829cf2cd/embed",
+    "faceCount": 117126,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Ironman Glasses 3d Model",
+    "publishedAt": "2026-02-22T01:48:05.804932",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "modern",
+            "slug": "modern",
+            "uri": "https://api.sketchfab.com/v3/tags/modern"
+        },
+        {
+            "name": "fashion",
+            "slug": "fashion",
+            "uri": "https://api.sketchfab.com/v3/tags/fashion"
+        },
+        {
+            "name": "ironman",
+            "slug": "ironman",
+            "uri": "https://api.sketchfab.com/v3/tags/ironman"
+        },
+        {
+            "name": "stylish",
+            "slug": "stylish",
+            "uri": "https://api.sketchfab.com/v3/tags/stylish"
+        },
+        {
+            "name": "accessory",
+            "slug": "accessory",
+            "uri": "https://api.sketchfab.com/v3/tags/accessory"
+        },
+        {
+            "name": "glasses",
+            "slug": "glasses",
+            "uri": "https://api.sketchfab.com/v3/tags/glasses"
+        },
+        {
+            "name": "eyewear",
+            "slug": "eyewear",
+            "uri": "https://api.sketchfab.com/v3/tags/eyewear"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "baf3c13c69dc4cb883920d5e990c25ac",
+                "width": 1920,
+                "height": 1080,
+                "size": 46352,
+                "url": "https://media.sketchfab.com/models/254692d0494147c694d7d34b829cf2cd/thumbnails/efa49be2ee0945b0939b2ca6135b5fc1/839423a92e814b6482757586eb882d7c.jpeg"
+            },
+            {
+                "uid": "368345f7795f4975af3650d2fef39f17",
+                "width": 1024,
+                "height": 576,
+                "size": 16177,
+                "url": "https://media.sketchfab.com/models/254692d0494147c694d7d34b829cf2cd/thumbnails/efa49be2ee0945b0939b2ca6135b5fc1/0c042dd01f194ee581a4161e1342cb7e.jpeg"
+            },
+            {
+                "uid": "1a7b3b5669eb416eac45468f6790278a",
+                "width": 720,
+                "height": 405,
+                "size": 9555,
+                "url": "https://media.sketchfab.com/models/254692d0494147c694d7d34b829cf2cd/thumbnails/efa49be2ee0945b0939b2ca6135b5fc1/cf3874b08980478798a9a575233711f5.jpeg"
+            },
+            {
+                "uid": "932a851732a045ce87df617c6ec0a827",
+                "width": 256,
+                "height": 144,
+                "size": 2349,
+                "url": "https://media.sketchfab.com/models/254692d0494147c694d7d34b829cf2cd/thumbnails/efa49be2ee0945b0939b2ca6135b5fc1/ee8dac075b4e454eae579f5e389816f7.jpeg"
+            },
+            {
+                "uid": "92d013c17eec4e11bd7f520f801304e3",
+                "width": 64,
+                "height": 36,
+                "size": 882,
+                "url": "https://media.sketchfab.com/models/254692d0494147c694d7d34b829cf2cd/thumbnails/efa49be2ee0945b0939b2ca6135b5fc1/8e53f6c14ea64984b69f907b47581d39.jpeg"
+            }
+        ]
+    },
+    "uid": "254692d0494147c694d7d34b829cf2cd",
+    "uri": "https://api.sketchfab.com/v3/models/254692d0494147c694d7d34b829cf2cd",
+    "user": {
+        "uid": "23fc07067da445ffaa60fd8fe0394042",
+        "username": "rrafael",
+        "displayName": "rrafael",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rrafael",
+        "avatar": {
+            "uid": "af540be2c3ee40bda240f10f3914d3b8",
+            "uri": "https://api.sketchfab.com/v3/avatars/af540be2c3ee40bda240f10f3914d3b8",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5059,
+                    "url": "https://media.sketchfab.com/avatars/af540be2c3ee40bda240f10f3914d3b8/b8df479f461f43a69b56b6080193e1be.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4265,
+                    "url": "https://media.sketchfab.com/avatars/af540be2c3ee40bda240f10f3914d3b8/a18e9afad32349d99eb193557a10d4b7.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1585,
+                    "url": "https://media.sketchfab.com/avatars/af540be2c3ee40bda240f10f3914d3b8/8898c91570464b15a7199fcd093ab7d7.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 885,
+                    "url": "https://media.sketchfab.com/avatars/af540be2c3ee40bda240f10f3914d3b8/8a653fb8ca9644f7960ac0d5bdb577e1.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/23fc07067da445ffaa60fd8fe0394042"
+    },
+    "vertexCount": 58773,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/ironman-glasses-3d-model-254692d0494147c694d7d34b829cf2cd",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For complete workflow compatibility, we recommend downloading the source format.The viewer version is intended for web viewing only. In the source file, the following are fully preserved:✔ native scene structure✔ unsimplified materials✔ accurate texture maps✔ correct object namesIf you plan to use this model in production, download the Original format.High quality 3D model of futuristic Ironman style glasses. Designed with a sleek and modern look perfect for sci fi renders character design fashion visualization and concept art. Optimized for Blender with clean topology and realistic materials.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/254692d0494147c694d7d34b829cf2cd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T01:48:06.055419",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 5
+}

@@ -1,0 +1,175 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T12:02:08.557602",
+    "embedUrl": "https://sketchfab.com/models/391fad97ac714601b7aa914b1241f87c/embed",
+    "faceCount": 1675,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Skull Mug",
+    "publishedAt": "2026-02-24T12:11:44.580053",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "mug",
+            "slug": "mug",
+            "uri": "https://api.sketchfab.com/v3/tags/mug"
+        },
+        {
+            "name": "goth",
+            "slug": "goth",
+            "uri": "https://api.sketchfab.com/v3/tags/goth"
+        },
+        {
+            "name": "skul",
+            "slug": "skul",
+            "uri": "https://api.sketchfab.com/v3/tags/skul"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "low-poly-model",
+            "slug": "low-poly-model",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly-model"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b48c57f68e55468e812832266d49bef3",
+                "width": 1920,
+                "height": 1080,
+                "size": 500313,
+                "url": "https://media.sketchfab.com/models/391fad97ac714601b7aa914b1241f87c/thumbnails/ba89069962954956b75000b35669f987/c48308f6963b483c82160cc681810c05.jpeg"
+            },
+            {
+                "uid": "e5b629ae1ea2419faf9c3a5656e7959d",
+                "width": 1024,
+                "height": 576,
+                "size": 77147,
+                "url": "https://media.sketchfab.com/models/391fad97ac714601b7aa914b1241f87c/thumbnails/ba89069962954956b75000b35669f987/cdac924f100b4647996e1ffef83878b6.jpeg"
+            },
+            {
+                "uid": "edc78a79ec64493993df8ea1e8301af9",
+                "width": 720,
+                "height": 405,
+                "size": 37829,
+                "url": "https://media.sketchfab.com/models/391fad97ac714601b7aa914b1241f87c/thumbnails/ba89069962954956b75000b35669f987/03d56f7a7c2546b7b3ef457e25c7c7e0.jpeg"
+            },
+            {
+                "uid": "ab75defb106b4dbab44a9bf1c40047fe",
+                "width": 256,
+                "height": 144,
+                "size": 6660,
+                "url": "https://media.sketchfab.com/models/391fad97ac714601b7aa914b1241f87c/thumbnails/ba89069962954956b75000b35669f987/a0b551899e894816a24abfc0704bc6c1.jpeg"
+            },
+            {
+                "uid": "d409000a0d4f401b9c6bb22f407db82d",
+                "width": 64,
+                "height": 36,
+                "size": 1356,
+                "url": "https://media.sketchfab.com/models/391fad97ac714601b7aa914b1241f87c/thumbnails/ba89069962954956b75000b35669f987/6129a709e63c4179b84e1c1b37edfb8b.jpeg"
+            }
+        ]
+    },
+    "uid": "391fad97ac714601b7aa914b1241f87c",
+    "uri": "https://api.sketchfab.com/v3/models/391fad97ac714601b7aa914b1241f87c",
+    "user": {
+        "uid": "7d962d48bc7f4caf87f4cba33fd8220a",
+        "username": "ikagogava",
+        "displayName": "Ika3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ikagogava",
+        "avatar": {
+            "uid": "ff7576f8f2ba471ea3f268b8aadaaf8c",
+            "uri": "https://api.sketchfab.com/v3/avatars/ff7576f8f2ba471ea3f268b8aadaaf8c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1796,
+                    "url": "https://media.sketchfab.com/avatars/ff7576f8f2ba471ea3f268b8aadaaf8c/b2bd56ad6f7a4219a4c392c335e35732.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3298,
+                    "url": "https://media.sketchfab.com/avatars/ff7576f8f2ba471ea3f268b8aadaaf8c/8dc6976865b64fb292625b50d17108ba.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8570,
+                    "url": "https://media.sketchfab.com/avatars/ff7576f8f2ba471ea3f268b8aadaaf8c/508599b2606f4ca78a6e2a3fa202397f.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10019,
+                    "url": "https://media.sketchfab.com/avatars/ff7576f8f2ba471ea3f268b8aadaaf8c/841c88cdcdb644e493cd1e3ac248d75f.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7d962d48bc7f4caf87f4cba33fd8220a"
+    },
+    "vertexCount": 965,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/skull-mug-391fad97ac714601b7aa914b1241f87c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Stylized Mug with a Skull on it.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/391fad97ac714601b7aa914b1241f87c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T15:28:30.231061",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 2
+}

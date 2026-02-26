@@ -1,0 +1,364 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-15T13:12:35.226450",
+    "embedUrl": "https://sketchfab.com/models/3f692f43be394be0bec35d9ddbec6548/embed",
+    "faceCount": 501505,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Off-Road Chevrolet Pickup Truck C1500 (On Fab)",
+    "publishedAt": "2026-02-15T14:30:27.361359",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "porsche",
+            "slug": "porsche",
+            "uri": "https://api.sketchfab.com/v3/tags/porsche"
+        },
+        {
+            "name": "ferrari",
+            "slug": "ferrari",
+            "uri": "https://api.sketchfab.com/v3/tags/ferrari"
+        },
+        {
+            "name": "terrain",
+            "slug": "terrain",
+            "uri": "https://api.sketchfab.com/v3/tags/terrain"
+        },
+        {
+            "name": "gasoline",
+            "slug": "gasoline",
+            "uri": "https://api.sketchfab.com/v3/tags/gasoline"
+        },
+        {
+            "name": "chevrolet",
+            "slug": "chevrolet",
+            "uri": "https://api.sketchfab.com/v3/tags/chevrolet"
+        },
+        {
+            "name": "army",
+            "slug": "army",
+            "uri": "https://api.sketchfab.com/v3/tags/army"
+        },
+        {
+            "name": "4x4",
+            "slug": "4x4",
+            "uri": "https://api.sketchfab.com/v3/tags/4x4"
+        },
+        {
+            "name": "speed",
+            "slug": "speed",
+            "uri": "https://api.sketchfab.com/v3/tags/speed"
+        },
+        {
+            "name": "jeep",
+            "slug": "jeep",
+            "uri": "https://api.sketchfab.com/v3/tags/jeep"
+        },
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "diesel",
+            "slug": "diesel",
+            "uri": "https://api.sketchfab.com/v3/tags/diesel"
+        },
+        {
+            "name": "equipment",
+            "slug": "equipment",
+            "uri": "https://api.sketchfab.com/v3/tags/equipment"
+        },
+        {
+            "name": "detailed",
+            "slug": "detailed",
+            "uri": "https://api.sketchfab.com/v3/tags/detailed"
+        },
+        {
+            "name": "wasteland",
+            "slug": "wasteland",
+            "uri": "https://api.sketchfab.com/v3/tags/wasteland"
+        },
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "american",
+            "slug": "american",
+            "uri": "https://api.sketchfab.com/v3/tags/american"
+        },
+        {
+            "name": "\"scout",
+            "slug": "scout",
+            "uri": "https://api.sketchfab.com/v3/tags/scout"
+        },
+        {
+            "name": "postapocalyptic",
+            "slug": "postapocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/postapocalyptic"
+        },
+        {
+            "name": "exploration",
+            "slug": "exploration",
+            "uri": "https://api.sketchfab.com/v3/tags/exploration"
+        },
+        {
+            "name": "fuel",
+            "slug": "fuel",
+            "uri": "https://api.sketchfab.com/v3/tags/fuel"
+        },
+        {
+            "name": "safari",
+            "slug": "safari",
+            "uri": "https://api.sketchfab.com/v3/tags/safari"
+        },
+        {
+            "name": "bumper",
+            "slug": "bumper",
+            "uri": "https://api.sketchfab.com/v3/tags/bumper"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "horsepower",
+            "slug": "horsepower",
+            "uri": "https://api.sketchfab.com/v3/tags/horsepower"
+        },
+        {
+            "name": "utility",
+            "slug": "utility",
+            "uri": "https://api.sketchfab.com/v3/tags/utility"
+        },
+        {
+            "name": "heavy-duty",
+            "slug": "heavy-duty",
+            "uri": "https://api.sketchfab.com/v3/tags/heavy-duty"
+        },
+        {
+            "name": "ligth",
+            "slug": "ligth",
+            "uri": "https://api.sketchfab.com/v3/tags/ligth"
+        },
+        {
+            "name": "seamless",
+            "slug": "seamless",
+            "uri": "https://api.sketchfab.com/v3/tags/seamless"
+        },
+        {
+            "name": "off-road",
+            "slug": "off-road",
+            "uri": "https://api.sketchfab.com/v3/tags/off-road"
+        },
+        {
+            "name": "military-vehicle",
+            "slug": "military-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/military-vehicle"
+        },
+        {
+            "name": "overland",
+            "slug": "overland",
+            "uri": "https://api.sketchfab.com/v3/tags/overland"
+        },
+        {
+            "name": "expedition",
+            "slug": "expedition",
+            "uri": "https://api.sketchfab.com/v3/tags/expedition"
+        },
+        {
+            "name": "pickup-truck",
+            "slug": "pickup-truck",
+            "uri": "https://api.sketchfab.com/v3/tags/pickup-truck"
+        },
+        {
+            "name": "appocalypse",
+            "slug": "appocalypse",
+            "uri": "https://api.sketchfab.com/v3/tags/appocalypse"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "usa",
+            "slug": "usa",
+            "uri": "https://api.sketchfab.com/v3/tags/usa"
+        },
+        {
+            "name": "technology",
+            "slug": "technology",
+            "uri": "https://api.sketchfab.com/v3/tags/technology"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        },
+        {
+            "name": "snowrunner",
+            "slug": "snowrunner",
+            "uri": "https://api.sketchfab.com/v3/tags/snowrunner"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7a505184632d46b4aa23a57fd3e1544c",
+                "width": 1920,
+                "height": 1080,
+                "size": 183814,
+                "url": "https://media.sketchfab.com/models/3f692f43be394be0bec35d9ddbec6548/thumbnails/4b5acf310ef84ee5b81bcd99fac97c59/5bb678841f9241f7ba975745c4d76088.jpeg"
+            },
+            {
+                "uid": "59b239cf4c5741d59f641c579677cde9",
+                "width": 1024,
+                "height": 576,
+                "size": 30064,
+                "url": "https://media.sketchfab.com/models/3f692f43be394be0bec35d9ddbec6548/thumbnails/4b5acf310ef84ee5b81bcd99fac97c59/4cbf46258b2745578a6091fe92f0661d.jpeg"
+            },
+            {
+                "uid": "785ea16572d84692b5ab89f2619595f8",
+                "width": 720,
+                "height": 405,
+                "size": 16481,
+                "url": "https://media.sketchfab.com/models/3f692f43be394be0bec35d9ddbec6548/thumbnails/4b5acf310ef84ee5b81bcd99fac97c59/830fbe275e2d413abecca2fc762cc389.jpeg"
+            },
+            {
+                "uid": "db1d628abfe5419dab3f17bca1d07714",
+                "width": 256,
+                "height": 144,
+                "size": 3519,
+                "url": "https://media.sketchfab.com/models/3f692f43be394be0bec35d9ddbec6548/thumbnails/4b5acf310ef84ee5b81bcd99fac97c59/aff2e667f08747e19b5d6d1e3e216a93.jpeg"
+            },
+            {
+                "uid": "5ebfa119f5d74f91bb1fe1fb3ec67aea",
+                "width": 64,
+                "height": 36,
+                "size": 951,
+                "url": "https://media.sketchfab.com/models/3f692f43be394be0bec35d9ddbec6548/thumbnails/4b5acf310ef84ee5b81bcd99fac97c59/f827e654920140ac87356985f4d27302.jpeg"
+            }
+        ]
+    },
+    "uid": "3f692f43be394be0bec35d9ddbec6548",
+    "uri": "https://api.sketchfab.com/v3/models/3f692f43be394be0bec35d9ddbec6548",
+    "user": {
+        "uid": "bb12b4da758c4dbfadb18bb2e419c9cc",
+        "username": "Thethirdperspective",
+        "displayName": "The Third Dimension",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/Thethirdperspective",
+        "avatar": {
+            "uid": "d7a285a98ecb489b8291f62601c6d5d8",
+            "uri": "https://api.sketchfab.com/v3/avatars/d7a285a98ecb489b8291f62601c6d5d8",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1381,
+                    "url": "https://media.sketchfab.com/avatars/d7a285a98ecb489b8291f62601c6d5d8/3e990ee4763d452c850c68eee086f85f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2227,
+                    "url": "https://media.sketchfab.com/avatars/d7a285a98ecb489b8291f62601c6d5d8/fd088a7c3fb44880b304f7f8b410b18c.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5534,
+                    "url": "https://media.sketchfab.com/avatars/d7a285a98ecb489b8291f62601c6d5d8/9f20a962c2f346a6b12eced542825d26.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6459,
+                    "url": "https://media.sketchfab.com/avatars/d7a285a98ecb489b8291f62601c6d5d8/6bfb4de218e0465e8f2b0bcf41511780.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bb12b4da758c4dbfadb18bb2e419c9cc"
+    },
+    "vertexCount": 273763,
+    "viewCount": 97,
+    "viewerUrl": "https://sketchfab.com/3d-models/off-road-chevrolet-pickup-truck-c1500-on-fab-3f692f43be394be0bec35d9ddbec6548",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "📣Get it on FAB📣\n\nhttps://www.fab.com/listings/6bb335b7-0fde-4fcd-afe7-51dbdb4ed288\n\nA fully equipped off-road survival Chevy truck designed for harsh terrain and post-apocalyptic environments. This rugged utility truck features all the necessary equipment \n\nBuilt with exploration and survival scenarios in mind, the vehicle delivers a gritty, cinematic atmosphere suitable for post-collapse worlds, adventure settings, and open-terrain gameplay. The detailed exterior components create a believable expedition vehicle ready for extreme conditions.\n\n\n\n**It includes:**\n\n* Raised off-road suspension system\n* Heavy terrain tyres\n* Reinforced front bumper protection with a winch\n* Auxiliary roof lighting system\n* Roof rack with expedition gear\n* Fuel storage accessories (Jerrycans)\n* Enclosed cargo expansion module\n* Detailed exterior components\n* Extrenal equipment (A shovel, an axe and a ladder)\n\nIdeal for games, cinematic renders, survival scenes, or environmental storytelling where durability and realism matter.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3f692f43be394be0bec35d9ddbec6548/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-15T14:30:56.193264",
+    "pbrType": "metalness",
+    "textureCount": 39,
+    "materialCount": 92
+}

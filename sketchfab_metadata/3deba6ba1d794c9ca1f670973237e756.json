@@ -1,0 +1,199 @@
+{
+    "animationCount": 4,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-15T17:01:06.059696",
+    "embedUrl": "https://sketchfab.com/models/3deba6ba1d794c9ca1f670973237e756/embed",
+    "faceCount": 420,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Bewear Valentine Shiny (Cobblemon)",
+    "publishedAt": "2026-02-15T17:36:37.309339",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "server",
+            "slug": "server",
+            "uri": "https://api.sketchfab.com/v3/tags/server"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "heart",
+            "slug": "heart",
+            "uri": "https://api.sketchfab.com/v3/tags/heart"
+        },
+        {
+            "name": "valentine",
+            "slug": "valentine",
+            "uri": "https://api.sketchfab.com/v3/tags/valentine"
+        },
+        {
+            "name": "Pixelmon",
+            "slug": "pixelmon",
+            "uri": "https://api.sketchfab.com/v3/tags/pixelmon"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "bewear",
+            "slug": "bewear",
+            "uri": "https://api.sketchfab.com/v3/tags/bewear"
+        },
+        {
+            "name": "cobblemon",
+            "slug": "cobblemon",
+            "uri": "https://api.sketchfab.com/v3/tags/cobblemon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8f204dabc6e549d1bb2ab73d153cae04",
+                "width": 1920,
+                "height": 1080,
+                "size": 91475,
+                "url": "https://media.sketchfab.com/models/3deba6ba1d794c9ca1f670973237e756/thumbnails/9783560688d04071adc968da377d3e73/9701bd45bb8c4887af0493434ede338f.jpeg"
+            },
+            {
+                "uid": "4f9b8f5a5f2d43c2b69ecde0b4210646",
+                "width": 1024,
+                "height": 576,
+                "size": 36138,
+                "url": "https://media.sketchfab.com/models/3deba6ba1d794c9ca1f670973237e756/thumbnails/9783560688d04071adc968da377d3e73/d704812633f14692a2515b1a86b1d9bc.jpeg"
+            },
+            {
+                "uid": "c56095eb96ed446fbd9201905831d921",
+                "width": 720,
+                "height": 405,
+                "size": 21888,
+                "url": "https://media.sketchfab.com/models/3deba6ba1d794c9ca1f670973237e756/thumbnails/9783560688d04071adc968da377d3e73/a6b438c19ab041d8b42ae9fb20e2a489.jpeg"
+            },
+            {
+                "uid": "7adf0df9fd494577926688b1451ccc77",
+                "width": 256,
+                "height": 144,
+                "size": 5034,
+                "url": "https://media.sketchfab.com/models/3deba6ba1d794c9ca1f670973237e756/thumbnails/9783560688d04071adc968da377d3e73/234ebb35fa334725b769e2e141dd25ad.jpeg"
+            },
+            {
+                "uid": "17295d9e7396409faaa4c54ab2eeb1aa",
+                "width": 64,
+                "height": 36,
+                "size": 1216,
+                "url": "https://media.sketchfab.com/models/3deba6ba1d794c9ca1f670973237e756/thumbnails/9783560688d04071adc968da377d3e73/7275701c8c274d3fb4529ce488d02fd6.jpeg"
+            }
+        ]
+    },
+    "uid": "3deba6ba1d794c9ca1f670973237e756",
+    "uri": "https://api.sketchfab.com/v3/models/3deba6ba1d794c9ca1f670973237e756",
+    "user": {
+        "uid": "a0a579495c1f45859d7339e3c671c9a8",
+        "username": "Destroyaa96",
+        "displayName": "PokeResort",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/Destroyaa96",
+        "avatar": {
+            "uid": "b919dcc4efb346f1b84cd4763723bb9a",
+            "uri": "https://api.sketchfab.com/v3/avatars/b919dcc4efb346f1b84cd4763723bb9a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2976,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/4b38a3e07ac445c880f72273c49e3062.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5811,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/6e4cd42e6d0e4e00822527d659880648.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16371,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/431c15146ecb4007a0281c972183185b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 19285,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/12ccdb2974884fc1bcf77a147029a95e.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a0a579495c1f45859d7339e3c671c9a8"
+    },
+    "vertexCount": 280,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/bewear-valentine-shiny-cobblemon-3deba6ba1d794c9ca1f670973237e756",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3deba6ba1d794c9ca1f670973237e756/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-15T17:36:37.453117",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

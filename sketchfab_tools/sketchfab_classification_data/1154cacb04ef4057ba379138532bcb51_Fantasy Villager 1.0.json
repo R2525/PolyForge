@@ -1,0 +1,69 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Fantasy",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.95
+        },
+        {
+            "name": "Gothic",
+            "score": 0.85
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.75
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.65
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.55
+        },
+        {
+            "name": "Digital Sculpture",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "villager",
+        "old man",
+        "bearded",
+        "walking",
+        "staff",
+        "fantasy",
+        "character",
+        "pale",
+        "ancient",
+        "dusty"
+    ],
+    "model_id_full": "1154cacb04ef4057ba379138532bcb51_Fantasy Villager 1.0",
+    "sketchfab_id": "1154cacb04ef4057ba379138532bcb51",
+    "asset_name": "Fantasy Villager 1.0"
+}

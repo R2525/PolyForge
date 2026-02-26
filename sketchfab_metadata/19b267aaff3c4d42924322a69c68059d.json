@@ -1,0 +1,184 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-12T19:21:34.339842",
+    "embedUrl": "https://sketchfab.com/models/19b267aaff3c4d42924322a69c68059d/embed",
+    "faceCount": 35692,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Medieval tavern redux",
+    "publishedAt": "2026-02-12T19:27:21.982407",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "handpainted",
+            "slug": "handpainted",
+            "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "pirate",
+            "slug": "pirate",
+            "uri": "https://api.sketchfab.com/v3/tags/pirate"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c474d42ce9d94961800da5ddcbc82101",
+                "width": 1920,
+                "height": 1080,
+                "size": 222752,
+                "url": "https://media.sketchfab.com/models/19b267aaff3c4d42924322a69c68059d/thumbnails/b3e9cab7b79a481792be75f9e11405fe/2cd65d8bbc6c4f1eb8c383d067acbca3.jpeg"
+            },
+            {
+                "uid": "38010341c4e2426eaadc6122fdccd72b",
+                "width": 1024,
+                "height": 576,
+                "size": 83301,
+                "url": "https://media.sketchfab.com/models/19b267aaff3c4d42924322a69c68059d/thumbnails/b3e9cab7b79a481792be75f9e11405fe/22fd9f7c355743838c3d301c684b9a8c.jpeg"
+            },
+            {
+                "uid": "1ecb891c0a92489698a010434cdd1fc0",
+                "width": 720,
+                "height": 405,
+                "size": 50522,
+                "url": "https://media.sketchfab.com/models/19b267aaff3c4d42924322a69c68059d/thumbnails/b3e9cab7b79a481792be75f9e11405fe/799480e172a84f8cb91a29e739e234d7.jpeg"
+            },
+            {
+                "uid": "02b8eecbfe0c49d1ba63d84438d05dab",
+                "width": 256,
+                "height": 144,
+                "size": 10654,
+                "url": "https://media.sketchfab.com/models/19b267aaff3c4d42924322a69c68059d/thumbnails/b3e9cab7b79a481792be75f9e11405fe/2dab93ff8cc547b1aac894c40a95875e.jpeg"
+            },
+            {
+                "uid": "96ffd011cda4484e9efd5b2c2e97cb80",
+                "width": 64,
+                "height": 36,
+                "size": 1694,
+                "url": "https://media.sketchfab.com/models/19b267aaff3c4d42924322a69c68059d/thumbnails/b3e9cab7b79a481792be75f9e11405fe/6a5e1ffe4c5e4bce9c2167aac8b47fae.jpeg"
+            }
+        ]
+    },
+    "uid": "19b267aaff3c4d42924322a69c68059d",
+    "uri": "https://api.sketchfab.com/v3/models/19b267aaff3c4d42924322a69c68059d",
+    "user": {
+        "uid": "a2b58238fad24e1094fa3453ab760ecf",
+        "username": "reneevianen",
+        "displayName": "Renée Vianen",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/reneevianen",
+        "avatar": {
+            "uid": "bec077c93acb4685ac715f3c091bdb1b",
+            "uri": "https://api.sketchfab.com/v3/avatars/bec077c93acb4685ac715f3c091bdb1b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2273,
+                    "url": "https://media.sketchfab.com/avatars/bec077c93acb4685ac715f3c091bdb1b/fd8d20efacb64ad49de560b2324d549a.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4793,
+                    "url": "https://media.sketchfab.com/avatars/bec077c93acb4685ac715f3c091bdb1b/cc940763f11845c99ecaf85a1fc229d4.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14948,
+                    "url": "https://media.sketchfab.com/avatars/bec077c93acb4685ac715f3c091bdb1b/92043d5b35f24542847238ec5a6c7572.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 18228,
+                    "url": "https://media.sketchfab.com/avatars/bec077c93acb4685ac715f3c091bdb1b/691bf23e8ccd4400b2b4745d08c6a01c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a2b58238fad24e1094fa3453ab760ecf"
+    },
+    "vertexCount": 17934,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-tavern-redux-19b267aaff3c4d42924322a69c68059d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Redo of my first 3D scene I did half a decade ago. Unfinished, but I'd rather put it online rather than having it rot away on my hard drive haha. Hand-painted textures.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/19b267aaff3c4d42924322a69c68059d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-12T19:27:22.821776",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.5
+        },
+        {
+            "name": "Historic",
+            "score": 0.4
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.8
+        },
+        {
+            "name": "Low Poly",
+            "score": 0.7
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Snowy",
+        "Snow-covered",
+        "White",
+        "Snowy terrain",
+        "Snowy landscape"
+    ],
+    "tags": [
+        "castle",
+        "medieval",
+        "fortress",
+        "snow",
+        "hill",
+        "winter",
+        "architecture",
+        "3D model"
+    ],
+    "model_id_full": "2eaefc8e91404da8b61cca41588b7a14_Rekonstrukce hradu Holštejn, castle",
+    "sketchfab_id": "2eaefc8e91404da8b61cca41588b7a14",
+    "asset_name": "Rekonstrukce hradu Holštejn, castle"
+}

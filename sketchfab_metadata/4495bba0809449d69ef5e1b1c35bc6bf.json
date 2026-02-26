@@ -1,0 +1,184 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T16:29:17.142961",
+    "embedUrl": "https://sketchfab.com/models/4495bba0809449d69ef5e1b1c35bc6bf/embed",
+    "faceCount": 4672,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Farming",
+    "publishedAt": "2026-02-23T16:31:53.439381",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "table",
+            "slug": "table",
+            "uri": "https://api.sketchfab.com/v3/tags/table"
+        },
+        {
+            "name": "farm",
+            "slug": "farm",
+            "uri": "https://api.sketchfab.com/v3/tags/farm"
+        },
+        {
+            "name": "Farming",
+            "slug": "farming",
+            "uri": "https://api.sketchfab.com/v3/tags/farming"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a0a94dab4a8740508754b6e31c0e1365",
+                "width": 1920,
+                "height": 1080,
+                "size": 247527,
+                "url": "https://media.sketchfab.com/models/4495bba0809449d69ef5e1b1c35bc6bf/thumbnails/e64463f7f95d427686639f748453d477/9e840ec22d52450293ce46b132254892.jpeg"
+            },
+            {
+                "uid": "40bd1e9b51f9444185401498f7ffd9b7",
+                "width": 1024,
+                "height": 576,
+                "size": 89907,
+                "url": "https://media.sketchfab.com/models/4495bba0809449d69ef5e1b1c35bc6bf/thumbnails/e64463f7f95d427686639f748453d477/c1f8ba334efd40759dad9cfb85203d15.jpeg"
+            },
+            {
+                "uid": "6ceec830ceed4eadb6f95b5198d33857",
+                "width": 720,
+                "height": 405,
+                "size": 53373,
+                "url": "https://media.sketchfab.com/models/4495bba0809449d69ef5e1b1c35bc6bf/thumbnails/e64463f7f95d427686639f748453d477/8ac2a11ecdec4016b0a09eb1689ef1c2.jpeg"
+            },
+            {
+                "uid": "9f0b5264d6ba417cbe7ddaa5d2423e21",
+                "width": 256,
+                "height": 144,
+                "size": 10455,
+                "url": "https://media.sketchfab.com/models/4495bba0809449d69ef5e1b1c35bc6bf/thumbnails/e64463f7f95d427686639f748453d477/df101c089cf942e9980fe0064caea69c.jpeg"
+            },
+            {
+                "uid": "9308f52eab984754815fe2b7d9b66acb",
+                "width": 64,
+                "height": 36,
+                "size": 1530,
+                "url": "https://media.sketchfab.com/models/4495bba0809449d69ef5e1b1c35bc6bf/thumbnails/e64463f7f95d427686639f748453d477/57008d380f154b61a98729f6e0493df5.jpeg"
+            }
+        ]
+    },
+    "uid": "4495bba0809449d69ef5e1b1c35bc6bf",
+    "uri": "https://api.sketchfab.com/v3/models/4495bba0809449d69ef5e1b1c35bc6bf",
+    "user": {
+        "uid": "f59569a91911420b9feaf1a4b062ee4c",
+        "username": "NopesCreations",
+        "displayName": "Nope",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/NopesCreations",
+        "avatar": {
+            "uid": "f91169d147614d50a791f7a8f4090e42",
+            "uri": "https://api.sketchfab.com/v3/avatars/f91169d147614d50a791f7a8f4090e42",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 992,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/7036d821a82f47598a8783521d573953.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1406,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/280c37667f554b8b99ac9d070d89443e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3412,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/8020031926994ebaaf414a27a39d9b00.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3919,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/99592f6d7ec34ebbb1b5cd42f38ff58c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f59569a91911420b9feaf1a4b062ee4c"
+    },
+    "vertexCount": 6044,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/farming-4495bba0809449d69ef5e1b1c35bc6bf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Low poly farming models.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/4495bba0809449d69ef5e1b1c35bc6bf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T16:31:53.655209",
+    "pbrType": null,
+    "textureCount": 10,
+    "materialCount": 10
+}

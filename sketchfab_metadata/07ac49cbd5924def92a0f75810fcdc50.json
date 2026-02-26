@@ -1,0 +1,170 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "357487fbb30a44ee8a0adf9b24829919",
+            "name": "Music",
+            "slug": "music",
+            "uri": "https://api.sketchfab.com/v3/categories/357487fbb30a44ee8a0adf9b24829919",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/e46cf538674d8594fad0292580efcf5b-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/357487fbb30a44ee8a0adf9b24829919/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/357487fbb30a44ee8a0adf9b24829919/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-16T14:47:26.638244",
+    "embedUrl": "https://sketchfab.com/models/07ac49cbd5924def92a0f75810fcdc50/embed",
+    "faceCount": 145108,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "AC/DC – For those about to Rock",
+    "publishedAt": "2026-02-16T14:50:41.173396",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "to",
+            "slug": "to",
+            "uri": "https://api.sketchfab.com/v3/tags/to"
+        },
+        {
+            "name": "for",
+            "slug": "for",
+            "uri": "https://api.sketchfab.com/v3/tags/for"
+        },
+        {
+            "name": "About",
+            "slug": "about",
+            "uri": "https://api.sketchfab.com/v3/tags/about"
+        },
+        {
+            "name": "acdc",
+            "slug": "acdc",
+            "uri": "https://api.sketchfab.com/v3/tags/acdc"
+        },
+        {
+            "name": "those",
+            "slug": "those",
+            "uri": "https://api.sketchfab.com/v3/tags/those"
+        },
+        {
+            "name": "rock",
+            "slug": "rock",
+            "uri": "https://api.sketchfab.com/v3/tags/rock"
+        },
+        {
+            "name": "for-those-about-to-rock",
+            "slug": "for-those-about-to-rock",
+            "uri": "https://api.sketchfab.com/v3/tags/for-those-about-to-rock"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e13a8b6c8a184fe3897bb49f8d40aab0",
+                "width": 1920,
+                "height": 1080,
+                "size": 96659,
+                "url": "https://media.sketchfab.com/models/07ac49cbd5924def92a0f75810fcdc50/thumbnails/1124707323884ad9b739c4d9f3b3c8cf/459fb424852843d7ae1ed3a871e287d1.jpeg"
+            },
+            {
+                "uid": "2ba11872265d4e71a246dfaf9c54544b",
+                "width": 1024,
+                "height": 576,
+                "size": 37281,
+                "url": "https://media.sketchfab.com/models/07ac49cbd5924def92a0f75810fcdc50/thumbnails/1124707323884ad9b739c4d9f3b3c8cf/e3020152e43e4ae8b365ba0c57ed7b5a.jpeg"
+            },
+            {
+                "uid": "42e1e640a70848e894802c8380b2ff5a",
+                "width": 720,
+                "height": 405,
+                "size": 22840,
+                "url": "https://media.sketchfab.com/models/07ac49cbd5924def92a0f75810fcdc50/thumbnails/1124707323884ad9b739c4d9f3b3c8cf/16182f141aee4818928be152870b0854.jpeg"
+            },
+            {
+                "uid": "f80045c29d5146ac8346bd41699109bb",
+                "width": 256,
+                "height": 144,
+                "size": 5250,
+                "url": "https://media.sketchfab.com/models/07ac49cbd5924def92a0f75810fcdc50/thumbnails/1124707323884ad9b739c4d9f3b3c8cf/d39619c15da341c69c43d062e43b64cb.jpeg"
+            },
+            {
+                "uid": "2d295fd1c98f4f3693c1e3c79effe98a",
+                "width": 64,
+                "height": 36,
+                "size": 1119,
+                "url": "https://media.sketchfab.com/models/07ac49cbd5924def92a0f75810fcdc50/thumbnails/1124707323884ad9b739c4d9f3b3c8cf/0b4909ea32634a4b96a98dbedd63e2ca.jpeg"
+            }
+        ]
+    },
+    "uid": "07ac49cbd5924def92a0f75810fcdc50",
+    "uri": "https://api.sketchfab.com/v3/models/07ac49cbd5924def92a0f75810fcdc50",
+    "user": {
+        "uid": "6511df1bf2b74652b34b3e50e0fe0f0c",
+        "username": "artmonite",
+        "displayName": "ArtMonite",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/artmonite",
+        "avatar": {
+            "uid": "23f5676656224d66b6f4fa3990960e45",
+            "uri": "https://api.sketchfab.com/v3/avatars/23f5676656224d66b6f4fa3990960e45",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2130,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/a9af30bb6c744fe29611c0344108c717.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3896,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/6c6513e38672418dbb92c0c967b00c67.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9337,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/a98c0bbcd5ba4287b7f817c19857a95a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10883,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/a056afd2f94e4d5d80a7f02607f0ef4b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6511df1bf2b74652b34b3e50e0fe0f0c"
+    },
+    "vertexCount": 72459,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/acdc-for-those-about-to-rock-07ac49cbd5924def92a0f75810fcdc50",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model is based on the cover of the album For Those About to Rock (We Salute You), the eighth international studio album by AC/DC. The record, recorded at Compass Point Studios in Nassau (Bahamas), was released in 1981 following the success of Back in Black and was produced by Robert John “Mutt” Lange. This work consolidated the lineup consisting of Brian Johnson, Angus Young, Malcolm Young, Cliff Williams, and Phil Rudd. The design was created by the graphic studio of Atlantic Records and references the use of real cannons during live performances of the title track, a staging element used by the band during the tours associated with the album. Download this model from: https://artmonite.com/en/product/ac-dc-for-those-about-to-rock/",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/07ac49cbd5924def92a0f75810fcdc50/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T14:50:41.354536",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

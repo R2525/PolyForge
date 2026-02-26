@@ -1,0 +1,145 @@
+{
+    "animationCount": 2,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T21:55:10.799503",
+    "embedUrl": "https://sketchfab.com/models/0a48929a71054938a2a1c9069541a731/embed",
+    "faceCount": 384,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Bojack Horseman Minecraft Model",
+    "publishedAt": "2026-02-24T21:59:42.211307",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "bojack",
+            "slug": "bojack",
+            "uri": "https://api.sketchfab.com/v3/tags/bojack"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "19e76343456e4595b2a0846768a9f638",
+                "width": 1920,
+                "height": 1080,
+                "size": 202781,
+                "url": "https://media.sketchfab.com/models/0a48929a71054938a2a1c9069541a731/thumbnails/028167066c794b419ec06d779c997fd7/c6112ec03bb24d7f8980b3dae5b7b81b.jpeg"
+            },
+            {
+                "uid": "b318a4485b6c438a95c1a26b1284937b",
+                "width": 1024,
+                "height": 576,
+                "size": 66804,
+                "url": "https://media.sketchfab.com/models/0a48929a71054938a2a1c9069541a731/thumbnails/028167066c794b419ec06d779c997fd7/95eabdac62634b60b90d6de62533a3a3.jpeg"
+            },
+            {
+                "uid": "0413e168d21541e7861f0c8e9e8a27e7",
+                "width": 720,
+                "height": 405,
+                "size": 39049,
+                "url": "https://media.sketchfab.com/models/0a48929a71054938a2a1c9069541a731/thumbnails/028167066c794b419ec06d779c997fd7/a7f0d99962b844d8b4a544c9917716cb.jpeg"
+            },
+            {
+                "uid": "a3c2ba14b89c4afea07a40c71ad8eecf",
+                "width": 256,
+                "height": 144,
+                "size": 6786,
+                "url": "https://media.sketchfab.com/models/0a48929a71054938a2a1c9069541a731/thumbnails/028167066c794b419ec06d779c997fd7/e501897c3424486a81b077dde22ad6c3.jpeg"
+            },
+            {
+                "uid": "95ebe26effc948308220db7dc02c91eb",
+                "width": 64,
+                "height": 36,
+                "size": 1222,
+                "url": "https://media.sketchfab.com/models/0a48929a71054938a2a1c9069541a731/thumbnails/028167066c794b419ec06d779c997fd7/eb058f9305ed48fd9f405133f96f7472.jpeg"
+            }
+        ]
+    },
+    "uid": "0a48929a71054938a2a1c9069541a731",
+    "uri": "https://api.sketchfab.com/v3/models/0a48929a71054938a2a1c9069541a731",
+    "user": {
+        "uid": "d9768af780a24fae8394208256b8e5ba",
+        "username": "zylty_the_goat",
+        "displayName": "Zylty",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/zylty_the_goat",
+        "avatar": {
+            "uid": "234eaf3105904ba2bbd0cf4c3f567a63",
+            "uri": "https://api.sketchfab.com/v3/avatars/234eaf3105904ba2bbd0cf4c3f567a63",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2467,
+                    "url": "https://media.sketchfab.com/avatars/234eaf3105904ba2bbd0cf4c3f567a63/0b4dffe6d3a3449ebee30c214620032c.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4921,
+                    "url": "https://media.sketchfab.com/avatars/234eaf3105904ba2bbd0cf4c3f567a63/39279b4e180e4418977db67b723ae884.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14568,
+                    "url": "https://media.sketchfab.com/avatars/234eaf3105904ba2bbd0cf4c3f567a63/95e7c9306d7949d6ab863dae981cfd52.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17544,
+                    "url": "https://media.sketchfab.com/avatars/234eaf3105904ba2bbd0cf4c3f567a63/b81ee87fb7804885a91eb40b3fc5c4a3.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d9768af780a24fae8394208256b8e5ba"
+    },
+    "vertexCount": 256,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/bojack-horseman-minecraft-model-0a48929a71054938a2a1c9069541a731",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Bojack Horseman from the TV show “Bojack Horseman” for Minecraft.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0a48929a71054938a2a1c9069541a731/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T22:03:57.301810",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

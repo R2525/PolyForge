@@ -1,0 +1,170 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T21:08:57.674699",
+    "embedUrl": "https://sketchfab.com/models/4399d97876474cf19318c778fc78dcf9/embed",
+    "faceCount": 1236,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Mega Scolipede (Cobblemon)",
+    "publishedAt": "2026-02-18T21:18:20.616337",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "pokemon3d",
+            "slug": "pokemon3d",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon3d"
+        },
+        {
+            "name": "megaevolution",
+            "slug": "megaevolution",
+            "uri": "https://api.sketchfab.com/v3/tags/megaevolution"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "cobblemon",
+            "slug": "cobblemon",
+            "uri": "https://api.sketchfab.com/v3/tags/cobblemon"
+        },
+        {
+            "name": "mega-scolipede",
+            "slug": "mega-scolipede",
+            "uri": "https://api.sketchfab.com/v3/tags/mega-scolipede"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "61bf8f7f24184fd39bce03caf8b44cdb",
+                "width": 1920,
+                "height": 1080,
+                "size": 102209,
+                "url": "https://media.sketchfab.com/models/4399d97876474cf19318c778fc78dcf9/thumbnails/71c8fcc447234cd6a7244fbcbfa0e9b5/8056f71e451c429b8c6d5d0b07920041.jpeg"
+            },
+            {
+                "uid": "d7921912f664402da448255d83cbefb5",
+                "width": 1024,
+                "height": 576,
+                "size": 38533,
+                "url": "https://media.sketchfab.com/models/4399d97876474cf19318c778fc78dcf9/thumbnails/71c8fcc447234cd6a7244fbcbfa0e9b5/e8906c7a997449e9a442820928b46f6c.jpeg"
+            },
+            {
+                "uid": "a421e47aa4524a20b16c7d095794455a",
+                "width": 720,
+                "height": 405,
+                "size": 23401,
+                "url": "https://media.sketchfab.com/models/4399d97876474cf19318c778fc78dcf9/thumbnails/71c8fcc447234cd6a7244fbcbfa0e9b5/9d2c0ec591cf4c5ab231b77a83b7d76e.jpeg"
+            },
+            {
+                "uid": "611fa3e2254844cf92dbc51a23c1c8a9",
+                "width": 256,
+                "height": 144,
+                "size": 5257,
+                "url": "https://media.sketchfab.com/models/4399d97876474cf19318c778fc78dcf9/thumbnails/71c8fcc447234cd6a7244fbcbfa0e9b5/db506696b5344388bc700e4ed43260e8.jpeg"
+            },
+            {
+                "uid": "16923cd058304a80ba71796c288a0c43",
+                "width": 64,
+                "height": 36,
+                "size": 1228,
+                "url": "https://media.sketchfab.com/models/4399d97876474cf19318c778fc78dcf9/thumbnails/71c8fcc447234cd6a7244fbcbfa0e9b5/d0ad2bb60a2d45b6b3087786587882cb.jpeg"
+            }
+        ]
+    },
+    "uid": "4399d97876474cf19318c778fc78dcf9",
+    "uri": "https://api.sketchfab.com/v3/models/4399d97876474cf19318c778fc78dcf9",
+    "user": {
+        "uid": "b8ffd9226555413dac5a37203a31f7a1",
+        "username": "heaveninvoid_",
+        "displayName": "heaveninvoid_",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/heaveninvoid_",
+        "avatar": {
+            "uid": "f05b770b57854d878b6b9a99cdf40da3",
+            "uri": "https://api.sketchfab.com/v3/avatars/f05b770b57854d878b6b9a99cdf40da3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2154,
+                    "url": "https://media.sketchfab.com/avatars/f05b770b57854d878b6b9a99cdf40da3/328b0122f85d470e923fc9bb44c415df.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3941,
+                    "url": "https://media.sketchfab.com/avatars/f05b770b57854d878b6b9a99cdf40da3/a5962812693b4475a4015f12704aefcd.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9714,
+                    "url": "https://media.sketchfab.com/avatars/f05b770b57854d878b6b9a99cdf40da3/7918a5437685412f8e10d2989931fd31.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11263,
+                    "url": "https://media.sketchfab.com/avatars/f05b770b57854d878b6b9a99cdf40da3/00252307fef9471ca30d889c37d5044a.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b8ffd9226555413dac5a37203a31f7a1"
+    },
+    "vertexCount": 824,
+    "viewCount": 36,
+    "viewerUrl": "https://sketchfab.com/3d-models/mega-scolipede-cobblemon-4399d97876474cf19318c778fc78dcf9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Low poly model of Mega Scolipede from pokemon for the mod Cobblemon for minecraft.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/4399d97876474cf19318c778fc78dcf9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T21:18:20.761994",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

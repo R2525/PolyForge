@@ -1,0 +1,215 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-22T08:54:21.328163",
+    "embedUrl": "https://sketchfab.com/models/21f34c25d655444b811237ca23081224/embed",
+    "faceCount": 574678,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Dark snow pile",
+    "publishedAt": "2026-01-22T10:15:37.738014",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "square",
+            "slug": "square",
+            "uri": "https://api.sketchfab.com/v3/tags/square"
+        },
+        {
+            "name": "archviz",
+            "slug": "archviz",
+            "uri": "https://api.sketchfab.com/v3/tags/archviz"
+        },
+        {
+            "name": "winter",
+            "slug": "winter",
+            "uri": "https://api.sketchfab.com/v3/tags/winter"
+        },
+        {
+            "name": "ice",
+            "slug": "ice",
+            "uri": "https://api.sketchfab.com/v3/tags/ice"
+        },
+        {
+            "name": "3d-scan",
+            "slug": "3d-scan",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-scan"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "road",
+            "slug": "road",
+            "uri": "https://api.sketchfab.com/v3/tags/road"
+        },
+        {
+            "name": "junk",
+            "slug": "junk",
+            "uri": "https://api.sketchfab.com/v3/tags/junk"
+        },
+        {
+            "name": "dirt",
+            "slug": "dirt",
+            "uri": "https://api.sketchfab.com/v3/tags/dirt"
+        },
+        {
+            "name": "clean",
+            "slug": "clean",
+            "uri": "https://api.sketchfab.com/v3/tags/clean"
+        },
+        {
+            "name": "debris",
+            "slug": "debris",
+            "uri": "https://api.sketchfab.com/v3/tags/debris"
+        },
+        {
+            "name": "waste",
+            "slug": "waste",
+            "uri": "https://api.sketchfab.com/v3/tags/waste"
+        },
+        {
+            "name": "town",
+            "slug": "town",
+            "uri": "https://api.sketchfab.com/v3/tags/town"
+        },
+        {
+            "name": "Cleanup",
+            "slug": "cleanup",
+            "uri": "https://api.sketchfab.com/v3/tags/cleanup"
+        },
+        {
+            "name": "texture",
+            "slug": "texture",
+            "uri": "https://api.sketchfab.com/v3/tags/texture"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "40ce9a384e6b4bdba697c8ab79e7c828",
+                "width": 1920,
+                "height": 1080,
+                "size": 549047,
+                "url": "https://media.sketchfab.com/models/21f34c25d655444b811237ca23081224/thumbnails/3fcc8648e8f947a594672b86aae91153/be1044c0015a4b4c964c796356e03af2.jpeg"
+            },
+            {
+                "uid": "6bb18ee15e6d4f0c8fda0027a83c6a80",
+                "width": 1024,
+                "height": 576,
+                "size": 99776,
+                "url": "https://media.sketchfab.com/models/21f34c25d655444b811237ca23081224/thumbnails/3fcc8648e8f947a594672b86aae91153/f72129939ac24f18a44d85dd3eba3125.jpeg"
+            },
+            {
+                "uid": "40cdb330f9604056a0ae81dfbb425e7f",
+                "width": 720,
+                "height": 405,
+                "size": 47025,
+                "url": "https://media.sketchfab.com/models/21f34c25d655444b811237ca23081224/thumbnails/3fcc8648e8f947a594672b86aae91153/70f92cd7ae904984a245f1409c9c2eb0.jpeg"
+            },
+            {
+                "uid": "c2d4a3de27ce438bbca1db0d565e7759",
+                "width": 256,
+                "height": 144,
+                "size": 6318,
+                "url": "https://media.sketchfab.com/models/21f34c25d655444b811237ca23081224/thumbnails/3fcc8648e8f947a594672b86aae91153/6abb399dc0ba4f82bc658038a3f98c91.jpeg"
+            },
+            {
+                "uid": "657eaab27eb54ef8a8acefb47066b360",
+                "width": 64,
+                "height": 36,
+                "size": 1078,
+                "url": "https://media.sketchfab.com/models/21f34c25d655444b811237ca23081224/thumbnails/3fcc8648e8f947a594672b86aae91153/3e4ba90cf82e4c8b9e6af92e1d1d0e67.jpeg"
+            }
+        ]
+    },
+    "uid": "21f34c25d655444b811237ca23081224",
+    "uri": "https://api.sketchfab.com/v3/models/21f34c25d655444b811237ca23081224",
+    "user": {
+        "uid": "01c3a3d216ed4051b1f85787bcf76fba",
+        "username": "matousekfoto",
+        "displayName": "matousekfoto",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/matousekfoto",
+        "avatar": {
+            "uid": "75a0bb33b625418eadeeabf5171a6e5f",
+            "uri": "https://api.sketchfab.com/v3/avatars/75a0bb33b625418eadeeabf5171a6e5f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 716,
+                    "url": "https://media.sketchfab.com/avatars/75a0bb33b625418eadeeabf5171a6e5f/c8424889ac9b489da27721a6e38780a3.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1089,
+                    "url": "https://media.sketchfab.com/avatars/75a0bb33b625418eadeeabf5171a6e5f/f7656e9c4430494fb0342c832dfeb9b1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2575,
+                    "url": "https://media.sketchfab.com/avatars/75a0bb33b625418eadeeabf5171a6e5f/b99c14eaac7a4c10be7c1c93e9bb676e.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2950,
+                    "url": "https://media.sketchfab.com/avatars/75a0bb33b625418eadeeabf5171a6e5f/380cd8c41e11417fb49f28d709131be6.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/01c3a3d216ed4051b1f85787bcf76fba"
+    },
+    "vertexCount": 309822,
+    "viewCount": 59,
+    "viewerUrl": "https://sketchfab.com/3d-models/dark-snow-pile-21f34c25d655444b811237ca23081224",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Dirty dark black dusted snow ice pile heap leftover with scattered grit sand stones on public square street road pavement.\n\nDanger of winter urban suburb town landscape.\n\nPhotogrammetry scan 120x36MP, 8K HD textures",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/21f34c25d655444b811237ca23081224/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-22T11:12:17.086167",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

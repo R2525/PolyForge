@@ -1,0 +1,191 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-20T14:52:44.048578",
+    "embedUrl": "https://sketchfab.com/models/44499330afef4d729f8657b5e32aadb2/embed",
+    "faceCount": 84800,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 7,
+    "name": "Tree (part7)",
+    "publishedAt": "2025-12-20T15:00:17.494567",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "trees",
+            "slug": "trees",
+            "uri": "https://api.sketchfab.com/v3/tags/trees"
+        },
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "assets",
+            "slug": "assets",
+            "uri": "https://api.sketchfab.com/v3/tags/assets"
+        },
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "postapocalyptic",
+            "slug": "postapocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/postapocalyptic"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "15ba705bd739486e858a5b2a19959834",
+                "width": 1920,
+                "height": 1080,
+                "size": 113819,
+                "url": "https://media.sketchfab.com/models/44499330afef4d729f8657b5e32aadb2/thumbnails/da9be0de792d489caa8d77a9ead6fb4f/f291bf95486142ba882c1c2dd4cebd08.jpeg"
+            },
+            {
+                "uid": "4eac1b9bdbb74dcd8d32ede7f7867467",
+                "width": 1024,
+                "height": 576,
+                "size": 34063,
+                "url": "https://media.sketchfab.com/models/44499330afef4d729f8657b5e32aadb2/thumbnails/da9be0de792d489caa8d77a9ead6fb4f/5e6177561c4245e48316fff67abd5269.jpeg"
+            },
+            {
+                "uid": "e48afb8aef3d42d4b8d995316f38f19d",
+                "width": 720,
+                "height": 405,
+                "size": 18399,
+                "url": "https://media.sketchfab.com/models/44499330afef4d729f8657b5e32aadb2/thumbnails/da9be0de792d489caa8d77a9ead6fb4f/57259549138543f9968bdac030507b98.jpeg"
+            },
+            {
+                "uid": "87220ce5f3f648c2ad609c445d909ccf",
+                "width": 256,
+                "height": 144,
+                "size": 3308,
+                "url": "https://media.sketchfab.com/models/44499330afef4d729f8657b5e32aadb2/thumbnails/da9be0de792d489caa8d77a9ead6fb4f/b9e0db1ec0bd4a95a00e9c1567116cea.jpeg"
+            },
+            {
+                "uid": "456cba6d845d4fc4bd38438fee051450",
+                "width": 64,
+                "height": 36,
+                "size": 929,
+                "url": "https://media.sketchfab.com/models/44499330afef4d729f8657b5e32aadb2/thumbnails/da9be0de792d489caa8d77a9ead6fb4f/9d5c32ccd05f4d8b80bfe434593e2c16.jpeg"
+            }
+        ]
+    },
+    "uid": "44499330afef4d729f8657b5e32aadb2",
+    "uri": "https://api.sketchfab.com/v3/models/44499330afef4d729f8657b5e32aadb2",
+    "user": {
+        "uid": "e40b7702a5fa40b1b0f35790147a7152",
+        "username": "YN14R",
+        "displayName": "YN14R",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/YN14R",
+        "avatar": {
+            "uid": "42a2af5985b44a508ed0867796e136d5",
+            "uri": "https://api.sketchfab.com/v3/avatars/42a2af5985b44a508ed0867796e136d5",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1249,
+                    "url": "https://media.sketchfab.com/avatars/42a2af5985b44a508ed0867796e136d5/fec55b0a41ef4f1bad8d254cb1c47311.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1814,
+                    "url": "https://media.sketchfab.com/avatars/42a2af5985b44a508ed0867796e136d5/94d8b047c330455a98dcc144f675d924.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4374,
+                    "url": "https://media.sketchfab.com/avatars/42a2af5985b44a508ed0867796e136d5/0586613c77a34538b82d5be4c06797a3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5155,
+                    "url": "https://media.sketchfab.com/avatars/42a2af5985b44a508ed0867796e136d5/9b8e43a645f94acea1d375f0346fe557.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e40b7702a5fa40b1b0f35790147a7152"
+    },
+    "vertexCount": 54085,
+    "viewCount": 156,
+    "viewerUrl": "https://sketchfab.com/3d-models/tree-part7-44499330afef4d729f8657b5e32aadb2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is one of several strange trees I once made in one scene. I think it would be better if I posted them separately, and all for free. I'll still have time to make more similar models in the future, but it's getting better and better.\n\nI would be very glad for your support: https://www.donationalerts.com/r/yn14r and https://boosty.to/hr_r4dl1 \nI would be very grateful if you visit and subscribe to my other resources, TG channel, YT channel\n\n* TG Channel: https://t.me/yn14r_chl \n* YT channel: https://www.youtube.com/@nts_sm \n\nFor all questions and suggestions, please contact me in Telegram: @YNI4R",
+    "price": null,
+    "downloadCount": 27,
+    "editorUrl": "https://sketchfab.com/models/44499330afef4d729f8657b5e32aadb2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-20T15:00:29.585523",
+    "pbrType": null,
+    "textureCount": 7,
+    "materialCount": 5
+}

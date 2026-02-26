@@ -1,0 +1,231 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "357487fbb30a44ee8a0adf9b24829919",
+            "name": "Music",
+            "slug": "music",
+            "uri": "https://api.sketchfab.com/v3/categories/357487fbb30a44ee8a0adf9b24829919",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/e46cf538674d8594fad0292580efcf5b-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/357487fbb30a44ee8a0adf9b24829919/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/357487fbb30a44ee8a0adf9b24829919/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-11T04:10:01.262066",
+    "embedUrl": "https://sketchfab.com/models/164e8fa1a0ba4767a8224117fcd0987b/embed",
+    "faceCount": 298537,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Antique Masterpiece Violin & Bow_GGMt",
+    "publishedAt": "2026-01-11T04:15:51.648408",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "music",
+            "slug": "music",
+            "uri": "https://api.sketchfab.com/v3/tags/music"
+        },
+        {
+            "name": "violin",
+            "slug": "violin",
+            "uri": "https://api.sketchfab.com/v3/tags/violin"
+        },
+        {
+            "name": "maple",
+            "slug": "maple",
+            "uri": "https://api.sketchfab.com/v3/tags/maple"
+        },
+        {
+            "name": "ebony",
+            "slug": "ebony",
+            "uri": "https://api.sketchfab.com/v3/tags/ebony"
+        },
+        {
+            "name": "antique",
+            "slug": "antique",
+            "uri": "https://api.sketchfab.com/v3/tags/antique"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "spruce",
+            "slug": "spruce",
+            "uri": "https://api.sketchfab.com/v3/tags/spruce"
+        },
+        {
+            "name": "classical",
+            "slug": "classical",
+            "uri": "https://api.sketchfab.com/v3/tags/classical"
+        },
+        {
+            "name": "musicalinstrument",
+            "slug": "musicalinstrument",
+            "uri": "https://api.sketchfab.com/v3/tags/musicalinstrument"
+        },
+        {
+            "name": "orchestral",
+            "slug": "orchestral",
+            "uri": "https://api.sketchfab.com/v3/tags/orchestral"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e13eb7dcbc864d46a85603a44225e944",
+                "width": 1920,
+                "height": 1080,
+                "size": 432534,
+                "url": "https://media.sketchfab.com/models/164e8fa1a0ba4767a8224117fcd0987b/thumbnails/39bb393a862f41829ab9369e8f200ce9/115aeb0d30414348b71465c0283bb990.jpeg"
+            },
+            {
+                "uid": "d71f877e5fcb4a1094bf7b8e5ef17bc2",
+                "width": 1024,
+                "height": 576,
+                "size": 48068,
+                "url": "https://media.sketchfab.com/models/164e8fa1a0ba4767a8224117fcd0987b/thumbnails/39bb393a862f41829ab9369e8f200ce9/933c48481f724b03a9e2f2fd2703e270.jpeg"
+            },
+            {
+                "uid": "87611fdbdd8d4141bff8b752842e13f6",
+                "width": 720,
+                "height": 405,
+                "size": 20646,
+                "url": "https://media.sketchfab.com/models/164e8fa1a0ba4767a8224117fcd0987b/thumbnails/39bb393a862f41829ab9369e8f200ce9/a8a7abd5d4924b029499395e549996a2.jpeg"
+            },
+            {
+                "uid": "27b8a475819b4c16888c7f9719db410e",
+                "width": 256,
+                "height": 144,
+                "size": 3278,
+                "url": "https://media.sketchfab.com/models/164e8fa1a0ba4767a8224117fcd0987b/thumbnails/39bb393a862f41829ab9369e8f200ce9/aa77cd26e6874442b1d6f38ba9f4d2d5.jpeg"
+            },
+            {
+                "uid": "bfc4f56ff18d426c84b115e00668deb6",
+                "width": 64,
+                "height": 36,
+                "size": 957,
+                "url": "https://media.sketchfab.com/models/164e8fa1a0ba4767a8224117fcd0987b/thumbnails/39bb393a862f41829ab9369e8f200ce9/77b0d9e28d6548d0aaf5208d81c1b68d.jpeg"
+            }
+        ]
+    },
+    "uid": "164e8fa1a0ba4767a8224117fcd0987b",
+    "uri": "https://api.sketchfab.com/v3/models/164e8fa1a0ba4767a8224117fcd0987b",
+    "user": {
+        "uid": "8dcd2c23b5da4d0a90cb10bdb0be99a0",
+        "username": "GalaxyAbundant",
+        "displayName": "Galaxy Abundant",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/GalaxyAbundant",
+        "avatar": {
+            "uid": "81412244641947759612e0738f375269",
+            "uri": "https://api.sketchfab.com/v3/avatars/81412244641947759612e0738f375269",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 655,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/e40febffe8cc49248bfd94492ddfac24.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 930,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/b410feb5a6e84f949dd90af0fbde5c59.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1864,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/c0390a25580c4f42a17eadbe55bd9f97.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2110,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/6bb8a6761d5043288f18a3f790417f8b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8dcd2c23b5da4d0a90cb10bdb0be99a0"
+    },
+    "vertexCount": 149145,
+    "viewCount": 146,
+    "viewerUrl": "https://sketchfab.com/3d-models/antique-masterpiece-violin-bow-ggmt-164e8fa1a0ba4767a8224117fcd0987b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "**Antique Masterpiece Violin & Bow – Hyper-Realistic 3D Asset**\n\nA high-fidelity, photorealistic 3D model of an antique violin and bow, meticulously crafted to showcase professional-grade textures and material work. This asset captures the timeless elegance of a master-crafted instrument, emphasizing the contrast between aged wood and polished fittings.\n\nKey Features:\n\nMaterial Detail: Features a rich, glossy varnish over a highly detailed spruce top and a stunning flamed maple back.\nAuthentic Components: Accurately modeled ebony fingerboard, pegs, and fittings.\nTechnical Quality: Rendered in Unreal Engine 5 with 8K resolution textures to capture every fine scratch, wood pore, and grain variation.\nAtmosphere: Designed for elegant studio environments, cinematic close-ups, or high-end archival visualizations.\nPerfect for musical environments, historical recreations, or high-end interior visualization.",
+    "price": null,
+    "downloadCount": 27,
+    "editorUrl": "https://sketchfab.com/models/164e8fa1a0ba4767a8224117fcd0987b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-01-11T16:03:05.783408",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

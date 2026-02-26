@@ -1,0 +1,184 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "name": "Sports & Fitness",
+            "slug": "sports-fitness",
+            "uri": "https://api.sketchfab.com/v3/categories/ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/2cc5442dbf0aeeed5327cbf073964157-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T09:19:45.053846",
+    "embedUrl": "https://sketchfab.com/models/440bd6be35334a3d9c017497a8b4d7eb/embed",
+    "faceCount": 144,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Kitasan Black (Uma Musume)",
+    "publishedAt": "2026-02-18T09:29:00.150139",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "horse",
+            "slug": "horse",
+            "uri": "https://api.sketchfab.com/v3/tags/horse"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "umamusume",
+            "slug": "umamusume",
+            "uri": "https://api.sketchfab.com/v3/tags/umamusume"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "04c2ec277c1f488087bc06d9348b34e5",
+                "width": 1920,
+                "height": 1080,
+                "size": 79798,
+                "url": "https://media.sketchfab.com/models/440bd6be35334a3d9c017497a8b4d7eb/thumbnails/7555bbff0ef54b908e09fdf3ac42a7b0/3a00dd9cb5e0466b9bc4192bd3fd33e1.jpeg"
+            },
+            {
+                "uid": "0cbb97bbc2464e76b2be89fed273008c",
+                "width": 1024,
+                "height": 576,
+                "size": 30872,
+                "url": "https://media.sketchfab.com/models/440bd6be35334a3d9c017497a8b4d7eb/thumbnails/7555bbff0ef54b908e09fdf3ac42a7b0/dd954e2f65f14134a2b86eb0497848ea.jpeg"
+            },
+            {
+                "uid": "9c4803f97dfd4228ac9e01d13f5622ec",
+                "width": 720,
+                "height": 405,
+                "size": 18890,
+                "url": "https://media.sketchfab.com/models/440bd6be35334a3d9c017497a8b4d7eb/thumbnails/7555bbff0ef54b908e09fdf3ac42a7b0/9f70bb9aa32d4a3a914931360cb112a9.jpeg"
+            },
+            {
+                "uid": "e07b95ef28044d949491b3c5ba4d881a",
+                "width": 256,
+                "height": 144,
+                "size": 4459,
+                "url": "https://media.sketchfab.com/models/440bd6be35334a3d9c017497a8b4d7eb/thumbnails/7555bbff0ef54b908e09fdf3ac42a7b0/5dfd1f4c0e604ddc8d3c0cd95a77f485.jpeg"
+            },
+            {
+                "uid": "f38d38da265e407f96d45de202fa880f",
+                "width": 64,
+                "height": 36,
+                "size": 1107,
+                "url": "https://media.sketchfab.com/models/440bd6be35334a3d9c017497a8b4d7eb/thumbnails/7555bbff0ef54b908e09fdf3ac42a7b0/8d3a40636df840c6b12c4ac7c76fd429.jpeg"
+            }
+        ]
+    },
+    "uid": "440bd6be35334a3d9c017497a8b4d7eb",
+    "uri": "https://api.sketchfab.com/v3/models/440bd6be35334a3d9c017497a8b4d7eb",
+    "user": {
+        "uid": "1324a6f894f04ed2aa945cde67ff3fc2",
+        "username": "DinoAwesome_344",
+        "displayName": "DinoAwesome_344",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DinoAwesome_344",
+        "avatar": {
+            "uid": "0c658ad3bad946cd9511b8648ce2f594",
+            "uri": "https://api.sketchfab.com/v3/avatars/0c658ad3bad946cd9511b8648ce2f594",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 963,
+                    "url": "https://media.sketchfab.com/avatars/0c658ad3bad946cd9511b8648ce2f594/c5871ec2e3a842b7831f8acdcebf4509.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1318,
+                    "url": "https://media.sketchfab.com/avatars/0c658ad3bad946cd9511b8648ce2f594/32525a99da984a74a3089e7ada666353.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2741,
+                    "url": "https://media.sketchfab.com/avatars/0c658ad3bad946cd9511b8648ce2f594/a21dc5da683f40eaaa1504d4f742aca1.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3136,
+                    "url": "https://media.sketchfab.com/avatars/0c658ad3bad946cd9511b8648ce2f594/efb81b9543ce451f9ac62bf04a4ab90f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1324a6f894f04ed2aa945cde67ff3fc2"
+    },
+    "vertexCount": 96,
+    "viewCount": 24,
+    "viewerUrl": "https://sketchfab.com/3d-models/kitasan-black-uma-musume-440bd6be35334a3d9c017497a8b4d7eb",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Kitasan Black is one of the legendary race horse from Japan that got adapted to multimedia franchise Uma Musume: Pretty Derby.\n\nModel and texture made by DinoAwesome_344",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/440bd6be35334a3d9c017497a8b4d7eb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T09:29:00.841169",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

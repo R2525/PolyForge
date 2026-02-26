@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient",
+            "score": 0.7
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.6
+        },
+        {
+            "name": "Gothic",
+            "score": 0.5
+        }
+    ],
+    "style": "Wooden",
+    "top_styles": [
+        {
+            "name": "Wooden",
+            "score": 0.8
+        },
+        {
+            "name": "Weathered",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Hand-painted",
+            "score": 0.5
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Wooden",
+        "Rusty",
+        "Dusty",
+        "Mossy"
+    ],
+    "tags": [
+        "medieval",
+        "gazebo",
+        "wooden",
+        "shelter",
+        "furniture",
+        "home",
+        "outdoor",
+        "structure"
+    ],
+    "model_id_full": "522e7c1a0f3b4f10aadaaf3bac139469_House Medieval Wooden Gazebo Shelter",
+    "sketchfab_id": "522e7c1a0f3b4f10aadaaf3bac139469",
+    "asset_name": "House Medieval Wooden Gazebo Shelter"
+}

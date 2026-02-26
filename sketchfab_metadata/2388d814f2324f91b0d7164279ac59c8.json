@@ -1,0 +1,261 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2026-02-17T10:11:52.194755",
+    "embedUrl": "https://sketchfab.com/models/2388d814f2324f91b0d7164279ac59c8/embed",
+    "faceCount": 16160,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+    },
+    "likeCount": 12,
+    "name": "Little Box Jeep (graphic realism)",
+    "publishedAt": "2026-02-17T12:20:58.321992",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "drone",
+            "slug": "drone",
+            "uri": "https://api.sketchfab.com/v3/tags/drone"
+        },
+        {
+            "name": "textures",
+            "slug": "textures",
+            "uri": "https://api.sketchfab.com/v3/tags/textures"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "hard-surface",
+            "slug": "hard-surface",
+            "uri": "https://api.sketchfab.com/v3/tags/hard-surface"
+        },
+        {
+            "name": "bungie",
+            "slug": "bungie",
+            "uri": "https://api.sketchfab.com/v3/tags/bungie"
+        },
+        {
+            "name": "graphic",
+            "slug": "graphic",
+            "uri": "https://api.sketchfab.com/v3/tags/graphic"
+        },
+        {
+            "name": "realism",
+            "slug": "realism",
+            "uri": "https://api.sketchfab.com/v3/tags/realism"
+        },
+        {
+            "name": "marathon",
+            "slug": "marathon",
+            "uri": "https://api.sketchfab.com/v3/tags/marathon"
+        },
+        {
+            "name": "texturing",
+            "slug": "texturing",
+            "uri": "https://api.sketchfab.com/v3/tags/texturing"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "car",
+            "slug": "car",
+            "uri": "https://api.sketchfab.com/v3/tags/car"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        },
+        {
+            "name": "graphicrealism",
+            "slug": "graphicrealism",
+            "uri": "https://api.sketchfab.com/v3/tags/graphicrealism"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "bdd2bf6bf31641cc8f6e07f2db629046",
+                "width": 1920,
+                "height": 1080,
+                "size": 198273,
+                "url": "https://media.sketchfab.com/models/2388d814f2324f91b0d7164279ac59c8/thumbnails/426b3812d302416484397ab8a39545a5/e4d1491933c1481e9455d39e27c33a42.jpeg"
+            },
+            {
+                "uid": "82f03498191e45d6a8d0faaffecc5aaf",
+                "width": 1024,
+                "height": 576,
+                "size": 50270,
+                "url": "https://media.sketchfab.com/models/2388d814f2324f91b0d7164279ac59c8/thumbnails/426b3812d302416484397ab8a39545a5/1a91bd45ce6e4b61ac37d041c18db0c0.jpeg"
+            },
+            {
+                "uid": "73cf2fe4d87c4f9fbdf64d48d569f6f4",
+                "width": 720,
+                "height": 405,
+                "size": 27457,
+                "url": "https://media.sketchfab.com/models/2388d814f2324f91b0d7164279ac59c8/thumbnails/426b3812d302416484397ab8a39545a5/bc29a80ce09f433ea712f024d598ddc9.jpeg"
+            },
+            {
+                "uid": "0b59289297574835925271f079e376c6",
+                "width": 256,
+                "height": 144,
+                "size": 5530,
+                "url": "https://media.sketchfab.com/models/2388d814f2324f91b0d7164279ac59c8/thumbnails/426b3812d302416484397ab8a39545a5/be58304644174cf3b782d1221da40478.jpeg"
+            },
+            {
+                "uid": "9d0e78fae796440aa2a875b950e90d82",
+                "width": 64,
+                "height": 36,
+                "size": 1210,
+                "url": "https://media.sketchfab.com/models/2388d814f2324f91b0d7164279ac59c8/thumbnails/426b3812d302416484397ab8a39545a5/069ef69797b84a3f8c346a23daeec94c.jpeg"
+            }
+        ]
+    },
+    "uid": "2388d814f2324f91b0d7164279ac59c8",
+    "uri": "https://api.sketchfab.com/v3/models/2388d814f2324f91b0d7164279ac59c8",
+    "user": {
+        "uid": "4168d0479a0a4d78b7bd20475b059ba1",
+        "username": "Kelni",
+        "displayName": "Kelni",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Kelni",
+        "avatar": {
+            "uid": "faa463d2afad4972a73751dd58be442f",
+            "uri": "https://api.sketchfab.com/v3/avatars/faa463d2afad4972a73751dd58be442f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1054,
+                    "url": "https://media.sketchfab.com/avatars/faa463d2afad4972a73751dd58be442f/f0f2798d8640437e9e16653ddb474abd.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1364,
+                    "url": "https://media.sketchfab.com/avatars/faa463d2afad4972a73751dd58be442f/dc2f3731a2384aebbe3afe0275134ee4.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2658,
+                    "url": "https://media.sketchfab.com/avatars/faa463d2afad4972a73751dd58be442f/41c3577f93e443b997f3c40e6861ebcf.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2955,
+                    "url": "https://media.sketchfab.com/avatars/faa463d2afad4972a73751dd58be442f/34dde1ad42ac4e21a0c3e6975c27c5de.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4168d0479a0a4d78b7bd20475b059ba1"
+    },
+    "vertexCount": 8286,
+    "viewCount": 116,
+    "viewerUrl": "https://sketchfab.com/3d-models/little-box-jeep-graphic-realism-2388d814f2324f91b0d7164279ac59c8",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A low-poly industrial rover designed for heavy-duty transport. Inspired by the graphic realism style of Bungie's Marathon and cassette futurism aesthetics.\n\nThis model was created to practice Hard Surface modeling and PBR texturing with a focus on \"cheap but practical plastic\" materials and graphic design elements.\n\nWorkflow:\n\n    Modeling/UV: Blender\n\n    Baking/Texturing: Substance 3D Painter\n\n    Render: Marmoset Toolbag 4 / Sketchfab\n\nTechnical Specs:\n\n    Game-ready topology\n\n    4K PBR Textures (Metal/Roughness workflow)\n\n    Custom decals and emission maps\n\nFeel free to leave a comment or feedback!",
+    "price": null,
+    "downloadCount": 27,
+    "editorUrl": "https://sketchfab.com/models/2388d814f2324f91b0d7164279ac59c8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-17T13:19:07.464647",
+    "pbrType": "metalness",
+    "textureCount": 6,
+    "materialCount": 1
+}

@@ -1,0 +1,255 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-10T11:00:30.243811",
+    "embedUrl": "https://sketchfab.com/models/042b8bb958324557ac99493ce909dd78/embed",
+    "faceCount": 906272,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Realistic Interlocked Human Hands 3D Model",
+    "publishedAt": "2026-02-10T11:17:26.610165",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "anatomy",
+            "slug": "anatomy",
+            "uri": "https://api.sketchfab.com/v3/tags/anatomy"
+        },
+        {
+            "name": "time",
+            "slug": "time",
+            "uri": "https://api.sketchfab.com/v3/tags/time"
+        },
+        {
+            "name": "people",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/tags/people"
+        },
+        {
+            "name": "pose",
+            "slug": "pose",
+            "uri": "https://api.sketchfab.com/v3/tags/pose"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "detail",
+            "slug": "detail",
+            "uri": "https://api.sketchfab.com/v3/tags/detail"
+        },
+        {
+            "name": "love",
+            "slug": "love",
+            "uri": "https://api.sketchfab.com/v3/tags/love"
+        },
+        {
+            "name": "hands",
+            "slug": "hands",
+            "uri": "https://api.sketchfab.com/v3/tags/hands"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "real",
+            "slug": "real",
+            "uri": "https://api.sketchfab.com/v3/tags/real"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+        },
+        {
+            "name": "holding",
+            "slug": "holding",
+            "uri": "https://api.sketchfab.com/v3/tags/holding"
+        },
+        {
+            "name": "romantic",
+            "slug": "romantic",
+            "uri": "https://api.sketchfab.com/v3/tags/romantic"
+        },
+        {
+            "name": "couple",
+            "slug": "couple",
+            "uri": "https://api.sketchfab.com/v3/tags/couple"
+        },
+        {
+            "name": "together",
+            "slug": "together",
+            "uri": "https://api.sketchfab.com/v3/tags/together"
+        },
+        {
+            "name": "emotion",
+            "slug": "emotion",
+            "uri": "https://api.sketchfab.com/v3/tags/emotion"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "human",
+            "slug": "human",
+            "uri": "https://api.sketchfab.com/v3/tags/human"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        },
+        {
+            "name": "hand",
+            "slug": "hand",
+            "uri": "https://api.sketchfab.com/v3/tags/hand"
+        },
+        {
+            "name": "skin",
+            "slug": "skin",
+            "uri": "https://api.sketchfab.com/v3/tags/skin"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "587719ca8d7e44c7aa36d81abb30aef1",
+                "width": 1920,
+                "height": 1080,
+                "size": 437762,
+                "url": "https://media.sketchfab.com/models/042b8bb958324557ac99493ce909dd78/thumbnails/e09916444ef140bd9f75a4f0f50d8a74/68e68ea274634a73bf810d350971f15e.jpeg"
+            },
+            {
+                "uid": "ceb69686271041a481500ad4ec223880",
+                "width": 1024,
+                "height": 576,
+                "size": 52613,
+                "url": "https://media.sketchfab.com/models/042b8bb958324557ac99493ce909dd78/thumbnails/e09916444ef140bd9f75a4f0f50d8a74/6b6ec8cc6b084d8bb2f9c6e35bee398f.jpeg"
+            },
+            {
+                "uid": "388a250f94214de585104f5dc72b4f07",
+                "width": 720,
+                "height": 405,
+                "size": 24601,
+                "url": "https://media.sketchfab.com/models/042b8bb958324557ac99493ce909dd78/thumbnails/e09916444ef140bd9f75a4f0f50d8a74/d153c77d3d014a01820bd90a6b66fed8.jpeg"
+            },
+            {
+                "uid": "945058b99fa34694aaea3cdf39d0b1bc",
+                "width": 256,
+                "height": 144,
+                "size": 4989,
+                "url": "https://media.sketchfab.com/models/042b8bb958324557ac99493ce909dd78/thumbnails/e09916444ef140bd9f75a4f0f50d8a74/db313e7a239b46d28ed26c8283424389.jpeg"
+            },
+            {
+                "uid": "9214d0e63b79455089c4404463adbc16",
+                "width": 64,
+                "height": 36,
+                "size": 1235,
+                "url": "https://media.sketchfab.com/models/042b8bb958324557ac99493ce909dd78/thumbnails/e09916444ef140bd9f75a4f0f50d8a74/fc3f9b0c52624a00a82ffcefdde0fa82.jpeg"
+            }
+        ]
+    },
+    "uid": "042b8bb958324557ac99493ce909dd78",
+    "uri": "https://api.sketchfab.com/v3/models/042b8bb958324557ac99493ce909dd78",
+    "user": {
+        "uid": "f3f26a04457445a58d7b2f1a03617753",
+        "username": "skarian675",
+        "displayName": "skarian675",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/skarian675",
+        "avatar": {
+            "uid": "c87d2eb9908c4298a629cfccdd16cafb",
+            "uri": "https://api.sketchfab.com/v3/avatars/c87d2eb9908c4298a629cfccdd16cafb",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2445,
+                    "url": "https://media.sketchfab.com/avatars/c87d2eb9908c4298a629cfccdd16cafb/875266a94b574b47b0256b4dbeaf8ed4.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5139,
+                    "url": "https://media.sketchfab.com/avatars/c87d2eb9908c4298a629cfccdd16cafb/d839033924684c55880ce99392f8e524.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16565,
+                    "url": "https://media.sketchfab.com/avatars/c87d2eb9908c4298a629cfccdd16cafb/97190ac554324e69b5f5f57be518befe.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 20155,
+                    "url": "https://media.sketchfab.com/avatars/c87d2eb9908c4298a629cfccdd16cafb/cb3e444f9c4448298366fadc275a5e70.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f3f26a04457445a58d7b2f1a03617753"
+    },
+    "vertexCount": 453140,
+    "viewCount": 32,
+    "viewerUrl": "https://sketchfab.com/3d-models/realistic-interlocked-human-hands-3d-model-042b8bb958324557ac99493ce909dd78",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a high-quality realistic 3D model of two human hands holding each other, created with accurate anatomy, natural proportions, and fine surface details.\n\nThe model is ideal for use in cinematic renders, animations, emotional storytelling, VR/AR experiences, games, short films, and visualization projects. Special attention has been given to skin folds, finger interaction, and natural hand pose to achieve a lifelike result.\n\nFeatures:\n\n* Realistic anatomy and proportions\n\n* Clean topology suitable for rendering and animation\n\n* High-detail sculpt with natural hand interaction\n\n* Ideal for close-up shots and emotional scenes",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/042b8bb958324557ac99493ce909dd78/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-10T11:37:33.568288",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 2
+}

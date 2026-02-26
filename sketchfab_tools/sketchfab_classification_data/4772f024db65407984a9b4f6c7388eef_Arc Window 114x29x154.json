@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Victorian",
+            "score": 0.7
+        },
+        {
+            "name": "Baroque",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "3D Render",
+            "score": 0.5
+        },
+        {
+            "name": "Architectural",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Cracked",
+        "Dusty",
+        "Mossy",
+        "Rusty"
+    ],
+    "tags": [
+        "architectural",
+        "window",
+        "stone",
+        "arch",
+        "architectural detail",
+        "3D model",
+        "ancient",
+        "historic"
+    ],
+    "model_id_full": "4772f024db65407984a9b4f6c7388eef_Arc Window 114x29x154",
+    "sketchfab_id": "4772f024db65407984a9b4f6c7388eef",
+    "asset_name": "Arc Window 114x29x154"
+}

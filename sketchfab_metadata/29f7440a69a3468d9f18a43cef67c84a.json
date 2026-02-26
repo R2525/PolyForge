@@ -1,0 +1,186 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-11-21T10:14:21.912042",
+    "embedUrl": "https://sketchfab.com/models/29f7440a69a3468d9f18a43cef67c84a/embed",
+    "faceCount": 290,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/72eb2b1960364637901eacce19283624",
+        "label": "Free Standard",
+        "fullName": "Free Standard",
+        "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+        "url": "https://sketchfab.com/licenses",
+        "slug": "free-st"
+    },
+    "likeCount": 0,
+    "name": "256fes - 290 tris - Warhammer 40k - Space Marine",
+    "publishedAt": "2025-11-21T10:17:41.777740",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "marine",
+            "slug": "marine",
+            "uri": "https://api.sketchfab.com/v3/tags/marine"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        },
+        {
+            "name": "256fes",
+            "slug": "256fes",
+            "uri": "https://api.sketchfab.com/v3/tags/256fes"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c6f8e9f6f102478f8e1408ae74e4e9a8",
+                "width": 1920,
+                "height": 1080,
+                "size": 64618,
+                "url": "https://media.sketchfab.com/models/29f7440a69a3468d9f18a43cef67c84a/thumbnails/58ad8c53dfb44f5a899b9ed81c08209b/c10c166990c64d6abd3d6fb30dc3a30e.jpeg"
+            },
+            {
+                "uid": "ca07a05c9312417680d128092a2c2ef2",
+                "width": 1024,
+                "height": 576,
+                "size": 21714,
+                "url": "https://media.sketchfab.com/models/29f7440a69a3468d9f18a43cef67c84a/thumbnails/58ad8c53dfb44f5a899b9ed81c08209b/bae9f7b0b1044685b756e68079e6a4da.jpeg"
+            },
+            {
+                "uid": "d52d9ed14f5d4d05855a78e028e547ff",
+                "width": 720,
+                "height": 405,
+                "size": 12435,
+                "url": "https://media.sketchfab.com/models/29f7440a69a3468d9f18a43cef67c84a/thumbnails/58ad8c53dfb44f5a899b9ed81c08209b/eefaeb9992b14530a8205502c8ee4dec.jpeg"
+            },
+            {
+                "uid": "b8cbf24dcae7442bac322c7aaae4163b",
+                "width": 256,
+                "height": 144,
+                "size": 2662,
+                "url": "https://media.sketchfab.com/models/29f7440a69a3468d9f18a43cef67c84a/thumbnails/58ad8c53dfb44f5a899b9ed81c08209b/e2d9eb7b8230453c9d83d51dee5e70ff.jpeg"
+            },
+            {
+                "uid": "65ff7d9562524d9086028a9c43dda7e1",
+                "width": 64,
+                "height": 36,
+                "size": 873,
+                "url": "https://media.sketchfab.com/models/29f7440a69a3468d9f18a43cef67c84a/thumbnails/58ad8c53dfb44f5a899b9ed81c08209b/d19c07e8abb94480b581c40ae82ad41f.jpeg"
+            }
+        ]
+    },
+    "uid": "29f7440a69a3468d9f18a43cef67c84a",
+    "uri": "https://api.sketchfab.com/v3/models/29f7440a69a3468d9f18a43cef67c84a",
+    "user": {
+        "uid": "9a18ebd16b3b4e80a4391b57a5cc335c",
+        "username": "saxonrah",
+        "displayName": "saxonrah",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/saxonrah",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9a18ebd16b3b4e80a4391b57a5cc335c"
+    },
+    "vertexCount": 188,
+    "viewCount": 136,
+    "viewerUrl": "https://sketchfab.com/3d-models/256fes-290-tris-warhammer-40k-space-marine-29f7440a69a3468d9f18a43cef67c84a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "256fes - Warhammer 40k - Space Marine\nRecent trend on Japanese X / Twitter.\nMake a model with 256 polygons or less with 256x256 pixel textures.\n\nUpdate: Now skinned and animated, It's now 290 tris because of segmentation of legs, arms, and torso to have a nice animated game ready version.\n\nIt's possible to go back to the original at 241 tris, but animating the monolithic torso/legs geo requires seperate bone weights for each animation to look good. Such is the life of constrained geometry. Back in the day we'd have multiple skeletons and or weights for each animation to get low poly models to look right when moving. While it no longer meets the 256 triangle quota of the 256fes restriction, I still feel like it's a really good generic sub-300 example.",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/29f7440a69a3468d9f18a43cef67c84a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-21T10:17:41.928580",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

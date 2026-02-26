@@ -1,0 +1,266 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T11:18:08.071439",
+    "embedUrl": "https://sketchfab.com/models/23e7c5231d9545358dd1cb7b7c3f6143/embed",
+    "faceCount": 18234,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Stylized Fantasy Prop Pack Hand Painted Low Poly",
+    "publishedAt": "2026-02-11T11:33:17.420825",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "lantern",
+            "slug": "lantern",
+            "uri": "https://api.sketchfab.com/v3/tags/lantern"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "mushroom",
+            "slug": "mushroom",
+            "uri": "https://api.sketchfab.com/v3/tags/mushroom"
+        },
+        {
+            "name": "dungeon",
+            "slug": "dungeon",
+            "uri": "https://api.sketchfab.com/v3/tags/dungeon"
+        },
+        {
+            "name": "barrel",
+            "slug": "barrel",
+            "uri": "https://api.sketchfab.com/v3/tags/barrel"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "mace",
+            "slug": "mace",
+            "uri": "https://api.sketchfab.com/v3/tags/mace"
+        },
+        {
+            "name": "Painterly",
+            "slug": "painterly",
+            "uri": "https://api.sketchfab.com/v3/tags/painterly"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "game-asset",
+            "slug": "game-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+        },
+        {
+            "name": "prop-pack",
+            "slug": "prop-pack",
+            "uri": "https://api.sketchfab.com/v3/tags/prop-pack"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "photoshop",
+            "slug": "photoshop",
+            "uri": "https://api.sketchfab.com/v3/tags/photoshop"
+        },
+        {
+            "name": "hand-painted",
+            "slug": "hand-painted",
+            "uri": "https://api.sketchfab.com/v3/tags/hand-painted"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3ba9db4588be4593850ea7764c6d8299",
+                "width": 1920,
+                "height": 1080,
+                "size": 139383,
+                "url": "https://media.sketchfab.com/models/23e7c5231d9545358dd1cb7b7c3f6143/thumbnails/6e4e69d3e26a41c1a2d5d300ccb4b3bf/2a93f210ad77422d90ef6038bde582d5.jpeg"
+            },
+            {
+                "uid": "4c99b31ad45d4e8f8db81ebe75efaa6f",
+                "width": 1024,
+                "height": 576,
+                "size": 41133,
+                "url": "https://media.sketchfab.com/models/23e7c5231d9545358dd1cb7b7c3f6143/thumbnails/6e4e69d3e26a41c1a2d5d300ccb4b3bf/84c05035d10443c68645761d1a277f11.jpeg"
+            },
+            {
+                "uid": "4eff28b0757f489b92ec66358ae63a0e",
+                "width": 720,
+                "height": 405,
+                "size": 24759,
+                "url": "https://media.sketchfab.com/models/23e7c5231d9545358dd1cb7b7c3f6143/thumbnails/6e4e69d3e26a41c1a2d5d300ccb4b3bf/8e0d0863aec649c4b7bb0336d3eec800.jpeg"
+            },
+            {
+                "uid": "541b699bdb7c4544aeba2d17e44e6222",
+                "width": 256,
+                "height": 144,
+                "size": 5791,
+                "url": "https://media.sketchfab.com/models/23e7c5231d9545358dd1cb7b7c3f6143/thumbnails/6e4e69d3e26a41c1a2d5d300ccb4b3bf/98e8678276164c00b9d21344b82f9f83.jpeg"
+            },
+            {
+                "uid": "00dedf734eb74415baa6a878600f2348",
+                "width": 64,
+                "height": 36,
+                "size": 1283,
+                "url": "https://media.sketchfab.com/models/23e7c5231d9545358dd1cb7b7c3f6143/thumbnails/6e4e69d3e26a41c1a2d5d300ccb4b3bf/b7a4f0e31d1f423482f1ddab8a1083c7.jpeg"
+            }
+        ]
+    },
+    "uid": "23e7c5231d9545358dd1cb7b7c3f6143",
+    "uri": "https://api.sketchfab.com/v3/models/23e7c5231d9545358dd1cb7b7c3f6143",
+    "user": {
+        "uid": "48cc23fa02bb483fa5721209ab860fdb",
+        "username": "mascotboy",
+        "displayName": "Sami Ullah",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mascotboy",
+        "avatar": {
+            "uid": "bfe5caaf99c4404db26e7f4bccaeef96",
+            "uri": "https://api.sketchfab.com/v3/avatars/bfe5caaf99c4404db26e7f4bccaeef96",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1147,
+                    "url": "https://media.sketchfab.com/avatars/bfe5caaf99c4404db26e7f4bccaeef96/d4dcc74e3051403288d2d4db880cce3a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1566,
+                    "url": "https://media.sketchfab.com/avatars/bfe5caaf99c4404db26e7f4bccaeef96/c20633fd5f0a4802bdecc1f8cf357399.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3192,
+                    "url": "https://media.sketchfab.com/avatars/bfe5caaf99c4404db26e7f4bccaeef96/078d94b0f4ec4a8bb080761fa8ad1ebd.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3695,
+                    "url": "https://media.sketchfab.com/avatars/bfe5caaf99c4404db26e7f4bccaeef96/87194eb111274ce6b9ef6e623a523026.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/48cc23fa02bb483fa5721209ab860fdb"
+    },
+    "vertexCount": 9041,
+    "viewCount": 20,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-fantasy-prop-pack-hand-painted-low-poly-23e7c5231d9545358dd1cb7b7c3f6143",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A collection of high-quality, stylized low-poly props designed for fantasy game environments. Each model was created in Maya and features a hand-painted texture style authored in Photoshop.\n\nThis pack includes 5 essential game assets:\n\n* Battle Axe: Weathered metal with a curved wooden handle.\n* Spiked Mace: A heavy wooden club with metallic spikes.\n* Classic Lantern: A vintage light source with a warm emissive glow.\n* Mushroom Cluster: Vibrant red and blue forest flora on a rocky base.\n* Wooden Barrel: A classic storage prop with metallic bands.\n\nTechnical Details:\nWorkflow: Low-poly modeling & UV unwrapping in Maya.\n\nTexturing: Hand-painted in Photoshop.\n\nStyle: Painterly, RPG, Fantasy, Cartoon.",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/23e7c5231d9545358dd1cb7b7c3f6143/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-13T11:02:17.283690",
+    "pbrType": null,
+    "textureCount": 11,
+    "materialCount": 5
+}

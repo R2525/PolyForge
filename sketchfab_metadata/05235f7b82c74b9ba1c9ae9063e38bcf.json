@@ -1,0 +1,174 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-02-08T15:48:26.373862",
+    "embedUrl": "https://sketchfab.com/models/05235f7b82c74b9ba1c9ae9063e38bcf/embed",
+    "faceCount": 5508,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Stylized Door",
+    "publishedAt": "2025-02-08T15:59:32.840651",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "599eaef61cb547448c0efd61ddf3f62c",
+                "width": 1920,
+                "height": 1080,
+                "size": 301666,
+                "url": "https://media.sketchfab.com/models/05235f7b82c74b9ba1c9ae9063e38bcf/thumbnails/5bdf42f7bbf948168a78e950f584c39b/96657faa536e4e548ff04e1bd06efbab.jpeg"
+            },
+            {
+                "uid": "f8640ae82aad47e1bad4b50e18dc7553",
+                "width": 1024,
+                "height": 576,
+                "size": 62775,
+                "url": "https://media.sketchfab.com/models/05235f7b82c74b9ba1c9ae9063e38bcf/thumbnails/5bdf42f7bbf948168a78e950f584c39b/b1636520e1fb4fdf9d1205f54e9bce92.jpeg"
+            },
+            {
+                "uid": "554bd1d31fe14d998a014d9187d644d7",
+                "width": 720,
+                "height": 405,
+                "size": 30998,
+                "url": "https://media.sketchfab.com/models/05235f7b82c74b9ba1c9ae9063e38bcf/thumbnails/5bdf42f7bbf948168a78e950f584c39b/cdafb43ca07d4e5a9c36c0c1b1dd203d.jpeg"
+            },
+            {
+                "uid": "e7ac1e6d4e2d4355b4d602be14aa452d",
+                "width": 256,
+                "height": 144,
+                "size": 5108,
+                "url": "https://media.sketchfab.com/models/05235f7b82c74b9ba1c9ae9063e38bcf/thumbnails/5bdf42f7bbf948168a78e950f584c39b/57f33cd0191049c4a0d2896fa0693261.jpeg"
+            },
+            {
+                "uid": "4bfb47c7edf34f95b4c7657867051b94",
+                "width": 64,
+                "height": 36,
+                "size": 1136,
+                "url": "https://media.sketchfab.com/models/05235f7b82c74b9ba1c9ae9063e38bcf/thumbnails/5bdf42f7bbf948168a78e950f584c39b/2db30415c57f45098e2c6354a0d890e0.jpeg"
+            }
+        ]
+    },
+    "uid": "05235f7b82c74b9ba1c9ae9063e38bcf",
+    "uri": "https://api.sketchfab.com/v3/models/05235f7b82c74b9ba1c9ae9063e38bcf",
+    "user": {
+        "uid": "398b4986630c46c6b6b51ae062187222",
+        "username": "CoFate",
+        "displayName": "NEXIC",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/CoFate",
+        "avatar": {
+            "uid": "fc7d5965b4d340c0a944e2e56c9644e3",
+            "uri": "https://api.sketchfab.com/v3/avatars/fc7d5965b4d340c0a944e2e56c9644e3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2308,
+                    "url": "https://media.sketchfab.com/avatars/fc7d5965b4d340c0a944e2e56c9644e3/ab0618aed0414d54b2c1cfb75e4b8106.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4428,
+                    "url": "https://media.sketchfab.com/avatars/fc7d5965b4d340c0a944e2e56c9644e3/1ce737ccfae74f378b7adf6a3246ce7e.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12376,
+                    "url": "https://media.sketchfab.com/avatars/fc7d5965b4d340c0a944e2e56c9644e3/5dfa3c5db5f54773b121c980882c4727.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 14716,
+                    "url": "https://media.sketchfab.com/avatars/fc7d5965b4d340c0a944e2e56c9644e3/f6a85bf0ad474bd48b2ba37b399bc4f6.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/398b4986630c46c6b6b51ae062187222"
+    },
+    "vertexCount": 2878,
+    "viewCount": 94,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-door-05235f7b82c74b9ba1c9ae9063e38bcf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/05235f7b82c74b9ba1c9ae9063e38bcf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-03-03T03:39:42.555388",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 6
+}

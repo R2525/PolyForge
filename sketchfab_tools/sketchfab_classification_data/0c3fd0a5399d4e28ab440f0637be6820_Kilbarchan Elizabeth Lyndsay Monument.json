@@ -1,0 +1,69 @@
+{
+    "category": "Cultural Heritage & History",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.95
+        },
+        {
+            "name": "Historical",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.85
+        },
+        {
+            "name": "Victorian",
+            "score": 0.8
+        },
+        {
+            "name": "Medieval",
+            "score": 0.75
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Stone Carving",
+            "score": 0.8
+        },
+        {
+            "name": "Historical Realism",
+            "score": 0.75
+        },
+        {
+            "name": "Ancient Stone",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Weathered",
+        "Cracked",
+        "Dusty",
+        "Rusty"
+    ],
+    "tags": [
+        "monument",
+        "stone",
+        "ancient",
+        "history",
+        "cultural",
+        "historical",
+        "carved",
+        "weathered"
+    ],
+    "model_id_full": "0c3fd0a5399d4e28ab440f0637be6820_Kilbarchan Elizabeth Lyndsay Monument",
+    "sketchfab_id": "0c3fd0a5399d4e28ab440f0637be6820",
+    "asset_name": "Kilbarchan Elizabeth Lyndsay Monument"
+}

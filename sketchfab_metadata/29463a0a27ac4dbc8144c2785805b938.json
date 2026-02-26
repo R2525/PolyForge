@@ -1,0 +1,246 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-04T12:32:30.912398",
+    "embedUrl": "https://sketchfab.com/models/29463a0a27ac4dbc8144c2785805b938/embed",
+    "faceCount": 676762,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 12,
+    "name": "Colorful Full Plate Metal Knight",
+    "publishedAt": "2025-12-04T12:36:48.903096",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "armored",
+            "slug": "armored",
+            "uri": "https://api.sketchfab.com/v3/tags/armored"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "npc",
+            "slug": "npc",
+            "uri": "https://api.sketchfab.com/v3/tags/npc"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+        },
+        {
+            "name": "colorful",
+            "slug": "colorful",
+            "uri": "https://api.sketchfab.com/v3/tags/colorful"
+        },
+        {
+            "name": "heroic",
+            "slug": "heroic",
+            "uri": "https://api.sketchfab.com/v3/tags/heroic"
+        },
+        {
+            "name": "fullplate",
+            "slug": "fullplate",
+            "uri": "https://api.sketchfab.com/v3/tags/fullplate"
+        },
+        {
+            "name": "platearmor",
+            "slug": "platearmor",
+            "uri": "https://api.sketchfab.com/v3/tags/platearmor"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5574613804cf48cda63992b19640455c",
+                "width": 1920,
+                "height": 1080,
+                "size": 172408,
+                "url": "https://media.sketchfab.com/models/29463a0a27ac4dbc8144c2785805b938/thumbnails/5e8ab2d7342f4f45a21e87ebc277c772/3fbefdc66fea47a28970d6dd9700b2f4.jpeg"
+            },
+            {
+                "uid": "95ee370c09e84b22902d16091c4c685a",
+                "width": 1024,
+                "height": 576,
+                "size": 38675,
+                "url": "https://media.sketchfab.com/models/29463a0a27ac4dbc8144c2785805b938/thumbnails/5e8ab2d7342f4f45a21e87ebc277c772/2a2637d1d34d4345b3e7032ceac19eee.jpeg"
+            },
+            {
+                "uid": "5c5a33c27f154a129d5dd4c387a153df",
+                "width": 720,
+                "height": 405,
+                "size": 20494,
+                "url": "https://media.sketchfab.com/models/29463a0a27ac4dbc8144c2785805b938/thumbnails/5e8ab2d7342f4f45a21e87ebc277c772/7a0731698d6248679f973c1d7be16747.jpeg"
+            },
+            {
+                "uid": "0fe7db18f06545139dc43f6a2cd9ff12",
+                "width": 256,
+                "height": 144,
+                "size": 3612,
+                "url": "https://media.sketchfab.com/models/29463a0a27ac4dbc8144c2785805b938/thumbnails/5e8ab2d7342f4f45a21e87ebc277c772/5068491fced74aa9bb2c0486852882be.jpeg"
+            },
+            {
+                "uid": "d497af327ea14707b7f3b66bc84f7821",
+                "width": 64,
+                "height": 36,
+                "size": 896,
+                "url": "https://media.sketchfab.com/models/29463a0a27ac4dbc8144c2785805b938/thumbnails/5e8ab2d7342f4f45a21e87ebc277c772/babca179867a4f00b13e2753e36bde36.jpeg"
+            }
+        ]
+    },
+    "uid": "29463a0a27ac4dbc8144c2785805b938",
+    "uri": "https://api.sketchfab.com/v3/models/29463a0a27ac4dbc8144c2785805b938",
+    "user": {
+        "uid": "c0e7cb6abbb54c4fbed332c1f658479d",
+        "username": "s8819296",
+        "displayName": "Pigcraft",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/s8819296",
+        "avatar": {
+            "uid": "7797ae77db2943ff8057f36882c126a7",
+            "uri": "https://api.sketchfab.com/v3/avatars/7797ae77db2943ff8057f36882c126a7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 912,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/641a80e3656e4f619687ec58200ffc86.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1244,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/4f74af7c9e17476b97fc30e551115c65.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2524,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/1979744444a44908b96f3bcaf009a9c4.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2809,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/cff0eb04a21445cb82338bb2738345f6.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c0e7cb6abbb54c4fbed332c1f658479d"
+    },
+    "vertexCount": 338356,
+    "viewCount": 257,
+    "viewerUrl": "https://sketchfab.com/3d-models/colorful-full-plate-metal-knight-29463a0a27ac4dbc8144c2785805b938",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A 3D model of a fully armored medieval knight wearing vibrant, colorful full-plate metal armor. No weapons included — just a clean, heroic character design perfect for fantasy games, stylized scenes, cinematics, or character showcases. The polished armor plates, bright accents, and strong silhouette make this knight ideal for RPGs, NPCs, or environment decoration.",
+    "price": null,
+    "downloadCount": 43,
+    "editorUrl": "https://sketchfab.com/models/29463a0a27ac4dbc8144c2785805b938/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-04T12:51:04.527932",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

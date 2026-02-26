@@ -1,0 +1,180 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T22:21:48.292613",
+    "embedUrl": "https://sketchfab.com/models/36a64628bb764662b0321acb5fca0086/embed",
+    "faceCount": 455493,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "HEAD SWORD",
+    "publishedAt": "2026-02-19T22:23:04.450224",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "design",
+            "slug": "design",
+            "uri": "https://api.sketchfab.com/v3/tags/design"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "401e47fda1bb4880998c65f06bec222f",
+                "width": 1920,
+                "height": 1080,
+                "size": 64887,
+                "url": "https://media.sketchfab.com/models/36a64628bb764662b0321acb5fca0086/thumbnails/3d32e2d93d40481099a6b6a0decd0fee/9f29460a886a42a1be0282a3e53ec124.jpeg"
+            },
+            {
+                "uid": "428be6479c394ae2b23a3e9bb7faa923",
+                "width": 1024,
+                "height": 576,
+                "size": 21284,
+                "url": "https://media.sketchfab.com/models/36a64628bb764662b0321acb5fca0086/thumbnails/3d32e2d93d40481099a6b6a0decd0fee/220d2fd21c8049038ebbae565774780f.jpeg"
+            },
+            {
+                "uid": "6dca4a6b959b4989ab12f3ec48f663bd",
+                "width": 720,
+                "height": 405,
+                "size": 12381,
+                "url": "https://media.sketchfab.com/models/36a64628bb764662b0321acb5fca0086/thumbnails/3d32e2d93d40481099a6b6a0decd0fee/574cfcf92dda46a09650a4cb23dd0a81.jpeg"
+            },
+            {
+                "uid": "724e8513d8e647eea985638924c14b9f",
+                "width": 256,
+                "height": 144,
+                "size": 2936,
+                "url": "https://media.sketchfab.com/models/36a64628bb764662b0321acb5fca0086/thumbnails/3d32e2d93d40481099a6b6a0decd0fee/29751b3a5e604452a3cd57625a98bddb.jpeg"
+            },
+            {
+                "uid": "89bd31565fef4612a544eda087e9eee1",
+                "width": 64,
+                "height": 36,
+                "size": 927,
+                "url": "https://media.sketchfab.com/models/36a64628bb764662b0321acb5fca0086/thumbnails/3d32e2d93d40481099a6b6a0decd0fee/b64e795ea36a41248f7c6c304ae9e23f.jpeg"
+            }
+        ]
+    },
+    "uid": "36a64628bb764662b0321acb5fca0086",
+    "uri": "https://api.sketchfab.com/v3/models/36a64628bb764662b0321acb5fca0086",
+    "user": {
+        "uid": "33f2500543c24117a418ba3ca5dc345f",
+        "username": "KWANMAKI",
+        "displayName": "KWANMAKI",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/KWANMAKI",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/33f2500543c24117a418ba3ca5dc345f"
+    },
+    "vertexCount": 227708,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/head-sword-36a64628bb764662b0321acb5fca0086",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/TzVUjb](https://www.meshy.ai/s/TzVUjb)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/36a64628bb764662b0321acb5fca0086/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T22:23:04.428480",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

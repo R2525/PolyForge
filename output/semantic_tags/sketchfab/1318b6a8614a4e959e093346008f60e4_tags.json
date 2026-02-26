@@ -1,0 +1,42 @@
+{
+    "category": "Architecture",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.6
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.5
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Broken",
+        "Dusty"
+    ],
+    "tags": [
+        "log cabin",
+        "old house",
+        "wooden structure"
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T04:30:05.678446",
+    "embedUrl": "https://sketchfab.com/models/330c79b766944af1b1f6d4cd092546e7/embed",
+    "faceCount": 422804,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sci Fi Doors For Research Lab",
+    "publishedAt": "2026-02-20T04:35:40.215965",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "lab",
+            "slug": "lab",
+            "uri": "https://api.sketchfab.com/v3/tags/lab"
+        },
+        {
+            "name": "doors",
+            "slug": "doors",
+            "uri": "https://api.sketchfab.com/v3/tags/doors"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "glass",
+            "slug": "glass",
+            "uri": "https://api.sketchfab.com/v3/tags/glass"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        },
+        {
+            "name": "spaceship",
+            "slug": "spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "36531f21548642399b7341e2333032fa",
+                "width": 1920,
+                "height": 1080,
+                "size": 52439,
+                "url": "https://media.sketchfab.com/models/330c79b766944af1b1f6d4cd092546e7/thumbnails/f2fbffd106fd4e51b3a7c389183298db/e7786e27e5f446019181acdb8789f4e4.jpeg"
+            },
+            {
+                "uid": "16c5f9acd5d94a5ba7dfda820532c1f2",
+                "width": 1024,
+                "height": 576,
+                "size": 16474,
+                "url": "https://media.sketchfab.com/models/330c79b766944af1b1f6d4cd092546e7/thumbnails/f2fbffd106fd4e51b3a7c389183298db/67c47581142b40158c0c42367dfd32e7.jpeg"
+            },
+            {
+                "uid": "5bc8bacd1d5f4faf8ce00b95d0136eff",
+                "width": 720,
+                "height": 405,
+                "size": 9583,
+                "url": "https://media.sketchfab.com/models/330c79b766944af1b1f6d4cd092546e7/thumbnails/f2fbffd106fd4e51b3a7c389183298db/0ea5256844904aa092908ae94963bb08.jpeg"
+            },
+            {
+                "uid": "8327159c227849479967fc672134befa",
+                "width": 256,
+                "height": 144,
+                "size": 2363,
+                "url": "https://media.sketchfab.com/models/330c79b766944af1b1f6d4cd092546e7/thumbnails/f2fbffd106fd4e51b3a7c389183298db/904b6ac723a1409fa4127f0e3c3cc457.jpeg"
+            },
+            {
+                "uid": "5995b1902a3e4cfc824c0a2763cd66a5",
+                "width": 64,
+                "height": 36,
+                "size": 877,
+                "url": "https://media.sketchfab.com/models/330c79b766944af1b1f6d4cd092546e7/thumbnails/f2fbffd106fd4e51b3a7c389183298db/fc17ef5ba44f44f5941f232864c79372.jpeg"
+            }
+        ]
+    },
+    "uid": "330c79b766944af1b1f6d4cd092546e7",
+    "uri": "https://api.sketchfab.com/v3/models/330c79b766944af1b1f6d4cd092546e7",
+    "user": {
+        "uid": "3e4cefb49e9a4b1ab98f6a02a9560b02",
+        "username": "wanderer7worlds",
+        "displayName": "wanderer7worlds",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/wanderer7worlds",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3e4cefb49e9a4b1ab98f6a02a9560b02"
+    },
+    "vertexCount": 228025,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-doors-for-research-lab-330c79b766944af1b1f6d4cd092546e7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Made for your sfi fi scene. hope you will like it.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/330c79b766944af1b1f6d4cd092546e7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T04:35:40.435455",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 31
+}

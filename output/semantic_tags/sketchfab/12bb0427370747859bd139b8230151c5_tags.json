@@ -1,0 +1,41 @@
+{
+    "category": "Architecture",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.8
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.5
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Stylized",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Clean"
+    ],
+    "tags": [
+        "structure",
+        "building",
+        "tower"
+    ]
+}

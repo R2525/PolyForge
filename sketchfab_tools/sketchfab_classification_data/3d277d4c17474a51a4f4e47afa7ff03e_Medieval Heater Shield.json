@@ -1,0 +1,69 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Dark",
+            "score": 0.8
+        },
+        {
+            "name": "Historical",
+            "score": 0.75
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.88
+        },
+        {
+            "name": "Medieval",
+            "score": 0.85
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "3D Model",
+            "score": 0.75
+        },
+        {
+            "name": "Realistic",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Cracked",
+        "Mossy"
+    ],
+    "tags": [
+        "shield",
+        "medieval",
+        "heater",
+        "cultural",
+        "weapon",
+        "military",
+        "3d",
+        "model"
+    ],
+    "model_id_full": "3d277d4c17474a51a4f4e47afa7ff03e_Medieval Heater Shield",
+    "sketchfab_id": "3d277d4c17474a51a4f4e47afa7ff03e",
+    "asset_name": "Medieval Heater Shield"
+}

@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-10T06:21:54.326525",
+    "embedUrl": "https://sketchfab.com/models/335872cfc6c94e7cb6834d0a54c7c8d7/embed",
+    "faceCount": 96,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Бобр",
+    "publishedAt": "2026-02-10T06:22:05.900496",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "dfddd1af8a724f458172f41d309018ca",
+                "width": 1920,
+                "height": 1080,
+                "size": 39375,
+                "url": "https://media.sketchfab.com/models/335872cfc6c94e7cb6834d0a54c7c8d7/thumbnails/edfa06cf310e464386025c4b042fd724/de874348accf4aa8b74ce831e5f7992f.jpeg"
+            },
+            {
+                "uid": "21e5f9d104c5448f9659d9ab5a0c4de0",
+                "width": 1024,
+                "height": 576,
+                "size": 12807,
+                "url": "https://media.sketchfab.com/models/335872cfc6c94e7cb6834d0a54c7c8d7/thumbnails/edfa06cf310e464386025c4b042fd724/70517b47e69548968241ef32bcabd298.jpeg"
+            },
+            {
+                "uid": "7d47bf0d03854a389f2b7f168392d6eb",
+                "width": 720,
+                "height": 405,
+                "size": 7441,
+                "url": "https://media.sketchfab.com/models/335872cfc6c94e7cb6834d0a54c7c8d7/thumbnails/edfa06cf310e464386025c4b042fd724/c354caa7bf8e4bfd8f680ea6b383815e.jpeg"
+            },
+            {
+                "uid": "b76dbb008203446790ccaedc5ac07701",
+                "width": 256,
+                "height": 144,
+                "size": 1879,
+                "url": "https://media.sketchfab.com/models/335872cfc6c94e7cb6834d0a54c7c8d7/thumbnails/edfa06cf310e464386025c4b042fd724/07a1a61624ee4b028cdf0b52515974b2.jpeg"
+            },
+            {
+                "uid": "56b1783506f14b2eb7d21c4f9f229b73",
+                "width": 64,
+                "height": 36,
+                "size": 815,
+                "url": "https://media.sketchfab.com/models/335872cfc6c94e7cb6834d0a54c7c8d7/thumbnails/edfa06cf310e464386025c4b042fd724/ba92dc19984244b497c4b338d95e522c.jpeg"
+            }
+        ]
+    },
+    "uid": "335872cfc6c94e7cb6834d0a54c7c8d7",
+    "uri": "https://api.sketchfab.com/v3/models/335872cfc6c94e7cb6834d0a54c7c8d7",
+    "user": {
+        "uid": "ff11f792b2d14633a4e4517c02839deb",
+        "username": "modeli_minecraft",
+        "displayName": "Модели Minecraft",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/modeli_minecraft",
+        "avatar": {
+            "uid": "03cb44e8b5184bc3901100e0785d2327",
+            "uri": "https://api.sketchfab.com/v3/avatars/03cb44e8b5184bc3901100e0785d2327",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 735,
+                    "url": "https://media.sketchfab.com/avatars/03cb44e8b5184bc3901100e0785d2327/7482041279d34cb5a97d5cc5e06c6ebb.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 925,
+                    "url": "https://media.sketchfab.com/avatars/03cb44e8b5184bc3901100e0785d2327/199c15443327445eb621c03230180244.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1060,
+                    "url": "https://media.sketchfab.com/avatars/03cb44e8b5184bc3901100e0785d2327/2c67e5b3d0024bed9985a70382b513d2.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1122,
+                    "url": "https://media.sketchfab.com/avatars/03cb44e8b5184bc3901100e0785d2327/c95ae6237b3a410a95cbf7dc7d1c1745.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ff11f792b2d14633a4e4517c02839deb"
+    },
+    "vertexCount": 64,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/335872cfc6c94e7cb6834d0a54c7c8d7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/335872cfc6c94e7cb6834d0a54c7c8d7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-10T06:24:29.244529",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

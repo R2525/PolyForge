@@ -1,0 +1,192 @@
+{
+    "animationCount": 6,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T12:49:22.507033",
+    "embedUrl": "https://sketchfab.com/models/3002ccbb01724fb897c961cf022cadb1/embed",
+    "faceCount": 33598,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Gardenvoir",
+    "publishedAt": "2026-02-20T12:50:31.201113",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "games",
+            "slug": "games",
+            "uri": "https://api.sketchfab.com/v3/tags/games"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "toy",
+            "slug": "toy",
+            "uri": "https://api.sketchfab.com/v3/tags/toy"
+        },
+        {
+            "name": "pikachu",
+            "slug": "pikachu",
+            "uri": "https://api.sketchfab.com/v3/tags/pikachu"
+        },
+        {
+            "name": "nintendo",
+            "slug": "nintendo",
+            "uri": "https://api.sketchfab.com/v3/tags/nintendo"
+        },
+        {
+            "name": "game_character",
+            "slug": "game_character",
+            "uri": "https://api.sketchfab.com/v3/tags/game_character"
+        },
+        {
+            "name": "fluff",
+            "slug": "fluff",
+            "uri": "https://api.sketchfab.com/v3/tags/fluff"
+        },
+        {
+            "name": "animal",
+            "slug": "animal",
+            "uri": "https://api.sketchfab.com/v3/tags/animal"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "anime_figure",
+            "slug": "anime_figure",
+            "uri": "https://api.sketchfab.com/v3/tags/anime_figure"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "68e265222c0a4740998bdaeed7ab7dad",
+                "width": 1920,
+                "height": 1080,
+                "size": 33267,
+                "url": "https://media.sketchfab.com/models/3002ccbb01724fb897c961cf022cadb1/thumbnails/7039c5f4fbe34e6193f6bff4dad4f821/4e3d8770c61a45ce9a9cdb67290886a6.jpeg"
+            },
+            {
+                "uid": "4d3eeda0bd9443d783c474cb4e683ffa",
+                "width": 1024,
+                "height": 576,
+                "size": 9843,
+                "url": "https://media.sketchfab.com/models/3002ccbb01724fb897c961cf022cadb1/thumbnails/7039c5f4fbe34e6193f6bff4dad4f821/ff022bc304d24c76907605428221e1cb.jpeg"
+            },
+            {
+                "uid": "88283d3ffbf44d4fa3276e139697cd85",
+                "width": 720,
+                "height": 405,
+                "size": 5307,
+                "url": "https://media.sketchfab.com/models/3002ccbb01724fb897c961cf022cadb1/thumbnails/7039c5f4fbe34e6193f6bff4dad4f821/6adc83ef71aa4b038f4e19ef6f060a48.jpeg"
+            },
+            {
+                "uid": "5135b59cfdea4a99b013d89695d4bd11",
+                "width": 256,
+                "height": 144,
+                "size": 1203,
+                "url": "https://media.sketchfab.com/models/3002ccbb01724fb897c961cf022cadb1/thumbnails/7039c5f4fbe34e6193f6bff4dad4f821/5cc01bd5a6cd4ffa8c33877d5e880d34.jpeg"
+            },
+            {
+                "uid": "1ca60f29cba64b4dae52f2ac989914dd",
+                "width": 64,
+                "height": 36,
+                "size": 675,
+                "url": "https://media.sketchfab.com/models/3002ccbb01724fb897c961cf022cadb1/thumbnails/7039c5f4fbe34e6193f6bff4dad4f821/be537cd870bc436ca27799e7569fff10.jpeg"
+            }
+        ]
+    },
+    "uid": "3002ccbb01724fb897c961cf022cadb1",
+    "uri": "https://api.sketchfab.com/v3/models/3002ccbb01724fb897c961cf022cadb1",
+    "user": {
+        "uid": "9a4f9e4afb4849dd95b87b7ba5d0b1fa",
+        "username": "dergturcoret1989",
+        "displayName": "dergturcoret1989",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/dergturcoret1989",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9a4f9e4afb4849dd95b87b7ba5d0b1fa"
+    },
+    "vertexCount": 17738,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/gardenvoir-3002ccbb01724fb897c961cf022cadb1",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the source format.The Converted version is intended exclusively for browser preview. In the Original format, the following are fully preserved:✔ full scene structure✔ complete materials without reduction✔ correct PBR texture maps✔ correct object namesIf you are going to integrate the model into a project, choose the Original format.3d fully rigged character of Gardenvoir from pokemon with full rig control and 2 levers to control eyes and mouth combinations and two Circles to control all types of eyes I did not figure out how to control them with one lever but separate works fine .",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/3002ccbb01724fb897c961cf022cadb1/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T12:50:31.456298",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 3
+}

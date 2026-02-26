@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T11:46:04.574379",
+    "embedUrl": "https://sketchfab.com/models/46755b7db8c146428473e08bccaf99b5/embed",
+    "faceCount": 1308856,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Medieval Wall Scan",
+    "publishedAt": "2026-02-21T11:50:14.702355",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "fence",
+            "slug": "fence",
+            "uri": "https://api.sketchfab.com/v3/tags/fence"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "boundary",
+            "slug": "boundary",
+            "uri": "https://api.sketchfab.com/v3/tags/boundary"
+        },
+        {
+            "name": "scan",
+            "slug": "scan",
+            "uri": "https://api.sketchfab.com/v3/tags/scan"
+        },
+        {
+            "name": "wall",
+            "slug": "wall",
+            "uri": "https://api.sketchfab.com/v3/tags/wall"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f1954aefd42944f494d04d7f1dff50f6",
+                "width": 1920,
+                "height": 1080,
+                "size": 89692,
+                "url": "https://media.sketchfab.com/models/46755b7db8c146428473e08bccaf99b5/thumbnails/efbacea882cc49328501c983c48a8374/a7842bbf17d44469b647d3b3823c3dce.jpeg"
+            },
+            {
+                "uid": "2c12b583b9b64452b05da758c0927e64",
+                "width": 1024,
+                "height": 576,
+                "size": 27701,
+                "url": "https://media.sketchfab.com/models/46755b7db8c146428473e08bccaf99b5/thumbnails/efbacea882cc49328501c983c48a8374/28a1c323d3c543458670aad31a1bcc3d.jpeg"
+            },
+            {
+                "uid": "cbb1798eb2464c73af76957c2b911898",
+                "width": 720,
+                "height": 405,
+                "size": 14963,
+                "url": "https://media.sketchfab.com/models/46755b7db8c146428473e08bccaf99b5/thumbnails/efbacea882cc49328501c983c48a8374/96cb8363192c402cb745410eecb51ec7.jpeg"
+            },
+            {
+                "uid": "7548e69696564190a4d36296c4f98c91",
+                "width": 256,
+                "height": 144,
+                "size": 2767,
+                "url": "https://media.sketchfab.com/models/46755b7db8c146428473e08bccaf99b5/thumbnails/efbacea882cc49328501c983c48a8374/3e1015b13d384425a623c7985e3c45d3.jpeg"
+            },
+            {
+                "uid": "a0a8feab9eb64e258ec479e0dfaaac71",
+                "width": 64,
+                "height": 36,
+                "size": 808,
+                "url": "https://media.sketchfab.com/models/46755b7db8c146428473e08bccaf99b5/thumbnails/efbacea882cc49328501c983c48a8374/ad42b1cc06054f20a799a5af3ffcec71.jpeg"
+            }
+        ]
+    },
+    "uid": "46755b7db8c146428473e08bccaf99b5",
+    "uri": "https://api.sketchfab.com/v3/models/46755b7db8c146428473e08bccaf99b5",
+    "user": {
+        "uid": "fee4e78b201c4df688144d1143ff0364",
+        "username": "CosmosAirline",
+        "displayName": "CosmosAirline",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/CosmosAirline",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fee4e78b201c4df688144d1143ff0364"
+    },
+    "vertexCount": 659906,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-wall-scan-46755b7db8c146428473e08bccaf99b5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the Original format.The viewer version is intended for web viewing only. In the source file, the following are fully preserved:✔ full scene structure✔ unsimplified materials✔ accurate texture maps✔ correct object namesIf you intend to use the asset in a production environment, choose the source file.Medieval wall scan 4K with Quad Mesh Topology",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/46755b7db8c146428473e08bccaf99b5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T11:50:14.879789",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

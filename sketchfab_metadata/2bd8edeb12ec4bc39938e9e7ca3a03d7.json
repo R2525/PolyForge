@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T07:40:34.702339",
+    "embedUrl": "https://sketchfab.com/models/2bd8edeb12ec4bc39938e9e7ca3a03d7/embed",
+    "faceCount": 27004,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sci Fi Droid Robot",
+    "publishedAt": "2026-02-20T07:43:16.817677",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "drone",
+            "slug": "drone",
+            "uri": "https://api.sketchfab.com/v3/tags/drone"
+        },
+        {
+            "name": "fighter",
+            "slug": "fighter",
+            "uri": "https://api.sketchfab.com/v3/tags/fighter"
+        },
+        {
+            "name": "future",
+            "slug": "future",
+            "uri": "https://api.sketchfab.com/v3/tags/future"
+        },
+        {
+            "name": "security",
+            "slug": "security",
+            "uri": "https://api.sketchfab.com/v3/tags/security"
+        },
+        {
+            "name": "droid",
+            "slug": "droid",
+            "uri": "https://api.sketchfab.com/v3/tags/droid"
+        },
+        {
+            "name": "combat",
+            "slug": "combat",
+            "uri": "https://api.sketchfab.com/v3/tags/combat"
+        },
+        {
+            "name": "scif",
+            "slug": "scif",
+            "uri": "https://api.sketchfab.com/v3/tags/scif"
+        },
+        {
+            "name": "aviate",
+            "slug": "aviate",
+            "uri": "https://api.sketchfab.com/v3/tags/aviate"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "air",
+            "slug": "air",
+            "uri": "https://api.sketchfab.com/v3/tags/air"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1741b46981d8426bbd7ea1c0cfd99478",
+                "width": 1920,
+                "height": 1080,
+                "size": 67676,
+                "url": "https://media.sketchfab.com/models/2bd8edeb12ec4bc39938e9e7ca3a03d7/thumbnails/7f05e2e469d84a96a9c360b9b0cffee4/3b0906f890d5472cbed59612f4963c83.jpeg"
+            },
+            {
+                "uid": "5d333b371e16448e82b5eef95488fad2",
+                "width": 1024,
+                "height": 576,
+                "size": 21833,
+                "url": "https://media.sketchfab.com/models/2bd8edeb12ec4bc39938e9e7ca3a03d7/thumbnails/7f05e2e469d84a96a9c360b9b0cffee4/1d4daa53691d4dc992567092e8e51d3a.jpeg"
+            },
+            {
+                "uid": "984be6f39cb74910a9c5ec829ae43b2c",
+                "width": 720,
+                "height": 405,
+                "size": 12420,
+                "url": "https://media.sketchfab.com/models/2bd8edeb12ec4bc39938e9e7ca3a03d7/thumbnails/7f05e2e469d84a96a9c360b9b0cffee4/12f9b782a898400d839f6db46631922d.jpeg"
+            },
+            {
+                "uid": "522f186c3941417cad2dcc26f9fd44ee",
+                "width": 256,
+                "height": 144,
+                "size": 2738,
+                "url": "https://media.sketchfab.com/models/2bd8edeb12ec4bc39938e9e7ca3a03d7/thumbnails/7f05e2e469d84a96a9c360b9b0cffee4/7f479af00d814e6f8df27e56a2c475bc.jpeg"
+            },
+            {
+                "uid": "01bfe9d8b6314193b2dfb0d0bf84851d",
+                "width": 64,
+                "height": 36,
+                "size": 893,
+                "url": "https://media.sketchfab.com/models/2bd8edeb12ec4bc39938e9e7ca3a03d7/thumbnails/7f05e2e469d84a96a9c360b9b0cffee4/2c560b7511394ae595c03cb5beb4337e.jpeg"
+            }
+        ]
+    },
+    "uid": "2bd8edeb12ec4bc39938e9e7ca3a03d7",
+    "uri": "https://api.sketchfab.com/v3/models/2bd8edeb12ec4bc39938e9e7ca3a03d7",
+    "user": {
+        "uid": "2931dec5869e4c3484769ba8be7724a2",
+        "username": "panyazhou",
+        "displayName": "panyazhou",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/panyazhou",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2931dec5869e4c3484769ba8be7724a2"
+    },
+    "vertexCount": 13643,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-droid-robot-2bd8edeb12ec4bc39938e9e7ca3a03d7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "3d model of Sci fi Droid Robot",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/2bd8edeb12ec4bc39938e9e7ca3a03d7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T07:43:17.036712",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 2
+}

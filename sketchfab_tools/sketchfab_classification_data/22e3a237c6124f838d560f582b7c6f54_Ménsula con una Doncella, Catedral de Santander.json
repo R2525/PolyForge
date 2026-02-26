@@ -1,0 +1,69 @@
+{
+    "category": "Cultural Heritage & History",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Religious",
+            "score": 0.7
+        },
+        {
+            "name": "Architectural",
+            "score": 0.6
+        },
+        {
+            "name": "Classical",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Stone Carving",
+            "score": 0.6
+        },
+        {
+            "name": "Historical Art",
+            "score": 0.5
+        },
+        {
+            "name": "Ancient Sculpture",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Stone",
+        "Cracked",
+        "Dusty",
+        "Faded"
+    ],
+    "tags": [
+        "stone carving",
+        "ancient",
+        "religious",
+        "cultural heritage",
+        "masonry",
+        "history",
+        "saints",
+        "santander"
+    ],
+    "model_id_full": "22e3a237c6124f838d560f582b7c6f54_Ménsula con una Doncella, Catedral de Santander",
+    "sketchfab_id": "22e3a237c6124f838d560f582b7c6f54",
+    "asset_name": "Ménsula con una Doncella, Catedral de Santander"
+}

@@ -1,0 +1,170 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-16T18:29:34.585972",
+    "embedUrl": "https://sketchfab.com/models/2d1370387f9f457fb0b397fbab2159a0/embed",
+    "faceCount": 192,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Popcorn machine",
+    "publishedAt": "2026-02-16T18:29:58.311323",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "popcornmachine",
+            "slug": "popcornmachine",
+            "uri": "https://api.sketchfab.com/v3/tags/popcornmachine"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b01055d0b42849ec8bd8c06194dddfae",
+                "width": 1920,
+                "height": 1080,
+                "size": 68067,
+                "url": "https://media.sketchfab.com/models/2d1370387f9f457fb0b397fbab2159a0/thumbnails/0489513401ed42b0a80a913c640d8bcc/e68734d816b44431a312981d584e1a4c.jpeg"
+            },
+            {
+                "uid": "775254ad51df439babaa66ce2a872189",
+                "width": 1024,
+                "height": 576,
+                "size": 26434,
+                "url": "https://media.sketchfab.com/models/2d1370387f9f457fb0b397fbab2159a0/thumbnails/0489513401ed42b0a80a913c640d8bcc/8296a7e9ef944bf6983fd0497f8aa9b8.jpeg"
+            },
+            {
+                "uid": "be78ae40708b4c44a2d557aa1eb8e8c4",
+                "width": 720,
+                "height": 405,
+                "size": 15772,
+                "url": "https://media.sketchfab.com/models/2d1370387f9f457fb0b397fbab2159a0/thumbnails/0489513401ed42b0a80a913c640d8bcc/1c89863520084617b84be7791ece70e3.jpeg"
+            },
+            {
+                "uid": "6fada53e94dc4070b6b844d9e7748052",
+                "width": 256,
+                "height": 144,
+                "size": 3668,
+                "url": "https://media.sketchfab.com/models/2d1370387f9f457fb0b397fbab2159a0/thumbnails/0489513401ed42b0a80a913c640d8bcc/e18b2eaec9494d83a1c018048e87762f.jpeg"
+            },
+            {
+                "uid": "af8b9767271d40b79f5e68edf1eb81f8",
+                "width": 64,
+                "height": 36,
+                "size": 956,
+                "url": "https://media.sketchfab.com/models/2d1370387f9f457fb0b397fbab2159a0/thumbnails/0489513401ed42b0a80a913c640d8bcc/46f590b0db904e71b2cb4d331d3f2f7f.jpeg"
+            }
+        ]
+    },
+    "uid": "2d1370387f9f457fb0b397fbab2159a0",
+    "uri": "https://api.sketchfab.com/v3/models/2d1370387f9f457fb0b397fbab2159a0",
+    "user": {
+        "uid": "3e4398496a5a47d1a195b05c9f5866a2",
+        "username": "bymadmaz",
+        "displayName": "bymadmaz",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/bymadmaz",
+        "avatar": {
+            "uid": "a1d71162015f4cb0ae9a8c0277f6f972",
+            "uri": "https://api.sketchfab.com/v3/avatars/a1d71162015f4cb0ae9a8c0277f6f972",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1982,
+                    "url": "https://media.sketchfab.com/avatars/a1d71162015f4cb0ae9a8c0277f6f972/b70b7310accb48d3ab7ffd5933e14c34.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3622,
+                    "url": "https://media.sketchfab.com/avatars/a1d71162015f4cb0ae9a8c0277f6f972/9349df990c814a658f80dc57db0008ab.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9512,
+                    "url": "https://media.sketchfab.com/avatars/a1d71162015f4cb0ae9a8c0277f6f972/262401f5a3cd4283b1f0b1065bded806.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11175,
+                    "url": "https://media.sketchfab.com/avatars/a1d71162015f4cb0ae9a8c0277f6f972/cd9b401d542b4532a4bc9e3918b55b03.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3e4398496a5a47d1a195b05c9f5866a2"
+    },
+    "vertexCount": 128,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/popcorn-machine-2d1370387f9f457fb0b397fbab2159a0",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2d1370387f9f457fb0b397fbab2159a0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T18:29:58.496366",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

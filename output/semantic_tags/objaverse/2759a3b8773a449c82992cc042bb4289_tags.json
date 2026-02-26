@@ -1,0 +1,41 @@
+{
+    "category": "Nature & Plants",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.7
+        },
+        {
+            "name": "Nature & Plants",
+            "score": 0.6
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Nature & Plants",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Clean"
+    ],
+    "tags": [
+        "mushroom",
+        "light",
+        "plant"
+    ]
+}

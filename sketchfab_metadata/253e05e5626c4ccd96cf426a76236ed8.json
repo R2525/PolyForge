@@ -1,0 +1,229 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T07:58:09.753891",
+    "embedUrl": "https://sketchfab.com/models/253e05e5626c4ccd96cf426a76236ed8/embed",
+    "faceCount": 9999,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Cybernetic Tiger Warrior",
+    "publishedAt": "2026-02-25T07:58:37.034102",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "tiger",
+            "slug": "tiger",
+            "uri": "https://api.sketchfab.com/v3/tags/tiger"
+        },
+        {
+            "name": "mech",
+            "slug": "mech",
+            "uri": "https://api.sketchfab.com/v3/tags/mech"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "robotic",
+            "slug": "robotic",
+            "uri": "https://api.sketchfab.com/v3/tags/robotic"
+        },
+        {
+            "name": "cyborg",
+            "slug": "cyborg",
+            "uri": "https://api.sketchfab.com/v3/tags/cyborg"
+        },
+        {
+            "name": "combat",
+            "slug": "combat",
+            "uri": "https://api.sketchfab.com/v3/tags/combat"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "Chimera",
+            "slug": "chimera",
+            "uri": "https://api.sketchfab.com/v3/tags/chimera"
+        },
+        {
+            "name": "cybernetic",
+            "slug": "cybernetic",
+            "uri": "https://api.sketchfab.com/v3/tags/cybernetic"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "talis",
+            "slug": "talis",
+            "uri": "https://api.sketchfab.com/v3/tags/talis"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d1ef8a35c15f4f87bf1ea5f6ee6d1d95",
+                "width": 1920,
+                "height": 1080,
+                "size": 84948,
+                "url": "https://media.sketchfab.com/models/253e05e5626c4ccd96cf426a76236ed8/thumbnails/1f6aebe2d5e749cf9c81ffd624e818e0/2aa3df1977f04b8d9b0aa04764b4cfe3.jpeg"
+            },
+            {
+                "uid": "de844769709b4cdd9698a6d9216dd45d",
+                "width": 1024,
+                "height": 576,
+                "size": 29887,
+                "url": "https://media.sketchfab.com/models/253e05e5626c4ccd96cf426a76236ed8/thumbnails/1f6aebe2d5e749cf9c81ffd624e818e0/b8b7d779ec3a4d528edac89f6bf8e93c.jpeg"
+            },
+            {
+                "uid": "c2b4c01334ec4c5596e392a65be33d79",
+                "width": 720,
+                "height": 405,
+                "size": 17706,
+                "url": "https://media.sketchfab.com/models/253e05e5626c4ccd96cf426a76236ed8/thumbnails/1f6aebe2d5e749cf9c81ffd624e818e0/8dc2b1b3b2234c908750c31927efc033.jpeg"
+            },
+            {
+                "uid": "a5ad3c703ea44215babd9ab5f1fa8ae6",
+                "width": 256,
+                "height": 144,
+                "size": 3887,
+                "url": "https://media.sketchfab.com/models/253e05e5626c4ccd96cf426a76236ed8/thumbnails/1f6aebe2d5e749cf9c81ffd624e818e0/f713004bacfb4c71b56edfdba3f2f35a.jpeg"
+            },
+            {
+                "uid": "f572e5788f8942a88a4372558e2c4409",
+                "width": 64,
+                "height": 36,
+                "size": 990,
+                "url": "https://media.sketchfab.com/models/253e05e5626c4ccd96cf426a76236ed8/thumbnails/1f6aebe2d5e749cf9c81ffd624e818e0/7e2acd9d23d14c5981b7505d7a10940f.jpeg"
+            }
+        ]
+    },
+    "uid": "253e05e5626c4ccd96cf426a76236ed8",
+    "uri": "https://api.sketchfab.com/v3/models/253e05e5626c4ccd96cf426a76236ed8",
+    "user": {
+        "uid": "2fc99c86180b4818825b311279ea2e9e",
+        "username": "rajshing33",
+        "displayName": "rajshing33",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rajshing33",
+        "avatar": {
+            "uid": "58c740d0d3e74172acd40ca1b8b720b7",
+            "uri": "https://api.sketchfab.com/v3/avatars/58c740d0d3e74172acd40ca1b8b720b7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1159,
+                    "url": "https://media.sketchfab.com/avatars/58c740d0d3e74172acd40ca1b8b720b7/fcb573af5e584f32a264a77ade791a80.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1533,
+                    "url": "https://media.sketchfab.com/avatars/58c740d0d3e74172acd40ca1b8b720b7/b0779fc3e256469cb8a6f7a2843ea41f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2890,
+                    "url": "https://media.sketchfab.com/avatars/58c740d0d3e74172acd40ca1b8b720b7/3c00c9a250ea497f99819c188ac0b210.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3194,
+                    "url": "https://media.sketchfab.com/avatars/58c740d0d3e74172acd40ca1b8b720b7/e9125d2234314c0b981a4e7f5d839514.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2fc99c86180b4818825b311279ea2e9e"
+    },
+    "vertexCount": 4993,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/cybernetic-tiger-warrior-253e05e5626c4ccd96cf426a76236ed8",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/mVaDAV](https://www.meshy.ai/s/mVaDAV)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/253e05e5626c4ccd96cf426a76236ed8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T07:58:36.999572",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

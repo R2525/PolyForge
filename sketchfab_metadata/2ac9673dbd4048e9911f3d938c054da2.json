@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T16:38:59.476909",
+    "embedUrl": "https://sketchfab.com/models/2ac9673dbd4048e9911f3d938c054da2/embed",
+    "faceCount": 734,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Grave-006-sculp-004",
+    "publishedAt": "2026-02-18T16:40:22.955015",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "grave",
+            "slug": "grave",
+            "uri": "https://api.sketchfab.com/v3/tags/grave"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9a30b7b2f4f0478e8f40770fed8886c9",
+                "width": 1920,
+                "height": 1080,
+                "size": 167066,
+                "url": "https://media.sketchfab.com/models/2ac9673dbd4048e9911f3d938c054da2/thumbnails/0372aaa330ba4ba8b1485277f350e219/71a3054b79aa4d16be37c932a2a0c310.jpeg"
+            },
+            {
+                "uid": "d0093b620ba94727ad4296bb157e5875",
+                "width": 1024,
+                "height": 576,
+                "size": 38244,
+                "url": "https://media.sketchfab.com/models/2ac9673dbd4048e9911f3d938c054da2/thumbnails/0372aaa330ba4ba8b1485277f350e219/7d88dc3f0aec4255939993b3a3321657.jpeg"
+            },
+            {
+                "uid": "f63c03cfefb04604a3f20555804ee947",
+                "width": 720,
+                "height": 405,
+                "size": 19197,
+                "url": "https://media.sketchfab.com/models/2ac9673dbd4048e9911f3d938c054da2/thumbnails/0372aaa330ba4ba8b1485277f350e219/74bd2a0bd666491c8e787f9f1a03cde4.jpeg"
+            },
+            {
+                "uid": "f3df857b29cd4dc485047c86ca401e7d",
+                "width": 256,
+                "height": 144,
+                "size": 3402,
+                "url": "https://media.sketchfab.com/models/2ac9673dbd4048e9911f3d938c054da2/thumbnails/0372aaa330ba4ba8b1485277f350e219/a6c0f34ff0cb45898b95ab1964305a73.jpeg"
+            },
+            {
+                "uid": "56c4227629a6491da15cfc319aac1e62",
+                "width": 64,
+                "height": 36,
+                "size": 945,
+                "url": "https://media.sketchfab.com/models/2ac9673dbd4048e9911f3d938c054da2/thumbnails/0372aaa330ba4ba8b1485277f350e219/18f062304079414690a1463c4cef254f.jpeg"
+            }
+        ]
+    },
+    "uid": "2ac9673dbd4048e9911f3d938c054da2",
+    "uri": "https://api.sketchfab.com/v3/models/2ac9673dbd4048e9911f3d938c054da2",
+    "user": {
+        "uid": "9fd614ab5c354620be5b23367194863a",
+        "username": "waffen2009",
+        "displayName": "waffen2009",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/waffen2009",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9fd614ab5c354620be5b23367194863a"
+    },
+    "vertexCount": 369,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/grave-006-sculp-004-2ac9673dbd4048e9911f3d938c054da2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/2ac9673dbd4048e9911f3d938c054da2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T16:40:23.086204",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

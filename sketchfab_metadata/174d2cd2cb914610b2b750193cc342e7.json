@@ -1,0 +1,272 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-12-03T01:09:08.462058",
+    "embedUrl": "https://sketchfab.com/models/174d2cd2cb914610b2b750193cc342e7/embed",
+    "faceCount": 86820,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 10,
+    "name": "Fantasy Double-Bladed Sword",
+    "publishedAt": "2025-12-03T01:17:07.685955",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "high",
+            "slug": "high",
+            "uri": "https://api.sketchfab.com/v3/tags/high"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "double",
+            "slug": "double",
+            "uri": "https://api.sketchfab.com/v3/tags/double"
+        },
+        {
+            "name": "detail",
+            "slug": "detail",
+            "uri": "https://api.sketchfab.com/v3/tags/detail"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "engine",
+            "slug": "engine",
+            "uri": "https://api.sketchfab.com/v3/tags/engine"
+        },
+        {
+            "name": "2025",
+            "slug": "2025",
+            "uri": "https://api.sketchfab.com/v3/tags/2025"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "painter",
+            "slug": "painter",
+            "uri": "https://api.sketchfab.com/v3/tags/painter"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "download",
+            "slug": "download",
+            "uri": "https://api.sketchfab.com/v3/tags/download"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "50d1ec21a0b4400c8172dfec548fa25f",
+                "width": 1920,
+                "height": 1080,
+                "size": 109709,
+                "url": "https://media.sketchfab.com/models/174d2cd2cb914610b2b750193cc342e7/thumbnails/46976bb529474897a8c9f79a7c5c73db/44a4832f8aad43d587d0111c04cc5f9f.jpeg"
+            },
+            {
+                "uid": "f152853155a34528ae44831cdcb8d176",
+                "width": 1024,
+                "height": 576,
+                "size": 33162,
+                "url": "https://media.sketchfab.com/models/174d2cd2cb914610b2b750193cc342e7/thumbnails/46976bb529474897a8c9f79a7c5c73db/e31adbf3337c43edb3829c414ccbdd08.jpeg"
+            },
+            {
+                "uid": "7c58eda9711e4707a4c21148a477bfa7",
+                "width": 720,
+                "height": 405,
+                "size": 18587,
+                "url": "https://media.sketchfab.com/models/174d2cd2cb914610b2b750193cc342e7/thumbnails/46976bb529474897a8c9f79a7c5c73db/c2d388c097494f7fa2ed8cdb910ca70b.jpeg"
+            },
+            {
+                "uid": "da6a412a84a84112aeead24bd322398c",
+                "width": 256,
+                "height": 144,
+                "size": 3559,
+                "url": "https://media.sketchfab.com/models/174d2cd2cb914610b2b750193cc342e7/thumbnails/46976bb529474897a8c9f79a7c5c73db/5d741f2da749405ea02abcfa119d5881.jpeg"
+            },
+            {
+                "uid": "bf638470a56646deb4fa5db4f3467daa",
+                "width": 64,
+                "height": 36,
+                "size": 945,
+                "url": "https://media.sketchfab.com/models/174d2cd2cb914610b2b750193cc342e7/thumbnails/46976bb529474897a8c9f79a7c5c73db/db0930a2cc1842d1bf50be327f8f36d4.jpeg"
+            }
+        ]
+    },
+    "uid": "174d2cd2cb914610b2b750193cc342e7",
+    "uri": "https://api.sketchfab.com/v3/models/174d2cd2cb914610b2b750193cc342e7",
+    "user": {
+        "uid": "d74c7232e49a4f768f85b67463f5f06c",
+        "username": "asedera",
+        "displayName": "asedra.3d",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/asedera",
+        "avatar": {
+            "uid": "bf5790e5447043f99fcba5d3fd045579",
+            "uri": "https://api.sketchfab.com/v3/avatars/bf5790e5447043f99fcba5d3fd045579",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 830,
+                    "url": "https://media.sketchfab.com/avatars/bf5790e5447043f99fcba5d3fd045579/85b8f832a0bd45d09d271f506aa6810d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1095,
+                    "url": "https://media.sketchfab.com/avatars/bf5790e5447043f99fcba5d3fd045579/5d275a4ba0cf413a9e3dd217799d3616.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1715,
+                    "url": "https://media.sketchfab.com/avatars/bf5790e5447043f99fcba5d3fd045579/0cacfc1f2acb4e9fbde50e983940a096.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2007,
+                    "url": "https://media.sketchfab.com/avatars/bf5790e5447043f99fcba5d3fd045579/83ba3600e12e41ee8f700f5b2c7f85f9.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d74c7232e49a4f768f85b67463f5f06c"
+    },
+    "vertexCount": 44356,
+    "viewCount": 89,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-double-bladed-sword-174d2cd2cb914610b2b750193cc342e7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A highly detailed fantasy double-bladed sword modeled in Maya 2025 and textured in Substance 3D Painter.\n\n86K tris (game-ready + LOD-ready)\n2K PBR textures (BaseColor, Normal, Roughness, Metallic, AO)\nClean quad topology & perfect UVs\nReal-time ready for Unreal Engine 5, Unity HDRP/URP, Godot, etc.\n\n100% FREE to download and use in your personal and commercial projects\n(credit is appreciated but not required ❤️)\nCreated by Asedra.3D\nFull modeling + texturing tutorial series on YouTube → search “Asedra.3D Fantasy Sword”\nEnjoy and happy rendering!\n\n#FantasyWeapon #GameReady #Free3DModel #SubstancePainter #Maya2025 #PBR #WeaponArt #3DModel #GameDev #IndieDev #FreeAsset #Sword",
+    "price": null,
+    "downloadCount": 10,
+    "editorUrl": "https://sketchfab.com/models/174d2cd2cb914610b2b750193cc342e7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-03T01:17:08.113514",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

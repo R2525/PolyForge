@@ -1,0 +1,37 @@
+{
+    "category": "Nature & Plants",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Broken"
+    ],
+    "tags": [
+        "tree stump",
+        "wood",
+        "nature"
+    ]
+}

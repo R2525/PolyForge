@@ -1,0 +1,66 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Vibrant Fantasy",
+    "top_genres": [
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Science & Technology",
+            "score": 0.8
+        },
+        {
+            "name": "Weapons & Military",
+            "score": 0.7
+        },
+        {
+            "name": "Art & Abstract",
+            "score": 0.6
+        },
+        {
+            "name": "Nature & Plants",
+            "score": 0.5
+        }
+    ],
+    "style": "Stylized Shield",
+    "top_styles": [
+        {
+            "name": "Stylized Shield",
+            "score": 0.9
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Gothic",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Dusty"
+    ],
+    "tags": [
+        "shield",
+        "viking",
+        "weapon",
+        "military",
+        "ancient",
+        "cultural",
+        "historical",
+        "furniture"
+    ],
+    "model_id_full": "142547ec1eec45ee97460ffd0b876a58_Viking Shield",
+    "sketchfab_id": "142547ec1eec45ee97460ffd0b876a58",
+    "asset_name": "Viking Shield"
+}

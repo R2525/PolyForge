@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-23T15:54:05.777356",
+    "embedUrl": "https://sketchfab.com/models/032abbf2e16744a2bc52d2c08bc8692a/embed",
+    "faceCount": 1647231,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "QuadJumper from Star Wars",
+    "publishedAt": "2025-12-23T15:55:22.623454",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "quadjumper",
+            "slug": "quadjumper",
+            "uri": "https://api.sketchfab.com/v3/tags/quadjumper"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        },
+        {
+            "name": "spaceship",
+            "slug": "spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ae942436d0614079a0e796a1558e205d",
+                "width": 1920,
+                "height": 1080,
+                "size": 96543,
+                "url": "https://media.sketchfab.com/models/032abbf2e16744a2bc52d2c08bc8692a/thumbnails/499481efdf6d43a5b1d24912364f2c02/4b48dd45ceb54712a772e2ff2cadf75a.jpeg"
+            },
+            {
+                "uid": "da5c0a3ffc4946068ba94a3e385e4b8e",
+                "width": 1024,
+                "height": 576,
+                "size": 32588,
+                "url": "https://media.sketchfab.com/models/032abbf2e16744a2bc52d2c08bc8692a/thumbnails/499481efdf6d43a5b1d24912364f2c02/64e7b17e6803434892d034ca03079569.jpeg"
+            },
+            {
+                "uid": "534ad19a49b945a797833a9ee22b85de",
+                "width": 720,
+                "height": 405,
+                "size": 18852,
+                "url": "https://media.sketchfab.com/models/032abbf2e16744a2bc52d2c08bc8692a/thumbnails/499481efdf6d43a5b1d24912364f2c02/f545bf5b651d471399045e67fa573407.jpeg"
+            },
+            {
+                "uid": "6fd11ecc7f094c4e9e3ca23235c4091f",
+                "width": 256,
+                "height": 144,
+                "size": 3863,
+                "url": "https://media.sketchfab.com/models/032abbf2e16744a2bc52d2c08bc8692a/thumbnails/499481efdf6d43a5b1d24912364f2c02/332b21b9a5a045eb9e2016e8409779ae.jpeg"
+            },
+            {
+                "uid": "235a610e72bf4b2c867bfbb590f3944c",
+                "width": 64,
+                "height": 36,
+                "size": 996,
+                "url": "https://media.sketchfab.com/models/032abbf2e16744a2bc52d2c08bc8692a/thumbnails/499481efdf6d43a5b1d24912364f2c02/0dcf8230bd3e416384e15e8022bad751.jpeg"
+            }
+        ]
+    },
+    "uid": "032abbf2e16744a2bc52d2c08bc8692a",
+    "uri": "https://api.sketchfab.com/v3/models/032abbf2e16744a2bc52d2c08bc8692a",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 823132,
+    "viewCount": 101,
+    "viewerUrl": "https://sketchfab.com/3d-models/quadjumper-from-star-wars-032abbf2e16744a2bc52d2c08bc8692a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "QuadJumper from Star Wars, textures included, free to use",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/032abbf2e16744a2bc52d2c08bc8692a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-23T16:11:48.916745",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

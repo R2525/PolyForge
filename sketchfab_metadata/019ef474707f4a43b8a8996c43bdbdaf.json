@@ -1,0 +1,317 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-20T17:05:59.792106",
+    "embedUrl": "https://sketchfab.com/models/019ef474707f4a43b8a8996c43bdbdaf/embed",
+    "faceCount": 352893,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Deadpool Character",
+    "publishedAt": "2026-01-20T17:09:29.288368",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "suit",
+            "slug": "suit",
+            "uri": "https://api.sketchfab.com/v3/tags/suit"
+        },
+        {
+            "name": "red",
+            "slug": "red",
+            "uri": "https://api.sketchfab.com/v3/tags/red"
+        },
+        {
+            "name": "fighter",
+            "slug": "fighter",
+            "uri": "https://api.sketchfab.com/v3/tags/fighter"
+        },
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "comic",
+            "slug": "comic",
+            "uri": "https://api.sketchfab.com/v3/tags/comic"
+        },
+        {
+            "name": "fan",
+            "slug": "fan",
+            "uri": "https://api.sketchfab.com/v3/tags/fan"
+        },
+        {
+            "name": "action",
+            "slug": "action",
+            "uri": "https://api.sketchfab.com/v3/tags/action"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "hero",
+            "slug": "hero",
+            "uri": "https://api.sketchfab.com/v3/tags/hero"
+        },
+        {
+            "name": "superhero",
+            "slug": "superhero",
+            "uri": "https://api.sketchfab.com/v3/tags/superhero"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "ar",
+            "slug": "ar",
+            "uri": "https://api.sketchfab.com/v3/tags/ar"
+        },
+        {
+            "name": "high-poly",
+            "slug": "high-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/high-poly"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "deadpool",
+            "slug": "deadpool",
+            "uri": "https://api.sketchfab.com/v3/tags/deadpool"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+        },
+        {
+            "name": "masked",
+            "slug": "masked",
+            "uri": "https://api.sketchfab.com/v3/tags/masked"
+        },
+        {
+            "name": "mercenary",
+            "slug": "mercenary",
+            "uri": "https://api.sketchfab.com/v3/tags/mercenary"
+        },
+        {
+            "name": "game-asset",
+            "slug": "game-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+        },
+        {
+            "name": "metaverse",
+            "slug": "metaverse",
+            "uri": "https://api.sketchfab.com/v3/tags/metaverse"
+        },
+        {
+            "name": "free-asset",
+            "slug": "free-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/free-asset"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "sketchfab",
+            "slug": "sketchfab",
+            "uri": "https://api.sketchfab.com/v3/tags/sketchfab"
+        },
+        {
+            "name": "red-suit",
+            "slug": "red-suit",
+            "uri": "https://api.sketchfab.com/v3/tags/red-suit"
+        },
+        {
+            "name": "cinematic-asset",
+            "slug": "cinematic-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic-asset"
+        },
+        {
+            "name": "stylized-3d",
+            "slug": "stylized-3d",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ee8de866e1004d9295ea91b1c7fc7e22",
+                "width": 1920,
+                "height": 1080,
+                "size": 88556,
+                "url": "https://media.sketchfab.com/models/019ef474707f4a43b8a8996c43bdbdaf/thumbnails/3394641032ba48489eb13c99a7e6b284/b44035ae7f484731bbe416225ab7cd9e.jpeg"
+            },
+            {
+                "uid": "f380de83abea4f5680ab012f29acb562",
+                "width": 1024,
+                "height": 576,
+                "size": 30652,
+                "url": "https://media.sketchfab.com/models/019ef474707f4a43b8a8996c43bdbdaf/thumbnails/3394641032ba48489eb13c99a7e6b284/f732e200a11c4a2180055042aef05913.jpeg"
+            },
+            {
+                "uid": "f1b06d93ecc049be815d4f5415fe4236",
+                "width": 720,
+                "height": 405,
+                "size": 18097,
+                "url": "https://media.sketchfab.com/models/019ef474707f4a43b8a8996c43bdbdaf/thumbnails/3394641032ba48489eb13c99a7e6b284/9b5e6753d6744b9a8dff85f782069648.jpeg"
+            },
+            {
+                "uid": "56ae0da5435741dc9a86709d3314eec4",
+                "width": 256,
+                "height": 144,
+                "size": 4147,
+                "url": "https://media.sketchfab.com/models/019ef474707f4a43b8a8996c43bdbdaf/thumbnails/3394641032ba48489eb13c99a7e6b284/e25ee1b0a7e9441cb0adaed38e89a1b8.jpeg"
+            },
+            {
+                "uid": "49e8c8975dfe4497a3178aee8cf4b997",
+                "width": 64,
+                "height": 36,
+                "size": 1080,
+                "url": "https://media.sketchfab.com/models/019ef474707f4a43b8a8996c43bdbdaf/thumbnails/3394641032ba48489eb13c99a7e6b284/48ebd2dd2c8e4d2b85a7a15525cb52f0.jpeg"
+            }
+        ]
+    },
+    "uid": "019ef474707f4a43b8a8996c43bdbdaf",
+    "uri": "https://api.sketchfab.com/v3/models/019ef474707f4a43b8a8996c43bdbdaf",
+    "user": {
+        "uid": "f1ec06ea1594482bb780a65d0f9afb45",
+        "username": "f1ec06ea1594482bb780a65d0f9afb",
+        "displayName": "ItsKrish7",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/f1ec06ea1594482bb780a65d0f9afb",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f1ec06ea1594482bb780a65d0f9afb45"
+    },
+    "vertexCount": 176408,
+    "viewCount": 139,
+    "viewerUrl": "https://sketchfab.com/3d-models/deadpool-character-019ef474707f4a43b8a8996c43bdbdaf",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "## ☕ buymeacoffee.com/krishbharal",
+    "price": null,
+    "downloadCount": 24,
+    "editorUrl": "https://sketchfab.com/models/019ef474707f4a43b8a8996c43bdbdaf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-24T04:42:14.437506",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

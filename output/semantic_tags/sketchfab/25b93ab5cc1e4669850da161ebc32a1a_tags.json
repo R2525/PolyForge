@@ -1,0 +1,40 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Military",
+            "score": 0.78
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.72
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.95
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.9
+        },
+        {
+            "name": "Military",
+            "score": 0.8
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "warrior",
+        "armor",
+        "3D model"
+    ]
+}

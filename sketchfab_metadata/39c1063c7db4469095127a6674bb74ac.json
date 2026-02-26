@@ -1,0 +1,249 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-01T07:37:57.809991",
+    "embedUrl": "https://sketchfab.com/models/39c1063c7db4469095127a6674bb74ac/embed",
+    "faceCount": 3168,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Old Viking sword",
+    "publishedAt": "2026-01-01T07:53:00.756623",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "vikingr",
+            "slug": "vikingr",
+            "uri": "https://api.sketchfab.com/v3/tags/vikingr"
+        },
+        {
+            "name": "norse",
+            "slug": "norse",
+            "uri": "https://api.sketchfab.com/v3/tags/norse"
+        },
+        {
+            "name": "weapon-3dmodel",
+            "slug": "weapon-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon-3dmodel"
+        },
+        {
+            "name": "viking-age",
+            "slug": "viking-age",
+            "uri": "https://api.sketchfab.com/v3/tags/viking-age"
+        },
+        {
+            "name": "fantasyweapon",
+            "slug": "fantasyweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyweapon"
+        },
+        {
+            "name": "norsemythology",
+            "slug": "norsemythology",
+            "uri": "https://api.sketchfab.com/v3/tags/norsemythology"
+        },
+        {
+            "name": "valhalla",
+            "slug": "valhalla",
+            "uri": "https://api.sketchfab.com/v3/tags/valhalla"
+        },
+        {
+            "name": "medieval-prop",
+            "slug": "medieval-prop",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-prop"
+        },
+        {
+            "name": "medievalfantasyassets",
+            "slug": "medievalfantasyassets",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalfantasyassets"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "vinlandsaga",
+            "slug": "vinlandsaga",
+            "uri": "https://api.sketchfab.com/v3/tags/vinlandsaga"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b5a74b66b2284c6e9bfd1e1b86ca5a5e",
+                "width": 1920,
+                "height": 1080,
+                "size": 105499,
+                "url": "https://media.sketchfab.com/models/39c1063c7db4469095127a6674bb74ac/thumbnails/69606a0285c34312a19791b7c11a8032/42151533a2754f0781d78791321e6cd8.jpeg"
+            },
+            {
+                "uid": "4516a39c1d73468783fccc285d0b2d4d",
+                "width": 1024,
+                "height": 576,
+                "size": 31612,
+                "url": "https://media.sketchfab.com/models/39c1063c7db4469095127a6674bb74ac/thumbnails/69606a0285c34312a19791b7c11a8032/0d80af04962a496fb321c79741dca9cd.jpeg"
+            },
+            {
+                "uid": "6bfffbe455464b0bbcea3754033214b5",
+                "width": 720,
+                "height": 405,
+                "size": 17735,
+                "url": "https://media.sketchfab.com/models/39c1063c7db4469095127a6674bb74ac/thumbnails/69606a0285c34312a19791b7c11a8032/c2f74c60f58143e2ac9affcab920a404.jpeg"
+            },
+            {
+                "uid": "c8bc0fb242764bb1b31d3eba94f50f44",
+                "width": 256,
+                "height": 144,
+                "size": 3710,
+                "url": "https://media.sketchfab.com/models/39c1063c7db4469095127a6674bb74ac/thumbnails/69606a0285c34312a19791b7c11a8032/6a27da96ef654e5e93ec64420f71761f.jpeg"
+            },
+            {
+                "uid": "11dba6851f1c4b07a2bb18e70189c2e7",
+                "width": 64,
+                "height": 36,
+                "size": 1066,
+                "url": "https://media.sketchfab.com/models/39c1063c7db4469095127a6674bb74ac/thumbnails/69606a0285c34312a19791b7c11a8032/51f7aee6dc1a475d875b9c21fcb1355c.jpeg"
+            }
+        ]
+    },
+    "uid": "39c1063c7db4469095127a6674bb74ac",
+    "uri": "https://api.sketchfab.com/v3/models/39c1063c7db4469095127a6674bb74ac",
+    "user": {
+        "uid": "a4bd1c7579004321b3aa5b09e4f65457",
+        "username": "Ahsan.Faraz",
+        "displayName": "Ahsan.Faraz",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Ahsan.Faraz",
+        "avatar": {
+            "uid": "6ad4e9692b70442abf2a5a4ad12d1695",
+            "uri": "https://api.sketchfab.com/v3/avatars/6ad4e9692b70442abf2a5a4ad12d1695",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1044,
+                    "url": "https://media.sketchfab.com/avatars/6ad4e9692b70442abf2a5a4ad12d1695/909235ae2be14027a29028a813aed200.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1436,
+                    "url": "https://media.sketchfab.com/avatars/6ad4e9692b70442abf2a5a4ad12d1695/c25493932fb747d8b3943ccd1c75130d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2982,
+                    "url": "https://media.sketchfab.com/avatars/6ad4e9692b70442abf2a5a4ad12d1695/1375ff49275744b4bff14d73e565ac84.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3410,
+                    "url": "https://media.sketchfab.com/avatars/6ad4e9692b70442abf2a5a4ad12d1695/3b0483372a734a078edbdffb2ad9e6ed.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a4bd1c7579004321b3aa5b09e4f65457"
+    },
+    "vertexCount": 1623,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/old-viking-sword-39c1063c7db4469095127a6674bb74ac",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Retextured sword made in Maya, zbrush and substance painter. leave a like and check out more of my works in https://sketchfab.com/Ahsan.Faraz",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/39c1063c7db4469095127a6674bb74ac/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-15T17:00:14.140066",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

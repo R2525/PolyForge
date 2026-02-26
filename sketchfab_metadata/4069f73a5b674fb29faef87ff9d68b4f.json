@@ -1,0 +1,152 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-31T16:23:33.811724",
+    "embedUrl": "https://sketchfab.com/models/4069f73a5b674fb29faef87ff9d68b4f/embed",
+    "faceCount": 539062,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Hulk Artmonite",
+    "publishedAt": "2026-01-31T16:26:08.411314",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "hulk",
+            "slug": "hulk",
+            "uri": "https://api.sketchfab.com/v3/tags/hulk"
+        },
+        {
+            "name": "steranko",
+            "slug": "steranko",
+            "uri": "https://api.sketchfab.com/v3/tags/steranko"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3c2b70a2d610482da576ea6ebe8a52fd",
+                "width": 1920,
+                "height": 1080,
+                "size": 107450,
+                "url": "https://media.sketchfab.com/models/4069f73a5b674fb29faef87ff9d68b4f/thumbnails/85314330d2f14999838abd5350f48033/72840945b07b4aa58dafa0694c2eac7c.jpeg"
+            },
+            {
+                "uid": "d407554f06dd4bc6946379eeaea32e0c",
+                "width": 1024,
+                "height": 576,
+                "size": 39247,
+                "url": "https://media.sketchfab.com/models/4069f73a5b674fb29faef87ff9d68b4f/thumbnails/85314330d2f14999838abd5350f48033/0a29caf5bed54079be8d424d2b3f5356.jpeg"
+            },
+            {
+                "uid": "768b3545ea3c42808b2ad5ba4928e607",
+                "width": 720,
+                "height": 405,
+                "size": 23503,
+                "url": "https://media.sketchfab.com/models/4069f73a5b674fb29faef87ff9d68b4f/thumbnails/85314330d2f14999838abd5350f48033/7e9f2006e50b46a59b30afa5f5671140.jpeg"
+            },
+            {
+                "uid": "537b5fd615164c74aa599e3777e95c57",
+                "width": 256,
+                "height": 144,
+                "size": 5064,
+                "url": "https://media.sketchfab.com/models/4069f73a5b674fb29faef87ff9d68b4f/thumbnails/85314330d2f14999838abd5350f48033/dc44b47a635f456d8334fac5af444feb.jpeg"
+            },
+            {
+                "uid": "5aa88a7afff845d485025ddc34725613",
+                "width": 64,
+                "height": 36,
+                "size": 1187,
+                "url": "https://media.sketchfab.com/models/4069f73a5b674fb29faef87ff9d68b4f/thumbnails/85314330d2f14999838abd5350f48033/4268c8ac751340cba7ada66c29911008.jpeg"
+            }
+        ]
+    },
+    "uid": "4069f73a5b674fb29faef87ff9d68b4f",
+    "uri": "https://api.sketchfab.com/v3/models/4069f73a5b674fb29faef87ff9d68b4f",
+    "user": {
+        "uid": "6511df1bf2b74652b34b3e50e0fe0f0c",
+        "username": "artmonite",
+        "displayName": "ArtMonite",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/artmonite",
+        "avatar": {
+            "uid": "23f5676656224d66b6f4fa3990960e45",
+            "uri": "https://api.sketchfab.com/v3/avatars/23f5676656224d66b6f4fa3990960e45",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2130,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/a9af30bb6c744fe29611c0344108c717.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3896,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/6c6513e38672418dbb92c0c967b00c67.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9337,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/a98c0bbcd5ba4287b7f817c19857a95a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10883,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/a056afd2f94e4d5d80a7f02607f0ef4b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6511df1bf2b74652b34b3e50e0fe0f0c"
+    },
+    "vertexCount": 269479,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/hulk-artmonite-4069f73a5b674fb29faef87ff9d68b4f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model is based on the iconic cover of g. The Incredible Hulk Annual #1 , illustrated by Jim Steranko. At Artmonite, we have replaced the Hulk logo with the Artmonite logo. Jim Steranko (born in 1938 in Pennsylvania) was one of the most influential creators of the Silver Age of comics, known for revolutionizing Marvel with his work on Nick Fury, Agent of S.H.I.E.L.D., incorporating pop art, surrealism, and visual techniques drawn from cinema and advertising. More models at: https://artmonite.com/en/",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/4069f73a5b674fb29faef87ff9d68b4f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-31T16:26:08.489846",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

@@ -1,0 +1,130 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-12-09T16:22:34.741758",
+    "embedUrl": "https://sketchfab.com/models/1ac1ee48c9af4e8d83b7eb345c23730b/embed",
+    "faceCount": 45087,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "DC-10627",
+    "publishedAt": "2025-12-09T16:23:00.171419",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "stair",
+            "slug": "stair",
+            "uri": "https://api.sketchfab.com/v3/tags/stair"
+        },
+        {
+            "name": "staircase",
+            "slug": "staircase",
+            "uri": "https://api.sketchfab.com/v3/tags/staircase"
+        },
+        {
+            "name": "staircon",
+            "slug": "staircon",
+            "uri": "https://api.sketchfab.com/v3/tags/staircon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d960344998a6403bac7b6fe512ea6412",
+                "width": 1920,
+                "height": 1080,
+                "size": 78594,
+                "url": "https://media.sketchfab.com/models/1ac1ee48c9af4e8d83b7eb345c23730b/thumbnails/b19693ba8e244e75add4b868938204b7/3d4580b214454f80b7409fae568493ab.jpeg"
+            },
+            {
+                "uid": "36703aee0f05420a9365c8b261afe53a",
+                "width": 1024,
+                "height": 576,
+                "size": 25843,
+                "url": "https://media.sketchfab.com/models/1ac1ee48c9af4e8d83b7eb345c23730b/thumbnails/b19693ba8e244e75add4b868938204b7/cbcaeb9fd18f4a919b1caffcb5779bad.jpeg"
+            },
+            {
+                "uid": "87b07aa7c7e040188a60d00ae745d831",
+                "width": 720,
+                "height": 405,
+                "size": 14557,
+                "url": "https://media.sketchfab.com/models/1ac1ee48c9af4e8d83b7eb345c23730b/thumbnails/b19693ba8e244e75add4b868938204b7/095c333ae14e46fb8e440935e4e8866b.jpeg"
+            },
+            {
+                "uid": "4dcc4e69af314be09664ccd0ea72d153",
+                "width": 256,
+                "height": 144,
+                "size": 2871,
+                "url": "https://media.sketchfab.com/models/1ac1ee48c9af4e8d83b7eb345c23730b/thumbnails/b19693ba8e244e75add4b868938204b7/ac56dc71e021483a8b2d108cc003c921.jpeg"
+            },
+            {
+                "uid": "9c492e01fb474c7ea89fee1e3a001178",
+                "width": 64,
+                "height": 36,
+                "size": 867,
+                "url": "https://media.sketchfab.com/models/1ac1ee48c9af4e8d83b7eb345c23730b/thumbnails/b19693ba8e244e75add4b868938204b7/c859fd9a939a4025b7d4f5fc89cb8d12.jpeg"
+            }
+        ]
+    },
+    "uid": "1ac1ee48c9af4e8d83b7eb345c23730b",
+    "uri": "https://api.sketchfab.com/v3/models/1ac1ee48c9af4e8d83b7eb345c23730b",
+    "user": {
+        "uid": "a1c20e3138114890a942d35a654dd2e1",
+        "username": "escalierselegance",
+        "displayName": "escalierselegance",
+        "account": "prem",
+        "profileUrl": "https://sketchfab.com/escalierselegance",
+        "avatar": {
+            "uid": "1c3b649fd093432ba829343305ad9d4f",
+            "uri": "https://api.sketchfab.com/v3/avatars/1c3b649fd093432ba829343305ad9d4f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 755,
+                    "url": "https://media.sketchfab.com/avatars/1c3b649fd093432ba829343305ad9d4f/13571615f26c4501b57423e6935cd721.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 963,
+                    "url": "https://media.sketchfab.com/avatars/1c3b649fd093432ba829343305ad9d4f/c562ca77b2784d14b797367047c6d6a8.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1645,
+                    "url": "https://media.sketchfab.com/avatars/1c3b649fd093432ba829343305ad9d4f/12abb0f622894232ac85f78b0c566615.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1680,
+                    "url": "https://media.sketchfab.com/avatars/1c3b649fd093432ba829343305ad9d4f/7e4a8dc5a813405fa1cc46eb8baeea5a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a1c20e3138114890a942d35a654dd2e1"
+    },
+    "vertexCount": 25019,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/dc-10627-1ac1ee48c9af4e8d83b7eb345c23730b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "http://staircon.com/ <br>Export by <b>Escaliers �l�gance</b> (lic 0)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1ac1ee48c9af4e8d83b7eb345c23730b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-09T16:23:00.144583",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 14
+}

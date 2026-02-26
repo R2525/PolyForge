@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-14T17:27:39.809614",
+    "embedUrl": "https://sketchfab.com/models/095e406bafc0488ca6f3a5b4d13eb5d6/embed",
+    "faceCount": 3112,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Captain America Shield",
+    "publishedAt": "2026-01-14T17:59:05.963561",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "captainamerica",
+            "slug": "captainamerica",
+            "uri": "https://api.sketchfab.com/v3/tags/captainamerica"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "faafe56729e640cc81b35f366d38b7bb",
+                "width": 1920,
+                "height": 1080,
+                "size": 433109,
+                "url": "https://media.sketchfab.com/models/095e406bafc0488ca6f3a5b4d13eb5d6/thumbnails/0a9e564f2132413b99d5cb8826bdc36c/89c68daac008457095e02c03a8175ace.jpeg"
+            },
+            {
+                "uid": "4438db2ee3e94e20a0328c91e2db68bf",
+                "width": 1024,
+                "height": 576,
+                "size": 44631,
+                "url": "https://media.sketchfab.com/models/095e406bafc0488ca6f3a5b4d13eb5d6/thumbnails/0a9e564f2132413b99d5cb8826bdc36c/ec2ae2e7938c427e80e5c6025794e166.jpeg"
+            },
+            {
+                "uid": "0d5ec65a02f14f99992c7a279c427bb1",
+                "width": 720,
+                "height": 405,
+                "size": 19481,
+                "url": "https://media.sketchfab.com/models/095e406bafc0488ca6f3a5b4d13eb5d6/thumbnails/0a9e564f2132413b99d5cb8826bdc36c/6a08571c8647490690482139567fd374.jpeg"
+            },
+            {
+                "uid": "b7ef248653ee4a9fab8aee3e3479419f",
+                "width": 256,
+                "height": 144,
+                "size": 3360,
+                "url": "https://media.sketchfab.com/models/095e406bafc0488ca6f3a5b4d13eb5d6/thumbnails/0a9e564f2132413b99d5cb8826bdc36c/e3ff68fd86ac47278b91b2103c780128.jpeg"
+            },
+            {
+                "uid": "ff441553b102430f8515597978e4ef0d",
+                "width": 64,
+                "height": 36,
+                "size": 1068,
+                "url": "https://media.sketchfab.com/models/095e406bafc0488ca6f3a5b4d13eb5d6/thumbnails/0a9e564f2132413b99d5cb8826bdc36c/2327c9bb86ba4c209884a37f7c618d9b.jpeg"
+            }
+        ]
+    },
+    "uid": "095e406bafc0488ca6f3a5b4d13eb5d6",
+    "uri": "https://api.sketchfab.com/v3/models/095e406bafc0488ca6f3a5b4d13eb5d6",
+    "user": {
+        "uid": "1111db9c3ad6495d84bef01879b24d51",
+        "username": "herm_ss",
+        "displayName": "herm_ss",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/herm_ss",
+        "avatar": {
+            "uid": "ba64ae321d6c43ba9f16d3b7d492b24c",
+            "uri": "https://api.sketchfab.com/v3/avatars/ba64ae321d6c43ba9f16d3b7d492b24c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1105,
+                    "url": "https://media.sketchfab.com/avatars/ba64ae321d6c43ba9f16d3b7d492b24c/ef0abec64c6647ca8347b153bc9a84a4.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1682,
+                    "url": "https://media.sketchfab.com/avatars/ba64ae321d6c43ba9f16d3b7d492b24c/dc67fb6a7f7b432c94b948a66eeaffea.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4676,
+                    "url": "https://media.sketchfab.com/avatars/ba64ae321d6c43ba9f16d3b7d492b24c/9b803100922a463d8f82f89900154ce1.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5500,
+                    "url": "https://media.sketchfab.com/avatars/ba64ae321d6c43ba9f16d3b7d492b24c/56e2197680b74b168bb06543207348ab.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1111db9c3ad6495d84bef01879b24d51"
+    },
+    "vertexCount": 1783,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/captain-america-shield-095e406bafc0488ca6f3a5b4d13eb5d6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Captain America Shield – 3D Model\n\nThis project is a 3D recreation of Captain America’s iconic shield, focusing on clean modeling, realistic materials, and polished presentation. The shield features layered metallic rings with a brushed metal finish, combined with vibrant red and silver surfaces. The central star is modeled with sharp edges and reflective materials to enhance depth and visual contrast.\n\nSpecial attention was given to material setup and lighting to achieve a realistic metal look, emphasizing reflections, roughness variation, and subtle surface details. This project was created as a study in hard-surface modeling and material development for props.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/095e406bafc0488ca6f3a5b4d13eb5d6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-14T17:59:06.292183",
+    "pbrType": "metalness",
+    "textureCount": 25,
+    "materialCount": 5
+}

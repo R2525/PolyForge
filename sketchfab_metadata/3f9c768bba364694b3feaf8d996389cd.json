@@ -1,0 +1,150 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T16:28:25.701340",
+    "embedUrl": "https://sketchfab.com/models/3f9c768bba364694b3feaf8d996389cd/embed",
+    "faceCount": 192,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Two-Handed Sword",
+    "publishedAt": "2026-02-22T17:00:28.657416",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "two-handed_sword",
+            "slug": "two-handed_sword",
+            "uri": "https://api.sketchfab.com/v3/tags/two-handed_sword"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4608158741354cccb4981a83ec90cf77",
+                "width": 1920,
+                "height": 1080,
+                "size": 57158,
+                "url": "https://media.sketchfab.com/models/3f9c768bba364694b3feaf8d996389cd/thumbnails/2fb1cb844de947a4ada9638c5663f8c1/5f4b7a8895234ed186176ff17ec52643.jpeg"
+            },
+            {
+                "uid": "88b146b1bb2e4beb8e6c78d7ff781936",
+                "width": 1024,
+                "height": 576,
+                "size": 19374,
+                "url": "https://media.sketchfab.com/models/3f9c768bba364694b3feaf8d996389cd/thumbnails/2fb1cb844de947a4ada9638c5663f8c1/2b7f8add801d4723b87ad71a1adf447d.jpeg"
+            },
+            {
+                "uid": "8e7a1a2e19e846048d7fa84f3f8c1ee6",
+                "width": 720,
+                "height": 405,
+                "size": 11265,
+                "url": "https://media.sketchfab.com/models/3f9c768bba364694b3feaf8d996389cd/thumbnails/2fb1cb844de947a4ada9638c5663f8c1/5dcbd26d69e14c02999cbe61fe7265cd.jpeg"
+            },
+            {
+                "uid": "30bd520317d942b49a570247c0b40ff6",
+                "width": 256,
+                "height": 144,
+                "size": 2498,
+                "url": "https://media.sketchfab.com/models/3f9c768bba364694b3feaf8d996389cd/thumbnails/2fb1cb844de947a4ada9638c5663f8c1/f455f790a0894798af634622f0273f0d.jpeg"
+            },
+            {
+                "uid": "edc7a8880114443a865cb3f7f8b2e06e",
+                "width": 64,
+                "height": 36,
+                "size": 905,
+                "url": "https://media.sketchfab.com/models/3f9c768bba364694b3feaf8d996389cd/thumbnails/2fb1cb844de947a4ada9638c5663f8c1/84627d299a0548a8ab5a216b08be5d8f.jpeg"
+            }
+        ]
+    },
+    "uid": "3f9c768bba364694b3feaf8d996389cd",
+    "uri": "https://api.sketchfab.com/v3/models/3f9c768bba364694b3feaf8d996389cd",
+    "user": {
+        "uid": "71eb31e969b249b7b59ba0ee223f0e8a",
+        "username": "WaldyX",
+        "displayName": "WaldyX",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/WaldyX",
+        "avatar": {
+            "uid": "e549efcc92fb4059b98caf086b0796b4",
+            "uri": "https://api.sketchfab.com/v3/avatars/e549efcc92fb4059b98caf086b0796b4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1169,
+                    "url": "https://media.sketchfab.com/avatars/e549efcc92fb4059b98caf086b0796b4/214d3bec33104ee29ba73f8e2c884cf0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1765,
+                    "url": "https://media.sketchfab.com/avatars/e549efcc92fb4059b98caf086b0796b4/6380dea11fb647b994292db1ef2accfb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4302,
+                    "url": "https://media.sketchfab.com/avatars/e549efcc92fb4059b98caf086b0796b4/21ae67a7ffae4c738029cad29afd97f0.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4891,
+                    "url": "https://media.sketchfab.com/avatars/e549efcc92fb4059b98caf086b0796b4/6d7f4aa9fccd4225a5c139d7eaa94917.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/71eb31e969b249b7b59ba0ee223f0e8a"
+    },
+    "vertexCount": 128,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/two-handed-sword-3f9c768bba364694b3feaf8d996389cd",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3f9c768bba364694b3feaf8d996389cd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T15:58:57.306288",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

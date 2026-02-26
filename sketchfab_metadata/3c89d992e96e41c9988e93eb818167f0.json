@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T18:54:30.937175",
+    "embedUrl": "https://sketchfab.com/models/3c89d992e96e41c9988e93eb818167f0/embed",
+    "faceCount": 50000,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "White Wooden Sword",
+    "publishedAt": "2026-02-11T19:09:27.105867",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "minimalist",
+            "slug": "minimalist",
+            "uri": "https://api.sketchfab.com/v3/tags/minimalist"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8ab7be68a8fa43a0887af1fe4265b057",
+                "width": 1920,
+                "height": 1080,
+                "size": 43314,
+                "url": "https://media.sketchfab.com/models/3c89d992e96e41c9988e93eb818167f0/thumbnails/246f2c2e3d2c41f2a8376aa4ba94f03d/44e60216c90344ffa2ca669e7c571a90.jpeg"
+            },
+            {
+                "uid": "8d6442a8e95d4d70bc0b4c4753d1e5e6",
+                "width": 1024,
+                "height": 576,
+                "size": 13774,
+                "url": "https://media.sketchfab.com/models/3c89d992e96e41c9988e93eb818167f0/thumbnails/246f2c2e3d2c41f2a8376aa4ba94f03d/d3353421e3fc4eb7bb3b039f8d41b148.jpeg"
+            },
+            {
+                "uid": "fa53583a7d6748fdaee2ae2dd5427366",
+                "width": 720,
+                "height": 405,
+                "size": 7808,
+                "url": "https://media.sketchfab.com/models/3c89d992e96e41c9988e93eb818167f0/thumbnails/246f2c2e3d2c41f2a8376aa4ba94f03d/74e524bf8acf4284baa9ffcc0eecaa9a.jpeg"
+            },
+            {
+                "uid": "7664ab38bc52410f8b8a20fcf50098fc",
+                "width": 256,
+                "height": 144,
+                "size": 1775,
+                "url": "https://media.sketchfab.com/models/3c89d992e96e41c9988e93eb818167f0/thumbnails/246f2c2e3d2c41f2a8376aa4ba94f03d/4f7d16b03ed34eabafc0e1c369d8f8c3.jpeg"
+            },
+            {
+                "uid": "71993ce5c95b406da8dcdf98c05634d6",
+                "width": 64,
+                "height": 36,
+                "size": 753,
+                "url": "https://media.sketchfab.com/models/3c89d992e96e41c9988e93eb818167f0/thumbnails/246f2c2e3d2c41f2a8376aa4ba94f03d/6b0def8600eb421eb2ea57fe1e0371d6.jpeg"
+            }
+        ]
+    },
+    "uid": "3c89d992e96e41c9988e93eb818167f0",
+    "uri": "https://api.sketchfab.com/v3/models/3c89d992e96e41c9988e93eb818167f0",
+    "user": {
+        "uid": "49c98fd00e86450789e1a83394027f0d",
+        "username": "playga",
+        "displayName": "playga",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/playga",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/49c98fd00e86450789e1a83394027f0d"
+    },
+    "vertexCount": 25002,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/white-wooden-sword-3c89d992e96e41c9988e93eb818167f0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A stylized arming sword crafted entirely from smooth white wood. It features a straight double-edged blade, a gently curved crossguard, and a rounded pommel, maintaining a clean and minimalist medieval design.\n\nIts neutral wooden finish makes it ideal for further texturing or customization in games, cinematics, VR projects, or stylized environments.\n\nCreated using Tencent’s Hunyuan AI technology and refined for practical use as a versatile 3D asset.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/3c89d992e96e41c9988e93eb818167f0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-11T19:13:22.993835",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

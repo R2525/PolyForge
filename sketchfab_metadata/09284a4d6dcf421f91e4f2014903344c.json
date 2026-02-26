@@ -1,0 +1,137 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T14:24:52.585159",
+    "embedUrl": "https://sketchfab.com/models/09284a4d6dcf421f91e4f2014903344c/embed",
+    "faceCount": 2917978,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Angry Birds Star Wars - Darth Vader Tie Fighter",
+    "publishedAt": "2026-02-17T14:26:03.495761",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "517c00fc21384b3a8f53a77003648f4d",
+                "width": 1920,
+                "height": 1080,
+                "size": 87020,
+                "url": "https://media.sketchfab.com/models/09284a4d6dcf421f91e4f2014903344c/thumbnails/bfe640bb45bb4fdf93bf4d6b1ae6d021/bbaad2b1117c47abb87981353a189dff.jpeg"
+            },
+            {
+                "uid": "e05962c0338340daa720fcc424eb1fbc",
+                "width": 1024,
+                "height": 576,
+                "size": 30888,
+                "url": "https://media.sketchfab.com/models/09284a4d6dcf421f91e4f2014903344c/thumbnails/bfe640bb45bb4fdf93bf4d6b1ae6d021/3067feb8c24e47a4998ce0d3eb14033e.jpeg"
+            },
+            {
+                "uid": "a73f5cd633e842059ce8fb7cb646408e",
+                "width": 720,
+                "height": 405,
+                "size": 18609,
+                "url": "https://media.sketchfab.com/models/09284a4d6dcf421f91e4f2014903344c/thumbnails/bfe640bb45bb4fdf93bf4d6b1ae6d021/fa92ab9fe0a64a38be80df9906af6839.jpeg"
+            },
+            {
+                "uid": "1926f34a895147f59f9c93c94923d25f",
+                "width": 256,
+                "height": 144,
+                "size": 4470,
+                "url": "https://media.sketchfab.com/models/09284a4d6dcf421f91e4f2014903344c/thumbnails/bfe640bb45bb4fdf93bf4d6b1ae6d021/38b556d70af34c3c9386abaa3ccd10af.jpeg"
+            },
+            {
+                "uid": "17799eeb1374402e84cfe710706c9242",
+                "width": 64,
+                "height": 36,
+                "size": 1246,
+                "url": "https://media.sketchfab.com/models/09284a4d6dcf421f91e4f2014903344c/thumbnails/bfe640bb45bb4fdf93bf4d6b1ae6d021/177e0c4fb1fb496185ac2f12daaebaee.jpeg"
+            }
+        ]
+    },
+    "uid": "09284a4d6dcf421f91e4f2014903344c",
+    "uri": "https://api.sketchfab.com/v3/models/09284a4d6dcf421f91e4f2014903344c",
+    "user": {
+        "uid": "c0cd59d5c25d4dcebaeb2a713a3df670",
+        "username": "NBProductions",
+        "displayName": "NB Productions",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/NBProductions",
+        "avatar": {
+            "uid": "22424816022f4c7685ed539cd8ec0b35",
+            "uri": "https://api.sketchfab.com/v3/avatars/22424816022f4c7685ed539cd8ec0b35",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2982,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/c07bc6d104ef4111b89b5e03a8d2cd26.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5509,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/44e36fc67c744e81857f2e1b905ff034.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12770,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/dbb806198da749a3aedb505c1a09a229.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 14755,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/2d69f7ae5e444524a9aecd2667805428.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c0cd59d5c25d4dcebaeb2a713a3df670"
+    },
+    "vertexCount": 1450579,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/angry-birds-star-wars-darth-vader-tie-fighter-09284a4d6dcf421f91e4f2014903344c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/hkYz7F](https://www.meshy.ai/s/hkYz7F)",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/09284a4d6dcf421f91e4f2014903344c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T12:42:14.648885",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

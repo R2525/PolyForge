@@ -1,0 +1,69 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Highly Detailed",
+            "score": 0.75
+        },
+        {
+            "name": "Fantasy Art",
+            "score": 0.7
+        },
+        {
+            "name": "3D Render",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Polished",
+        "Dusty",
+        "Rusty",
+        "Mossy"
+    ],
+    "tags": [
+        "sword",
+        "medieval",
+        "weapon",
+        "fantasy",
+        "gothic",
+        "blade",
+        "dagger",
+        "metal"
+    ],
+    "model_id_full": "0b2e55351ae441519a2b7d886e1f84f8_Medieval_Prop_Project",
+    "sketchfab_id": "0b2e55351ae441519a2b7d886e1f84f8",
+    "asset_name": "Medieval_Prop_Project"
+}

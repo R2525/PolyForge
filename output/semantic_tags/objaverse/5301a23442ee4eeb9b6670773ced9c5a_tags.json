@@ -1,0 +1,36 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.65
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "table lamp",
+        "white",
+        "lamp"
+    ]
+}

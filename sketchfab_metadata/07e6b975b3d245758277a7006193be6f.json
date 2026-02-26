@@ -1,0 +1,130 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T02:23:02.689434",
+    "embedUrl": "https://sketchfab.com/models/07e6b975b3d245758277a7006193be6f/embed",
+    "faceCount": 1006934,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "A stylized low-poly human footman warrior",
+    "publishedAt": "2026-02-22T02:23:32.377899",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "379c4d99b9114aeb9066ffc92174ff50",
+                "width": 1920,
+                "height": 1080,
+                "size": 79444,
+                "url": "https://media.sketchfab.com/models/07e6b975b3d245758277a7006193be6f/thumbnails/9aab8b4ce54d403b86a2f4ac347405af/09a781f6f23e426faa114725e3dfa840.jpeg"
+            },
+            {
+                "uid": "c4e68154226a476d9867cb7173789361",
+                "width": 1024,
+                "height": 576,
+                "size": 26995,
+                "url": "https://media.sketchfab.com/models/07e6b975b3d245758277a7006193be6f/thumbnails/9aab8b4ce54d403b86a2f4ac347405af/2ddb9b7191a947cba27f83a4eb82353f.jpeg"
+            },
+            {
+                "uid": "2bd9baea3a7f40a1a0ff42236d18b2b7",
+                "width": 720,
+                "height": 405,
+                "size": 15654,
+                "url": "https://media.sketchfab.com/models/07e6b975b3d245758277a7006193be6f/thumbnails/9aab8b4ce54d403b86a2f4ac347405af/57884478550d48bb9249f53f9d6f4c40.jpeg"
+            },
+            {
+                "uid": "501e0baca8814f048db72a10c5ee28ea",
+                "width": 256,
+                "height": 144,
+                "size": 3281,
+                "url": "https://media.sketchfab.com/models/07e6b975b3d245758277a7006193be6f/thumbnails/9aab8b4ce54d403b86a2f4ac347405af/0646019573ca4fa78df109d49ba9cf22.jpeg"
+            },
+            {
+                "uid": "39aecfd84acb4fd3826cb9241207555d",
+                "width": 64,
+                "height": 36,
+                "size": 954,
+                "url": "https://media.sketchfab.com/models/07e6b975b3d245758277a7006193be6f/thumbnails/9aab8b4ce54d403b86a2f4ac347405af/439c68ca6fde486f89f25db87c5734fe.jpeg"
+            }
+        ]
+    },
+    "uid": "07e6b975b3d245758277a7006193be6f",
+    "uri": "https://api.sketchfab.com/v3/models/07e6b975b3d245758277a7006193be6f",
+    "user": {
+        "uid": "f9e0a36c286c4319b04623666f989fdc",
+        "username": "caihuazhi",
+        "displayName": "caihuazhi",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/caihuazhi",
+        "avatar": {
+            "uid": "24868fd6702940f7af175d93d566cd03",
+            "uri": "https://api.sketchfab.com/v3/avatars/24868fd6702940f7af175d93d566cd03",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1012,
+                    "url": "https://media.sketchfab.com/avatars/24868fd6702940f7af175d93d566cd03/6fe226c65ae4431e81aa55b58f3e979c.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1413,
+                    "url": "https://media.sketchfab.com/avatars/24868fd6702940f7af175d93d566cd03/efc6b1d4829e49cea305a330b5c40adf.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3144,
+                    "url": "https://media.sketchfab.com/avatars/24868fd6702940f7af175d93d566cd03/b82430dc21e04e909f85ada3f71345e2.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3589,
+                    "url": "https://media.sketchfab.com/avatars/24868fd6702940f7af175d93d566cd03/4f1f27346c62429f939cef153f3a3567.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f9e0a36c286c4319b04623666f989fdc"
+    },
+    "vertexCount": 503427,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/a-stylized-low-poly-human-footman-warrior-07e6b975b3d245758277a7006193be6f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/tFoT2G](https://www.meshy.ai/s/tFoT2G)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/07e6b975b3d245758277a7006193be6f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T02:23:32.356123",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

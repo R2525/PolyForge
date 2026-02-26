@@ -1,0 +1,69 @@
+{
+    "category": "Art & Abstract",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        },
+        {
+            "name": "Classical",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Wood Carving",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "Historical Sculpture",
+            "score": 0.5
+        },
+        {
+            "name": "Wooden Artifact",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rustic",
+        "Dusty",
+        "Wooden",
+        "Faded"
+    ],
+    "tags": [
+        "wooden sculpture",
+        "ancient",
+        "carved",
+        "animal",
+        "decoration",
+        "historical",
+        "wooden artifact",
+        "cultural heritage"
+    ],
+    "model_id_full": "479bf90abe754ca391341761b8349154_Armsteun koorbank",
+    "sketchfab_id": "479bf90abe754ca391341761b8349154",
+    "asset_name": "Armsteun koorbank"
+}

@@ -1,0 +1,211 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-09T13:25:15.568468",
+    "embedUrl": "https://sketchfab.com/models/3a8904f56e724fd6a5bb1219009f5141/embed",
+    "faceCount": 767664,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 8,
+    "name": "Steampunk Yellow Flight Helmet",
+    "publishedAt": "2026-02-09T13:26:13.578529",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "retro",
+            "slug": "retro",
+            "uri": "https://api.sketchfab.com/v3/tags/retro"
+        },
+        {
+            "name": "pilot",
+            "slug": "pilot",
+            "uri": "https://api.sketchfab.com/v3/tags/pilot"
+        },
+        {
+            "name": "flight",
+            "slug": "flight",
+            "uri": "https://api.sketchfab.com/v3/tags/flight"
+        },
+        {
+            "name": "detailed",
+            "slug": "detailed",
+            "uri": "https://api.sketchfab.com/v3/tags/detailed"
+        },
+        {
+            "name": "headgear",
+            "slug": "headgear",
+            "uri": "https://api.sketchfab.com/v3/tags/headgear"
+        },
+        {
+            "name": "yellow",
+            "slug": "yellow",
+            "uri": "https://api.sketchfab.com/v3/tags/yellow"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a2bfbab5198842f28b443241090b4b62",
+                "width": 1920,
+                "height": 1080,
+                "size": 94025,
+                "url": "https://media.sketchfab.com/models/3a8904f56e724fd6a5bb1219009f5141/thumbnails/fe59b7abee7c4854be4d62ea78cf9ab8/15ebc653a05f47dbbe3605fbf0a053c9.jpeg"
+            },
+            {
+                "uid": "ad289d3a676549a3bc24f46ef3b70be5",
+                "width": 1024,
+                "height": 576,
+                "size": 31715,
+                "url": "https://media.sketchfab.com/models/3a8904f56e724fd6a5bb1219009f5141/thumbnails/fe59b7abee7c4854be4d62ea78cf9ab8/fac52af5c96e45168bcc6fc197c52a66.jpeg"
+            },
+            {
+                "uid": "cb55b8e5bd654d47b3a974114e2388da",
+                "width": 720,
+                "height": 405,
+                "size": 18306,
+                "url": "https://media.sketchfab.com/models/3a8904f56e724fd6a5bb1219009f5141/thumbnails/fe59b7abee7c4854be4d62ea78cf9ab8/85e4d2d37f224bce8ba43ec462d98c89.jpeg"
+            },
+            {
+                "uid": "6cfd949880834ea39725cbf65cdf7882",
+                "width": 256,
+                "height": 144,
+                "size": 3815,
+                "url": "https://media.sketchfab.com/models/3a8904f56e724fd6a5bb1219009f5141/thumbnails/fe59b7abee7c4854be4d62ea78cf9ab8/4b6e6b7dd30c4bfbbcc6946448ceb566.jpeg"
+            },
+            {
+                "uid": "cd71a3956b2e4aaeb6d2d742f5654e53",
+                "width": 64,
+                "height": 36,
+                "size": 1006,
+                "url": "https://media.sketchfab.com/models/3a8904f56e724fd6a5bb1219009f5141/thumbnails/fe59b7abee7c4854be4d62ea78cf9ab8/f6ab56a3d114492b9675b4133980e146.jpeg"
+            }
+        ]
+    },
+    "uid": "3a8904f56e724fd6a5bb1219009f5141",
+    "uri": "https://api.sketchfab.com/v3/models/3a8904f56e724fd6a5bb1219009f5141",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 383832,
+    "viewCount": 78,
+    "viewerUrl": "https://sketchfab.com/3d-models/steampunk-yellow-flight-helmet-3a8904f56e724fd6a5bb1219009f5141",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Steampunk Yellow Flight Helmet",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/3a8904f56e724fd6a5bb1219009f5141/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T17:13:58.912570",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

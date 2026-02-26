@@ -1,0 +1,181 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T04:22:02.498666",
+    "embedUrl": "https://sketchfab.com/models/2d967799c10e4490895c85da0cc39637/embed",
+    "faceCount": 2126,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Torque Dawg - MCSM",
+    "publishedAt": "2026-02-21T04:22:21.293871",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "enderman",
+            "slug": "enderman",
+            "uri": "https://api.sketchfab.com/v3/tags/enderman"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "mcsm",
+            "slug": "mcsm",
+            "uri": "https://api.sketchfab.com/v3/tags/mcsm"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6e38a70b5429467493c52dde6911bdc9",
+                "width": 1920,
+                "height": 1080,
+                "size": 55714,
+                "url": "https://media.sketchfab.com/models/2d967799c10e4490895c85da0cc39637/thumbnails/c3704544d36740cdbdd5aa45edbf6a09/8211f6ab06cd4cb5baee4f469a1438bd.jpeg"
+            },
+            {
+                "uid": "11bd3c05b43148d795539c923666dba8",
+                "width": 1024,
+                "height": 576,
+                "size": 19465,
+                "url": "https://media.sketchfab.com/models/2d967799c10e4490895c85da0cc39637/thumbnails/c3704544d36740cdbdd5aa45edbf6a09/ccc0db7608af4abe8d2a79760905e17a.jpeg"
+            },
+            {
+                "uid": "7ed3830ce2324ce58553f4c13c605a17",
+                "width": 720,
+                "height": 405,
+                "size": 11520,
+                "url": "https://media.sketchfab.com/models/2d967799c10e4490895c85da0cc39637/thumbnails/c3704544d36740cdbdd5aa45edbf6a09/228b765ea3594207a3dfc84dcebca264.jpeg"
+            },
+            {
+                "uid": "f2252a13da864ba1b26f378a906518fb",
+                "width": 256,
+                "height": 144,
+                "size": 2880,
+                "url": "https://media.sketchfab.com/models/2d967799c10e4490895c85da0cc39637/thumbnails/c3704544d36740cdbdd5aa45edbf6a09/525c914b86264126a2572232978bf7e9.jpeg"
+            },
+            {
+                "uid": "a6dee85d5e8248739dd9d8e496b0b16b",
+                "width": 64,
+                "height": 36,
+                "size": 980,
+                "url": "https://media.sketchfab.com/models/2d967799c10e4490895c85da0cc39637/thumbnails/c3704544d36740cdbdd5aa45edbf6a09/4f1e6ebfee5b4a57bae9b371c855fff6.jpeg"
+            }
+        ]
+    },
+    "uid": "2d967799c10e4490895c85da0cc39637",
+    "uri": "https://api.sketchfab.com/v3/models/2d967799c10e4490895c85da0cc39637",
+    "user": {
+        "uid": "ec7347d907ac418aafc1eeca5fcacd32",
+        "username": "captainiskidnaped",
+        "displayName": "captain got kidnapped gobb 6 man",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/captainiskidnaped",
+        "avatar": {
+            "uid": "4bd77edc2c3c471eb70b614bf0abd034",
+            "uri": "https://api.sketchfab.com/v3/avatars/4bd77edc2c3c471eb70b614bf0abd034",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1990,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/ab23047d290e4591b47b0da650d1f639.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3596,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/8e63cc03600e46c09f53c248ee8bc794.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9585,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/0fec64b71df1470885743a9644239991.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10844,
+                    "url": "https://media.sketchfab.com/avatars/4bd77edc2c3c471eb70b614bf0abd034/780d3df0223f436183df3606a31e3d01.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ec7347d907ac418aafc1eeca5fcacd32"
+    },
+    "vertexCount": 1315,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/torque-dawg-mcsm-2d967799c10e4490895c85da0cc39637",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "from mcsm",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/2d967799c10e4490895c85da0cc39637/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T04:22:21.569345",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 2
+}

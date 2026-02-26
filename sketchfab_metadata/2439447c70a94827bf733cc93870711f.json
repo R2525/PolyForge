@@ -1,0 +1,174 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-23T08:20:27.167615",
+    "embedUrl": "https://sketchfab.com/models/2439447c70a94827bf733cc93870711f/embed",
+    "faceCount": 4488,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Viking Axe || 维京战斧",
+    "publishedAt": "2025-11-23T08:21:52.819756",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6eca9b8a1eb349b7af70883ee816a7ea",
+                "width": 1920,
+                "height": 1080,
+                "size": 218055,
+                "url": "https://media.sketchfab.com/models/2439447c70a94827bf733cc93870711f/thumbnails/d2788b4e3b424b44bf342396adce862d/3c5d49c790734d3f95f8ee28f7170e14.jpeg"
+            },
+            {
+                "uid": "b0226e97930242ddaf28e33bfbdaf22d",
+                "width": 1024,
+                "height": 576,
+                "size": 31839,
+                "url": "https://media.sketchfab.com/models/2439447c70a94827bf733cc93870711f/thumbnails/d2788b4e3b424b44bf342396adce862d/ed418d3e96b74499b4ef61a14844fee8.jpeg"
+            },
+            {
+                "uid": "7bfecc197ce04c8ea0559b491ca9142e",
+                "width": 720,
+                "height": 405,
+                "size": 14610,
+                "url": "https://media.sketchfab.com/models/2439447c70a94827bf733cc93870711f/thumbnails/d2788b4e3b424b44bf342396adce862d/e43c95a837354fbe8f16520cacabe27d.jpeg"
+            },
+            {
+                "uid": "d35701fc345d41999a4a0fc319814abd",
+                "width": 256,
+                "height": 144,
+                "size": 2729,
+                "url": "https://media.sketchfab.com/models/2439447c70a94827bf733cc93870711f/thumbnails/d2788b4e3b424b44bf342396adce862d/f9ffee734d9f4029991c5ea602924dfe.jpeg"
+            },
+            {
+                "uid": "af526e7c46bc4a7f856895b6d55fce3a",
+                "width": 64,
+                "height": 36,
+                "size": 944,
+                "url": "https://media.sketchfab.com/models/2439447c70a94827bf733cc93870711f/thumbnails/d2788b4e3b424b44bf342396adce862d/5ff46744621046c09606001099b7f93a.jpeg"
+            }
+        ]
+    },
+    "uid": "2439447c70a94827bf733cc93870711f",
+    "uri": "https://api.sketchfab.com/v3/models/2439447c70a94827bf733cc93870711f",
+    "user": {
+        "uid": "0a899863745b4da3b2ab2d333b7b2892",
+        "username": "SeaMelon-Sea",
+        "displayName": "SeaMelon",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/SeaMelon-Sea",
+        "avatar": {
+            "uid": "e2914f4a4c3f4365a4aea2916da8194b",
+            "uri": "https://api.sketchfab.com/v3/avatars/e2914f4a4c3f4365a4aea2916da8194b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 976,
+                    "url": "https://media.sketchfab.com/avatars/e2914f4a4c3f4365a4aea2916da8194b/4945db9c783c4e92875a68e928bef667.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1325,
+                    "url": "https://media.sketchfab.com/avatars/e2914f4a4c3f4365a4aea2916da8194b/a2fffda9d5444276ac6a06a38779ce4f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2640,
+                    "url": "https://media.sketchfab.com/avatars/e2914f4a4c3f4365a4aea2916da8194b/10615efdb4174662b04c1f56bfa92ab6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3084,
+                    "url": "https://media.sketchfab.com/avatars/e2914f4a4c3f4365a4aea2916da8194b/431dd69e5e044ff0bac510e13db53dc5.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0a899863745b4da3b2ab2d333b7b2892"
+    },
+    "vertexCount": 2216,
+    "viewCount": 43,
+    "viewerUrl": "https://sketchfab.com/3d-models/viking-axe-2439447c70a94827bf733cc93870711f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "The Viking Axe is one of the most iconic weapons of Norse warriors, featuring a sharp blade and well-balanced handle. It was effective in combat and practical for daily tasks, showcasing both utility and lethal efficiency.\n\n维京战斧是北欧战士最具代表性的武器之一，以锋利的斧刃与平衡的斧柄著称，不仅适合战斗，也常用于日常劳作，展现出实用与杀伤力并存的特色。\n\nhttps://www.fab.com/zh-cn/listings/ae1e6d12-d4bd-4f58-bbfb-e7ea232203a7",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2439447c70a94827bf733cc93870711f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-23T08:21:53.007380",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

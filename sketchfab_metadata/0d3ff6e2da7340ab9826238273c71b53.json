@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-16T23:30:08.827695",
+    "embedUrl": "https://sketchfab.com/models/0d3ff6e2da7340ab9826238273c71b53/embed",
+    "faceCount": 148520,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 14,
+    "name": "Servo-Skull Warhammer",
+    "publishedAt": "2026-01-16T23:32:55.282274",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "servoskull",
+            "slug": "servoskull",
+            "uri": "https://api.sketchfab.com/v3/tags/servoskull"
+        },
+        {
+            "name": "warhammerservo-skull",
+            "slug": "warhammerservo-skull",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammerservo-skull"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e139a297f2dc4fb6be9aaa3c5b34b30b",
+                "width": 1920,
+                "height": 1080,
+                "size": 466873,
+                "url": "https://media.sketchfab.com/models/0d3ff6e2da7340ab9826238273c71b53/thumbnails/3e501d0fa6834c02a8f660f2a48a02f1/5ef142497bb44dd98406465cd1307a47.jpeg"
+            },
+            {
+                "uid": "a7a1ffa5729a447c9c201729753949a5",
+                "width": 1024,
+                "height": 576,
+                "size": 60941,
+                "url": "https://media.sketchfab.com/models/0d3ff6e2da7340ab9826238273c71b53/thumbnails/3e501d0fa6834c02a8f660f2a48a02f1/82ab5630f54d4158a609be5b33ebe7b2.jpeg"
+            },
+            {
+                "uid": "d39544c428a14d7fbb9a823e18d47620",
+                "width": 720,
+                "height": 405,
+                "size": 29142,
+                "url": "https://media.sketchfab.com/models/0d3ff6e2da7340ab9826238273c71b53/thumbnails/3e501d0fa6834c02a8f660f2a48a02f1/03c271e404694836b301fb175dbb416b.jpeg"
+            },
+            {
+                "uid": "708e996529244868a5e85bf10e242fe7",
+                "width": 256,
+                "height": 144,
+                "size": 5709,
+                "url": "https://media.sketchfab.com/models/0d3ff6e2da7340ab9826238273c71b53/thumbnails/3e501d0fa6834c02a8f660f2a48a02f1/3e072cb1a619450693d6db8ac971ee61.jpeg"
+            },
+            {
+                "uid": "90589dd47cf94523b1100611de5da7fe",
+                "width": 64,
+                "height": 36,
+                "size": 1325,
+                "url": "https://media.sketchfab.com/models/0d3ff6e2da7340ab9826238273c71b53/thumbnails/3e501d0fa6834c02a8f660f2a48a02f1/888ee45a264840d2940ca488b66358f1.jpeg"
+            }
+        ]
+    },
+    "uid": "0d3ff6e2da7340ab9826238273c71b53",
+    "uri": "https://api.sketchfab.com/v3/models/0d3ff6e2da7340ab9826238273c71b53",
+    "user": {
+        "uid": "9b23a77bab2443519d8b2e99d0769d39",
+        "username": "hell3879",
+        "displayName": "D3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hell3879",
+        "avatar": {
+            "uid": "dd7fb222643b45b3ba55db24a3188820",
+            "uri": "https://api.sketchfab.com/v3/avatars/dd7fb222643b45b3ba55db24a3188820",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 988,
+                    "url": "https://media.sketchfab.com/avatars/dd7fb222643b45b3ba55db24a3188820/58efef93eecb47759e4037605316c423.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1280,
+                    "url": "https://media.sketchfab.com/avatars/dd7fb222643b45b3ba55db24a3188820/6d1e30a8525f4a5fb02ba14efded9962.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2430,
+                    "url": "https://media.sketchfab.com/avatars/dd7fb222643b45b3ba55db24a3188820/b61f44ab4ec748ecb4fad2424fa87e4d.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2752,
+                    "url": "https://media.sketchfab.com/avatars/dd7fb222643b45b3ba55db24a3188820/213fce8abe994a4883ddac7e0cfc99d9.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9b23a77bab2443519d8b2e99d0769d39"
+    },
+    "vertexCount": 74671,
+    "viewCount": 193,
+    "viewerUrl": "https://sketchfab.com/3d-models/servo-skull-warhammer-0d3ff6e2da7340ab9826238273c71b53",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Servo-Skull Warhammer",
+    "price": null,
+    "downloadCount": 46,
+    "editorUrl": "https://sketchfab.com/models/0d3ff6e2da7340ab9826238273c71b53/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "SubstancePainter",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-16T23:38:17.368019",
+    "pbrType": "metalness",
+    "textureCount": 33,
+    "materialCount": 6
+}

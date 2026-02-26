@@ -1,0 +1,190 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-30T15:52:58.597300",
+    "embedUrl": "https://sketchfab.com/models/20fb578323cf47bcba999c92898d26a6/embed",
+    "faceCount": 7176,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Sword",
+    "publishedAt": "2025-12-30T15:54:17.837986",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "3dmodels",
+            "slug": "3dmodels",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodels"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "models",
+            "slug": "models",
+            "uri": "https://api.sketchfab.com/v3/tags/models"
+        },
+        {
+            "name": "medievalsword",
+            "slug": "medievalsword",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalsword"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "history",
+            "slug": "history",
+            "uri": "https://api.sketchfab.com/v3/tags/history"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4737064f2ca2488a9e19e386acded2cc",
+                "width": 1920,
+                "height": 1080,
+                "size": 36156,
+                "url": "https://media.sketchfab.com/models/20fb578323cf47bcba999c92898d26a6/thumbnails/b5da7d5d40504c94b6c6b52306e09f06/eea8d08dd1f5419baac3c8f83a9fd061.jpeg"
+            },
+            {
+                "uid": "6c1b6a206a0741a29a797798b0b90b29",
+                "width": 1024,
+                "height": 576,
+                "size": 11290,
+                "url": "https://media.sketchfab.com/models/20fb578323cf47bcba999c92898d26a6/thumbnails/b5da7d5d40504c94b6c6b52306e09f06/b06a50697bcb42988e01a497e72cbede.jpeg"
+            },
+            {
+                "uid": "289b302b2ebc41b3a0ae600895564da4",
+                "width": 720,
+                "height": 405,
+                "size": 6264,
+                "url": "https://media.sketchfab.com/models/20fb578323cf47bcba999c92898d26a6/thumbnails/b5da7d5d40504c94b6c6b52306e09f06/96e867007e40462ea199c3c9340184b9.jpeg"
+            },
+            {
+                "uid": "18a6f5565f26485c9add9b1c5f426d28",
+                "width": 256,
+                "height": 144,
+                "size": 1487,
+                "url": "https://media.sketchfab.com/models/20fb578323cf47bcba999c92898d26a6/thumbnails/b5da7d5d40504c94b6c6b52306e09f06/c9ba21fc6c384bcf97cfdf6704454953.jpeg"
+            },
+            {
+                "uid": "5734b1860faa4541ba344ebd91030e0b",
+                "width": 64,
+                "height": 36,
+                "size": 689,
+                "url": "https://media.sketchfab.com/models/20fb578323cf47bcba999c92898d26a6/thumbnails/b5da7d5d40504c94b6c6b52306e09f06/5fb32a7512904cff9b3fc497bf4193bf.jpeg"
+            }
+        ]
+    },
+    "uid": "20fb578323cf47bcba999c92898d26a6",
+    "uri": "https://api.sketchfab.com/v3/models/20fb578323cf47bcba999c92898d26a6",
+    "user": {
+        "uid": "77f1c28f87de449a975f5978dc0f5644",
+        "username": "Kublor",
+        "displayName": "Kublor",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Kublor",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/77f1c28f87de449a975f5978dc0f5644"
+    },
+    "vertexCount": 3609,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/sword-20fb578323cf47bcba999c92898d26a6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "My sword",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/20fb578323cf47bcba999c92898d26a6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-30T15:54:18.134814",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

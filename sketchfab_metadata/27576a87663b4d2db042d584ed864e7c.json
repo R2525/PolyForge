@@ -1,0 +1,121 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 1,
+    "createdAt": "2026-02-22T03:56:02.402367",
+    "embedUrl": "https://sketchfab.com/models/27576a87663b4d2db042d584ed864e7c/embed",
+    "faceCount": 19668,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "jaw-GDI HORROR",
+    "publishedAt": "2026-02-22T04:01:53.379606",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f60b8f1b8ed84e9eb34d1a5b0b32026d",
+                "width": 1920,
+                "height": 1080,
+                "size": 349552,
+                "url": "https://media.sketchfab.com/models/27576a87663b4d2db042d584ed864e7c/thumbnails/5a657d7ad01547b391766772a3f15aa5/40ef9f6912c2423fb0e2b46f43828eab.jpeg"
+            },
+            {
+                "uid": "a30be7aa63014eb7a4f7a647b66575ce",
+                "width": 1024,
+                "height": 576,
+                "size": 54862,
+                "url": "https://media.sketchfab.com/models/27576a87663b4d2db042d584ed864e7c/thumbnails/5a657d7ad01547b391766772a3f15aa5/73200350e54c40dfb388dd343355ffd6.jpeg"
+            },
+            {
+                "uid": "18c7b2069dcd4f89b827a03243865b03",
+                "width": 720,
+                "height": 405,
+                "size": 24879,
+                "url": "https://media.sketchfab.com/models/27576a87663b4d2db042d584ed864e7c/thumbnails/5a657d7ad01547b391766772a3f15aa5/ac64cfc334da4ead83344826dd22dcdf.jpeg"
+            },
+            {
+                "uid": "8565d39ef4514d54a5cc8638fee81f9a",
+                "width": 256,
+                "height": 144,
+                "size": 4268,
+                "url": "https://media.sketchfab.com/models/27576a87663b4d2db042d584ed864e7c/thumbnails/5a657d7ad01547b391766772a3f15aa5/826a3a3d52a74d09ba040daf50c8c294.jpeg"
+            },
+            {
+                "uid": "8ef980d108204de3a25a9e407d8aac63",
+                "width": 64,
+                "height": 36,
+                "size": 1084,
+                "url": "https://media.sketchfab.com/models/27576a87663b4d2db042d584ed864e7c/thumbnails/5a657d7ad01547b391766772a3f15aa5/b000a09fb0d14ef190c272a9266290ff.jpeg"
+            }
+        ]
+    },
+    "uid": "27576a87663b4d2db042d584ed864e7c",
+    "uri": "https://api.sketchfab.com/v3/models/27576a87663b4d2db042d584ed864e7c",
+    "user": {
+        "uid": "d85ca153944b44fb93e4648e0cd19d95",
+        "username": "Ermskidder",
+        "displayName": "Master skidder",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Ermskidder",
+        "avatar": {
+            "uid": "1ff8d1b88e5448bdbab5ab021ffbc2f9",
+            "uri": "https://api.sketchfab.com/v3/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1092,
+                    "url": "https://media.sketchfab.com/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9/0df94da46da34876ab8a2d633a3c40a3.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1536,
+                    "url": "https://media.sketchfab.com/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9/2d7ca77a23bb47ae94476dcb485252a1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3103,
+                    "url": "https://media.sketchfab.com/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9/21deee91d8814d14a69b05c801901e94.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3527,
+                    "url": "https://media.sketchfab.com/avatars/1ff8d1b88e5448bdbab5ab021ffbc2f9/3985d25ce95c4395b68767d1766f628a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d85ca153944b44fb93e4648e0cd19d95"
+    },
+    "vertexCount": 10084,
+    "viewCount": 86,
+    "viewerUrl": "https://sketchfab.com/3d-models/jaw-gdi-horror-27576a87663b4d2db042d584ed864e7c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 28,
+    "editorUrl": "https://sketchfab.com/models/27576a87663b4d2db042d584ed864e7c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T04:02:15.518563",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 7
+}

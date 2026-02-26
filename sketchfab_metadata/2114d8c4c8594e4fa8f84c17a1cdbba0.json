@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T00:17:37.527180",
+    "embedUrl": "https://sketchfab.com/models/2114d8c4c8594e4fa8f84c17a1cdbba0/embed",
+    "faceCount": 3622,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Door Handle Brass",
+    "publishedAt": "2026-02-22T00:19:41.758864",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "lock",
+            "slug": "lock",
+            "uri": "https://api.sketchfab.com/v3/tags/lock"
+        },
+        {
+            "name": "handle",
+            "slug": "handle",
+            "uri": "https://api.sketchfab.com/v3/tags/handle"
+        },
+        {
+            "name": "brass",
+            "slug": "brass",
+            "uri": "https://api.sketchfab.com/v3/tags/brass"
+        },
+        {
+            "name": "accesories",
+            "slug": "accesories",
+            "uri": "https://api.sketchfab.com/v3/tags/accesories"
+        },
+        {
+            "name": "knob",
+            "slug": "knob",
+            "uri": "https://api.sketchfab.com/v3/tags/knob"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8e10abdb504347db85f977a7ebbda9b7",
+                "width": 1920,
+                "height": 1080,
+                "size": 47342,
+                "url": "https://media.sketchfab.com/models/2114d8c4c8594e4fa8f84c17a1cdbba0/thumbnails/51173af370d84e9bb14d89161d7f825f/572a49363a304b5db8dd84b72d83be97.jpeg"
+            },
+            {
+                "uid": "ce06ea0001d44e28b3ef2a97181f8687",
+                "width": 1024,
+                "height": 576,
+                "size": 14955,
+                "url": "https://media.sketchfab.com/models/2114d8c4c8594e4fa8f84c17a1cdbba0/thumbnails/51173af370d84e9bb14d89161d7f825f/aa492c0911c4495a950359bd0f4cfb09.jpeg"
+            },
+            {
+                "uid": "f5c0414519324a4ea560f0c194da29d8",
+                "width": 720,
+                "height": 405,
+                "size": 8643,
+                "url": "https://media.sketchfab.com/models/2114d8c4c8594e4fa8f84c17a1cdbba0/thumbnails/51173af370d84e9bb14d89161d7f825f/95644e80348a457db0999d5b43aa1112.jpeg"
+            },
+            {
+                "uid": "2932926fa6de46ba82815d1a76ea46a3",
+                "width": 256,
+                "height": 144,
+                "size": 2128,
+                "url": "https://media.sketchfab.com/models/2114d8c4c8594e4fa8f84c17a1cdbba0/thumbnails/51173af370d84e9bb14d89161d7f825f/c444065771c342c39706c83a3fce271e.jpeg"
+            },
+            {
+                "uid": "89f190438a0241f5ad9eea0db83c6b64",
+                "width": 64,
+                "height": 36,
+                "size": 799,
+                "url": "https://media.sketchfab.com/models/2114d8c4c8594e4fa8f84c17a1cdbba0/thumbnails/51173af370d84e9bb14d89161d7f825f/35868df3915c45c9a2f793ab7714c8c1.jpeg"
+            }
+        ]
+    },
+    "uid": "2114d8c4c8594e4fa8f84c17a1cdbba0",
+    "uri": "https://api.sketchfab.com/v3/models/2114d8c4c8594e4fa8f84c17a1cdbba0",
+    "user": {
+        "uid": "117074d7b7b142c8b3e66b578cb599be",
+        "username": "gubulpomy1978",
+        "displayName": "gubulpomy1978",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/gubulpomy1978",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/117074d7b7b142c8b3e66b578cb599be"
+    },
+    "vertexCount": 2041,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/door-handle-brass-2114d8c4c8594e4fa8f84c17a1cdbba0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the source format.The converted file is intended exclusively for browser preview. In the original file, the following are fully preserved:✔ native scene structure✔ all materials without simplification✔ accurate texture maps✔ proper object namingIf you are going to integrate the model into a project, choose the original version.Door handle and lock made of brass. 2k textures channel packed. Lowpoly",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/2114d8c4c8594e4fa8f84c17a1cdbba0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T00:19:42.082012",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

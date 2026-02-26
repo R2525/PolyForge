@@ -1,0 +1,135 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-11-01T18:09:32.820715",
+    "embedUrl": "https://sketchfab.com/models/1056d8046b83478098d806c0bfe976da/embed",
+    "faceCount": 168,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Death Guard - Plaguebearer [WH40K]",
+    "publishedAt": "2025-11-01T18:12:19.951080",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "deathguard",
+            "slug": "deathguard",
+            "uri": "https://api.sketchfab.com/v3/tags/deathguard"
+        },
+        {
+            "name": "plaguebearer",
+            "slug": "plaguebearer",
+            "uri": "https://api.sketchfab.com/v3/tags/plaguebearer"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "fe7c3e73bdb64dc99652fca7efe17b3b",
+                "width": 1920,
+                "height": 1080,
+                "size": 82963,
+                "url": "https://media.sketchfab.com/models/1056d8046b83478098d806c0bfe976da/thumbnails/33a309bc45be4640b08d60c82ca62efb/22b522f4c1fc4b319db2a6c3c9332a04.jpeg"
+            },
+            {
+                "uid": "789cb6ec90b5471c83812ef2c6dfd124",
+                "width": 1024,
+                "height": 576,
+                "size": 28706,
+                "url": "https://media.sketchfab.com/models/1056d8046b83478098d806c0bfe976da/thumbnails/33a309bc45be4640b08d60c82ca62efb/519bcdc70c3243c7b722d2b0955253dc.jpeg"
+            },
+            {
+                "uid": "835a98ef9a23497e857230335b7a528b",
+                "width": 720,
+                "height": 405,
+                "size": 17029,
+                "url": "https://media.sketchfab.com/models/1056d8046b83478098d806c0bfe976da/thumbnails/33a309bc45be4640b08d60c82ca62efb/28ce2052b0824ffa91f255be051beca7.jpeg"
+            },
+            {
+                "uid": "e85735a3d6a0415a99cea82ba76f0f23",
+                "width": 256,
+                "height": 144,
+                "size": 3699,
+                "url": "https://media.sketchfab.com/models/1056d8046b83478098d806c0bfe976da/thumbnails/33a309bc45be4640b08d60c82ca62efb/7e48252de29b4ff0a54b45b505398dbc.jpeg"
+            },
+            {
+                "uid": "b68d04057ece42648463bccc9228b454",
+                "width": 64,
+                "height": 36,
+                "size": 976,
+                "url": "https://media.sketchfab.com/models/1056d8046b83478098d806c0bfe976da/thumbnails/33a309bc45be4640b08d60c82ca62efb/696e1b96cca34fcfba2bd20d0c32d1bf.jpeg"
+            }
+        ]
+    },
+    "uid": "1056d8046b83478098d806c0bfe976da",
+    "uri": "https://api.sketchfab.com/v3/models/1056d8046b83478098d806c0bfe976da",
+    "user": {
+        "uid": "dfe8d25e07c54bca953577e340d3426f",
+        "username": "PJModels",
+        "displayName": "PijonskiMC",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/PJModels",
+        "avatar": {
+            "uid": "067e88f5e3844b32a4b6f090ce990901",
+            "uri": "https://api.sketchfab.com/v3/avatars/067e88f5e3844b32a4b6f090ce990901",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1632,
+                    "url": "https://media.sketchfab.com/avatars/067e88f5e3844b32a4b6f090ce990901/687380d028424519b983e13c9b4c5039.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2919,
+                    "url": "https://media.sketchfab.com/avatars/067e88f5e3844b32a4b6f090ce990901/ca6e09ec473f4b7e9e1d5936471a942e.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 6971,
+                    "url": "https://media.sketchfab.com/avatars/067e88f5e3844b32a4b6f090ce990901/e7bea44929c14b0a9bab28b1b4e11d23.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 8061,
+                    "url": "https://media.sketchfab.com/avatars/067e88f5e3844b32a4b6f090ce990901/4597ff57312f48e4a2a339f7c205a6e7.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dfe8d25e07c54bca953577e340d3426f"
+    },
+    "vertexCount": 112,
+    "viewCount": 23,
+    "viewerUrl": "https://sketchfab.com/3d-models/death-guard-plaguebearer-wh40k-1056d8046b83478098d806c0bfe976da",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1056d8046b83478098d806c0bfe976da/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-01T18:12:59.570412",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

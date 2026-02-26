@@ -1,0 +1,224 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-17T21:50:58.023082",
+    "embedUrl": "https://sketchfab.com/models/0428afbd123349fe9f04c4b1197b38c9/embed",
+    "faceCount": 22354,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Medieval Stone relief (LOTR)",
+    "publishedAt": "2026-01-17T23:22:11.447704",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "lotr",
+            "slug": "lotr",
+            "uri": "https://api.sketchfab.com/v3/tags/lotr"
+        },
+        {
+            "name": "carving",
+            "slug": "carving",
+            "uri": "https://api.sketchfab.com/v3/tags/carving"
+        },
+        {
+            "name": "King",
+            "slug": "king",
+            "uri": "https://api.sketchfab.com/v3/tags/king"
+        },
+        {
+            "name": "statue",
+            "slug": "statue",
+            "uri": "https://api.sketchfab.com/v3/tags/statue"
+        },
+        {
+            "name": "Lordoftherings",
+            "slug": "lordoftherings",
+            "uri": "https://api.sketchfab.com/v3/tags/lordoftherings"
+        },
+        {
+            "name": "stone-carving",
+            "slug": "stone-carving",
+            "uri": "https://api.sketchfab.com/v3/tags/stone-carving"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "lotr-fantasy",
+            "slug": "lotr-fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/lotr-fantasy"
+        },
+        {
+            "name": "minas-morgul",
+            "slug": "minas-morgul",
+            "uri": "https://api.sketchfab.com/v3/tags/minas-morgul"
+        },
+        {
+            "name": "stonerelief",
+            "slug": "stonerelief",
+            "uri": "https://api.sketchfab.com/v3/tags/stonerelief"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e36b6c7465e943179fc430cefeeeffc6",
+                "width": 1920,
+                "height": 1080,
+                "size": 204450,
+                "url": "https://media.sketchfab.com/models/0428afbd123349fe9f04c4b1197b38c9/thumbnails/a1876bce0d9849b086121574ea7ce215/a6ca9bf44a8442b3989a98cc1e8ee11f.jpeg"
+            },
+            {
+                "uid": "816aa22ecc1a482282a091176e32fb6a",
+                "width": 1024,
+                "height": 576,
+                "size": 49620,
+                "url": "https://media.sketchfab.com/models/0428afbd123349fe9f04c4b1197b38c9/thumbnails/a1876bce0d9849b086121574ea7ce215/273d8d0f52cb4f829a14a550f44370ba.jpeg"
+            },
+            {
+                "uid": "29451b25ce704b19ac284420fa752bbd",
+                "width": 720,
+                "height": 405,
+                "size": 26538,
+                "url": "https://media.sketchfab.com/models/0428afbd123349fe9f04c4b1197b38c9/thumbnails/a1876bce0d9849b086121574ea7ce215/ac868d6c11a84d9385a887f2bf8cfac6.jpeg"
+            },
+            {
+                "uid": "e4c6e556e1c04475893b7f65dc3bdaa6",
+                "width": 256,
+                "height": 144,
+                "size": 4980,
+                "url": "https://media.sketchfab.com/models/0428afbd123349fe9f04c4b1197b38c9/thumbnails/a1876bce0d9849b086121574ea7ce215/bad0c83b78244b6fb92ce71b1cf81a7d.jpeg"
+            },
+            {
+                "uid": "b9d9ebcb68de460f97c63b9c899b33a6",
+                "width": 64,
+                "height": 36,
+                "size": 1133,
+                "url": "https://media.sketchfab.com/models/0428afbd123349fe9f04c4b1197b38c9/thumbnails/a1876bce0d9849b086121574ea7ce215/b17ec5ce94804460b1724ce82998f2eb.jpeg"
+            }
+        ]
+    },
+    "uid": "0428afbd123349fe9f04c4b1197b38c9",
+    "uri": "https://api.sketchfab.com/v3/models/0428afbd123349fe9f04c4b1197b38c9",
+    "user": {
+        "uid": "c0a1173ece6b4ce298b34db4c0af7a42",
+        "username": "Tom.Jansen1",
+        "displayName": "teej_fbx",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Tom.Jansen1",
+        "avatar": {
+            "uid": "726188a8cdfe47a39b512bd6f0945cec",
+            "uri": "https://api.sketchfab.com/v3/avatars/726188a8cdfe47a39b512bd6f0945cec",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1003,
+                    "url": "https://media.sketchfab.com/avatars/726188a8cdfe47a39b512bd6f0945cec/5ffb37ed6f2048d2be8c512d2d98bb16.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1400,
+                    "url": "https://media.sketchfab.com/avatars/726188a8cdfe47a39b512bd6f0945cec/44af1451a7564fad8a24146bb42baabd.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2954,
+                    "url": "https://media.sketchfab.com/avatars/726188a8cdfe47a39b512bd6f0945cec/ca2dc57e40984823bc18f43827cfbbf3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3359,
+                    "url": "https://media.sketchfab.com/avatars/726188a8cdfe47a39b512bd6f0945cec/8f80425251904188897fb002b49af3ee.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c0a1173ece6b4ce298b34db4c0af7a42"
+    },
+    "vertexCount": 12484,
+    "viewCount": 32,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-stone-relief-lotr-0428afbd123349fe9f04c4b1197b38c9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "# Medieval stone relief\n\nRecreation of the stone reliefs either side of the gates of Minas Morgul for a project I'm working on. Decided to re-texture it in marble and add a frame as this can be widely used in any fantasy/medieval projects. \n\nMesh has been decimated as much as possible without losing detail, then normals of the high poly meshes baked back in. The frame is a separate mesh so you can easily separate them.\n\n**Available now** on my Fab store for the low low price of **only $3.99!** Go and catch you a piece! Link: https://www.fab.com/listings/544a6924-6d73-48c6-ae6b-d3dd7e16a646\n\nModeled, sculpted and textured in blender.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/0428afbd123349fe9f04c4b1197b38c9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-18T19:48:53.433242",
+    "pbrType": null,
+    "textureCount": 6,
+    "materialCount": 2
+}

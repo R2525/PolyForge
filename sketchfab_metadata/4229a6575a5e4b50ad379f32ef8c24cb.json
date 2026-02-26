@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T08:44:30.779012",
+    "embedUrl": "https://sketchfab.com/models/4229a6575a5e4b50ad379f32ef8c24cb/embed",
+    "faceCount": 92624,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Penumbra the sword of death",
+    "publishedAt": "2026-02-25T08:48:00.888239",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "death",
+            "slug": "death",
+            "uri": "https://api.sketchfab.com/v3/tags/death"
+        },
+        {
+            "name": "fantasyweapon",
+            "slug": "fantasyweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyweapon"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0ac2a5c9b7f04d2b9db09f282c137e13",
+                "width": 1920,
+                "height": 1080,
+                "size": 49156,
+                "url": "https://media.sketchfab.com/models/4229a6575a5e4b50ad379f32ef8c24cb/thumbnails/84b763912da245ce9bf543aba9266531/8d1a952b2e8447489bce0a36d655436c.jpeg"
+            },
+            {
+                "uid": "4068195c264b4d09b62fcf48b289bf50",
+                "width": 1024,
+                "height": 576,
+                "size": 16478,
+                "url": "https://media.sketchfab.com/models/4229a6575a5e4b50ad379f32ef8c24cb/thumbnails/84b763912da245ce9bf543aba9266531/0337b0bf8378432eb0356c6abf61e0c5.jpeg"
+            },
+            {
+                "uid": "6f7728df1523455991807c6186759a98",
+                "width": 720,
+                "height": 405,
+                "size": 9675,
+                "url": "https://media.sketchfab.com/models/4229a6575a5e4b50ad379f32ef8c24cb/thumbnails/84b763912da245ce9bf543aba9266531/d7d04baf52ea4f698203f1e7191333e8.jpeg"
+            },
+            {
+                "uid": "b1ccdc0e2c7c44838409ed1d0b76f5bb",
+                "width": 256,
+                "height": 144,
+                "size": 2303,
+                "url": "https://media.sketchfab.com/models/4229a6575a5e4b50ad379f32ef8c24cb/thumbnails/84b763912da245ce9bf543aba9266531/5d97740d0ac145c88dedb0bbdb3a96e5.jpeg"
+            },
+            {
+                "uid": "0c619c1d61144d9294372cd8a7e9ae2a",
+                "width": 64,
+                "height": 36,
+                "size": 876,
+                "url": "https://media.sketchfab.com/models/4229a6575a5e4b50ad379f32ef8c24cb/thumbnails/84b763912da245ce9bf543aba9266531/7ffe646dbac74646b73e6c3742dbe594.jpeg"
+            }
+        ]
+    },
+    "uid": "4229a6575a5e4b50ad379f32ef8c24cb",
+    "uri": "https://api.sketchfab.com/v3/models/4229a6575a5e4b50ad379f32ef8c24cb",
+    "user": {
+        "uid": "f5aee07dc918472e90bd01f6df960f52",
+        "username": "KAOS_S4nt0",
+        "displayName": "KAOS_S4nt0",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/KAOS_S4nt0",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f5aee07dc918472e90bd01f6df960f52"
+    },
+    "vertexCount": 46130,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/penumbra-the-sword-of-death-4229a6575a5e4b50ad379f32ef8c24cb",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Sword with simple topology, modeled after the hilt, upgraded sword at night summons the dead to fight in your place.\nPS I haven't added the textures yet due to financial problems, I'll update them as soon as I can.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/4229a6575a5e4b50ad379f32ef8c24cb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T08:48:01.124604",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 3
+}

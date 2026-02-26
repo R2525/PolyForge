@@ -1,0 +1,67 @@
+{
+    "category": "Cars & Vehicles",
+    "genre": "Vibrant Fantasy",
+    "top_genres": [
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        },
+        {
+            "name": "Victorian",
+            "score": 0.4
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.5
+        },
+        {
+            "name": "Stylized",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "wooden",
+        "wheel",
+        "car",
+        "vehicle",
+        "3D model",
+        "icon",
+        "cartography",
+        "circular"
+    ],
+    "model_id_full": "284f5344058043358bb9dbc70e302c5d_Wooden Wheel",
+    "sketchfab_id": "284f5344058043358bb9dbc70e302c5d",
+    "asset_name": "Wooden Wheel"
+}

@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-18T08:06:57.794077",
+    "embedUrl": "https://sketchfab.com/models/41b612623ee647faa36fb5a97355c01b/embed",
+    "faceCount": 6777,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 7,
+    "name": "Post-apocalyptic two-story house",
+    "publishedAt": "2025-12-18T08:15:51.810627",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "destroyed",
+            "slug": "destroyed",
+            "uri": "https://api.sketchfab.com/v3/tags/destroyed"
+        },
+        {
+            "name": "survive",
+            "slug": "survive",
+            "uri": "https://api.sketchfab.com/v3/tags/survive"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e21e61bc47a84e13ab0c8fd4fcf50b00",
+                "width": 1920,
+                "height": 1080,
+                "size": 535883,
+                "url": "https://media.sketchfab.com/models/41b612623ee647faa36fb5a97355c01b/thumbnails/3b4bf84b1092498c927839b034b70da6/0ab8daa4261a4f3fbc9092edf805c751.jpeg"
+            },
+            {
+                "uid": "896c00dccc7648bf9de223cb11b4b6f5",
+                "width": 1024,
+                "height": 576,
+                "size": 82899,
+                "url": "https://media.sketchfab.com/models/41b612623ee647faa36fb5a97355c01b/thumbnails/3b4bf84b1092498c927839b034b70da6/24ba8353230c4936870ec7035430d056.jpeg"
+            },
+            {
+                "uid": "d590190e63584ff380275b0280b41006",
+                "width": 720,
+                "height": 405,
+                "size": 41463,
+                "url": "https://media.sketchfab.com/models/41b612623ee647faa36fb5a97355c01b/thumbnails/3b4bf84b1092498c927839b034b70da6/2f8d28743d0a44d1bcf57fde788ed401.jpeg"
+            },
+            {
+                "uid": "47be6f48a516463cb2e5149db4d19784",
+                "width": 256,
+                "height": 144,
+                "size": 7121,
+                "url": "https://media.sketchfab.com/models/41b612623ee647faa36fb5a97355c01b/thumbnails/3b4bf84b1092498c927839b034b70da6/e949f0724e2d4605af52716da49ecbd7.jpeg"
+            },
+            {
+                "uid": "54b12eef070d42e4b1bde76c1e275db3",
+                "width": 64,
+                "height": 36,
+                "size": 1329,
+                "url": "https://media.sketchfab.com/models/41b612623ee647faa36fb5a97355c01b/thumbnails/3b4bf84b1092498c927839b034b70da6/ed8a550b6ed74730b52c7e5f7c97e677.jpeg"
+            }
+        ]
+    },
+    "uid": "41b612623ee647faa36fb5a97355c01b",
+    "uri": "https://api.sketchfab.com/v3/models/41b612623ee647faa36fb5a97355c01b",
+    "user": {
+        "uid": "315009c06a3d459e952dbfbd3c627cdb",
+        "username": "alpen",
+        "displayName": "alpenwolf",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alpen",
+        "avatar": {
+            "uid": "1cc81f55a2cf4a4db0c1ff81c2a5609f",
+            "uri": "https://api.sketchfab.com/v3/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3506,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/c0e01e1a7eed4324951fd6febf97b6d1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3049,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/0978b6cc84634b1abdb025d05f9eab57.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1349,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/dcb15b61611a48009f5ed3d789e7b6f6.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 874,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/f427dd2996ed43ca973c7e13b8daf132.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/315009c06a3d459e952dbfbd3c627cdb"
+    },
+    "vertexCount": 4435,
+    "viewCount": 117,
+    "viewerUrl": "https://sketchfab.com/3d-models/post-apocalyptic-two-story-house-41b612623ee647faa36fb5a97355c01b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/41b612623ee647faa36fb5a97355c01b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-18T08:15:51.962592",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

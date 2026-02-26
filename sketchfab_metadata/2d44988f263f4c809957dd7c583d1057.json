@@ -1,0 +1,128 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T08:03:04.378329",
+    "embedUrl": "https://sketchfab.com/models/2d44988f263f4c809957dd7c583d1057/embed",
+    "faceCount": 52868,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "PLATE05_DECORATIVE_JOYCE GARFIN",
+    "publishedAt": "2026-02-17T08:04:27.234968",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7719c97744d34f20b8170797e63cea2c",
+                "width": 448,
+                "height": 280,
+                "size": 5925,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/448.jpg"
+            },
+            {
+                "uid": "a6b20474be7c402db8f8a5a6b9ff4730",
+                "width": 200,
+                "height": 200,
+                "size": 2275,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/200x200.jpg"
+            },
+            {
+                "uid": "98095b18341b4f49affb313ad9843d70",
+                "width": 100,
+                "height": 100,
+                "size": 841,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/100x100.jpg"
+            },
+            {
+                "uid": "af9d9afad4f1427a8a6e68dffa18c236",
+                "width": 50,
+                "height": 50,
+                "size": 421,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/50x50.jpg"
+            },
+            {
+                "uid": "b0855968e7eb4421b1d57761d0f2e2f1",
+                "width": 640,
+                "height": 400,
+                "size": 12257,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/640.jpg"
+            },
+            {
+                "uid": "4cfc787dbb4a4a0190430bca9721c6cf",
+                "width": 1024,
+                "height": 640,
+                "size": 28643,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/1024.jpg"
+            },
+            {
+                "uid": "bdbd1b7885db45ba959aede0fd468199",
+                "width": 854,
+                "height": 534,
+                "size": 21153,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/854.jpg"
+            }
+        ]
+    },
+    "uid": "2d44988f263f4c809957dd7c583d1057",
+    "uri": "https://api.sketchfab.com/v3/models/2d44988f263f4c809957dd7c583d1057",
+    "user": {
+        "uid": "8ef3f5c79aab42f2b74f95952b57c793",
+        "username": "xuvi",
+        "displayName": "Joyce Garfin",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/xuvi",
+        "avatar": {
+            "uid": "fa50e2106892443e9ecc8946547718d6",
+            "uri": "https://api.sketchfab.com/v3/avatars/fa50e2106892443e9ecc8946547718d6",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1112,
+                    "url": "https://media.sketchfab.com/avatars/fa50e2106892443e9ecc8946547718d6/a4eac9ee264f4f65a3b009a5d404a456.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1444,
+                    "url": "https://media.sketchfab.com/avatars/fa50e2106892443e9ecc8946547718d6/57c968a286ee4b63bc6170bf3d8a6fbd.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2878,
+                    "url": "https://media.sketchfab.com/avatars/fa50e2106892443e9ecc8946547718d6/aa1eef0420b94d83b40a66ed625b6a59.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3296,
+                    "url": "https://media.sketchfab.com/avatars/fa50e2106892443e9ecc8946547718d6/14874ce1291e4c6fa1b26fb84e9bee47.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8ef3f5c79aab42f2b74f95952b57c793"
+    },
+    "vertexCount": 26522,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/plate05-decorative-joyce-garfin-2d44988f263f4c809957dd7c583d1057",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A 3D model of a basket set in a dystopian cyberpunk universe. It features a scrap of metal put together on the basket showcasing a narrative of the basket being possibly worn out throughout the years. Paddings are on the bottom to show how a simple piece of container to hold things has adapted to the setting. Add-ons featured are: a screen on top of the basket showing what is inside and a pair of ON and OFF buttons for the cover. Decorative engravings features are symbols next to the button to signify which is which. Objects are smoothened.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2d44988f263f4c809957dd7c583d1057/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-17T08:04:27.360074",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

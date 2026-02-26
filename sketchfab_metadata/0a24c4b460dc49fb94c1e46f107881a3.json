@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-31T10:23:42.563663",
+    "embedUrl": "https://sketchfab.com/models/0a24c4b460dc49fb94c1e46f107881a3/embed",
+    "faceCount": 88,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "red green apple lowpoly",
+    "publishedAt": "2026-01-31T10:27:39.912200",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "food",
+            "slug": "food",
+            "uri": "https://api.sketchfab.com/v3/tags/food"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "fruits",
+            "slug": "fruits",
+            "uri": "https://api.sketchfab.com/v3/tags/fruits"
+        },
+        {
+            "name": "lowquality",
+            "slug": "lowquality",
+            "uri": "https://api.sketchfab.com/v3/tags/lowquality"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a3ddd63829f149fb8b3299051d079a03",
+                "width": 1920,
+                "height": 1080,
+                "size": 78203,
+                "url": "https://media.sketchfab.com/models/0a24c4b460dc49fb94c1e46f107881a3/thumbnails/1f4283f1140a4c34a7a2e16c095e69ce/432424c6e6f94c5e8f02f17a34057899.jpeg"
+            },
+            {
+                "uid": "a96f58b59c294249a15034be23659113",
+                "width": 1024,
+                "height": 576,
+                "size": 27108,
+                "url": "https://media.sketchfab.com/models/0a24c4b460dc49fb94c1e46f107881a3/thumbnails/1f4283f1140a4c34a7a2e16c095e69ce/c15ecf07b1c9409f907e48f163d46490.jpeg"
+            },
+            {
+                "uid": "f2432e6f127246e2bf9425fc9305819d",
+                "width": 720,
+                "height": 405,
+                "size": 16251,
+                "url": "https://media.sketchfab.com/models/0a24c4b460dc49fb94c1e46f107881a3/thumbnails/1f4283f1140a4c34a7a2e16c095e69ce/31276177f047445499765ca3e2e3a239.jpeg"
+            },
+            {
+                "uid": "4dfcca4be15240429ce2d4e473761741",
+                "width": 256,
+                "height": 144,
+                "size": 3724,
+                "url": "https://media.sketchfab.com/models/0a24c4b460dc49fb94c1e46f107881a3/thumbnails/1f4283f1140a4c34a7a2e16c095e69ce/fad8de4ab52544e988216bd247e7db0c.jpeg"
+            },
+            {
+                "uid": "3a1c48a5113b459d8bcc6c5bb99c6020",
+                "width": 64,
+                "height": 36,
+                "size": 1064,
+                "url": "https://media.sketchfab.com/models/0a24c4b460dc49fb94c1e46f107881a3/thumbnails/1f4283f1140a4c34a7a2e16c095e69ce/ae3e83b3000a446db3941d568fc7abbb.jpeg"
+            }
+        ]
+    },
+    "uid": "0a24c4b460dc49fb94c1e46f107881a3",
+    "uri": "https://api.sketchfab.com/v3/models/0a24c4b460dc49fb94c1e46f107881a3",
+    "user": {
+        "uid": "f376441a9a8a48d78215c1edbc482878",
+        "username": "FlanCentona",
+        "displayName": "писькоплёт",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/FlanCentona",
+        "avatar": {
+            "uid": "6f2f7f01f6c64e6184c295fa7c4c55b0",
+            "uri": "https://api.sketchfab.com/v3/avatars/6f2f7f01f6c64e6184c295fa7c4c55b0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1151,
+                    "url": "https://media.sketchfab.com/avatars/6f2f7f01f6c64e6184c295fa7c4c55b0/c8531ba440904dab8fc38b48a2eb05dd.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1616,
+                    "url": "https://media.sketchfab.com/avatars/6f2f7f01f6c64e6184c295fa7c4c55b0/245c597b7cba4aae8a6ab9ba230b557c.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3652,
+                    "url": "https://media.sketchfab.com/avatars/6f2f7f01f6c64e6184c295fa7c4c55b0/cfc53fcfc7ab42d391162328364f33da.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4259,
+                    "url": "https://media.sketchfab.com/avatars/6f2f7f01f6c64e6184c295fa7c4c55b0/eeffa569cda744d3bcca2c22fee7a2f3.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f376441a9a8a48d78215c1edbc482878"
+    },
+    "vertexCount": 46,
+    "viewCount": 21,
+    "viewerUrl": "https://sketchfab.com/3d-models/red-green-apple-lowpoly-0a24c4b460dc49fb94c1e46f107881a3",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "freaking seam. tho notbad.",
+    "price": null,
+    "downloadCount": 8,
+    "editorUrl": "https://sketchfab.com/models/0a24c4b460dc49fb94c1e46f107881a3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-31T10:27:40.100173",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

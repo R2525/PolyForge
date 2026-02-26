@@ -1,0 +1,67 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Classical",
+            "score": 0.8
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Traditional",
+            "score": 0.6
+        },
+        {
+            "name": "Elegant",
+            "score": 0.5
+        }
+    ],
+    "style": "Hand-painted Stylized",
+    "top_styles": [
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Art Deco",
+            "score": 0.6
+        },
+        {
+            "name": "Traditional",
+            "score": 0.5
+        },
+        {
+            "name": "Geometric",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Dusty",
+        "Weathered",
+        "Mossy"
+    ],
+    "tags": [
+        "carpet",
+        "rug",
+        "oriental",
+        "medieval",
+        "furniture",
+        "home",
+        "art",
+        "design"
+    ],
+    "model_id_full": "3b21fb92803448a8ae72471bf4f39144_Game Ready Carpet",
+    "sketchfab_id": "3b21fb92803448a8ae72471bf4f39144",
+    "asset_name": "Game Ready Carpet"
+}

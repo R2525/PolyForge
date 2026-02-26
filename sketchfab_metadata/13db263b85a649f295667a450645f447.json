@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T23:53:02.918331",
+    "embedUrl": "https://sketchfab.com/models/13db263b85a649f295667a450645f447/embed",
+    "faceCount": 12,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Minecraft Gear",
+    "publishedAt": "2026-02-22T23:53:14.654467",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "gear",
+            "slug": "gear",
+            "uri": "https://api.sketchfab.com/v3/tags/gear"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "783e4f26b0f04c28b3b9347b46d8d872",
+                "width": 1920,
+                "height": 1080,
+                "size": 57506,
+                "url": "https://media.sketchfab.com/models/13db263b85a649f295667a450645f447/thumbnails/c15498bd79854abe812074722ac0c3a9/768aaa5d450847fb8cba8d245231f846.jpeg"
+            },
+            {
+                "uid": "f0ce0d3bf0ee43faa83d7673c2ae41f9",
+                "width": 1024,
+                "height": 576,
+                "size": 21964,
+                "url": "https://media.sketchfab.com/models/13db263b85a649f295667a450645f447/thumbnails/c15498bd79854abe812074722ac0c3a9/428efa3839e042c8a8e511b4838e5d11.jpeg"
+            },
+            {
+                "uid": "410aca6e551b48e6bbb3e55f9765d26e",
+                "width": 720,
+                "height": 405,
+                "size": 13587,
+                "url": "https://media.sketchfab.com/models/13db263b85a649f295667a450645f447/thumbnails/c15498bd79854abe812074722ac0c3a9/a298e7bb601849e5a96bed7272ba4d06.jpeg"
+            },
+            {
+                "uid": "bfd5392170bc4e71a30b1549063b0e90",
+                "width": 256,
+                "height": 144,
+                "size": 3678,
+                "url": "https://media.sketchfab.com/models/13db263b85a649f295667a450645f447/thumbnails/c15498bd79854abe812074722ac0c3a9/a46ede637ee94a93ae8d54b74be33b73.jpeg"
+            },
+            {
+                "uid": "0ffb483cdaac4612a370b987e2931e16",
+                "width": 64,
+                "height": 36,
+                "size": 1046,
+                "url": "https://media.sketchfab.com/models/13db263b85a649f295667a450645f447/thumbnails/c15498bd79854abe812074722ac0c3a9/42f42a846ddb4b7d91e4aa128db50be1.jpeg"
+            }
+        ]
+    },
+    "uid": "13db263b85a649f295667a450645f447",
+    "uri": "https://api.sketchfab.com/v3/models/13db263b85a649f295667a450645f447",
+    "user": {
+        "uid": "906079d01d07435589fecab3b6f14d70",
+        "username": "Ennismore",
+        "displayName": "Ennismore",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Ennismore",
+        "avatar": {
+            "uid": "7f451b0c95b14e73887fb632a0e0be00",
+            "uri": "https://api.sketchfab.com/v3/avatars/7f451b0c95b14e73887fb632a0e0be00",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 701,
+                    "url": "https://media.sketchfab.com/avatars/7f451b0c95b14e73887fb632a0e0be00/98e6e57fd0a34b33ae0147d67e796ff2.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 529,
+                    "url": "https://media.sketchfab.com/avatars/7f451b0c95b14e73887fb632a0e0be00/15a1839e9e2640b297476de2ce0297a8.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1235,
+                    "url": "https://media.sketchfab.com/avatars/7f451b0c95b14e73887fb632a0e0be00/d25b7c253cab4423bc3b84879d959150.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1336,
+                    "url": "https://media.sketchfab.com/avatars/7f451b0c95b14e73887fb632a0e0be00/ae542ad37df94af7a182217a93eb895d.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/906079d01d07435589fecab3b6f14d70"
+    },
+    "vertexCount": 16,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/minecraft-gear-13db263b85a649f295667a450645f447",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Ah, the Gear! A spinny alternative to Redstone wires, before they were even added! These Gears only existed from in-20100128-2200 to in-20100130!",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/13db263b85a649f295667a450645f447/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T23:56:22.629545",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

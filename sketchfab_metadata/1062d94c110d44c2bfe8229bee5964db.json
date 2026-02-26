@@ -1,0 +1,180 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-12-01T11:05:49.463190",
+    "embedUrl": "https://sketchfab.com/models/1062d94c110d44c2bfe8229bee5964db/embed",
+    "faceCount": 756,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "E11 StormtrooperBlaster",
+    "publishedAt": "2025-12-01T11:13:00.677695",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blaster",
+            "slug": "blaster",
+            "uri": "https://api.sketchfab.com/v3/tags/blaster"
+        },
+        {
+            "name": "starwarsfanart",
+            "slug": "starwarsfanart",
+            "uri": "https://api.sketchfab.com/v3/tags/starwarsfanart"
+        },
+        {
+            "name": "starwarsblaster",
+            "slug": "starwarsblaster",
+            "uri": "https://api.sketchfab.com/v3/tags/starwarsblaster"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "blaster-gun",
+            "slug": "blaster-gun",
+            "uri": "https://api.sketchfab.com/v3/tags/blaster-gun"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "hytale",
+            "slug": "hytale",
+            "uri": "https://api.sketchfab.com/v3/tags/hytale"
+        },
+        {
+            "name": "hytalefanart",
+            "slug": "hytalefanart",
+            "uri": "https://api.sketchfab.com/v3/tags/hytalefanart"
+        },
+        {
+            "name": "hytale_design",
+            "slug": "hytale_design",
+            "uri": "https://api.sketchfab.com/v3/tags/hytale_design"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "337cdcf02e8e4f098f98c45451bc2e6f",
+                "width": 1920,
+                "height": 1080,
+                "size": 321535,
+                "url": "https://media.sketchfab.com/models/1062d94c110d44c2bfe8229bee5964db/thumbnails/3245730e02464cd38ef2ac96f2ca4f21/dc843114054c496ea11c2efccc58043d.jpeg"
+            },
+            {
+                "uid": "5fbfced568a3411e88aee9198f1cb435",
+                "width": 1024,
+                "height": 576,
+                "size": 29603,
+                "url": "https://media.sketchfab.com/models/1062d94c110d44c2bfe8229bee5964db/thumbnails/3245730e02464cd38ef2ac96f2ca4f21/0134c1c5507b496c9ffcbb5c31af22f3.jpeg"
+            },
+            {
+                "uid": "5b0631b4619a44ae8f308fc85dd9c7fa",
+                "width": 720,
+                "height": 405,
+                "size": 16344,
+                "url": "https://media.sketchfab.com/models/1062d94c110d44c2bfe8229bee5964db/thumbnails/3245730e02464cd38ef2ac96f2ca4f21/b6e1ab05bdbf4e6ebc09fd2f7649a23f.jpeg"
+            },
+            {
+                "uid": "fa3583604c0141a7b78e2214f8b83d66",
+                "width": 256,
+                "height": 144,
+                "size": 3862,
+                "url": "https://media.sketchfab.com/models/1062d94c110d44c2bfe8229bee5964db/thumbnails/3245730e02464cd38ef2ac96f2ca4f21/f3be6cc7070d4b5abc4ee926e3116897.jpeg"
+            },
+            {
+                "uid": "303d1aca0210455dbf13ec0b107e9730",
+                "width": 64,
+                "height": 36,
+                "size": 1109,
+                "url": "https://media.sketchfab.com/models/1062d94c110d44c2bfe8229bee5964db/thumbnails/3245730e02464cd38ef2ac96f2ca4f21/d88a39efcfd2454d9b4c8f0d0692f8d6.jpeg"
+            }
+        ]
+    },
+    "uid": "1062d94c110d44c2bfe8229bee5964db",
+    "uri": "https://api.sketchfab.com/v3/models/1062d94c110d44c2bfe8229bee5964db",
+    "user": {
+        "uid": "c040d1c145eb4f91b054ca818984934c",
+        "username": "WalterBalderII",
+        "displayName": "WalterBalderII",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/WalterBalderII",
+        "avatar": {
+            "uid": "fcd116114bbc442a8de6ee9e14d48f1d",
+            "uri": "https://api.sketchfab.com/v3/avatars/fcd116114bbc442a8de6ee9e14d48f1d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1108,
+                    "url": "https://media.sketchfab.com/avatars/fcd116114bbc442a8de6ee9e14d48f1d/86c40326e98340bb87cc8c49e315aaeb.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1592,
+                    "url": "https://media.sketchfab.com/avatars/fcd116114bbc442a8de6ee9e14d48f1d/fe7a4de57128445eb2d83e2294b72a89.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3404,
+                    "url": "https://media.sketchfab.com/avatars/fcd116114bbc442a8de6ee9e14d48f1d/6b6d963b9c004626aa01c21e6fbd3224.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3941,
+                    "url": "https://media.sketchfab.com/avatars/fcd116114bbc442a8de6ee9e14d48f1d/a956260d9997447ea80201c7d191c745.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c040d1c145eb4f91b054ca818984934c"
+    },
+    "vertexCount": 504,
+    "viewCount": 79,
+    "viewerUrl": "https://sketchfab.com/3d-models/e11-stormtrooperblaster-1062d94c110d44c2bfe8229bee5964db",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "For a hytale mod that covers Star Wars",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1062d94c110d44c2bfe8229bee5964db/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-01T14:58:00.950589",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

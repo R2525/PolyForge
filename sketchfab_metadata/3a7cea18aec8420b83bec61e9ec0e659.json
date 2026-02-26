@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-14T13:58:08.822540",
+    "embedUrl": "https://sketchfab.com/models/3a7cea18aec8420b83bec61e9ec0e659/embed",
+    "faceCount": 782664,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Fleur-de-Lis Knight on Blue Warhorse",
+    "publishedAt": "2026-02-14T13:58:36.688654",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "warhorse",
+            "slug": "warhorse",
+            "uri": "https://api.sketchfab.com/v3/tags/warhorse"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a2fa3100cd8045b5af9c679fc1dde75c",
+                "width": 1920,
+                "height": 1080,
+                "size": 66498,
+                "url": "https://media.sketchfab.com/models/3a7cea18aec8420b83bec61e9ec0e659/thumbnails/33859a9b8d05460882e210438eb83930/11fa9c07dee24023ba67d3f4a508225b.jpeg"
+            },
+            {
+                "uid": "13869f616093458e9947a5bc5da1b99c",
+                "width": 1024,
+                "height": 576,
+                "size": 21528,
+                "url": "https://media.sketchfab.com/models/3a7cea18aec8420b83bec61e9ec0e659/thumbnails/33859a9b8d05460882e210438eb83930/3f4b3c1aa39a4fdb96b97fd4952d938f.jpeg"
+            },
+            {
+                "uid": "ece6a83bf3b2420b875ba083e8ac6378",
+                "width": 720,
+                "height": 405,
+                "size": 12145,
+                "url": "https://media.sketchfab.com/models/3a7cea18aec8420b83bec61e9ec0e659/thumbnails/33859a9b8d05460882e210438eb83930/e8e7f50ed8ba4f28a6674838d98968db.jpeg"
+            },
+            {
+                "uid": "95b4941399224cc597701aea65eabb4c",
+                "width": 256,
+                "height": 144,
+                "size": 2469,
+                "url": "https://media.sketchfab.com/models/3a7cea18aec8420b83bec61e9ec0e659/thumbnails/33859a9b8d05460882e210438eb83930/f96dae6235fe4fc3823bd1a9a4bc53e0.jpeg"
+            },
+            {
+                "uid": "d89635612d614870b36f7890e9a18cbb",
+                "width": 64,
+                "height": 36,
+                "size": 818,
+                "url": "https://media.sketchfab.com/models/3a7cea18aec8420b83bec61e9ec0e659/thumbnails/33859a9b8d05460882e210438eb83930/53b8629046004d0a851ee0839dce82dc.jpeg"
+            }
+        ]
+    },
+    "uid": "3a7cea18aec8420b83bec61e9ec0e659",
+    "uri": "https://api.sketchfab.com/v3/models/3a7cea18aec8420b83bec61e9ec0e659",
+    "user": {
+        "uid": "6722833a13c24b54af9757e64201cbfe",
+        "username": "kmkrtchyan70",
+        "displayName": "Ded Makar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kmkrtchyan70",
+        "avatar": {
+            "uid": "e426f8f1bdcc46e0a45fa572af73859a",
+            "uri": "https://api.sketchfab.com/v3/avatars/e426f8f1bdcc46e0a45fa572af73859a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1182,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/efb9a0da56c64d7b8c866671a862673a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1673,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01b13b16a4c84c0da2a7b25e9d870279.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3615,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/883afddce77a4ecf9d2d26c8dc259872.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4214,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01042899c933428d8a46f9387a1c5717.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6722833a13c24b54af9757e64201cbfe"
+    },
+    "vertexCount": 391290,
+    "viewCount": 29,
+    "viewerUrl": "https://sketchfab.com/3d-models/fleur-de-lis-knight-on-blue-warhorse-3a7cea18aec8420b83bec61e9ec0e659",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/FleurdeLis-Knight-on-Blue-Warhorse-v2-019c5c6d-b65f-7d07-83fa-82daba823486?utm_source=sketchfab](https://www.meshy.ai/3d-models/FleurdeLis-Knight-on-Blue-Warhorse-v2-019c5c6d-b65f-7d07-83fa-82daba823486?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 17,
+    "editorUrl": "https://sketchfab.com/models/3a7cea18aec8420b83bec61e9ec0e659/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-14T14:04:03.613699",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

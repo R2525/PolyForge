@@ -1,0 +1,221 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T08:05:59.549401",
+    "embedUrl": "https://sketchfab.com/models/31791f4ba3d74f8b9e574d4a5805843b/embed",
+    "faceCount": 806,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Simple low poly high quality house",
+    "publishedAt": "2026-02-24T08:14:16.475205",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "soviet",
+            "slug": "soviet",
+            "uri": "https://api.sketchfab.com/v3/tags/soviet"
+        },
+        {
+            "name": "apartments",
+            "slug": "apartments",
+            "uri": "https://api.sketchfab.com/v3/tags/apartments"
+        },
+        {
+            "name": "residential",
+            "slug": "residential",
+            "uri": "https://api.sketchfab.com/v3/tags/residential"
+        },
+        {
+            "name": "buildings",
+            "slug": "buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/buildings"
+        },
+        {
+            "name": "many",
+            "slug": "many",
+            "uri": "https://api.sketchfab.com/v3/tags/many"
+        },
+        {
+            "name": "houses",
+            "slug": "houses",
+            "uri": "https://api.sketchfab.com/v3/tags/houses"
+        },
+        {
+            "name": "apartment",
+            "slug": "apartment",
+            "uri": "https://api.sketchfab.com/v3/tags/apartment"
+        },
+        {
+            "name": "high-quality",
+            "slug": "high-quality",
+            "uri": "https://api.sketchfab.com/v3/tags/high-quality"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "row-house",
+            "slug": "row-house",
+            "uri": "https://api.sketchfab.com/v3/tags/row-house"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9195207a942d4d7889ce44d7cf8abe0f",
+                "width": 1920,
+                "height": 1080,
+                "size": 125238,
+                "url": "https://media.sketchfab.com/models/31791f4ba3d74f8b9e574d4a5805843b/thumbnails/dd3506faa7fe43f197c27f407c21ac20/10be72c9a8444d42881086b5236ca7b1.jpeg"
+            },
+            {
+                "uid": "58411f376b7e4168a664e1bf8f6f16db",
+                "width": 1024,
+                "height": 576,
+                "size": 35131,
+                "url": "https://media.sketchfab.com/models/31791f4ba3d74f8b9e574d4a5805843b/thumbnails/dd3506faa7fe43f197c27f407c21ac20/eadd48684fb242cdbb038b2c4a2398b6.jpeg"
+            },
+            {
+                "uid": "42dddfc29e3147b2b2a4f0c04fdcb2f8",
+                "width": 720,
+                "height": 405,
+                "size": 19533,
+                "url": "https://media.sketchfab.com/models/31791f4ba3d74f8b9e574d4a5805843b/thumbnails/dd3506faa7fe43f197c27f407c21ac20/9f39b46a80aa45bbab6fdf4e8c6ff963.jpeg"
+            },
+            {
+                "uid": "dde71a973c75433db53ec863239e1bbf",
+                "width": 256,
+                "height": 144,
+                "size": 4297,
+                "url": "https://media.sketchfab.com/models/31791f4ba3d74f8b9e574d4a5805843b/thumbnails/dd3506faa7fe43f197c27f407c21ac20/f3725c0839c648a38e4acdcfcdd7a540.jpeg"
+            },
+            {
+                "uid": "148a53645f894814ba5f91fb931959cb",
+                "width": 64,
+                "height": 36,
+                "size": 1101,
+                "url": "https://media.sketchfab.com/models/31791f4ba3d74f8b9e574d4a5805843b/thumbnails/dd3506faa7fe43f197c27f407c21ac20/b1e39fa5581c4d4ebddba9b975e95ba8.jpeg"
+            }
+        ]
+    },
+    "uid": "31791f4ba3d74f8b9e574d4a5805843b",
+    "uri": "https://api.sketchfab.com/v3/models/31791f4ba3d74f8b9e574d4a5805843b",
+    "user": {
+        "uid": "c8e95f8934b84ae1a12f41b6117fb797",
+        "username": "nehamithapara878",
+        "displayName": "Sawanmithapara878",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/nehamithapara878",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c8e95f8934b84ae1a12f41b6117fb797"
+    },
+    "vertexCount": 471,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/simple-low-poly-high-quality-house-31791f4ba3d74f8b9e574d4a5805843b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "a simple house. i dont have a pc, so i made this in mobile using prisma 3d. pls support. thx.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/31791f4ba3d74f8b9e574d4a5805843b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T08:14:16.810965",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 4
+}

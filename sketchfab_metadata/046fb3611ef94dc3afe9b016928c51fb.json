@@ -1,0 +1,242 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-01T17:08:22.240104",
+    "embedUrl": "https://sketchfab.com/models/046fb3611ef94dc3afe9b016928c51fb/embed",
+    "faceCount": 2716,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Old Grindstone",
+    "publishedAt": "2026-01-05T16:35:58.471347",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "tools",
+            "slug": "tools",
+            "uri": "https://api.sketchfab.com/v3/tags/tools"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "antique",
+            "slug": "antique",
+            "uri": "https://api.sketchfab.com/v3/tags/antique"
+        },
+        {
+            "name": "rustic",
+            "slug": "rustic",
+            "uri": "https://api.sketchfab.com/v3/tags/rustic"
+        },
+        {
+            "name": "blacksmith",
+            "slug": "blacksmith",
+            "uri": "https://api.sketchfab.com/v3/tags/blacksmith"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "Grindstone",
+            "slug": "grindstone",
+            "uri": "https://api.sketchfab.com/v3/tags/grindstone"
+        },
+        {
+            "name": "sharpening",
+            "slug": "sharpening",
+            "uri": "https://api.sketchfab.com/v3/tags/sharpening"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "workshop",
+            "slug": "workshop",
+            "uri": "https://api.sketchfab.com/v3/tags/workshop"
+        },
+        {
+            "name": "village",
+            "slug": "village",
+            "uri": "https://api.sketchfab.com/v3/tags/village"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "dcdfb6fa295e4b1fbcc1ea7fb84e985e",
+                "width": 1920,
+                "height": 1080,
+                "size": 108414,
+                "url": "https://media.sketchfab.com/models/046fb3611ef94dc3afe9b016928c51fb/thumbnails/65f1b3c44cbb44d39b47678c77ab806b/bcec0251fb8047b98c04e75dde05dfaa.jpeg"
+            },
+            {
+                "uid": "bc43580c18b5481a8029684e536819f8",
+                "width": 1024,
+                "height": 576,
+                "size": 29519,
+                "url": "https://media.sketchfab.com/models/046fb3611ef94dc3afe9b016928c51fb/thumbnails/65f1b3c44cbb44d39b47678c77ab806b/eb5c13e6eae34f038bffac95acc69901.jpeg"
+            },
+            {
+                "uid": "09c6a9b0284d4b9cbe69c2428093fab7",
+                "width": 720,
+                "height": 405,
+                "size": 15890,
+                "url": "https://media.sketchfab.com/models/046fb3611ef94dc3afe9b016928c51fb/thumbnails/65f1b3c44cbb44d39b47678c77ab806b/486744e83766474ea855ccea04889c4a.jpeg"
+            },
+            {
+                "uid": "2b4c51d732d1468ebaa9058022319cb5",
+                "width": 256,
+                "height": 144,
+                "size": 3215,
+                "url": "https://media.sketchfab.com/models/046fb3611ef94dc3afe9b016928c51fb/thumbnails/65f1b3c44cbb44d39b47678c77ab806b/170d72f2329743c4892805c6de466087.jpeg"
+            },
+            {
+                "uid": "6d3444d64dd944e5b625ad0789884150",
+                "width": 64,
+                "height": 36,
+                "size": 958,
+                "url": "https://media.sketchfab.com/models/046fb3611ef94dc3afe9b016928c51fb/thumbnails/65f1b3c44cbb44d39b47678c77ab806b/e8fd5a9b8a664f31aaaa5bda910e46c9.jpeg"
+            }
+        ]
+    },
+    "uid": "046fb3611ef94dc3afe9b016928c51fb",
+    "uri": "https://api.sketchfab.com/v3/models/046fb3611ef94dc3afe9b016928c51fb",
+    "user": {
+        "uid": "587a52cefe5d48108db289a72e90740d",
+        "username": "EKDStudio",
+        "displayName": "EKD Studio",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/EKDStudio",
+        "avatar": {
+            "uid": "164ac8001ae040fcae6b855c2169cdcc",
+            "uri": "https://api.sketchfab.com/v3/avatars/164ac8001ae040fcae6b855c2169cdcc",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 706,
+                    "url": "https://media.sketchfab.com/avatars/164ac8001ae040fcae6b855c2169cdcc/12efc7d60fb34ac38f692f8b418c9fa0.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1030,
+                    "url": "https://media.sketchfab.com/avatars/164ac8001ae040fcae6b855c2169cdcc/82ff85dd68eb4a3aa7099fdf713e46e3.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1867,
+                    "url": "https://media.sketchfab.com/avatars/164ac8001ae040fcae6b855c2169cdcc/fb808919a6954182872876fc91e99c67.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2635,
+                    "url": "https://media.sketchfab.com/avatars/164ac8001ae040fcae6b855c2169cdcc/c5a8cbfea3d24375b551405aa7d9bf01.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/587a52cefe5d48108db289a72e90740d"
+    },
+    "vertexCount": 1477,
+    "viewCount": 34,
+    "viewerUrl": "https://sketchfab.com/3d-models/old-grindstone-046fb3611ef94dc3afe9b016928c51fb",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Old Grindstone\n\nBring the atmosphere of ancient blacksmith workshops into your projects with this professional environmental asset. Designed for historical depth and technical efficiency, this old grindstone is perfect for high-quality game worlds.\n\nTechnical Specifications Optimized for seamless performance:\n\nVertices: 1,505\n\nEdges: 2,995\n\nFaces: 1,523\n\nTriangles: 2,724\n\nTextures and Materials High-quality visual details provided via PBR-compliant 1K PNG textures:\n\nBase Color, Normal, and Roughness maps included.\n\nProfessionally unwrapped UVs ensure zero distortion and optimized pixel density.\n\nCompatibility and Integration\n\nPivot Point: Centered for effortless placement.\n\nFormats: Blend, FBX, and GLB.\n\nEngine Ready: Extensively tested in Unreal Engine and Unity to ensure flawless performance.\n\nReady to add realism and craftsmanship to your scenes. Thank you for your interest.",
+    "price": null,
+    "downloadCount": 10,
+    "editorUrl": "https://sketchfab.com/models/046fb3611ef94dc3afe9b016928c51fb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-05T17:10:18.417735",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

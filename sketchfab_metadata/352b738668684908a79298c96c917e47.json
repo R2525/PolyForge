@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T07:35:45.742783",
+    "embedUrl": "https://sketchfab.com/models/352b738668684908a79298c96c917e47/embed",
+    "faceCount": 16556,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Steam Whistle 02",
+    "publishedAt": "2026-02-20T07:38:56.582947",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "antique",
+            "slug": "antique",
+            "uri": "https://api.sketchfab.com/v3/tags/antique"
+        },
+        {
+            "name": "brass",
+            "slug": "brass",
+            "uri": "https://api.sketchfab.com/v3/tags/brass"
+        },
+        {
+            "name": "Whistle",
+            "slug": "whistle",
+            "uri": "https://api.sketchfab.com/v3/tags/whistle"
+        },
+        {
+            "name": "steam",
+            "slug": "steam",
+            "uri": "https://api.sketchfab.com/v3/tags/steam"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "82d4e7a69bc34497907d3f11a3474cfe",
+                "width": 1920,
+                "height": 1080,
+                "size": 71089,
+                "url": "https://media.sketchfab.com/models/352b738668684908a79298c96c917e47/thumbnails/ec1504caf33842ec91ac1d0d9b51e2a2/849f3478e4754b1fa4fc55223c47746e.jpeg"
+            },
+            {
+                "uid": "c691b36acd624e99bd78b37f3203d34e",
+                "width": 1024,
+                "height": 576,
+                "size": 21901,
+                "url": "https://media.sketchfab.com/models/352b738668684908a79298c96c917e47/thumbnails/ec1504caf33842ec91ac1d0d9b51e2a2/803c05016462418b85b245920389e69a.jpeg"
+            },
+            {
+                "uid": "28ab3d40116f4fcb9fee139febcf3a72",
+                "width": 720,
+                "height": 405,
+                "size": 12724,
+                "url": "https://media.sketchfab.com/models/352b738668684908a79298c96c917e47/thumbnails/ec1504caf33842ec91ac1d0d9b51e2a2/0db9ad154d1f4e048424356afce5316f.jpeg"
+            },
+            {
+                "uid": "0c3990db6dd94ef8b28a06d0b906ee41",
+                "width": 256,
+                "height": 144,
+                "size": 3054,
+                "url": "https://media.sketchfab.com/models/352b738668684908a79298c96c917e47/thumbnails/ec1504caf33842ec91ac1d0d9b51e2a2/12c9dbec76e4423db8a9c97fe879d700.jpeg"
+            },
+            {
+                "uid": "cf317e036ef64c648d445927a3344529",
+                "width": 64,
+                "height": 36,
+                "size": 959,
+                "url": "https://media.sketchfab.com/models/352b738668684908a79298c96c917e47/thumbnails/ec1504caf33842ec91ac1d0d9b51e2a2/ef6d1e594a184d419c6089c698ae81de.jpeg"
+            }
+        ]
+    },
+    "uid": "352b738668684908a79298c96c917e47",
+    "uri": "https://api.sketchfab.com/v3/models/352b738668684908a79298c96c917e47",
+    "user": {
+        "uid": "2931dec5869e4c3484769ba8be7724a2",
+        "username": "panyazhou",
+        "displayName": "panyazhou",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/panyazhou",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2931dec5869e4c3484769ba8be7724a2"
+    },
+    "vertexCount": 8280,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/steam-whistle-02-352b738668684908a79298c96c917e47",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "18th Century Steam Whistle",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/352b738668684908a79298c96c917e47/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T07:38:56.736426",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,66 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.95
+        },
+        {
+            "name": "Gothic",
+            "score": 0.85
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.75
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.65
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.88
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.75
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.65
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.55
+        }
+    ],
+    "surface_conditions": [
+        "Dusty",
+        "Weathered",
+        "Rusty",
+        "Cracked",
+        "Polished"
+    ],
+    "tags": [
+        "medieval",
+        "helmet",
+        "armor",
+        "warrior",
+        "painting"
+    ],
+    "model_id_full": "032f6575191441349953995c2b76402c_Painted Medieval Visored Great Helmet",
+    "sketchfab_id": "032f6575191441349953995c2b76402c",
+    "asset_name": "Painted Medieval Visored Great Helmet"
+}

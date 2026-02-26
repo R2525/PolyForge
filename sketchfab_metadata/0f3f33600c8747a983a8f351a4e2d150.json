@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-14T08:43:06.464900",
+    "embedUrl": "https://sketchfab.com/models/0f3f33600c8747a983a8f351a4e2d150/embed",
+    "faceCount": 697950,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Blue Cross Knight",
+    "publishedAt": "2026-02-14T08:55:30.886795",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "crusader",
+            "slug": "crusader",
+            "uri": "https://api.sketchfab.com/v3/tags/crusader"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "aa89f9ff001b48b19e58b772f0e5876a",
+                "width": 1920,
+                "height": 1080,
+                "size": 68791,
+                "url": "https://media.sketchfab.com/models/0f3f33600c8747a983a8f351a4e2d150/thumbnails/2611531acedc4ef9a27b271b35c927a9/82a2f79773dd41739d9e05e0714ddc84.jpeg"
+            },
+            {
+                "uid": "55db8df8095d463a9c278ea5837f8620",
+                "width": 1024,
+                "height": 576,
+                "size": 21979,
+                "url": "https://media.sketchfab.com/models/0f3f33600c8747a983a8f351a4e2d150/thumbnails/2611531acedc4ef9a27b271b35c927a9/841627809b8840b2984180a765648a5b.jpeg"
+            },
+            {
+                "uid": "b20a957b59534b429085e58922307aee",
+                "width": 720,
+                "height": 405,
+                "size": 12314,
+                "url": "https://media.sketchfab.com/models/0f3f33600c8747a983a8f351a4e2d150/thumbnails/2611531acedc4ef9a27b271b35c927a9/c9312665888c4fadb06c79915b250d53.jpeg"
+            },
+            {
+                "uid": "afbb7583a85845958a6e0212933970f0",
+                "width": 256,
+                "height": 144,
+                "size": 2453,
+                "url": "https://media.sketchfab.com/models/0f3f33600c8747a983a8f351a4e2d150/thumbnails/2611531acedc4ef9a27b271b35c927a9/5b7eaa4515254ac19f6c123cd8f0f2f7.jpeg"
+            },
+            {
+                "uid": "6f45cfc02b8144848908b8ab21b9b0f6",
+                "width": 64,
+                "height": 36,
+                "size": 803,
+                "url": "https://media.sketchfab.com/models/0f3f33600c8747a983a8f351a4e2d150/thumbnails/2611531acedc4ef9a27b271b35c927a9/6fba0969cb93422fa8dbab37dea60812.jpeg"
+            }
+        ]
+    },
+    "uid": "0f3f33600c8747a983a8f351a4e2d150",
+    "uri": "https://api.sketchfab.com/v3/models/0f3f33600c8747a983a8f351a4e2d150",
+    "user": {
+        "uid": "6722833a13c24b54af9757e64201cbfe",
+        "username": "kmkrtchyan70",
+        "displayName": "Ded Makar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kmkrtchyan70",
+        "avatar": {
+            "uid": "e426f8f1bdcc46e0a45fa572af73859a",
+            "uri": "https://api.sketchfab.com/v3/avatars/e426f8f1bdcc46e0a45fa572af73859a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1182,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/efb9a0da56c64d7b8c866671a862673a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1673,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01b13b16a4c84c0da2a7b25e9d870279.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3615,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/883afddce77a4ecf9d2d26c8dc259872.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4214,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01042899c933428d8a46f9387a1c5717.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6722833a13c24b54af9757e64201cbfe"
+    },
+    "vertexCount": 348991,
+    "viewCount": 27,
+    "viewerUrl": "https://sketchfab.com/3d-models/blue-cross-knight-0f3f33600c8747a983a8f351a4e2d150",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Blue-Cross-Knight-v2-019c5816-aa21-7345-bbec-c233a0ad2a9a?utm_source=sketchfab](https://www.meshy.ai/3d-models/Blue-Cross-Knight-v2-019c5816-aa21-7345-bbec-c233a0ad2a9a?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 19,
+    "editorUrl": "https://sketchfab.com/models/0f3f33600c8747a983a8f351a4e2d150/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-14T08:55:31.028606",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

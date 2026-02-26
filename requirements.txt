@@ -1,0 +1,14 @@
+objaverse
+torch
+transformers
+pillow
+tqdm
+streamlit
+scikit-learn
+pandas
+plotly
+numpy
+requests
+qwen-vl-utils
+accelerate
+flash-attn  # Performance optimization for Qwen-VL

@@ -1,0 +1,49 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        }
+    ],
+    "style": "Low Poly",
+    "top_styles": [
+        {
+            "name": "Low Poly",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Dusty"
+    ],
+    "tags": [
+        "low poly",
+        "weapon",
+        "axe",
+        "battle",
+        "military",
+        "swords",
+        "historical"
+    ],
+    "model_id_full": "10d9cdff08b942a6b72d07b95603047a_Low Poly Exe",
+    "sketchfab_id": "10d9cdff08b942a6b72d07b95603047a",
+    "asset_name": "Low Poly Exe"
+}

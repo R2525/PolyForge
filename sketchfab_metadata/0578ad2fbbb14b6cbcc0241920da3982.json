@@ -1,0 +1,142 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T22:21:39.841737",
+    "embedUrl": "https://sketchfab.com/models/0578ad2fbbb14b6cbcc0241920da3982/embed",
+    "faceCount": 8380,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Game ready ASC T-128",
+    "publishedAt": "2026-02-22T22:32:07.262040",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tornado",
+            "slug": "tornado",
+            "uri": "https://api.sketchfab.com/v3/tags/tornado"
+        },
+        {
+            "name": "siren",
+            "slug": "siren",
+            "uri": "https://api.sketchfab.com/v3/tags/siren"
+        },
+        {
+            "name": "warning",
+            "slug": "warning",
+            "uri": "https://api.sketchfab.com/v3/tags/warning"
+        },
+        {
+            "name": "air-raid",
+            "slug": "air-raid",
+            "uri": "https://api.sketchfab.com/v3/tags/air-raid"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0d5af793276d4c41a0cd201d65c413a6",
+                "width": 1920,
+                "height": 1080,
+                "size": 100202,
+                "url": "https://media.sketchfab.com/models/0578ad2fbbb14b6cbcc0241920da3982/thumbnails/d4a8cc1736b748e3bff3017eac5fc8ff/3b9f774940784ae688b148bfa88637d3.jpeg"
+            },
+            {
+                "uid": "201438d9c9ac421eb3859584ad21dcb9",
+                "width": 1024,
+                "height": 576,
+                "size": 31108,
+                "url": "https://media.sketchfab.com/models/0578ad2fbbb14b6cbcc0241920da3982/thumbnails/d4a8cc1736b748e3bff3017eac5fc8ff/008f7b64cdd449eea80074d9a0df44ac.jpeg"
+            },
+            {
+                "uid": "920d0b742cba4fab98d833c8471b264a",
+                "width": 720,
+                "height": 405,
+                "size": 19128,
+                "url": "https://media.sketchfab.com/models/0578ad2fbbb14b6cbcc0241920da3982/thumbnails/d4a8cc1736b748e3bff3017eac5fc8ff/80286d6e9dee4d2f8327513ff3a56584.jpeg"
+            },
+            {
+                "uid": "029302a60ea14706a8ce745673b2c336",
+                "width": 256,
+                "height": 144,
+                "size": 4688,
+                "url": "https://media.sketchfab.com/models/0578ad2fbbb14b6cbcc0241920da3982/thumbnails/d4a8cc1736b748e3bff3017eac5fc8ff/b839d39c98f441fd91d81ea5b2d2b3b9.jpeg"
+            },
+            {
+                "uid": "bfdef0da0f144281a88ab2838499612d",
+                "width": 64,
+                "height": 36,
+                "size": 1196,
+                "url": "https://media.sketchfab.com/models/0578ad2fbbb14b6cbcc0241920da3982/thumbnails/d4a8cc1736b748e3bff3017eac5fc8ff/016c89615c884dbdbaac5ca69a21dc12.jpeg"
+            }
+        ]
+    },
+    "uid": "0578ad2fbbb14b6cbcc0241920da3982",
+    "uri": "https://api.sketchfab.com/v3/models/0578ad2fbbb14b6cbcc0241920da3982",
+    "user": {
+        "uid": "6ca3d1e119a948e68505e1924f5ad8a5",
+        "username": "-French-toast",
+        "displayName": "Mercuri-sodyum",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/-French-toast",
+        "avatar": {
+            "uid": "ef2e436ffd1744e6a7d60175ec84adbd",
+            "uri": "https://api.sketchfab.com/v3/avatars/ef2e436ffd1744e6a7d60175ec84adbd",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1472,
+                    "url": "https://media.sketchfab.com/avatars/ef2e436ffd1744e6a7d60175ec84adbd/be0fdc9442cf4cf78e25bef13341ebeb.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2629,
+                    "url": "https://media.sketchfab.com/avatars/ef2e436ffd1744e6a7d60175ec84adbd/4588c5175f4546599e850617adbca7cd.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9184,
+                    "url": "https://media.sketchfab.com/avatars/ef2e436ffd1744e6a7d60175ec84adbd/c6d5fea104c44559b71fadf067bda051.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11045,
+                    "url": "https://media.sketchfab.com/avatars/ef2e436ffd1744e6a7d60175ec84adbd/f922f327ac344dbab9c5656cb8d2b03c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6ca3d1e119a948e68505e1924f5ad8a5"
+    },
+    "vertexCount": 4189,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/game-ready-asc-t-128-0578ad2fbbb14b6cbcc0241920da3982",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "I just reached a new low, 8k tris. now I can say the siren is gameready\n\nThe only further user instructions would include to add a pole, a wire connecting to the one on the box, a rectangle above a square and place that rect&squ aranegemnt on the lower end of the pole.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/0578ad2fbbb14b6cbcc0241920da3982/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T22:32:07.390615",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 6
+}

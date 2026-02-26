@@ -1,0 +1,184 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T19:26:31.319355",
+    "embedUrl": "https://sketchfab.com/models/22769fbe9d7243d0a15db0a0d5bf9115/embed",
+    "faceCount": 852,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Set – Traditional Outfit | Backpack – Umbrella",
+    "publishedAt": "2026-02-19T19:29:28.984912",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "custom",
+            "slug": "custom",
+            "uri": "https://api.sketchfab.com/v3/tags/custom"
+        },
+        {
+            "name": "backpack",
+            "slug": "backpack",
+            "uri": "https://api.sketchfab.com/v3/tags/backpack"
+        },
+        {
+            "name": "cosmetics",
+            "slug": "cosmetics",
+            "uri": "https://api.sketchfab.com/v3/tags/cosmetics"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "956c1513d83d4475b238376ff9eb58c7",
+                "width": 1920,
+                "height": 1080,
+                "size": 56306,
+                "url": "https://media.sketchfab.com/models/22769fbe9d7243d0a15db0a0d5bf9115/thumbnails/713bb3ed779d48d19c9343bb68b853ad/40241f197ffc4de28993c0a31f44343b.jpeg"
+            },
+            {
+                "uid": "54012a9c70af4f1881f6d168edb0acb5",
+                "width": 1024,
+                "height": 576,
+                "size": 19779,
+                "url": "https://media.sketchfab.com/models/22769fbe9d7243d0a15db0a0d5bf9115/thumbnails/713bb3ed779d48d19c9343bb68b853ad/694a8330b2db47729283da44c6031cd2.jpeg"
+            },
+            {
+                "uid": "aac5e0af4a0c422dabac21a48a83800d",
+                "width": 720,
+                "height": 405,
+                "size": 11715,
+                "url": "https://media.sketchfab.com/models/22769fbe9d7243d0a15db0a0d5bf9115/thumbnails/713bb3ed779d48d19c9343bb68b853ad/f3530fe292184c2fa48f4e976715ff81.jpeg"
+            },
+            {
+                "uid": "1ae9c84d563e42549ce101e531913c2b",
+                "width": 256,
+                "height": 144,
+                "size": 2871,
+                "url": "https://media.sketchfab.com/models/22769fbe9d7243d0a15db0a0d5bf9115/thumbnails/713bb3ed779d48d19c9343bb68b853ad/028cfb88d6a741be9488611daac4610e.jpeg"
+            },
+            {
+                "uid": "6148fc4e32324b4b92f4307b3e5536a7",
+                "width": 64,
+                "height": 36,
+                "size": 936,
+                "url": "https://media.sketchfab.com/models/22769fbe9d7243d0a15db0a0d5bf9115/thumbnails/713bb3ed779d48d19c9343bb68b853ad/d5798838037f490f87dbe2adea62f906.jpeg"
+            }
+        ]
+    },
+    "uid": "22769fbe9d7243d0a15db0a0d5bf9115",
+    "uri": "https://api.sketchfab.com/v3/models/22769fbe9d7243d0a15db0a0d5bf9115",
+    "user": {
+        "uid": "0a624d8b14bb40de9c29c7bdae14b28f",
+        "username": "wavesync",
+        "displayName": "WaveSync - discover power of imagination",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/wavesync",
+        "avatar": {
+            "uid": "4858aeb8ff72454391e2d2820eea0ced",
+            "uri": "https://api.sketchfab.com/v3/avatars/4858aeb8ff72454391e2d2820eea0ced",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 606,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/2ed2db35c10b48ecbb408ed8a1c5bf3f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 981,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/873999b810de4ae39346790bce21c4bd.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2524,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/e7fdc53e69394be995a38331110f39d5.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2946,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/c92b41a6f90e4266b139a9b8bf033639.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0a624d8b14bb40de9c29c7bdae14b28f"
+    },
+    "vertexCount": 568,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/set-traditional-outfit-backpack-umbrella-22769fbe9d7243d0a15db0a0d5bf9115",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Event**\nLunar New Year\n\n**Set name**\nTraditional Outfit\n\n**3D Model Name**\nBackpack – Umbrella\n\n*Create in Blockbench by WaveSync*",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/22769fbe9d7243d0a15db0a0d5bf9115/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T19:29:29.205797",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

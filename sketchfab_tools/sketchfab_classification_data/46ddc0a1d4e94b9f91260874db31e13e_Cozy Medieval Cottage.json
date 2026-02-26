@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Cozy",
+            "score": 0.8
+        },
+        {
+            "name": "Rustic",
+            "score": 0.7
+        },
+        {
+            "name": "Charming",
+            "score": 0.6
+        },
+        {
+            "name": "Cottage",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Weathered",
+        "Dusty",
+        "Rusty",
+        "Cracked"
+    ],
+    "tags": [
+        "cottage",
+        "medieval",
+        "thatched-roof",
+        "stone-wall",
+        "wooden-door",
+        "cozy",
+        "rural",
+        "3D-model"
+    ],
+    "model_id_full": "46ddc0a1d4e94b9f91260874db31e13e_Cozy Medieval Cottage",
+    "sketchfab_id": "46ddc0a1d4e94b9f91260874db31e13e",
+    "asset_name": "Cozy Medieval Cottage"
+}

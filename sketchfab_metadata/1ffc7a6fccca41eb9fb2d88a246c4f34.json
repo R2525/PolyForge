@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T05:10:26.337944",
+    "embedUrl": "https://sketchfab.com/models/1ffc7a6fccca41eb9fb2d88a246c4f34/embed",
+    "faceCount": 39594,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Fantasy-}X{-Tree-[07]",
+    "publishedAt": "2026-02-23T05:17:25.263282",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "trees",
+            "slug": "trees",
+            "uri": "https://api.sketchfab.com/v3/tags/trees"
+        },
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        },
+        {
+            "name": "stylizedtree",
+            "slug": "stylizedtree",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedtree"
+        },
+        {
+            "name": "lowpolynature",
+            "slug": "lowpolynature",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolynature"
+        },
+        {
+            "name": "lowpolytree",
+            "slug": "lowpolytree",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolytree"
+        },
+        {
+            "name": "lowpoly-tree",
+            "slug": "lowpoly-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly-tree"
+        },
+        {
+            "name": "magictree",
+            "slug": "magictree",
+            "uri": "https://api.sketchfab.com/v3/tags/magictree"
+        },
+        {
+            "name": "fantasy-trees",
+            "slug": "fantasy-trees",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-trees"
+        },
+        {
+            "name": "treeasset",
+            "slug": "treeasset",
+            "uri": "https://api.sketchfab.com/v3/tags/treeasset"
+        },
+        {
+            "name": "nature_asset",
+            "slug": "nature_asset",
+            "uri": "https://api.sketchfab.com/v3/tags/nature_asset"
+        },
+        {
+            "name": "nature-wood",
+            "slug": "nature-wood",
+            "uri": "https://api.sketchfab.com/v3/tags/nature-wood"
+        },
+        {
+            "name": "fantasy-plant",
+            "slug": "fantasy-plant",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-plant"
+        },
+        {
+            "name": "magic-tree",
+            "slug": "magic-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/magic-tree"
+        },
+        {
+            "name": "trees-garden-nature-plant-forest",
+            "slug": "trees-garden-nature-plant-forest",
+            "uri": "https://api.sketchfab.com/v3/tags/trees-garden-nature-plant-forest"
+        },
+        {
+            "name": "treeslowpoly",
+            "slug": "treeslowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/treeslowpoly"
+        },
+        {
+            "name": "nature-plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/tags/nature-plants"
+        },
+        {
+            "name": "fantasytree",
+            "slug": "fantasytree",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasytree"
+        },
+        {
+            "name": "lowpoly-nature",
+            "slug": "lowpoly-nature",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly-nature"
+        },
+        {
+            "name": "forest-tree",
+            "slug": "forest-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/forest-tree"
+        },
+        {
+            "name": "trees-tree-natural",
+            "slug": "trees-tree-natural",
+            "uri": "https://api.sketchfab.com/v3/tags/trees-tree-natural"
+        },
+        {
+            "name": "fantasyplant",
+            "slug": "fantasyplant",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyplant"
+        },
+        {
+            "name": "stylized-tree",
+            "slug": "stylized-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-tree"
+        },
+        {
+            "name": "tree-asset",
+            "slug": "tree-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/tree-asset"
+        },
+        {
+            "name": "nature-assets",
+            "slug": "nature-assets",
+            "uri": "https://api.sketchfab.com/v3/tags/nature-assets"
+        },
+        {
+            "name": "naturetree",
+            "slug": "naturetree",
+            "uri": "https://api.sketchfab.com/v3/tags/naturetree"
+        },
+        {
+            "name": "natureasset",
+            "slug": "natureasset",
+            "uri": "https://api.sketchfab.com/v3/tags/natureasset"
+        },
+        {
+            "name": "treeassets",
+            "slug": "treeassets",
+            "uri": "https://api.sketchfab.com/v3/tags/treeassets"
+        },
+        {
+            "name": "fantasy-tree",
+            "slug": "fantasy-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-tree"
+        },
+        {
+            "name": "copilot",
+            "slug": "copilot",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot"
+        },
+        {
+            "name": "foresttree",
+            "slug": "foresttree",
+            "uri": "https://api.sketchfab.com/v3/tags/foresttree"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "fantasynature",
+            "slug": "fantasynature",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasynature"
+        },
+        {
+            "name": "stylizednature",
+            "slug": "stylizednature",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizednature"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "copilot3d",
+            "slug": "copilot3d",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3d"
+        },
+        {
+            "name": "copilotai",
+            "slug": "copilotai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotai"
+        },
+        {
+            "name": "copilotlabs",
+            "slug": "copilotlabs",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotlabs"
+        },
+        {
+            "name": "copilot3dai",
+            "slug": "copilot3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3dai"
+        },
+        {
+            "name": "copilot-models",
+            "slug": "copilot-models",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot-models"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cdab653d57864cf5bb6e1e15778a0f9e",
+                "width": 1920,
+                "height": 1080,
+                "size": 294650,
+                "url": "https://media.sketchfab.com/models/1ffc7a6fccca41eb9fb2d88a246c4f34/thumbnails/987c370f7f5045769c4d71d829b4214e/e49a4d9d959749eeae610efb0242706d.jpeg"
+            },
+            {
+                "uid": "91e6a77ee0a44730b1e2bfc53d31d2b9",
+                "width": 1024,
+                "height": 576,
+                "size": 49816,
+                "url": "https://media.sketchfab.com/models/1ffc7a6fccca41eb9fb2d88a246c4f34/thumbnails/987c370f7f5045769c4d71d829b4214e/73c057a2cc5b447c9ffa77a91923acc2.jpeg"
+            },
+            {
+                "uid": "61aad1d1329143698b9f775c3fb590d8",
+                "width": 720,
+                "height": 405,
+                "size": 25941,
+                "url": "https://media.sketchfab.com/models/1ffc7a6fccca41eb9fb2d88a246c4f34/thumbnails/987c370f7f5045769c4d71d829b4214e/9d5daa3ff79a4458939b8fdeab51deaf.jpeg"
+            },
+            {
+                "uid": "f3d6cd43881245409181a436c6cf2b4e",
+                "width": 256,
+                "height": 144,
+                "size": 4896,
+                "url": "https://media.sketchfab.com/models/1ffc7a6fccca41eb9fb2d88a246c4f34/thumbnails/987c370f7f5045769c4d71d829b4214e/df2f2b9d91544026a2acdb408c9f4b2c.jpeg"
+            },
+            {
+                "uid": "e7a2f907287d4eb086cfc5ffacb1292c",
+                "width": 64,
+                "height": 36,
+                "size": 1108,
+                "url": "https://media.sketchfab.com/models/1ffc7a6fccca41eb9fb2d88a246c4f34/thumbnails/987c370f7f5045769c4d71d829b4214e/b905ea1f8649491994197ef71bd462c4.jpeg"
+            }
+        ]
+    },
+    "uid": "1ffc7a6fccca41eb9fb2d88a246c4f34",
+    "uri": "https://api.sketchfab.com/v3/models/1ffc7a6fccca41eb9fb2d88a246c4f34",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 19657,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-x-tree-07-1ffc7a6fccca41eb9fb2d88a246c4f34",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 10,
+    "editorUrl": "https://sketchfab.com/models/1ffc7a6fccca41eb9fb2d88a246c4f34/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:32:02.661352",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T16:49:10.427131",
+    "embedUrl": "https://sketchfab.com/models/281e321de3a148d595b7f37744858a80/embed",
+    "faceCount": 652,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "gnome-from-repo-in-minecraft",
+    "publishedAt": "2026-02-22T16:55:20.744452",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "gnome",
+            "slug": "gnome",
+            "uri": "https://api.sketchfab.com/v3/tags/gnome"
+        },
+        {
+            "name": "repo",
+            "slug": "repo",
+            "uri": "https://api.sketchfab.com/v3/tags/repo"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9f661675e9a141b6a4a94d528b20d9ab",
+                "width": 1920,
+                "height": 1080,
+                "size": 39354,
+                "url": "https://media.sketchfab.com/models/281e321de3a148d595b7f37744858a80/thumbnails/4606fce2e5b64a1884c96356a9033680/04e1c6a7593245e2b18d7e705dd57ec6.jpeg"
+            },
+            {
+                "uid": "ce87f9628f154418a7c45567fee29691",
+                "width": 1024,
+                "height": 576,
+                "size": 12800,
+                "url": "https://media.sketchfab.com/models/281e321de3a148d595b7f37744858a80/thumbnails/4606fce2e5b64a1884c96356a9033680/f35509dbd11743af9db33faa6f3049c2.jpeg"
+            },
+            {
+                "uid": "0a12b646ebe845a9a40f76e7e21a8c5d",
+                "width": 720,
+                "height": 405,
+                "size": 7326,
+                "url": "https://media.sketchfab.com/models/281e321de3a148d595b7f37744858a80/thumbnails/4606fce2e5b64a1884c96356a9033680/a7c3b7831ef248a1a41e1b4ec7d13ae3.jpeg"
+            },
+            {
+                "uid": "1c61d6e21ad546b8a4aa555a016390f7",
+                "width": 256,
+                "height": 144,
+                "size": 1933,
+                "url": "https://media.sketchfab.com/models/281e321de3a148d595b7f37744858a80/thumbnails/4606fce2e5b64a1884c96356a9033680/03ac9efb85f147d1848a13756bf18987.jpeg"
+            },
+            {
+                "uid": "c718a73824094aaeb4848c4c145e5e88",
+                "width": 64,
+                "height": 36,
+                "size": 885,
+                "url": "https://media.sketchfab.com/models/281e321de3a148d595b7f37744858a80/thumbnails/4606fce2e5b64a1884c96356a9033680/fa918c319b1245d6abd908722bab0d26.jpeg"
+            }
+        ]
+    },
+    "uid": "281e321de3a148d595b7f37744858a80",
+    "uri": "https://api.sketchfab.com/v3/models/281e321de3a148d595b7f37744858a80",
+    "user": {
+        "uid": "c4279f43ae32494d9e9a0e3ca082e0a3",
+        "username": "guilhermeribeiro170514",
+        "displayName": "guilhermeribeiro170514",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/guilhermeribeiro170514",
+        "avatar": {
+            "uid": "66c065689f3048d9acfa33f462ad9096",
+            "uri": "https://api.sketchfab.com/v3/avatars/66c065689f3048d9acfa33f462ad9096",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1062,
+                    "url": "https://media.sketchfab.com/avatars/66c065689f3048d9acfa33f462ad9096/e5e8edc94b764e25993937893de3e769.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1447,
+                    "url": "https://media.sketchfab.com/avatars/66c065689f3048d9acfa33f462ad9096/3bbe6a3969fe4a97a271952cccd50be8.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3127,
+                    "url": "https://media.sketchfab.com/avatars/66c065689f3048d9acfa33f462ad9096/42f17027524d4623bfed59cb18adcf87.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3623,
+                    "url": "https://media.sketchfab.com/avatars/66c065689f3048d9acfa33f462ad9096/8ccf0ea1b5c24956bdd1252daacb7851.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c4279f43ae32494d9e9a0e3ca082e0a3"
+    },
+    "vertexCount": 476,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/gnome-from-repo-in-minecraft-281e321de3a148d595b7f37744858a80",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is a GNOME template of r.e.p.o. (his belt might be bugged, visible as a giant box like in the viewer)",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/281e321de3a148d595b7f37744858a80/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T16:55:20.916660",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 10
+}

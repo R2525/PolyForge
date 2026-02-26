@@ -1,0 +1,40 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Modern",
+            "score": 0.6
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.95
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "creature",
+        "character",
+        "model"
+    ]
+}

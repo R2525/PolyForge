@@ -1,0 +1,200 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-21T21:54:59.304345",
+    "embedUrl": "https://sketchfab.com/models/1cc49c91dad5446588510269697ec024/embed",
+    "faceCount": 54639,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "DEADPOOL & SPIDER MAN",
+    "publishedAt": "2026-01-21T21:58:39.527584",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "spiderman",
+            "slug": "spiderman",
+            "uri": "https://api.sketchfab.com/v3/tags/spiderman"
+        },
+        {
+            "name": "movie",
+            "slug": "movie",
+            "uri": "https://api.sketchfab.com/v3/tags/movie"
+        },
+        {
+            "name": "deadpool",
+            "slug": "deadpool",
+            "uri": "https://api.sketchfab.com/v3/tags/deadpool"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7719c97744d34f20b8170797e63cea2c",
+                "width": 448,
+                "height": 280,
+                "size": 5925,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/448.jpg"
+            },
+            {
+                "uid": "a6b20474be7c402db8f8a5a6b9ff4730",
+                "width": 200,
+                "height": 200,
+                "size": 2275,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/200x200.jpg"
+            },
+            {
+                "uid": "98095b18341b4f49affb313ad9843d70",
+                "width": 100,
+                "height": 100,
+                "size": 841,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/100x100.jpg"
+            },
+            {
+                "uid": "af9d9afad4f1427a8a6e68dffa18c236",
+                "width": 50,
+                "height": 50,
+                "size": 421,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/50x50.jpg"
+            },
+            {
+                "uid": "b0855968e7eb4421b1d57761d0f2e2f1",
+                "width": 640,
+                "height": 400,
+                "size": 12257,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/640.jpg"
+            },
+            {
+                "uid": "4cfc787dbb4a4a0190430bca9721c6cf",
+                "width": 1024,
+                "height": 640,
+                "size": 28643,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/1024.jpg"
+            },
+            {
+                "uid": "bdbd1b7885db45ba959aede0fd468199",
+                "width": 854,
+                "height": 534,
+                "size": 21153,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/854.jpg"
+            }
+        ]
+    },
+    "uid": "1cc49c91dad5446588510269697ec024",
+    "uri": "https://api.sketchfab.com/v3/models/1cc49c91dad5446588510269697ec024",
+    "user": {
+        "uid": "ae82db9bd5084b51a1f765f1b56a0a6a",
+        "username": "jensenkanepowers",
+        "displayName": "JENSEN.P",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/jensenkanepowers",
+        "avatar": {
+            "uid": "c9a23ab3a5cc497ab8e955b6e00c7fcb",
+            "uri": "https://api.sketchfab.com/v3/avatars/c9a23ab3a5cc497ab8e955b6e00c7fcb",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 335,
+                    "url": "https://media.sketchfab.com/avatars/c9a23ab3a5cc497ab8e955b6e00c7fcb/1c58073792f347e3a89baa79c7603462.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1052,
+                    "url": "https://media.sketchfab.com/avatars/c9a23ab3a5cc497ab8e955b6e00c7fcb/cd4a3c15066c40ce85a51dd3fe3f2c3a.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3076,
+                    "url": "https://media.sketchfab.com/avatars/c9a23ab3a5cc497ab8e955b6e00c7fcb/b5cf77ec9c2f495f936eab3bde6b085d.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3442,
+                    "url": "https://media.sketchfab.com/avatars/c9a23ab3a5cc497ab8e955b6e00c7fcb/3856a094285140daaad1968b0dbae075.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ae82db9bd5084b51a1f765f1b56a0a6a"
+    },
+    "vertexCount": 28181,
+    "viewCount": 47,
+    "viewerUrl": "https://sketchfab.com/3d-models/deadpool-spider-man-1cc49c91dad5446588510269697ec024",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "> This is a 3d model of deadpool and spider man and can be used for blender or 3d printing (non animated)",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/1cc49c91dad5446588510269697ec024/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-21T21:58:39.754846",
+    "pbrType": "metalness",
+    "textureCount": 17,
+    "materialCount": 11
+}

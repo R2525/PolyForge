@@ -1,0 +1,246 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-23T00:41:38.702998",
+    "embedUrl": "https://sketchfab.com/models/468692819f614533b43688e53a472528/embed",
+    "faceCount": 2940,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Weathered Industrial Oil Drum",
+    "publishedAt": "2025-12-23T00:43:02.287797",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "drum",
+            "slug": "drum",
+            "uri": "https://api.sketchfab.com/v3/tags/drum"
+        },
+        {
+            "name": "barrel",
+            "slug": "barrel",
+            "uri": "https://api.sketchfab.com/v3/tags/barrel"
+        },
+        {
+            "name": "oil",
+            "slug": "oil",
+            "uri": "https://api.sketchfab.com/v3/tags/oil"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "warehouse",
+            "slug": "warehouse",
+            "uri": "https://api.sketchfab.com/v3/tags/warehouse"
+        },
+        {
+            "name": "rusty",
+            "slug": "rusty",
+            "uri": "https://api.sketchfab.com/v3/tags/rusty"
+        },
+        {
+            "name": "waste",
+            "slug": "waste",
+            "uri": "https://api.sketchfab.com/v3/tags/waste"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "toxic",
+            "slug": "toxic",
+            "uri": "https://api.sketchfab.com/v3/tags/toxic"
+        },
+        {
+            "name": "yellow",
+            "slug": "yellow",
+            "uri": "https://api.sketchfab.com/v3/tags/yellow"
+        },
+        {
+            "name": "weathered",
+            "slug": "weathered",
+            "uri": "https://api.sketchfab.com/v3/tags/weathered"
+        },
+        {
+            "name": "grime",
+            "slug": "grime",
+            "uri": "https://api.sketchfab.com/v3/tags/grime"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "container",
+            "slug": "container",
+            "uri": "https://api.sketchfab.com/v3/tags/container"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d5c5debcf9d043d4855ef3a1959235f4",
+                "width": 1920,
+                "height": 1080,
+                "size": 100451,
+                "url": "https://media.sketchfab.com/models/468692819f614533b43688e53a472528/thumbnails/1cb83cc217354b06b6db12c4d6398779/81b555d20b4744e3b29cb12814e61732.jpeg"
+            },
+            {
+                "uid": "2123dcfe9edc4ad1a066c96dbe396c23",
+                "width": 1024,
+                "height": 576,
+                "size": 30250,
+                "url": "https://media.sketchfab.com/models/468692819f614533b43688e53a472528/thumbnails/1cb83cc217354b06b6db12c4d6398779/519da590aaca4451a3c8165c475a0372.jpeg"
+            },
+            {
+                "uid": "ab31b331565446ac8f9e7eaa9b7afc2b",
+                "width": 720,
+                "height": 405,
+                "size": 16521,
+                "url": "https://media.sketchfab.com/models/468692819f614533b43688e53a472528/thumbnails/1cb83cc217354b06b6db12c4d6398779/87248de5d5464624b84ebb0fd3bea02d.jpeg"
+            },
+            {
+                "uid": "0e859444134b4091b400c4cde1e1108a",
+                "width": 256,
+                "height": 144,
+                "size": 3400,
+                "url": "https://media.sketchfab.com/models/468692819f614533b43688e53a472528/thumbnails/1cb83cc217354b06b6db12c4d6398779/dfc750ed81d042d28b4282eebd9bd726.jpeg"
+            },
+            {
+                "uid": "e0f16a8f6ebe42fa8ccaa7dd5ae30a51",
+                "width": 64,
+                "height": 36,
+                "size": 1007,
+                "url": "https://media.sketchfab.com/models/468692819f614533b43688e53a472528/thumbnails/1cb83cc217354b06b6db12c4d6398779/1b7beb765cb14727b5ee9fb84be28291.jpeg"
+            }
+        ]
+    },
+    "uid": "468692819f614533b43688e53a472528",
+    "uri": "https://api.sketchfab.com/v3/models/468692819f614533b43688e53a472528",
+    "user": {
+        "uid": "38392482713b4a97badd194555ec8685",
+        "username": "VictorOgbuka",
+        "displayName": "Victor Ogbuka",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/VictorOgbuka",
+        "avatar": {
+            "uid": "e70f87965752482e82fec9b6456ebfe1",
+            "uri": "https://api.sketchfab.com/v3/avatars/e70f87965752482e82fec9b6456ebfe1",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1259,
+                    "url": "https://media.sketchfab.com/avatars/e70f87965752482e82fec9b6456ebfe1/2af246e0acbe49ad99fbbd484acb103d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1921,
+                    "url": "https://media.sketchfab.com/avatars/e70f87965752482e82fec9b6456ebfe1/6f8439113b6e43a98ee0a9dff14586d7.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4347,
+                    "url": "https://media.sketchfab.com/avatars/e70f87965752482e82fec9b6456ebfe1/7807474040294fd8919b839c036ceef7.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5017,
+                    "url": "https://media.sketchfab.com/avatars/e70f87965752482e82fec9b6456ebfe1/019eb9da0b3d42f38c292e51b1c25999.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/38392482713b4a97badd194555ec8685"
+    },
+    "vertexCount": 1472,
+    "viewCount": 123,
+    "viewerUrl": "https://sketchfab.com/3d-models/weathered-industrial-oil-drum-468692819f614533b43688e53a472528",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A high-quality, weathered industrial oil drum featuring realistic rust, grime, and wear. This prop is designed for industrial environments, warehouse scenes, or post-apocalyptic settings. It features a standard 55-gallon design with reinforced chimes and a top-mounted bung hole.",
+    "price": null,
+    "downloadCount": 36,
+    "editorUrl": "https://sketchfab.com/models/468692819f614533b43688e53a472528/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-23T00:43:02.645009",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

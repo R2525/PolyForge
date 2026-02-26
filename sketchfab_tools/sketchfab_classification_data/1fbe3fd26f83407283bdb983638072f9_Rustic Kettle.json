@@ -1,0 +1,66 @@
+{
+    "category": "Food & Drink",
+    "genre": "Rustic",
+    "top_genres": [
+        {
+            "name": "Rustic",
+            "score": 0.95
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.6
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.85
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.5
+        },
+        {
+            "name": "Gothic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Cracked"
+    ],
+    "tags": [
+        "kettle",
+        "red",
+        "rustic",
+        "3D model",
+        "teapot",
+        "ceramic",
+        "old",
+        "vintage"
+    ],
+    "model_id_full": "1fbe3fd26f83407283bdb983638072f9_Rustic Kettle",
+    "sketchfab_id": "1fbe3fd26f83407283bdb983638072f9",
+    "asset_name": "Rustic Kettle"
+}

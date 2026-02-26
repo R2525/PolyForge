@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T00:30:30.170211",
+    "embedUrl": "https://sketchfab.com/models/019e896a7b984d11ae3030c7703af7ac/embed",
+    "faceCount": 30732,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sci Fi Container",
+    "publishedAt": "2026-02-22T00:33:05.786949",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "barrel",
+            "slug": "barrel",
+            "uri": "https://api.sketchfab.com/v3/tags/barrel"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "hardsurface",
+            "slug": "hardsurface",
+            "uri": "https://api.sketchfab.com/v3/tags/hardsurface"
+        },
+        {
+            "name": "container",
+            "slug": "container",
+            "uri": "https://api.sketchfab.com/v3/tags/container"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9084813f28be460cb7dcca43a44b35ff",
+                "width": 1920,
+                "height": 1080,
+                "size": 36895,
+                "url": "https://media.sketchfab.com/models/019e896a7b984d11ae3030c7703af7ac/thumbnails/8531bd4143a04932b7ef270f257a5d76/08f6d62f03004ca594a404839e51aa0c.jpeg"
+            },
+            {
+                "uid": "9b254357322846f2b3f7ec6758f2b26c",
+                "width": 1024,
+                "height": 576,
+                "size": 11733,
+                "url": "https://media.sketchfab.com/models/019e896a7b984d11ae3030c7703af7ac/thumbnails/8531bd4143a04932b7ef270f257a5d76/dc07f5cd0575472798dcb5f6754e2d55.jpeg"
+            },
+            {
+                "uid": "7916181e3add41f0ac553bac90d6d899",
+                "width": 720,
+                "height": 405,
+                "size": 6631,
+                "url": "https://media.sketchfab.com/models/019e896a7b984d11ae3030c7703af7ac/thumbnails/8531bd4143a04932b7ef270f257a5d76/520029a428ed4598b0f305033552a256.jpeg"
+            },
+            {
+                "uid": "1e57722f9b6d4648ae7f863bedf05003",
+                "width": 256,
+                "height": 144,
+                "size": 1664,
+                "url": "https://media.sketchfab.com/models/019e896a7b984d11ae3030c7703af7ac/thumbnails/8531bd4143a04932b7ef270f257a5d76/ab6992555971400b8d5221184d6cc301.jpeg"
+            },
+            {
+                "uid": "709c04cdc0fe463a935ef427dc1c40b9",
+                "width": 64,
+                "height": 36,
+                "size": 776,
+                "url": "https://media.sketchfab.com/models/019e896a7b984d11ae3030c7703af7ac/thumbnails/8531bd4143a04932b7ef270f257a5d76/3e10aecc293c4512abcef39f780d764d.jpeg"
+            }
+        ]
+    },
+    "uid": "019e896a7b984d11ae3030c7703af7ac",
+    "uri": "https://api.sketchfab.com/v3/models/019e896a7b984d11ae3030c7703af7ac",
+    "user": {
+        "uid": "d7db4b31ad05476d8b87f5a048ed8abd",
+        "username": "CreativeForge",
+        "displayName": "CreativeForge_3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/CreativeForge",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d7db4b31ad05476d8b87f5a048ed8abd"
+    },
+    "vertexCount": 16130,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-container-019e896a7b984d11ae3030c7703af7ac",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the original file.The converted file is intended exclusively for browser preview. In the original file, the following are fully preserved:✔ full scene structure✔ all materials without simplification✔ correct PBR texture maps✔ original object namesIf you plan to use this model in production, select the original version.Sci Fi container that can be used in your concept art Fully unwrapped with 4K PBR Textures.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/019e896a7b984d11ae3030c7703af7ac/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T00:33:05.987045",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

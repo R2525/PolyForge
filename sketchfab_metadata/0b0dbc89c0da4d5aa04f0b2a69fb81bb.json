@@ -1,0 +1,204 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T04:37:35.770963",
+    "embedUrl": "https://sketchfab.com/models/0b0dbc89c0da4d5aa04f0b2a69fb81bb/embed",
+    "faceCount": 266528,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Whiskerstride",
+    "publishedAt": "2026-02-22T04:37:51.853732",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cat",
+            "slug": "cat",
+            "uri": "https://api.sketchfab.com/v3/tags/cat"
+        },
+        {
+            "name": "meme",
+            "slug": "meme",
+            "uri": "https://api.sketchfab.com/v3/tags/meme"
+        },
+        {
+            "name": "Neco",
+            "slug": "neco",
+            "uri": "https://api.sketchfab.com/v3/tags/neco"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "funny",
+            "slug": "funny",
+            "uri": "https://api.sketchfab.com/v3/tags/funny"
+        },
+        {
+            "name": "fate",
+            "slug": "fate",
+            "uri": "https://api.sketchfab.com/v3/tags/fate"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "stupedcat",
+            "slug": "stupedcat",
+            "uri": "https://api.sketchfab.com/v3/tags/stupedcat"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "79bcc1dae57e43bcb962a00545429a8e",
+                "width": 1920,
+                "height": 1080,
+                "size": 56344,
+                "url": "https://media.sketchfab.com/models/0b0dbc89c0da4d5aa04f0b2a69fb81bb/thumbnails/9dc02c1363444a7296f45705aefbda21/aee6d10a02da492185bab1ffd1fb72d3.jpeg"
+            },
+            {
+                "uid": "b9c2b711d7d747488aa9dc5a5e3bfdc3",
+                "width": 1024,
+                "height": 576,
+                "size": 19420,
+                "url": "https://media.sketchfab.com/models/0b0dbc89c0da4d5aa04f0b2a69fb81bb/thumbnails/9dc02c1363444a7296f45705aefbda21/8644f63187c64ce3bd01d56b67267f95.jpeg"
+            },
+            {
+                "uid": "b2180b04b57c40b58c02e9b469b58696",
+                "width": 720,
+                "height": 405,
+                "size": 11594,
+                "url": "https://media.sketchfab.com/models/0b0dbc89c0da4d5aa04f0b2a69fb81bb/thumbnails/9dc02c1363444a7296f45705aefbda21/3e2d04380cf2469cbad41ec7aafd9555.jpeg"
+            },
+            {
+                "uid": "7437a2dd958f4fe98ce0c4b96d33ee25",
+                "width": 256,
+                "height": 144,
+                "size": 2793,
+                "url": "https://media.sketchfab.com/models/0b0dbc89c0da4d5aa04f0b2a69fb81bb/thumbnails/9dc02c1363444a7296f45705aefbda21/50174ad2777948168ef3fcb456bc324d.jpeg"
+            },
+            {
+                "uid": "4c416dc17dba4dc08534972753b4550a",
+                "width": 64,
+                "height": 36,
+                "size": 879,
+                "url": "https://media.sketchfab.com/models/0b0dbc89c0da4d5aa04f0b2a69fb81bb/thumbnails/9dc02c1363444a7296f45705aefbda21/d0d170ec0b0b4783b4b974b68d855c4b.jpeg"
+            }
+        ]
+    },
+    "uid": "0b0dbc89c0da4d5aa04f0b2a69fb81bb",
+    "uri": "https://api.sketchfab.com/v3/models/0b0dbc89c0da4d5aa04f0b2a69fb81bb",
+    "user": {
+        "uid": "ccf4fa8e6c194790a6ca6480635bede9",
+        "username": "dark-du",
+        "displayName": "dark-du",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/dark-du",
+        "avatar": {
+            "uid": "af84e278bfe34ab08259e4033918edd7",
+            "uri": "https://api.sketchfab.com/v3/avatars/af84e278bfe34ab08259e4033918edd7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2823,
+                    "url": "https://media.sketchfab.com/avatars/af84e278bfe34ab08259e4033918edd7/0050236d57a34894bac492bf3d0a041f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5902,
+                    "url": "https://media.sketchfab.com/avatars/af84e278bfe34ab08259e4033918edd7/697a55cf0fdc4f61adf9aa9c6426c0fd.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 18791,
+                    "url": "https://media.sketchfab.com/avatars/af84e278bfe34ab08259e4033918edd7/c7c68d11ed3a497b940ce6e20d1639fb.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 22714,
+                    "url": "https://media.sketchfab.com/avatars/af84e278bfe34ab08259e4033918edd7/3e2042fe47614ee3ba94203eeb554938.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ccf4fa8e6c194790a6ca6480635bede9"
+    },
+    "vertexCount": 133259,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/whiskerstride-0b0dbc89c0da4d5aa04f0b2a69fb81bb",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/36Ffai](https://www.meshy.ai/s/36Ffai)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0b0dbc89c0da4d5aa04f0b2a69fb81bb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T04:37:51.830451",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

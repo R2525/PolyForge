@@ -1,0 +1,141 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T21:20:34.683826",
+    "embedUrl": "https://sketchfab.com/models/105a774b7a904079990b3a2d197d9ef4/embed",
+    "faceCount": 9198,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Mega-Lucario",
+    "publishedAt": "2026-02-19T21:29:27.898292",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f43532fe365f4a27846b675d3c7157fc",
+                "width": 1920,
+                "height": 1080,
+                "size": 63334,
+                "url": "https://media.sketchfab.com/models/105a774b7a904079990b3a2d197d9ef4/thumbnails/ea6a8dfb8263410794a91d4fb95e94bd/eca3f870e3f041a38bc6da693592a6bd.jpeg"
+            },
+            {
+                "uid": "81f526f099c74f64a1fb80aad82debdd",
+                "width": 1024,
+                "height": 576,
+                "size": 22597,
+                "url": "https://media.sketchfab.com/models/105a774b7a904079990b3a2d197d9ef4/thumbnails/ea6a8dfb8263410794a91d4fb95e94bd/ac04effb7c9443d48e250ed458acbdc1.jpeg"
+            },
+            {
+                "uid": "3c443b668f454228bc6868bc1bc1b9b0",
+                "width": 720,
+                "height": 405,
+                "size": 13480,
+                "url": "https://media.sketchfab.com/models/105a774b7a904079990b3a2d197d9ef4/thumbnails/ea6a8dfb8263410794a91d4fb95e94bd/c21dcc3c0716462d95ef38429ee0cde4.jpeg"
+            },
+            {
+                "uid": "7da2b5e0ef8e4a38b2622047904d8c52",
+                "width": 256,
+                "height": 144,
+                "size": 3288,
+                "url": "https://media.sketchfab.com/models/105a774b7a904079990b3a2d197d9ef4/thumbnails/ea6a8dfb8263410794a91d4fb95e94bd/0a8026bb4bfe493fa3722b1afe201ffc.jpeg"
+            },
+            {
+                "uid": "2b5548e6b8fe47f68253a09cd48edb91",
+                "width": 64,
+                "height": 36,
+                "size": 996,
+                "url": "https://media.sketchfab.com/models/105a774b7a904079990b3a2d197d9ef4/thumbnails/ea6a8dfb8263410794a91d4fb95e94bd/ccff0661ffae483fa96f4cd5e92a57ed.jpeg"
+            }
+        ]
+    },
+    "uid": "105a774b7a904079990b3a2d197d9ef4",
+    "uri": "https://api.sketchfab.com/v3/models/105a774b7a904079990b3a2d197d9ef4",
+    "user": {
+        "uid": "3965dadc62ea43729653339e9f98b8d2",
+        "username": "dipesh9560",
+        "displayName": "dipesh9560",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/dipesh9560",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3965dadc62ea43729653339e9f98b8d2"
+    },
+    "vertexCount": 4789,
+    "viewCount": 21,
+    "viewerUrl": "https://sketchfab.com/3d-models/mega-lucario-105a774b7a904079990b3a2d197d9ef4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is a detailed 3D model inspired by the iconic Pokémon character Lucario. The model captures the powerful and balanced fighting stance, sharp features, and signature aura-focused design that make Lucario unique.\n\nCarefully modeled with clean topology and accurate proportions, this asset is suitable for games, animations, renders, and real-time applications. Attention has been given to maintaining the character’s dynamic posture and strong silhouette.\n\nThe model includes optimized geometry for smooth performance while preserving visual detail.\n\nPerfect for Pokémon fans, collectors, and 3D artists looking for a high-quality character model.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/105a774b7a904079990b3a2d197d9ef4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T21:29:28.012328",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 3
+}

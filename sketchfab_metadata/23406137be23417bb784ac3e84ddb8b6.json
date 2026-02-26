@@ -1,0 +1,205 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-06T21:08:37.500787",
+    "embedUrl": "https://sketchfab.com/models/23406137be23417bb784ac3e84ddb8b6/embed",
+    "faceCount": 5026,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Stylized 3D sword model",
+    "publishedAt": "2026-01-06T21:11:16.734372",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "obj",
+            "slug": "obj",
+            "uri": "https://api.sketchfab.com/v3/tags/obj"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d08a6fe7d72c4eb18135afce3f4b6959",
+                "width": 1920,
+                "height": 1080,
+                "size": 37443,
+                "url": "https://media.sketchfab.com/models/23406137be23417bb784ac3e84ddb8b6/thumbnails/99cf48a628e1464f87a3a8653957d247/9730210eaa714e5ba60f5b0a4c1e33e4.jpeg"
+            },
+            {
+                "uid": "b9c36efc9e114e198abcc80b4bfe93a5",
+                "width": 1024,
+                "height": 576,
+                "size": 11612,
+                "url": "https://media.sketchfab.com/models/23406137be23417bb784ac3e84ddb8b6/thumbnails/99cf48a628e1464f87a3a8653957d247/0d7ef204b4504fe39b09d94082fd3149.jpeg"
+            },
+            {
+                "uid": "67422bd4efcf47b78312d6b7f91eeb0c",
+                "width": 720,
+                "height": 405,
+                "size": 6391,
+                "url": "https://media.sketchfab.com/models/23406137be23417bb784ac3e84ddb8b6/thumbnails/99cf48a628e1464f87a3a8653957d247/039eb2456b7b4e6985863a3949d362c8.jpeg"
+            },
+            {
+                "uid": "c0ed7165ce7c4462b1c69d096307612d",
+                "width": 256,
+                "height": 144,
+                "size": 1495,
+                "url": "https://media.sketchfab.com/models/23406137be23417bb784ac3e84ddb8b6/thumbnails/99cf48a628e1464f87a3a8653957d247/2f7b80b39e6f45baabe5544d87f069a0.jpeg"
+            },
+            {
+                "uid": "9d1885c8faf942db83384204eb171146",
+                "width": 64,
+                "height": 36,
+                "size": 725,
+                "url": "https://media.sketchfab.com/models/23406137be23417bb784ac3e84ddb8b6/thumbnails/99cf48a628e1464f87a3a8653957d247/17e537852dc94dceb2014398362efd55.jpeg"
+            }
+        ]
+    },
+    "uid": "23406137be23417bb784ac3e84ddb8b6",
+    "uri": "https://api.sketchfab.com/v3/models/23406137be23417bb784ac3e84ddb8b6",
+    "user": {
+        "uid": "fd84b8e7381e49bcafd21e6bf5086989",
+        "username": "corelacry",
+        "displayName": "corelacry",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/corelacry",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fd84b8e7381e49bcafd21e6bf5086989"
+    },
+    "vertexCount": 2395,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-3d-sword-model-23406137be23417bb784ac3e84ddb8b6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Stylized 3D sword model, designed with clean shapes and balanced proportions.\nFeatures a red handle, circular guard, and a sharp metallic blade.\nPerfect for fantasy environments, game development, animation, or illustration.\n\nFormats included: .blend, .fbx, .obj  \nClean rotation and consistent scale\nCompatible with Blender, Unity, Unreal Engine\nNo rigging, no animations\n\nTextures: not included\nMaterials: basic Blender materials\n\nDelivered with an organized structure and ready to import into any workflow.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/23406137be23417bb784ac3e84ddb8b6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-01-06T21:13:39.940879",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 5
+}

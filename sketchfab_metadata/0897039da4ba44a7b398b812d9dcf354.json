@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T20:55:22.297530",
+    "embedUrl": "https://sketchfab.com/models/0897039da4ba44a7b398b812d9dcf354/embed",
+    "faceCount": 17148,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 6,
+    "name": "Elf Archer",
+    "publishedAt": "2026-02-22T21:13:12.690406",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "arrow",
+            "slug": "arrow",
+            "uri": "https://api.sketchfab.com/v3/tags/arrow"
+        },
+        {
+            "name": "bow",
+            "slug": "bow",
+            "uri": "https://api.sketchfab.com/v3/tags/bow"
+        },
+        {
+            "name": "archer",
+            "slug": "archer",
+            "uri": "https://api.sketchfab.com/v3/tags/archer"
+        },
+        {
+            "name": "efl",
+            "slug": "efl",
+            "uri": "https://api.sketchfab.com/v3/tags/efl"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "164b7c888bf14db992b8abbbd0d1eeb1",
+                "width": 1920,
+                "height": 1080,
+                "size": 230230,
+                "url": "https://media.sketchfab.com/models/0897039da4ba44a7b398b812d9dcf354/thumbnails/fc2f9a49d58f41748bd5f797b4ba17d5/7ff6539c8d5f4e739fcf8225fcf0bd2a.jpeg"
+            },
+            {
+                "uid": "978f1f1943c14f87bb7189833f27d3ea",
+                "width": 1024,
+                "height": 576,
+                "size": 42635,
+                "url": "https://media.sketchfab.com/models/0897039da4ba44a7b398b812d9dcf354/thumbnails/fc2f9a49d58f41748bd5f797b4ba17d5/e7f822471b134667884fafab0bf25396.jpeg"
+            },
+            {
+                "uid": "339a142cce794179b0e462885d93569b",
+                "width": 720,
+                "height": 405,
+                "size": 25549,
+                "url": "https://media.sketchfab.com/models/0897039da4ba44a7b398b812d9dcf354/thumbnails/fc2f9a49d58f41748bd5f797b4ba17d5/7a59c4a2406b4704ad47b734c0a7ef85.jpeg"
+            },
+            {
+                "uid": "aab20d5be65642f69deaaca63c0018de",
+                "width": 256,
+                "height": 144,
+                "size": 5788,
+                "url": "https://media.sketchfab.com/models/0897039da4ba44a7b398b812d9dcf354/thumbnails/fc2f9a49d58f41748bd5f797b4ba17d5/698a71dbf448403bbe0a9a000900ae34.jpeg"
+            },
+            {
+                "uid": "1a0433028e7f4957b05cfc2fbfdba65c",
+                "width": 64,
+                "height": 36,
+                "size": 1283,
+                "url": "https://media.sketchfab.com/models/0897039da4ba44a7b398b812d9dcf354/thumbnails/fc2f9a49d58f41748bd5f797b4ba17d5/d6ca9b9e3bbf44ba9de0a3da9e364127.jpeg"
+            }
+        ]
+    },
+    "uid": "0897039da4ba44a7b398b812d9dcf354",
+    "uri": "https://api.sketchfab.com/v3/models/0897039da4ba44a7b398b812d9dcf354",
+    "user": {
+        "uid": "3e299f6849c34988b72cde53a9a9d383",
+        "username": "infant2k4",
+        "displayName": "Infant",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/infant2k4",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3e299f6849c34988b72cde53a9a9d383"
+    },
+    "vertexCount": 9298,
+    "viewCount": 109,
+    "viewerUrl": "https://sketchfab.com/3d-models/elf-archer-0897039da4ba44a7b398b812d9dcf354",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Elf Archer based on an AI generated image.\nGenerated locally using Dixar V4.\nUsed Hunyuan 3.1 to make a 500k 3D model and modifed it.\n\nThe hands are from [sketchfab](https://sketchfab.com/3d-models/arms-hands-head-legs-and-feet-low-poly-female-9ba2de9a0e4941da9ac55d43b8652a4b), slightly modified.",
+    "price": null,
+    "downloadCount": 14,
+    "editorUrl": "https://sketchfab.com/models/0897039da4ba44a7b398b812d9dcf354/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T22:04:15.096704",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 15
+}

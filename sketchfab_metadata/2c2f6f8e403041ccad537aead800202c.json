@@ -1,0 +1,235 @@
+{
+    "animationCount": 21,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T14:27:01.367490",
+    "embedUrl": "https://sketchfab.com/models/2c2f6f8e403041ccad537aead800202c/embed",
+    "faceCount": 18998,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Metra Stylized Ice Golem – Game Ready Character",
+    "publishedAt": "2026-02-24T15:02:49.738224",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "golem",
+            "slug": "golem",
+            "uri": "https://api.sketchfab.com/v3/tags/golem"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "boss",
+            "slug": "boss",
+            "uri": "https://api.sketchfab.com/v3/tags/boss"
+        },
+        {
+            "name": "Enemy",
+            "slug": "enemy",
+            "uri": "https://api.sketchfab.com/v3/tags/enemy"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "Elemental",
+            "slug": "elemental",
+            "uri": "https://api.sketchfab.com/v3/tags/elemental"
+        },
+        {
+            "name": "unreal-engine",
+            "slug": "unreal-engine",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal-engine"
+        },
+        {
+            "name": "game-asset",
+            "slug": "game-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+        },
+        {
+            "name": "animated-character",
+            "slug": "animated-character",
+            "uri": "https://api.sketchfab.com/v3/tags/animated-character"
+        },
+        {
+            "name": "stylized-character",
+            "slug": "stylized-character",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-character"
+        },
+        {
+            "name": "fantasy-creature",
+            "slug": "fantasy-creature",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-creature"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "3d-character",
+            "slug": "3d-character",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-character"
+        },
+        {
+            "name": "stylized-fantasy",
+            "slug": "stylized-fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-fantasy"
+        },
+        {
+            "name": "ice-golem",
+            "slug": "ice-golem",
+            "uri": "https://api.sketchfab.com/v3/tags/ice-golem"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e718df2669e54d8ba219d28ef33aaae7",
+                "width": 1920,
+                "height": 1080,
+                "size": 128533,
+                "url": "https://media.sketchfab.com/models/2c2f6f8e403041ccad537aead800202c/thumbnails/3a3b1a0d71aa4a308540ddb3a47d1c47/c0c1a7d29a12446a9d3995e3f2df0307.jpeg"
+            },
+            {
+                "uid": "f109c44ccd0b4cc883bd2bcc9aaadb01",
+                "width": 1024,
+                "height": 576,
+                "size": 46690,
+                "url": "https://media.sketchfab.com/models/2c2f6f8e403041ccad537aead800202c/thumbnails/3a3b1a0d71aa4a308540ddb3a47d1c47/3be12c53ce9c4a319597f117072b46d4.jpeg"
+            },
+            {
+                "uid": "16c4b93e05ec4e05aa4e617b5cd8ee7e",
+                "width": 720,
+                "height": 405,
+                "size": 27812,
+                "url": "https://media.sketchfab.com/models/2c2f6f8e403041ccad537aead800202c/thumbnails/3a3b1a0d71aa4a308540ddb3a47d1c47/b9bfc5417a9248fe85401448d015f126.jpeg"
+            },
+            {
+                "uid": "9c542fa737fc43028b050294eede90b3",
+                "width": 256,
+                "height": 144,
+                "size": 5966,
+                "url": "https://media.sketchfab.com/models/2c2f6f8e403041ccad537aead800202c/thumbnails/3a3b1a0d71aa4a308540ddb3a47d1c47/16fe9813fce447558c6be33367407e1a.jpeg"
+            },
+            {
+                "uid": "cf5be1d331cd4911ae538ef7d6adfd0c",
+                "width": 64,
+                "height": 36,
+                "size": 1170,
+                "url": "https://media.sketchfab.com/models/2c2f6f8e403041ccad537aead800202c/thumbnails/3a3b1a0d71aa4a308540ddb3a47d1c47/338cf1b7dcbc4f40974cb5e160d8354c.jpeg"
+            }
+        ]
+    },
+    "uid": "2c2f6f8e403041ccad537aead800202c",
+    "uri": "https://api.sketchfab.com/v3/models/2c2f6f8e403041ccad537aead800202c",
+    "user": {
+        "uid": "3373f530e50c40689ee103acd57f4876",
+        "username": "greenman",
+        "displayName": "greenman",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/greenman",
+        "avatar": {
+            "uid": "361ada68f9fa4a67b44ed145eecb2610",
+            "uri": "https://api.sketchfab.com/v3/avatars/361ada68f9fa4a67b44ed145eecb2610",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 914,
+                    "url": "https://media.sketchfab.com/avatars/361ada68f9fa4a67b44ed145eecb2610/9bf9a6f7aa6548c29ae6ca18ea4b2e00.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1125,
+                    "url": "https://media.sketchfab.com/avatars/361ada68f9fa4a67b44ed145eecb2610/7a7964c9801a4dac8230fcb88626abba.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1924,
+                    "url": "https://media.sketchfab.com/avatars/361ada68f9fa4a67b44ed145eecb2610/eed2887842ab4419a0a7e8cfd819fc54.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2138,
+                    "url": "https://media.sketchfab.com/avatars/361ada68f9fa4a67b44ed145eecb2610/43d097aa2e0d410ab0de5a910d60c1f2.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3373f530e50c40689ee103acd57f4876"
+    },
+    "vertexCount": 9539,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/metra-stylized-ice-golem-game-ready-character-2c2f6f8e403041ccad537aead800202c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "High-quality Stylized Ice Golem – Game Ready Animated Character, designed for real-time use in Unreal Engine and Unity.\nThis stylized fantasy elemental creature is built with a clean topology and strong readable shapes, making it perfect for RPGs, adventure games, and stylized worlds. The character features a solid and heroic silhouette with crystal formations embedded in a frozen body of enchanted ice.\nAccording to ancient legends, Ice Golems are living constructs born from magical glaciers, created to guard lost temples and frozen kingdoms. When awakened, they move slowly but strike with overwhelming strength, freezing the ground beneath their steps.\n\nThis asset is fully game ready, optimized for real-time rendering and easy integration into game projects.\n\nIncludes 25 ready-to-use animations, allowing immediate use as an enemy, boss, or guardian creature.\nEasy integration in Unreal Engine and Unity",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2c2f6f8e403041ccad537aead800202c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T15:26:33.943968",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 1
+}

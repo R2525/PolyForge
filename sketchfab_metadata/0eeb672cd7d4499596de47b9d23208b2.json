@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T10:51:18.067219",
+    "embedUrl": "https://sketchfab.com/models/0eeb672cd7d4499596de47b9d23208b2/embed",
+    "faceCount": 7636,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 5,
+    "name": "LP_objects_forest",
+    "publishedAt": "2026-02-22T10:55:04.201481",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "grass",
+            "slug": "grass",
+            "uri": "https://api.sketchfab.com/v3/tags/grass"
+        },
+        {
+            "name": "log",
+            "slug": "log",
+            "uri": "https://api.sketchfab.com/v3/tags/log"
+        },
+        {
+            "name": "rocks",
+            "slug": "rocks",
+            "uri": "https://api.sketchfab.com/v3/tags/rocks"
+        },
+        {
+            "name": "Bushes",
+            "slug": "bushes",
+            "uri": "https://api.sketchfab.com/v3/tags/bushes"
+        },
+        {
+            "name": "mashrooms",
+            "slug": "mashrooms",
+            "uri": "https://api.sketchfab.com/v3/tags/mashrooms"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9b4b5f550c89416b8e3026f5559aca69",
+                "width": 1920,
+                "height": 1080,
+                "size": 57820,
+                "url": "https://media.sketchfab.com/models/0eeb672cd7d4499596de47b9d23208b2/thumbnails/f60d4b5e7e544d13874e905b63dfb9b4/95732f45436c4a0b9648e418eef20478.jpeg"
+            },
+            {
+                "uid": "6605b3f9e708475a9547c5abc0ff6cd7",
+                "width": 1024,
+                "height": 576,
+                "size": 19455,
+                "url": "https://media.sketchfab.com/models/0eeb672cd7d4499596de47b9d23208b2/thumbnails/f60d4b5e7e544d13874e905b63dfb9b4/0817e848c4eb4c25a38ffb1c724362c0.jpeg"
+            },
+            {
+                "uid": "abb4763a6ec14aff967ce0a5a3e1d807",
+                "width": 720,
+                "height": 405,
+                "size": 11425,
+                "url": "https://media.sketchfab.com/models/0eeb672cd7d4499596de47b9d23208b2/thumbnails/f60d4b5e7e544d13874e905b63dfb9b4/7d5efe2f9dae4cab84eb4775366cfc11.jpeg"
+            },
+            {
+                "uid": "70e06b5323e647dc969b9719bf7039d3",
+                "width": 256,
+                "height": 144,
+                "size": 2586,
+                "url": "https://media.sketchfab.com/models/0eeb672cd7d4499596de47b9d23208b2/thumbnails/f60d4b5e7e544d13874e905b63dfb9b4/74da1b7e2113420586819fb87f4f5670.jpeg"
+            },
+            {
+                "uid": "46fe05aaef1a49a6b89fa036153f80f9",
+                "width": 64,
+                "height": 36,
+                "size": 857,
+                "url": "https://media.sketchfab.com/models/0eeb672cd7d4499596de47b9d23208b2/thumbnails/f60d4b5e7e544d13874e905b63dfb9b4/f209b5503d5747c9b30d1def94656bb3.jpeg"
+            }
+        ]
+    },
+    "uid": "0eeb672cd7d4499596de47b9d23208b2",
+    "uri": "https://api.sketchfab.com/v3/models/0eeb672cd7d4499596de47b9d23208b2",
+    "user": {
+        "uid": "a862e582b1e44c0ca2175b25f6a621c0",
+        "username": "CubeModeller",
+        "displayName": "CubeModeller",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/CubeModeller",
+        "avatar": {
+            "uid": "138fff900f944d30af04ba78b81646ea",
+            "uri": "https://api.sketchfab.com/v3/avatars/138fff900f944d30af04ba78b81646ea",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 746,
+                    "url": "https://media.sketchfab.com/avatars/138fff900f944d30af04ba78b81646ea/ac67a9a8dd2b45b19bb7e9d39865ff5f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 894,
+                    "url": "https://media.sketchfab.com/avatars/138fff900f944d30af04ba78b81646ea/29a7524009ce45d6832c60a9d3948f73.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1409,
+                    "url": "https://media.sketchfab.com/avatars/138fff900f944d30af04ba78b81646ea/c2d6e58610fa4663b23d1bc5fa4cd2fd.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1571,
+                    "url": "https://media.sketchfab.com/avatars/138fff900f944d30af04ba78b81646ea/904ad42f9982480ca03450e8309ee0b3.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a862e582b1e44c0ca2175b25f6a621c0"
+    },
+    "vertexCount": 4631,
+    "viewCount": 25,
+    "viewerUrl": "https://sketchfab.com/3d-models/lp-objects-forest-0eeb672cd7d4499596de47b9d23208b2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "low poly objects for forest scenes",
+    "price": null,
+    "downloadCount": 12,
+    "editorUrl": "https://sketchfab.com/models/0eeb672cd7d4499596de47b9d23208b2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T10:55:04.305708",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 15
+}

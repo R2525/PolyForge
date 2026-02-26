@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-01T17:18:11.274426",
+    "embedUrl": "https://sketchfab.com/models/2697c2d3cd5a40009765288e75c8b66c/embed",
+    "faceCount": 496640,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "☢️✖T-✖T-Beta☢️",
+    "publishedAt": "2026-02-01T17:24:20.433069",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "vehicles",
+            "slug": "vehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicles"
+        },
+        {
+            "name": "walker",
+            "slug": "walker",
+            "uri": "https://api.sketchfab.com/v3/tags/walker"
+        },
+        {
+            "name": "atat",
+            "slug": "atat",
+            "uri": "https://api.sketchfab.com/v3/tags/atat"
+        },
+        {
+            "name": "at-at",
+            "slug": "at-at",
+            "uri": "https://api.sketchfab.com/v3/tags/at-at"
+        },
+        {
+            "name": "atatwalker",
+            "slug": "atatwalker",
+            "uri": "https://api.sketchfab.com/v3/tags/atatwalker"
+        },
+        {
+            "name": "star-wars",
+            "slug": "star-wars",
+            "uri": "https://api.sketchfab.com/v3/tags/star-wars"
+        },
+        {
+            "name": "vehicledesign",
+            "slug": "vehicledesign",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicledesign"
+        },
+        {
+            "name": "futuristic-vehicle",
+            "slug": "futuristic-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic-vehicle"
+        },
+        {
+            "name": "starwarsvehicle",
+            "slug": "starwarsvehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/starwarsvehicle"
+        },
+        {
+            "name": "sci-fi-vehicle",
+            "slug": "sci-fi-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi-vehicle"
+        },
+        {
+            "name": "military-vehicle",
+            "slug": "military-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/military-vehicle"
+        },
+        {
+            "name": "walkers",
+            "slug": "walkers",
+            "uri": "https://api.sketchfab.com/v3/tags/walkers"
+        },
+        {
+            "name": "vehicle-sci-fi",
+            "slug": "vehicle-sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle-sci-fi"
+        },
+        {
+            "name": "pbr-game-ready",
+            "slug": "pbr-game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-game-ready"
+        },
+        {
+            "name": "vehicle-design",
+            "slug": "vehicle-design",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle-design"
+        },
+        {
+            "name": "militaryvehicle",
+            "slug": "militaryvehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/militaryvehicle"
+        },
+        {
+            "name": "at-at-walker",
+            "slug": "at-at-walker",
+            "uri": "https://api.sketchfab.com/v3/tags/at-at-walker"
+        },
+        {
+            "name": "pbr-textures",
+            "slug": "pbr-textures",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-textures"
+        },
+        {
+            "name": "scifivehicle",
+            "slug": "scifivehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/scifivehicle"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "scifi-vehicle",
+            "slug": "scifi-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi-vehicle"
+        },
+        {
+            "name": "walker-mech",
+            "slug": "walker-mech",
+            "uri": "https://api.sketchfab.com/v3/tags/walker-mech"
+        },
+        {
+            "name": "militaryvehicles",
+            "slug": "militaryvehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/militaryvehicles"
+        },
+        {
+            "name": "star-wars-vehicle",
+            "slug": "star-wars-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/star-wars-vehicle"
+        },
+        {
+            "name": "futuristicvehicle",
+            "slug": "futuristicvehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristicvehicle"
+        },
+        {
+            "name": "sci-fivehicles",
+            "slug": "sci-fivehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fivehicles"
+        },
+        {
+            "name": "at-atwalker",
+            "slug": "at-atwalker",
+            "uri": "https://api.sketchfab.com/v3/tags/at-atwalker"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "futuristic-vehicles",
+            "slug": "futuristic-vehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic-vehicles"
+        },
+        {
+            "name": "3daistudio",
+            "slug": "3daistudio",
+            "uri": "https://api.sketchfab.com/v3/tags/3daistudio"
+        },
+        {
+            "name": "scifivehicles",
+            "slug": "scifivehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/scifivehicles"
+        },
+        {
+            "name": "hunyuan3d",
+            "slug": "hunyuan3d",
+            "uri": "https://api.sketchfab.com/v3/tags/hunyuan3d"
+        },
+        {
+            "name": "hunyuan",
+            "slug": "hunyuan",
+            "uri": "https://api.sketchfab.com/v3/tags/hunyuan"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "walker-tank",
+            "slug": "walker-tank",
+            "uri": "https://api.sketchfab.com/v3/tags/walker-tank"
+        },
+        {
+            "name": "3dai-model",
+            "slug": "3dai-model",
+            "uri": "https://api.sketchfab.com/v3/tags/3dai-model"
+        },
+        {
+            "name": "3dai-studio",
+            "slug": "3dai-studio",
+            "uri": "https://api.sketchfab.com/v3/tags/3dai-studio"
+        },
+        {
+            "name": "3daistudio-models",
+            "slug": "3daistudio-models",
+            "uri": "https://api.sketchfab.com/v3/tags/3daistudio-models"
+        },
+        {
+            "name": "hunyuan-models",
+            "slug": "hunyuan-models",
+            "uri": "https://api.sketchfab.com/v3/tags/hunyuan-models"
+        },
+        {
+            "name": "hunyuan3dai",
+            "slug": "hunyuan3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/hunyuan3dai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "56965b121ade4642afa49d57e553c53b",
+                "width": 1920,
+                "height": 1080,
+                "size": 312979,
+                "url": "https://media.sketchfab.com/models/2697c2d3cd5a40009765288e75c8b66c/thumbnails/eb03a3c187744765a80d20a9b3ec78a7/515d0b6c78a546518afaf5d43dea2094.jpeg"
+            },
+            {
+                "uid": "4100954165a34a8ebc8c27c03655798d",
+                "width": 1024,
+                "height": 576,
+                "size": 56349,
+                "url": "https://media.sketchfab.com/models/2697c2d3cd5a40009765288e75c8b66c/thumbnails/eb03a3c187744765a80d20a9b3ec78a7/cb4d25c4b7614441b7c452a31c9c8827.jpeg"
+            },
+            {
+                "uid": "343413a515f0427abe2608a2c44fe7be",
+                "width": 720,
+                "height": 405,
+                "size": 29415,
+                "url": "https://media.sketchfab.com/models/2697c2d3cd5a40009765288e75c8b66c/thumbnails/eb03a3c187744765a80d20a9b3ec78a7/c85358e4043c4f27aae656ae535f557b.jpeg"
+            },
+            {
+                "uid": "3d9f18c18818436caec3d6cbc6773456",
+                "width": 256,
+                "height": 144,
+                "size": 5722,
+                "url": "https://media.sketchfab.com/models/2697c2d3cd5a40009765288e75c8b66c/thumbnails/eb03a3c187744765a80d20a9b3ec78a7/3eb72614227d44f4b46be6e6a6f86243.jpeg"
+            },
+            {
+                "uid": "89a32f14797748fbaad3418a460f99c0",
+                "width": 64,
+                "height": 36,
+                "size": 1169,
+                "url": "https://media.sketchfab.com/models/2697c2d3cd5a40009765288e75c8b66c/thumbnails/eb03a3c187744765a80d20a9b3ec78a7/c6f2d127502e49b8b6a1bf16d59b1390.jpeg"
+            }
+        ]
+    },
+    "uid": "2697c2d3cd5a40009765288e75c8b66c",
+    "uri": "https://api.sketchfab.com/v3/models/2697c2d3cd5a40009765288e75c8b66c",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 248002,
+    "viewCount": 67,
+    "viewerUrl": "https://sketchfab.com/3d-models/t-t-beta-2697c2d3cd5a40009765288e75c8b66c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 10,
+    "editorUrl": "https://sketchfab.com/models/2697c2d3cd5a40009765288e75c8b66c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T19:27:28.035318",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

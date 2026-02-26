@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-24T16:54:21.874107",
+    "embedUrl": "https://sketchfab.com/models/08e8bcb59efe4256bf710e232fb591fe/embed",
+    "faceCount": 3265,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Post-Apocalyptic Industrial Factory",
+    "publishedAt": "2026-01-24T17:03:46.621710",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "factory",
+            "slug": "factory",
+            "uri": "https://api.sketchfab.com/v3/tags/factory"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "23f9b7349f994a5fbabc087deeb2b1ea",
+                "width": 1920,
+                "height": 1080,
+                "size": 517648,
+                "url": "https://media.sketchfab.com/models/08e8bcb59efe4256bf710e232fb591fe/thumbnails/9a46391010ae4ae0aef2033ca03cad46/0cdd2dd78645488e890a0455cad8dd2e.jpeg"
+            },
+            {
+                "uid": "701f26efe14143a4bbff7b83dd7cfe62",
+                "width": 1024,
+                "height": 576,
+                "size": 76595,
+                "url": "https://media.sketchfab.com/models/08e8bcb59efe4256bf710e232fb591fe/thumbnails/9a46391010ae4ae0aef2033ca03cad46/3e4beb6197d64d0dbc4e8d5819c45b1c.jpeg"
+            },
+            {
+                "uid": "18effa5d2f16404aaa880f2453f350e3",
+                "width": 720,
+                "height": 405,
+                "size": 37731,
+                "url": "https://media.sketchfab.com/models/08e8bcb59efe4256bf710e232fb591fe/thumbnails/9a46391010ae4ae0aef2033ca03cad46/177384300d1f4754a7e116cf04fc4a18.jpeg"
+            },
+            {
+                "uid": "c059557e2f3b44499a43361473516ece",
+                "width": 256,
+                "height": 144,
+                "size": 6497,
+                "url": "https://media.sketchfab.com/models/08e8bcb59efe4256bf710e232fb591fe/thumbnails/9a46391010ae4ae0aef2033ca03cad46/93d0ae4313024f5397cecbd9c12a0d74.jpeg"
+            },
+            {
+                "uid": "3dad6d5cf21247ef8f7e31059335b9f5",
+                "width": 64,
+                "height": 36,
+                "size": 1299,
+                "url": "https://media.sketchfab.com/models/08e8bcb59efe4256bf710e232fb591fe/thumbnails/9a46391010ae4ae0aef2033ca03cad46/5f60370a71944aa286713890f09569da.jpeg"
+            }
+        ]
+    },
+    "uid": "08e8bcb59efe4256bf710e232fb591fe",
+    "uri": "https://api.sketchfab.com/v3/models/08e8bcb59efe4256bf710e232fb591fe",
+    "user": {
+        "uid": "315009c06a3d459e952dbfbd3c627cdb",
+        "username": "alpen",
+        "displayName": "alpenwolf",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alpen",
+        "avatar": {
+            "uid": "1cc81f55a2cf4a4db0c1ff81c2a5609f",
+            "uri": "https://api.sketchfab.com/v3/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3506,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/c0e01e1a7eed4324951fd6febf97b6d1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3049,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/0978b6cc84634b1abdb025d05f9eab57.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1349,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/dcb15b61611a48009f5ed3d789e7b6f6.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 874,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/f427dd2996ed43ca973c7e13b8daf132.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/315009c06a3d459e952dbfbd3c627cdb"
+    },
+    "vertexCount": 2069,
+    "viewCount": 80,
+    "viewerUrl": "https://sketchfab.com/3d-models/post-apocalyptic-industrial-factory-08e8bcb59efe4256bf710e232fb591fe",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/08e8bcb59efe4256bf710e232fb591fe/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-25T07:03:00.788782",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

@@ -1,0 +1,227 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-22T19:48:27.199579",
+    "embedUrl": "https://sketchfab.com/models/303c18dc71ee4918afb684103bb2af0f/embed",
+    "faceCount": 9028,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/72eb2b1960364637901eacce19283624",
+        "label": "Free Standard",
+        "fullName": "Free Standard",
+        "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+        "url": "https://sketchfab.com/licenses",
+        "slug": "free-st"
+    },
+    "likeCount": 1,
+    "name": "Sawed off pump shotgun",
+    "publishedAt": "2025-12-22T19:51:49.205722",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "police",
+            "slug": "police",
+            "uri": "https://api.sketchfab.com/v3/tags/police"
+        },
+        {
+            "name": "rifle",
+            "slug": "rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle"
+        },
+        {
+            "name": "army",
+            "slug": "army",
+            "uri": "https://api.sketchfab.com/v3/tags/army"
+        },
+        {
+            "name": "fps",
+            "slug": "fps",
+            "uri": "https://api.sketchfab.com/v3/tags/fps"
+        },
+        {
+            "name": "shooter",
+            "slug": "shooter",
+            "uri": "https://api.sketchfab.com/v3/tags/shooter"
+        },
+        {
+            "name": "worn",
+            "slug": "worn",
+            "uri": "https://api.sketchfab.com/v3/tags/worn"
+        },
+        {
+            "name": "sawed-off",
+            "slug": "sawed-off",
+            "uri": "https://api.sketchfab.com/v3/tags/sawed-off"
+        },
+        {
+            "name": "gritty",
+            "slug": "gritty",
+            "uri": "https://api.sketchfab.com/v3/tags/gritty"
+        },
+        {
+            "name": "apocolyptic",
+            "slug": "apocolyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/apocolyptic"
+        },
+        {
+            "name": "apocolypse",
+            "slug": "apocolypse",
+            "uri": "https://api.sketchfab.com/v3/tags/apocolypse"
+        },
+        {
+            "name": "pumpaction",
+            "slug": "pumpaction",
+            "uri": "https://api.sketchfab.com/v3/tags/pumpaction"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "shotgun",
+            "slug": "shotgun",
+            "uri": "https://api.sketchfab.com/v3/tags/shotgun"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        },
+        {
+            "name": "zombie",
+            "slug": "zombie",
+            "uri": "https://api.sketchfab.com/v3/tags/zombie"
+        },
+        {
+            "name": "sawedoff-shotgun",
+            "slug": "sawedoff-shotgun",
+            "uri": "https://api.sketchfab.com/v3/tags/sawedoff-shotgun"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8cd6c251db18417685797cf432b167ac",
+                "width": 1920,
+                "height": 1080,
+                "size": 60296,
+                "url": "https://media.sketchfab.com/models/303c18dc71ee4918afb684103bb2af0f/thumbnails/7e50da0c0f424a1d8c4f1bcf44640b42/6a1337530e5b4c27b5c015d22a55baa7.jpeg"
+            },
+            {
+                "uid": "78cfcd54071b4e4bb60be7267d0f6c55",
+                "width": 1024,
+                "height": 576,
+                "size": 19284,
+                "url": "https://media.sketchfab.com/models/303c18dc71ee4918afb684103bb2af0f/thumbnails/7e50da0c0f424a1d8c4f1bcf44640b42/cade2db34ade4146b1704e003ca70bc1.jpeg"
+            },
+            {
+                "uid": "1ad9e9e512744697a45939fa5b9ec11e",
+                "width": 720,
+                "height": 405,
+                "size": 11019,
+                "url": "https://media.sketchfab.com/models/303c18dc71ee4918afb684103bb2af0f/thumbnails/7e50da0c0f424a1d8c4f1bcf44640b42/bf6c6a983ad04c56a355fba6c6b4d5b8.jpeg"
+            },
+            {
+                "uid": "02493e006a8646d8b58ab6d79c6043a5",
+                "width": 256,
+                "height": 144,
+                "size": 2532,
+                "url": "https://media.sketchfab.com/models/303c18dc71ee4918afb684103bb2af0f/thumbnails/7e50da0c0f424a1d8c4f1bcf44640b42/f685ff98f2214201a5ffea07d3382161.jpeg"
+            },
+            {
+                "uid": "a7625b7404384643bbbe62da06be9053",
+                "width": 64,
+                "height": 36,
+                "size": 889,
+                "url": "https://media.sketchfab.com/models/303c18dc71ee4918afb684103bb2af0f/thumbnails/7e50da0c0f424a1d8c4f1bcf44640b42/2e499b958c4a49a8a0eadfb2bdce89c7.jpeg"
+            }
+        ]
+    },
+    "uid": "303c18dc71ee4918afb684103bb2af0f",
+    "uri": "https://api.sketchfab.com/v3/models/303c18dc71ee4918afb684103bb2af0f",
+    "user": {
+        "uid": "d1c5033736b34504ad78a124604bad92",
+        "username": "cpollack489",
+        "displayName": "cjpcpc",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/cpollack489",
+        "avatar": {
+            "uid": "74e7019e98504261906af133cebf8655",
+            "uri": "https://api.sketchfab.com/v3/avatars/74e7019e98504261906af133cebf8655",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2504,
+                    "url": "https://media.sketchfab.com/avatars/74e7019e98504261906af133cebf8655/572cfd48b2ee4520bb7c7d94069235d9.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5268,
+                    "url": "https://media.sketchfab.com/avatars/74e7019e98504261906af133cebf8655/bd960a6cb6834bd0ab0fa143620d4fd5.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 17373,
+                    "url": "https://media.sketchfab.com/avatars/74e7019e98504261906af133cebf8655/d5454a72768545e38dfcb4f48ce4ad75.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 21178,
+                    "url": "https://media.sketchfab.com/avatars/74e7019e98504261906af133cebf8655/5cc9fc8203b744369e756c27bf46a5a7.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d1c5033736b34504ad78a124604bad92"
+    },
+    "vertexCount": 4545,
+    "viewCount": 108,
+    "viewerUrl": "https://sketchfab.com/3d-models/sawed-off-pump-shotgun-303c18dc71ee4918afb684103bb2af0f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Sawed off pump shotgun with bandolier. Worn textures perfect for post apocolyptic vibe. Modelled in MAYA and textured in Substance. Low poly game ready model",
+    "price": null,
+    "downloadCount": 20,
+    "editorUrl": "https://sketchfab.com/models/303c18dc71ee4918afb684103bb2af0f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-26T22:50:44.015373",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

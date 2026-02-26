@@ -1,0 +1,69 @@
+{
+    "category": "Nature & Plants",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Natural",
+            "score": 0.8
+        },
+        {
+            "name": "Forest",
+            "score": 0.7
+        },
+        {
+            "name": "Wildlife",
+            "score": 0.6
+        },
+        {
+            "name": "Decay",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Realistic",
+            "score": 0.7
+        },
+        {
+            "name": "Naturalistic",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Realistic Texture",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Dusty",
+        "Weathered",
+        "Decayed",
+        "Fungal"
+    ],
+    "tags": [
+        "branch pile",
+        "forest debris",
+        "wildlife",
+        "nature",
+        "organic",
+        "decayed",
+        "tree roots",
+        "moss"
+    ],
+    "model_id_full": "50eb161f62f341c488e95376d64f1fd0_Cut branches pile",
+    "sketchfab_id": "50eb161f62f341c488e95376d64f1fd0",
+    "asset_name": "Cut branches pile"
+}

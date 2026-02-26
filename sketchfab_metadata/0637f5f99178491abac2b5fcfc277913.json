@@ -1,0 +1,211 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-23T12:17:59.548909",
+    "embedUrl": "https://sketchfab.com/models/0637f5f99178491abac2b5fcfc277913/embed",
+    "faceCount": 1672428,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 45,
+    "name": "Christ Crucified by Veit Stoss",
+    "publishedAt": "2026-01-29T06:43:43.547098",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "gothic",
+            "slug": "gothic",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic"
+        },
+        {
+            "name": "Crucifix",
+            "slug": "crucifix",
+            "uri": "https://api.sketchfab.com/v3/tags/crucifix"
+        },
+        {
+            "name": "christianity",
+            "slug": "christianity",
+            "uri": "https://api.sketchfab.com/v3/tags/christianity"
+        },
+        {
+            "name": "cultural-heritage",
+            "slug": "cultural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage"
+        },
+        {
+            "name": "catholicism",
+            "slug": "catholicism",
+            "uri": "https://api.sketchfab.com/v3/tags/catholicism"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "sculpture",
+            "slug": "sculpture",
+            "uri": "https://api.sketchfab.com/v3/tags/sculpture"
+        },
+        {
+            "name": "veitstoss",
+            "slug": "veitstoss",
+            "uri": "https://api.sketchfab.com/v3/tags/veitstoss"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f787723d889044199441e812823d5aba",
+                "width": 1920,
+                "height": 1080,
+                "size": 380576,
+                "url": "https://media.sketchfab.com/models/0637f5f99178491abac2b5fcfc277913/thumbnails/96577a9067254da7a983ec364b4bf7ab/0d01086eb3594303a1d9fb23d4c6d4d8.jpeg"
+            },
+            {
+                "uid": "4489069eadda44b1a23db40c740419e1",
+                "width": 1024,
+                "height": 576,
+                "size": 71191,
+                "url": "https://media.sketchfab.com/models/0637f5f99178491abac2b5fcfc277913/thumbnails/96577a9067254da7a983ec364b4bf7ab/b4c24048029a45caa5b6dbd15f14b3f5.jpeg"
+            },
+            {
+                "uid": "297ed019fd224bf2a81d527bfa1474fb",
+                "width": 720,
+                "height": 405,
+                "size": 32964,
+                "url": "https://media.sketchfab.com/models/0637f5f99178491abac2b5fcfc277913/thumbnails/96577a9067254da7a983ec364b4bf7ab/7cfd2dbd864f4c98a58098080e287474.jpeg"
+            },
+            {
+                "uid": "dc9414d36a57452d87aab42a86626c7e",
+                "width": 256,
+                "height": 144,
+                "size": 5083,
+                "url": "https://media.sketchfab.com/models/0637f5f99178491abac2b5fcfc277913/thumbnails/96577a9067254da7a983ec364b4bf7ab/d66bb3faf70e4d4b8ce005e115a44729.jpeg"
+            },
+            {
+                "uid": "44fdceb48e1343e58dc4670c3ced96a7",
+                "width": 64,
+                "height": 36,
+                "size": 1211,
+                "url": "https://media.sketchfab.com/models/0637f5f99178491abac2b5fcfc277913/thumbnails/96577a9067254da7a983ec364b4bf7ab/e6b79713d091419491de71b52bad344d.jpeg"
+            }
+        ]
+    },
+    "uid": "0637f5f99178491abac2b5fcfc277913",
+    "uri": "https://api.sketchfab.com/v3/models/0637f5f99178491abac2b5fcfc277913",
+    "user": {
+        "uid": "e9db551b564149808335556d521a9f51",
+        "username": "WirtualneMuzeaMalopolski",
+        "displayName": "Virtual Museums of Małopolska",
+        "account": "prem",
+        "profileUrl": "https://sketchfab.com/WirtualneMuzeaMalopolski",
+        "avatar": {
+            "uid": "6772453d4ea945d08b21b3696e88d0e0",
+            "uri": "https://api.sketchfab.com/v3/avatars/6772453d4ea945d08b21b3696e88d0e0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 651,
+                    "url": "https://media.sketchfab.com/avatars/6772453d4ea945d08b21b3696e88d0e0/f7f5399c862b4aff9bfbd9c13fc08703.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 985,
+                    "url": "https://media.sketchfab.com/avatars/6772453d4ea945d08b21b3696e88d0e0/2e6dedc7cf124a16af68b4a950f43801.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2081,
+                    "url": "https://media.sketchfab.com/avatars/6772453d4ea945d08b21b3696e88d0e0/a48f1c84ccbb47b4941ef6fd868f1988.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2331,
+                    "url": "https://media.sketchfab.com/avatars/6772453d4ea945d08b21b3696e88d0e0/652370d8a90449debbdbd3248df895da.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e9db551b564149808335556d521a9f51"
+    },
+    "vertexCount": 836196,
+    "viewCount": 987,
+    "viewerUrl": "https://sketchfab.com/3d-models/christ-crucified-by-veit-stoss-0637f5f99178491abac2b5fcfc277913",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "**For more images and further information, visit:**\nhttps://muzea.malopolska.pl/pl/lista-obiektow/4527\n\nInventory number: OCM-2024-Rz-4\n\nTime and place: 15th century\n\nMuseum of Cistercian Spirituality and Culture with the Library in the Cistercian Abbey in Mogiła\n\n**Digitisation: Regional Digitisation Lab, Małopolska Institute of Culture in Kraków, Poland**\n\nProject Visualization (3D model + textures): Wojciech Szczekan",
+    "price": null,
+    "downloadCount": 142,
+    "editorUrl": "https://sketchfab.com/models/0637f5f99178491abac2b5fcfc277913/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-30T09:11:58.166598",
+    "pbrType": "specular",
+    "textureCount": 2,
+    "materialCount": 1
+}

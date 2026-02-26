@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T03:06:56.561618",
+    "embedUrl": "https://sketchfab.com/models/0de03ab1946e42978fbf6b36e261d584/embed",
+    "faceCount": 728,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Old Rusty Hatchet",
+    "publishedAt": "2026-02-21T03:08:04.553040",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "rusty",
+            "slug": "rusty",
+            "uri": "https://api.sketchfab.com/v3/tags/rusty"
+        },
+        {
+            "name": "survival",
+            "slug": "survival",
+            "uri": "https://api.sketchfab.com/v3/tags/survival"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "Tool",
+            "slug": "tool",
+            "uri": "https://api.sketchfab.com/v3/tags/tool"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "hatchet",
+            "slug": "hatchet",
+            "uri": "https://api.sketchfab.com/v3/tags/hatchet"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f697803148624c2b84d6f8f307cd3b33",
+                "width": 1920,
+                "height": 1080,
+                "size": 44128,
+                "url": "https://media.sketchfab.com/models/0de03ab1946e42978fbf6b36e261d584/thumbnails/c4df67ab35bd4fc8bb684e96d2ab7e47/7975cc2fe3104c728195ee87171c3f17.jpeg"
+            },
+            {
+                "uid": "44f7c8f5e9b747299831a3249ae76afd",
+                "width": 1024,
+                "height": 576,
+                "size": 13381,
+                "url": "https://media.sketchfab.com/models/0de03ab1946e42978fbf6b36e261d584/thumbnails/c4df67ab35bd4fc8bb684e96d2ab7e47/2b19869b5e214d35a3320a82219332ef.jpeg"
+            },
+            {
+                "uid": "5b3cf1f761184fa6b2eaefd98a4c5435",
+                "width": 720,
+                "height": 405,
+                "size": 7437,
+                "url": "https://media.sketchfab.com/models/0de03ab1946e42978fbf6b36e261d584/thumbnails/c4df67ab35bd4fc8bb684e96d2ab7e47/c1ec7f4967104fc5845132a27f24877c.jpeg"
+            },
+            {
+                "uid": "7b7661f631da483d930f6f2b8d69440f",
+                "width": 256,
+                "height": 144,
+                "size": 1675,
+                "url": "https://media.sketchfab.com/models/0de03ab1946e42978fbf6b36e261d584/thumbnails/c4df67ab35bd4fc8bb684e96d2ab7e47/656bca6cf37f4db79300ebef4e1ed660.jpeg"
+            },
+            {
+                "uid": "37d8708892ae4c0c80b1860541048a9a",
+                "width": 64,
+                "height": 36,
+                "size": 748,
+                "url": "https://media.sketchfab.com/models/0de03ab1946e42978fbf6b36e261d584/thumbnails/c4df67ab35bd4fc8bb684e96d2ab7e47/50722b2a9c164419b42d6288711fdb0b.jpeg"
+            }
+        ]
+    },
+    "uid": "0de03ab1946e42978fbf6b36e261d584",
+    "uri": "https://api.sketchfab.com/v3/models/0de03ab1946e42978fbf6b36e261d584",
+    "user": {
+        "uid": "6f912d6891214e6988705fc666f497d5",
+        "username": "foxqin10000",
+        "displayName": "foxqin10000",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/foxqin10000",
+        "avatar": {
+            "uid": "9f8ba7bf9fef4d989000528932cc360d",
+            "uri": "https://api.sketchfab.com/v3/avatars/9f8ba7bf9fef4d989000528932cc360d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1051,
+                    "url": "https://media.sketchfab.com/avatars/9f8ba7bf9fef4d989000528932cc360d/3638afabb5cc40b891931c38ebea2fab.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1415,
+                    "url": "https://media.sketchfab.com/avatars/9f8ba7bf9fef4d989000528932cc360d/8240816563f54c9d9d5395ddf7e8be85.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2964,
+                    "url": "https://media.sketchfab.com/avatars/9f8ba7bf9fef4d989000528932cc360d/473cdd5c286c43b6984548c7fb1f0e79.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3351,
+                    "url": "https://media.sketchfab.com/avatars/9f8ba7bf9fef4d989000528932cc360d/738005d518c94a6698beecf02a24101e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6f912d6891214e6988705fc666f497d5"
+    },
+    "vertexCount": 368,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/old-rusty-hatchet-0de03ab1946e42978fbf6b36e261d584",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For complete workflow compatibility, we recommend downloading the original file.The converted file is intended only for use in the web viewer. In the source file, the following are fully preserved:✔ native scene structure✔ all materials without simplification✔ correct PBR texture maps✔ original object namesIf you plan to use this model in production, download the source file.A 3D model of an old rusty hatchet with a weathered wooden handle. Perfect for survival medieval or horror themed scenes. The hatchet blade shows heavy rust and age giving it a rugged realistic look.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/0de03ab1946e42978fbf6b36e261d584/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T03:08:04.793621",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

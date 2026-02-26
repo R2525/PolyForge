@@ -1,0 +1,32 @@
+{
+    "category": "Food & Drink",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.65
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.45
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "can",
+        "soda",
+        "drink"
+    ]
+}

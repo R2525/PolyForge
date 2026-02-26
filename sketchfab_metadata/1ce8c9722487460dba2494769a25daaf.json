@@ -1,0 +1,206 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-09T14:40:54.949582",
+    "embedUrl": "https://sketchfab.com/models/1ce8c9722487460dba2494769a25daaf/embed",
+    "faceCount": 838373,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Steampunk Yellow Combat Boots",
+    "publishedAt": "2026-02-09T14:41:56.188038",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "fashion",
+            "slug": "fashion",
+            "uri": "https://api.sketchfab.com/v3/tags/fashion"
+        },
+        {
+            "name": "boots",
+            "slug": "boots",
+            "uri": "https://api.sketchfab.com/v3/tags/boots"
+        },
+        {
+            "name": "combat",
+            "slug": "combat",
+            "uri": "https://api.sketchfab.com/v3/tags/combat"
+        },
+        {
+            "name": "yellow",
+            "slug": "yellow",
+            "uri": "https://api.sketchfab.com/v3/tags/yellow"
+        },
+        {
+            "name": "Footwear",
+            "slug": "footwear",
+            "uri": "https://api.sketchfab.com/v3/tags/footwear"
+        },
+        {
+            "name": "fodder",
+            "slug": "fodder",
+            "uri": "https://api.sketchfab.com/v3/tags/fodder"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0a4e9c4719e5467eb7da56badd719178",
+                "width": 1920,
+                "height": 1080,
+                "size": 107743,
+                "url": "https://media.sketchfab.com/models/1ce8c9722487460dba2494769a25daaf/thumbnails/0105a65228e944d490ad3c08245335f6/63e03347767a48369117f12ec8fe00be.jpeg"
+            },
+            {
+                "uid": "6e7ce74ce3d54c8181391cb056c3dd29",
+                "width": 1024,
+                "height": 576,
+                "size": 37009,
+                "url": "https://media.sketchfab.com/models/1ce8c9722487460dba2494769a25daaf/thumbnails/0105a65228e944d490ad3c08245335f6/d262a2e54065417fa48c367d4a8ef3fe.jpeg"
+            },
+            {
+                "uid": "995b0cfdabb84deb87e78e5ec74a2c8b",
+                "width": 720,
+                "height": 405,
+                "size": 21454,
+                "url": "https://media.sketchfab.com/models/1ce8c9722487460dba2494769a25daaf/thumbnails/0105a65228e944d490ad3c08245335f6/6aa34ca8ccd244d790355c30f827bd6e.jpeg"
+            },
+            {
+                "uid": "6c58a11003294db680754351fcba9562",
+                "width": 256,
+                "height": 144,
+                "size": 4580,
+                "url": "https://media.sketchfab.com/models/1ce8c9722487460dba2494769a25daaf/thumbnails/0105a65228e944d490ad3c08245335f6/b18831a33ac142029a785a359d1a5552.jpeg"
+            },
+            {
+                "uid": "89927c3213b441a59077afe0b9f9b444",
+                "width": 64,
+                "height": 36,
+                "size": 1079,
+                "url": "https://media.sketchfab.com/models/1ce8c9722487460dba2494769a25daaf/thumbnails/0105a65228e944d490ad3c08245335f6/cfbdbdc416a4468db011a1e761126d02.jpeg"
+            }
+        ]
+    },
+    "uid": "1ce8c9722487460dba2494769a25daaf",
+    "uri": "https://api.sketchfab.com/v3/models/1ce8c9722487460dba2494769a25daaf",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 419139,
+    "viewCount": 32,
+    "viewerUrl": "https://sketchfab.com/3d-models/steampunk-yellow-combat-boots-1ce8c9722487460dba2494769a25daaf",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Steampunk Yellow Combat Boots",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/1ce8c9722487460dba2494769a25daaf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T17:13:10.865371",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

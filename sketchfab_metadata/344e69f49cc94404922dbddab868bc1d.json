@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T00:36:23.964495",
+    "embedUrl": "https://sketchfab.com/models/344e69f49cc94404922dbddab868bc1d/embed",
+    "faceCount": 964034,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "cryptid mutation creature",
+    "publishedAt": "2026-02-18T00:36:53.843564",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "mutant",
+            "slug": "mutant",
+            "uri": "https://api.sketchfab.com/v3/tags/mutant"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "cryptid",
+            "slug": "cryptid",
+            "uri": "https://api.sketchfab.com/v3/tags/cryptid"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cca28a8230a64cdba49d7e46009750fe",
+                "width": 1920,
+                "height": 1080,
+                "size": 63678,
+                "url": "https://media.sketchfab.com/models/344e69f49cc94404922dbddab868bc1d/thumbnails/93297d22a1564f10a33ce0166b2c3eba/daf01d17c8744c9ebdadd196a1aca8d9.jpeg"
+            },
+            {
+                "uid": "54f560fe39634364a41a7c8a851d97d2",
+                "width": 1024,
+                "height": 576,
+                "size": 21050,
+                "url": "https://media.sketchfab.com/models/344e69f49cc94404922dbddab868bc1d/thumbnails/93297d22a1564f10a33ce0166b2c3eba/a031ce2598bf4923a8f8987ffb18b36c.jpeg"
+            },
+            {
+                "uid": "0bd91376a9ed4beb90235dabf4811f1c",
+                "width": 720,
+                "height": 405,
+                "size": 12135,
+                "url": "https://media.sketchfab.com/models/344e69f49cc94404922dbddab868bc1d/thumbnails/93297d22a1564f10a33ce0166b2c3eba/43e640695b3d4d8da50175969564531b.jpeg"
+            },
+            {
+                "uid": "5a5d63babad846618e256591534cb527",
+                "width": 256,
+                "height": 144,
+                "size": 2704,
+                "url": "https://media.sketchfab.com/models/344e69f49cc94404922dbddab868bc1d/thumbnails/93297d22a1564f10a33ce0166b2c3eba/31e8e6ae2af54612926ba27f057be92e.jpeg"
+            },
+            {
+                "uid": "51227bb669554f11b24e99c77cf54a36",
+                "width": 64,
+                "height": 36,
+                "size": 857,
+                "url": "https://media.sketchfab.com/models/344e69f49cc94404922dbddab868bc1d/thumbnails/93297d22a1564f10a33ce0166b2c3eba/de45eb3321e94182a1b811f85284c61e.jpeg"
+            }
+        ]
+    },
+    "uid": "344e69f49cc94404922dbddab868bc1d",
+    "uri": "https://api.sketchfab.com/v3/models/344e69f49cc94404922dbddab868bc1d",
+    "user": {
+        "uid": "a677c2f240174bb78e97cd726aa076fe",
+        "username": "DATFD92",
+        "displayName": "DATFD92",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DATFD92",
+        "avatar": {
+            "uid": "01734e8dcbed4ef2b662b7c86f875d71",
+            "uri": "https://api.sketchfab.com/v3/avatars/01734e8dcbed4ef2b662b7c86f875d71",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 966,
+                    "url": "https://media.sketchfab.com/avatars/01734e8dcbed4ef2b662b7c86f875d71/febde8f9d5c44922ad2d7360a1fba64b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1302,
+                    "url": "https://media.sketchfab.com/avatars/01734e8dcbed4ef2b662b7c86f875d71/681def568bfd43fe8c41ecc118cb88c2.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2675,
+                    "url": "https://media.sketchfab.com/avatars/01734e8dcbed4ef2b662b7c86f875d71/885c9be3cff342788de4835b0897d42a.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3094,
+                    "url": "https://media.sketchfab.com/avatars/01734e8dcbed4ef2b662b7c86f875d71/4ac7ebcd10e6499297685a01df5ca1f7.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a677c2f240174bb78e97cd726aa076fe"
+    },
+    "vertexCount": 481903,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/cryptid-mutation-creature-344e69f49cc94404922dbddab868bc1d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/PSQfGQ](https://www.meshy.ai/s/PSQfGQ)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/344e69f49cc94404922dbddab868bc1d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T00:36:53.821301",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

@@ -1,0 +1,68 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.4
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.8
+        },
+        {
+            "name": "Low Poly",
+            "score": 0.7
+        },
+        {
+            "name": "3D Model",
+            "score": 0.6
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.5
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Mossy",
+        "Dusty",
+        "Cracked"
+    ],
+    "tags": [
+        "well",
+        "3D model",
+        "ancient",
+        "stone",
+        "wood",
+        "roof",
+        "circular",
+        "shaded"
+    ],
+    "model_id_full": "0e864e2f539849b7ba47987245864fd8_Well",
+    "sketchfab_id": "0e864e2f539849b7ba47987245864fd8",
+    "asset_name": "Well"
+}

@@ -1,0 +1,216 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T07:00:12.167112",
+    "embedUrl": "https://sketchfab.com/models/033caf85687446579a593cb47f4da7a5/embed",
+    "faceCount": 9594,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Low Poly Futuristic Cyberpunk Sentinel",
+    "publishedAt": "2026-02-11T07:01:30.118199",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tech",
+            "slug": "tech",
+            "uri": "https://api.sketchfab.com/v3/tags/tech"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "detailed",
+            "slug": "detailed",
+            "uri": "https://api.sketchfab.com/v3/tags/detailed"
+        },
+        {
+            "name": "yellow",
+            "slug": "yellow",
+            "uri": "https://api.sketchfab.com/v3/tags/yellow"
+        },
+        {
+            "name": "Sentinel",
+            "slug": "sentinel",
+            "uri": "https://api.sketchfab.com/v3/tags/sentinel"
+        },
+        {
+            "name": "highres",
+            "slug": "highres",
+            "uri": "https://api.sketchfab.com/v3/tags/highres"
+        },
+        {
+            "name": "boomerang",
+            "slug": "boomerang",
+            "uri": "https://api.sketchfab.com/v3/tags/boomerang"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e7b09154512048f7906729337313cf08",
+                "width": 1920,
+                "height": 1080,
+                "size": 92490,
+                "url": "https://media.sketchfab.com/models/033caf85687446579a593cb47f4da7a5/thumbnails/2aecbd4d74294f1598d2fb3345000ee3/922f8765aa7f4bff8cf2aafc6bedaa27.jpeg"
+            },
+            {
+                "uid": "625be98fc1d04a1f900165f0c28e45c4",
+                "width": 1024,
+                "height": 576,
+                "size": 31222,
+                "url": "https://media.sketchfab.com/models/033caf85687446579a593cb47f4da7a5/thumbnails/2aecbd4d74294f1598d2fb3345000ee3/029e6db8fbfc42b7bf51307a6780e8c7.jpeg"
+            },
+            {
+                "uid": "14172aee38974b97a868c8fe3edca20b",
+                "width": 720,
+                "height": 405,
+                "size": 17843,
+                "url": "https://media.sketchfab.com/models/033caf85687446579a593cb47f4da7a5/thumbnails/2aecbd4d74294f1598d2fb3345000ee3/eceda00564fc463b88a1577e1175d103.jpeg"
+            },
+            {
+                "uid": "7fc0552d72f94918b81b2476d1dc5a81",
+                "width": 256,
+                "height": 144,
+                "size": 3603,
+                "url": "https://media.sketchfab.com/models/033caf85687446579a593cb47f4da7a5/thumbnails/2aecbd4d74294f1598d2fb3345000ee3/bef1bdb0f8764e4c97bd8ba902aeb13b.jpeg"
+            },
+            {
+                "uid": "757ee9140fcd452dba1d730c3225130d",
+                "width": 64,
+                "height": 36,
+                "size": 1008,
+                "url": "https://media.sketchfab.com/models/033caf85687446579a593cb47f4da7a5/thumbnails/2aecbd4d74294f1598d2fb3345000ee3/3d3cc72dd2734c559f7def93bb22444b.jpeg"
+            }
+        ]
+    },
+    "uid": "033caf85687446579a593cb47f4da7a5",
+    "uri": "https://api.sketchfab.com/v3/models/033caf85687446579a593cb47f4da7a5",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 4798,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-futuristic-cyberpunk-sentinel-033caf85687446579a593cb47f4da7a5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Low Poly Futuristic Cyberpunk Sentinel, which stands for Secret Engineless Neverending Throwable Indifferent Nucleair Editable Leftover, be carefull to not throw it in front of yourself but just lay it down as if it were not your mother-in-law and then let it do what you would want it to do if it were your mother-in-law. The shape [of this thingy] might seem boomerangish but actually this shape makes sure it stays fit and flat on the ground, you can make it blow up on impact or when somebody picks it up",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/033caf85687446579a593cb47f4da7a5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-11T07:13:24.171526",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

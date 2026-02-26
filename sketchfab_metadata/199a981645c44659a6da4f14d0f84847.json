@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T13:06:42.116917",
+    "embedUrl": "https://sketchfab.com/models/199a981645c44659a6da4f14d0f84847/embed",
+    "faceCount": 46454,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "ESS-D91ACC Medieval Padlock",
+    "publishedAt": "2026-02-24T13:08:55.829651",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "findsorguk",
+            "slug": "findsorguk",
+            "uri": "https://api.sketchfab.com/v3/tags/findsorguk"
+        },
+        {
+            "name": "copper-alloy",
+            "slug": "copper-alloy",
+            "uri": "https://api.sketchfab.com/v3/tags/copper-alloy"
+        },
+        {
+            "name": "medieval-archaeology",
+            "slug": "medieval-archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-archaeology"
+        },
+        {
+            "name": "archaeology-3dmodel",
+            "slug": "archaeology-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology-3dmodel"
+        },
+        {
+            "name": "archaeology-3dmodel-photogrammetry",
+            "slug": "archaeology-3dmodel-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology-3dmodel-photogrammetry"
+        },
+        {
+            "name": "copperalloy",
+            "slug": "copperalloy",
+            "uri": "https://api.sketchfab.com/v3/tags/copperalloy"
+        },
+        {
+            "name": "kiriengine",
+            "slug": "kiriengine",
+            "uri": "https://api.sketchfab.com/v3/tags/kiriengine"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6943884657fd443ca56a2238a27fb226",
+                "width": 1920,
+                "height": 1080,
+                "size": 120712,
+                "url": "https://media.sketchfab.com/models/199a981645c44659a6da4f14d0f84847/thumbnails/05be239ed5034eaea23bad03736af298/81e95caec74c426db8efe9c30efa3b82.jpeg"
+            },
+            {
+                "uid": "4019dd94a52e4330a0e6a2e1febb8af4",
+                "width": 1024,
+                "height": 576,
+                "size": 41617,
+                "url": "https://media.sketchfab.com/models/199a981645c44659a6da4f14d0f84847/thumbnails/05be239ed5034eaea23bad03736af298/239bad79f927448b93ee03eb5c7aec4d.jpeg"
+            },
+            {
+                "uid": "80823650f7c2453da48ac99ddf9d12e7",
+                "width": 720,
+                "height": 405,
+                "size": 23735,
+                "url": "https://media.sketchfab.com/models/199a981645c44659a6da4f14d0f84847/thumbnails/05be239ed5034eaea23bad03736af298/cbcf98079cbf43758681784fb3822063.jpeg"
+            },
+            {
+                "uid": "1df6d00071e04e0f88aa7e276cd367d8",
+                "width": 256,
+                "height": 144,
+                "size": 4339,
+                "url": "https://media.sketchfab.com/models/199a981645c44659a6da4f14d0f84847/thumbnails/05be239ed5034eaea23bad03736af298/7b4a9da7d4be4f90a310fd96d02bee5e.jpeg"
+            },
+            {
+                "uid": "c8c16c62460c473894d854e5390454f0",
+                "width": 64,
+                "height": 36,
+                "size": 1023,
+                "url": "https://media.sketchfab.com/models/199a981645c44659a6da4f14d0f84847/thumbnails/05be239ed5034eaea23bad03736af298/293d1f863833465499f23aaf3c6fe32e.jpeg"
+            }
+        ]
+    },
+    "uid": "199a981645c44659a6da4f14d0f84847",
+    "uri": "https://api.sketchfab.com/v3/models/199a981645c44659a6da4f14d0f84847",
+    "user": {
+        "uid": "edf26737ce5948afa421d6556033d2f5",
+        "username": "Mark.Jeffcock",
+        "displayName": "Mark.Jeffcock",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/Mark.Jeffcock",
+        "avatar": {
+            "uid": "d31d2c5b5b0a4ba2b8b1b653e39adf83",
+            "uri": "https://api.sketchfab.com/v3/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 759,
+                    "url": "https://media.sketchfab.com/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83/a70543e094604dffb4ffda12acb9dbea.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1178,
+                    "url": "https://media.sketchfab.com/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83/85852972ff86461589f21ee2df67201b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2793,
+                    "url": "https://media.sketchfab.com/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83/0dbad3ef6ac24d9fa9a5dc9cce5c868c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3309,
+                    "url": "https://media.sketchfab.com/avatars/d31d2c5b5b0a4ba2b8b1b653e39adf83/20ba35733c1945008a20a6127139ec5b.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/edf26737ce5948afa421d6556033d2f5"
+    },
+    "vertexCount": 23229,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/ess-d91acc-medieval-padlock-199a981645c44659a6da4f14d0f84847",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "An incomplete copper-alloy padlock of medieval date (c. AD 1100-1400).\n\nTo find out more visit the Portable Antiquities Scheme database: https://finds.org.uk/database/artefacts/record/id/1260424",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/199a981645c44659a6da4f14d0f84847/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T13:12:45.403376",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,359 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T17:36:37.970918",
+    "embedUrl": "https://sketchfab.com/models/3d277d4c17474a51a4f4e47afa7ff03e/embed",
+    "faceCount": 4427,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Medieval Heater Shield",
+    "publishedAt": "2026-02-20T17:55:07.929895",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "white",
+            "slug": "white",
+            "uri": "https://api.sketchfab.com/v3/tags/white"
+        },
+        {
+            "name": "heater",
+            "slug": "heater",
+            "uri": "https://api.sketchfab.com/v3/tags/heater"
+        },
+        {
+            "name": "videogame",
+            "slug": "videogame",
+            "uri": "https://api.sketchfab.com/v3/tags/videogame"
+        },
+        {
+            "name": "textures",
+            "slug": "textures",
+            "uri": "https://api.sketchfab.com/v3/tags/textures"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "screw",
+            "slug": "screw",
+            "uri": "https://api.sketchfab.com/v3/tags/screw"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "emblem",
+            "slug": "emblem",
+            "uri": "https://api.sketchfab.com/v3/tags/emblem"
+        },
+        {
+            "name": "armory",
+            "slug": "armory",
+            "uri": "https://api.sketchfab.com/v3/tags/armory"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "iron",
+            "slug": "iron",
+            "uri": "https://api.sketchfab.com/v3/tags/iron"
+        },
+        {
+            "name": "Heraldry",
+            "slug": "heraldry",
+            "uri": "https://api.sketchfab.com/v3/tags/heraldry"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "fantasyarmor",
+            "slug": "fantasyarmor",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyarmor"
+        },
+        {
+            "name": "pbrshield",
+            "slug": "pbrshield",
+            "uri": "https://api.sketchfab.com/v3/tags/pbrshield"
+        },
+        {
+            "name": "lowpolyshield",
+            "slug": "lowpolyshield",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolyshield"
+        },
+        {
+            "name": "heraldic",
+            "slug": "heraldic",
+            "uri": "https://api.sketchfab.com/v3/tags/heraldic"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "painter",
+            "slug": "painter",
+            "uri": "https://api.sketchfab.com/v3/tags/painter"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "texture",
+            "slug": "texture",
+            "uri": "https://api.sketchfab.com/v3/tags/texture"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "black",
+            "slug": "black",
+            "uri": "https://api.sketchfab.com/v3/tags/black"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d271aa0f6f07424a8a47abafb31f0777",
+                "width": 1920,
+                "height": 1080,
+                "size": 326650,
+                "url": "https://media.sketchfab.com/models/3d277d4c17474a51a4f4e47afa7ff03e/thumbnails/af72fb2e845043e5a849ff1a2fda5bd7/dd926aa083cd4f2d9a63050c6d3d4f44.jpeg"
+            },
+            {
+                "uid": "d57940cf10174321b8778f5f92d1ac1a",
+                "width": 1024,
+                "height": 576,
+                "size": 42791,
+                "url": "https://media.sketchfab.com/models/3d277d4c17474a51a4f4e47afa7ff03e/thumbnails/af72fb2e845043e5a849ff1a2fda5bd7/46d25d5ca5234c179b34f0a6ee016eda.jpeg"
+            },
+            {
+                "uid": "766c0d68e11a4ceaae905da06c81c073",
+                "width": 720,
+                "height": 405,
+                "size": 20252,
+                "url": "https://media.sketchfab.com/models/3d277d4c17474a51a4f4e47afa7ff03e/thumbnails/af72fb2e845043e5a849ff1a2fda5bd7/9cba4f67ace1494597e9bdabbf9aef53.jpeg"
+            },
+            {
+                "uid": "0ed5a8190a254dc094b357d9ddf0a417",
+                "width": 256,
+                "height": 144,
+                "size": 4025,
+                "url": "https://media.sketchfab.com/models/3d277d4c17474a51a4f4e47afa7ff03e/thumbnails/af72fb2e845043e5a849ff1a2fda5bd7/d529878f94594e3dbcc733792b83cb33.jpeg"
+            },
+            {
+                "uid": "ce807151294e46078f3513a768dad5c7",
+                "width": 64,
+                "height": 36,
+                "size": 1143,
+                "url": "https://media.sketchfab.com/models/3d277d4c17474a51a4f4e47afa7ff03e/thumbnails/af72fb2e845043e5a849ff1a2fda5bd7/3b1511d1bd504c5eaed75e62e20faef3.jpeg"
+            }
+        ]
+    },
+    "uid": "3d277d4c17474a51a4f4e47afa7ff03e",
+    "uri": "https://api.sketchfab.com/v3/models/3d277d4c17474a51a4f4e47afa7ff03e",
+    "user": {
+        "uid": "1d1351e6421545148c51c28c14df3619",
+        "username": "Wopliieee",
+        "displayName": "Wopliieee",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Wopliieee",
+        "avatar": {
+            "uid": "00cf54ffbbfc468480ce5ccc237f39e0",
+            "uri": "https://api.sketchfab.com/v3/avatars/00cf54ffbbfc468480ce5ccc237f39e0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2545,
+                    "url": "https://media.sketchfab.com/avatars/00cf54ffbbfc468480ce5ccc237f39e0/64fce1b32a3c4b1ea14007c82776fd6a.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4949,
+                    "url": "https://media.sketchfab.com/avatars/00cf54ffbbfc468480ce5ccc237f39e0/6bd3190d77e34ad99477377afc49672f.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 13731,
+                    "url": "https://media.sketchfab.com/avatars/00cf54ffbbfc468480ce5ccc237f39e0/ce51a11338ec4f058e86041e09f9f400.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 16214,
+                    "url": "https://media.sketchfab.com/avatars/00cf54ffbbfc468480ce5ccc237f39e0/64dc7d3dac25471ab762a585a86bf03e.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1d1351e6421545148c51c28c14df3619"
+    },
+    "vertexCount": 2543,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-heater-shield-3d277d4c17474a51a4f4e47afa7ff03e",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "# **You can buy it on**\n* [Fab](https://www.fab.com/listings/47cecf2b-1926-4c9e-a811-ff3445fa5130)\n* [ArtStation](https://www.artstation.com/marketplace/p/xDmX3/medieval-heater-shield)\n* Gumroad at wopliieee\n\n# **Model Specifications**\nThis 3D prop model is a Medieval Heater Shield optimized for real-time applications such as games and simulations. It features a low-poly topology suitable for performance-critical environments, with PBR textures baked in Substance 3D Painter for high visual quality under various lighting conditions\n\n# **Topology Details**\n* Vertices: 2,546\n* Edges: 4,806\n* Faces: 2,288\n\n# **Materials and Textures**\n* PBR setup including base color, normal, roughness, metallic, and height maps\n* Resolution: 2048x2048\n* UVs: Non-overlapping single UV channel\n\n# **Social Media**\nInstagram | ArtStation | YouTube | LinkedIn\n\n# **Contact**\nIf you have any question or want to contact me then dm me at Instagram or if you prefer email me at wopliieee@gmail.com",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3d277d4c17474a51a4f4e47afa7ff03e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T14:14:47.263767",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

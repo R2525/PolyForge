@@ -1,0 +1,204 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-20T21:26:35.165753",
+    "embedUrl": "https://sketchfab.com/models/244bca5e899b40bbb29b65b02321975d/embed",
+    "faceCount": 247202,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Peterborough Cathedral, effigy of a bishop",
+    "publishedAt": "2025-11-20T21:27:46.340149",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cathedral",
+            "slug": "cathedral",
+            "uri": "https://api.sketchfab.com/v3/tags/cathedral"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "england",
+            "slug": "england",
+            "uri": "https://api.sketchfab.com/v3/tags/england"
+        },
+        {
+            "name": "grave",
+            "slug": "grave",
+            "uri": "https://api.sketchfab.com/v3/tags/grave"
+        },
+        {
+            "name": "effigy",
+            "slug": "effigy",
+            "uri": "https://api.sketchfab.com/v3/tags/effigy"
+        },
+        {
+            "name": "bishop",
+            "slug": "bishop",
+            "uri": "https://api.sketchfab.com/v3/tags/bishop"
+        },
+        {
+            "name": "peterborough",
+            "slug": "peterborough",
+            "uri": "https://api.sketchfab.com/v3/tags/peterborough"
+        },
+        {
+            "name": "graveslab",
+            "slug": "graveslab",
+            "uri": "https://api.sketchfab.com/v3/tags/graveslab"
+        },
+        {
+            "name": "3df-zephyr",
+            "slug": "3df-zephyr",
+            "uri": "https://api.sketchfab.com/v3/tags/3df-zephyr"
+        },
+        {
+            "name": "tomb",
+            "slug": "tomb",
+            "uri": "https://api.sketchfab.com/v3/tags/tomb"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8a3ba3395ba04c00ad8a4cb0ef79a218",
+                "width": 1920,
+                "height": 1080,
+                "size": 169247,
+                "url": "https://media.sketchfab.com/models/244bca5e899b40bbb29b65b02321975d/thumbnails/3649758817ce40ea8fd805988410b56b/02d43190f6b642048195f3f69196fa19.jpeg"
+            },
+            {
+                "uid": "05edcf9d6fb94096b2f0da5bc48821e2",
+                "width": 1024,
+                "height": 576,
+                "size": 53832,
+                "url": "https://media.sketchfab.com/models/244bca5e899b40bbb29b65b02321975d/thumbnails/3649758817ce40ea8fd805988410b56b/9c3454cd2cff49f48a2eeb652f12473d.jpeg"
+            },
+            {
+                "uid": "db5e1471b0124befb2e3179f1e5b1777",
+                "width": 720,
+                "height": 405,
+                "size": 30372,
+                "url": "https://media.sketchfab.com/models/244bca5e899b40bbb29b65b02321975d/thumbnails/3649758817ce40ea8fd805988410b56b/f2e41d5068d54f5fa3a782c18dc06fc5.jpeg"
+            },
+            {
+                "uid": "4819a3fc3d054c5f85d205c412da91d4",
+                "width": 256,
+                "height": 144,
+                "size": 5638,
+                "url": "https://media.sketchfab.com/models/244bca5e899b40bbb29b65b02321975d/thumbnails/3649758817ce40ea8fd805988410b56b/e1d5830b3e2a48de81a981828438eee2.jpeg"
+            },
+            {
+                "uid": "5a56a064ef8748fea46248e01193c794",
+                "width": 64,
+                "height": 36,
+                "size": 1207,
+                "url": "https://media.sketchfab.com/models/244bca5e899b40bbb29b65b02321975d/thumbnails/3649758817ce40ea8fd805988410b56b/c5dd586dd43a4487ae8936854ae4e8ba.jpeg"
+            }
+        ]
+    },
+    "uid": "244bca5e899b40bbb29b65b02321975d",
+    "uri": "https://api.sketchfab.com/v3/models/244bca5e899b40bbb29b65b02321975d",
+    "user": {
+        "uid": "06143015200e48e096f3d02a67fb2ad0",
+        "username": "Gnomonsland",
+        "displayName": "Gnomonsland",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Gnomonsland",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/06143015200e48e096f3d02a67fb2ad0"
+    },
+    "vertexCount": 133552,
+    "viewCount": 28,
+    "viewerUrl": "https://sketchfab.com/3d-models/peterborough-cathedral-effigy-of-a-bishop-244bca5e899b40bbb29b65b02321975d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "3D model from photos generated with photogrammetry software 3DF Zephyr v7.007 processing 107 images",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/244bca5e899b40bbb29b65b02321975d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "3DF-Zephyr-Lite",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-20T21:33:29.316005",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

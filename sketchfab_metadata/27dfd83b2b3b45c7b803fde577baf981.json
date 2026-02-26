@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-11-26T19:17:40.541283",
+    "embedUrl": "https://sketchfab.com/models/27dfd83b2b3b45c7b803fde577baf981/embed",
+    "faceCount": 1792,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 17,
+    "name": "Antique Dagger",
+    "publishedAt": "2025-11-29T09:03:17.467724",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "morrowind",
+            "slug": "morrowind",
+            "uri": "https://api.sketchfab.com/v3/tags/morrowind"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dagger",
+            "slug": "dagger",
+            "uri": "https://api.sketchfab.com/v3/tags/dagger"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "81544eed26c845088b3d0123c335fff3",
+                "width": 1920,
+                "height": 1080,
+                "size": 145094,
+                "url": "https://media.sketchfab.com/models/27dfd83b2b3b45c7b803fde577baf981/thumbnails/1c7b3e5026cf49c6898c3517faba3726/3a05fea0636147eaab03759efb6d9d99.jpeg"
+            },
+            {
+                "uid": "20147da6b9534d3791ad9b344e369bcd",
+                "width": 1024,
+                "height": 576,
+                "size": 31955,
+                "url": "https://media.sketchfab.com/models/27dfd83b2b3b45c7b803fde577baf981/thumbnails/1c7b3e5026cf49c6898c3517faba3726/d3742e561c1549418a7d9aa42f4522f2.jpeg"
+            },
+            {
+                "uid": "d8ef9beb40ab48ff85a7b7af3a7e650e",
+                "width": 720,
+                "height": 405,
+                "size": 17601,
+                "url": "https://media.sketchfab.com/models/27dfd83b2b3b45c7b803fde577baf981/thumbnails/1c7b3e5026cf49c6898c3517faba3726/7653271032974e43b6d368b1ec070127.jpeg"
+            },
+            {
+                "uid": "077426fc3b9c482b994d21632c42ec27",
+                "width": 256,
+                "height": 144,
+                "size": 3428,
+                "url": "https://media.sketchfab.com/models/27dfd83b2b3b45c7b803fde577baf981/thumbnails/1c7b3e5026cf49c6898c3517faba3726/796d1104d89f493abf03260e2ea352b5.jpeg"
+            },
+            {
+                "uid": "b9c6871a9d7f4c64802845eb270772e2",
+                "width": 64,
+                "height": 36,
+                "size": 985,
+                "url": "https://media.sketchfab.com/models/27dfd83b2b3b45c7b803fde577baf981/thumbnails/1c7b3e5026cf49c6898c3517faba3726/fbcce819d3074509854002ee71c87af1.jpeg"
+            }
+        ]
+    },
+    "uid": "27dfd83b2b3b45c7b803fde577baf981",
+    "uri": "https://api.sketchfab.com/v3/models/27dfd83b2b3b45c7b803fde577baf981",
+    "user": {
+        "uid": "4d35ab88d170425d8757b49a239dedc2",
+        "username": "Peter.Nox",
+        "displayName": "Peter Nox",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Peter.Nox",
+        "avatar": {
+            "uid": "208aca2e9a6a471ea6c5fd702021037a",
+            "uri": "https://api.sketchfab.com/v3/avatars/208aca2e9a6a471ea6c5fd702021037a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1096,
+                    "url": "https://media.sketchfab.com/avatars/208aca2e9a6a471ea6c5fd702021037a/415541fcfcf94e7e91f963dc39616a73.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1534,
+                    "url": "https://media.sketchfab.com/avatars/208aca2e9a6a471ea6c5fd702021037a/9262c84cc58a40b1ad00ed1be5ba5673.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2905,
+                    "url": "https://media.sketchfab.com/avatars/208aca2e9a6a471ea6c5fd702021037a/9baea9316b8f49b98a1385bcf9536673.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3367,
+                    "url": "https://media.sketchfab.com/avatars/208aca2e9a6a471ea6c5fd702021037a/fe225ebdc15f49d683b427b9837c1d34.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4d35ab88d170425d8757b49a239dedc2"
+    },
+    "vertexCount": 910,
+    "viewCount": 312,
+    "viewerUrl": "https://sketchfab.com/3d-models/antique-dagger-27dfd83b2b3b45c7b803fde577baf981",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Antique dagger",
+    "price": null,
+    "downloadCount": 52,
+    "editorUrl": "https://sketchfab.com/models/27dfd83b2b3b45c7b803fde577baf981/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-29T09:03:17.703803",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

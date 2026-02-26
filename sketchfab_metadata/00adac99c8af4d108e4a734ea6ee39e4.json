@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-20T22:57:32.461038",
+    "embedUrl": "https://sketchfab.com/models/00adac99c8af4d108e4a734ea6ee39e4/embed",
+    "faceCount": 3688,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Chunky Tzeench Knight",
+    "publishedAt": "2026-01-20T23:00:57.154699",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9eaa0ad02a764054958184c23257e861",
+                "width": 1920,
+                "height": 1080,
+                "size": 110855,
+                "url": "https://media.sketchfab.com/models/00adac99c8af4d108e4a734ea6ee39e4/thumbnails/b43661c9853a41878dee945160779188/18f07b5a3f904620a7cbff3b1121b068.jpeg"
+            },
+            {
+                "uid": "348efd8370b6451fa81cb21fe2d96980",
+                "width": 1024,
+                "height": 576,
+                "size": 39357,
+                "url": "https://media.sketchfab.com/models/00adac99c8af4d108e4a734ea6ee39e4/thumbnails/b43661c9853a41878dee945160779188/92c53e8b1d0e418db055a12e4740e920.jpeg"
+            },
+            {
+                "uid": "4751d0774f1e459e893a1cdb05ccfed8",
+                "width": 720,
+                "height": 405,
+                "size": 22925,
+                "url": "https://media.sketchfab.com/models/00adac99c8af4d108e4a734ea6ee39e4/thumbnails/b43661c9853a41878dee945160779188/0e2329a8f187423da75770585f94441a.jpeg"
+            },
+            {
+                "uid": "4a672247faa64360a3c8bedf05680cf3",
+                "width": 256,
+                "height": 144,
+                "size": 4554,
+                "url": "https://media.sketchfab.com/models/00adac99c8af4d108e4a734ea6ee39e4/thumbnails/b43661c9853a41878dee945160779188/f05c61651122422785b0f3259b6434ce.jpeg"
+            },
+            {
+                "uid": "c49536e096194bd58e4b22c79e8dc885",
+                "width": 64,
+                "height": 36,
+                "size": 1092,
+                "url": "https://media.sketchfab.com/models/00adac99c8af4d108e4a734ea6ee39e4/thumbnails/b43661c9853a41878dee945160779188/2c79d2f3182b42c4b9a0c089aef1095c.jpeg"
+            }
+        ]
+    },
+    "uid": "00adac99c8af4d108e4a734ea6ee39e4",
+    "uri": "https://api.sketchfab.com/v3/models/00adac99c8af4d108e4a734ea6ee39e4",
+    "user": {
+        "uid": "5544196a118c4285adeebe0f392227c6",
+        "username": "Una_Polilla",
+        "displayName": "Una_Polilla",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Una_Polilla",
+        "avatar": {
+            "uid": "b5f6bf05795446e08de72ec68d57b9ed",
+            "uri": "https://api.sketchfab.com/v3/avatars/b5f6bf05795446e08de72ec68d57b9ed",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1120,
+                    "url": "https://media.sketchfab.com/avatars/b5f6bf05795446e08de72ec68d57b9ed/90a9c4df511c45baa02426bc366d8fe5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1590,
+                    "url": "https://media.sketchfab.com/avatars/b5f6bf05795446e08de72ec68d57b9ed/346cf8f92dab48f887632a1d05b1f5ad.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3431,
+                    "url": "https://media.sketchfab.com/avatars/b5f6bf05795446e08de72ec68d57b9ed/040b6f730fbf4727a98a87beb80e8eb0.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3906,
+                    "url": "https://media.sketchfab.com/avatars/b5f6bf05795446e08de72ec68d57b9ed/a8b5bbe2cd8b46e185f218b59090cbf2.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5544196a118c4285adeebe0f392227c6"
+    },
+    "vertexCount": 1904,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/chunky-tzeench-knight-00adac99c8af4d108e4a734ea6ee39e4",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Trabajo practico de texturizado para la materia de diseño grafico de la Escuela Da Vinci",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/00adac99c8af4d108e4a734ea6ee39e4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-20T23:03:17.029050",
+    "pbrType": "metalness",
+    "textureCount": 11,
+    "materialCount": 2
+}

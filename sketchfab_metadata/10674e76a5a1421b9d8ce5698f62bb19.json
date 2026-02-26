@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-23T09:23:03.557590",
+    "embedUrl": "https://sketchfab.com/models/10674e76a5a1421b9d8ce5698f62bb19/embed",
+    "faceCount": 1972376,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Vasija segle X trobada en Alzira",
+    "publishedAt": "2025-12-23T09:35:31.372595",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "al-andalus",
+            "slug": "al-andalus",
+            "uri": "https://api.sketchfab.com/v3/tags/al-andalus"
+        },
+        {
+            "name": "muma",
+            "slug": "muma",
+            "uri": "https://api.sketchfab.com/v3/tags/muma"
+        },
+        {
+            "name": "alzira",
+            "slug": "alzira",
+            "uri": "https://api.sketchfab.com/v3/tags/alzira"
+        },
+        {
+            "name": "al-jazirah",
+            "slug": "al-jazirah",
+            "uri": "https://api.sketchfab.com/v3/tags/al-jazirah"
+        },
+        {
+            "name": "siglox",
+            "slug": "siglox",
+            "uri": "https://api.sketchfab.com/v3/tags/siglox"
+        },
+        {
+            "name": "jaimei",
+            "slug": "jaimei",
+            "uri": "https://api.sketchfab.com/v3/tags/jaimei"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8333d2ccc9014437bfb68242263dd86b",
+                "width": 1920,
+                "height": 1080,
+                "size": 79067,
+                "url": "https://media.sketchfab.com/models/10674e76a5a1421b9d8ce5698f62bb19/thumbnails/4468e61a51ca448691fdf138a2fe0b3c/43a0d4ded53b4115854372ab258d43f1.jpeg"
+            },
+            {
+                "uid": "21b71105b1684d1a801104b7c657a471",
+                "width": 1024,
+                "height": 576,
+                "size": 22873,
+                "url": "https://media.sketchfab.com/models/10674e76a5a1421b9d8ce5698f62bb19/thumbnails/4468e61a51ca448691fdf138a2fe0b3c/03694ac6efce4be988d17e88512e3ea2.jpeg"
+            },
+            {
+                "uid": "7487320bd6864a608ffec3c6bf5e4d5f",
+                "width": 720,
+                "height": 405,
+                "size": 12064,
+                "url": "https://media.sketchfab.com/models/10674e76a5a1421b9d8ce5698f62bb19/thumbnails/4468e61a51ca448691fdf138a2fe0b3c/d4df258d5491442a8f5eaf0430c1160c.jpeg"
+            },
+            {
+                "uid": "30c18f7004c04a36904fe36083b5cbc8",
+                "width": 256,
+                "height": 144,
+                "size": 2309,
+                "url": "https://media.sketchfab.com/models/10674e76a5a1421b9d8ce5698f62bb19/thumbnails/4468e61a51ca448691fdf138a2fe0b3c/69be23f0dccd45b2bcd2e3f78e7d9bf6.jpeg"
+            },
+            {
+                "uid": "fc65ab9986ef42ee926a6a1c9e3ac5b6",
+                "width": 64,
+                "height": 36,
+                "size": 832,
+                "url": "https://media.sketchfab.com/models/10674e76a5a1421b9d8ce5698f62bb19/thumbnails/4468e61a51ca448691fdf138a2fe0b3c/d9cd4b323df14b8dbe9c973feff40d38.jpeg"
+            }
+        ]
+    },
+    "uid": "10674e76a5a1421b9d8ce5698f62bb19",
+    "uri": "https://api.sketchfab.com/v3/models/10674e76a5a1421b9d8ce5698f62bb19",
+    "user": {
+        "uid": "8af282ca980544d9a1966033c1461888",
+        "username": "riberana",
+        "displayName": "Riberana.es",
+        "account": "prem",
+        "profileUrl": "https://sketchfab.com/riberana",
+        "avatar": {
+            "uid": "deaad59d9a724b78b39f28a80d9986d0",
+            "uri": "https://api.sketchfab.com/v3/avatars/deaad59d9a724b78b39f28a80d9986d0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1643,
+                    "url": "https://media.sketchfab.com/avatars/deaad59d9a724b78b39f28a80d9986d0/3c73ac464c764ec6a7d10383c2303cef.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2596,
+                    "url": "https://media.sketchfab.com/avatars/deaad59d9a724b78b39f28a80d9986d0/e4d504c0524241e0a1d38e9e060bd41c.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5343,
+                    "url": "https://media.sketchfab.com/avatars/deaad59d9a724b78b39f28a80d9986d0/66c11f56efac4e2e9f3a63579191ad79.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6025,
+                    "url": "https://media.sketchfab.com/avatars/deaad59d9a724b78b39f28a80d9986d0/662076c7a31d4efaa20e3600f6307c19.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8af282ca980544d9a1966033c1461888"
+    },
+    "vertexCount": 989100,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/vasija-segle-x-trobada-en-alzira-10674e76a5a1421b9d8ce5698f62bb19",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Segle X / siglo X / 10th Century \nRecipient amb motius vegetals trobat en les excavacions de la casa del Rei, en les muralles de la ciutat d'Alzira (València). La reconstrucció dels fragments trobats ha permés reconstruir al menys la meitat del cos de l'objecte, un recipient per a líquids. Ubicació actual: Museu MUMA Alzira, sala Sucro. \n\nRecipiente con motivos vegetales hallado en las excavaciones de la casa del Rey, en las murallas de la ciudad de Alzira (Valencia). La reconstrucción de los fragmentos hallados ha permitido reconstruir al menos la mitad del cuerpo del objeto, un recipiente para líquidos. Fechado en el siglo X. Ubicación actual: Museo MUMA Alzira, sala Sucro.\n\nContainer with plant motifs found in the excavations of the King's House, in the walls of the city of Alzira (Valencia). The reconstruction of the fragments found  allowed the reconstruction of at least half of the body of the object, a container for liquids. Dated to the 10th century. Current location: MUMA Alzira Museum, Sucro room.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/10674e76a5a1421b9d8ce5698f62bb19/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-23T09:41:09.553558",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

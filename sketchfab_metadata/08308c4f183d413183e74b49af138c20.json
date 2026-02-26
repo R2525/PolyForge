@@ -1,0 +1,120 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T20:27:48.064747",
+    "embedUrl": "https://sketchfab.com/models/08308c4f183d413183e74b49af138c20/embed",
+    "faceCount": 1512,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Pokmon Cosmetics",
+    "publishedAt": "2026-02-18T20:28:42.710568",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3cfa2e70966a4282880a88ce0f112941",
+                "width": 1920,
+                "height": 1080,
+                "size": 49242,
+                "url": "https://media.sketchfab.com/models/08308c4f183d413183e74b49af138c20/thumbnails/67ba846bcb4945da9d7410ce0f6afa2a/6fb3928861894dddab391051637898c2.jpeg"
+            },
+            {
+                "uid": "f9d30b7e7d7548999079fb40a14ff95f",
+                "width": 1024,
+                "height": 576,
+                "size": 15925,
+                "url": "https://media.sketchfab.com/models/08308c4f183d413183e74b49af138c20/thumbnails/67ba846bcb4945da9d7410ce0f6afa2a/506ad836c561410bb95f332e6f167a55.jpeg"
+            },
+            {
+                "uid": "e22f0f9a73e0471086d4dd2de717394e",
+                "width": 720,
+                "height": 405,
+                "size": 9236,
+                "url": "https://media.sketchfab.com/models/08308c4f183d413183e74b49af138c20/thumbnails/67ba846bcb4945da9d7410ce0f6afa2a/446a8287e4bd4a428fbc58aab820a923.jpeg"
+            },
+            {
+                "uid": "054c111a14384e7b8d2280eaa315ab13",
+                "width": 256,
+                "height": 144,
+                "size": 2179,
+                "url": "https://media.sketchfab.com/models/08308c4f183d413183e74b49af138c20/thumbnails/67ba846bcb4945da9d7410ce0f6afa2a/a69c3b4ffe1f49378c5d6320ac4d94de.jpeg"
+            },
+            {
+                "uid": "0a0c71218fc54708b38a6d016410555a",
+                "width": 64,
+                "height": 36,
+                "size": 804,
+                "url": "https://media.sketchfab.com/models/08308c4f183d413183e74b49af138c20/thumbnails/67ba846bcb4945da9d7410ce0f6afa2a/827aa60728b0402295b72b5182ab91b1.jpeg"
+            }
+        ]
+    },
+    "uid": "08308c4f183d413183e74b49af138c20",
+    "uri": "https://api.sketchfab.com/v3/models/08308c4f183d413183e74b49af138c20",
+    "user": {
+        "uid": "66ab8ab71003448a84b8976a3d2c5e0c",
+        "username": "megaevolutionmc",
+        "displayName": "megaevolutionmc",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/megaevolutionmc",
+        "avatar": {
+            "uid": "5851bcb6c22140acba27171eae6209ac",
+            "uri": "https://api.sketchfab.com/v3/avatars/5851bcb6c22140acba27171eae6209ac",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 3302,
+                    "url": "https://media.sketchfab.com/avatars/5851bcb6c22140acba27171eae6209ac/0170b3a190ad4078966be7c863c200c4.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 6539,
+                    "url": "https://media.sketchfab.com/avatars/5851bcb6c22140acba27171eae6209ac/54ad2a9a7efb4c4dbc0df06d042f6a75.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 18223,
+                    "url": "https://media.sketchfab.com/avatars/5851bcb6c22140acba27171eae6209ac/92cffc43f1fd4f878539b0c53faeb18c.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 21522,
+                    "url": "https://media.sketchfab.com/avatars/5851bcb6c22140acba27171eae6209ac/fa981cb96bcf44f3bcd384c3f14da546.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/66ab8ab71003448a84b8976a3d2c5e0c"
+    },
+    "vertexCount": 1008,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/pokmon-cosmetics-08308c4f183d413183e74b49af138c20",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/08308c4f183d413183e74b49af138c20/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T20:28:42.841402",
+    "pbrType": null,
+    "textureCount": 6,
+    "materialCount": 6
+}

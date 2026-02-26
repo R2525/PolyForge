@@ -1,0 +1,150 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T11:18:53.707795",
+    "embedUrl": "https://sketchfab.com/models/2ab6bccfc0e24f72810a5855f4de1d6d/embed",
+    "faceCount": 20782,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Stylized Cinderace",
+    "publishedAt": "2026-02-17T11:41:07.599102",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "soccer",
+            "slug": "soccer",
+            "uri": "https://api.sketchfab.com/v3/tags/soccer"
+        },
+        {
+            "name": "cinderace",
+            "slug": "cinderace",
+            "uri": "https://api.sketchfab.com/v3/tags/cinderace"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f465e35a40bd4addaac031f70b5429ec",
+                "width": 1920,
+                "height": 1080,
+                "size": 123342,
+                "url": "https://media.sketchfab.com/models/2ab6bccfc0e24f72810a5855f4de1d6d/thumbnails/d16af76054c34eae929ed1444d1b3bad/34f41dba24304faf889d35030976c7f3.jpeg"
+            },
+            {
+                "uid": "c82bc18d49604c32a1e8b7cf6ace4548",
+                "width": 1024,
+                "height": 576,
+                "size": 42458,
+                "url": "https://media.sketchfab.com/models/2ab6bccfc0e24f72810a5855f4de1d6d/thumbnails/d16af76054c34eae929ed1444d1b3bad/34d6528402de4a509b22f9c23d7d224e.jpeg"
+            },
+            {
+                "uid": "2432e3f9ca834aaeaa457a8887c6ca86",
+                "width": 720,
+                "height": 405,
+                "size": 26039,
+                "url": "https://media.sketchfab.com/models/2ab6bccfc0e24f72810a5855f4de1d6d/thumbnails/d16af76054c34eae929ed1444d1b3bad/0d6a6ff11f1348e0a544683b40fc2b49.jpeg"
+            },
+            {
+                "uid": "023ecdc3fbb64ec9a92867324a5e7d19",
+                "width": 256,
+                "height": 144,
+                "size": 6618,
+                "url": "https://media.sketchfab.com/models/2ab6bccfc0e24f72810a5855f4de1d6d/thumbnails/d16af76054c34eae929ed1444d1b3bad/5e7fe083cd8546faa627bbc1fec3df7e.jpeg"
+            },
+            {
+                "uid": "e54c140f83ad47f5834d1aa90de84e15",
+                "width": 64,
+                "height": 36,
+                "size": 1479,
+                "url": "https://media.sketchfab.com/models/2ab6bccfc0e24f72810a5855f4de1d6d/thumbnails/d16af76054c34eae929ed1444d1b3bad/828ba00d0b5147bd98aaf6de00cec958.jpeg"
+            }
+        ]
+    },
+    "uid": "2ab6bccfc0e24f72810a5855f4de1d6d",
+    "uri": "https://api.sketchfab.com/v3/models/2ab6bccfc0e24f72810a5855f4de1d6d",
+    "user": {
+        "uid": "cbbd3b83fefe41698f171daa07077b92",
+        "username": "Mawner",
+        "displayName": "Mawner",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Mawner",
+        "avatar": {
+            "uid": "403058fb4b6548e4bdf5c392250c11b2",
+            "uri": "https://api.sketchfab.com/v3/avatars/403058fb4b6548e4bdf5c392250c11b2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1704,
+                    "url": "https://media.sketchfab.com/avatars/403058fb4b6548e4bdf5c392250c11b2/9579f1aa571640f892ed8dbb83c8ac85.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3279,
+                    "url": "https://media.sketchfab.com/avatars/403058fb4b6548e4bdf5c392250c11b2/953d1359c26442acae6c01333aadeed8.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9052,
+                    "url": "https://media.sketchfab.com/avatars/403058fb4b6548e4bdf5c392250c11b2/74dd439b6ea2480a903897a34364219f.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10709,
+                    "url": "https://media.sketchfab.com/avatars/403058fb4b6548e4bdf5c392250c11b2/2e5aa5b809fe470da9e3b6ed4507d0cf.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cbbd3b83fefe41698f171daa07077b92"
+    },
+    "vertexCount": 10658,
+    "viewCount": 24,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-cinderace-2ab6bccfc0e24f72810a5855f4de1d6d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "idk what to put in that description, so it is just an placeholder",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2ab6bccfc0e24f72810a5855f4de1d6d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-17T11:41:07.730239",
+    "pbrType": "metalness",
+    "textureCount": 11,
+    "materialCount": 6
+}

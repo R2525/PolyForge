@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T02:38:48.280463",
+    "embedUrl": "https://sketchfab.com/models/07f71e3eb1a64ca4847723cb1b406533/embed",
+    "faceCount": 2,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Cyberpunk Sign Turn Right",
+    "publishedAt": "2026-02-22T02:39:38.178997",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "direction",
+            "slug": "direction",
+            "uri": "https://api.sketchfab.com/v3/tags/direction"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "Navigation",
+            "slug": "navigation",
+            "uri": "https://api.sketchfab.com/v3/tags/navigation"
+        },
+        {
+            "name": "glowing",
+            "slug": "glowing",
+            "uri": "https://api.sketchfab.com/v3/tags/glowing"
+        },
+        {
+            "name": "techy",
+            "slug": "techy",
+            "uri": "https://api.sketchfab.com/v3/tags/techy"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "turnright",
+            "slug": "turnright",
+            "uri": "https://api.sketchfab.com/v3/tags/turnright"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "93deaa5aec5643babfaaa768af354074",
+                "width": 1920,
+                "height": 1080,
+                "size": 66847,
+                "url": "https://media.sketchfab.com/models/07f71e3eb1a64ca4847723cb1b406533/thumbnails/984b2861d4c64b838f542d8d66ae6853/016e737986e04c0e9503bfbbbabe9d39.jpeg"
+            },
+            {
+                "uid": "b7acf8a9e02e4da8b797b167bbfd13e5",
+                "width": 1024,
+                "height": 576,
+                "size": 24359,
+                "url": "https://media.sketchfab.com/models/07f71e3eb1a64ca4847723cb1b406533/thumbnails/984b2861d4c64b838f542d8d66ae6853/705873fe9c434b1c822b3cd71e46fa83.jpeg"
+            },
+            {
+                "uid": "746b97514c4f4719a38e81d4bc621af6",
+                "width": 720,
+                "height": 405,
+                "size": 14260,
+                "url": "https://media.sketchfab.com/models/07f71e3eb1a64ca4847723cb1b406533/thumbnails/984b2861d4c64b838f542d8d66ae6853/4cb99a6b3c0d495bb0e1b680c4bacc17.jpeg"
+            },
+            {
+                "uid": "d2b2d61009a940d68f14da100dffea33",
+                "width": 256,
+                "height": 144,
+                "size": 3118,
+                "url": "https://media.sketchfab.com/models/07f71e3eb1a64ca4847723cb1b406533/thumbnails/984b2861d4c64b838f542d8d66ae6853/75ceb5dba59542669b1faee12844205b.jpeg"
+            },
+            {
+                "uid": "f8bcfabe841144aba6c914c8d2976b3f",
+                "width": 64,
+                "height": 36,
+                "size": 899,
+                "url": "https://media.sketchfab.com/models/07f71e3eb1a64ca4847723cb1b406533/thumbnails/984b2861d4c64b838f542d8d66ae6853/0c801cf7dc9c48729dd04ee0ebf280bc.jpeg"
+            }
+        ]
+    },
+    "uid": "07f71e3eb1a64ca4847723cb1b406533",
+    "uri": "https://api.sketchfab.com/v3/models/07f71e3eb1a64ca4847723cb1b406533",
+    "user": {
+        "uid": "a43b2bbeef80478480387fbb1d78e9d3",
+        "username": "schoutesinli1974",
+        "displayName": "schoutesinli1974",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/schoutesinli1974",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a43b2bbeef80478480387fbb1d78e9d3"
+    },
+    "vertexCount": 4,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/cyberpunk-sign-turn-right-07f71e3eb1a64ca4847723cb1b406533",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the source format.The Converted version is intended exclusively for browser preview. In the original file, the following are fully preserved:✔ original scene hierarchy✔ unsimplified materials✔ accurate texture maps✔ correct object namesIf you intend to use the asset in a production environment, download the source file.A Cyberpunk Style Turn Right with Base Color Alpha and Emission Texture Maps. It can also be used as a decal.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/07f71e3eb1a64ca4847723cb1b406533/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T02:39:38.449808",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

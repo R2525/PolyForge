@@ -1,0 +1,64 @@
+{
+    "category": "Architecture",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic",
+            "score": 0.6
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.9
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Pixel Art",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Dusty",
+        "Cracked"
+    ],
+    "tags": [
+        "medieval",
+        "village",
+        "island",
+        "cave",
+        "snow"
+    ],
+    "model_id_full": "4cb75576585e490eb15bff9968834a22_Medieval Server Spawn",
+    "sketchfab_id": "4cb75576585e490eb15bff9968834a22",
+    "asset_name": "Medieval Server Spawn"
+}

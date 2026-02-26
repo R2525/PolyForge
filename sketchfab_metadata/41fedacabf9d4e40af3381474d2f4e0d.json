@@ -1,0 +1,211 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-12T19:07:47.653901",
+    "embedUrl": "https://sketchfab.com/models/41fedacabf9d4e40af3381474d2f4e0d/embed",
+    "faceCount": 63002,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Cyberpunk Barret",
+    "publishedAt": "2026-02-12T19:08:18.089095",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "worn",
+            "slug": "worn",
+            "uri": "https://api.sketchfab.com/v3/tags/worn"
+        },
+        {
+            "name": "used",
+            "slug": "used",
+            "uri": "https://api.sketchfab.com/v3/tags/used"
+        },
+        {
+            "name": "yellow",
+            "slug": "yellow",
+            "uri": "https://api.sketchfab.com/v3/tags/yellow"
+        },
+        {
+            "name": "barret",
+            "slug": "barret",
+            "uri": "https://api.sketchfab.com/v3/tags/barret"
+        },
+        {
+            "name": "scratched",
+            "slug": "scratched",
+            "uri": "https://api.sketchfab.com/v3/tags/scratched"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "gundam",
+            "slug": "gundam",
+            "uri": "https://api.sketchfab.com/v3/tags/gundam"
+        },
+        {
+            "name": "black",
+            "slug": "black",
+            "uri": "https://api.sketchfab.com/v3/tags/black"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c104119facb246f1b4968faaf1f0a31f",
+                "width": 1920,
+                "height": 1080,
+                "size": 66719,
+                "url": "https://media.sketchfab.com/models/41fedacabf9d4e40af3381474d2f4e0d/thumbnails/3f762565f786466aa87ac4891cbb17e6/c61a876d64524b5d9814a267d45af10b.jpeg"
+            },
+            {
+                "uid": "49c3406aec574ec3ab28b0413dfd5fd6",
+                "width": 1024,
+                "height": 576,
+                "size": 22065,
+                "url": "https://media.sketchfab.com/models/41fedacabf9d4e40af3381474d2f4e0d/thumbnails/3f762565f786466aa87ac4891cbb17e6/28c77cf9c3ef496cabcff3cbf122fc7c.jpeg"
+            },
+            {
+                "uid": "fae14460b59342a4b1ffe18684e535f7",
+                "width": 720,
+                "height": 405,
+                "size": 12558,
+                "url": "https://media.sketchfab.com/models/41fedacabf9d4e40af3381474d2f4e0d/thumbnails/3f762565f786466aa87ac4891cbb17e6/3fc9abbe164e42f199e62a58020a946d.jpeg"
+            },
+            {
+                "uid": "90687c80142f46e8b08a39c8b7330636",
+                "width": 256,
+                "height": 144,
+                "size": 2723,
+                "url": "https://media.sketchfab.com/models/41fedacabf9d4e40af3381474d2f4e0d/thumbnails/3f762565f786466aa87ac4891cbb17e6/84ff1de2c78c44c8b24ac378b119f0b7.jpeg"
+            },
+            {
+                "uid": "11f7ba8b5a2c4d4a89ec5aa9a9850195",
+                "width": 64,
+                "height": 36,
+                "size": 918,
+                "url": "https://media.sketchfab.com/models/41fedacabf9d4e40af3381474d2f4e0d/thumbnails/3f762565f786466aa87ac4891cbb17e6/43cb752945614229af23ce8e8b4a23c1.jpeg"
+            }
+        ]
+    },
+    "uid": "41fedacabf9d4e40af3381474d2f4e0d",
+    "uri": "https://api.sketchfab.com/v3/models/41fedacabf9d4e40af3381474d2f4e0d",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 31503,
+    "viewCount": 13,
+    "viewerUrl": "https://sketchfab.com/3d-models/cyberpunk-barret-41fedacabf9d4e40af3381474d2f4e0d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Cyberpunk Barret",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/41fedacabf9d4e40af3381474d2f4e0d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-12T19:18:55.245143",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

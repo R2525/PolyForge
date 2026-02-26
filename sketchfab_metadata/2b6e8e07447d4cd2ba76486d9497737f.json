@@ -1,0 +1,241 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T11:58:16.433805",
+    "embedUrl": "https://sketchfab.com/models/2b6e8e07447d4cd2ba76486d9497737f/embed",
+    "faceCount": 846148,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Automaton Legs",
+    "publishedAt": "2026-02-21T12:02:22.881811",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "machinery",
+            "slug": "machinery",
+            "uri": "https://api.sketchfab.com/v3/tags/machinery"
+        },
+        {
+            "name": "mechanical",
+            "slug": "mechanical",
+            "uri": "https://api.sketchfab.com/v3/tags/mechanical"
+        },
+        {
+            "name": "legs",
+            "slug": "legs",
+            "uri": "https://api.sketchfab.com/v3/tags/legs"
+        },
+        {
+            "name": "cyber",
+            "slug": "cyber",
+            "uri": "https://api.sketchfab.com/v3/tags/cyber"
+        },
+        {
+            "name": "augmented",
+            "slug": "augmented",
+            "uri": "https://api.sketchfab.com/v3/tags/augmented"
+        },
+        {
+            "name": "brass",
+            "slug": "brass",
+            "uri": "https://api.sketchfab.com/v3/tags/brass"
+        },
+        {
+            "name": "automaton",
+            "slug": "automaton",
+            "uri": "https://api.sketchfab.com/v3/tags/automaton"
+        },
+        {
+            "name": "android",
+            "slug": "android",
+            "uri": "https://api.sketchfab.com/v3/tags/android"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "limb",
+            "slug": "limb",
+            "uri": "https://api.sketchfab.com/v3/tags/limb"
+        },
+        {
+            "name": "limbs",
+            "slug": "limbs",
+            "uri": "https://api.sketchfab.com/v3/tags/limbs"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "makkoy",
+            "slug": "makkoy",
+            "uri": "https://api.sketchfab.com/v3/tags/makkoy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a3c42543b5c44757a73c65acb5a21bcb",
+                "width": 1920,
+                "height": 1080,
+                "size": 89426,
+                "url": "https://media.sketchfab.com/models/2b6e8e07447d4cd2ba76486d9497737f/thumbnails/610cf7e3b6a24a658af46db435ce6607/ba608901317b42d2bae3f23f893024a9.jpeg"
+            },
+            {
+                "uid": "857a757feb28445a82a8d229081667c4",
+                "width": 1024,
+                "height": 576,
+                "size": 28728,
+                "url": "https://media.sketchfab.com/models/2b6e8e07447d4cd2ba76486d9497737f/thumbnails/610cf7e3b6a24a658af46db435ce6607/0e9e08fdf2184f139376b827aec29b3e.jpeg"
+            },
+            {
+                "uid": "2c3135513ce74df2ba57a940dc50f0cb",
+                "width": 720,
+                "height": 405,
+                "size": 16616,
+                "url": "https://media.sketchfab.com/models/2b6e8e07447d4cd2ba76486d9497737f/thumbnails/610cf7e3b6a24a658af46db435ce6607/3ce1cc9c1d9943198533e00197965d0d.jpeg"
+            },
+            {
+                "uid": "d61f5244cfab462eb0d2595a22e43db1",
+                "width": 256,
+                "height": 144,
+                "size": 3530,
+                "url": "https://media.sketchfab.com/models/2b6e8e07447d4cd2ba76486d9497737f/thumbnails/610cf7e3b6a24a658af46db435ce6607/80cf21f8ee704b03abcc30cf96ecbb2d.jpeg"
+            },
+            {
+                "uid": "97eab2fd48c749dd9a5822204e1d7258",
+                "width": 64,
+                "height": 36,
+                "size": 968,
+                "url": "https://media.sketchfab.com/models/2b6e8e07447d4cd2ba76486d9497737f/thumbnails/610cf7e3b6a24a658af46db435ce6607/29624ca966c2477691fa7c0b6d5fad39.jpeg"
+            }
+        ]
+    },
+    "uid": "2b6e8e07447d4cd2ba76486d9497737f",
+    "uri": "https://api.sketchfab.com/v3/models/2b6e8e07447d4cd2ba76486d9497737f",
+    "user": {
+        "uid": "cbe9f0ecba5747a99e93f5ac19f7b9f6",
+        "username": "Makkoy_tales",
+        "displayName": "Makkoy_tales",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Makkoy_tales",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cbe9f0ecba5747a99e93f5ac19f7b9f6"
+    },
+    "vertexCount": 422632,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/automaton-legs-2b6e8e07447d4cd2ba76486d9497737f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "The Automaton Strider Legs are a refined augmentation designed for stability on solid ground. Built from lightweight steel alloys and articulated with precision bronze joints, they are engineered for balance, speed, and elegance rather than endurance in rough terrain.\r\n\r\nThese legs perform flawlessly on stone floors, castle courtyards, and reinforced airship decks. However, in mud, sand, or loose soil, their narrow pointed supports sink and lose efficiency. They are not made for the battlefield trenches — they are made for halls of power.\r\n\r\nMost commonly issued to the personal guards of noble lords, court duelists, and elite musketeers, the Strider pattern emphasizes posture and presence. The elongated silhouette enhances height and intimidation, while the internal spring-core mechanism allows quick pivots and controlled lunges.\r\n\r\nThey are expensive, carefully maintained, and rarely seen outside fortified structures.\r\n\r\nTo wear Automaton Strider Legs is not only to move — but to stand above others.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/2b6e8e07447d4cd2ba76486d9497737f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T12:09:06.781534",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

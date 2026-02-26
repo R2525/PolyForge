@@ -1,0 +1,49 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.8
+        },
+        {
+            "name": "Victorian",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty",
+        "Polished"
+    ],
+    "tags": [
+        "door handle",
+        "knocker",
+        "brass",
+        "furniture",
+        "home",
+        "decorative"
+    ],
+    "model_id_full": "1e9609355af443d08e83ecf4ad696d28_Door Handle Knocker Brass",
+    "sketchfab_id": "1e9609355af443d08e83ecf4ad696d28",
+    "asset_name": "Door Handle Knocker Brass"
+}

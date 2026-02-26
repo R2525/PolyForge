@@ -1,0 +1,302 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-01T09:39:04.504209",
+    "embedUrl": "https://sketchfab.com/models/24052408eea446e8b2b55223bf7bfecd/embed",
+    "faceCount": 192,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Minecraft glasses  low poly",
+    "publishedAt": "2026-02-01T09:41:23.331671",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "in",
+            "slug": "in",
+            "uri": "https://api.sketchfab.com/v3/tags/in"
+        },
+        {
+            "name": "to",
+            "slug": "to",
+            "uri": "https://api.sketchfab.com/v3/tags/to"
+        },
+        {
+            "name": "by",
+            "slug": "by",
+            "uri": "https://api.sketchfab.com/v3/tags/by"
+        },
+        {
+            "name": "credit",
+            "slug": "credit",
+            "uri": "https://api.sketchfab.com/v3/tags/credit"
+        },
+        {
+            "name": "for",
+            "slug": "for",
+            "uri": "https://api.sketchfab.com/v3/tags/for"
+        },
+        {
+            "name": "made",
+            "slug": "made",
+            "uri": "https://api.sketchfab.com/v3/tags/made"
+        },
+        {
+            "name": "with",
+            "slug": "with",
+            "uri": "https://api.sketchfab.com/v3/tags/with"
+        },
+        {
+            "name": "clean",
+            "slug": "clean",
+            "uri": "https://api.sketchfab.com/v3/tags/clean"
+        },
+        {
+            "name": "perfect",
+            "slug": "perfect",
+            "uri": "https://api.sketchfab.com/v3/tags/perfect"
+        },
+        {
+            "name": "glasses",
+            "slug": "glasses",
+            "uri": "https://api.sketchfab.com/v3/tags/glasses"
+        },
+        {
+            "name": "created",
+            "slug": "created",
+            "uri": "https://api.sketchfab.com/v3/tags/created"
+        },
+        {
+            "name": "feel",
+            "slug": "feel",
+            "uri": "https://api.sketchfab.com/v3/tags/feel"
+        },
+        {
+            "name": "Resource",
+            "slug": "resource",
+            "uri": "https://api.sketchfab.com/v3/tags/resource"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "renders",
+            "slug": "renders",
+            "uri": "https://api.sketchfab.com/v3/tags/renders"
+        },
+        {
+            "name": "Use",
+            "slug": "use",
+            "uri": "https://api.sketchfab.com/v3/tags/use"
+        },
+        {
+            "name": "bedrock",
+            "slug": "bedrock",
+            "uri": "https://api.sketchfab.com/v3/tags/bedrock"
+        },
+        {
+            "name": "packs",
+            "slug": "packs",
+            "uri": "https://api.sketchfab.com/v3/tags/packs"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "addons",
+            "slug": "addons",
+            "uri": "https://api.sketchfab.com/v3/tags/addons"
+        },
+        {
+            "name": "minecraft-style",
+            "slug": "minecraft-style",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft-style"
+        },
+        {
+            "name": "mobile-friendly",
+            "slug": "mobile-friendly",
+            "uri": "https://api.sketchfab.com/v3/tags/mobile-friendly"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "design",
+            "slug": "design",
+            "uri": "https://api.sketchfab.com/v3/tags/design"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "gamerz",
+            "slug": "gamerz",
+            "uri": "https://api.sketchfab.com/v3/tags/gamerz"
+        },
+        {
+            "name": "kareo",
+            "slug": "kareo",
+            "uri": "https://api.sketchfab.com/v3/tags/kareo"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "86bfcb3f8e7c4f0198c734648cdee094",
+                "width": 1920,
+                "height": 1080,
+                "size": 53073,
+                "url": "https://media.sketchfab.com/models/24052408eea446e8b2b55223bf7bfecd/thumbnails/8f2488aceda844c9b0c8c1d7d4dc8859/6e91057b8117407a8587000b3e21ada5.jpeg"
+            },
+            {
+                "uid": "27d38e5201e04c7baab9c37dcd984cd6",
+                "width": 1024,
+                "height": 576,
+                "size": 18680,
+                "url": "https://media.sketchfab.com/models/24052408eea446e8b2b55223bf7bfecd/thumbnails/8f2488aceda844c9b0c8c1d7d4dc8859/86a9fb258aea4ba382eb85ea6971d22b.jpeg"
+            },
+            {
+                "uid": "b748f1d16a9749bfada50b104f5401ad",
+                "width": 720,
+                "height": 405,
+                "size": 11300,
+                "url": "https://media.sketchfab.com/models/24052408eea446e8b2b55223bf7bfecd/thumbnails/8f2488aceda844c9b0c8c1d7d4dc8859/b0d2bbe925974e47855c8a285b5f0fdd.jpeg"
+            },
+            {
+                "uid": "d6c1e614ce4245ffb91a1d89b7b6d273",
+                "width": 256,
+                "height": 144,
+                "size": 2994,
+                "url": "https://media.sketchfab.com/models/24052408eea446e8b2b55223bf7bfecd/thumbnails/8f2488aceda844c9b0c8c1d7d4dc8859/5a3e8d11518b45d4a7b270db02c50495.jpeg"
+            },
+            {
+                "uid": "6525b806be4c49b2be7af8f097fdc03f",
+                "width": 64,
+                "height": 36,
+                "size": 1009,
+                "url": "https://media.sketchfab.com/models/24052408eea446e8b2b55223bf7bfecd/thumbnails/8f2488aceda844c9b0c8c1d7d4dc8859/972e21d4071e4234917d5a1ffe4e48f0.jpeg"
+            }
+        ]
+    },
+    "uid": "24052408eea446e8b2b55223bf7bfecd",
+    "uri": "https://api.sketchfab.com/v3/models/24052408eea446e8b2b55223bf7bfecd",
+    "user": {
+        "uid": "b4753df7aa6e46c78a1e597c64991411",
+        "username": "Kareo234",
+        "displayName": "Kareo234",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Kareo234",
+        "avatar": {
+            "uid": "66a09b24fc344368a2ae935e792b871a",
+            "uri": "https://api.sketchfab.com/v3/avatars/66a09b24fc344368a2ae935e792b871a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1235,
+                    "url": "https://media.sketchfab.com/avatars/66a09b24fc344368a2ae935e792b871a/f519abf16aa6459397d48ab64b5f647f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1865,
+                    "url": "https://media.sketchfab.com/avatars/66a09b24fc344368a2ae935e792b871a/69be5aab655a49aeb27460fb0fb18450.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4781,
+                    "url": "https://media.sketchfab.com/avatars/66a09b24fc344368a2ae935e792b871a/2e5e23fa34af4129a3eaf616ce633854.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5816,
+                    "url": "https://media.sketchfab.com/avatars/66a09b24fc344368a2ae935e792b871a/145b5304cdfd4e3b9aa0e5cd2cf7725a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b4753df7aa6e46c78a1e597c64991411"
+    },
+    "vertexCount": 97,
+    "viewCount": 37,
+    "viewerUrl": "https://sketchfab.com/3d-models/minecraft-glasses-low-poly-24052408eea446e8b2b55223bf7bfecd",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Low poly Minecraft-style glasses made in Blockbench.\n\n✔ Clean voxel design\n\n✔ Optimized low-poly model\n\n✔ Perfect for Minecraft Bedrock addons, resource packs & renders\n\n✔ Mobile-friendly model\n\nCreated by: Kareo Gamerz\nFeel free to use with credit.\nmy curseforge account [Kareo_Gamerz ](https://legacy.curseforge.com/members/kareo_gamerz/projects)\n\n\"Do not reupload without permission.”",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/24052408eea446e8b2b55223bf7bfecd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-01T09:47:05.494962",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

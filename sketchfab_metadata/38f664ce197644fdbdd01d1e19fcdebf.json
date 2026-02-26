@@ -1,0 +1,219 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T21:35:30.471112",
+    "embedUrl": "https://sketchfab.com/models/38f664ce197644fdbdd01d1e19fcdebf/embed",
+    "faceCount": 512337,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Ornate Wooden Throne",
+    "publishedAt": "2026-02-23T21:36:09.695019",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ornate",
+            "slug": "ornate",
+            "uri": "https://api.sketchfab.com/v3/tags/ornate"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "throne",
+            "slug": "throne",
+            "uri": "https://api.sketchfab.com/v3/tags/throne"
+        },
+        {
+            "name": "brown",
+            "slug": "brown",
+            "uri": "https://api.sketchfab.com/v3/tags/brown"
+        },
+        {
+            "name": "decorative",
+            "slug": "decorative",
+            "uri": "https://api.sketchfab.com/v3/tags/decorative"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "gothic",
+            "slug": "gothic",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic"
+        },
+        {
+            "name": "carved",
+            "slug": "carved",
+            "uri": "https://api.sketchfab.com/v3/tags/carved"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "chair",
+            "slug": "chair",
+            "uri": "https://api.sketchfab.com/v3/tags/chair"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "49e28bdac77441c1a96b033a63ab0189",
+                "width": 1920,
+                "height": 1080,
+                "size": 91537,
+                "url": "https://media.sketchfab.com/models/38f664ce197644fdbdd01d1e19fcdebf/thumbnails/e2001ff5402a495ab32501ec8d0cedbf/88b59a3c44ed41b09e022622632f659e.jpeg"
+            },
+            {
+                "uid": "72c67cf02c8a4750b6853b58c213c660",
+                "width": 1024,
+                "height": 576,
+                "size": 29483,
+                "url": "https://media.sketchfab.com/models/38f664ce197644fdbdd01d1e19fcdebf/thumbnails/e2001ff5402a495ab32501ec8d0cedbf/669ef8772314407aba0d06f56ebc2371.jpeg"
+            },
+            {
+                "uid": "29281adf3a9f45149ffd74774b665f05",
+                "width": 720,
+                "height": 405,
+                "size": 17044,
+                "url": "https://media.sketchfab.com/models/38f664ce197644fdbdd01d1e19fcdebf/thumbnails/e2001ff5402a495ab32501ec8d0cedbf/ae2af0923f2a4ec2bf4f5e5f0b5d2c7e.jpeg"
+            },
+            {
+                "uid": "bbdcf32d6a184bb1b153250d68335c84",
+                "width": 256,
+                "height": 144,
+                "size": 3824,
+                "url": "https://media.sketchfab.com/models/38f664ce197644fdbdd01d1e19fcdebf/thumbnails/e2001ff5402a495ab32501ec8d0cedbf/5a07d4ae8c44417ea0fc986b480a4b38.jpeg"
+            },
+            {
+                "uid": "f3aaa15a953349a18c77fea87c320cfc",
+                "width": 64,
+                "height": 36,
+                "size": 1030,
+                "url": "https://media.sketchfab.com/models/38f664ce197644fdbdd01d1e19fcdebf/thumbnails/e2001ff5402a495ab32501ec8d0cedbf/9b466bfabea141a6965fbce19a62921d.jpeg"
+            }
+        ]
+    },
+    "uid": "38f664ce197644fdbdd01d1e19fcdebf",
+    "uri": "https://api.sketchfab.com/v3/models/38f664ce197644fdbdd01d1e19fcdebf",
+    "user": {
+        "uid": "a6c4f8d518b7467cae6057912f438283",
+        "username": "carelessrender",
+        "displayName": "CarelessRenders",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/carelessrender",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a6c4f8d518b7467cae6057912f438283"
+    },
+    "vertexCount": 256159,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/ornate-wooden-throne-38f664ce197644fdbdd01d1e19fcdebf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/jN8Fnn](https://www.meshy.ai/s/jN8Fnn)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/38f664ce197644fdbdd01d1e19fcdebf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T21:36:09.668220",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

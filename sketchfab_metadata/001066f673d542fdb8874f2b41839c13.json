@@ -1,0 +1,191 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2026-02-07T19:56:41.568522",
+    "embedUrl": "https://sketchfab.com/models/001066f673d542fdb8874f2b41839c13/embed",
+    "faceCount": 117340,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/34b725081a6a4184957efaec2cb84ed3",
+        "label": "CC Attribution-NonCommercial-NoDerivs",
+        "fullName": "CC Attribution-NonCommercial-NoDerivs",
+        "requirements": "Author must be credited. No commercial use. Modified versions can not be distributed.",
+        "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "slug": "by-nc-nd"
+    },
+    "likeCount": 17,
+    "name": "Tunic and Hood",
+    "publishedAt": "2026-02-08T15:30:54.166206",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "clothes",
+            "slug": "clothes",
+            "uri": "https://api.sketchfab.com/v3/tags/clothes"
+        },
+        {
+            "name": "downloadable",
+            "slug": "downloadable",
+            "uri": "https://api.sketchfab.com/v3/tags/downloadable"
+        },
+        {
+            "name": "3d-visualization",
+            "slug": "3d-visualization",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-visualization"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1fe9603607ff4ae8a3d419796eef67ab",
+                "width": 1920,
+                "height": 1080,
+                "size": 387906,
+                "url": "https://media.sketchfab.com/models/001066f673d542fdb8874f2b41839c13/thumbnails/e317763d21c4441e8fd4b01301afd618/8a9ade7ca6e3478591514596d13b4b38.jpeg"
+            },
+            {
+                "uid": "1009f61a88a944d5a383b67ec203a4fe",
+                "width": 1024,
+                "height": 576,
+                "size": 38978,
+                "url": "https://media.sketchfab.com/models/001066f673d542fdb8874f2b41839c13/thumbnails/e317763d21c4441e8fd4b01301afd618/9d09b77f711b4879a6b053ae74c8f0f2.jpeg"
+            },
+            {
+                "uid": "faf371f8434c4fec89c489fe3409adca",
+                "width": 720,
+                "height": 405,
+                "size": 17560,
+                "url": "https://media.sketchfab.com/models/001066f673d542fdb8874f2b41839c13/thumbnails/e317763d21c4441e8fd4b01301afd618/1f21e9a408bb42a8b83a2ac4ee8e1568.jpeg"
+            },
+            {
+                "uid": "085abebb0c854a5d8cb2e210a21714b9",
+                "width": 256,
+                "height": 144,
+                "size": 3328,
+                "url": "https://media.sketchfab.com/models/001066f673d542fdb8874f2b41839c13/thumbnails/e317763d21c4441e8fd4b01301afd618/4a30a618155942b6bb1e52363feee07b.jpeg"
+            },
+            {
+                "uid": "26e0cb47fefe4c70911bde1aed7e217b",
+                "width": 64,
+                "height": 36,
+                "size": 973,
+                "url": "https://media.sketchfab.com/models/001066f673d542fdb8874f2b41839c13/thumbnails/e317763d21c4441e8fd4b01301afd618/bf6fe5e551ed43609fc67ab7c17e476e.jpeg"
+            }
+        ]
+    },
+    "uid": "001066f673d542fdb8874f2b41839c13",
+    "uri": "https://api.sketchfab.com/v3/models/001066f673d542fdb8874f2b41839c13",
+    "user": {
+        "uid": "37ffc7edfa95477ab527637c9afde233",
+        "username": "RamihrdusModels",
+        "displayName": "Björn",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/RamihrdusModels",
+        "avatar": {
+            "uid": "f7ecbb1ea84e4bce98aab203cc464c47",
+            "uri": "https://api.sketchfab.com/v3/avatars/f7ecbb1ea84e4bce98aab203cc464c47",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 928,
+                    "url": "https://media.sketchfab.com/avatars/f7ecbb1ea84e4bce98aab203cc464c47/ebb45ceb0fc7416498e587fa0ba29741.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1243,
+                    "url": "https://media.sketchfab.com/avatars/f7ecbb1ea84e4bce98aab203cc464c47/56fa811ab5a54ab88be2c481a9a4d897.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2439,
+                    "url": "https://media.sketchfab.com/avatars/f7ecbb1ea84e4bce98aab203cc464c47/7ab0e6ed2b97426e84b3dbe9d72389b9.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2780,
+                    "url": "https://media.sketchfab.com/avatars/f7ecbb1ea84e4bce98aab203cc464c47/168c7fb256c74a37a91240dcf580682b.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/37ffc7edfa95477ab527637c9afde233"
+    },
+    "vertexCount": 58666,
+    "viewCount": 249,
+    "viewerUrl": "https://sketchfab.com/3d-models/tunic-and-hood-001066f673d542fdb8874f2b41839c13",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "3D model of a Tunic and Hood.\n\nModelled in 3ds Max, ZBrush and Marvelous Designer. Textured in Substance 3D Painter.",
+    "price": null,
+    "downloadCount": 53,
+    "editorUrl": "https://sketchfab.com/models/001066f673d542fdb8874f2b41839c13/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-11T19:47:31.604223",
+    "pbrType": "metalness",
+    "textureCount": 14,
+    "materialCount": 3
+}

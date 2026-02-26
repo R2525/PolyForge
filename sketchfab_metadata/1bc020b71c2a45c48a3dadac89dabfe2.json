@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "34edc263260f43e693ed527495b6d9a4",
+            "name": "News & Politics",
+            "slug": "news-politics",
+            "uri": "https://api.sketchfab.com/v3/categories/34edc263260f43e693ed527495b6d9a4",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/58d3382fd683b3fb9a87a4e1e3f0222b-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/34edc263260f43e693ed527495b6d9a4/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/34edc263260f43e693ed527495b6d9a4/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-11T21:41:58.566516",
+    "embedUrl": "https://sketchfab.com/models/1bc020b71c2a45c48a3dadac89dabfe2/embed",
+    "faceCount": 199996,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "<🪵>F0restry-[◈]✖[◈][#0] -R0ver <🪵>",
+    "publishedAt": "2026-01-11T22:03:50.646586",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "automobile",
+            "slug": "automobile",
+            "uri": "https://api.sketchfab.com/v3/tags/automobile"
+        },
+        {
+            "name": "buggy",
+            "slug": "buggy",
+            "uri": "https://api.sketchfab.com/v3/tags/buggy"
+        },
+        {
+            "name": "truck",
+            "slug": "truck",
+            "uri": "https://api.sketchfab.com/v3/tags/truck"
+        },
+        {
+            "name": "vehicles",
+            "slug": "vehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicles"
+        },
+        {
+            "name": "cars",
+            "slug": "cars",
+            "uri": "https://api.sketchfab.com/v3/tags/cars"
+        },
+        {
+            "name": "trucks",
+            "slug": "trucks",
+            "uri": "https://api.sketchfab.com/v3/tags/trucks"
+        },
+        {
+            "name": "jeep",
+            "slug": "jeep",
+            "uri": "https://api.sketchfab.com/v3/tags/jeep"
+        },
+        {
+            "name": "rover",
+            "slug": "rover",
+            "uri": "https://api.sketchfab.com/v3/tags/rover"
+        },
+        {
+            "name": "Old Car",
+            "slug": "old-car",
+            "uri": "https://api.sketchfab.com/v3/tags/old-car"
+        },
+        {
+            "name": "uvmapped",
+            "slug": "uvmapped",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped"
+        },
+        {
+            "name": "forestry",
+            "slug": "forestry",
+            "uri": "https://api.sketchfab.com/v3/tags/forestry"
+        },
+        {
+            "name": "vehicledesign",
+            "slug": "vehicledesign",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicledesign"
+        },
+        {
+            "name": "cars-vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/cars-vehicles"
+        },
+        {
+            "name": "forest-engineering",
+            "slug": "forest-engineering",
+            "uri": "https://api.sketchfab.com/v3/tags/forest-engineering"
+        },
+        {
+            "name": "rover-vehicle",
+            "slug": "rover-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/rover-vehicle"
+        },
+        {
+            "name": "heavy-vehicle",
+            "slug": "heavy-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/heavy-vehicle"
+        },
+        {
+            "name": "post-apocaliptic",
+            "slug": "post-apocaliptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocaliptic"
+        },
+        {
+            "name": "vehicles-cars",
+            "slug": "vehicles-cars",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicles-cars"
+        },
+        {
+            "name": "truck-heavy-vehicle",
+            "slug": "truck-heavy-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/truck-heavy-vehicle"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "car",
+            "slug": "car",
+            "uri": "https://api.sketchfab.com/v3/tags/car"
+        },
+        {
+            "name": "cars-vehicle",
+            "slug": "cars-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/cars-vehicle"
+        },
+        {
+            "name": "pick-up-truck",
+            "slug": "pick-up-truck",
+            "uri": "https://api.sketchfab.com/v3/tags/pick-up-truck"
+        },
+        {
+            "name": "green-car",
+            "slug": "green-car",
+            "uri": "https://api.sketchfab.com/v3/tags/green-car"
+        },
+        {
+            "name": "swedishcar",
+            "slug": "swedishcar",
+            "uri": "https://api.sketchfab.com/v3/tags/swedishcar"
+        },
+        {
+            "name": "buggyvehicle",
+            "slug": "buggyvehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/buggyvehicle"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "fast3d",
+            "slug": "fast3d",
+            "uri": "https://api.sketchfab.com/v3/tags/fast3d"
+        },
+        {
+            "name": "truckswheels",
+            "slug": "truckswheels",
+            "uri": "https://api.sketchfab.com/v3/tags/truckswheels"
+        },
+        {
+            "name": "truck-model",
+            "slug": "truck-model",
+            "uri": "https://api.sketchfab.com/v3/tags/truck-model"
+        },
+        {
+            "name": "rover-van",
+            "slug": "rover-van",
+            "uri": "https://api.sketchfab.com/v3/tags/rover-van"
+        },
+        {
+            "name": "ranger-pickup",
+            "slug": "ranger-pickup",
+            "uri": "https://api.sketchfab.com/v3/tags/ranger-pickup"
+        },
+        {
+            "name": "ranger-truck",
+            "slug": "ranger-truck",
+            "uri": "https://api.sketchfab.com/v3/tags/ranger-truck"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "uvmapped-model",
+            "slug": "uvmapped-model",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped-model"
+        },
+        {
+            "name": "greenvehicle",
+            "slug": "greenvehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/greenvehicle"
+        },
+        {
+            "name": "fast3dai",
+            "slug": "fast3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/fast3dai"
+        },
+        {
+            "name": "fast3dai-model",
+            "slug": "fast3dai-model",
+            "uri": "https://api.sketchfab.com/v3/tags/fast3dai-model"
+        },
+        {
+            "name": "fast3d-model",
+            "slug": "fast3d-model",
+            "uri": "https://api.sketchfab.com/v3/tags/fast3d-model"
+        },
+        {
+            "name": "forestryrover",
+            "slug": "forestryrover",
+            "uri": "https://api.sketchfab.com/v3/tags/forestryrover"
+        },
+        {
+            "name": "forestry-rover",
+            "slug": "forestry-rover",
+            "uri": "https://api.sketchfab.com/v3/tags/forestry-rover"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2b0aa4da1a2341a19d295ae1cc91c970",
+                "width": 1920,
+                "height": 1080,
+                "size": 301040,
+                "url": "https://media.sketchfab.com/models/1bc020b71c2a45c48a3dadac89dabfe2/thumbnails/756e9f0d43c84b7db463062b938c263c/8482cd41be134831a7cdc122e24b5917.jpeg"
+            },
+            {
+                "uid": "fb1e01163da9474b8fc6024bfd665c93",
+                "width": 1024,
+                "height": 576,
+                "size": 53995,
+                "url": "https://media.sketchfab.com/models/1bc020b71c2a45c48a3dadac89dabfe2/thumbnails/756e9f0d43c84b7db463062b938c263c/a28fce0f0cd740cebc1432826b3e99ca.jpeg"
+            },
+            {
+                "uid": "b0add5dc66914d8a867f5563fb411ad1",
+                "width": 720,
+                "height": 405,
+                "size": 28197,
+                "url": "https://media.sketchfab.com/models/1bc020b71c2a45c48a3dadac89dabfe2/thumbnails/756e9f0d43c84b7db463062b938c263c/5ed02b8714bd4ecd81396d6b08239e4e.jpeg"
+            },
+            {
+                "uid": "1274a67943814e108a51ffca6bf9e625",
+                "width": 256,
+                "height": 144,
+                "size": 5570,
+                "url": "https://media.sketchfab.com/models/1bc020b71c2a45c48a3dadac89dabfe2/thumbnails/756e9f0d43c84b7db463062b938c263c/9d6e327ebb27485ca2dc6e7ebe7af549.jpeg"
+            },
+            {
+                "uid": "0f50f31e665d423fb087abcb30b49a2c",
+                "width": 64,
+                "height": 36,
+                "size": 1254,
+                "url": "https://media.sketchfab.com/models/1bc020b71c2a45c48a3dadac89dabfe2/thumbnails/756e9f0d43c84b7db463062b938c263c/c53ed950ac4c4eaa8e8b19060f73e924.jpeg"
+            }
+        ]
+    },
+    "uid": "1bc020b71c2a45c48a3dadac89dabfe2",
+    "uri": "https://api.sketchfab.com/v3/models/1bc020b71c2a45c48a3dadac89dabfe2",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 99830,
+    "viewCount": 51,
+    "viewerUrl": "https://sketchfab.com/3d-models/f0restry-0-r0ver-1bc020b71c2a45c48a3dadac89dabfe2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 12,
+    "editorUrl": "https://sketchfab.com/models/1bc020b71c2a45c48a3dadac89dabfe2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-22T14:44:46.900857",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

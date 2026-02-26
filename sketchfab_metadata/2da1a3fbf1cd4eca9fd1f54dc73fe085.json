@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-04T05:17:25.293902",
+    "embedUrl": "https://sketchfab.com/models/2da1a3fbf1cd4eca9fd1f54dc73fe085/embed",
+    "faceCount": 99196,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Well",
+    "publishedAt": "2026-02-04T05:27:58.281255",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "structure",
+            "slug": "structure",
+            "uri": "https://api.sketchfab.com/v3/tags/structure"
+        },
+        {
+            "name": "tafeqld2026",
+            "slug": "tafeqld2026",
+            "uri": "https://api.sketchfab.com/v3/tags/tafeqld2026"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3d6204ebb41b409cbc6c1df07d6b9ef1",
+                "width": 1920,
+                "height": 1080,
+                "size": 155533,
+                "url": "https://media.sketchfab.com/models/2da1a3fbf1cd4eca9fd1f54dc73fe085/thumbnails/368a1189ede14986895f4c42d7724811/9cfd2c63d74d43c99b048f5199a3d416.jpeg"
+            },
+            {
+                "uid": "c80f3cbb87af420888cb0a8a4546b50c",
+                "width": 1024,
+                "height": 576,
+                "size": 38532,
+                "url": "https://media.sketchfab.com/models/2da1a3fbf1cd4eca9fd1f54dc73fe085/thumbnails/368a1189ede14986895f4c42d7724811/c6f6bd5ba27c49118d56038bb48890ef.jpeg"
+            },
+            {
+                "uid": "597a921b1a544f6eab5c9ca11069b695",
+                "width": 720,
+                "height": 405,
+                "size": 23331,
+                "url": "https://media.sketchfab.com/models/2da1a3fbf1cd4eca9fd1f54dc73fe085/thumbnails/368a1189ede14986895f4c42d7724811/35bc170fc9bd4ba08b1670712013490f.jpeg"
+            },
+            {
+                "uid": "7a9bef7e9438469a94532bfe63cd5f47",
+                "width": 256,
+                "height": 144,
+                "size": 5248,
+                "url": "https://media.sketchfab.com/models/2da1a3fbf1cd4eca9fd1f54dc73fe085/thumbnails/368a1189ede14986895f4c42d7724811/f079160a12914c1da1476f7761889aba.jpeg"
+            },
+            {
+                "uid": "76969a8f996344b58cfd0e501ad856ae",
+                "width": 64,
+                "height": 36,
+                "size": 1242,
+                "url": "https://media.sketchfab.com/models/2da1a3fbf1cd4eca9fd1f54dc73fe085/thumbnails/368a1189ede14986895f4c42d7724811/60d25a88b66c46dc9f4ace8c7299225f.jpeg"
+            }
+        ]
+    },
+    "uid": "2da1a3fbf1cd4eca9fd1f54dc73fe085",
+    "uri": "https://api.sketchfab.com/v3/models/2da1a3fbf1cd4eca9fd1f54dc73fe085",
+    "user": {
+        "uid": "380b295580eb447b832e5c3a20e9e62e",
+        "username": "Thanh-Le",
+        "displayName": "Thanh Le",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Thanh-Le",
+        "avatar": {
+            "uid": "211e0d67931340bfae8722f9cd2cd9d7",
+            "uri": "https://api.sketchfab.com/v3/avatars/211e0d67931340bfae8722f9cd2cd9d7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2610,
+                    "url": "https://media.sketchfab.com/avatars/211e0d67931340bfae8722f9cd2cd9d7/7c6430ecf3d249518cb7520e6da95ffe.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5184,
+                    "url": "https://media.sketchfab.com/avatars/211e0d67931340bfae8722f9cd2cd9d7/19192039c34d4a2aa9c14a7b6f167f7b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14695,
+                    "url": "https://media.sketchfab.com/avatars/211e0d67931340bfae8722f9cd2cd9d7/c1ff37a7e19447f197aee3546ecec112.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17463,
+                    "url": "https://media.sketchfab.com/avatars/211e0d67931340bfae8722f9cd2cd9d7/dfb5b59dc711471b90fd4a71df95b05a.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/380b295580eb447b832e5c3a20e9e62e"
+    },
+    "vertexCount": 50162,
+    "viewCount": 21,
+    "viewerUrl": "https://sketchfab.com/3d-models/well-2da1a3fbf1cd4eca9fd1f54dc73fe085",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Week 2 Modelling practice in use of Squeeze, Spline, Mesh Edit, Mirror, Symmetry and Bend.",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/2da1a3fbf1cd4eca9fd1f54dc73fe085/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-04T07:48:00.971481",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 20
+}

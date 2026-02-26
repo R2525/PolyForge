@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T21:43:54.325580",
+    "embedUrl": "https://sketchfab.com/models/20593543e5884fb4b6f78f854ba2088c/embed",
+    "faceCount": 874,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Wooden Sword",
+    "publishedAt": "2026-02-19T21:44:34.457437",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a59f7c2a18c74d4eb661ac9b335c95c7",
+                "width": 1920,
+                "height": 1080,
+                "size": 43910,
+                "url": "https://media.sketchfab.com/models/20593543e5884fb4b6f78f854ba2088c/thumbnails/3eb13deb2865424b9e96eab4f05ef318/d6734f9e7bc443739b4e731d0514f5fd.jpeg"
+            },
+            {
+                "uid": "378cee784a11441782cb01a680627698",
+                "width": 1024,
+                "height": 576,
+                "size": 13901,
+                "url": "https://media.sketchfab.com/models/20593543e5884fb4b6f78f854ba2088c/thumbnails/3eb13deb2865424b9e96eab4f05ef318/ce1cf6b0d2fb4b619e8018d2a2aeb1c4.jpeg"
+            },
+            {
+                "uid": "7d4246b62b474d6881abe3f4ec4f1342",
+                "width": 720,
+                "height": 405,
+                "size": 7811,
+                "url": "https://media.sketchfab.com/models/20593543e5884fb4b6f78f854ba2088c/thumbnails/3eb13deb2865424b9e96eab4f05ef318/e8d69ab54c1d4853bf85a6cc6c157483.jpeg"
+            },
+            {
+                "uid": "d47f463a80b248e4b74dd81b98d13010",
+                "width": 256,
+                "height": 144,
+                "size": 1820,
+                "url": "https://media.sketchfab.com/models/20593543e5884fb4b6f78f854ba2088c/thumbnails/3eb13deb2865424b9e96eab4f05ef318/c0a335b443704e6a879b5cf83a9e001f.jpeg"
+            },
+            {
+                "uid": "408fc78123dc42e5bae1ac2a0b3297b6",
+                "width": 64,
+                "height": 36,
+                "size": 819,
+                "url": "https://media.sketchfab.com/models/20593543e5884fb4b6f78f854ba2088c/thumbnails/3eb13deb2865424b9e96eab4f05ef318/bd0ebd603a77431183ac52899da79a51.jpeg"
+            }
+        ]
+    },
+    "uid": "20593543e5884fb4b6f78f854ba2088c",
+    "uri": "https://api.sketchfab.com/v3/models/20593543e5884fb4b6f78f854ba2088c",
+    "user": {
+        "uid": "032eb193b02148d1b415bf02bdf363e8",
+        "username": "Universalsoda",
+        "displayName": "Universalsoda",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Universalsoda",
+        "avatar": {
+            "uid": "bb6b8eb09cb84816b786085c9cd064e2",
+            "uri": "https://api.sketchfab.com/v3/avatars/bb6b8eb09cb84816b786085c9cd064e2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1075,
+                    "url": "https://media.sketchfab.com/avatars/bb6b8eb09cb84816b786085c9cd064e2/90f01087307c4b01832e3e59c7e18232.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1633,
+                    "url": "https://media.sketchfab.com/avatars/bb6b8eb09cb84816b786085c9cd064e2/609f059c8d2a4a678bcd9172e511185c.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4222,
+                    "url": "https://media.sketchfab.com/avatars/bb6b8eb09cb84816b786085c9cd064e2/327f7802d3fb4c0aa79716da0f4eec9b.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4954,
+                    "url": "https://media.sketchfab.com/avatars/bb6b8eb09cb84816b786085c9cd064e2/528d6feddc774544b3264a2a33d49b59.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/032eb193b02148d1b415bf02bdf363e8"
+    },
+    "vertexCount": 439,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/wooden-sword-20593543e5884fb4b6f78f854ba2088c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Cartoon wooden sword designed for the game",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/20593543e5884fb4b6f78f854ba2088c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T21:44:34.673711",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

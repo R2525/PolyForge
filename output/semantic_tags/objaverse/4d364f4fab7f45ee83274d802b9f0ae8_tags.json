@@ -1,0 +1,41 @@
+{
+    "category": "Food & Drink",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.7
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.55
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Abstract",
+            "score": 0.45
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Wet"
+    ],
+    "tags": [
+        "cake",
+        "ice cream",
+        "dessert"
+    ]
+}

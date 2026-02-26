@@ -1,0 +1,140 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-19T23:05:26.906913",
+    "embedUrl": "https://sketchfab.com/models/36fe1070d4014ca4bbbf703616f1509f/embed",
+    "faceCount": 12120,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Snowspeeder",
+    "publishedAt": "2026-01-19T23:06:49.122331",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "hoth",
+            "slug": "hoth",
+            "uri": "https://api.sketchfab.com/v3/tags/hoth"
+        },
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6e6f345e081e42ee8ad39af9c22b1f68",
+                "width": 1920,
+                "height": 1080,
+                "size": 200930,
+                "url": "https://media.sketchfab.com/models/36fe1070d4014ca4bbbf703616f1509f/thumbnails/145e79446c0343cd8799a09cdd49a7c1/70bffd226b294be39fd2706768e75468.jpeg"
+            },
+            {
+                "uid": "5ba4d36195a0423899918ca9483da125",
+                "width": 1024,
+                "height": 576,
+                "size": 61884,
+                "url": "https://media.sketchfab.com/models/36fe1070d4014ca4bbbf703616f1509f/thumbnails/145e79446c0343cd8799a09cdd49a7c1/e5e746d37a4040b3a576bdb404fcc3ed.jpeg"
+            },
+            {
+                "uid": "c6d1a071ac2c4cdfaa40cc3a67396939",
+                "width": 720,
+                "height": 405,
+                "size": 34742,
+                "url": "https://media.sketchfab.com/models/36fe1070d4014ca4bbbf703616f1509f/thumbnails/145e79446c0343cd8799a09cdd49a7c1/3db910e2c7ee4b86b5dd9149831ec16f.jpeg"
+            },
+            {
+                "uid": "0a71bd7effb04c5995e8a438c32a51e0",
+                "width": 256,
+                "height": 144,
+                "size": 6652,
+                "url": "https://media.sketchfab.com/models/36fe1070d4014ca4bbbf703616f1509f/thumbnails/145e79446c0343cd8799a09cdd49a7c1/f13ca69f8d734d648949a61fa9ffa4ed.jpeg"
+            },
+            {
+                "uid": "cfea7ec76ae44a24adabe585a8262faf",
+                "width": 64,
+                "height": 36,
+                "size": 1336,
+                "url": "https://media.sketchfab.com/models/36fe1070d4014ca4bbbf703616f1509f/thumbnails/145e79446c0343cd8799a09cdd49a7c1/d2f544278573429a923ab5673b471cd7.jpeg"
+            }
+        ]
+    },
+    "uid": "36fe1070d4014ca4bbbf703616f1509f",
+    "uri": "https://api.sketchfab.com/v3/models/36fe1070d4014ca4bbbf703616f1509f",
+    "user": {
+        "uid": "b9e697c567eb478d8a361cdeb4c0edd1",
+        "username": "finfito",
+        "displayName": "finfito",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/finfito",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b9e697c567eb478d8a361cdeb4c0edd1"
+    },
+    "vertexCount": 7132,
+    "viewCount": 63,
+    "viewerUrl": "https://sketchfab.com/3d-models/snowspeeder-36fe1070d4014ca4bbbf703616f1509f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "The Snowspeeder was always my favorite as a kid. This is the first time I've modeled one. I decided to paint it like the full-scale prop built on the Elstree soundstage for Empire Strikes Back, quite different from the filming miniature with it's distintive orange stripes",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/36fe1070d4014ca4bbbf703616f1509f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "SubstancePainter",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-23T23:31:14.469072",
+    "pbrType": "metalness",
+    "textureCount": 6,
+    "materialCount": 1
+}

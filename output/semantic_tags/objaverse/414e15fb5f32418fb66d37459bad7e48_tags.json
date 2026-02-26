@@ -1,0 +1,37 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Abstract",
+            "score": 0.9
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        }
+    ],
+    "style": "Abstract",
+    "top_styles": [
+        {
+            "name": "Abstract",
+            "score": 0.9
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Clean"
+    ],
+    "tags": [
+        "light",
+        "square",
+        "glow"
+    ]
+}

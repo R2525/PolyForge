@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T15:56:43.868332",
+    "embedUrl": "https://sketchfab.com/models/284f5344058043358bb9dbc70e302c5d/embed",
+    "faceCount": 23834,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Wooden Wheel",
+    "publishedAt": "2026-02-21T15:57:48.980542",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wheel",
+            "slug": "wheel",
+            "uri": "https://api.sketchfab.com/v3/tags/wheel"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "item",
+            "slug": "item",
+            "uri": "https://api.sketchfab.com/v3/tags/item"
+        },
+        {
+            "name": "wooden_wheel",
+            "slug": "wooden_wheel",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden_wheel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "85f02877d98c40df86283be6c22fd1a6",
+                "width": 1920,
+                "height": 1080,
+                "size": 40215,
+                "url": "https://media.sketchfab.com/models/284f5344058043358bb9dbc70e302c5d/thumbnails/b264d465c58d4105a86a90a5b70bf9e5/c1a7b02113e24856a4d329ad8122100d.jpeg"
+            },
+            {
+                "uid": "2b6a367df880401ab474c28bd5f46c03",
+                "width": 1024,
+                "height": 576,
+                "size": 13413,
+                "url": "https://media.sketchfab.com/models/284f5344058043358bb9dbc70e302c5d/thumbnails/b264d465c58d4105a86a90a5b70bf9e5/377e07e5c7b7472fa56ab36fbf088564.jpeg"
+            },
+            {
+                "uid": "2803252ebe7a48afbb89027c6153394e",
+                "width": 720,
+                "height": 405,
+                "size": 7743,
+                "url": "https://media.sketchfab.com/models/284f5344058043358bb9dbc70e302c5d/thumbnails/b264d465c58d4105a86a90a5b70bf9e5/d347e741460947b98b26ec438834ac0b.jpeg"
+            },
+            {
+                "uid": "96a2465c79d94853a105386f7cfc78ea",
+                "width": 256,
+                "height": 144,
+                "size": 1892,
+                "url": "https://media.sketchfab.com/models/284f5344058043358bb9dbc70e302c5d/thumbnails/b264d465c58d4105a86a90a5b70bf9e5/692999491f8546b9aacae9d158c4bd4a.jpeg"
+            },
+            {
+                "uid": "b7f7523f6ac245ed80e91dbb8e3d9d85",
+                "width": 64,
+                "height": 36,
+                "size": 774,
+                "url": "https://media.sketchfab.com/models/284f5344058043358bb9dbc70e302c5d/thumbnails/b264d465c58d4105a86a90a5b70bf9e5/10f8913de8b2439fa3aeed8a58b94fcc.jpeg"
+            }
+        ]
+    },
+    "uid": "284f5344058043358bb9dbc70e302c5d",
+    "uri": "https://api.sketchfab.com/v3/models/284f5344058043358bb9dbc70e302c5d",
+    "user": {
+        "uid": "fec264f087aa4a59a34f1e5a6b3b9ad7",
+        "username": "mindblowersteam",
+        "displayName": "mindblowersteam",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mindblowersteam",
+        "avatar": {
+            "uid": "5e731dea1db74a58b70cdf1689961eb3",
+            "uri": "https://api.sketchfab.com/v3/avatars/5e731dea1db74a58b70cdf1689961eb3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1010,
+                    "url": "https://media.sketchfab.com/avatars/5e731dea1db74a58b70cdf1689961eb3/59f1d2ddd9824b18b42625178f9f3ab7.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1414,
+                    "url": "https://media.sketchfab.com/avatars/5e731dea1db74a58b70cdf1689961eb3/4760b4157a174c2c9b78c94dfdd4cd92.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2947,
+                    "url": "https://media.sketchfab.com/avatars/5e731dea1db74a58b70cdf1689961eb3/8b943d122ae241988312e1adbe934b19.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3476,
+                    "url": "https://media.sketchfab.com/avatars/5e731dea1db74a58b70cdf1689961eb3/89751cc9160f4d01a9f0b9c0f1b04aef.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fec264f087aa4a59a34f1e5a6b3b9ad7"
+    },
+    "vertexCount": 11917,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/wooden-wheel-284f5344058043358bb9dbc70e302c5d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the Original format.The Converted version is intended exclusively for browser preview. In the Original format, the following are fully preserved:✔ full scene structure✔ all materials without simplification✔ proper texture maps✔ proper object namingIf you intend to use the asset in a production environment, select the original version.Render ready wooden wheel.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/284f5344058043358bb9dbc70e302c5d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T15:57:49.442158",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

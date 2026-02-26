@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T12:01:52.202569",
+    "embedUrl": "https://sketchfab.com/models/2b0e9b509b7f4fa49c92dd4915500758/embed",
+    "faceCount": 713230,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Rias Gremory Crimson Heart base model",
+    "publishedAt": "2026-02-23T12:02:15.755164",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "dress",
+            "slug": "dress",
+            "uri": "https://api.sketchfab.com/v3/tags/dress"
+        },
+        {
+            "name": "woman",
+            "slug": "woman",
+            "uri": "https://api.sketchfab.com/v3/tags/woman"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "riasgremory",
+            "slug": "riasgremory",
+            "uri": "https://api.sketchfab.com/v3/tags/riasgremory"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6293b586f94041b09a2dec8d9d9f953c",
+                "width": 1920,
+                "height": 1080,
+                "size": 80069,
+                "url": "https://media.sketchfab.com/models/2b0e9b509b7f4fa49c92dd4915500758/thumbnails/4ced5a40fab049b6acc9eac1f0ad08a0/46c0960581344dc19e0702c5d2cec17e.jpeg"
+            },
+            {
+                "uid": "b9f512d1ef114db69e474012609b964d",
+                "width": 1024,
+                "height": 576,
+                "size": 27360,
+                "url": "https://media.sketchfab.com/models/2b0e9b509b7f4fa49c92dd4915500758/thumbnails/4ced5a40fab049b6acc9eac1f0ad08a0/c4bf61c09d584a248d59390f7a638031.jpeg"
+            },
+            {
+                "uid": "b4ba3b6f6596463d8fada329c4d84495",
+                "width": 720,
+                "height": 405,
+                "size": 16206,
+                "url": "https://media.sketchfab.com/models/2b0e9b509b7f4fa49c92dd4915500758/thumbnails/4ced5a40fab049b6acc9eac1f0ad08a0/6c93aa4df06a4a16aa1fba31106f8add.jpeg"
+            },
+            {
+                "uid": "6c4cd38980734b9ca5df8f5ba3f291ea",
+                "width": 256,
+                "height": 144,
+                "size": 3519,
+                "url": "https://media.sketchfab.com/models/2b0e9b509b7f4fa49c92dd4915500758/thumbnails/4ced5a40fab049b6acc9eac1f0ad08a0/42f3d58808664d04a0429fd25e75989a.jpeg"
+            },
+            {
+                "uid": "fef99f142a3a4962b4be5be3cb82ae35",
+                "width": 64,
+                "height": 36,
+                "size": 971,
+                "url": "https://media.sketchfab.com/models/2b0e9b509b7f4fa49c92dd4915500758/thumbnails/4ced5a40fab049b6acc9eac1f0ad08a0/2ebff0beb3a94019aa6669b1e7858d21.jpeg"
+            }
+        ]
+    },
+    "uid": "2b0e9b509b7f4fa49c92dd4915500758",
+    "uri": "https://api.sketchfab.com/v3/models/2b0e9b509b7f4fa49c92dd4915500758",
+    "user": {
+        "uid": "9df3a92da0544e9bab33b6e0af1b8ff7",
+        "username": "Daniel-Spartanu",
+        "displayName": "Daniel-Spartanu",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Daniel-Spartanu",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9df3a92da0544e9bab33b6e0af1b8ff7"
+    },
+    "vertexCount": 356513,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/rias-gremory-crimson-heart-base-model-2b0e9b509b7f4fa49c92dd4915500758",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/aE4RA3](https://www.meshy.ai/s/aE4RA3)",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/2b0e9b509b7f4fa49c92dd4915500758/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T12:08:44.729367",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

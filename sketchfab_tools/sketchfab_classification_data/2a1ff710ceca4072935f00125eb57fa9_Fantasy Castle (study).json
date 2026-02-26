@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Medieval",
+            "score": 0.7
+        },
+        {
+            "name": "Castle",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.8
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Rendering",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Stone",
+        "Weathered",
+        "Mossy",
+        "Dusty",
+        "Polished"
+    ],
+    "tags": [
+        "castle",
+        "fantasy",
+        "gothic",
+        "architecture",
+        "3D model",
+        "stone",
+        "towers",
+        "cathedral"
+    ],
+    "model_id_full": "2a1ff710ceca4072935f00125eb57fa9_Fantasy Castle (study)",
+    "sketchfab_id": "2a1ff710ceca4072935f00125eb57fa9",
+    "asset_name": "Fantasy Castle (study)"
+}

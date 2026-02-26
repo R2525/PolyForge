@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T16:22:50.981502",
+    "embedUrl": "https://sketchfab.com/models/22fdf4cda7ff4bd0a71d26d1a3f4b615/embed",
+    "faceCount": 105260,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Horse Chopper Kenshi",
+    "publishedAt": "2026-02-18T16:37:21.827012",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "Kenshi",
+            "slug": "kenshi",
+            "uri": "https://api.sketchfab.com/v3/tags/kenshi"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "viodegames",
+            "slug": "viodegames",
+            "uri": "https://api.sketchfab.com/v3/tags/viodegames"
+        },
+        {
+            "name": "kenshi-game",
+            "slug": "kenshi-game",
+            "uri": "https://api.sketchfab.com/v3/tags/kenshi-game"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "991422b2bea447089c7c46dfce35772c",
+                "width": 1920,
+                "height": 1080,
+                "size": 328336,
+                "url": "https://media.sketchfab.com/models/22fdf4cda7ff4bd0a71d26d1a3f4b615/thumbnails/b714609a60fb4e0f8df5f154a0af72c7/82ded513b5994fb2ac9e2f7a00ed8745.jpeg"
+            },
+            {
+                "uid": "1bc7c8cf30364fe4acb184d09e8dd41c",
+                "width": 1024,
+                "height": 576,
+                "size": 86489,
+                "url": "https://media.sketchfab.com/models/22fdf4cda7ff4bd0a71d26d1a3f4b615/thumbnails/b714609a60fb4e0f8df5f154a0af72c7/f44f2d4f2a3c47aaacbdc4a1ecc13ded.jpeg"
+            },
+            {
+                "uid": "d457e19b25184c2b9c3261513f4f55c3",
+                "width": 720,
+                "height": 405,
+                "size": 39226,
+                "url": "https://media.sketchfab.com/models/22fdf4cda7ff4bd0a71d26d1a3f4b615/thumbnails/b714609a60fb4e0f8df5f154a0af72c7/ae4a8af0185d4381971e605cd9040cd8.jpeg"
+            },
+            {
+                "uid": "91a7eeca33fc462ca687c250ecdbdf07",
+                "width": 256,
+                "height": 144,
+                "size": 4792,
+                "url": "https://media.sketchfab.com/models/22fdf4cda7ff4bd0a71d26d1a3f4b615/thumbnails/b714609a60fb4e0f8df5f154a0af72c7/007d0b5eb6f147268ad3781646926473.jpeg"
+            },
+            {
+                "uid": "790cdfdb2f4a4758806d57d7fd4f3cf6",
+                "width": 64,
+                "height": 36,
+                "size": 1000,
+                "url": "https://media.sketchfab.com/models/22fdf4cda7ff4bd0a71d26d1a3f4b615/thumbnails/b714609a60fb4e0f8df5f154a0af72c7/91e71d5a7539469f8b6c100b3673ddd0.jpeg"
+            }
+        ]
+    },
+    "uid": "22fdf4cda7ff4bd0a71d26d1a3f4b615",
+    "uri": "https://api.sketchfab.com/v3/models/22fdf4cda7ff4bd0a71d26d1a3f4b615",
+    "user": {
+        "uid": "e043655c45264c70a22813c438383669",
+        "username": "cholter",
+        "displayName": "cholter",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/cholter",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e043655c45264c70a22813c438383669"
+    },
+    "vertexCount": 52597,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/horse-chopper-kenshi-22fdf4cda7ff4bd0a71d26d1a3f4b615",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Horse Chopper – 3D Weapon Model (Post-Apocalyptic Heavy Blade)\n\nHigh-quality 3D model inspired by the Horse Chopper, a brutal heavy weapon from the videogame Kenshi. Built for raw power and devastating strikes, this blade is designed to take down large enemies, reflecting the harsh and unforgiving combat style of the Kenshi world.\n\nThe Horse Chopper features a massive, intimidating profile with a utilitarian and worn aesthetic. Its heavy-duty design makes it ideal for post-apocalyptic, sci-fi, or dark fantasy settings, perfect for use in videogames, cinematic renders, or concept art involving brute-force melee combat.\n\nSoftware: Blender\nCategory: Weapons / Military / Video Games\nStyle: Post-apocalyptic, sci-fi, brutalist\n\nThis model is fan-made and created for artistic and educational purposes. All rights to the original game design belong to their respective owners.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/22fdf4cda7ff4bd0a71d26d1a3f4b615/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T20:51:09.468986",
+    "pbrType": "metalness",
+    "textureCount": 19,
+    "materialCount": 4
+}

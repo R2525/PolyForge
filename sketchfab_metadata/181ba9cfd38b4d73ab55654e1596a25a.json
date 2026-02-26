@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-16T22:48:43.144078",
+    "embedUrl": "https://sketchfab.com/models/181ba9cfd38b4d73ab55654e1596a25a/embed",
+    "faceCount": 13476,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Ant 3d Model",
+    "publishedAt": "2026-01-16T22:50:02.365307",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "Roblox",
+            "slug": "roblox",
+            "uri": "https://api.sketchfab.com/v3/tags/roblox"
+        },
+        {
+            "name": "animal",
+            "slug": "animal",
+            "uri": "https://api.sketchfab.com/v3/tags/animal"
+        },
+        {
+            "name": "robloxugc",
+            "slug": "robloxugc",
+            "uri": "https://api.sketchfab.com/v3/tags/robloxugc"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "fefcf9fe6ea0441aba9d484d95111b34",
+                "width": 1920,
+                "height": 1080,
+                "size": 60746,
+                "url": "https://media.sketchfab.com/models/181ba9cfd38b4d73ab55654e1596a25a/thumbnails/2bc60470833847a2b6d3680a2442ab44/700b719e8aa24021aa3b9c7c2e80da36.jpeg"
+            },
+            {
+                "uid": "6bfcca53a599410b9fede43bad1f11ba",
+                "width": 1024,
+                "height": 576,
+                "size": 20654,
+                "url": "https://media.sketchfab.com/models/181ba9cfd38b4d73ab55654e1596a25a/thumbnails/2bc60470833847a2b6d3680a2442ab44/a67aabd7951244279fe13b6c5c62c54e.jpeg"
+            },
+            {
+                "uid": "a002c2a8fae14d06becdf362adf36193",
+                "width": 720,
+                "height": 405,
+                "size": 12310,
+                "url": "https://media.sketchfab.com/models/181ba9cfd38b4d73ab55654e1596a25a/thumbnails/2bc60470833847a2b6d3680a2442ab44/962729f22a9644f69bb9653e17b71cd8.jpeg"
+            },
+            {
+                "uid": "ce742820df8e44249631a4aace80c29b",
+                "width": 256,
+                "height": 144,
+                "size": 2915,
+                "url": "https://media.sketchfab.com/models/181ba9cfd38b4d73ab55654e1596a25a/thumbnails/2bc60470833847a2b6d3680a2442ab44/1caeabf6f8524fc08c3188d28a21708f.jpeg"
+            },
+            {
+                "uid": "adf374051c1e4c0f91960964a896985d",
+                "width": 64,
+                "height": 36,
+                "size": 898,
+                "url": "https://media.sketchfab.com/models/181ba9cfd38b4d73ab55654e1596a25a/thumbnails/2bc60470833847a2b6d3680a2442ab44/dad3583f62014500853d779ff127a35d.jpeg"
+            }
+        ]
+    },
+    "uid": "181ba9cfd38b4d73ab55654e1596a25a",
+    "uri": "https://api.sketchfab.com/v3/models/181ba9cfd38b4d73ab55654e1596a25a",
+    "user": {
+        "uid": "c4d9e53d6dac4fb4a4dc7370e546d561",
+        "username": "Elijah-3d",
+        "displayName": "Elijah3d",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Elijah-3d",
+        "avatar": {
+            "uid": "d49dec23777345249e8a227497e8fca4",
+            "uri": "https://api.sketchfab.com/v3/avatars/d49dec23777345249e8a227497e8fca4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1304,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/9cf98d43178d4fd483cd37a1a13e8266.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2028,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/df12c865d28a4a1ba7eabe7fb36fe00b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4491,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/45a020a3db2648379e0056fa9f9a23e8.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5168,
+                    "url": "https://media.sketchfab.com/avatars/d49dec23777345249e8a227497e8fca4/a95cc2b81181477c894bcec224a97587.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c4d9e53d6dac4fb4a4dc7370e546d561"
+    },
+    "vertexCount": 6792,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/ant-3d-model-181ba9cfd38b4d73ab55654e1596a25a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "dc: elijah3d",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/181ba9cfd38b4d73ab55654e1596a25a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T18:47:31.492976",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

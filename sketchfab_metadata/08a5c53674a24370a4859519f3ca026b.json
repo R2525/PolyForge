@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2024-05-17T16:03:58.791810",
+    "embedUrl": "https://sketchfab.com/models/08a5c53674a24370a4859519f3ca026b/embed",
+    "faceCount": 38477,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "finished and under20,000",
+    "publishedAt": "2024-05-17T16:09:33.778624",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "studio",
+            "slug": "studio",
+            "uri": "https://api.sketchfab.com/v3/tags/studio"
+        },
+        {
+            "name": "university",
+            "slug": "university",
+            "uri": "https://api.sketchfab.com/v3/tags/university"
+        },
+        {
+            "name": "water",
+            "slug": "water",
+            "uri": "https://api.sketchfab.com/v3/tags/water"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        },
+        {
+            "name": "boathouse",
+            "slug": "boathouse",
+            "uri": "https://api.sketchfab.com/v3/tags/boathouse"
+        },
+        {
+            "name": "student",
+            "slug": "student",
+            "uri": "https://api.sketchfab.com/v3/tags/student"
+        },
+        {
+            "name": "beginner",
+            "slug": "beginner",
+            "uri": "https://api.sketchfab.com/v3/tags/beginner"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4b78f68f797143e091875ffebe378c81",
+                "width": 1920,
+                "height": 1080,
+                "size": 71789,
+                "url": "https://media.sketchfab.com/models/08a5c53674a24370a4859519f3ca026b/thumbnails/0f8fdbd3e95e404ca0a8909eb93ab7f7/ce1c7ce67d564a7994232f151facbc23.jpeg"
+            },
+            {
+                "uid": "aaa187591ab04b18a8e4db3952437124",
+                "width": 1024,
+                "height": 576,
+                "size": 24864,
+                "url": "https://media.sketchfab.com/models/08a5c53674a24370a4859519f3ca026b/thumbnails/0f8fdbd3e95e404ca0a8909eb93ab7f7/5d26cb8e55ab41cca07eeb7408da2712.jpeg"
+            },
+            {
+                "uid": "c495e0b20d9f4327b1bb6bec834ef67c",
+                "width": 720,
+                "height": 405,
+                "size": 14558,
+                "url": "https://media.sketchfab.com/models/08a5c53674a24370a4859519f3ca026b/thumbnails/0f8fdbd3e95e404ca0a8909eb93ab7f7/b530dda9e56e462e9dedd499a593d474.jpeg"
+            },
+            {
+                "uid": "968cbed57fc046ecb3caa981ed6dcc83",
+                "width": 256,
+                "height": 144,
+                "size": 3308,
+                "url": "https://media.sketchfab.com/models/08a5c53674a24370a4859519f3ca026b/thumbnails/0f8fdbd3e95e404ca0a8909eb93ab7f7/e11f5f45879546ea85d5c7d212951a1f.jpeg"
+            },
+            {
+                "uid": "39cfaff330a04289865d3ff09cc69227",
+                "width": 64,
+                "height": 36,
+                "size": 977,
+                "url": "https://media.sketchfab.com/models/08a5c53674a24370a4859519f3ca026b/thumbnails/0f8fdbd3e95e404ca0a8909eb93ab7f7/5ba8bc344b67453583f2d9ac50b5e53a.jpeg"
+            }
+        ]
+    },
+    "uid": "08a5c53674a24370a4859519f3ca026b",
+    "uri": "https://api.sketchfab.com/v3/models/08a5c53674a24370a4859519f3ca026b",
+    "user": {
+        "uid": "20a19e748b4e4d5e9b5293368503b3e1",
+        "username": "kieranbohanna",
+        "displayName": "kieranbohanna",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kieranbohanna",
+        "avatar": {
+            "uid": "d82f804547b643db9b972de4bbd59d91",
+            "uri": "https://api.sketchfab.com/v3/avatars/d82f804547b643db9b972de4bbd59d91",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 897,
+                    "url": "https://media.sketchfab.com/avatars/d82f804547b643db9b972de4bbd59d91/07073ceab48d422eabe4ca718fe49256.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1166,
+                    "url": "https://media.sketchfab.com/avatars/d82f804547b643db9b972de4bbd59d91/328c2c3b90ae4426a44ae2aac98b8575.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2034,
+                    "url": "https://media.sketchfab.com/avatars/d82f804547b643db9b972de4bbd59d91/551383febe1243f7b98792685fdf13dc.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2278,
+                    "url": "https://media.sketchfab.com/avatars/d82f804547b643db9b972de4bbd59d91/e18e24b614144be9a79e23bb1bfe7324.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/20a19e748b4e4d5e9b5293368503b3e1"
+    },
+    "vertexCount": 23562,
+    "viewCount": 96,
+    "viewerUrl": "https://sketchfab.com/3d-models/finished-and-under20000-08a5c53674a24370a4859519f3ca026b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "i've included this second model due to my other final piece being over the 20,000 limit , I've left both of them as I wanted you to see both . I was inspired to model my diorama off of nature, due to living on Park campus and being involved in so much nature, every day.The boathouse im referencing is on the Park campus grounds. I put my own personal twist on this by adding a small toy boat. This was inspired by the film ponyo  created by studio Ghibli.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/08a5c53674a24370a4859519f3ca026b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2024-05-18T00:12:51.969712",
+    "pbrType": null,
+    "textureCount": 14,
+    "materialCount": 69
+}

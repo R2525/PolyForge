@@ -1,0 +1,68 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Medieval",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Victorian",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "3D Render",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Weathered",
+        "Dusty",
+        "Mossy",
+        "Polished"
+    ],
+    "tags": [
+        "door handle",
+        "iron",
+        "furniture",
+        "home",
+        "old",
+        "antique",
+        "decorative"
+    ],
+    "model_id_full": "51656a2f91134f29be58c7443e508978_Door Handle Iron",
+    "sketchfab_id": "51656a2f91134f29be58c7443e508978",
+    "asset_name": "Door Handle Iron"
+}

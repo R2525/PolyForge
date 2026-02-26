@@ -1,0 +1,152 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-11T12:45:40.946220",
+    "embedUrl": "https://sketchfab.com/models/38834bcf316d430eaaf79549d63afa54/embed",
+    "faceCount": 44447,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "London Eye",
+    "publishedAt": "2026-01-11T12:48:27.949798",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "london",
+            "slug": "london",
+            "uri": "https://api.sketchfab.com/v3/tags/london"
+        },
+        {
+            "name": "england",
+            "slug": "england",
+            "uri": "https://api.sketchfab.com/v3/tags/england"
+        },
+        {
+            "name": "googleearth",
+            "slug": "googleearth",
+            "uri": "https://api.sketchfab.com/v3/tags/googleearth"
+        },
+        {
+            "name": "londoneye",
+            "slug": "londoneye",
+            "uri": "https://api.sketchfab.com/v3/tags/londoneye"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "scan",
+            "slug": "scan",
+            "uri": "https://api.sketchfab.com/v3/tags/scan"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7e1bb4cd976244eca05abae57982bab2",
+                "width": 1920,
+                "height": 1080,
+                "size": 146638,
+                "url": "https://media.sketchfab.com/models/38834bcf316d430eaaf79549d63afa54/thumbnails/5911e273b10c4a129fd34502b0b459c6/422d67842456417aa969f4b6b354e80b.jpeg"
+            },
+            {
+                "uid": "35ce51975ba643548242918da4029a73",
+                "width": 1024,
+                "height": 576,
+                "size": 53371,
+                "url": "https://media.sketchfab.com/models/38834bcf316d430eaaf79549d63afa54/thumbnails/5911e273b10c4a129fd34502b0b459c6/25f3e0313a4d4d0188a104dd592cd1c0.jpeg"
+            },
+            {
+                "uid": "6bbb3c99445944d7bbef21407879fdbb",
+                "width": 720,
+                "height": 405,
+                "size": 32338,
+                "url": "https://media.sketchfab.com/models/38834bcf316d430eaaf79549d63afa54/thumbnails/5911e273b10c4a129fd34502b0b459c6/61e0aa2809ee408f91c0d9c93df1d02e.jpeg"
+            },
+            {
+                "uid": "6fe95b49bbc244e7829427cf1405f555",
+                "width": 256,
+                "height": 144,
+                "size": 6810,
+                "url": "https://media.sketchfab.com/models/38834bcf316d430eaaf79549d63afa54/thumbnails/5911e273b10c4a129fd34502b0b459c6/a300535f00974b8684ad58dc7bfd3453.jpeg"
+            },
+            {
+                "uid": "12d8680b061e4f26a48f66eb5b1d149f",
+                "width": 64,
+                "height": 36,
+                "size": 1421,
+                "url": "https://media.sketchfab.com/models/38834bcf316d430eaaf79549d63afa54/thumbnails/5911e273b10c4a129fd34502b0b459c6/d1dd7225ea6645a293e59a196b0d5933.jpeg"
+            }
+        ]
+    },
+    "uid": "38834bcf316d430eaaf79549d63afa54",
+    "uri": "https://api.sketchfab.com/v3/models/38834bcf316d430eaaf79549d63afa54",
+    "user": {
+        "uid": "b4359d170a744f61bb7b448b4a9491e7",
+        "username": "tarit.bs",
+        "displayName": "Ishan.bs2015 (2)",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/tarit.bs",
+        "avatar": {
+            "uid": "5c82970d335746a391e89618d53bdbec",
+            "uri": "https://api.sketchfab.com/v3/avatars/5c82970d335746a391e89618d53bdbec",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 938,
+                    "url": "https://media.sketchfab.com/avatars/5c82970d335746a391e89618d53bdbec/9789364276384855a7850217193a1da1.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1154,
+                    "url": "https://media.sketchfab.com/avatars/5c82970d335746a391e89618d53bdbec/8a20358a35c545c1b3f70d1685ea7ec3.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1999,
+                    "url": "https://media.sketchfab.com/avatars/5c82970d335746a391e89618d53bdbec/efa0c28820f147f78f36802e99b50b10.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2241,
+                    "url": "https://media.sketchfab.com/avatars/5c82970d335746a391e89618d53bdbec/8a7c3e1ede6e4399950034b035f3c2d5.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b4359d170a744f61bb7b448b4a9491e7"
+    },
+    "vertexCount": 29458,
+    "viewCount": 58,
+    "viewerUrl": "https://sketchfab.com/3d-models/london-eye-38834bcf316d430eaaf79549d63afa54",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Step into the heart of London with this meticulously crafted 3D model of the London Eye, capturing the elegance and engineering marvel of the world-famous Ferris wheel",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/38834bcf316d430eaaf79549d63afa54/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-11T12:49:49.893092",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

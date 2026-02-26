@@ -1,0 +1,234 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-07T23:28:40.609586",
+    "embedUrl": "https://sketchfab.com/models/24157f086ebd4c13a7321cffee3ccf54/embed",
+    "faceCount": 662438,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Modular Stylized  Village - Pack",
+    "publishedAt": "2026-02-08T00:24:53.248284",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "unrealengine",
+            "slug": "unrealengine",
+            "uri": "https://api.sketchfab.com/v3/tags/unrealengine"
+        },
+        {
+            "name": "handpainted",
+            "slug": "handpainted",
+            "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "village",
+            "slug": "village",
+            "uri": "https://api.sketchfab.com/v3/tags/village"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "medieval-village",
+            "slug": "medieval-village",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-village"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "106177c49da8404ca770d5281271ec2b",
+                "width": 1920,
+                "height": 1080,
+                "size": 384896,
+                "url": "https://media.sketchfab.com/models/24157f086ebd4c13a7321cffee3ccf54/thumbnails/6ebcf2e68a274d4ab2b9530240e2b5ea/dc8ce9ab87914846be33f3735a2b4b35.jpeg"
+            },
+            {
+                "uid": "d803bb3c406f4a7bb2ba972e3a0cf1b1",
+                "width": 1024,
+                "height": 576,
+                "size": 134760,
+                "url": "https://media.sketchfab.com/models/24157f086ebd4c13a7321cffee3ccf54/thumbnails/6ebcf2e68a274d4ab2b9530240e2b5ea/0e2c90c7e848410a840038819e210191.jpeg"
+            },
+            {
+                "uid": "a9ac1502c451472a9b8d1853fbe459db",
+                "width": 720,
+                "height": 405,
+                "size": 78143,
+                "url": "https://media.sketchfab.com/models/24157f086ebd4c13a7321cffee3ccf54/thumbnails/6ebcf2e68a274d4ab2b9530240e2b5ea/cc295cc3b43745d28d101a3685504ecc.jpeg"
+            },
+            {
+                "uid": "f5df23d32875457690b93882fee76475",
+                "width": 256,
+                "height": 144,
+                "size": 13668,
+                "url": "https://media.sketchfab.com/models/24157f086ebd4c13a7321cffee3ccf54/thumbnails/6ebcf2e68a274d4ab2b9530240e2b5ea/979c30dd0b094c39b3a5fcbabd0a173b.jpeg"
+            },
+            {
+                "uid": "16c4147d6a4840aa86c3f567cd0d5944",
+                "width": 64,
+                "height": 36,
+                "size": 1773,
+                "url": "https://media.sketchfab.com/models/24157f086ebd4c13a7321cffee3ccf54/thumbnails/6ebcf2e68a274d4ab2b9530240e2b5ea/5ce197bb63814f2baacc4009a607e1dd.jpeg"
+            }
+        ]
+    },
+    "uid": "24157f086ebd4c13a7321cffee3ccf54",
+    "uri": "https://api.sketchfab.com/v3/models/24157f086ebd4c13a7321cffee3ccf54",
+    "user": {
+        "uid": "549bc7515141454386527437fd0de46f",
+        "username": "vchiliaridis",
+        "displayName": "vchiliaridis",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/vchiliaridis",
+        "avatar": {
+            "uid": "238031aa4025469a8a3ddd6a9621feca",
+            "uri": "https://api.sketchfab.com/v3/avatars/238031aa4025469a8a3ddd6a9621feca",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 793,
+                    "url": "https://media.sketchfab.com/avatars/238031aa4025469a8a3ddd6a9621feca/5020ee011b1a4295a1ef308828d5ef2f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1328,
+                    "url": "https://media.sketchfab.com/avatars/238031aa4025469a8a3ddd6a9621feca/3bad6f19f6bb453a992870e2c1feebce.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3009,
+                    "url": "https://media.sketchfab.com/avatars/238031aa4025469a8a3ddd6a9621feca/e1e38032f20b46b7a1e98a4e2af589cf.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3382,
+                    "url": "https://media.sketchfab.com/avatars/238031aa4025469a8a3ddd6a9621feca/67f2fa249415489c959c39298d57eb87.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/549bc7515141454386527437fd0de46f"
+    },
+    "vertexCount": 409439,
+    "viewCount": 56,
+    "viewerUrl": "https://sketchfab.com/3d-models/modular-stylized-village-pack-24157f086ebd4c13a7321cffee3ccf54",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Bring your world to life with this Stylized Medieval Village Pack! \n\nAvailable for purchase here: https://artstn.co/m/PBwj9\n\nThis is a modular asset collection featuring over 150 high-quality assets, perfect for creating charming, fantasy-style environments. Everything is optimized for game engines and designed with a consistent, hand-painted aesthetic.\n\nFeatures:\n\nModular Buildings: Easy to snap and build your own houses.\n\nNature Assets: Trees, bushes, rocks, and grass.\n\nProps & Details: Barrels, crates, lanterns, and more.\n\nOptimized: Low-poly with high-quality stylized textures.\n\nEngine Ready: Fully set up for Unreal Engine (Lumen/Nanite).\n\n\nFormats: FBX, Blender, Unreal Engine Project.\n\nTextures: 2K & 4K Resolutions.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/24157f086ebd4c13a7321cffee3ccf54/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T21:07:44.492103",
+    "pbrType": null,
+    "textureCount": 10,
+    "materialCount": 8
+}

@@ -1,0 +1,176 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 7,
+    "createdAt": "2026-01-30T11:00:25.481097",
+    "embedUrl": "https://sketchfab.com/models/000b7a4f4e1541c5a6ad2a009b05bdc6/embed",
+    "faceCount": 19332,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/72eb2b1960364637901eacce19283624",
+        "label": "Free Standard",
+        "fullName": "Free Standard",
+        "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+        "url": "https://sketchfab.com/licenses",
+        "slug": "free-st"
+    },
+    "likeCount": 67,
+    "name": "[ORIGINAL]  FIRST ORDER ADMIRAL",
+    "publishedAt": "2026-01-30T11:02:35.514703",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "fanmade",
+            "slug": "fanmade",
+            "uri": "https://api.sketchfab.com/v3/tags/fanmade"
+        },
+        {
+            "name": "skibiditoilet",
+            "slug": "skibiditoilet",
+            "uri": "https://api.sketchfab.com/v3/tags/skibiditoilet"
+        },
+        {
+            "name": "utcm",
+            "slug": "utcm",
+            "uri": "https://api.sketchfab.com/v3/tags/utcm"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b2bef2eb01ff43248131fc9085a82b74",
+                "width": 1920,
+                "height": 1080,
+                "size": 264574,
+                "url": "https://media.sketchfab.com/models/000b7a4f4e1541c5a6ad2a009b05bdc6/thumbnails/8a5f081463c74a5a9d002254ac2972dc/d2508ba71f1c4abead25a06bca01b9ee.jpeg"
+            },
+            {
+                "uid": "013ce0e3a0dd4485b078db874114e05c",
+                "width": 1024,
+                "height": 576,
+                "size": 41368,
+                "url": "https://media.sketchfab.com/models/000b7a4f4e1541c5a6ad2a009b05bdc6/thumbnails/8a5f081463c74a5a9d002254ac2972dc/4709c6f55c6f4afb83dd890fe0a87dee.jpeg"
+            },
+            {
+                "uid": "1709102e71a942fb9069aba9e3c97f75",
+                "width": 720,
+                "height": 405,
+                "size": 19260,
+                "url": "https://media.sketchfab.com/models/000b7a4f4e1541c5a6ad2a009b05bdc6/thumbnails/8a5f081463c74a5a9d002254ac2972dc/b9e000dbdcf64e59833737b3938defb9.jpeg"
+            },
+            {
+                "uid": "527f44546d784ab9bee87b9888a7e8ad",
+                "width": 256,
+                "height": 144,
+                "size": 3531,
+                "url": "https://media.sketchfab.com/models/000b7a4f4e1541c5a6ad2a009b05bdc6/thumbnails/8a5f081463c74a5a9d002254ac2972dc/aa27f4c69bb64fefb5629be183c93871.jpeg"
+            },
+            {
+                "uid": "c4b38d932f9d4d50b6983c97dc1b01f6",
+                "width": 64,
+                "height": 36,
+                "size": 959,
+                "url": "https://media.sketchfab.com/models/000b7a4f4e1541c5a6ad2a009b05bdc6/thumbnails/8a5f081463c74a5a9d002254ac2972dc/8832c349c41f4213b4e4e9f5ae6b12e1.jpeg"
+            }
+        ]
+    },
+    "uid": "000b7a4f4e1541c5a6ad2a009b05bdc6",
+    "uri": "https://api.sketchfab.com/v3/models/000b7a4f4e1541c5a6ad2a009b05bdc6",
+    "user": {
+        "uid": "058f6adeb7b7438091826fcfe7088af7",
+        "username": "TermalDarknough",
+        "displayName": "TERMALOUGHT",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/TermalDarknough",
+        "avatar": {
+            "uid": "9242cf4eb53b44528e6600ff76d0a128",
+            "uri": "https://api.sketchfab.com/v3/avatars/9242cf4eb53b44528e6600ff76d0a128",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 866,
+                    "url": "https://media.sketchfab.com/avatars/9242cf4eb53b44528e6600ff76d0a128/7d1698409bc64705833106db306594c2.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1175,
+                    "url": "https://media.sketchfab.com/avatars/9242cf4eb53b44528e6600ff76d0a128/71bc68727e734e89b18aad4bf2d4af6c.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2609,
+                    "url": "https://media.sketchfab.com/avatars/9242cf4eb53b44528e6600ff76d0a128/fb20917997764402b3f446d232cfc1d9.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2990,
+                    "url": "https://media.sketchfab.com/avatars/9242cf4eb53b44528e6600ff76d0a128/fa00111b28064dbe9a401b27d7b31fef.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/058f6adeb7b7438091826fcfe7088af7"
+    },
+    "vertexCount": 9974,
+    "viewCount": 1045,
+    "viewerUrl": "https://sketchfab.com/3d-models/original-first-order-admiral-000b7a4f4e1541c5a6ad2a009b05bdc6",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "CREDITS: STAR WARS\n\nTHIS IS WHAT I THOUGHT UTCM 3.0 SUIT WILL LOOK LIKE\n\nLOVE YA'LL AND ENJOY THIS MODEL",
+    "price": null,
+    "downloadCount": 164,
+    "editorUrl": "https://sketchfab.com/models/000b7a4f4e1541c5a6ad2a009b05bdc6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-06T16:51:00.886175",
+    "pbrType": "metalness",
+    "textureCount": 12,
+    "materialCount": 8
+}

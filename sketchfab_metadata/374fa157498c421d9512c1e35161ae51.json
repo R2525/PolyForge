@@ -1,0 +1,334 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-12-02T10:35:20.824659",
+    "embedUrl": "https://sketchfab.com/models/374fa157498c421d9512c1e35161ae51/embed",
+    "faceCount": 8238,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Wooden Beer Mug",
+    "publishedAt": "2025-12-02T10:44:17.327741",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "drink",
+            "slug": "drink",
+            "uri": "https://api.sketchfab.com/v3/tags/drink"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "pub",
+            "slug": "pub",
+            "uri": "https://api.sketchfab.com/v3/tags/pub"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "painted",
+            "slug": "painted",
+            "uri": "https://api.sketchfab.com/v3/tags/painted"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "pickup",
+            "slug": "pickup",
+            "uri": "https://api.sketchfab.com/v3/tags/pickup"
+        },
+        {
+            "name": "item",
+            "slug": "item",
+            "uri": "https://api.sketchfab.com/v3/tags/item"
+        },
+        {
+            "name": "craft",
+            "slug": "craft",
+            "uri": "https://api.sketchfab.com/v3/tags/craft"
+        },
+        {
+            "name": "tavern",
+            "slug": "tavern",
+            "uri": "https://api.sketchfab.com/v3/tags/tavern"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "mug",
+            "slug": "mug",
+            "uri": "https://api.sketchfab.com/v3/tags/mug"
+        },
+        {
+            "name": "foam",
+            "slug": "foam",
+            "uri": "https://api.sketchfab.com/v3/tags/foam"
+        },
+        {
+            "name": "beverage",
+            "slug": "beverage",
+            "uri": "https://api.sketchfab.com/v3/tags/beverage"
+        },
+        {
+            "name": "beer",
+            "slug": "beer",
+            "uri": "https://api.sketchfab.com/v3/tags/beer"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "bands",
+            "slug": "bands",
+            "uri": "https://api.sketchfab.com/v3/tags/bands"
+        },
+        {
+            "name": "ale",
+            "slug": "ale",
+            "uri": "https://api.sketchfab.com/v3/tags/ale"
+        },
+        {
+            "name": "tankard",
+            "slug": "tankard",
+            "uri": "https://api.sketchfab.com/v3/tags/tankard"
+        },
+        {
+            "name": "inventory",
+            "slug": "inventory",
+            "uri": "https://api.sketchfab.com/v3/tags/inventory"
+        },
+        {
+            "name": "godot",
+            "slug": "godot",
+            "uri": "https://api.sketchfab.com/v3/tags/godot"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "hand",
+            "slug": "hand",
+            "uri": "https://api.sketchfab.com/v3/tags/hand"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "923b550337524ef483cdcccbf7e8fe56",
+                "width": 1920,
+                "height": 1080,
+                "size": 72868,
+                "url": "https://media.sketchfab.com/models/374fa157498c421d9512c1e35161ae51/thumbnails/55b7f5ea6e38486a99b04829bc9a851f/983f828955144bc6b9fd4b8fef9b7322.jpeg"
+            },
+            {
+                "uid": "d04b29d7e929448a98b42117318b4166",
+                "width": 1024,
+                "height": 576,
+                "size": 24227,
+                "url": "https://media.sketchfab.com/models/374fa157498c421d9512c1e35161ae51/thumbnails/55b7f5ea6e38486a99b04829bc9a851f/0bad5d8588684062bbbd2380a9853358.jpeg"
+            },
+            {
+                "uid": "0fcf123f127a4cd5bf9aba23e5bcc814",
+                "width": 720,
+                "height": 405,
+                "size": 14124,
+                "url": "https://media.sketchfab.com/models/374fa157498c421d9512c1e35161ae51/thumbnails/55b7f5ea6e38486a99b04829bc9a851f/6d7e5adc53d64591a10914aedf68d1ed.jpeg"
+            },
+            {
+                "uid": "fdf4de0d1d4c4959bdbd3f462ad5be76",
+                "width": 256,
+                "height": 144,
+                "size": 3436,
+                "url": "https://media.sketchfab.com/models/374fa157498c421d9512c1e35161ae51/thumbnails/55b7f5ea6e38486a99b04829bc9a851f/50a43879052241c3bccd23b2c52309b1.jpeg"
+            },
+            {
+                "uid": "904cbe35354e4f0c8ac9ad3bb36d727e",
+                "width": 64,
+                "height": 36,
+                "size": 1017,
+                "url": "https://media.sketchfab.com/models/374fa157498c421d9512c1e35161ae51/thumbnails/55b7f5ea6e38486a99b04829bc9a851f/3717251f6917422c8f8ee79b36e273b6.jpeg"
+            }
+        ]
+    },
+    "uid": "374fa157498c421d9512c1e35161ae51",
+    "uri": "https://api.sketchfab.com/v3/models/374fa157498c421d9512c1e35161ae51",
+    "user": {
+        "uid": "bbab143e3c0742e487b158ac03a42a60",
+        "username": "FrieDev",
+        "displayName": "FrieDev",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/FrieDev",
+        "avatar": {
+            "uid": "748d4c4e4a2d496c8e983802390cfce5",
+            "uri": "https://api.sketchfab.com/v3/avatars/748d4c4e4a2d496c8e983802390cfce5",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1176,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/a361f16cac9d4d14a2ea796ad3278909.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1723,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/d6a96def3f054d6aa09b4e59ce11920f.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4912,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/5fe66f328b384198997ff49534dd4227.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5798,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/2b4a2115380940fbb4277d15d6f5b068.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bbab143e3c0742e487b158ac03a42a60"
+    },
+    "vertexCount": 4119,
+    "viewCount": 28,
+    "viewerUrl": "https://sketchfab.com/3d-models/wooden-beer-mug-374fa157498c421d9512c1e35161ae51",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A hand-crafted stylized wooden tavern mug filled with frothy foam, perfect for fantasy RPGs, medieval environments, and tavern scenes. Built with clean topology and hand-painted textures for a charming cartoony look. Ideal for props, pickup items, or inventory icons in stylized games.\n\n**Perfect for**\nFantasy taverns & medieval pubs\nRPG / Survival / Crafting games\nInventory icons, pickups & environment dressing",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/374fa157498c421d9512c1e35161ae51/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-02T10:44:18.009740",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

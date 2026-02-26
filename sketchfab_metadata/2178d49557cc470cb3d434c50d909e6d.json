@@ -1,0 +1,209 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-01-17T16:57:56.409910",
+    "embedUrl": "https://sketchfab.com/models/2178d49557cc470cb3d434c50d909e6d/embed",
+    "faceCount": 304,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Low Poly Concrete Barrier Barricade",
+    "publishedAt": "2026-01-17T17:00:00.852037",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "abandoned",
+            "slug": "abandoned",
+            "uri": "https://api.sketchfab.com/v3/tags/abandoned"
+        },
+        {
+            "name": "traffic",
+            "slug": "traffic",
+            "uri": "https://api.sketchfab.com/v3/tags/traffic"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "road",
+            "slug": "road",
+            "uri": "https://api.sketchfab.com/v3/tags/road"
+        },
+        {
+            "name": "concrete",
+            "slug": "concrete",
+            "uri": "https://api.sketchfab.com/v3/tags/concrete"
+        },
+        {
+            "name": "barrier",
+            "slug": "barrier",
+            "uri": "https://api.sketchfab.com/v3/tags/barrier"
+        },
+        {
+            "name": "postapocalyptic",
+            "slug": "postapocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/postapocalyptic"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "decay",
+            "slug": "decay",
+            "uri": "https://api.sketchfab.com/v3/tags/decay"
+        },
+        {
+            "name": "Cement",
+            "slug": "cement",
+            "uri": "https://api.sketchfab.com/v3/tags/cement"
+        },
+        {
+            "name": "Barricade",
+            "slug": "barricade",
+            "uri": "https://api.sketchfab.com/v3/tags/barricade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f40df1d43a9c43b9902afcc763edf4a1",
+                "width": 1920,
+                "height": 1080,
+                "size": 104282,
+                "url": "https://media.sketchfab.com/models/2178d49557cc470cb3d434c50d909e6d/thumbnails/68eecf42b7064efc85ea82a1b4a67826/0e5b610d195843c9b6370f23f11e4be3.jpeg"
+            },
+            {
+                "uid": "2cb746738f7042ea8ed1204276ecb68a",
+                "width": 1024,
+                "height": 576,
+                "size": 30826,
+                "url": "https://media.sketchfab.com/models/2178d49557cc470cb3d434c50d909e6d/thumbnails/68eecf42b7064efc85ea82a1b4a67826/0f9c2f31f37749e483b7757285d4e1ed.jpeg"
+            },
+            {
+                "uid": "6abd4c73b3bd46c380258e754f2b3980",
+                "width": 720,
+                "height": 405,
+                "size": 16730,
+                "url": "https://media.sketchfab.com/models/2178d49557cc470cb3d434c50d909e6d/thumbnails/68eecf42b7064efc85ea82a1b4a67826/e243658e61784b6d8a6e2dac823fe3f1.jpeg"
+            },
+            {
+                "uid": "79508aa50da14728a6a5059ae63fc8ae",
+                "width": 256,
+                "height": 144,
+                "size": 3268,
+                "url": "https://media.sketchfab.com/models/2178d49557cc470cb3d434c50d909e6d/thumbnails/68eecf42b7064efc85ea82a1b4a67826/4fc8f1ab011c4003976781007573d86d.jpeg"
+            },
+            {
+                "uid": "f5450bb6b2fb43fdbf9d296714b5e0b3",
+                "width": 64,
+                "height": 36,
+                "size": 1015,
+                "url": "https://media.sketchfab.com/models/2178d49557cc470cb3d434c50d909e6d/thumbnails/68eecf42b7064efc85ea82a1b4a67826/194bfc5b36a046a79697d8f9e5bff5d0.jpeg"
+            }
+        ]
+    },
+    "uid": "2178d49557cc470cb3d434c50d909e6d",
+    "uri": "https://api.sketchfab.com/v3/models/2178d49557cc470cb3d434c50d909e6d",
+    "user": {
+        "uid": "a2ffafce88fc49e4b6324ed03d198800",
+        "username": "michaelmiz92",
+        "displayName": "Mike92",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/michaelmiz92",
+        "avatar": {
+            "uid": "6974ec4b8f964a5a8f744f249bc7e7f6",
+            "uri": "https://api.sketchfab.com/v3/avatars/6974ec4b8f964a5a8f744f249bc7e7f6",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 987,
+                    "url": "https://media.sketchfab.com/avatars/6974ec4b8f964a5a8f744f249bc7e7f6/21c570c227c448ea9dfb2fb238c5fe45.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1349,
+                    "url": "https://media.sketchfab.com/avatars/6974ec4b8f964a5a8f744f249bc7e7f6/0400cb2713d546b598ad06ffbf1c89d1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3066,
+                    "url": "https://media.sketchfab.com/avatars/6974ec4b8f964a5a8f744f249bc7e7f6/9288d1a94f434c01b2b6e3e73eb22ab0.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3603,
+                    "url": "https://media.sketchfab.com/avatars/6974ec4b8f964a5a8f744f249bc7e7f6/1dd880067c64419b8d364376f8e81bbe.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a2ffafce88fc49e4b6324ed03d198800"
+    },
+    "vertexCount": 154,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-concrete-barrier-barricade-2178d49557cc470cb3d434c50d909e6d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Get more post apocalyptic and abandoned assets like this (with free regular updates) at a discounted price today: https://www.anatomyofdecay.com/\n\nLow poly version of quick photoscanned concrete road barrier/barricade.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2178d49557cc470cb3d434c50d909e6d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-17T17:00:51.879807",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

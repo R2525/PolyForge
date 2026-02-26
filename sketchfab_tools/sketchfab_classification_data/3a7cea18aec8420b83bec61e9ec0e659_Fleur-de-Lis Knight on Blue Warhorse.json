@@ -1,0 +1,69 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Vibrant Fantasy",
+    "top_genres": [
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Warrior",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.5
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Dusty",
+        "Polished",
+        "Weathered"
+    ],
+    "tags": [
+        "knight",
+        "warhorse",
+        "mounted",
+        "warrior",
+        "fantasy",
+        "medieval",
+        "shield",
+        "spear",
+        "archer",
+        "horse"
+    ],
+    "model_id_full": "3a7cea18aec8420b83bec61e9ec0e659_Fleur-de-Lis Knight on Blue Warhorse",
+    "sketchfab_id": "3a7cea18aec8420b83bec61e9ec0e659",
+    "asset_name": "Fleur-de-Lis Knight on Blue Warhorse"
+}

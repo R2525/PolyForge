@@ -1,0 +1,242 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-30T10:15:43.245346",
+    "embedUrl": "https://sketchfab.com/models/209b2398de1242b4afddfb7f4f22c6fc/embed",
+    "faceCount": 1646476,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "246 DC Arm Barrier",
+    "publishedAt": "2026-01-30T10:22:38.165082",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "industrialdesign",
+            "slug": "industrialdesign",
+            "uri": "https://api.sketchfab.com/v3/tags/industrialdesign"
+        },
+        {
+            "name": "securitysystem",
+            "slug": "securitysystem",
+            "uri": "https://api.sketchfab.com/v3/tags/securitysystem"
+        },
+        {
+            "name": "parkingbarrier",
+            "slug": "parkingbarrier",
+            "uri": "https://api.sketchfab.com/v3/tags/parkingbarrier"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "accesscontrol",
+            "slug": "accesscontrol",
+            "uri": "https://api.sketchfab.com/v3/tags/accesscontrol"
+        },
+        {
+            "name": "mechanicaldesign",
+            "slug": "mechanicaldesign",
+            "uri": "https://api.sketchfab.com/v3/tags/mechanicaldesign"
+        },
+        {
+            "name": "productvisualization",
+            "slug": "productvisualization",
+            "uri": "https://api.sketchfab.com/v3/tags/productvisualization"
+        },
+        {
+            "name": "trafficcontrol",
+            "slug": "trafficcontrol",
+            "uri": "https://api.sketchfab.com/v3/tags/trafficcontrol"
+        },
+        {
+            "name": "industrialautomation",
+            "slug": "industrialautomation",
+            "uri": "https://api.sketchfab.com/v3/tags/industrialautomation"
+        },
+        {
+            "name": "boombarrier",
+            "slug": "boombarrier",
+            "uri": "https://api.sketchfab.com/v3/tags/boombarrier"
+        },
+        {
+            "name": "automaticbarrier",
+            "slug": "automaticbarrier",
+            "uri": "https://api.sketchfab.com/v3/tags/automaticbarrier"
+        },
+        {
+            "name": "vehicleaccesscontrol",
+            "slug": "vehicleaccesscontrol",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicleaccesscontrol"
+        },
+        {
+            "name": "electromechanicalsystem",
+            "slug": "electromechanicalsystem",
+            "uri": "https://api.sketchfab.com/v3/tags/electromechanicalsystem"
+        },
+        {
+            "name": "automationsystem",
+            "slug": "automationsystem",
+            "uri": "https://api.sketchfab.com/v3/tags/automationsystem"
+        },
+        {
+            "name": "barrierarm",
+            "slug": "barrierarm",
+            "uri": "https://api.sketchfab.com/v3/tags/barrierarm"
+        },
+        {
+            "name": "parkingsystem",
+            "slug": "parkingsystem",
+            "uri": "https://api.sketchfab.com/v3/tags/parkingsystem"
+        },
+        {
+            "name": "gatesystem",
+            "slug": "gatesystem",
+            "uri": "https://api.sketchfab.com/v3/tags/gatesystem"
+        },
+        {
+            "name": "smartbarrier",
+            "slug": "smartbarrier",
+            "uri": "https://api.sketchfab.com/v3/tags/smartbarrier"
+        },
+        {
+            "name": "loopdetector",
+            "slug": "loopdetector",
+            "uri": "https://api.sketchfab.com/v3/tags/loopdetector"
+        },
+        {
+            "name": "photocellsensor",
+            "slug": "photocellsensor",
+            "uri": "https://api.sketchfab.com/v3/tags/photocellsensor"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d279d97daf1543b3a4845c625c7e46d5",
+                "width": 1920,
+                "height": 1080,
+                "size": 52427,
+                "url": "https://media.sketchfab.com/models/209b2398de1242b4afddfb7f4f22c6fc/thumbnails/5432d707f45c4677a00753dac9db81ba/9e2d04e701a445d8ba34a5cdc8cc2d2b.jpeg"
+            },
+            {
+                "uid": "2525928f1b3f440caee27f419768ebfa",
+                "width": 1024,
+                "height": 576,
+                "size": 18286,
+                "url": "https://media.sketchfab.com/models/209b2398de1242b4afddfb7f4f22c6fc/thumbnails/5432d707f45c4677a00753dac9db81ba/470bbb560d794f0b81170576a299c096.jpeg"
+            },
+            {
+                "uid": "7453cf9e6306456e8d7209db91ccdbb9",
+                "width": 720,
+                "height": 405,
+                "size": 10860,
+                "url": "https://media.sketchfab.com/models/209b2398de1242b4afddfb7f4f22c6fc/thumbnails/5432d707f45c4677a00753dac9db81ba/08e4a7069c85471c9f0395f975e61be1.jpeg"
+            },
+            {
+                "uid": "5303381d7f2e4bdaade3f4df12af767b",
+                "width": 256,
+                "height": 144,
+                "size": 2876,
+                "url": "https://media.sketchfab.com/models/209b2398de1242b4afddfb7f4f22c6fc/thumbnails/5432d707f45c4677a00753dac9db81ba/9b58aebe6e5e47579f8fe13a3c794b69.jpeg"
+            },
+            {
+                "uid": "7fd9da52a38c46068145b5da73c69ae4",
+                "width": 64,
+                "height": 36,
+                "size": 941,
+                "url": "https://media.sketchfab.com/models/209b2398de1242b4afddfb7f4f22c6fc/thumbnails/5432d707f45c4677a00753dac9db81ba/4413bc49907143eb81e57232e9e8ab1c.jpeg"
+            }
+        ]
+    },
+    "uid": "209b2398de1242b4afddfb7f4f22c6fc",
+    "uri": "https://api.sketchfab.com/v3/models/209b2398de1242b4afddfb7f4f22c6fc",
+    "user": {
+        "uid": "d4ceb838f96644bf89e5c4800b73f139",
+        "username": "ArmaKontrolGroupCompany",
+        "displayName": "Arma Kontrol Group Company",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/ArmaKontrolGroupCompany",
+        "avatar": {
+            "uid": "113442005e46442a8a49eb51bca1322b",
+            "uri": "https://api.sketchfab.com/v3/avatars/113442005e46442a8a49eb51bca1322b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2406,
+                    "url": "https://media.sketchfab.com/avatars/113442005e46442a8a49eb51bca1322b/e405c06bd411432fac831af8f9b7face.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4096,
+                    "url": "https://media.sketchfab.com/avatars/113442005e46442a8a49eb51bca1322b/7491f0d57f8f4092aa444397b18d0875.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 7798,
+                    "url": "https://media.sketchfab.com/avatars/113442005e46442a8a49eb51bca1322b/70ea24dafda04858a6da0764c3eeecd7.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 9627,
+                    "url": "https://media.sketchfab.com/avatars/113442005e46442a8a49eb51bca1322b/8a87a85fd53a4e2faf423587a0a582e6.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d4ceb838f96644bf89e5c4800b73f139"
+    },
+    "vertexCount": 823948,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/246-dc-arm-barrier-209b2398de1242b4afddfb7f4f22c6fc",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "246 DC Arm Barrier is an automatic vehicle access control system powered by a DC motor, designed for smooth, fast, and energy-efficient operation. The DC drive technology enables precise speed control, soft start–stop movement, and reliable performance in areas with frequent vehicle traffic.\n\nThe system is suitable for parking facilities, residential complexes, commercial areas, and industrial sites. Its modular arm structure and accessory-ready design allow easy integration with access control components such as RFID readers, loop detectors, and safety sensors.\n\nThis 3D model is created for product presentation, technical documentation, and architectural or project-based visualization purposes.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/209b2398de1242b4afddfb7f4f22c6fc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-11T13:40:47.390054",
+    "pbrType": null,
+    "textureCount": 23,
+    "materialCount": 52
+}

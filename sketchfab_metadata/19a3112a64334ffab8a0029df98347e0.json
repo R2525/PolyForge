@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-02T09:07:25.424372",
+    "embedUrl": "https://sketchfab.com/models/19a3112a64334ffab8a0029df98347e0/embed",
+    "faceCount": 510328,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Cut red ghibli dragon model",
+    "publishedAt": "2025-11-02T10:29:56.789068",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "adventure",
+            "slug": "adventure",
+            "uri": "https://api.sketchfab.com/v3/tags/adventure"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "dragon",
+            "slug": "dragon",
+            "uri": "https://api.sketchfab.com/v3/tags/dragon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9995d2af3eea499a9e8d2e2542686b74",
+                "width": 1920,
+                "height": 1080,
+                "size": 56733,
+                "url": "https://media.sketchfab.com/models/19a3112a64334ffab8a0029df98347e0/thumbnails/3f607f9e3c6d43c5b1f3395d8d07dde4/7c9c6bfe602c46d8a808ce56bb3c507e.jpeg"
+            },
+            {
+                "uid": "304932b56750441a8059f0314bf54e69",
+                "width": 1024,
+                "height": 576,
+                "size": 19563,
+                "url": "https://media.sketchfab.com/models/19a3112a64334ffab8a0029df98347e0/thumbnails/3f607f9e3c6d43c5b1f3395d8d07dde4/a52209b51fd145d9ba27ffb0b7391ea7.jpeg"
+            },
+            {
+                "uid": "0a3dc3273fba4bcaa14ba4cf5493abe9",
+                "width": 720,
+                "height": 405,
+                "size": 11445,
+                "url": "https://media.sketchfab.com/models/19a3112a64334ffab8a0029df98347e0/thumbnails/3f607f9e3c6d43c5b1f3395d8d07dde4/5ebed61c7de5462b89474bebe1edcc40.jpeg"
+            },
+            {
+                "uid": "1ea3e630cbf247b784dfd5652619b141",
+                "width": 256,
+                "height": 144,
+                "size": 2745,
+                "url": "https://media.sketchfab.com/models/19a3112a64334ffab8a0029df98347e0/thumbnails/3f607f9e3c6d43c5b1f3395d8d07dde4/f9690e82f6ce416299db2df14ac79ed4.jpeg"
+            },
+            {
+                "uid": "1ca4f91e145c4c529a74c29983228505",
+                "width": 64,
+                "height": 36,
+                "size": 857,
+                "url": "https://media.sketchfab.com/models/19a3112a64334ffab8a0029df98347e0/thumbnails/3f607f9e3c6d43c5b1f3395d8d07dde4/a6267dced2be4222bbff03b9fa314192.jpeg"
+            }
+        ]
+    },
+    "uid": "19a3112a64334ffab8a0029df98347e0",
+    "uri": "https://api.sketchfab.com/v3/models/19a3112a64334ffab8a0029df98347e0",
+    "user": {
+        "uid": "e6accff6fac048b4be9e4ca77fd5629c",
+        "username": "Virtolino",
+        "displayName": "Virtolino",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Virtolino",
+        "avatar": {
+            "uid": "bc8e71c0751748729dde551b4a508b6c",
+            "uri": "https://api.sketchfab.com/v3/avatars/bc8e71c0751748729dde551b4a508b6c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 947,
+                    "url": "https://media.sketchfab.com/avatars/bc8e71c0751748729dde551b4a508b6c/9fd6729b0a5b4827a239ea14d5c8edf2.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1727,
+                    "url": "https://media.sketchfab.com/avatars/bc8e71c0751748729dde551b4a508b6c/94dbafd5be944a07be245b147cce1592.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4808,
+                    "url": "https://media.sketchfab.com/avatars/bc8e71c0751748729dde551b4a508b6c/6bd62b2023ef4b75bee21a9700ff21a2.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5674,
+                    "url": "https://media.sketchfab.com/avatars/bc8e71c0751748729dde551b4a508b6c/02a5053f16df440b9e3aa79e8e5e1813.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e6accff6fac048b4be9e4ca77fd5629c"
+    },
+    "vertexCount": 156830,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/cut-red-ghibli-dragon-model-19a3112a64334ffab8a0029df98347e0",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A cute, chubby red dragon with a warm Ghibli-inspired charm. It has bright red-orange scales, a soft yellow belly, small curved horns, and tiny wings. With its round body, friendly eyes, and playful smile, this dragon feels both magical and lovable. Perfect for animation or fantasy storytelling.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/19a3112a64334ffab8a0029df98347e0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-02T10:29:56.932369",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

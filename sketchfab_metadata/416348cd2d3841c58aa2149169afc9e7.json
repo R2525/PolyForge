@@ -1,0 +1,299 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-13T09:09:09.372852",
+    "embedUrl": "https://sketchfab.com/models/416348cd2d3841c58aa2149169afc9e7/embed",
+    "faceCount": 36062,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Recon APC 4x4 Sci-fi Armor Military Vehicle",
+    "publishedAt": "2026-02-13T09:34:18.221798",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "truck",
+            "slug": "truck",
+            "uri": "https://api.sketchfab.com/v3/tags/truck"
+        },
+        {
+            "name": "armored",
+            "slug": "armored",
+            "uri": "https://api.sketchfab.com/v3/tags/armored"
+        },
+        {
+            "name": "army",
+            "slug": "army",
+            "uri": "https://api.sketchfab.com/v3/tags/army"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "offroad",
+            "slug": "offroad",
+            "uri": "https://api.sketchfab.com/v3/tags/offroad"
+        },
+        {
+            "name": "combat",
+            "slug": "combat",
+            "uri": "https://api.sketchfab.com/v3/tags/combat"
+        },
+        {
+            "name": "apc",
+            "slug": "apc",
+            "uri": "https://api.sketchfab.com/v3/tags/apc"
+        },
+        {
+            "name": "Swat",
+            "slug": "swat",
+            "uri": "https://api.sketchfab.com/v3/tags/swat"
+        },
+        {
+            "name": "tactical",
+            "slug": "tactical",
+            "uri": "https://api.sketchfab.com/v3/tags/tactical"
+        },
+        {
+            "name": "warzone",
+            "slug": "warzone",
+            "uri": "https://api.sketchfab.com/v3/tags/warzone"
+        },
+        {
+            "name": "afv",
+            "slug": "afv",
+            "uri": "https://api.sketchfab.com/v3/tags/afv"
+        },
+        {
+            "name": "military-vehicle",
+            "slug": "military-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/military-vehicle"
+        },
+        {
+            "name": "army-vehicle",
+            "slug": "army-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/army-vehicle"
+        },
+        {
+            "name": "army-truck",
+            "slug": "army-truck",
+            "uri": "https://api.sketchfab.com/v3/tags/army-truck"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "hardsurface",
+            "slug": "hardsurface",
+            "uri": "https://api.sketchfab.com/v3/tags/hardsurface"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "car",
+            "slug": "car",
+            "uri": "https://api.sketchfab.com/v3/tags/car"
+        },
+        {
+            "name": "war",
+            "slug": "war",
+            "uri": "https://api.sketchfab.com/v3/tags/war"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "suv-vehicle",
+            "slug": "suv-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/suv-vehicle"
+        },
+        {
+            "name": "4x4offroad",
+            "slug": "4x4offroad",
+            "uri": "https://api.sketchfab.com/v3/tags/4x4offroad"
+        },
+        {
+            "name": "patrol-car",
+            "slug": "patrol-car",
+            "uri": "https://api.sketchfab.com/v3/tags/patrol-car"
+        },
+        {
+            "name": "desert-patrol",
+            "slug": "desert-patrol",
+            "uri": "https://api.sketchfab.com/v3/tags/desert-patrol"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a675ca784bf749e78b8cd6fdd8e33c45",
+                "width": 1920,
+                "height": 1080,
+                "size": 144600,
+                "url": "https://media.sketchfab.com/models/416348cd2d3841c58aa2149169afc9e7/thumbnails/3f0a4321808543a19222363cc0c5cab7/d60f2ea802cd4c79abdedbd864ed4df0.jpeg"
+            },
+            {
+                "uid": "d6cc4aebb2f34a19b94f2370a4312bf0",
+                "width": 1024,
+                "height": 576,
+                "size": 43450,
+                "url": "https://media.sketchfab.com/models/416348cd2d3841c58aa2149169afc9e7/thumbnails/3f0a4321808543a19222363cc0c5cab7/3b6c505f732748469b8da972ad6178ae.jpeg"
+            },
+            {
+                "uid": "528e5a3a47614c30b5964c9a0a5c85d7",
+                "width": 720,
+                "height": 405,
+                "size": 24067,
+                "url": "https://media.sketchfab.com/models/416348cd2d3841c58aa2149169afc9e7/thumbnails/3f0a4321808543a19222363cc0c5cab7/4b40329f06c946dba709e4a8df38f685.jpeg"
+            },
+            {
+                "uid": "779fda2f24ef4a6281dac935c8d0ed3a",
+                "width": 256,
+                "height": 144,
+                "size": 4644,
+                "url": "https://media.sketchfab.com/models/416348cd2d3841c58aa2149169afc9e7/thumbnails/3f0a4321808543a19222363cc0c5cab7/89985aa42b3041b2b922b1abb5b16872.jpeg"
+            },
+            {
+                "uid": "577681e8132c43cf86df8adaa8bd7584",
+                "width": 64,
+                "height": 36,
+                "size": 1062,
+                "url": "https://media.sketchfab.com/models/416348cd2d3841c58aa2149169afc9e7/thumbnails/3f0a4321808543a19222363cc0c5cab7/8faba15b3334480ebaeca170fae8a181.jpeg"
+            }
+        ]
+    },
+    "uid": "416348cd2d3841c58aa2149169afc9e7",
+    "uri": "https://api.sketchfab.com/v3/models/416348cd2d3841c58aa2149169afc9e7",
+    "user": {
+        "uid": "fbd053c618504b2396c5c4ced64272c7",
+        "username": "jermesastudio",
+        "displayName": "Jermesa Studio",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/jermesastudio",
+        "avatar": {
+            "uid": "75e2ba6189d94ee9a8fd43eb3337a47c",
+            "uri": "https://api.sketchfab.com/v3/avatars/75e2ba6189d94ee9a8fd43eb3337a47c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 989,
+                    "url": "https://media.sketchfab.com/avatars/75e2ba6189d94ee9a8fd43eb3337a47c/015b37493d014c76888e9a2e8e838143.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1589,
+                    "url": "https://media.sketchfab.com/avatars/75e2ba6189d94ee9a8fd43eb3337a47c/c8a44a14f18e4ff29c6684af34799ab3.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3405,
+                    "url": "https://media.sketchfab.com/avatars/75e2ba6189d94ee9a8fd43eb3337a47c/9092de8b40cc4bcf80db82f930a0dc7f.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3828,
+                    "url": "https://media.sketchfab.com/avatars/75e2ba6189d94ee9a8fd43eb3337a47c/a3225bd8fa4c4cb387081112e142e7fd.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fbd053c618504b2396c5c4ced64272c7"
+    },
+    "vertexCount": 20309,
+    "viewCount": 45,
+    "viewerUrl": "https://sketchfab.com/3d-models/recon-apc-4x4-sci-fi-armor-military-vehicle-416348cd2d3841c58aa2149169afc9e7",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Recon APC 4x4 Sci-fi Off-Road Armor Military Vehicle is a PBR Game Ready vehicle design by our in-house team with AAA quality and indie flexibility. Bridging the gap between a standard 4x4 and a military APC, this vehicle features a rugged, combat-proven design with heavy plating, reinforced bull bars, and all-terrain capabilities.\n\nThis asset was developed by JERMESA STUDIO to demonstrate our high-end vehicle pipeline with 3d view of a vehicle for modern-warfare settings.\n\nKey Features:\n\nPBR Workflow: Standard Metallic/Roughness textures for realistic lighting response. \nOptimized Geometry: Designed for high-performance game engines. \nDetailed Design: Includes full exterior plating with interior. \nVersatile Use: Suitable for FPS, RTS, or cinematic military simulations.\n\nFind similar vehicle on FAB : https://www.fab.com/listings/95eae372-1f70-4acc-93c4-3bc821f3cefc",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/416348cd2d3841c58aa2149169afc9e7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-13T09:34:18.553919",
+    "pbrType": "metalness",
+    "textureCount": 21,
+    "materialCount": 7
+}

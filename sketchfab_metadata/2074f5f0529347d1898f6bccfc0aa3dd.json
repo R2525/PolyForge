@@ -1,0 +1,194 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-29T11:28:53.452776",
+    "embedUrl": "https://sketchfab.com/models/2074f5f0529347d1898f6bccfc0aa3dd/embed",
+    "faceCount": 972722,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 9,
+    "name": "Old CRT TV with Worn Stickers – Retro Look",
+    "publishedAt": "2025-12-29T11:38:26.535528",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tv",
+            "slug": "tv",
+            "uri": "https://api.sketchfab.com/v3/tags/tv"
+        },
+        {
+            "name": "stickers",
+            "slug": "stickers",
+            "uri": "https://api.sketchfab.com/v3/tags/stickers"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "1990s",
+            "slug": "1990s",
+            "uri": "https://api.sketchfab.com/v3/tags/1990s"
+        },
+        {
+            "name": "90",
+            "slug": "90",
+            "uri": "https://api.sketchfab.com/v3/tags/90"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c840ed5940344c9490dd9ca7630600be",
+                "width": 1920,
+                "height": 1080,
+                "size": 78098,
+                "url": "https://media.sketchfab.com/models/2074f5f0529347d1898f6bccfc0aa3dd/thumbnails/809dc12317e94c06b9af39993107b10b/4b3262c405ac45d6b94aaeaba714a7d6.jpeg"
+            },
+            {
+                "uid": "3448425a44bc4f859e1859ea925a555a",
+                "width": 1024,
+                "height": 576,
+                "size": 24494,
+                "url": "https://media.sketchfab.com/models/2074f5f0529347d1898f6bccfc0aa3dd/thumbnails/809dc12317e94c06b9af39993107b10b/4aef72e935f543bcae5f1708f4fa375b.jpeg"
+            },
+            {
+                "uid": "834385010fed4b6cbe86b79d5783e541",
+                "width": 720,
+                "height": 405,
+                "size": 14065,
+                "url": "https://media.sketchfab.com/models/2074f5f0529347d1898f6bccfc0aa3dd/thumbnails/809dc12317e94c06b9af39993107b10b/ba6d0c346fd047fdac387fe319fbee0c.jpeg"
+            },
+            {
+                "uid": "0f772245be334f70ad48983616225bb8",
+                "width": 256,
+                "height": 144,
+                "size": 3017,
+                "url": "https://media.sketchfab.com/models/2074f5f0529347d1898f6bccfc0aa3dd/thumbnails/809dc12317e94c06b9af39993107b10b/4cf750024dab48e391e700a5d065fc55.jpeg"
+            },
+            {
+                "uid": "443d33fe6e4145e9b54a3d83621431a5",
+                "width": 64,
+                "height": 36,
+                "size": 896,
+                "url": "https://media.sketchfab.com/models/2074f5f0529347d1898f6bccfc0aa3dd/thumbnails/809dc12317e94c06b9af39993107b10b/9df6fcb083494796bcc06477cef255ac.jpeg"
+            }
+        ]
+    },
+    "uid": "2074f5f0529347d1898f6bccfc0aa3dd",
+    "uri": "https://api.sketchfab.com/v3/models/2074f5f0529347d1898f6bccfc0aa3dd",
+    "user": {
+        "uid": "63ec472f08d64717a1d634f0921cdc23",
+        "username": "rienadelshrief",
+        "displayName": "rienadelshrief",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rienadelshrief",
+        "avatar": {
+            "uid": "b2aa1d6698b7400bb4ee66b821ad464c",
+            "uri": "https://api.sketchfab.com/v3/avatars/b2aa1d6698b7400bb4ee66b821ad464c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1061,
+                    "url": "https://media.sketchfab.com/avatars/b2aa1d6698b7400bb4ee66b821ad464c/300a61d6cf7942d5914366e56b0d7f83.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1378,
+                    "url": "https://media.sketchfab.com/avatars/b2aa1d6698b7400bb4ee66b821ad464c/0dbe104906da481d8564eaaf1b630993.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2708,
+                    "url": "https://media.sketchfab.com/avatars/b2aa1d6698b7400bb4ee66b821ad464c/f772e4c0511e47769f1975abfa68c9e3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3075,
+                    "url": "https://media.sketchfab.com/avatars/b2aa1d6698b7400bb4ee66b821ad464c/b6b790f2d3c64f059e7f9d844c37a46d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/63ec472f08d64717a1d634f0921cdc23"
+    },
+    "vertexCount": 486363,
+    "viewCount": 446,
+    "viewerUrl": "https://sketchfab.com/3d-models/old-crt-tv-with-worn-stickers-retro-look-2074f5f0529347d1898f6bccfc0aa3dd",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A detailed 3D model of an old CRT television covered with worn-out and peeling stickers, giving it a strong retro and abandoned aesthetic.\nThe TV features realistic surface damage, dirt, rust, and faded decals that add a sense of age and storytelling. Perfect for post-apocalyptic scenes, abandoned interiors, retro environments, or atmospheric renders.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2074f5f0529347d1898f6bccfc0aa3dd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-29T11:42:16.134980",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,226 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T00:41:09.386541",
+    "embedUrl": "https://sketchfab.com/models/3e998ccc6bb94027a7563db9692a4477/embed",
+    "faceCount": 1519891,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Stoneclaw Behemoth",
+    "publishedAt": "2026-02-25T00:42:18.239120",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "beast",
+            "slug": "beast",
+            "uri": "https://api.sketchfab.com/v3/tags/beast"
+        },
+        {
+            "name": "demon",
+            "slug": "demon",
+            "uri": "https://api.sketchfab.com/v3/tags/demon"
+        },
+        {
+            "name": "figure",
+            "slug": "figure",
+            "uri": "https://api.sketchfab.com/v3/tags/figure"
+        },
+        {
+            "name": "golem",
+            "slug": "golem",
+            "uri": "https://api.sketchfab.com/v3/tags/golem"
+        },
+        {
+            "name": "mythic",
+            "slug": "mythic",
+            "uri": "https://api.sketchfab.com/v3/tags/mythic"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dragon",
+            "slug": "dragon",
+            "uri": "https://api.sketchfab.com/v3/tags/dragon"
+        },
+        {
+            "name": "hulking",
+            "slug": "hulking",
+            "uri": "https://api.sketchfab.com/v3/tags/hulking"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "06f9121af55c4a7f825818d9e3697c30",
+                "width": 1920,
+                "height": 1080,
+                "size": 268027,
+                "url": "https://media.sketchfab.com/models/3e998ccc6bb94027a7563db9692a4477/thumbnails/1c6bb0197a394c1ca3cb7b0b91e98a19/b447bf60d2d245c6b47be18e644185b0.jpeg"
+            },
+            {
+                "uid": "f6d651becfe44971855242fe743b71f5",
+                "width": 1024,
+                "height": 576,
+                "size": 48426,
+                "url": "https://media.sketchfab.com/models/3e998ccc6bb94027a7563db9692a4477/thumbnails/1c6bb0197a394c1ca3cb7b0b91e98a19/052d404c105c4d1388b1cad90adc4fab.jpeg"
+            },
+            {
+                "uid": "9059576edb264e189bcd328f60d1e104",
+                "width": 720,
+                "height": 405,
+                "size": 24255,
+                "url": "https://media.sketchfab.com/models/3e998ccc6bb94027a7563db9692a4477/thumbnails/1c6bb0197a394c1ca3cb7b0b91e98a19/6766669535c049a79415e976a7bf1975.jpeg"
+            },
+            {
+                "uid": "96c7b83e857142ffb681e2d6a82cb48e",
+                "width": 256,
+                "height": 144,
+                "size": 4297,
+                "url": "https://media.sketchfab.com/models/3e998ccc6bb94027a7563db9692a4477/thumbnails/1c6bb0197a394c1ca3cb7b0b91e98a19/0438b46f1cd744599454a551472a3c57.jpeg"
+            },
+            {
+                "uid": "96eef9274be243859b07ad26b7601077",
+                "width": 64,
+                "height": 36,
+                "size": 1035,
+                "url": "https://media.sketchfab.com/models/3e998ccc6bb94027a7563db9692a4477/thumbnails/1c6bb0197a394c1ca3cb7b0b91e98a19/ff9e76d57a014150bdda16f15d77006d.jpeg"
+            }
+        ]
+    },
+    "uid": "3e998ccc6bb94027a7563db9692a4477",
+    "uri": "https://api.sketchfab.com/v3/models/3e998ccc6bb94027a7563db9692a4477",
+    "user": {
+        "uid": "f4fc0642fb934f538188d6a8d3ae6c90",
+        "username": "fallenangel_hlxx",
+        "displayName": "fallenangel_hlxx",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/fallenangel_hlxx",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f4fc0642fb934f538188d6a8d3ae6c90"
+    },
+    "vertexCount": 759909,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/stoneclaw-behemoth-3e998ccc6bb94027a7563db9692a4477",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Made with Meshy AI",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/3e998ccc6bb94027a7563db9692a4477/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-02-25T00:50:53.075623",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

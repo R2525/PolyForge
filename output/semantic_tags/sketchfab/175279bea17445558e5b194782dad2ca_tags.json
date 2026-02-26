@@ -1,0 +1,41 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.85
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.75
+        },
+        {
+            "name": "Steampunk",
+            "score": 0.7
+        }
+    ],
+    "style": "Retro / PS1",
+    "top_styles": [
+        {
+            "name": "Retro / PS1",
+            "score": 0.9
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty"
+    ],
+    "tags": [
+        "barrel",
+        "barrel sink",
+        "barrel tap"
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T13:19:09.121386",
+    "embedUrl": "https://sketchfab.com/models/10d176be39334eb79ca0933f76bf2948/embed",
+    "faceCount": 500000,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Supergirl",
+    "publishedAt": "2026-02-17T13:20:12.045608",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "comic",
+            "slug": "comic",
+            "uri": "https://api.sketchfab.com/v3/tags/comic"
+        },
+        {
+            "name": "series",
+            "slug": "series",
+            "uri": "https://api.sketchfab.com/v3/tags/series"
+        },
+        {
+            "name": "dc",
+            "slug": "dc",
+            "uri": "https://api.sketchfab.com/v3/tags/dc"
+        },
+        {
+            "name": "supergirl",
+            "slug": "supergirl",
+            "uri": "https://api.sketchfab.com/v3/tags/supergirl"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "443ee443169f48069514ffbb21a976da",
+                "width": 1920,
+                "height": 1080,
+                "size": 60321,
+                "url": "https://media.sketchfab.com/models/10d176be39334eb79ca0933f76bf2948/thumbnails/d74923c026f14cdbabf4be0ebbb8eaf2/586ee5b4ddb94a36a4b58f5663db036b.jpeg"
+            },
+            {
+                "uid": "d6a825caf31e4f7c88caab4bfb23857c",
+                "width": 1024,
+                "height": 576,
+                "size": 20627,
+                "url": "https://media.sketchfab.com/models/10d176be39334eb79ca0933f76bf2948/thumbnails/d74923c026f14cdbabf4be0ebbb8eaf2/57065f4bdbc94f868cad115a16093643.jpeg"
+            },
+            {
+                "uid": "d4ae730cd8e24e54b5b43ac72581f308",
+                "width": 720,
+                "height": 405,
+                "size": 11985,
+                "url": "https://media.sketchfab.com/models/10d176be39334eb79ca0933f76bf2948/thumbnails/d74923c026f14cdbabf4be0ebbb8eaf2/9fbedcdd55964f5aa53964f2ab23f753.jpeg"
+            },
+            {
+                "uid": "74d3b0ada8214118a8370bf0064e14e3",
+                "width": 256,
+                "height": 144,
+                "size": 2762,
+                "url": "https://media.sketchfab.com/models/10d176be39334eb79ca0933f76bf2948/thumbnails/d74923c026f14cdbabf4be0ebbb8eaf2/588e00c592304494999cbbcc1730e038.jpeg"
+            },
+            {
+                "uid": "426d45ff7ccb42879a2dad1ca9e967e5",
+                "width": 64,
+                "height": 36,
+                "size": 849,
+                "url": "https://media.sketchfab.com/models/10d176be39334eb79ca0933f76bf2948/thumbnails/d74923c026f14cdbabf4be0ebbb8eaf2/89c69da302a14546aad570920557aef1.jpeg"
+            }
+        ]
+    },
+    "uid": "10d176be39334eb79ca0933f76bf2948",
+    "uri": "https://api.sketchfab.com/v3/models/10d176be39334eb79ca0933f76bf2948",
+    "user": {
+        "uid": "9c1641ba0d2a4af0b28deed79a6f4684",
+        "username": "cchrtb",
+        "displayName": "Tinus Marais \"Gemine\" @ CCHRTB",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/cchrtb",
+        "avatar": {
+            "uid": "3049839c863849e8899b33aea6145b79",
+            "uri": "https://api.sketchfab.com/v3/avatars/3049839c863849e8899b33aea6145b79",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1271,
+                    "url": "https://media.sketchfab.com/avatars/3049839c863849e8899b33aea6145b79/ee9d7f9966b043aa8b53a3ac5db9e81b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2102,
+                    "url": "https://media.sketchfab.com/avatars/3049839c863849e8899b33aea6145b79/65ac3d459a2047c7bf9f54e630db544a.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5898,
+                    "url": "https://media.sketchfab.com/avatars/3049839c863849e8899b33aea6145b79/8ee797f75ac140ab83d83f380b1e501b.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 7006,
+                    "url": "https://media.sketchfab.com/avatars/3049839c863849e8899b33aea6145b79/3c2f6643b4954375acd73d1b84c95dbf.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9c1641ba0d2a4af0b28deed79a6f4684"
+    },
+    "vertexCount": 249980,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/supergirl-10d176be39334eb79ca0933f76bf2948",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Supergirl",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/10d176be39334eb79ca0933f76bf2948/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-17T13:23:49.907240",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

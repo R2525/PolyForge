@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-17T08:26:34.675723",
+    "embedUrl": "https://sketchfab.com/models/1a770fd7d4444ee6ab7c8c61b9fa6153/embed",
+    "faceCount": 1508,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "MedievalBoxes",
+    "publishedAt": "2025-12-17T08:28:11.661623",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "boxes",
+            "slug": "boxes",
+            "uri": "https://api.sketchfab.com/v3/tags/boxes"
+        },
+        {
+            "name": "simpletexture",
+            "slug": "simpletexture",
+            "uri": "https://api.sketchfab.com/v3/tags/simpletexture"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b268f6b9d0fb448db9564da8dd30d288",
+                "width": 1920,
+                "height": 1080,
+                "size": 76771,
+                "url": "https://media.sketchfab.com/models/1a770fd7d4444ee6ab7c8c61b9fa6153/thumbnails/650093ae931742d3a0ce33beb1f61e10/ce57691ef8994491930c99eb21a517f9.jpeg"
+            },
+            {
+                "uid": "d95e715ebba04bc98581f9a588278068",
+                "width": 1024,
+                "height": 576,
+                "size": 25156,
+                "url": "https://media.sketchfab.com/models/1a770fd7d4444ee6ab7c8c61b9fa6153/thumbnails/650093ae931742d3a0ce33beb1f61e10/863af9ff4a9a4b5da4fcfbdda9401939.jpeg"
+            },
+            {
+                "uid": "dd40d2cf909d43e19052eb786be9b58c",
+                "width": 720,
+                "height": 405,
+                "size": 14294,
+                "url": "https://media.sketchfab.com/models/1a770fd7d4444ee6ab7c8c61b9fa6153/thumbnails/650093ae931742d3a0ce33beb1f61e10/a7676ab568834a4f962a5b862b760183.jpeg"
+            },
+            {
+                "uid": "2cbd85a24e5b48469df0f3c4d8a2239a",
+                "width": 256,
+                "height": 144,
+                "size": 3140,
+                "url": "https://media.sketchfab.com/models/1a770fd7d4444ee6ab7c8c61b9fa6153/thumbnails/650093ae931742d3a0ce33beb1f61e10/5b6b5424fac24470ac3021b0d55bbff3.jpeg"
+            },
+            {
+                "uid": "b613c7699bca42bcb3bd88744323049b",
+                "width": 64,
+                "height": 36,
+                "size": 955,
+                "url": "https://media.sketchfab.com/models/1a770fd7d4444ee6ab7c8c61b9fa6153/thumbnails/650093ae931742d3a0ce33beb1f61e10/463ff3458cd94f7ea14894ab9e2ce4d9.jpeg"
+            }
+        ]
+    },
+    "uid": "1a770fd7d4444ee6ab7c8c61b9fa6153",
+    "uri": "https://api.sketchfab.com/v3/models/1a770fd7d4444ee6ab7c8c61b9fa6153",
+    "user": {
+        "uid": "e6598e87fb0440adb642ec40ab8810d0",
+        "username": "S.Stecca1",
+        "displayName": "S.Stecca",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/S.Stecca1",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e6598e87fb0440adb642ec40ab8810d0"
+    },
+    "vertexCount": 980,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/medievalboxes-1a770fd7d4444ee6ab7c8c61b9fa6153",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Medieval Boxes (3) and Medieval Barrel (1)",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/1a770fd7d4444ee6ab7c8c61b9fa6153/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-17T08:28:11.894391",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

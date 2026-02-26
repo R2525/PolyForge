@@ -1,0 +1,206 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-05T07:24:43.509131",
+    "embedUrl": "https://sketchfab.com/models/1aa19b95237144f9853769722bfc2aca/embed",
+    "faceCount": 3524,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "MarvelHeroes - AIM Agent",
+    "publishedAt": "2026-01-05T07:29:46.279190",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "obj",
+            "slug": "obj",
+            "uri": "https://api.sketchfab.com/v3/tags/obj"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "xps",
+            "slug": "xps",
+            "uri": "https://api.sketchfab.com/v3/tags/xps"
+        },
+        {
+            "name": "Religion",
+            "slug": "religion",
+            "uri": "https://api.sketchfab.com/v3/tags/religion"
+        },
+        {
+            "name": "engine",
+            "slug": "engine",
+            "uri": "https://api.sketchfab.com/v3/tags/engine"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1c77c76de4b64ffea1d224d54745b65c",
+                "width": 1920,
+                "height": 1080,
+                "size": 139715,
+                "url": "https://media.sketchfab.com/models/1aa19b95237144f9853769722bfc2aca/thumbnails/e6df8b1fe02548d2b7aa299f7d40003f/8914d9a54f2b4e048f5e2e1b09f51078.jpeg"
+            },
+            {
+                "uid": "58917b9d19e9479082691c5d58970091",
+                "width": 1024,
+                "height": 576,
+                "size": 33815,
+                "url": "https://media.sketchfab.com/models/1aa19b95237144f9853769722bfc2aca/thumbnails/e6df8b1fe02548d2b7aa299f7d40003f/ce305e61a6cb407b83d6bbccbc8b3218.jpeg"
+            },
+            {
+                "uid": "a0b790e346c643eba2968b00f6894ed5",
+                "width": 720,
+                "height": 405,
+                "size": 18349,
+                "url": "https://media.sketchfab.com/models/1aa19b95237144f9853769722bfc2aca/thumbnails/e6df8b1fe02548d2b7aa299f7d40003f/31cf5ac40b15433f9bbd13ceec0a4ce0.jpeg"
+            },
+            {
+                "uid": "cbaa83df15a649adab8db117fa638aec",
+                "width": 256,
+                "height": 144,
+                "size": 4058,
+                "url": "https://media.sketchfab.com/models/1aa19b95237144f9853769722bfc2aca/thumbnails/e6df8b1fe02548d2b7aa299f7d40003f/ff0b08d6c339442a91ca9c6ee44f1cba.jpeg"
+            },
+            {
+                "uid": "61c97c5ffa194d26aa078620bddd641e",
+                "width": 64,
+                "height": 36,
+                "size": 1098,
+                "url": "https://media.sketchfab.com/models/1aa19b95237144f9853769722bfc2aca/thumbnails/e6df8b1fe02548d2b7aa299f7d40003f/88b882be74764b02b9cc5ee37cf2bab4.jpeg"
+            }
+        ]
+    },
+    "uid": "1aa19b95237144f9853769722bfc2aca",
+    "uri": "https://api.sketchfab.com/v3/models/1aa19b95237144f9853769722bfc2aca",
+    "user": {
+        "uid": "39977adf964149c99a3dcde9513fde65",
+        "username": "Otherspectre",
+        "displayName": "Otherspectre",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Otherspectre",
+        "avatar": {
+            "uid": "49981f2f19e049109d9b56ec7025a5d8",
+            "uri": "https://api.sketchfab.com/v3/avatars/49981f2f19e049109d9b56ec7025a5d8",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1249,
+                    "url": "https://media.sketchfab.com/avatars/49981f2f19e049109d9b56ec7025a5d8/a9a3f9654a6e49db8514304ac93669bc.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1950,
+                    "url": "https://media.sketchfab.com/avatars/49981f2f19e049109d9b56ec7025a5d8/0c001d5b36ec4ae892e4c2555a415b44.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4726,
+                    "url": "https://media.sketchfab.com/avatars/49981f2f19e049109d9b56ec7025a5d8/631cecb61a2f48a4a8c04b0b1ece1867.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5546,
+                    "url": "https://media.sketchfab.com/avatars/49981f2f19e049109d9b56ec7025a5d8/7bdf69a7dd934a1f876ab6b1ec5ae078.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/39977adf964149c99a3dcde9513fde65"
+    },
+    "vertexCount": 2072,
+    "viewCount": 58,
+    "viewerUrl": "https://sketchfab.com/3d-models/marvelheroes-aim-agent-1aa19b95237144f9853769722bfc2aca",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Formats: FBX & XPS\n\nRigged Model\n\nModel By: Gazillion Entertainment and Secret Identity Studios\n\nConverted to XPS by: Xelandis\n\nConverted to FBX by: Otherspectre",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/1aa19b95237144f9853769722bfc2aca/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-08T06:18:52.062766",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

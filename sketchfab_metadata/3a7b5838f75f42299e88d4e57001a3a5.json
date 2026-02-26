@@ -1,0 +1,134 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-30T14:08:16.868951",
+    "embedUrl": "https://sketchfab.com/models/3a7b5838f75f42299e88d4e57001a3a5/embed",
+    "faceCount": 5748,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Post-Apocalyptic Survival Caravan Trailer",
+    "publishedAt": "2025-12-30T14:16:33.808408",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8969602815b94e7398de98632c8c04bb",
+                "width": 1920,
+                "height": 1080,
+                "size": 515485,
+                "url": "https://media.sketchfab.com/models/3a7b5838f75f42299e88d4e57001a3a5/thumbnails/d2de86f571684696a16ff41155f73189/399dffef44a7470b9616640f48f8763b.jpeg"
+            },
+            {
+                "uid": "a78c9bdbfc2742898ee4a58a3d818cdc",
+                "width": 1024,
+                "height": 576,
+                "size": 75640,
+                "url": "https://media.sketchfab.com/models/3a7b5838f75f42299e88d4e57001a3a5/thumbnails/d2de86f571684696a16ff41155f73189/8fa224451939436b90bf8d8a0f99e3e4.jpeg"
+            },
+            {
+                "uid": "041b94055edd414ead58437681c38df6",
+                "width": 720,
+                "height": 405,
+                "size": 38196,
+                "url": "https://media.sketchfab.com/models/3a7b5838f75f42299e88d4e57001a3a5/thumbnails/d2de86f571684696a16ff41155f73189/1e5006e0b1c14bacaaec3c50620cae40.jpeg"
+            },
+            {
+                "uid": "90a44f035afd40c0ac44cdb214e2387c",
+                "width": 256,
+                "height": 144,
+                "size": 7017,
+                "url": "https://media.sketchfab.com/models/3a7b5838f75f42299e88d4e57001a3a5/thumbnails/d2de86f571684696a16ff41155f73189/62cc6ce8fcdc411ab7df1df0343e8f91.jpeg"
+            },
+            {
+                "uid": "ea3b989f602244838f2a7f148c3eb96e",
+                "width": 64,
+                "height": 36,
+                "size": 1343,
+                "url": "https://media.sketchfab.com/models/3a7b5838f75f42299e88d4e57001a3a5/thumbnails/d2de86f571684696a16ff41155f73189/43ac7c47b55a42b594e95cb507195386.jpeg"
+            }
+        ]
+    },
+    "uid": "3a7b5838f75f42299e88d4e57001a3a5",
+    "uri": "https://api.sketchfab.com/v3/models/3a7b5838f75f42299e88d4e57001a3a5",
+    "user": {
+        "uid": "315009c06a3d459e952dbfbd3c627cdb",
+        "username": "alpen",
+        "displayName": "alpenwolf",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alpen",
+        "avatar": {
+            "uid": "1cc81f55a2cf4a4db0c1ff81c2a5609f",
+            "uri": "https://api.sketchfab.com/v3/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3506,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/c0e01e1a7eed4324951fd6febf97b6d1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3049,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/0978b6cc84634b1abdb025d05f9eab57.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1349,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/dcb15b61611a48009f5ed3d789e7b6f6.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 874,
+                    "url": "https://media.sketchfab.com/avatars/1cc81f55a2cf4a4db0c1ff81c2a5609f/f427dd2996ed43ca973c7e13b8daf132.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/315009c06a3d459e952dbfbd3c627cdb"
+    },
+    "vertexCount": 3131,
+    "viewCount": 23,
+    "viewerUrl": "https://sketchfab.com/3d-models/post-apocalyptic-survival-caravan-trailer-3a7b5838f75f42299e88d4e57001a3a5",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3a7b5838f75f42299e88d4e57001a3a5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-30T14:16:33.929764",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

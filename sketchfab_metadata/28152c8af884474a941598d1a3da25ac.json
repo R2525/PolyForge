@@ -1,0 +1,175 @@
+{
+    "animationCount": 2,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T14:43:32.382422",
+    "embedUrl": "https://sketchfab.com/models/28152c8af884474a941598d1a3da25ac/embed",
+    "faceCount": 20856,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Ak-47 modded",
+    "publishedAt": "2026-02-21T15:32:44.666822",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "Assault Rifle",
+            "slug": "assault-rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/assault-rifle"
+        },
+        {
+            "name": "akm",
+            "slug": "akm",
+            "uri": "https://api.sketchfab.com/v3/tags/akm"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        },
+        {
+            "name": "ak47",
+            "slug": "ak47",
+            "uri": "https://api.sketchfab.com/v3/tags/ak47"
+        },
+        {
+            "name": "geckolib",
+            "slug": "geckolib",
+            "uri": "https://api.sketchfab.com/v3/tags/geckolib"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1236e31af1b1469491e07335d7a1d960",
+                "width": 1920,
+                "height": 1080,
+                "size": 83263,
+                "url": "https://media.sketchfab.com/models/28152c8af884474a941598d1a3da25ac/thumbnails/2cf650384cfd454185f5bc7e911bc46a/8b6e0843b41644dea24c75dc6b9f8077.jpeg"
+            },
+            {
+                "uid": "58173a95fdf14c069c2945d60f6dea4c",
+                "width": 1024,
+                "height": 576,
+                "size": 29400,
+                "url": "https://media.sketchfab.com/models/28152c8af884474a941598d1a3da25ac/thumbnails/2cf650384cfd454185f5bc7e911bc46a/bbeef7390cc249c9bfa976a5b82a94b4.jpeg"
+            },
+            {
+                "uid": "050e32a0bcaa42b38fd285fc8f125257",
+                "width": 720,
+                "height": 405,
+                "size": 17566,
+                "url": "https://media.sketchfab.com/models/28152c8af884474a941598d1a3da25ac/thumbnails/2cf650384cfd454185f5bc7e911bc46a/ccfe59ace3af4a6588f9af7c81fc852c.jpeg"
+            },
+            {
+                "uid": "b17a156ff1374e349fdc79c5d83f8beb",
+                "width": 256,
+                "height": 144,
+                "size": 4344,
+                "url": "https://media.sketchfab.com/models/28152c8af884474a941598d1a3da25ac/thumbnails/2cf650384cfd454185f5bc7e911bc46a/d5562ff994094b338abbc1f79d4dd5b7.jpeg"
+            },
+            {
+                "uid": "e4d7a4ae8a6741cd878207ef34aa41a4",
+                "width": 64,
+                "height": 36,
+                "size": 1263,
+                "url": "https://media.sketchfab.com/models/28152c8af884474a941598d1a3da25ac/thumbnails/2cf650384cfd454185f5bc7e911bc46a/3fec75679d094c889ed88ab36ae8fedd.jpeg"
+            }
+        ]
+    },
+    "uid": "28152c8af884474a941598d1a3da25ac",
+    "uri": "https://api.sketchfab.com/v3/models/28152c8af884474a941598d1a3da25ac",
+    "user": {
+        "uid": "e5b660382b5c495e81896120865d56bb",
+        "username": "LouisLue",
+        "displayName": "LouisLue",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/LouisLue",
+        "avatar": {
+            "uid": "d9cfd3f072e34f22a50d758fb6cc35e0",
+            "uri": "https://api.sketchfab.com/v3/avatars/d9cfd3f072e34f22a50d758fb6cc35e0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1939,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/85b0fb9fff1641dc9fd92a89d2c27791.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3489,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/ba0d09d819644db8be7ee338a96721e1.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8591,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/b7ac6474b3dc406b87d9c4db8ca0f9db.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10060,
+                    "url": "https://media.sketchfab.com/avatars/d9cfd3f072e34f22a50d758fb6cc35e0/9010ad508fc84b8f9fef290022d6ea92.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e5b660382b5c495e81896120865d56bb"
+    },
+    "vertexCount": 13904,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/ak-47-modded-28152c8af884474a941598d1a3da25ac",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "good ol ak-47 with some tactical shi\n\nsee also another version of my ak47:https://skfb.ly/pGITt\n\nMade with **BlockBench** and **GeckoLib** plugin.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/28152c8af884474a941598d1a3da25ac/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T15:49:28.117265",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

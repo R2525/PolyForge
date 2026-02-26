@@ -1,0 +1,280 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-18T19:30:00.975176",
+    "embedUrl": "https://sketchfab.com/models/12af734b9b944d189db352159df87728/embed",
+    "faceCount": 14464,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 4,
+    "name": "Clone Trooper Helmet Phase 2",
+    "publishedAt": "2025-12-18T19:32:42.339982",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "trooper",
+            "slug": "trooper",
+            "uri": "https://api.sketchfab.com/v3/tags/trooper"
+        },
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "fiction",
+            "slug": "fiction",
+            "uri": "https://api.sketchfab.com/v3/tags/fiction"
+        },
+        {
+            "name": "soldier",
+            "slug": "soldier",
+            "uri": "https://api.sketchfab.com/v3/tags/soldier"
+        },
+        {
+            "name": "fan",
+            "slug": "fan",
+            "uri": "https://api.sketchfab.com/v3/tags/fan"
+        },
+        {
+            "name": "sci",
+            "slug": "sci",
+            "uri": "https://api.sketchfab.com/v3/tags/sci"
+        },
+        {
+            "name": "fi",
+            "slug": "fi",
+            "uri": "https://api.sketchfab.com/v3/tags/fi"
+        },
+        {
+            "name": "hard",
+            "slug": "hard",
+            "uri": "https://api.sketchfab.com/v3/tags/hard"
+        },
+        {
+            "name": "surface",
+            "slug": "surface",
+            "uri": "https://api.sketchfab.com/v3/tags/surface"
+        },
+        {
+            "name": "clone",
+            "slug": "clone",
+            "uri": "https://api.sketchfab.com/v3/tags/clone"
+        },
+        {
+            "name": "inspired",
+            "slug": "inspired",
+            "uri": "https://api.sketchfab.com/v3/tags/inspired"
+        },
+        {
+            "name": "rex",
+            "slug": "rex",
+            "uri": "https://api.sketchfab.com/v3/tags/rex"
+        },
+        {
+            "name": "captain",
+            "slug": "captain",
+            "uri": "https://api.sketchfab.com/v3/tags/captain"
+        },
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "science",
+            "slug": "science",
+            "uri": "https://api.sketchfab.com/v3/tags/science"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "real",
+            "slug": "real",
+            "uri": "https://api.sketchfab.com/v3/tags/real"
+        },
+        {
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        },
+        {
+            "name": "rendering",
+            "slug": "rendering",
+            "uri": "https://api.sketchfab.com/v3/tags/rendering"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "75417bd350e847778492e7ecb7a0b875",
+                "width": 1920,
+                "height": 1080,
+                "size": 452809,
+                "url": "https://media.sketchfab.com/models/12af734b9b944d189db352159df87728/thumbnails/e75c880845e14dbfb4f62825be48bebf/1a239a0ee7db4bd9a111df34fb205f6e.jpeg"
+            },
+            {
+                "uid": "a6e39f2ea4bb4ee7b0c2cc8d1013fca1",
+                "width": 1024,
+                "height": 576,
+                "size": 79692,
+                "url": "https://media.sketchfab.com/models/12af734b9b944d189db352159df87728/thumbnails/e75c880845e14dbfb4f62825be48bebf/23f157e7ef97484f8586f5b2f3b93fd9.jpeg"
+            },
+            {
+                "uid": "8623f87a3503408287cc230164e71719",
+                "width": 720,
+                "height": 405,
+                "size": 37991,
+                "url": "https://media.sketchfab.com/models/12af734b9b944d189db352159df87728/thumbnails/e75c880845e14dbfb4f62825be48bebf/73446dd4f7984e1582c657279efa9a44.jpeg"
+            },
+            {
+                "uid": "087637acaea74e47b5809b27203e8a05",
+                "width": 256,
+                "height": 144,
+                "size": 6008,
+                "url": "https://media.sketchfab.com/models/12af734b9b944d189db352159df87728/thumbnails/e75c880845e14dbfb4f62825be48bebf/b21bcd5a74944bb39850e978477cf9fb.jpeg"
+            },
+            {
+                "uid": "908ef1d9a0f64e46a37dd44a610e677a",
+                "width": 64,
+                "height": 36,
+                "size": 1278,
+                "url": "https://media.sketchfab.com/models/12af734b9b944d189db352159df87728/thumbnails/e75c880845e14dbfb4f62825be48bebf/d7786741ac144bfca918c09641a6d972.jpeg"
+            }
+        ]
+    },
+    "uid": "12af734b9b944d189db352159df87728",
+    "uri": "https://api.sketchfab.com/v3/models/12af734b9b944d189db352159df87728",
+    "user": {
+        "uid": "ccb079e6a49246eaaa2a899c251c5919",
+        "username": "chetan.nandoskar4",
+        "displayName": "Chetan Nandoskar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/chetan.nandoskar4",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ccb079e6a49246eaaa2a899c251c5919"
+    },
+    "vertexCount": 7662,
+    "viewCount": 126,
+    "viewerUrl": "https://sketchfab.com/3d-models/clone-trooper-helmet-phase-2-12af734b9b944d189db352159df87728",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Phase 2 Clone trooper helmet inspired from Star Wars: The Clone Wars.This fan-made model captures the heroic spirit of the Clone Wars era. Ideal for cinematic renders, animations, and sci-fi scenes.\n\nPerfect for use in fan animations, game mockups, portfolio renders, or concept development. The model is optimized and PBR-ready, with clean topology and detailed texturing.\n\nThis model is Made for Educational Purpose And Self Project.\n\nARTSTATION:\n\nflamboy.artstation.com",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/12af734b9b944d189db352159df87728/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-18T19:32:42.437192",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

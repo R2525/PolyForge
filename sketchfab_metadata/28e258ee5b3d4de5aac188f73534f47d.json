@@ -1,0 +1,224 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-16T12:59:59.122029",
+    "embedUrl": "https://sketchfab.com/models/28e258ee5b3d4de5aac188f73534f47d/embed",
+    "faceCount": 1218,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Lady and the Cursed Sword",
+    "publishedAt": "2026-01-16T13:48:39.492144",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "greatsword",
+            "slug": "greatsword",
+            "uri": "https://api.sketchfab.com/v3/tags/greatsword"
+        },
+        {
+            "name": "19th-century",
+            "slug": "19th-century",
+            "uri": "https://api.sketchfab.com/v3/tags/19th-century"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "skull",
+            "slug": "skull",
+            "uri": "https://api.sketchfab.com/v3/tags/skull"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "pixelart",
+            "slug": "pixelart",
+            "uri": "https://api.sketchfab.com/v3/tags/pixelart"
+        },
+        {
+            "name": "blindfold",
+            "slug": "blindfold",
+            "uri": "https://api.sketchfab.com/v3/tags/blindfold"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "bustle",
+            "slug": "bustle",
+            "uri": "https://api.sketchfab.com/v3/tags/bustle"
+        },
+        {
+            "name": "bustle_dress",
+            "slug": "bustle_dress",
+            "uri": "https://api.sketchfab.com/v3/tags/bustle_dress"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c525a87ca75f432682375e85796c9828",
+                "width": 1920,
+                "height": 1080,
+                "size": 411905,
+                "url": "https://media.sketchfab.com/models/28e258ee5b3d4de5aac188f73534f47d/thumbnails/4cdb352f149c4111aff1d1ce2a6fe531/79165e484190453abf5fedb26b371d77.jpeg"
+            },
+            {
+                "uid": "666f48c9aa334dd4a6e172ca35da783f",
+                "width": 1024,
+                "height": 576,
+                "size": 48071,
+                "url": "https://media.sketchfab.com/models/28e258ee5b3d4de5aac188f73534f47d/thumbnails/4cdb352f149c4111aff1d1ce2a6fe531/7a78beb26437404c861f8c85ef462b9d.jpeg"
+            },
+            {
+                "uid": "7da7e85b2a9a49ebae1f80b2c1ceb94e",
+                "width": 720,
+                "height": 405,
+                "size": 23260,
+                "url": "https://media.sketchfab.com/models/28e258ee5b3d4de5aac188f73534f47d/thumbnails/4cdb352f149c4111aff1d1ce2a6fe531/54c7009f009c4169a9b3fb6985b7e3d2.jpeg"
+            },
+            {
+                "uid": "ae485816507849e2b3cd6d9f357d85cc",
+                "width": 256,
+                "height": 144,
+                "size": 4472,
+                "url": "https://media.sketchfab.com/models/28e258ee5b3d4de5aac188f73534f47d/thumbnails/4cdb352f149c4111aff1d1ce2a6fe531/2c25a635c8a0424dab0964f01dd1b5af.jpeg"
+            },
+            {
+                "uid": "8aec0cdbabf2420b8ff5bfc9a7a9ab19",
+                "width": 64,
+                "height": 36,
+                "size": 1145,
+                "url": "https://media.sketchfab.com/models/28e258ee5b3d4de5aac188f73534f47d/thumbnails/4cdb352f149c4111aff1d1ce2a6fe531/9e9e604798854501aa59107d11611163.jpeg"
+            }
+        ]
+    },
+    "uid": "28e258ee5b3d4de5aac188f73534f47d",
+    "uri": "https://api.sketchfab.com/v3/models/28e258ee5b3d4de5aac188f73534f47d",
+    "user": {
+        "uid": "195f75c817494331b527d69053ddc299",
+        "username": "erytau",
+        "displayName": "erytau",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/erytau",
+        "avatar": {
+            "uid": "e8809e0980484733ae33b4db540422c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/e8809e0980484733ae33b4db540422c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1408,
+                    "url": "https://media.sketchfab.com/avatars/e8809e0980484733ae33b4db540422c4/461feb3b147141838b8d06bebe7bd28a.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2177,
+                    "url": "https://media.sketchfab.com/avatars/e8809e0980484733ae33b4db540422c4/f617f5d60e46403b80dcca8b17b99d18.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3213,
+                    "url": "https://media.sketchfab.com/avatars/e8809e0980484733ae33b4db540422c4/b8581c76b5784cd082404ca2eebece9d.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3642,
+                    "url": "https://media.sketchfab.com/avatars/e8809e0980484733ae33b4db540422c4/a2065a63b5f7458ea49129c43cdaa749.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/195f75c817494331b527d69053ddc299"
+    },
+    "vertexCount": 723,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/lady-and-the-cursed-sword-28e258ee5b3d4de5aac188f73534f47d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A lady in a blue 19th century dress, with purple hair and a blindfold, holding a black greatsword that glows red.  Scattered bones lie behind her.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/28e258ee5b3d4de5aac188f73534f47d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-17T08:23:51.941268",
+    "pbrType": null,
+    "textureCount": 18,
+    "materialCount": 18
+}

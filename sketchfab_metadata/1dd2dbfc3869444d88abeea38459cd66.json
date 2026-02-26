@@ -1,0 +1,181 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-18T12:38:09.598798",
+    "embedUrl": "https://sketchfab.com/models/1dd2dbfc3869444d88abeea38459cd66/embed",
+    "faceCount": 477954,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 22,
+    "name": "1956 L-1049G Super Constellation Full Interior",
+    "publishedAt": "2025-12-18T12:41:51.387653",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "airplane",
+            "slug": "airplane",
+            "uri": "https://api.sketchfab.com/v3/tags/airplane"
+        },
+        {
+            "name": "aircraft",
+            "slug": "aircraft",
+            "uri": "https://api.sketchfab.com/v3/tags/aircraft"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "full-interior",
+            "slug": "full-interior",
+            "uri": "https://api.sketchfab.com/v3/tags/full-interior"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6eb85948de2b4e7c8eebb8d26353bbd8",
+                "width": 1920,
+                "height": 1080,
+                "size": 150299,
+                "url": "https://media.sketchfab.com/models/1dd2dbfc3869444d88abeea38459cd66/thumbnails/9a3060ff0752401d940557fc4e00641d/45b2b407d40b428aa03c9ccfc9d43089.jpeg"
+            },
+            {
+                "uid": "03a34ee739b6494199a7c8c8916dda2c",
+                "width": 1024,
+                "height": 576,
+                "size": 58346,
+                "url": "https://media.sketchfab.com/models/1dd2dbfc3869444d88abeea38459cd66/thumbnails/9a3060ff0752401d940557fc4e00641d/bb804ac05f44474abbba32b32fced2bf.jpeg"
+            },
+            {
+                "uid": "27471901ec944248bfa2768cec1976aa",
+                "width": 720,
+                "height": 405,
+                "size": 35343,
+                "url": "https://media.sketchfab.com/models/1dd2dbfc3869444d88abeea38459cd66/thumbnails/9a3060ff0752401d940557fc4e00641d/8516a0cf49b24892a4c6b3dd99eca0b6.jpeg"
+            },
+            {
+                "uid": "2ad40ad932d94a4caa340fceac648610",
+                "width": 256,
+                "height": 144,
+                "size": 8278,
+                "url": "https://media.sketchfab.com/models/1dd2dbfc3869444d88abeea38459cd66/thumbnails/9a3060ff0752401d940557fc4e00641d/99d91918a79e43feb9b23d6368bf3709.jpeg"
+            },
+            {
+                "uid": "f84eeb1703eb4663a8b27d824cc5712b",
+                "width": 64,
+                "height": 36,
+                "size": 1439,
+                "url": "https://media.sketchfab.com/models/1dd2dbfc3869444d88abeea38459cd66/thumbnails/9a3060ff0752401d940557fc4e00641d/1765628696c44da4bdb7a9608dac774c.jpeg"
+            }
+        ]
+    },
+    "uid": "1dd2dbfc3869444d88abeea38459cd66",
+    "uri": "https://api.sketchfab.com/v3/models/1dd2dbfc3869444d88abeea38459cd66",
+    "user": {
+        "uid": "b7f38ef0fe6640299349b309e138b6f6",
+        "username": "mixmamo.studio",
+        "displayName": "Mixmamo.studio:   An effortless 3D collections.",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mixmamo.studio",
+        "avatar": {
+            "uid": "4266febe58384a54b920b298c916eb6c",
+            "uri": "https://api.sketchfab.com/v3/avatars/4266febe58384a54b920b298c916eb6c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1989,
+                    "url": "https://media.sketchfab.com/avatars/4266febe58384a54b920b298c916eb6c/c148562fe23b4622a0bc72d4c6474d97.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3662,
+                    "url": "https://media.sketchfab.com/avatars/4266febe58384a54b920b298c916eb6c/d0cf34d95bcf4e908663e7c423c07fdd.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9876,
+                    "url": "https://media.sketchfab.com/avatars/4266febe58384a54b920b298c916eb6c/7ac2cb7bcb5847348f5d7b85aa92bf0f.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11715,
+                    "url": "https://media.sketchfab.com/avatars/4266febe58384a54b920b298c916eb6c/e5e49dd167fb476aafe2961bb849d4e0.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b7f38ef0fe6640299349b309e138b6f6"
+    },
+    "vertexCount": 285493,
+    "viewCount": 1249,
+    "viewerUrl": "https://sketchfab.com/3d-models/1956-l-1049g-super-constellation-full-interior-1dd2dbfc3869444d88abeea38459cd66",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Please credit to the creator Nicholash Lombart\n\nThe Lockheed L-1049 Super Constellation is an American aircraft, a member of the Lockheed Constellation aircraft line. The aircraft was colloquially referred to as the Super Connie. \n\nThe L-1049 was Lockheed's response to the successful Douglas DC-6 airliner, first flying in 1950.\n\nThe aircraft was produced for both the United States Navy as the WV / R7V and U.S. Air Force as the C-121 for transport, electronics, and airborne early warning and control aircraft.\n\nWikipedia",
+    "price": null,
+    "downloadCount": 193,
+    "editorUrl": "https://sketchfab.com/models/1dd2dbfc3869444d88abeea38459cd66/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-18T12:46:02.018538",
+    "pbrType": null,
+    "textureCount": 48,
+    "materialCount": 100
+}

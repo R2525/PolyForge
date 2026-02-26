@@ -1,0 +1,241 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-10T12:38:42.313579",
+    "embedUrl": "https://sketchfab.com/models/0d9ae174b77144728d545f77a1dd9303/embed",
+    "faceCount": 46070,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 12,
+    "name": "Modular Spacership by Jungle Jim (animated)",
+    "publishedAt": "2026-01-11T16:27:25.021347",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "kit",
+            "slug": "kit",
+            "uri": "https://api.sketchfab.com/v3/tags/kit"
+        },
+        {
+            "name": "flying",
+            "slug": "flying",
+            "uri": "https://api.sketchfab.com/v3/tags/flying"
+        },
+        {
+            "name": "airplane",
+            "slug": "airplane",
+            "uri": "https://api.sketchfab.com/v3/tags/airplane"
+        },
+        {
+            "name": "future",
+            "slug": "future",
+            "uri": "https://api.sketchfab.com/v3/tags/future"
+        },
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "Galaxy",
+            "slug": "galaxy",
+            "uri": "https://api.sketchfab.com/v3/tags/galaxy"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "plane",
+            "slug": "plane",
+            "uri": "https://api.sketchfab.com/v3/tags/plane"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "animated",
+            "slug": "animated",
+            "uri": "https://api.sketchfab.com/v3/tags/animated"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        },
+        {
+            "name": "spaceship",
+            "slug": "spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "26f7f9e37e964970acdd3a3cd2dbf094",
+                "width": 1920,
+                "height": 1080,
+                "size": 235650,
+                "url": "https://media.sketchfab.com/models/0d9ae174b77144728d545f77a1dd9303/thumbnails/1d788ad3b207403d82abd00e92bd01c8/cff6ff16e44b4644bf3bf8929b85f404.jpeg"
+            },
+            {
+                "uid": "ce3191d3c30742e787a92b3013ce431d",
+                "width": 1024,
+                "height": 576,
+                "size": 63076,
+                "url": "https://media.sketchfab.com/models/0d9ae174b77144728d545f77a1dd9303/thumbnails/1d788ad3b207403d82abd00e92bd01c8/1a18cff2a054436b9fd6033a46fd9891.jpeg"
+            },
+            {
+                "uid": "e3429d4cf9cf40c9b91f2354195d2bc9",
+                "width": 720,
+                "height": 405,
+                "size": 33981,
+                "url": "https://media.sketchfab.com/models/0d9ae174b77144728d545f77a1dd9303/thumbnails/1d788ad3b207403d82abd00e92bd01c8/867c560c1e6b4b7ca2791f2932fb2570.jpeg"
+            },
+            {
+                "uid": "6aeb25998a1f4b779ebe7a51c45c5ea1",
+                "width": 256,
+                "height": 144,
+                "size": 6185,
+                "url": "https://media.sketchfab.com/models/0d9ae174b77144728d545f77a1dd9303/thumbnails/1d788ad3b207403d82abd00e92bd01c8/f736ed2c6c5f4b8fbc88c7550ca6da90.jpeg"
+            },
+            {
+                "uid": "b46918f2cb3d4901a127b454b7407abb",
+                "width": 64,
+                "height": 36,
+                "size": 1268,
+                "url": "https://media.sketchfab.com/models/0d9ae174b77144728d545f77a1dd9303/thumbnails/1d788ad3b207403d82abd00e92bd01c8/f3d9b72b73d54a96b6ddafb6bf15cd15.jpeg"
+            }
+        ]
+    },
+    "uid": "0d9ae174b77144728d545f77a1dd9303",
+    "uri": "https://api.sketchfab.com/v3/models/0d9ae174b77144728d545f77a1dd9303",
+    "user": {
+        "uid": "724b04884d7345a4860d2be8e86844fb",
+        "username": "jungle_jim",
+        "displayName": "Jungle Jim",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/jungle_jim",
+        "avatar": {
+            "uid": "d9a39db9e61248f0af9fc26a20205076",
+            "uri": "https://api.sketchfab.com/v3/avatars/d9a39db9e61248f0af9fc26a20205076",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1079,
+                    "url": "https://media.sketchfab.com/avatars/d9a39db9e61248f0af9fc26a20205076/8108a373f82444628c74571b290feb34.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1507,
+                    "url": "https://media.sketchfab.com/avatars/d9a39db9e61248f0af9fc26a20205076/e2d730013a114028a2212590727a1667.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3271,
+                    "url": "https://media.sketchfab.com/avatars/d9a39db9e61248f0af9fc26a20205076/499935ac8e7241f6bcd70949ab0980b4.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3785,
+                    "url": "https://media.sketchfab.com/avatars/d9a39db9e61248f0af9fc26a20205076/aa9384f16c81472588d2f869f6971777.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/724b04884d7345a4860d2be8e86844fb"
+    },
+    "vertexCount": 27266,
+    "viewCount": 455,
+    "viewerUrl": "https://sketchfab.com/3d-models/modular-spacership-by-jungle-jim-animated-0d9ae174b77144728d545f77a1dd9303",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Modular Spacership Spaceship, the perfect spaceship for real spacers.\nThe cockpit can be detached and used as an escape pod.\nUnderneath hangs a detachable container. \nAnd the two rockets can be filled with toxic gas and then detached and dropped on innocent alien civilizations.\nOr you can use them to transport old clothes.\n\nThe textures are unbaked, so you can steal them if you want.\nCheck out my store at **backgroundpeople DOT gumroad DOT com** for more (free) sci-fi and spaceship textures and other (sci-fi) things.",
+    "price": null,
+    "downloadCount": 102,
+    "editorUrl": "https://sketchfab.com/models/0d9ae174b77144728d545f77a1dd9303/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-11T16:35:14.530989",
+    "pbrType": null,
+    "textureCount": 17,
+    "materialCount": 30
+}

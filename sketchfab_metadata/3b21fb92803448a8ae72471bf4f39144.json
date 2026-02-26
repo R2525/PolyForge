@@ -1,0 +1,321 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-18T14:23:47.960313",
+    "embedUrl": "https://sketchfab.com/models/3b21fb92803448a8ae72471bf4f39144/embed",
+    "faceCount": 10,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+    },
+    "likeCount": 71,
+    "name": "Game Ready Carpet",
+    "publishedAt": "2025-12-18T14:30:56.586547",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "style",
+            "slug": "style",
+            "uri": "https://api.sketchfab.com/v3/tags/style"
+        },
+        {
+            "name": "textile",
+            "slug": "textile",
+            "uri": "https://api.sketchfab.com/v3/tags/textile"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "vintage",
+            "slug": "vintage",
+            "uri": "https://api.sketchfab.com/v3/tags/vintage"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "floor",
+            "slug": "floor",
+            "uri": "https://api.sketchfab.com/v3/tags/floor"
+        },
+        {
+            "name": "antique",
+            "slug": "antique",
+            "uri": "https://api.sketchfab.com/v3/tags/antique"
+        },
+        {
+            "name": "pattern",
+            "slug": "pattern",
+            "uri": "https://api.sketchfab.com/v3/tags/pattern"
+        },
+        {
+            "name": "classic",
+            "slug": "classic",
+            "uri": "https://api.sketchfab.com/v3/tags/classic"
+        },
+        {
+            "name": "detailed",
+            "slug": "detailed",
+            "uri": "https://api.sketchfab.com/v3/tags/detailed"
+        },
+        {
+            "name": "decorative",
+            "slug": "decorative",
+            "uri": "https://api.sketchfab.com/v3/tags/decorative"
+        },
+        {
+            "name": "decor",
+            "slug": "decor",
+            "uri": "https://api.sketchfab.com/v3/tags/decor"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "traditional",
+            "slug": "traditional",
+            "uri": "https://api.sketchfab.com/v3/tags/traditional"
+        },
+        {
+            "name": "fabric",
+            "slug": "fabric",
+            "uri": "https://api.sketchfab.com/v3/tags/fabric"
+        },
+        {
+            "name": "persian",
+            "slug": "persian",
+            "uri": "https://api.sketchfab.com/v3/tags/persian"
+        },
+        {
+            "name": "rug",
+            "slug": "rug",
+            "uri": "https://api.sketchfab.com/v3/tags/rug"
+        },
+        {
+            "name": "oriental",
+            "slug": "oriental",
+            "uri": "https://api.sketchfab.com/v3/tags/oriental"
+        },
+        {
+            "name": "ornamental",
+            "slug": "ornamental",
+            "uri": "https://api.sketchfab.com/v3/tags/ornamental"
+        },
+        {
+            "name": "carpet",
+            "slug": "carpet",
+            "uri": "https://api.sketchfab.com/v3/tags/carpet"
+        },
+        {
+            "name": "ethnic",
+            "slug": "ethnic",
+            "uri": "https://api.sketchfab.com/v3/tags/ethnic"
+        },
+        {
+            "name": "patterned",
+            "slug": "patterned",
+            "uri": "https://api.sketchfab.com/v3/tags/patterned"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "texture",
+            "slug": "texture",
+            "uri": "https://api.sketchfab.com/v3/tags/texture"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "home",
+            "slug": "home",
+            "uri": "https://api.sketchfab.com/v3/tags/home"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "interior",
+            "slug": "interior",
+            "uri": "https://api.sketchfab.com/v3/tags/interior"
+        },
+        {
+            "name": "download",
+            "slug": "download",
+            "uri": "https://api.sketchfab.com/v3/tags/download"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0bf8f5dc4f7742f5a95cf81ee8aef3f9",
+                "width": 1920,
+                "height": 1080,
+                "size": 659452,
+                "url": "https://media.sketchfab.com/models/3b21fb92803448a8ae72471bf4f39144/thumbnails/5f5fd1dbee164bc8a86c455fa653addd/710ea789f89047359a0ca625d5e9d42d.jpeg"
+            },
+            {
+                "uid": "0168bb82425e4d0cbd491158aa5dd847",
+                "width": 1024,
+                "height": 576,
+                "size": 170810,
+                "url": "https://media.sketchfab.com/models/3b21fb92803448a8ae72471bf4f39144/thumbnails/5f5fd1dbee164bc8a86c455fa653addd/49983c22170c4701bb0fc7a00c2d77f6.jpeg"
+            },
+            {
+                "uid": "8193e52993214c2abe0d6f59ba64770c",
+                "width": 720,
+                "height": 405,
+                "size": 85306,
+                "url": "https://media.sketchfab.com/models/3b21fb92803448a8ae72471bf4f39144/thumbnails/5f5fd1dbee164bc8a86c455fa653addd/b0319d3f5fa645f994da2942c9417d3a.jpeg"
+            },
+            {
+                "uid": "c998c7fbd85e4624877c2a92142cf9f9",
+                "width": 256,
+                "height": 144,
+                "size": 11768,
+                "url": "https://media.sketchfab.com/models/3b21fb92803448a8ae72471bf4f39144/thumbnails/5f5fd1dbee164bc8a86c455fa653addd/e04125b5ce4e467ba06712d6bd7f34f9.jpeg"
+            },
+            {
+                "uid": "462c0aae60b2402d8ddccabb4c810c7f",
+                "width": 64,
+                "height": 36,
+                "size": 1563,
+                "url": "https://media.sketchfab.com/models/3b21fb92803448a8ae72471bf4f39144/thumbnails/5f5fd1dbee164bc8a86c455fa653addd/51a3440d481b4646879ad438fdb632ed.jpeg"
+            }
+        ]
+    },
+    "uid": "3b21fb92803448a8ae72471bf4f39144",
+    "uri": "https://api.sketchfab.com/v3/models/3b21fb92803448a8ae72471bf4f39144",
+    "user": {
+        "uid": "be6828e5177947efa4919353b8c80f43",
+        "username": "VoidyAssets",
+        "displayName": "Voidy Entertainment",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/VoidyAssets",
+        "avatar": {
+            "uid": "2620217293574a58b7238cc349249cc6",
+            "uri": "https://api.sketchfab.com/v3/avatars/2620217293574a58b7238cc349249cc6",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 517,
+                    "url": "https://media.sketchfab.com/avatars/2620217293574a58b7238cc349249cc6/bb92fa7b02ea4204a516ea6c380852b9.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1119,
+                    "url": "https://media.sketchfab.com/avatars/2620217293574a58b7238cc349249cc6/f97399dc033b431a9f5b7d10b769e2ed.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2572,
+                    "url": "https://media.sketchfab.com/avatars/2620217293574a58b7238cc349249cc6/473031d53915423cb358ec82082fd0a2.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2943,
+                    "url": "https://media.sketchfab.com/avatars/2620217293574a58b7238cc349249cc6/e189c0394ebc446c89dad7300c702792.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/be6828e5177947efa4919353b8c80f43"
+    },
+    "vertexCount": 8,
+    "viewCount": 2016,
+    "viewerUrl": "https://sketchfab.com/3d-models/game-ready-carpet-3b21fb92803448a8ae72471bf4f39144",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[Download Free](https://www.fab.com/tr/sellers/Voidy%20Games)\n\n![](https://r.resimlink.com/UV4fey.png)",
+    "price": null,
+    "downloadCount": 726,
+    "editorUrl": "https://sketchfab.com/models/3b21fb92803448a8ae72471bf4f39144/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-22T18:34:08.207981",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

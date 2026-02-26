@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "34edc263260f43e693ed527495b6d9a4",
+            "name": "News & Politics",
+            "slug": "news-politics",
+            "uri": "https://api.sketchfab.com/v3/categories/34edc263260f43e693ed527495b6d9a4",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/58d3382fd683b3fb9a87a4e1e3f0222b-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/34edc263260f43e693ed527495b6d9a4/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/34edc263260f43e693ed527495b6d9a4/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-06T03:42:37.889368",
+    "embedUrl": "https://sketchfab.com/models/2b594f46dd0e42faab75420dd7015dad/embed",
+    "faceCount": 499664,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 7,
+    "name": "🔄>-{Wrecker}-<⧈(-🛠-)⧈>-[I.D.:105-645-73]-<🔄",
+    "publishedAt": "2026-02-06T03:57:32.130599",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "buggy",
+            "slug": "buggy",
+            "uri": "https://api.sketchfab.com/v3/tags/buggy"
+        },
+        {
+            "name": "truck",
+            "slug": "truck",
+            "uri": "https://api.sketchfab.com/v3/tags/truck"
+        },
+        {
+            "name": "trucks",
+            "slug": "trucks",
+            "uri": "https://api.sketchfab.com/v3/tags/trucks"
+        },
+        {
+            "name": "Rodin",
+            "slug": "rodin",
+            "uri": "https://api.sketchfab.com/v3/tags/rodin"
+        },
+        {
+            "name": "steampunkvehicle",
+            "slug": "steampunkvehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunkvehicle"
+        },
+        {
+            "name": "wrecker",
+            "slug": "wrecker",
+            "uri": "https://api.sketchfab.com/v3/tags/wrecker"
+        },
+        {
+            "name": "truck-trucks",
+            "slug": "truck-trucks",
+            "uri": "https://api.sketchfab.com/v3/tags/truck-trucks"
+        },
+        {
+            "name": "towtruck",
+            "slug": "towtruck",
+            "uri": "https://api.sketchfab.com/v3/tags/towtruck"
+        },
+        {
+            "name": "pbr-texturing",
+            "slug": "pbr-texturing",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-texturing"
+        },
+        {
+            "name": "2ktextures",
+            "slug": "2ktextures",
+            "uri": "https://api.sketchfab.com/v3/tags/2ktextures"
+        },
+        {
+            "name": "city-car",
+            "slug": "city-car",
+            "uri": "https://api.sketchfab.com/v3/tags/city-car"
+        },
+        {
+            "name": "steampunk-car",
+            "slug": "steampunk-car",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk-car"
+        },
+        {
+            "name": "pbr-shaders",
+            "slug": "pbr-shaders",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-shaders"
+        },
+        {
+            "name": "truck-heavy-vehicle",
+            "slug": "truck-heavy-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/truck-heavy-vehicle"
+        },
+        {
+            "name": "tow-truck",
+            "slug": "tow-truck",
+            "uri": "https://api.sketchfab.com/v3/tags/tow-truck"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "car",
+            "slug": "car",
+            "uri": "https://api.sketchfab.com/v3/tags/car"
+        },
+        {
+            "name": "old-truck",
+            "slug": "old-truck",
+            "uri": "https://api.sketchfab.com/v3/tags/old-truck"
+        },
+        {
+            "name": "tow-truck-winch",
+            "slug": "tow-truck-winch",
+            "uri": "https://api.sketchfab.com/v3/tags/tow-truck-winch"
+        },
+        {
+            "name": "truck-tow-barrel",
+            "slug": "truck-tow-barrel",
+            "uri": "https://api.sketchfab.com/v3/tags/truck-tow-barrel"
+        },
+        {
+            "name": "rusty-vehicles",
+            "slug": "rusty-vehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/rusty-vehicles"
+        },
+        {
+            "name": "rusty-truck",
+            "slug": "rusty-truck",
+            "uri": "https://api.sketchfab.com/v3/tags/rusty-truck"
+        },
+        {
+            "name": "steampunk-vehicle",
+            "slug": "steampunk-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk-vehicle"
+        },
+        {
+            "name": "old-trucks",
+            "slug": "old-trucks",
+            "uri": "https://api.sketchfab.com/v3/tags/old-trucks"
+        },
+        {
+            "name": "flatbedtruck",
+            "slug": "flatbedtruck",
+            "uri": "https://api.sketchfab.com/v3/tags/flatbedtruck"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "city-truck",
+            "slug": "city-truck",
+            "uri": "https://api.sketchfab.com/v3/tags/city-truck"
+        },
+        {
+            "name": "truck-model",
+            "slug": "truck-model",
+            "uri": "https://api.sketchfab.com/v3/tags/truck-model"
+        },
+        {
+            "name": "wreckers",
+            "slug": "wreckers",
+            "uri": "https://api.sketchfab.com/v3/tags/wreckers"
+        },
+        {
+            "name": "city-van",
+            "slug": "city-van",
+            "uri": "https://api.sketchfab.com/v3/tags/city-van"
+        },
+        {
+            "name": "rustyvehicle",
+            "slug": "rustyvehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/rustyvehicle"
+        },
+        {
+            "name": "vintagetruck",
+            "slug": "vintagetruck",
+            "uri": "https://api.sketchfab.com/v3/tags/vintagetruck"
+        },
+        {
+            "name": "rodinai",
+            "slug": "rodinai",
+            "uri": "https://api.sketchfab.com/v3/tags/rodinai"
+        },
+        {
+            "name": "hyper3d",
+            "slug": "hyper3d",
+            "uri": "https://api.sketchfab.com/v3/tags/hyper3d"
+        },
+        {
+            "name": "wrecked-truck",
+            "slug": "wrecked-truck",
+            "uri": "https://api.sketchfab.com/v3/tags/wrecked-truck"
+        },
+        {
+            "name": "truck-car",
+            "slug": "truck-car",
+            "uri": "https://api.sketchfab.com/v3/tags/truck-car"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "hyper3dai",
+            "slug": "hyper3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/hyper3dai"
+        },
+        {
+            "name": "rodin_gen2",
+            "slug": "rodin_gen2",
+            "uri": "https://api.sketchfab.com/v3/tags/rodin_gen2"
+        },
+        {
+            "name": "rodin3d",
+            "slug": "rodin3d",
+            "uri": "https://api.sketchfab.com/v3/tags/rodin3d"
+        },
+        {
+            "name": "specialvehicle",
+            "slug": "specialvehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/specialvehicle"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "518fbc491dfc413181bf8deffdb7c727",
+                "width": 1920,
+                "height": 1080,
+                "size": 374362,
+                "url": "https://media.sketchfab.com/models/2b594f46dd0e42faab75420dd7015dad/thumbnails/4220582b5ff14db09caee88c6391165d/564ddcb5caf94ab39245a0ee7eca0402.jpeg"
+            },
+            {
+                "uid": "aa9a4cc1065043d583030b84e9edced9",
+                "width": 1024,
+                "height": 576,
+                "size": 84756,
+                "url": "https://media.sketchfab.com/models/2b594f46dd0e42faab75420dd7015dad/thumbnails/4220582b5ff14db09caee88c6391165d/e7c2ce22aa674ca09a4d9814c7d73161.jpeg"
+            },
+            {
+                "uid": "07bce8f8f58045a0aa28658b2f5702e8",
+                "width": 720,
+                "height": 405,
+                "size": 47172,
+                "url": "https://media.sketchfab.com/models/2b594f46dd0e42faab75420dd7015dad/thumbnails/4220582b5ff14db09caee88c6391165d/9bcc03cffda04d37b07d9854805bf61b.jpeg"
+            },
+            {
+                "uid": "dcaf477228414e0b87e756fc97829ede",
+                "width": 256,
+                "height": 144,
+                "size": 9426,
+                "url": "https://media.sketchfab.com/models/2b594f46dd0e42faab75420dd7015dad/thumbnails/4220582b5ff14db09caee88c6391165d/f003de5a96e149c0beaf7ad0a5082232.jpeg"
+            },
+            {
+                "uid": "a376d933caed46afae31d3527d156c48",
+                "width": 64,
+                "height": 36,
+                "size": 1737,
+                "url": "https://media.sketchfab.com/models/2b594f46dd0e42faab75420dd7015dad/thumbnails/4220582b5ff14db09caee88c6391165d/2bd1f5287c214d0c95b922a3966352ab.jpeg"
+            }
+        ]
+    },
+    "uid": "2b594f46dd0e42faab75420dd7015dad",
+    "uri": "https://api.sketchfab.com/v3/models/2b594f46dd0e42faab75420dd7015dad",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 249679,
+    "viewCount": 88,
+    "viewerUrl": "https://sketchfab.com/3d-models/wrecker-id105-645-73-2b594f46dd0e42faab75420dd7015dad",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 19,
+    "editorUrl": "https://sketchfab.com/models/2b594f46dd0e42faab75420dd7015dad/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T19:28:08.762598",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

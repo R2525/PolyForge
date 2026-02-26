@@ -1,0 +1,200 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T15:44:11.509974",
+    "embedUrl": "https://sketchfab.com/models/415d32a3bb04457d86cfa0ec7b4e6066/embed",
+    "faceCount": 456,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Abyssal",
+    "publishedAt": "2026-02-22T16:40:37.056727",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "underwater",
+            "slug": "underwater",
+            "uri": "https://api.sketchfab.com/v3/tags/underwater"
+        },
+        {
+            "name": "deepsea",
+            "slug": "deepsea",
+            "uri": "https://api.sketchfab.com/v3/tags/deepsea"
+        },
+        {
+            "name": "Diver",
+            "slug": "diver",
+            "uri": "https://api.sketchfab.com/v3/tags/diver"
+        },
+        {
+            "name": "Abyss",
+            "slug": "abyss",
+            "uri": "https://api.sketchfab.com/v3/tags/abyss"
+        },
+        {
+            "name": "atmospheric",
+            "slug": "atmospheric",
+            "uri": "https://api.sketchfab.com/v3/tags/atmospheric"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cb4a3a3f71bd4bf0b1c0a2841a41e6d8",
+                "width": 1920,
+                "height": 1080,
+                "size": 131927,
+                "url": "https://media.sketchfab.com/models/415d32a3bb04457d86cfa0ec7b4e6066/thumbnails/d954fcaff8384819a08f93820d369c3f/9cdedb76b97141f2a039c90ff3703565.jpeg"
+            },
+            {
+                "uid": "c79c36d00a544037bf9f68b3045147fc",
+                "width": 1024,
+                "height": 576,
+                "size": 42748,
+                "url": "https://media.sketchfab.com/models/415d32a3bb04457d86cfa0ec7b4e6066/thumbnails/d954fcaff8384819a08f93820d369c3f/b50f5cd8c5624ccda8ad389ed562a4c2.jpeg"
+            },
+            {
+                "uid": "3305ec63936e485380ce914063aef2bd",
+                "width": 720,
+                "height": 405,
+                "size": 24718,
+                "url": "https://media.sketchfab.com/models/415d32a3bb04457d86cfa0ec7b4e6066/thumbnails/d954fcaff8384819a08f93820d369c3f/480ab71d7c9044958f8e7c4c466c2cfa.jpeg"
+            },
+            {
+                "uid": "debad61aaeda4a009a577654fdb557fc",
+                "width": 256,
+                "height": 144,
+                "size": 5132,
+                "url": "https://media.sketchfab.com/models/415d32a3bb04457d86cfa0ec7b4e6066/thumbnails/d954fcaff8384819a08f93820d369c3f/9ad0fd0681f94c2387ee482a1d5d5996.jpeg"
+            },
+            {
+                "uid": "f63e1fceb8c042edb89b9c6c60fa64a1",
+                "width": 64,
+                "height": 36,
+                "size": 1141,
+                "url": "https://media.sketchfab.com/models/415d32a3bb04457d86cfa0ec7b4e6066/thumbnails/d954fcaff8384819a08f93820d369c3f/da40782b274a4077bc3e1bd5ac1b88ff.jpeg"
+            }
+        ]
+    },
+    "uid": "415d32a3bb04457d86cfa0ec7b4e6066",
+    "uri": "https://api.sketchfab.com/v3/models/415d32a3bb04457d86cfa0ec7b4e6066",
+    "user": {
+        "uid": "64b67310bc2d45cd882f34dc76a212a7",
+        "username": "DeMortimer",
+        "displayName": "Mortimer",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DeMortimer",
+        "avatar": {
+            "uid": "6345f1222a23417881847f05e1a02a4b",
+            "uri": "https://api.sketchfab.com/v3/avatars/6345f1222a23417881847f05e1a02a4b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1780,
+                    "url": "https://media.sketchfab.com/avatars/6345f1222a23417881847f05e1a02a4b/314584ef27cb45c393643591cf98ebd6.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3114,
+                    "url": "https://media.sketchfab.com/avatars/6345f1222a23417881847f05e1a02a4b/e9a6b5cf99f2496e88e90ccaf0d4c6c3.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 7276,
+                    "url": "https://media.sketchfab.com/avatars/6345f1222a23417881847f05e1a02a4b/cedabd3b497c4440bdcff53d4b83d4e4.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 8293,
+                    "url": "https://media.sketchfab.com/avatars/6345f1222a23417881847f05e1a02a4b/258966d4f03d4f1a86b753d8cbfd82ff.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/64b67310bc2d45cd882f34dc76a212a7"
+    },
+    "vertexCount": 304,
+    "viewCount": 43,
+    "viewerUrl": "https://sketchfab.com/3d-models/abyssal-415d32a3bb04457d86cfa0ec7b4e6066",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "The vintage suit locks you into the silence of the abyss. Every breath is a struggle for air that isn't coming, but the panic has already faded into a heavy, cold calm. You are not alone in the deep, and there is no escape.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/415d32a3bb04457d86cfa0ec7b4e6066/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T01:15:13.750847",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

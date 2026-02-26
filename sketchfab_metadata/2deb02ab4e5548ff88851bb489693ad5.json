@@ -1,0 +1,194 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T17:54:23.509931",
+    "embedUrl": "https://sketchfab.com/models/2deb02ab4e5548ff88851bb489693ad5/embed",
+    "faceCount": 19622,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "U-31 Plasma Rifle",
+    "publishedAt": "2026-02-24T17:56:45.304005",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rifle",
+            "slug": "rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle"
+        },
+        {
+            "name": "blaster",
+            "slug": "blaster",
+            "uri": "https://api.sketchfab.com/v3/tags/blaster"
+        },
+        {
+            "name": "future",
+            "slug": "future",
+            "uri": "https://api.sketchfab.com/v3/tags/future"
+        },
+        {
+            "name": "fan",
+            "slug": "fan",
+            "uri": "https://api.sketchfab.com/v3/tags/fan"
+        },
+        {
+            "name": "plasmarifle",
+            "slug": "plasmarifle",
+            "uri": "https://api.sketchfab.com/v3/tags/plasmarifle"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6cffe21b5d7246039e77ea1ad6b3967d",
+                "width": 1920,
+                "height": 1080,
+                "size": 54075,
+                "url": "https://media.sketchfab.com/models/2deb02ab4e5548ff88851bb489693ad5/thumbnails/20852ff057c443d4b82f31a697aa7d3c/062826c992794c009bbf7962ab9b3dba.jpeg"
+            },
+            {
+                "uid": "4f499bb8352c49c88cd53e0fcc04efab",
+                "width": 1024,
+                "height": 576,
+                "size": 16612,
+                "url": "https://media.sketchfab.com/models/2deb02ab4e5548ff88851bb489693ad5/thumbnails/20852ff057c443d4b82f31a697aa7d3c/24a2ee674d834aeb96eb4aeec15715a8.jpeg"
+            },
+            {
+                "uid": "4b533cab8e2d4ddf9149f08abcaaebf3",
+                "width": 720,
+                "height": 405,
+                "size": 9407,
+                "url": "https://media.sketchfab.com/models/2deb02ab4e5548ff88851bb489693ad5/thumbnails/20852ff057c443d4b82f31a697aa7d3c/c6784e27c5474715a94d6477c6ad67f3.jpeg"
+            },
+            {
+                "uid": "04d7f9f7edcb48ab8ab0341b7bc8e381",
+                "width": 256,
+                "height": 144,
+                "size": 2126,
+                "url": "https://media.sketchfab.com/models/2deb02ab4e5548ff88851bb489693ad5/thumbnails/20852ff057c443d4b82f31a697aa7d3c/285da0d5e43043c79d22a129a25ef9b6.jpeg"
+            },
+            {
+                "uid": "4ee76927588441b38030437c90bd9ab7",
+                "width": 64,
+                "height": 36,
+                "size": 831,
+                "url": "https://media.sketchfab.com/models/2deb02ab4e5548ff88851bb489693ad5/thumbnails/20852ff057c443d4b82f31a697aa7d3c/c459c7a8edf14275947a571dad146010.jpeg"
+            }
+        ]
+    },
+    "uid": "2deb02ab4e5548ff88851bb489693ad5",
+    "uri": "https://api.sketchfab.com/v3/models/2deb02ab4e5548ff88851bb489693ad5",
+    "user": {
+        "uid": "a7ed880688214fe5b6b67f52fb4fede9",
+        "username": "comoto31",
+        "displayName": "Comoto31",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/comoto31",
+        "avatar": {
+            "uid": "510f139b1beb4281a3fe8aa294fb4db5",
+            "uri": "https://api.sketchfab.com/v3/avatars/510f139b1beb4281a3fe8aa294fb4db5",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 908,
+                    "url": "https://media.sketchfab.com/avatars/510f139b1beb4281a3fe8aa294fb4db5/8266194e30804c2cb6e9b734202c596a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1114,
+                    "url": "https://media.sketchfab.com/avatars/510f139b1beb4281a3fe8aa294fb4db5/972570ce96294ed396ad1a45f2f680a3.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2136,
+                    "url": "https://media.sketchfab.com/avatars/510f139b1beb4281a3fe8aa294fb4db5/ea30ccf7a1da4b68a62bd9fbd8656065.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2413,
+                    "url": "https://media.sketchfab.com/avatars/510f139b1beb4281a3fe8aa294fb4db5/0f863f47ad8947839005dcba76493946.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a7ed880688214fe5b6b67f52fb4fede9"
+    },
+    "vertexCount": 9996,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/u-31-plasma-rifle-2deb02ab4e5548ff88851bb489693ad5",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This piece was designed to be ready for implementation into and independently developed video game. The weapon is the U-31 Plasma Rifle. Its main gas type is Hydrogen. This peace was designed to mimic that of an environment of complete dystopian society where resources are scarce. The timeframe of this weapons development is around 2200 of which modern weaponry has evolved into more energy based vs kinetic. The weapon was once standard issue to soldiers during this time however since the collapse of civilization, it has seen its rough times, It has seen battle and been used in many different scenarios but even though damaged and dirty, its purpose to defend or attack in the aftermath of the great collapse has continued to be executed. This piece was inspired by many scifi games and franchises such as destiny and star wars. Its overall design was meant to embody that of someone who would use this while on the run or struggling for survival.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2deb02ab4e5548ff88851bb489693ad5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T18:04:05.838341",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

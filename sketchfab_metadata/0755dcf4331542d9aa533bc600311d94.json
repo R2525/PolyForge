@@ -1,0 +1,246 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+            "name": "Places & Travel",
+            "slug": "places-travel",
+            "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-20T04:57:14.390450",
+    "embedUrl": "https://sketchfab.com/models/0755dcf4331542d9aa533bc600311d94/embed",
+    "faceCount": 3564,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Stone Arch",
+    "publishedAt": "2026-01-20T05:03:50.638201",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "toon",
+            "slug": "toon",
+            "uri": "https://api.sketchfab.com/v3/tags/toon"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "entrance",
+            "slug": "entrance",
+            "uri": "https://api.sketchfab.com/v3/tags/entrance"
+        },
+        {
+            "name": "arch",
+            "slug": "arch",
+            "uri": "https://api.sketchfab.com/v3/tags/arch"
+        },
+        {
+            "name": "gateway",
+            "slug": "gateway",
+            "uri": "https://api.sketchfab.com/v3/tags/gateway"
+        },
+        {
+            "name": "fortnite",
+            "slug": "fortnite",
+            "uri": "https://api.sketchfab.com/v3/tags/fortnite"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "freefire",
+            "slug": "freefire",
+            "uri": "https://api.sketchfab.com/v3/tags/freefire"
+        },
+        {
+            "name": "valorant",
+            "slug": "valorant",
+            "uri": "https://api.sketchfab.com/v3/tags/valorant"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "140d5388173f42dda43e43370f28535f",
+                "width": 1920,
+                "height": 1080,
+                "size": 184699,
+                "url": "https://media.sketchfab.com/models/0755dcf4331542d9aa533bc600311d94/thumbnails/da89a5aa27054e7ea76b076ac5c6faa9/87207f8347654972bd6a9285d158c06e.jpeg"
+            },
+            {
+                "uid": "4525858b62ba46ddb61e6cba145bac8e",
+                "width": 1024,
+                "height": 576,
+                "size": 41487,
+                "url": "https://media.sketchfab.com/models/0755dcf4331542d9aa533bc600311d94/thumbnails/da89a5aa27054e7ea76b076ac5c6faa9/ce90c305cb5248149c1dbd43ea5d5780.jpeg"
+            },
+            {
+                "uid": "1e65405e6969464e8fd8f566dbfa2717",
+                "width": 720,
+                "height": 405,
+                "size": 24196,
+                "url": "https://media.sketchfab.com/models/0755dcf4331542d9aa533bc600311d94/thumbnails/da89a5aa27054e7ea76b076ac5c6faa9/6177f7ccd64d479e9155abd1e59c230a.jpeg"
+            },
+            {
+                "uid": "ed316045c6074085ac994b74d00991a6",
+                "width": 256,
+                "height": 144,
+                "size": 5816,
+                "url": "https://media.sketchfab.com/models/0755dcf4331542d9aa533bc600311d94/thumbnails/da89a5aa27054e7ea76b076ac5c6faa9/72054ea3ddc8408bba6b21e1d1c8426d.jpeg"
+            },
+            {
+                "uid": "ebadf81c33624b37aef127235b08146e",
+                "width": 64,
+                "height": 36,
+                "size": 1335,
+                "url": "https://media.sketchfab.com/models/0755dcf4331542d9aa533bc600311d94/thumbnails/da89a5aa27054e7ea76b076ac5c6faa9/1fc98b6d5b564d0c8e108c12d6a86a42.jpeg"
+            }
+        ]
+    },
+    "uid": "0755dcf4331542d9aa533bc600311d94",
+    "uri": "https://api.sketchfab.com/v3/models/0755dcf4331542d9aa533bc600311d94",
+    "user": {
+        "uid": "600680db114546a7b57e2462228a6978",
+        "username": "syedabbas0815",
+        "displayName": "PropShop™",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/syedabbas0815",
+        "avatar": {
+            "uid": "537a470b37cd493881172ad9a4accfb3",
+            "uri": "https://api.sketchfab.com/v3/avatars/537a470b37cd493881172ad9a4accfb3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1322,
+                    "url": "https://media.sketchfab.com/avatars/537a470b37cd493881172ad9a4accfb3/ad5b564cc4544d5ebf0a0e450c94110a.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2279,
+                    "url": "https://media.sketchfab.com/avatars/537a470b37cd493881172ad9a4accfb3/ac8c69c3b0004cf1bc8e337e8605c343.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5809,
+                    "url": "https://media.sketchfab.com/avatars/537a470b37cd493881172ad9a4accfb3/c5d371a9fc21483a978e3d9fc597ac03.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5608,
+                    "url": "https://media.sketchfab.com/avatars/537a470b37cd493881172ad9a4accfb3/58137eb860fd4a06abefc2b56d5a1b0d.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/600680db114546a7b57e2462228a6978"
+    },
+    "vertexCount": 1784,
+    "viewCount": 48,
+    "viewerUrl": "https://sketchfab.com/3d-models/stone-arch-0755dcf4331542d9aa533bc600311d94",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "*AI-Generated Stone Arch– Game Ready Prop\n\nThis is a high-quality 3D Stone Arch, generated using AI and optimized for use in games, cinematic scenes, and real-time environments. The model features a Stylized-style design, suitable for FPS, battle royale, survival, sci-fi, or Medival \n\nThe Arch works perfectly as:\n\nAb Arch / Entrace\n\nEnvironment prop for levels and maps\n\nBackground asset for renders or cinematics\n\nDesigned to be easily integrated into Unity, Unreal Engine, Blender, and other 3D pipelines.\n\n⚠️ Note: This model is AI-generated and may require minor adjustments depending on your project’s technical requirements.**",
+    "price": null,
+    "downloadCount": 22,
+    "editorUrl": "https://sketchfab.com/models/0755dcf4331542d9aa533bc600311d94/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-20T05:27:56.910499",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

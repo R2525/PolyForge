@@ -1,0 +1,125 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 1,
+    "createdAt": "2025-12-02T19:44:00.947966",
+    "embedUrl": "https://sketchfab.com/models/4004d8fc596248a1b8b7bec1d1e2cb9b/embed",
+    "faceCount": 58626,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Star-Wars Speeder bike",
+    "publishedAt": "2025-12-02T19:46:14.074759",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "substance-painter",
+            "slug": "substance-painter",
+            "uri": "https://api.sketchfab.com/v3/tags/substance-painter"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9913574f568d4ea489088683f011089a",
+                "width": 1920,
+                "height": 1080,
+                "size": 147761,
+                "url": "https://media.sketchfab.com/models/4004d8fc596248a1b8b7bec1d1e2cb9b/thumbnails/efa8ee8cb2234e319a7c1bc378b5830a/9c7af389ae81415fa421f05d876f92d5.jpeg"
+            },
+            {
+                "uid": "0106aa7633c84f0ebde8625b72ac773b",
+                "width": 1024,
+                "height": 576,
+                "size": 50176,
+                "url": "https://media.sketchfab.com/models/4004d8fc596248a1b8b7bec1d1e2cb9b/thumbnails/efa8ee8cb2234e319a7c1bc378b5830a/5a69c331cd87468b8227028f5f139491.jpeg"
+            },
+            {
+                "uid": "4fc37202ecf6449a92c6aebdcf776b69",
+                "width": 720,
+                "height": 405,
+                "size": 29584,
+                "url": "https://media.sketchfab.com/models/4004d8fc596248a1b8b7bec1d1e2cb9b/thumbnails/efa8ee8cb2234e319a7c1bc378b5830a/d72cfbea72b14b33b18b1c769840c549.jpeg"
+            },
+            {
+                "uid": "c2a2006ff12643ba8b70c732ab4a34df",
+                "width": 256,
+                "height": 144,
+                "size": 6396,
+                "url": "https://media.sketchfab.com/models/4004d8fc596248a1b8b7bec1d1e2cb9b/thumbnails/efa8ee8cb2234e319a7c1bc378b5830a/99cbbf2671fd4e648b4466c38078b5c6.jpeg"
+            },
+            {
+                "uid": "6c964eb917e84815891a3a23b7b78f24",
+                "width": 64,
+                "height": 36,
+                "size": 1378,
+                "url": "https://media.sketchfab.com/models/4004d8fc596248a1b8b7bec1d1e2cb9b/thumbnails/efa8ee8cb2234e319a7c1bc378b5830a/9a028c6553ca4ab1b2a8f8973f28848e.jpeg"
+            }
+        ]
+    },
+    "uid": "4004d8fc596248a1b8b7bec1d1e2cb9b",
+    "uri": "https://api.sketchfab.com/v3/models/4004d8fc596248a1b8b7bec1d1e2cb9b",
+    "user": {
+        "uid": "b241edd39d4546079a96902ba425ae3e",
+        "username": "RyuLaing",
+        "displayName": "RyuLaing",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/RyuLaing",
+        "avatar": {
+            "uid": "16b12c92b1a0435ab6cb0c6e8197e78a",
+            "uri": "https://api.sketchfab.com/v3/avatars/16b12c92b1a0435ab6cb0c6e8197e78a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 969,
+                    "url": "https://media.sketchfab.com/avatars/16b12c92b1a0435ab6cb0c6e8197e78a/84b726d6eb9a4bd7a05981eadbb36001.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1257,
+                    "url": "https://media.sketchfab.com/avatars/16b12c92b1a0435ab6cb0c6e8197e78a/f24f38acf1724b75a79c3f625f4fe5b5.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2506,
+                    "url": "https://media.sketchfab.com/avatars/16b12c92b1a0435ab6cb0c6e8197e78a/aa8e118c0e244ece90ab5a7707d132b7.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2826,
+                    "url": "https://media.sketchfab.com/avatars/16b12c92b1a0435ab6cb0c6e8197e78a/21341a0291104932aa7fbbe6d5aafff2.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b241edd39d4546079a96902ba425ae3e"
+    },
+    "vertexCount": 30293,
+    "viewCount": 24,
+    "viewerUrl": "https://sketchfab.com/3d-models/star-wars-speeder-bike-4004d8fc596248a1b8b7bec1d1e2cb9b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/4004d8fc596248a1b8b7bec1d1e2cb9b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-03T02:11:10.634071",
+    "pbrType": "metalness",
+    "textureCount": 36,
+    "materialCount": 6
+}

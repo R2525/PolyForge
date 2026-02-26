@@ -1,0 +1,200 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T04:11:11.517546",
+    "embedUrl": "https://sketchfab.com/models/40470c49d6e741fa85bb7ce14bef1e9c/embed",
+    "faceCount": 1054568,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Astral Valkyrie",
+    "publishedAt": "2026-02-25T04:12:38.045524",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "angel",
+            "slug": "angel",
+            "uri": "https://api.sketchfab.com/v3/tags/angel"
+        },
+        {
+            "name": "valkyrie",
+            "slug": "valkyrie",
+            "uri": "https://api.sketchfab.com/v3/tags/valkyrie"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "winged",
+            "slug": "winged",
+            "uri": "https://api.sketchfab.com/v3/tags/winged"
+        },
+        {
+            "name": "Illustration",
+            "slug": "illustration",
+            "uri": "https://api.sketchfab.com/v3/tags/illustration"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "82f1658a1a414047a6dbda0d65e2a28b",
+                "width": 1920,
+                "height": 1080,
+                "size": 90544,
+                "url": "https://media.sketchfab.com/models/40470c49d6e741fa85bb7ce14bef1e9c/thumbnails/de284e218fb64c9b977ccd6c7ff932e5/8f8e9f18897b4b729fec440cf9ecedda.jpeg"
+            },
+            {
+                "uid": "9cf96eed63954c6780bdbbc737b0b063",
+                "width": 1024,
+                "height": 576,
+                "size": 30238,
+                "url": "https://media.sketchfab.com/models/40470c49d6e741fa85bb7ce14bef1e9c/thumbnails/de284e218fb64c9b977ccd6c7ff932e5/a4a985aa409a48b4b6981988e071a9b0.jpeg"
+            },
+            {
+                "uid": "93764e8cfd7d4194910c46d5999e1303",
+                "width": 720,
+                "height": 405,
+                "size": 17375,
+                "url": "https://media.sketchfab.com/models/40470c49d6e741fa85bb7ce14bef1e9c/thumbnails/de284e218fb64c9b977ccd6c7ff932e5/da933ae2ec554d8b9a388d1e021b23c2.jpeg"
+            },
+            {
+                "uid": "b0e56f53c2e04acfb77aa912b0607cd1",
+                "width": 256,
+                "height": 144,
+                "size": 3515,
+                "url": "https://media.sketchfab.com/models/40470c49d6e741fa85bb7ce14bef1e9c/thumbnails/de284e218fb64c9b977ccd6c7ff932e5/fad6b0af6a15440e938b0777e3897dba.jpeg"
+            },
+            {
+                "uid": "e547b51eec04461e8ce9a3cd9992d2d7",
+                "width": 64,
+                "height": 36,
+                "size": 940,
+                "url": "https://media.sketchfab.com/models/40470c49d6e741fa85bb7ce14bef1e9c/thumbnails/de284e218fb64c9b977ccd6c7ff932e5/3e4997e3e9284c0ea872beec0dbd8793.jpeg"
+            }
+        ]
+    },
+    "uid": "40470c49d6e741fa85bb7ce14bef1e9c",
+    "uri": "https://api.sketchfab.com/v3/models/40470c49d6e741fa85bb7ce14bef1e9c",
+    "user": {
+        "uid": "eac3c18575594ef38d4d95f3c939bffa",
+        "username": "kimiyt2b",
+        "displayName": "kimiyt2b",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kimiyt2b",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/eac3c18575594ef38d4d95f3c939bffa"
+    },
+    "vertexCount": 527015,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/astral-valkyrie-40470c49d6e741fa85bb7ce14bef1e9c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/46d5DN](https://www.meshy.ai/s/46d5DN)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/40470c49d6e741fa85bb7ce14bef1e9c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T04:13:39.930878",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

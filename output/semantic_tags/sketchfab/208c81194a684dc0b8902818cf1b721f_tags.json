@@ -1,0 +1,41 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.8
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        }
+    ],
+    "style": "Toon / Anime",
+    "top_styles": [
+        {
+            "name": "Toon / Anime",
+            "score": 0.95
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Clean"
+    ],
+    "tags": [
+        "character",
+        "woman",
+        "magic"
+    ]
+}

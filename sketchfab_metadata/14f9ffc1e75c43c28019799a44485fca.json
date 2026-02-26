@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-30T00:33:41.567141",
+    "embedUrl": "https://sketchfab.com/models/14f9ffc1e75c43c28019799a44485fca/embed",
+    "faceCount": 1839841,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Església de Sant Climent de Peralta",
+    "publishedAt": "2026-01-30T00:36:29.979217",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "catalunya",
+            "slug": "catalunya",
+            "uri": "https://api.sketchfab.com/v3/tags/catalunya"
+        },
+        {
+            "name": "Catalonia",
+            "slug": "catalonia",
+            "uri": "https://api.sketchfab.com/v3/tags/catalonia"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4cc691c97b9645818c991fd44d7c6e82",
+                "width": 1920,
+                "height": 1080,
+                "size": 158381,
+                "url": "https://media.sketchfab.com/models/14f9ffc1e75c43c28019799a44485fca/thumbnails/20f33d15184845eea5b74180ab1c222b/545f6cc364eb46f5afc73ffcc9cadbe4.jpeg"
+            },
+            {
+                "uid": "b350e54e4b39485ba691ee17127475c8",
+                "width": 1024,
+                "height": 576,
+                "size": 48203,
+                "url": "https://media.sketchfab.com/models/14f9ffc1e75c43c28019799a44485fca/thumbnails/20f33d15184845eea5b74180ab1c222b/de4f9b3d0e3e4dc8b3b92b2b12b52a98.jpeg"
+            },
+            {
+                "uid": "b18d23ccef804e94aebbcde33e6cc459",
+                "width": 720,
+                "height": 405,
+                "size": 26256,
+                "url": "https://media.sketchfab.com/models/14f9ffc1e75c43c28019799a44485fca/thumbnails/20f33d15184845eea5b74180ab1c222b/e8f0b1a4dce145fd8e727a7bfb3f76ff.jpeg"
+            },
+            {
+                "uid": "4c000b26d74e49f08e18267f53f93604",
+                "width": 256,
+                "height": 144,
+                "size": 4740,
+                "url": "https://media.sketchfab.com/models/14f9ffc1e75c43c28019799a44485fca/thumbnails/20f33d15184845eea5b74180ab1c222b/675e99b817ba4af0b0fd6ab30867b516.jpeg"
+            },
+            {
+                "uid": "5b87b1c684ce42099fa73ef6abe29c9a",
+                "width": 64,
+                "height": 36,
+                "size": 1057,
+                "url": "https://media.sketchfab.com/models/14f9ffc1e75c43c28019799a44485fca/thumbnails/20f33d15184845eea5b74180ab1c222b/24a5399def824cafaa2711e0afd6cbf5.jpeg"
+            }
+        ]
+    },
+    "uid": "14f9ffc1e75c43c28019799a44485fca",
+    "uri": "https://api.sketchfab.com/v3/models/14f9ffc1e75c43c28019799a44485fca",
+    "user": {
+        "uid": "3fed98df00054b28b12d2157fefe20d6",
+        "username": "catmedieval24",
+        "displayName": "catmedieval",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/catmedieval24",
+        "avatar": {
+            "uid": "74b4d11881d544cf893cbbdb855b2d83",
+            "uri": "https://api.sketchfab.com/v3/avatars/74b4d11881d544cf893cbbdb855b2d83",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 3206,
+                    "url": "https://media.sketchfab.com/avatars/74b4d11881d544cf893cbbdb855b2d83/f7a4f3cd47534173a80d677bba63ddaf.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 6523,
+                    "url": "https://media.sketchfab.com/avatars/74b4d11881d544cf893cbbdb855b2d83/8b5b02154f2644f794ba4b72da4541ee.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 19648,
+                    "url": "https://media.sketchfab.com/avatars/74b4d11881d544cf893cbbdb855b2d83/e970c134ceb14599989f7b52d52aa8f2.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 23636,
+                    "url": "https://media.sketchfab.com/avatars/74b4d11881d544cf893cbbdb855b2d83/7cd580b2e760424283a28a96c808bc26.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3fed98df00054b28b12d2157fefe20d6"
+    },
+    "vertexCount": 922099,
+    "viewCount": 24,
+    "viewerUrl": "https://sketchfab.com/3d-models/esglesia-de-sant-climent-de-peralta-14f9ffc1e75c43c28019799a44485fca",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Església de Sant Climent de Peralta amb Interior\nhttps://medieval.cat",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/14f9ffc1e75c43c28019799a44485fca/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-04T14:03:42.644366",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

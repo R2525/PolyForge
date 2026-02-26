@@ -1,0 +1,234 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T22:15:44.420309",
+    "embedUrl": "https://sketchfab.com/models/0a10783a2f5c4d408a0a83d6ea8a2b88/embed",
+    "faceCount": 1263406,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Mini Castle Collection",
+    "publishedAt": "2026-02-18T18:30:37.833427",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tower",
+            "slug": "tower",
+            "uri": "https://api.sketchfab.com/v3/tags/tower"
+        },
+        {
+            "name": "mini",
+            "slug": "mini",
+            "uri": "https://api.sketchfab.com/v3/tags/mini"
+        },
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "pack",
+            "slug": "pack",
+            "uri": "https://api.sketchfab.com/v3/tags/pack"
+        },
+        {
+            "name": "miniature",
+            "slug": "miniature",
+            "uri": "https://api.sketchfab.com/v3/tags/miniature"
+        },
+        {
+            "name": "collection",
+            "slug": "collection",
+            "uri": "https://api.sketchfab.com/v3/tags/collection"
+        },
+        {
+            "name": "kingdom",
+            "slug": "kingdom",
+            "uri": "https://api.sketchfab.com/v3/tags/kingdom"
+        },
+        {
+            "name": "3dprinting",
+            "slug": "3dprinting",
+            "uri": "https://api.sketchfab.com/v3/tags/3dprinting"
+        },
+        {
+            "name": "fortress",
+            "slug": "fortress",
+            "uri": "https://api.sketchfab.com/v3/tags/fortress"
+        },
+        {
+            "name": "castles",
+            "slug": "castles",
+            "uri": "https://api.sketchfab.com/v3/tags/castles"
+        },
+        {
+            "name": "castle-medieval",
+            "slug": "castle-medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/castle-medieval"
+        },
+        {
+            "name": "3dprint",
+            "slug": "3dprint",
+            "uri": "https://api.sketchfab.com/v3/tags/3dprint"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f82a5e4bc9a34de0aac56c37c827fa06",
+                "width": 1920,
+                "height": 1080,
+                "size": 122368,
+                "url": "https://media.sketchfab.com/models/0a10783a2f5c4d408a0a83d6ea8a2b88/thumbnails/538d1719ce104580b63b2763a1276c0c/ca74a3656bd94132a2b78aecafc70a8b.jpeg"
+            },
+            {
+                "uid": "9cb2bcec32994b358e6d4a2d78e83271",
+                "width": 1024,
+                "height": 576,
+                "size": 39705,
+                "url": "https://media.sketchfab.com/models/0a10783a2f5c4d408a0a83d6ea8a2b88/thumbnails/538d1719ce104580b63b2763a1276c0c/61864203fa3840bdbd474f78bdd1f9ba.jpeg"
+            },
+            {
+                "uid": "ee435553bcdb44bdaf745a68df5c6829",
+                "width": 720,
+                "height": 405,
+                "size": 23623,
+                "url": "https://media.sketchfab.com/models/0a10783a2f5c4d408a0a83d6ea8a2b88/thumbnails/538d1719ce104580b63b2763a1276c0c/f815871f70974ca2828d89c4b10fd4a3.jpeg"
+            },
+            {
+                "uid": "a5c8274a3ad34409af1715493cb9e75e",
+                "width": 256,
+                "height": 144,
+                "size": 5535,
+                "url": "https://media.sketchfab.com/models/0a10783a2f5c4d408a0a83d6ea8a2b88/thumbnails/538d1719ce104580b63b2763a1276c0c/698a7a7a742f4c98b63426f720e07a42.jpeg"
+            },
+            {
+                "uid": "92227ba7c03648de9f40bb90a05820a7",
+                "width": 64,
+                "height": 36,
+                "size": 1252,
+                "url": "https://media.sketchfab.com/models/0a10783a2f5c4d408a0a83d6ea8a2b88/thumbnails/538d1719ce104580b63b2763a1276c0c/48d4eb0e3e5245d889a157a79726d446.jpeg"
+            }
+        ]
+    },
+    "uid": "0a10783a2f5c4d408a0a83d6ea8a2b88",
+    "uri": "https://api.sketchfab.com/v3/models/0a10783a2f5c4d408a0a83d6ea8a2b88",
+    "user": {
+        "uid": "ba143bd62a364c89ae8f0e9e654b21fa",
+        "username": "AndrewAC",
+        "displayName": "Andrew Chaikovsky",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/AndrewAC",
+        "avatar": {
+            "uid": "34e5637d9ffa4d0abe921ef7012e99a2",
+            "uri": "https://api.sketchfab.com/v3/avatars/34e5637d9ffa4d0abe921ef7012e99a2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1305,
+                    "url": "https://media.sketchfab.com/avatars/34e5637d9ffa4d0abe921ef7012e99a2/4ba419a272024af284846495d4639cce.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1597,
+                    "url": "https://media.sketchfab.com/avatars/34e5637d9ffa4d0abe921ef7012e99a2/6b70781e5ae54e95a1bfdcfb4afde80a.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3297,
+                    "url": "https://media.sketchfab.com/avatars/34e5637d9ffa4d0abe921ef7012e99a2/2836ba79d45744859b5702b22c3badbb.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3755,
+                    "url": "https://media.sketchfab.com/avatars/34e5637d9ffa4d0abe921ef7012e99a2/046a4d7cf0de4f639e5c7fb385bb5320.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ba143bd62a364c89ae8f0e9e654b21fa"
+    },
+    "vertexCount": 635977,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/mini-castle-collection-0a10783a2f5c4d408a0a83d6ea8a2b88",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Mini Castles | 3D Printable**\n\nThis is my collection of 9 miniature castle buildings designed specifically for 3D printing.\n\n**Download Notice:**\nIf you are interested in downloading these models for 3D printing or other purposes, please note that they are currently not available for sale.\nYou can add this page to your bookmarks and check back later. The models may become available in the future.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0a10783a2f5c4d408a0a83d6ea8a2b88/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T18:32:26.025572",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

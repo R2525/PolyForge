@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        },
+        {
+            "name": "Historic",
+            "score": 0.4
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Sculpture",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Gravel",
+        "Stone",
+        "Dusty",
+        "Grainy"
+    ],
+    "tags": [
+        "architectural",
+        "gothic",
+        "stone",
+        "structure",
+        "wall",
+        "arch",
+        "column",
+        "building"
+    ],
+    "model_id_full": "46c33925db764636a527ed7fa47a3479_NAND136_TP01_Kit Modulaire_JérémyLachance",
+    "sketchfab_id": "46c33925db764636a527ed7fa47a3479",
+    "asset_name": "NAND136_TP01_Kit Modulaire_JérémyLachance"
+}

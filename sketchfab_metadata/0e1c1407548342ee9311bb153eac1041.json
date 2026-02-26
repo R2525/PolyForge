@@ -1,0 +1,214 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-16T22:25:55.508709",
+    "embedUrl": "https://sketchfab.com/models/0e1c1407548342ee9311bb153eac1041/embed",
+    "faceCount": 430668,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Ettleton, cross graveslab",
+    "publishedAt": "2025-12-16T22:27:44.884126",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cross",
+            "slug": "cross",
+            "uri": "https://api.sketchfab.com/v3/tags/cross"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "scotland",
+            "slug": "scotland",
+            "uri": "https://api.sketchfab.com/v3/tags/scotland"
+        },
+        {
+            "name": "grave",
+            "slug": "grave",
+            "uri": "https://api.sketchfab.com/v3/tags/grave"
+        },
+        {
+            "name": "kirkyard",
+            "slug": "kirkyard",
+            "uri": "https://api.sketchfab.com/v3/tags/kirkyard"
+        },
+        {
+            "name": "graveslab",
+            "slug": "graveslab",
+            "uri": "https://api.sketchfab.com/v3/tags/graveslab"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "3df-zephyr",
+            "slug": "3df-zephyr",
+            "uri": "https://api.sketchfab.com/v3/tags/3df-zephyr"
+        },
+        {
+            "name": "tomb",
+            "slug": "tomb",
+            "uri": "https://api.sketchfab.com/v3/tags/tomb"
+        },
+        {
+            "name": "ettleton",
+            "slug": "ettleton",
+            "uri": "https://api.sketchfab.com/v3/tags/ettleton"
+        },
+        {
+            "name": "roxburghshire",
+            "slug": "roxburghshire",
+            "uri": "https://api.sketchfab.com/v3/tags/roxburghshire"
+        },
+        {
+            "name": "crosslet",
+            "slug": "crosslet",
+            "uri": "https://api.sketchfab.com/v3/tags/crosslet"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f2536721d6de4a3c8fdaf4fffc59320f",
+                "width": 1920,
+                "height": 1080,
+                "size": 184758,
+                "url": "https://media.sketchfab.com/models/0e1c1407548342ee9311bb153eac1041/thumbnails/117aefeb01a34e7cb5f903ac90194310/d1238b073aca4d6eb086bac0f5816fb7.jpeg"
+            },
+            {
+                "uid": "aa3ad922ffde4f3c89bee083e7b3f176",
+                "width": 1024,
+                "height": 576,
+                "size": 63072,
+                "url": "https://media.sketchfab.com/models/0e1c1407548342ee9311bb153eac1041/thumbnails/117aefeb01a34e7cb5f903ac90194310/f831658da80f40229f896645db9aa6ac.jpeg"
+            },
+            {
+                "uid": "f92aa761ba664cc4b0ff05f671f83e59",
+                "width": 720,
+                "height": 405,
+                "size": 36094,
+                "url": "https://media.sketchfab.com/models/0e1c1407548342ee9311bb153eac1041/thumbnails/117aefeb01a34e7cb5f903ac90194310/5aca149b1d87428d9f77f5e358fddfbe.jpeg"
+            },
+            {
+                "uid": "eeb1568ed84e43698109117ba281a824",
+                "width": 256,
+                "height": 144,
+                "size": 5974,
+                "url": "https://media.sketchfab.com/models/0e1c1407548342ee9311bb153eac1041/thumbnails/117aefeb01a34e7cb5f903ac90194310/5b7eefd50ab74904a49e5003cb107960.jpeg"
+            },
+            {
+                "uid": "b323c6faac19406ab655e13355017d5a",
+                "width": 64,
+                "height": 36,
+                "size": 1118,
+                "url": "https://media.sketchfab.com/models/0e1c1407548342ee9311bb153eac1041/thumbnails/117aefeb01a34e7cb5f903ac90194310/973541604e3444c3b4930b6f5ab37d8d.jpeg"
+            }
+        ]
+    },
+    "uid": "0e1c1407548342ee9311bb153eac1041",
+    "uri": "https://api.sketchfab.com/v3/models/0e1c1407548342ee9311bb153eac1041",
+    "user": {
+        "uid": "06143015200e48e096f3d02a67fb2ad0",
+        "username": "Gnomonsland",
+        "displayName": "Gnomonsland",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Gnomonsland",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/06143015200e48e096f3d02a67fb2ad0"
+    },
+    "vertexCount": 235574,
+    "viewCount": 43,
+    "viewerUrl": "https://sketchfab.com/3d-models/ettleton-cross-graveslab-0e1c1407548342ee9311bb153eac1041",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Built into the display wall at Ettleton kirkyard is this fragment of a medieval cross-graveslab. It bears a cross-crosslet, flanked by what appears to be either  the pointed blade of a sword or possibly plough blade, and a narrower object, possibly either a sword, or the shaft of an axe. If the blade is that of a sword, it is likely that this is in fact the lower end of the slab, indicating a double ended cross, rather than the conventional calvary cross. 3D model from photos generated with photogrammetry software 3DF Zephyr v7.007 processing 109 images",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0e1c1407548342ee9311bb153eac1041/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "3DF-Zephyr-Lite",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-28T12:51:06.502492",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 3
+}

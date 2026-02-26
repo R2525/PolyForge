@@ -1,0 +1,37 @@
+{
+    "category": "Nature & Plants",
+    "top_genres": [
+        {
+            "name": "Natural",
+            "score": 0.8
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Abstract",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Dusty",
+        "Clean"
+    ],
+    "tags": [
+        "stone",
+        "rock",
+        "ground"
+    ]
+}

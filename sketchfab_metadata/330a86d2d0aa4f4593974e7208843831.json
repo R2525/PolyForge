@@ -1,0 +1,140 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T09:53:14.162676",
+    "embedUrl": "https://sketchfab.com/models/330a86d2d0aa4f4593974e7208843831/embed",
+    "faceCount": 323578,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "world",
+    "publishedAt": "2026-02-24T09:53:43.745477",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "a/d",
+            "slug": "ad",
+            "uri": "https://api.sketchfab.com/v3/tags/ad"
+        },
+        {
+            "name": "mineways",
+            "slug": "mineways",
+            "uri": "https://api.sketchfab.com/v3/tags/mineways"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "asdasdasdasads",
+            "slug": "asdasdasdasads",
+            "uri": "https://api.sketchfab.com/v3/tags/asdasdasdasads"
+        },
+        {
+            "name": "asdaspo",
+            "slug": "asdaspo",
+            "uri": "https://api.sketchfab.com/v3/tags/asdaspo"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7d2beadbcdd247b79adec9898686f01e",
+                "width": 1920,
+                "height": 1080,
+                "size": 83062,
+                "url": "https://media.sketchfab.com/models/330a86d2d0aa4f4593974e7208843831/thumbnails/5257af7700f148ab8fa86f5a4b6b133b/b2da2a7b5d40473081e83e782490d437.jpeg"
+            },
+            {
+                "uid": "27645f0a9a984bd5b291367e115b5bad",
+                "width": 1024,
+                "height": 576,
+                "size": 22949,
+                "url": "https://media.sketchfab.com/models/330a86d2d0aa4f4593974e7208843831/thumbnails/5257af7700f148ab8fa86f5a4b6b133b/c899df9200fc479d900a5170d13e6348.jpeg"
+            },
+            {
+                "uid": "3414f12f795d446cb6e50d80c7692975",
+                "width": 720,
+                "height": 405,
+                "size": 12990,
+                "url": "https://media.sketchfab.com/models/330a86d2d0aa4f4593974e7208843831/thumbnails/5257af7700f148ab8fa86f5a4b6b133b/353d31cb6c1e408c8de2a89a937ea7fa.jpeg"
+            },
+            {
+                "uid": "950aae9de97141b79b42cb6788404928",
+                "width": 256,
+                "height": 144,
+                "size": 3122,
+                "url": "https://media.sketchfab.com/models/330a86d2d0aa4f4593974e7208843831/thumbnails/5257af7700f148ab8fa86f5a4b6b133b/301601ca3eee465f95a065b76793aa6b.jpeg"
+            },
+            {
+                "uid": "b321a68d059648f1b524c56dcc1f553f",
+                "width": 64,
+                "height": 36,
+                "size": 953,
+                "url": "https://media.sketchfab.com/models/330a86d2d0aa4f4593974e7208843831/thumbnails/5257af7700f148ab8fa86f5a4b6b133b/3bb01181bd5d498a871f4ce701aedde9.jpeg"
+            }
+        ]
+    },
+    "uid": "330a86d2d0aa4f4593974e7208843831",
+    "uri": "https://api.sketchfab.com/v3/models/330a86d2d0aa4f4593974e7208843831",
+    "user": {
+        "uid": "9def9e8fede545d0b96dfadd213051ec",
+        "username": "razzersssss123",
+        "displayName": "razzersssss123",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/razzersssss123",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9def9e8fede545d0b96dfadd213051ec"
+    },
+    "vertexCount": 238152,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/world-330a86d2d0aa4f4593974e7208843831",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/330a86d2d0aa4f4593974e7208843831/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "mineways",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T09:53:43.706069",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 89
+}

@@ -1,0 +1,41 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.8
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.7
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.9
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Clean"
+    ],
+    "tags": [
+        "axe",
+        "weapon",
+        "glowing"
+    ]
+}

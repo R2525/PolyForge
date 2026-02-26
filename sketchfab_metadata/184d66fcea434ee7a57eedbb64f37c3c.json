@@ -1,0 +1,152 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T02:36:49.809125",
+    "embedUrl": "https://sketchfab.com/models/184d66fcea434ee7a57eedbb64f37c3c/embed",
+    "faceCount": 80000,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "LOW POLY WEAPON",
+    "publishedAt": "2026-02-25T02:38:04.480542",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a1135700b7934a51b04b3a87ea8db723",
+                "width": 1920,
+                "height": 1080,
+                "size": 51670,
+                "url": "https://media.sketchfab.com/models/184d66fcea434ee7a57eedbb64f37c3c/thumbnails/f4761a5466a143ea8323e34b00d0a05f/7aa37c7b10694d85b0d6be250f60bd84.jpeg"
+            },
+            {
+                "uid": "d2544658dea846be9b73cd3f60288946",
+                "width": 1024,
+                "height": 576,
+                "size": 17797,
+                "url": "https://media.sketchfab.com/models/184d66fcea434ee7a57eedbb64f37c3c/thumbnails/f4761a5466a143ea8323e34b00d0a05f/cf3c1916ae3e4999a7346f69ba063502.jpeg"
+            },
+            {
+                "uid": "f68344a74ebc47288408da18cb7c3d85",
+                "width": 720,
+                "height": 405,
+                "size": 10279,
+                "url": "https://media.sketchfab.com/models/184d66fcea434ee7a57eedbb64f37c3c/thumbnails/f4761a5466a143ea8323e34b00d0a05f/649b0181d8754f118755cab21bf962a2.jpeg"
+            },
+            {
+                "uid": "a42c4bc51d04407fa3b0aa1208279e42",
+                "width": 256,
+                "height": 144,
+                "size": 2481,
+                "url": "https://media.sketchfab.com/models/184d66fcea434ee7a57eedbb64f37c3c/thumbnails/f4761a5466a143ea8323e34b00d0a05f/c3be36c56953432cb46274471950e443.jpeg"
+            },
+            {
+                "uid": "e8bb372c549045a38f0e54a616b8d9d7",
+                "width": 64,
+                "height": 36,
+                "size": 844,
+                "url": "https://media.sketchfab.com/models/184d66fcea434ee7a57eedbb64f37c3c/thumbnails/f4761a5466a143ea8323e34b00d0a05f/8dd07239a3b44e58953610ae42be2f98.jpeg"
+            }
+        ]
+    },
+    "uid": "184d66fcea434ee7a57eedbb64f37c3c",
+    "uri": "https://api.sketchfab.com/v3/models/184d66fcea434ee7a57eedbb64f37c3c",
+    "user": {
+        "uid": "1885cd06f42043aeb32a8c109c664e68",
+        "username": "jmaflercherk12",
+        "displayName": "LILJSWAGBOY",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/jmaflercherk12",
+        "avatar": {
+            "uid": "ed7db16581494e92ad47fcd4abac31a2",
+            "uri": "https://api.sketchfab.com/v3/avatars/ed7db16581494e92ad47fcd4abac31a2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1196,
+                    "url": "https://media.sketchfab.com/avatars/ed7db16581494e92ad47fcd4abac31a2/872f248a40634f35aa47fd0c52fb9690.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1882,
+                    "url": "https://media.sketchfab.com/avatars/ed7db16581494e92ad47fcd4abac31a2/732796e70b6b415f8827866a4e65075f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4969,
+                    "url": "https://media.sketchfab.com/avatars/ed7db16581494e92ad47fcd4abac31a2/3c12df44dd2744f4b2531a1c27917af1.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5851,
+                    "url": "https://media.sketchfab.com/avatars/ed7db16581494e92ad47fcd4abac31a2/92ccc510f7d84653a9319a8ed1421093.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1885cd06f42043aeb32a8c109c664e68"
+    },
+    "vertexCount": 39919,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-weapon-184d66fcea434ee7a57eedbb64f37c3c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "LOW POLY WEAPON  .",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/184d66fcea434ee7a57eedbb64f37c3c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T02:38:04.684099",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

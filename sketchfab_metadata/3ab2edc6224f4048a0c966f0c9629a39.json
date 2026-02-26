@@ -1,0 +1,270 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-10T17:20:37.104142",
+    "embedUrl": "https://sketchfab.com/models/3ab2edc6224f4048a0c966f0c9629a39/embed",
+    "faceCount": 36088,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Trauma Team Surgical Cart – Cyberpunk 2077",
+    "publishedAt": "2026-02-10T17:43:48.104647",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "room",
+            "slug": "room",
+            "uri": "https://api.sketchfab.com/v3/tags/room"
+        },
+        {
+            "name": "fiction",
+            "slug": "fiction",
+            "uri": "https://api.sketchfab.com/v3/tags/fiction"
+        },
+        {
+            "name": "surgical",
+            "slug": "surgical",
+            "uri": "https://api.sketchfab.com/v3/tags/surgical"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "cart",
+            "slug": "cart",
+            "uri": "https://api.sketchfab.com/v3/tags/cart"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "emergency",
+            "slug": "emergency",
+            "uri": "https://api.sketchfab.com/v3/tags/emergency"
+        },
+        {
+            "name": "gritty",
+            "slug": "gritty",
+            "uri": "https://api.sketchfab.com/v3/tags/gritty"
+        },
+        {
+            "name": "hospital",
+            "slug": "hospital",
+            "uri": "https://api.sketchfab.com/v3/tags/hospital"
+        },
+        {
+            "name": "science",
+            "slug": "science",
+            "uri": "https://api.sketchfab.com/v3/tags/science"
+        },
+        {
+            "name": "team",
+            "slug": "team",
+            "uri": "https://api.sketchfab.com/v3/tags/team"
+        },
+        {
+            "name": "Surgery",
+            "slug": "surgery",
+            "uri": "https://api.sketchfab.com/v3/tags/surgery"
+        },
+        {
+            "name": "Real-time",
+            "slug": "real-time",
+            "uri": "https://api.sketchfab.com/v3/tags/real-time"
+        },
+        {
+            "name": "dystopian",
+            "slug": "dystopian",
+            "uri": "https://api.sketchfab.com/v3/tags/dystopian"
+        },
+        {
+            "name": "operating",
+            "slug": "operating",
+            "uri": "https://api.sketchfab.com/v3/tags/operating"
+        },
+        {
+            "name": "trauma",
+            "slug": "trauma",
+            "uri": "https://api.sketchfab.com/v3/tags/trauma"
+        },
+        {
+            "name": "cyberpunk2077",
+            "slug": "cyberpunk2077",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk2077"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "medical",
+            "slug": "medical",
+            "uri": "https://api.sketchfab.com/v3/tags/medical"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "36f6d5232d964aa7938bb6072b77a88a",
+                "width": 1920,
+                "height": 1080,
+                "size": 96547,
+                "url": "https://media.sketchfab.com/models/3ab2edc6224f4048a0c966f0c9629a39/thumbnails/c25c625442784106bb94d0654458e0b2/6ee56f9dbc584920900a62ada78b710c.jpeg"
+            },
+            {
+                "uid": "fe0f5886c3824041bd56b2f0dfcd27ad",
+                "width": 1024,
+                "height": 576,
+                "size": 31578,
+                "url": "https://media.sketchfab.com/models/3ab2edc6224f4048a0c966f0c9629a39/thumbnails/c25c625442784106bb94d0654458e0b2/23ba8fff6eb0482891835ec439be622c.jpeg"
+            },
+            {
+                "uid": "db93d1c1afaf409c8eded12766b174d3",
+                "width": 720,
+                "height": 405,
+                "size": 18386,
+                "url": "https://media.sketchfab.com/models/3ab2edc6224f4048a0c966f0c9629a39/thumbnails/c25c625442784106bb94d0654458e0b2/70cfd328b2634149a44b54f6c64c5de1.jpeg"
+            },
+            {
+                "uid": "30a4d09fda67498f9765383463805420",
+                "width": 256,
+                "height": 144,
+                "size": 4132,
+                "url": "https://media.sketchfab.com/models/3ab2edc6224f4048a0c966f0c9629a39/thumbnails/c25c625442784106bb94d0654458e0b2/46945ad4ef0a4fcf8d3713a39f3e5210.jpeg"
+            },
+            {
+                "uid": "8cc010813ecc4d68b1ce18e1ee1952c2",
+                "width": 64,
+                "height": 36,
+                "size": 1064,
+                "url": "https://media.sketchfab.com/models/3ab2edc6224f4048a0c966f0c9629a39/thumbnails/c25c625442784106bb94d0654458e0b2/9e1e263104b54f0488dfb08cec45b7d7.jpeg"
+            }
+        ]
+    },
+    "uid": "3ab2edc6224f4048a0c966f0c9629a39",
+    "uri": "https://api.sketchfab.com/v3/models/3ab2edc6224f4048a0c966f0c9629a39",
+    "user": {
+        "uid": "01371dba578545fc814a3477acf7bb52",
+        "username": "Cahousse24",
+        "displayName": "MAURE Axel",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Cahousse24",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/01371dba578545fc814a3477acf7bb52"
+    },
+    "vertexCount": 18654,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/trauma-team-surgical-cart-cyberpunk-2077-3ab2edc6224f4048a0c966f0c9629a39",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This 3D asset represents a mobile medical cart used by Trauma Team in a dystopian cyberpunk environment inspired by Cyberpunk 2077.\n\nThe scene captures a critical moment: the cart is currently being used during an emergency operation on a severely injured patient, just recovered after a violent incident. The operating room is in full chaos, and the surgeons are working under extreme pressure.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3ab2edc6224f4048a0c966f0c9629a39/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-10T17:49:55.994669",
+    "pbrType": "metalness",
+    "textureCount": 20,
+    "materialCount": 4
+}

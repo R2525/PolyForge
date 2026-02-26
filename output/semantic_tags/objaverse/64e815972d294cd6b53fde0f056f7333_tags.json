@@ -1,0 +1,41 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.7
+        },
+        {
+            "name": "Military",
+            "score": 0.6
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Abstract",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Dusty",
+        "Clean"
+    ],
+    "tags": [
+        "armor",
+        "shield",
+        "weapon"
+    ]
+}

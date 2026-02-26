@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T07:19:06.192637",
+    "embedUrl": "https://sketchfab.com/models/07d415145ac84ed3becfdb0467a89042/embed",
+    "faceCount": 26528,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Airborn Clone Trooper Helmet",
+    "publishedAt": "2026-02-22T07:20:43.681871",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "mech",
+            "slug": "mech",
+            "uri": "https://api.sketchfab.com/v3/tags/mech"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "air",
+            "slug": "air",
+            "uri": "https://api.sketchfab.com/v3/tags/air"
+        },
+        {
+            "name": "war",
+            "slug": "war",
+            "uri": "https://api.sketchfab.com/v3/tags/war"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "space",
+            "slug": "space",
+            "uri": "https://api.sketchfab.com/v3/tags/space"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5969b8e3948b4e4799ffaeed6bffb551",
+                "width": 1920,
+                "height": 1080,
+                "size": 86159,
+                "url": "https://media.sketchfab.com/models/07d415145ac84ed3becfdb0467a89042/thumbnails/49768db8b2e54b8ea68e4dba90ff9419/5bb4dd4679a040bab533de5f08348241.jpeg"
+            },
+            {
+                "uid": "ec2e38720ad04e7290fe72df4b834e94",
+                "width": 1024,
+                "height": 576,
+                "size": 26309,
+                "url": "https://media.sketchfab.com/models/07d415145ac84ed3becfdb0467a89042/thumbnails/49768db8b2e54b8ea68e4dba90ff9419/3417b7caae1a424bbe07f7803d1e2407.jpeg"
+            },
+            {
+                "uid": "46ce18d4c8534b82aa06083664d1ac90",
+                "width": 720,
+                "height": 405,
+                "size": 14642,
+                "url": "https://media.sketchfab.com/models/07d415145ac84ed3becfdb0467a89042/thumbnails/49768db8b2e54b8ea68e4dba90ff9419/60592d765a2f4362b1d1e6218f4d67e2.jpeg"
+            },
+            {
+                "uid": "7152bcd8f6084da29373d04e06641670",
+                "width": 256,
+                "height": 144,
+                "size": 3078,
+                "url": "https://media.sketchfab.com/models/07d415145ac84ed3becfdb0467a89042/thumbnails/49768db8b2e54b8ea68e4dba90ff9419/7170bd38e6054f1c85d72d3ce6980d73.jpeg"
+            },
+            {
+                "uid": "be740681bc31424898cbc5861ef06692",
+                "width": 64,
+                "height": 36,
+                "size": 964,
+                "url": "https://media.sketchfab.com/models/07d415145ac84ed3becfdb0467a89042/thumbnails/49768db8b2e54b8ea68e4dba90ff9419/a0e68f93d334420ba775d176dfefd920.jpeg"
+            }
+        ]
+    },
+    "uid": "07d415145ac84ed3becfdb0467a89042",
+    "uri": "https://api.sketchfab.com/v3/models/07d415145ac84ed3becfdb0467a89042",
+    "user": {
+        "uid": "f34d1b4b74ef4bbaa6011152148c9b9e",
+        "username": "prasadcherry000",
+        "displayName": "prasadcherry000",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/prasadcherry000",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f34d1b4b74ef4bbaa6011152148c9b9e"
+    },
+    "vertexCount": 13719,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/airborn-clone-trooper-helmet-07d415145ac84ed3becfdb0467a89042",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the source format.The converted file is intended for web viewing only. In the original file, the following are fully preserved:✔ native scene structure✔ unsimplified materials✔ correct PBR texture maps✔ correct object namesIf you intend to use the asset in a production environment, choose the source file.A Airborn Clone Trooper Helmet from Star Wars The Clone Wars",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/07d415145ac84ed3becfdb0467a89042/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T07:20:43.867954",
+    "pbrType": "metalness",
+    "textureCount": 6,
+    "materialCount": 5
+}

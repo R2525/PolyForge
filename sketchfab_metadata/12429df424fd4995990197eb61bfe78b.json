@@ -1,0 +1,229 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-05T09:20:12.818191",
+    "embedUrl": "https://sketchfab.com/models/12429df424fd4995990197eb61bfe78b/embed",
+    "faceCount": 1776,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Basic Sci-Fi Crate",
+    "publishedAt": "2026-02-05T09:46:45.744849",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "portal",
+            "slug": "portal",
+            "uri": "https://api.sketchfab.com/v3/tags/portal"
+        },
+        {
+            "name": "crate",
+            "slug": "crate",
+            "uri": "https://api.sketchfab.com/v3/tags/crate"
+        },
+        {
+            "name": "startrek",
+            "slug": "startrek",
+            "uri": "https://api.sketchfab.com/v3/tags/startrek"
+        },
+        {
+            "name": "crates",
+            "slug": "crates",
+            "uri": "https://api.sketchfab.com/v3/tags/crates"
+        },
+        {
+            "name": "masseffect",
+            "slug": "masseffect",
+            "uri": "https://api.sketchfab.com/v3/tags/masseffect"
+        },
+        {
+            "name": "halo",
+            "slug": "halo",
+            "uri": "https://api.sketchfab.com/v3/tags/halo"
+        },
+        {
+            "name": "crate-chest",
+            "slug": "crate-chest",
+            "uri": "https://api.sketchfab.com/v3/tags/crate-chest"
+        },
+        {
+            "name": "crate-box",
+            "slug": "crate-box",
+            "uri": "https://api.sketchfab.com/v3/tags/crate-box"
+        },
+        {
+            "name": "scifiobjects",
+            "slug": "scifiobjects",
+            "uri": "https://api.sketchfab.com/v3/tags/scifiobjects"
+        },
+        {
+            "name": "scifiprops",
+            "slug": "scifiprops",
+            "uri": "https://api.sketchfab.com/v3/tags/scifiprops"
+        },
+        {
+            "name": "scifimodels",
+            "slug": "scifimodels",
+            "uri": "https://api.sketchfab.com/v3/tags/scifimodels"
+        },
+        {
+            "name": "scifibuilding",
+            "slug": "scifibuilding",
+            "uri": "https://api.sketchfab.com/v3/tags/scifibuilding"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a5829b4c94f740b2b7ae3e17a66a32b8",
+                "width": 1920,
+                "height": 1080,
+                "size": 95432,
+                "url": "https://media.sketchfab.com/models/12429df424fd4995990197eb61bfe78b/thumbnails/4067570c142444f4b36118c4ddd79715/3ea9ed9ceec94cb0b9ff2c626a9300a8.jpeg"
+            },
+            {
+                "uid": "2f98cd3a21ef4f5fa54a83f1d20fb800",
+                "width": 1024,
+                "height": 576,
+                "size": 24149,
+                "url": "https://media.sketchfab.com/models/12429df424fd4995990197eb61bfe78b/thumbnails/4067570c142444f4b36118c4ddd79715/43eff4b61f434a79982332a2127089c2.jpeg"
+            },
+            {
+                "uid": "9abb94f1a306481489171c4e68474a19",
+                "width": 720,
+                "height": 405,
+                "size": 13050,
+                "url": "https://media.sketchfab.com/models/12429df424fd4995990197eb61bfe78b/thumbnails/4067570c142444f4b36118c4ddd79715/e6d62203e27645448c15a903b3b159d6.jpeg"
+            },
+            {
+                "uid": "dc13086c70d444cd97cb4a33c25eeab5",
+                "width": 256,
+                "height": 144,
+                "size": 2693,
+                "url": "https://media.sketchfab.com/models/12429df424fd4995990197eb61bfe78b/thumbnails/4067570c142444f4b36118c4ddd79715/7bbce70a07e1450aadc589a5455924b8.jpeg"
+            },
+            {
+                "uid": "9af4102900af4b9c94e96aeb7306d3b5",
+                "width": 64,
+                "height": 36,
+                "size": 896,
+                "url": "https://media.sketchfab.com/models/12429df424fd4995990197eb61bfe78b/thumbnails/4067570c142444f4b36118c4ddd79715/293c22065427488897fdcf4140fcc5cd.jpeg"
+            }
+        ]
+    },
+    "uid": "12429df424fd4995990197eb61bfe78b",
+    "uri": "https://api.sketchfab.com/v3/models/12429df424fd4995990197eb61bfe78b",
+    "user": {
+        "uid": "9edd6dc75a4c4230aeaa433db84782f0",
+        "username": "C4113S",
+        "displayName": "C4113S",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/C4113S",
+        "avatar": {
+            "uid": "32e933d0a91449dfa2ea919eaf837a8a",
+            "uri": "https://api.sketchfab.com/v3/avatars/32e933d0a91449dfa2ea919eaf837a8a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 955,
+                    "url": "https://media.sketchfab.com/avatars/32e933d0a91449dfa2ea919eaf837a8a/c2ab982252b942e7b1f354ebdca7c0d7.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1291,
+                    "url": "https://media.sketchfab.com/avatars/32e933d0a91449dfa2ea919eaf837a8a/439fedc119114385adca93b61ae2f458.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3042,
+                    "url": "https://media.sketchfab.com/avatars/32e933d0a91449dfa2ea919eaf837a8a/c1cc8ef2b4104270a39f07401599d3a8.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3518,
+                    "url": "https://media.sketchfab.com/avatars/32e933d0a91449dfa2ea919eaf837a8a/d73aefa67bd844c1b78a350d6e93ae18.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9edd6dc75a4c4230aeaa433db84782f0"
+    },
+    "vertexCount": 890,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/basic-sci-fi-crate-12429df424fd4995990197eb61bfe78b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A basic Sci-Fi crate since I hated how bad most of the free options were.\nCould fit into most Sci-Fi universes; Halo, Star Wars, Mass Effect, Portal etc.\n\nAttribution would be appreciated but like... its a box... so no worries.\n\nMade in Blender and textured in Substance Painter :)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/12429df424fd4995990197eb61bfe78b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-05T09:48:31.360334",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,214 @@
+{
+    "animationCount": 10,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-05T18:59:41.711141",
+    "embedUrl": "https://sketchfab.com/models/424e37c959c94003901e368a2b94c322/embed",
+    "faceCount": 6396,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Skeleton Dog - Undead Army Scout Lv2",
+    "publishedAt": "2026-02-05T19:10:17.215227",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "skeleton",
+            "slug": "skeleton",
+            "uri": "https://api.sketchfab.com/v3/tags/skeleton"
+        },
+        {
+            "name": "dog",
+            "slug": "dog",
+            "uri": "https://api.sketchfab.com/v3/tags/dog"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "undead",
+            "slug": "undead",
+            "uri": "https://api.sketchfab.com/v3/tags/undead"
+        },
+        {
+            "name": "Gradient",
+            "slug": "gradient",
+            "uri": "https://api.sketchfab.com/v3/tags/gradient"
+        },
+        {
+            "name": "gradienttexture",
+            "slug": "gradienttexture",
+            "uri": "https://api.sketchfab.com/v3/tags/gradienttexture"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "animation",
+            "slug": "animation",
+            "uri": "https://api.sketchfab.com/v3/tags/animation"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "undead-army",
+            "slug": "undead-army",
+            "uri": "https://api.sketchfab.com/v3/tags/undead-army"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2a4640eca4e14f4389b41f48e36d92eb",
+                "width": 1920,
+                "height": 1080,
+                "size": 75000,
+                "url": "https://media.sketchfab.com/models/424e37c959c94003901e368a2b94c322/thumbnails/86cf4c2eb4a94e96a36303ea34c86ed2/f974f770c01a4b9a9bef48a02f52685e.jpeg"
+            },
+            {
+                "uid": "acf772618a7149acbcd8b433a202f2dc",
+                "width": 1024,
+                "height": 576,
+                "size": 25287,
+                "url": "https://media.sketchfab.com/models/424e37c959c94003901e368a2b94c322/thumbnails/86cf4c2eb4a94e96a36303ea34c86ed2/6c3fbc08ee3c44fb88b7b54f35b17c7d.jpeg"
+            },
+            {
+                "uid": "4b86430148794ba7be8ddd577bd5f2dc",
+                "width": 720,
+                "height": 405,
+                "size": 15483,
+                "url": "https://media.sketchfab.com/models/424e37c959c94003901e368a2b94c322/thumbnails/86cf4c2eb4a94e96a36303ea34c86ed2/cb44a2ba79a140498c5e22722aa8ba13.jpeg"
+            },
+            {
+                "uid": "5c4d89829cfb4fc88d7c7502142d5dcd",
+                "width": 256,
+                "height": 144,
+                "size": 3742,
+                "url": "https://media.sketchfab.com/models/424e37c959c94003901e368a2b94c322/thumbnails/86cf4c2eb4a94e96a36303ea34c86ed2/fb054196c8be4a99ab77861f29d057b3.jpeg"
+            },
+            {
+                "uid": "2585e114c3e9451c87af1f4b8bcdf6fe",
+                "width": 64,
+                "height": 36,
+                "size": 1072,
+                "url": "https://media.sketchfab.com/models/424e37c959c94003901e368a2b94c322/thumbnails/86cf4c2eb4a94e96a36303ea34c86ed2/1c6786c70b0b407d84cfc1b3249ef339.jpeg"
+            }
+        ]
+    },
+    "uid": "424e37c959c94003901e368a2b94c322",
+    "uri": "https://api.sketchfab.com/v3/models/424e37c959c94003901e368a2b94c322",
+    "user": {
+        "uid": "a84b2d4b848d4802b5f5b981fbcb5678",
+        "username": "guigodead",
+        "displayName": "guigodead",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/guigodead",
+        "avatar": {
+            "uid": "cee89517489444259184ab26489174ff",
+            "uri": "https://api.sketchfab.com/v3/avatars/cee89517489444259184ab26489174ff",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2772,
+                    "url": "https://media.sketchfab.com/avatars/cee89517489444259184ab26489174ff/60c216f6a59045e48d176613474907e8.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5614,
+                    "url": "https://media.sketchfab.com/avatars/cee89517489444259184ab26489174ff/2606c2a411124b139f6a1b78c2d99f74.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 18103,
+                    "url": "https://media.sketchfab.com/avatars/cee89517489444259184ab26489174ff/70c690b18dd243fab9875e5515ddbe9c.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 22146,
+                    "url": "https://media.sketchfab.com/avatars/cee89517489444259184ab26489174ff/559d80fe64754e2fa10c3e6aa630634c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a84b2d4b848d4802b5f5b981fbcb5678"
+    },
+    "vertexCount": 3391,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/skeleton-dog-undead-army-scout-lv2-424e37c959c94003901e368a2b94c322",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "# Info\n\n - Made in Blender\n - 512x512 textures\n\n# Statistics\n\n - 10 Animations\n - 3,391 vertices\n - 9,696 Edges\n - 6,396 Tris\n\n# Other stuff\n\nThis model is part of an asset pack I'm working on. The asset pack has an undead army theme, and this Skeleton Dog  is meant to be the equivalent of a Scout of the faction. I plan to post the other units here on SketchFab as soon as they are ready.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/424e37c959c94003901e368a2b94c322/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-05T19:29:39.967907",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

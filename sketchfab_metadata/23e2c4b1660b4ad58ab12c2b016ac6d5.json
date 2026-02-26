@@ -1,0 +1,204 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-27T17:19:29.552649",
+    "embedUrl": "https://sketchfab.com/models/23e2c4b1660b4ad58ab12c2b016ac6d5/embed",
+    "faceCount": 1400,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Customizable Pavise Shield",
+    "publishedAt": "2025-12-28T12:17:11.639234",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "crossbow",
+            "slug": "crossbow",
+            "uri": "https://api.sketchfab.com/v3/tags/crossbow"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "Heraldry",
+            "slug": "heraldry",
+            "uri": "https://api.sketchfab.com/v3/tags/heraldry"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "customizable",
+            "slug": "customizable",
+            "uri": "https://api.sketchfab.com/v3/tags/customizable"
+        },
+        {
+            "name": "pavise",
+            "slug": "pavise",
+            "uri": "https://api.sketchfab.com/v3/tags/pavise"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "66d19e09c5be4fadbd4672aff7b2dcca",
+                "width": 1920,
+                "height": 1080,
+                "size": 157659,
+                "url": "https://media.sketchfab.com/models/23e2c4b1660b4ad58ab12c2b016ac6d5/thumbnails/78b055f5a9184bfea10ccf9ea1e496fa/85defc19c04242deacbcc0a9a36baf47.jpeg"
+            },
+            {
+                "uid": "5994aabcea834d3c84cc713af04a8596",
+                "width": 1024,
+                "height": 576,
+                "size": 47933,
+                "url": "https://media.sketchfab.com/models/23e2c4b1660b4ad58ab12c2b016ac6d5/thumbnails/78b055f5a9184bfea10ccf9ea1e496fa/39dd5aacf5134cccaa808217eed6e7d1.jpeg"
+            },
+            {
+                "uid": "bd1d97c5bcda4ae888341e83279900ca",
+                "width": 720,
+                "height": 405,
+                "size": 26855,
+                "url": "https://media.sketchfab.com/models/23e2c4b1660b4ad58ab12c2b016ac6d5/thumbnails/78b055f5a9184bfea10ccf9ea1e496fa/15ba7cda084f4e5d811b64d8b03e5e74.jpeg"
+            },
+            {
+                "uid": "61efc5bb49b844379174b922ab7165fc",
+                "width": 256,
+                "height": 144,
+                "size": 5318,
+                "url": "https://media.sketchfab.com/models/23e2c4b1660b4ad58ab12c2b016ac6d5/thumbnails/78b055f5a9184bfea10ccf9ea1e496fa/bda0e6f39204447a965a12b322c51460.jpeg"
+            },
+            {
+                "uid": "380bfca606bc4a249ef4361cd7b78cf4",
+                "width": 64,
+                "height": 36,
+                "size": 1155,
+                "url": "https://media.sketchfab.com/models/23e2c4b1660b4ad58ab12c2b016ac6d5/thumbnails/78b055f5a9184bfea10ccf9ea1e496fa/187b914f16b6442a8353ede9b139f833.jpeg"
+            }
+        ]
+    },
+    "uid": "23e2c4b1660b4ad58ab12c2b016ac6d5",
+    "uri": "https://api.sketchfab.com/v3/models/23e2c4b1660b4ad58ab12c2b016ac6d5",
+    "user": {
+        "uid": "ac95ae15442647919161df16e9d21151",
+        "username": "MelonMan",
+        "displayName": "MelonMan",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/MelonMan",
+        "avatar": {
+            "uid": "c0b7a861789c43e0803a724935693019",
+            "uri": "https://api.sketchfab.com/v3/avatars/c0b7a861789c43e0803a724935693019",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 652,
+                    "url": "https://media.sketchfab.com/avatars/c0b7a861789c43e0803a724935693019/49553ef8519740d4a924f38364e82e67.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1089,
+                    "url": "https://media.sketchfab.com/avatars/c0b7a861789c43e0803a724935693019/9a057784a9b847cb88e945f310d5af89.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2321,
+                    "url": "https://media.sketchfab.com/avatars/c0b7a861789c43e0803a724935693019/4f42773988fc433b8f817d3515bff312.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2643,
+                    "url": "https://media.sketchfab.com/avatars/c0b7a861789c43e0803a724935693019/19761eefbbca45018bdbbce7f1ce099a.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ac95ae15442647919161df16e9d21151"
+    },
+    "vertexCount": 708,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/customizable-pavise-shield-23e2c4b1660b4ad58ab12c2b016ac6d5",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Buy now on Fab:** https://www.fab.com/listings/1cf1872b-3952-4aac-bd62-1ebeb38afc50\n\nA medieval Pavise with high quality PBR textures in 1024x1024 inclusding Albedo, Roughness and normal maps.\nThe Shields design can be easily **customized** with your own colors and/or coat of arms by altering the** included Photoshop file**.\nThe model is low poly and gameready optimized.\nIf you have any questions, please feel free to contact me!\n\n*Please note that the heraldry used in this example texture is not part of the model and is just used for visualization!*",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/23e2c4b1660b4ad58ab12c2b016ac6d5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-28T13:28:04.902965",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 3
+}

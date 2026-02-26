@@ -1,0 +1,114 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 1,
+    "createdAt": "2025-11-25T12:32:23.959893",
+    "embedUrl": "https://sketchfab.com/models/2871935428a74e34ae2ef1ad74aaf874/embed",
+    "faceCount": 423866,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Racks DCENTER",
+    "publishedAt": "2025-11-25T12:41:03.010980",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5e32966a589e46e49487dffb1ea90206",
+                "width": 1920,
+                "height": 1080,
+                "size": 238817,
+                "url": "https://media.sketchfab.com/models/2871935428a74e34ae2ef1ad74aaf874/thumbnails/b5693ed6fb0a4d928f197114e048129b/13985e9e45f1459293d89e2104971a30.jpeg"
+            },
+            {
+                "uid": "a069b85141b14ea89ae829ff0de5bac6",
+                "width": 1024,
+                "height": 576,
+                "size": 33663,
+                "url": "https://media.sketchfab.com/models/2871935428a74e34ae2ef1ad74aaf874/thumbnails/b5693ed6fb0a4d928f197114e048129b/3130e30db0044bf29121f2013b82def7.jpeg"
+            },
+            {
+                "uid": "ed0baef5c5394858a5d2f1ea4042f1e4",
+                "width": 720,
+                "height": 405,
+                "size": 15949,
+                "url": "https://media.sketchfab.com/models/2871935428a74e34ae2ef1ad74aaf874/thumbnails/b5693ed6fb0a4d928f197114e048129b/61d35d09ff3141a0aeb72b7cd20ba77d.jpeg"
+            },
+            {
+                "uid": "a5236ef2ab8642a09a66e5373808c710",
+                "width": 256,
+                "height": 144,
+                "size": 2692,
+                "url": "https://media.sketchfab.com/models/2871935428a74e34ae2ef1ad74aaf874/thumbnails/b5693ed6fb0a4d928f197114e048129b/0c54da1b93e44fbaae75660aeb5cf892.jpeg"
+            },
+            {
+                "uid": "29820f9c81984d8a98bee546395d24fb",
+                "width": 64,
+                "height": 36,
+                "size": 868,
+                "url": "https://media.sketchfab.com/models/2871935428a74e34ae2ef1ad74aaf874/thumbnails/b5693ed6fb0a4d928f197114e048129b/75ffd71579d24edd83a0e43d4952f4da.jpeg"
+            }
+        ]
+    },
+    "uid": "2871935428a74e34ae2ef1ad74aaf874",
+    "uri": "https://api.sketchfab.com/v3/models/2871935428a74e34ae2ef1ad74aaf874",
+    "user": {
+        "uid": "554a58caf4f14abd8ecadc9a8ddba9cd",
+        "username": "davidmarton1987",
+        "displayName": "davidmarton1987",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/davidmarton1987",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/554a58caf4f14abd8ecadc9a8ddba9cd"
+    },
+    "vertexCount": 212215,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/racks-dcenter-2871935428a74e34ae2ef1ad74aaf874",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2871935428a74e34ae2ef1ad74aaf874/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-25T12:41:07.920797",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 19
+}

@@ -1,0 +1,208 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-16T18:13:16.420806",
+    "embedUrl": "https://sketchfab.com/models/10fddb33cc5a49328d663ea9fecfaf0b/embed",
+    "faceCount": 1288211,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Nyssara - Aasimar half Drow Paladin",
+    "publishedAt": "2026-02-16T18:14:18.024801",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "elf",
+            "slug": "elf",
+            "uri": "https://api.sketchfab.com/v3/tags/elf"
+        },
+        {
+            "name": "elves",
+            "slug": "elves",
+            "uri": "https://api.sketchfab.com/v3/tags/elves"
+        },
+        {
+            "name": "drow",
+            "slug": "drow",
+            "uri": "https://api.sketchfab.com/v3/tags/drow"
+        },
+        {
+            "name": "dungeonsanddragons",
+            "slug": "dungeonsanddragons",
+            "uri": "https://api.sketchfab.com/v3/tags/dungeonsanddragons"
+        },
+        {
+            "name": "concept",
+            "slug": "concept",
+            "uri": "https://api.sketchfab.com/v3/tags/concept"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7719c97744d34f20b8170797e63cea2c",
+                "width": 448,
+                "height": 280,
+                "size": 5925,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/448.jpg"
+            },
+            {
+                "uid": "a6b20474be7c402db8f8a5a6b9ff4730",
+                "width": 200,
+                "height": 200,
+                "size": 2275,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/200x200.jpg"
+            },
+            {
+                "uid": "98095b18341b4f49affb313ad9843d70",
+                "width": 100,
+                "height": 100,
+                "size": 841,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/100x100.jpg"
+            },
+            {
+                "uid": "af9d9afad4f1427a8a6e68dffa18c236",
+                "width": 50,
+                "height": 50,
+                "size": 421,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/50x50.jpg"
+            },
+            {
+                "uid": "b0855968e7eb4421b1d57761d0f2e2f1",
+                "width": 640,
+                "height": 400,
+                "size": 12257,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/640.jpg"
+            },
+            {
+                "uid": "4cfc787dbb4a4a0190430bca9721c6cf",
+                "width": 1024,
+                "height": 640,
+                "size": 28643,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/1024.jpg"
+            },
+            {
+                "uid": "bdbd1b7885db45ba959aede0fd468199",
+                "width": 854,
+                "height": 534,
+                "size": 21153,
+                "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/854.jpg"
+            }
+        ]
+    },
+    "uid": "10fddb33cc5a49328d663ea9fecfaf0b",
+    "uri": "https://api.sketchfab.com/v3/models/10fddb33cc5a49328d663ea9fecfaf0b",
+    "user": {
+        "uid": "31153288bfb546fd996803e139cb9f02",
+        "username": "felipehedge",
+        "displayName": "felipehedge",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/felipehedge",
+        "avatar": {
+            "uid": "fc573acd63b44f68a6360a8367d97027",
+            "uri": "https://api.sketchfab.com/v3/avatars/fc573acd63b44f68a6360a8367d97027",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1099,
+                    "url": "https://media.sketchfab.com/avatars/fc573acd63b44f68a6360a8367d97027/83dea254daa94dab9b7219ae9f46defc.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1517,
+                    "url": "https://media.sketchfab.com/avatars/fc573acd63b44f68a6360a8367d97027/f8d633fa0efd44f8923421ba9d0014a2.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3230,
+                    "url": "https://media.sketchfab.com/avatars/fc573acd63b44f68a6360a8367d97027/4fe44069d07c46538f24b83c3368e503.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3773,
+                    "url": "https://media.sketchfab.com/avatars/fc573acd63b44f68a6360a8367d97027/7d664391ced1457a8a892cab46735c14.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/31153288bfb546fd996803e139cb9f02"
+    },
+    "vertexCount": 643917,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/nyssara-aasimar-half-drow-paladin-10fddb33cc5a49328d663ea9fecfaf0b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Nyssara-Aasimar-half-Drow-Paladin-v2-019c66d9-46f7-7874-8cd7-44a763f0a321?utm_source=sketchfab](https://www.meshy.ai/3d-models/Nyssara-Aasimar-half-Drow-Paladin-v2-019c66d9-46f7-7874-8cd7-44a763f0a321?utm_source=sketchfab)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/10fddb33cc5a49328d663ea9fecfaf0b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-16T18:14:18.004106",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

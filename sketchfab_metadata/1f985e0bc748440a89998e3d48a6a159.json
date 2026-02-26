@@ -1,0 +1,187 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T11:10:28.811236",
+    "embedUrl": "https://sketchfab.com/models/1f985e0bc748440a89998e3d48a6a159/embed",
+    "faceCount": 2172,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Pebble 02",
+    "publishedAt": "2026-02-19T11:11:37.903919",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "terrain",
+            "slug": "terrain",
+            "uri": "https://api.sketchfab.com/v3/tags/terrain"
+        },
+        {
+            "name": "desert",
+            "slug": "desert",
+            "uri": "https://api.sketchfab.com/v3/tags/desert"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "pebble",
+            "slug": "pebble",
+            "uri": "https://api.sketchfab.com/v3/tags/pebble"
+        },
+        {
+            "name": "photoscan",
+            "slug": "photoscan",
+            "uri": "https://api.sketchfab.com/v3/tags/photoscan"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "rock",
+            "slug": "rock",
+            "uri": "https://api.sketchfab.com/v3/tags/rock"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9942cba8d593459f85cc5b6a264c82be",
+                "width": 1920,
+                "height": 1080,
+                "size": 52750,
+                "url": "https://media.sketchfab.com/models/1f985e0bc748440a89998e3d48a6a159/thumbnails/c9fd5c4f11684e858d1ceffa643b81f6/1a009c6287d744f4b13f34f00b0b399a.jpeg"
+            },
+            {
+                "uid": "d2d44539f6e943d9832f36bf1d8b4636",
+                "width": 1024,
+                "height": 576,
+                "size": 16586,
+                "url": "https://media.sketchfab.com/models/1f985e0bc748440a89998e3d48a6a159/thumbnails/c9fd5c4f11684e858d1ceffa643b81f6/106ab8a499164750b3d7bad17979b5a2.jpeg"
+            },
+            {
+                "uid": "afc33ba437c4424ab55a46157f42fa66",
+                "width": 720,
+                "height": 405,
+                "size": 9621,
+                "url": "https://media.sketchfab.com/models/1f985e0bc748440a89998e3d48a6a159/thumbnails/c9fd5c4f11684e858d1ceffa643b81f6/75478505c099408e8dde9d4a926e3581.jpeg"
+            },
+            {
+                "uid": "b219f6f07a5c408aa258bdf7d24bf942",
+                "width": 256,
+                "height": 144,
+                "size": 2467,
+                "url": "https://media.sketchfab.com/models/1f985e0bc748440a89998e3d48a6a159/thumbnails/c9fd5c4f11684e858d1ceffa643b81f6/ba771a1f2b3b49889a17fd2fbd363c09.jpeg"
+            },
+            {
+                "uid": "fa379fd620b845968fbeeff6a6420ecc",
+                "width": 64,
+                "height": 36,
+                "size": 927,
+                "url": "https://media.sketchfab.com/models/1f985e0bc748440a89998e3d48a6a159/thumbnails/c9fd5c4f11684e858d1ceffa643b81f6/493d7539ebea4509aae17605f7076154.jpeg"
+            }
+        ]
+    },
+    "uid": "1f985e0bc748440a89998e3d48a6a159",
+    "uri": "https://api.sketchfab.com/v3/models/1f985e0bc748440a89998e3d48a6a159",
+    "user": {
+        "uid": "06c2a3fb3c5244e79bbbb6903cfa1c70",
+        "username": "erexanrid1972",
+        "displayName": "erexanrid1972",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/erexanrid1972",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/06c2a3fb3c5244e79bbbb6903cfa1c70"
+    },
+    "vertexCount": 1088,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/pebble-02-1f985e0bc748440a89998e3d48a6a159",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "It s a photoscanned pebble.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/1f985e0bc748440a89998e3d48a6a159/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T11:11:38.191097",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

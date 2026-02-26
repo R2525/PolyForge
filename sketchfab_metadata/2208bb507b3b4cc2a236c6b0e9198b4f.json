@@ -1,0 +1,277 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-11-23T18:20:49.891858",
+    "embedUrl": "https://sketchfab.com/models/2208bb507b3b4cc2a236c6b0e9198b4f/embed",
+    "faceCount": 1814,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Fantasy Battle Axe with Burning Magic Runes",
+    "publishedAt": "2025-11-23T18:28:40.825987",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "vfx",
+            "slug": "vfx",
+            "uri": "https://api.sketchfab.com/v3/tags/vfx"
+        },
+        {
+            "name": "high",
+            "slug": "high",
+            "uri": "https://api.sketchfab.com/v3/tags/high"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "edge",
+            "slug": "edge",
+            "uri": "https://api.sketchfab.com/v3/tags/edge"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "lava",
+            "slug": "lava",
+            "uri": "https://api.sketchfab.com/v3/tags/lava"
+        },
+        {
+            "name": "molten",
+            "slug": "molten",
+            "uri": "https://api.sketchfab.com/v3/tags/molten"
+        },
+        {
+            "name": "rune",
+            "slug": "rune",
+            "uri": "https://api.sketchfab.com/v3/tags/rune"
+        },
+        {
+            "name": "fire",
+            "slug": "fire",
+            "uri": "https://api.sketchfab.com/v3/tags/fire"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "Runes",
+            "slug": "runes",
+            "uri": "https://api.sketchfab.com/v3/tags/runes"
+        },
+        {
+            "name": "enchanted",
+            "slug": "enchanted",
+            "uri": "https://api.sketchfab.com/v3/tags/enchanted"
+        },
+        {
+            "name": "glowing",
+            "slug": "glowing",
+            "uri": "https://api.sketchfab.com/v3/tags/glowing"
+        },
+        {
+            "name": "emissive",
+            "slug": "emissive",
+            "uri": "https://api.sketchfab.com/v3/tags/emissive"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1fe12f7680cb4ada89a3cc54b2c17c53",
+                "width": 1920,
+                "height": 1080,
+                "size": 56036,
+                "url": "https://media.sketchfab.com/models/2208bb507b3b4cc2a236c6b0e9198b4f/thumbnails/edf25ae321634cc6bd4af6773ca16050/9810d9bec12d4623b960c15f72bc180b.jpeg"
+            },
+            {
+                "uid": "579c883f446e4481a70d9793ad1d474a",
+                "width": 1024,
+                "height": 576,
+                "size": 18706,
+                "url": "https://media.sketchfab.com/models/2208bb507b3b4cc2a236c6b0e9198b4f/thumbnails/edf25ae321634cc6bd4af6773ca16050/facd0e9e214d4ea183478bd9593eb3b4.jpeg"
+            },
+            {
+                "uid": "fa1bf4295b554ff0ab8185211c5c2bc0",
+                "width": 720,
+                "height": 405,
+                "size": 11183,
+                "url": "https://media.sketchfab.com/models/2208bb507b3b4cc2a236c6b0e9198b4f/thumbnails/edf25ae321634cc6bd4af6773ca16050/0b8a2ae105eb47f598da00b91740b6c7.jpeg"
+            },
+            {
+                "uid": "24bce996f91c49bd89876c1d0e9bd815",
+                "width": 256,
+                "height": 144,
+                "size": 2809,
+                "url": "https://media.sketchfab.com/models/2208bb507b3b4cc2a236c6b0e9198b4f/thumbnails/edf25ae321634cc6bd4af6773ca16050/71ce28c3b6964f07ac40acc6c9ffa1e0.jpeg"
+            },
+            {
+                "uid": "56015c8a5a3e495ea3a631b53febbf01",
+                "width": 64,
+                "height": 36,
+                "size": 894,
+                "url": "https://media.sketchfab.com/models/2208bb507b3b4cc2a236c6b0e9198b4f/thumbnails/edf25ae321634cc6bd4af6773ca16050/ee66e4f88d434b52ad4a60d2d470f362.jpeg"
+            }
+        ]
+    },
+    "uid": "2208bb507b3b4cc2a236c6b0e9198b4f",
+    "uri": "https://api.sketchfab.com/v3/models/2208bb507b3b4cc2a236c6b0e9198b4f",
+    "user": {
+        "uid": "0af782a345db4e96bbba4fd63c752fb4",
+        "username": "Ghabella",
+        "displayName": "Ghabella",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Ghabella",
+        "avatar": {
+            "uid": "05ec09cec076472fa9b99d50b2dffcb8",
+            "uri": "https://api.sketchfab.com/v3/avatars/05ec09cec076472fa9b99d50b2dffcb8",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1133,
+                    "url": "https://media.sketchfab.com/avatars/05ec09cec076472fa9b99d50b2dffcb8/fdb532f0591341f8b7238786a2e44bb9.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1708,
+                    "url": "https://media.sketchfab.com/avatars/05ec09cec076472fa9b99d50b2dffcb8/45d1c3fc455444dcb5a556e6dc258203.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4170,
+                    "url": "https://media.sketchfab.com/avatars/05ec09cec076472fa9b99d50b2dffcb8/b61ad4bfa242453ea1f009ad8884ac01.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4898,
+                    "url": "https://media.sketchfab.com/avatars/05ec09cec076472fa9b99d50b2dffcb8/64a6d1c29aac4c6aacddaf322572b829.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0af782a345db4e96bbba4fd63c752fb4"
+    },
+    "vertexCount": 1381,
+    "viewCount": 37,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-battle-axe-with-burning-magic-runes-2208bb507b3b4cc2a236c6b0e9198b4f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This high-quality fantasy battle axe is designed as a premium game-ready prop. The blade features a molten glowing edge, giving the impression of metal freshly forged in magical fire. The axe head is covered with burning mystical runes, emitting a soft, powerful glow that enhances the sense of ancient magic.\n\nThe wooden handle is crafted with realistic aged cloth wraps, adding wear, history, and character to the weapon.\nThe model is fully PBR-compatible and ideal for games, animations, cinematics, renders, and VR/AR applications.",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/2208bb507b3b4cc2a236c6b0e9198b4f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-23T18:28:40.922657",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

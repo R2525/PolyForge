@@ -1,0 +1,311 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-07T16:47:27.583698",
+    "embedUrl": "https://sketchfab.com/models/12ca863fcdf64fe5a0bca088cc7b3cc8/embed",
+    "faceCount": 27972,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 5,
+    "name": "Marble Venus de Milo Statue",
+    "publishedAt": "2026-02-07T16:58:52.230888",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "greek",
+            "slug": "greek",
+            "uri": "https://api.sketchfab.com/v3/tags/greek"
+        },
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "heritage",
+            "slug": "heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage"
+        },
+        {
+            "name": "antique",
+            "slug": "antique",
+            "uri": "https://api.sketchfab.com/v3/tags/antique"
+        },
+        {
+            "name": "classic",
+            "slug": "classic",
+            "uri": "https://api.sketchfab.com/v3/tags/classic"
+        },
+        {
+            "name": "marble",
+            "slug": "marble",
+            "uri": "https://api.sketchfab.com/v3/tags/marble"
+        },
+        {
+            "name": "goddess",
+            "slug": "goddess",
+            "uri": "https://api.sketchfab.com/v3/tags/goddess"
+        },
+        {
+            "name": "decor",
+            "slug": "decor",
+            "uri": "https://api.sketchfab.com/v3/tags/decor"
+        },
+        {
+            "name": "statue",
+            "slug": "statue",
+            "uri": "https://api.sketchfab.com/v3/tags/statue"
+        },
+        {
+            "name": "museum",
+            "slug": "museum",
+            "uri": "https://api.sketchfab.com/v3/tags/museum"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "mythology",
+            "slug": "mythology",
+            "uri": "https://api.sketchfab.com/v3/tags/mythology"
+        },
+        {
+            "name": "anatomical",
+            "slug": "anatomical",
+            "uri": "https://api.sketchfab.com/v3/tags/anatomical"
+        },
+        {
+            "name": "Aphrodite",
+            "slug": "aphrodite",
+            "uri": "https://api.sketchfab.com/v3/tags/aphrodite"
+        },
+        {
+            "name": "Milo",
+            "slug": "milo",
+            "uri": "https://api.sketchfab.com/v3/tags/milo"
+        },
+        {
+            "name": "Venus",
+            "slug": "venus",
+            "uri": "https://api.sketchfab.com/v3/tags/venus"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "scan",
+            "slug": "scan",
+            "uri": "https://api.sketchfab.com/v3/tags/scan"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "female",
+            "slug": "female",
+            "uri": "https://api.sketchfab.com/v3/tags/female"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        },
+        {
+            "name": "sculpture",
+            "slug": "sculpture",
+            "uri": "https://api.sketchfab.com/v3/tags/sculpture"
+        },
+        {
+            "name": "history",
+            "slug": "history",
+            "uri": "https://api.sketchfab.com/v3/tags/history"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "14a3f4d29ecd4a54a219ae8800144011",
+                "width": 1920,
+                "height": 1080,
+                "size": 238933,
+                "url": "https://media.sketchfab.com/models/12ca863fcdf64fe5a0bca088cc7b3cc8/thumbnails/2e136569dab347c6b011a31451d41b20/7ba738e61b374d81954a040763439d23.jpeg"
+            },
+            {
+                "uid": "e51bbd12fd10412abacfe1b55104e774",
+                "width": 1024,
+                "height": 576,
+                "size": 59281,
+                "url": "https://media.sketchfab.com/models/12ca863fcdf64fe5a0bca088cc7b3cc8/thumbnails/2e136569dab347c6b011a31451d41b20/44e8cceacf634d72a7757719df03040f.jpeg"
+            },
+            {
+                "uid": "fd07b685b91e4afe97c984088f13962f",
+                "width": 720,
+                "height": 405,
+                "size": 32942,
+                "url": "https://media.sketchfab.com/models/12ca863fcdf64fe5a0bca088cc7b3cc8/thumbnails/2e136569dab347c6b011a31451d41b20/f15cd674d8874d69bb96e50791553842.jpeg"
+            },
+            {
+                "uid": "67feb3b6bdc14f94a92526dad1954f95",
+                "width": 256,
+                "height": 144,
+                "size": 7058,
+                "url": "https://media.sketchfab.com/models/12ca863fcdf64fe5a0bca088cc7b3cc8/thumbnails/2e136569dab347c6b011a31451d41b20/2dc38a9ac32d40188807660557544237.jpeg"
+            },
+            {
+                "uid": "a29d4102086a4648809880dd38ecb1c8",
+                "width": 64,
+                "height": 36,
+                "size": 1541,
+                "url": "https://media.sketchfab.com/models/12ca863fcdf64fe5a0bca088cc7b3cc8/thumbnails/2e136569dab347c6b011a31451d41b20/6ef69a526d914b54b5ab65354405a6c6.jpeg"
+            }
+        ]
+    },
+    "uid": "12ca863fcdf64fe5a0bca088cc7b3cc8",
+    "uri": "https://api.sketchfab.com/v3/models/12ca863fcdf64fe5a0bca088cc7b3cc8",
+    "user": {
+        "uid": "037f685943794f6891b1cc8032fab335",
+        "username": "Eleanie",
+        "displayName": "Eleanie",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Eleanie",
+        "avatar": {
+            "uid": "28a7ba1f92f84cb2a63cdfcc269c3374",
+            "uri": "https://api.sketchfab.com/v3/avatars/28a7ba1f92f84cb2a63cdfcc269c3374",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2345,
+                    "url": "https://media.sketchfab.com/avatars/28a7ba1f92f84cb2a63cdfcc269c3374/3511910db2cb44cc86ce16a4e8b5191a.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4828,
+                    "url": "https://media.sketchfab.com/avatars/28a7ba1f92f84cb2a63cdfcc269c3374/c522ff4fefe64f17aefb7147f848c2c4.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14750,
+                    "url": "https://media.sketchfab.com/avatars/28a7ba1f92f84cb2a63cdfcc269c3374/51f8de02fbbf41bd975628b3a2c84688.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17762,
+                    "url": "https://media.sketchfab.com/avatars/28a7ba1f92f84cb2a63cdfcc269c3374/d3b9261c143345d08aa02560b1c6181b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/037f685943794f6891b1cc8032fab335"
+    },
+    "vertexCount": 13992,
+    "viewCount": 108,
+    "viewerUrl": "https://sketchfab.com/3d-models/marble-venus-de-milo-statue-12ca863fcdf64fe5a0bca088cc7b3cc8",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "*A high-quality 3D model of the celebrated Venus de Milo, one of the most famous works of ancient Greek sculpture. Depicting Aphrodite, the goddess of love and beauty, this asset captures the iconic contrapposto pose and intricate drapery details. The model is optimized for photorealistic rendering and game engines, making it an excellent choice for digital museums, architectural visualization, garden scenes, or historical environments. It features precise geometry and realistic texture maps suitable for close-up shots.\n\n* Texture 3 sets:\n\n1. white marble\n2. beige marble\n3. clean marble\n\n* PBR textures 4096x4096  .png 8 bit dithering:\n\n* Base color \n* Metallic \n* Normal OpenGl \n* Roughness \n* Displacement\n\n* Geometry:\n\n* Size: 0.55x0.6x1.65m\n* Textel density:  23 px/cm\n\nTextures made in Substance Painter\n\nFiles are packed in .blend and .fbx.\n\nAll objects are made in proportion to the real world.\n\n[![Donate if you are intrested :)](https://i.imgur.com/hVFcKzS.png)](https://www.paypal.com/paypalme/EleanieND)",
+    "price": null,
+    "downloadCount": 27,
+    "editorUrl": "https://sketchfab.com/models/12ca863fcdf64fe5a0bca088cc7b3cc8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-07T16:59:01.022867",
+    "pbrType": "metalness",
+    "textureCount": 15,
+    "materialCount": 3
+}

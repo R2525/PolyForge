@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T12:16:13.006163",
+    "embedUrl": "https://sketchfab.com/models/33b26b6e30ac4052a2e1a087f5991dd4/embed",
+    "faceCount": 581458,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sci Fi Water Filter",
+    "publishedAt": "2026-02-20T12:18:50.031630",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "bath",
+            "slug": "bath",
+            "uri": "https://api.sketchfab.com/v3/tags/bath"
+        },
+        {
+            "name": "pipes",
+            "slug": "pipes",
+            "uri": "https://api.sketchfab.com/v3/tags/pipes"
+        },
+        {
+            "name": "water",
+            "slug": "water",
+            "uri": "https://api.sketchfab.com/v3/tags/water"
+        },
+        {
+            "name": "station",
+            "slug": "station",
+            "uri": "https://api.sketchfab.com/v3/tags/station"
+        },
+        {
+            "name": "plumber",
+            "slug": "plumber",
+            "uri": "https://api.sketchfab.com/v3/tags/plumber"
+        },
+        {
+            "name": "Strainer",
+            "slug": "strainer",
+            "uri": "https://api.sketchfab.com/v3/tags/strainer"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5a55384b59704c4f8caf47b28caa50e5",
+                "width": 1920,
+                "height": 1080,
+                "size": 46452,
+                "url": "https://media.sketchfab.com/models/33b26b6e30ac4052a2e1a087f5991dd4/thumbnails/31b9c6b3aebd4e67a3a5a17360243146/3b81879b185e4458a9de3e59c9da73d6.jpeg"
+            },
+            {
+                "uid": "3d3788dd84484c09bb673a9b5563b6e9",
+                "width": 1024,
+                "height": 576,
+                "size": 15111,
+                "url": "https://media.sketchfab.com/models/33b26b6e30ac4052a2e1a087f5991dd4/thumbnails/31b9c6b3aebd4e67a3a5a17360243146/f6b1eb52c8ee4033bf9fc6468ab0034e.jpeg"
+            },
+            {
+                "uid": "f1ba3193e4a4472c8999ededcfd62641",
+                "width": 720,
+                "height": 405,
+                "size": 8981,
+                "url": "https://media.sketchfab.com/models/33b26b6e30ac4052a2e1a087f5991dd4/thumbnails/31b9c6b3aebd4e67a3a5a17360243146/9331edb8f6bf440ab892456a0738622c.jpeg"
+            },
+            {
+                "uid": "3a11d65b88294352990842d745167658",
+                "width": 256,
+                "height": 144,
+                "size": 2301,
+                "url": "https://media.sketchfab.com/models/33b26b6e30ac4052a2e1a087f5991dd4/thumbnails/31b9c6b3aebd4e67a3a5a17360243146/9f7e3d4a11c64d17b4b7712a2b058c64.jpeg"
+            },
+            {
+                "uid": "64b01e60c1624ebebe5fe1a1a8e4963a",
+                "width": 64,
+                "height": 36,
+                "size": 915,
+                "url": "https://media.sketchfab.com/models/33b26b6e30ac4052a2e1a087f5991dd4/thumbnails/31b9c6b3aebd4e67a3a5a17360243146/ebe2e0aaecf043b086e8b223a69591be.jpeg"
+            }
+        ]
+    },
+    "uid": "33b26b6e30ac4052a2e1a087f5991dd4",
+    "uri": "https://api.sketchfab.com/v3/models/33b26b6e30ac4052a2e1a087f5991dd4",
+    "user": {
+        "uid": "e877d062769a4baa9d368488b402ad95",
+        "username": "emicp1studios",
+        "displayName": "emicp1studios",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/emicp1studios",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e877d062769a4baa9d368488b402ad95"
+    },
+    "vertexCount": 290852,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-water-filter-33b26b6e30ac4052a2e1a087f5991dd4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the Original format.The Converted version is intended only for use in the web viewer. In the original file, the following are fully preserved:✔ original scene hierarchy✔ all materials without simplification✔ correct PBR texture maps✔ original object namesIf you are going to integrate the model into a project, download the original version.The 3D body of the water filter consists of several separate parts with a material that gives it a futuristic character",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/33b26b6e30ac4052a2e1a087f5991dd4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T12:18:50.241791",
+    "pbrType": "metalness",
+    "textureCount": 3,
+    "materialCount": 4
+}

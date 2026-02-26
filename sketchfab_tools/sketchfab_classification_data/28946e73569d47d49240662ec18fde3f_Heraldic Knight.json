@@ -1,0 +1,69 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.95
+        },
+        {
+            "name": "Historical",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Warrior",
+            "score": 0.8
+        },
+        {
+            "name": "Knight",
+            "score": 0.75
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "High Detail",
+            "score": 0.85
+        },
+        {
+            "name": "Realistic",
+            "score": 0.8
+        },
+        {
+            "name": "Digital Sculpt",
+            "score": 0.75
+        },
+        {
+            "name": "3D Render",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Smooth",
+        "Clean",
+        "Untextured",
+        "Neutral"
+    ],
+    "tags": [
+        "Knight",
+        "Medieval",
+        "Armor",
+        "Shield",
+        "Sword",
+        "Heraldic",
+        "3D Model",
+        "Character"
+    ],
+    "model_id_full": "28946e73569d47d49240662ec18fde3f_Heraldic Knight",
+    "sketchfab_id": "28946e73569d47d49240662ec18fde3f",
+    "asset_name": "Heraldic Knight"
+}

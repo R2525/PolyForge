@@ -1,0 +1,211 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-14T23:26:54.873534",
+    "embedUrl": "https://sketchfab.com/models/0f66e217392049abaf4195ec79579408/embed",
+    "faceCount": 147051,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Futuristic Cyberpunk Ammo Pouch",
+    "publishedAt": "2026-02-14T23:27:31.907134",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "leather",
+            "slug": "leather",
+            "uri": "https://api.sketchfab.com/v3/tags/leather"
+        },
+        {
+            "name": "gadget",
+            "slug": "gadget",
+            "uri": "https://api.sketchfab.com/v3/tags/gadget"
+        },
+        {
+            "name": "tech",
+            "slug": "tech",
+            "uri": "https://api.sketchfab.com/v3/tags/tech"
+        },
+        {
+            "name": "bag",
+            "slug": "bag",
+            "uri": "https://api.sketchfab.com/v3/tags/bag"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "ammo",
+            "slug": "ammo",
+            "uri": "https://api.sketchfab.com/v3/tags/ammo"
+        },
+        {
+            "name": "accessory",
+            "slug": "accessory",
+            "uri": "https://api.sketchfab.com/v3/tags/accessory"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "Pouch",
+            "slug": "pouch",
+            "uri": "https://api.sketchfab.com/v3/tags/pouch"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "213a176565184456abd900913b2536db",
+                "width": 1920,
+                "height": 1080,
+                "size": 112543,
+                "url": "https://media.sketchfab.com/models/0f66e217392049abaf4195ec79579408/thumbnails/15287161a78344faadd2d460dc804cab/415a0dee97aa468c88ae674902c40248.jpeg"
+            },
+            {
+                "uid": "3f7a8783ad724b7b9c9844734805eda4",
+                "width": 1024,
+                "height": 576,
+                "size": 37430,
+                "url": "https://media.sketchfab.com/models/0f66e217392049abaf4195ec79579408/thumbnails/15287161a78344faadd2d460dc804cab/c7f8c7c7bd8f4cf595be62b6ca5a68cb.jpeg"
+            },
+            {
+                "uid": "a99634a261f342e79ba972fb2b95d546",
+                "width": 720,
+                "height": 405,
+                "size": 21752,
+                "url": "https://media.sketchfab.com/models/0f66e217392049abaf4195ec79579408/thumbnails/15287161a78344faadd2d460dc804cab/396c30d87659458e971e9ec9767218a6.jpeg"
+            },
+            {
+                "uid": "b3adca60643c4cfbbd1d17a3f55db4a4",
+                "width": 256,
+                "height": 144,
+                "size": 4524,
+                "url": "https://media.sketchfab.com/models/0f66e217392049abaf4195ec79579408/thumbnails/15287161a78344faadd2d460dc804cab/a7b6b16dff02427d8b0ee2b4879bc71a.jpeg"
+            },
+            {
+                "uid": "bf4247f4748746b797bcd660f6ff0f76",
+                "width": 64,
+                "height": 36,
+                "size": 1045,
+                "url": "https://media.sketchfab.com/models/0f66e217392049abaf4195ec79579408/thumbnails/15287161a78344faadd2d460dc804cab/0d2ac21ba85643dbb749be8e5cfae41e.jpeg"
+            }
+        ]
+    },
+    "uid": "0f66e217392049abaf4195ec79579408",
+    "uri": "https://api.sketchfab.com/v3/models/0f66e217392049abaf4195ec79579408",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 73539,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/futuristic-cyberpunk-ammo-pouch-0f66e217392049abaf4195ec79579408",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Futuristic Cyberpunk Ammo Pouch",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/0f66e217392049abaf4195ec79579408/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-14T23:54:08.433876",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

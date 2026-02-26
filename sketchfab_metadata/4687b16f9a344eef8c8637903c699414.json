@@ -1,0 +1,200 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T21:30:10.638339",
+    "embedUrl": "https://sketchfab.com/models/4687b16f9a344eef8c8637903c699414/embed",
+    "faceCount": 645884,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Icebound Feline mechanoid",
+    "publishedAt": "2026-02-23T21:30:33.891524",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "cat",
+            "slug": "cat",
+            "uri": "https://api.sketchfab.com/v3/tags/cat"
+        },
+        {
+            "name": "mech",
+            "slug": "mech",
+            "uri": "https://api.sketchfab.com/v3/tags/mech"
+        },
+        {
+            "name": "ice",
+            "slug": "ice",
+            "uri": "https://api.sketchfab.com/v3/tags/ice"
+        },
+        {
+            "name": "feline",
+            "slug": "feline",
+            "uri": "https://api.sketchfab.com/v3/tags/feline"
+        },
+        {
+            "name": "mecha",
+            "slug": "mecha",
+            "uri": "https://api.sketchfab.com/v3/tags/mecha"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "blue",
+            "slug": "blue",
+            "uri": "https://api.sketchfab.com/v3/tags/blue"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "pixel",
+            "slug": "pixel",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "30b957297c384ec9adb4e88a224d4815",
+                "width": 1920,
+                "height": 1080,
+                "size": 80606,
+                "url": "https://media.sketchfab.com/models/4687b16f9a344eef8c8637903c699414/thumbnails/413908b75d8b43b6b0113342d06404a0/883007d90c3c4e70baf49e91b3d86a6f.jpeg"
+            },
+            {
+                "uid": "0bb1a049060a424cac091ce6b8a55f10",
+                "width": 1024,
+                "height": 576,
+                "size": 27661,
+                "url": "https://media.sketchfab.com/models/4687b16f9a344eef8c8637903c699414/thumbnails/413908b75d8b43b6b0113342d06404a0/4024385a791640eabf11bddd224df301.jpeg"
+            },
+            {
+                "uid": "eb2629ac9f7943888cb853dc5b96fbad",
+                "width": 720,
+                "height": 405,
+                "size": 15920,
+                "url": "https://media.sketchfab.com/models/4687b16f9a344eef8c8637903c699414/thumbnails/413908b75d8b43b6b0113342d06404a0/c0b987c465e4447182fdd69c18a680e4.jpeg"
+            },
+            {
+                "uid": "d1df792c573e43468bbc649ee6ed846d",
+                "width": 256,
+                "height": 144,
+                "size": 3253,
+                "url": "https://media.sketchfab.com/models/4687b16f9a344eef8c8637903c699414/thumbnails/413908b75d8b43b6b0113342d06404a0/37af3c327c9046e2b5f9ee6ae9a9f982.jpeg"
+            },
+            {
+                "uid": "208fce8f2e7c4c2c84d406bb43bc012e",
+                "width": 64,
+                "height": 36,
+                "size": 943,
+                "url": "https://media.sketchfab.com/models/4687b16f9a344eef8c8637903c699414/thumbnails/413908b75d8b43b6b0113342d06404a0/9b88f10bb4ae4300b92c39ba66de19f0.jpeg"
+            }
+        ]
+    },
+    "uid": "4687b16f9a344eef8c8637903c699414",
+    "uri": "https://api.sketchfab.com/v3/models/4687b16f9a344eef8c8637903c699414",
+    "user": {
+        "uid": "d3b4d6dbae3e495cb6b551d2a28807cb",
+        "username": "Ashweeeeeeeed129",
+        "displayName": "Ashweeeeeeeed129",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Ashweeeeeeeed129",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d3b4d6dbae3e495cb6b551d2a28807cb"
+    },
+    "vertexCount": 322904,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/icebound-feline-mechanoid-4687b16f9a344eef8c8637903c699414",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/pFRkgF](https://www.meshy.ai/s/pFRkgF)\r\nNot a part of my main set of models though I will actually make a separate folder for this beautiful machine cat",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/4687b16f9a344eef8c8637903c699414/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T21:30:33.868835",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

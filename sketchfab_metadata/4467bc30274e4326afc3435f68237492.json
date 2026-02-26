@@ -1,0 +1,230 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-18T15:37:28.806043",
+    "embedUrl": "https://sketchfab.com/models/4467bc30274e4326afc3435f68237492/embed",
+    "faceCount": 223014,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Battle Axe",
+    "publishedAt": "2026-01-18T15:50:27.695833",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "melee",
+            "slug": "melee",
+            "uri": "https://api.sketchfab.com/v3/tags/melee"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "battle-axe",
+            "slug": "battle-axe",
+            "uri": "https://api.sketchfab.com/v3/tags/battle-axe"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "game-asset",
+            "slug": "game-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+        },
+        {
+            "name": "war-axe",
+            "slug": "war-axe",
+            "uri": "https://api.sketchfab.com/v3/tags/war-axe"
+        },
+        {
+            "name": "4k-textures",
+            "slug": "4k-textures",
+            "uri": "https://api.sketchfab.com/v3/tags/4k-textures"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "70ae5dbd7c974b13adf2574bbfed3481",
+                "width": 1920,
+                "height": 1080,
+                "size": 46764,
+                "url": "https://media.sketchfab.com/models/4467bc30274e4326afc3435f68237492/thumbnails/93952c1101bb4041bd584c0f59dfe03b/851b0648e39145a4ab9253bf5383e925.jpeg"
+            },
+            {
+                "uid": "1eb34483ab3448edb10ddbedb161808b",
+                "width": 1024,
+                "height": 576,
+                "size": 14925,
+                "url": "https://media.sketchfab.com/models/4467bc30274e4326afc3435f68237492/thumbnails/93952c1101bb4041bd584c0f59dfe03b/f27dc479c7014fbbb6af5dfa1396d594.jpeg"
+            },
+            {
+                "uid": "94f8ee71bcc84a91bccd8cd36518f6b3",
+                "width": 720,
+                "height": 405,
+                "size": 8393,
+                "url": "https://media.sketchfab.com/models/4467bc30274e4326afc3435f68237492/thumbnails/93952c1101bb4041bd584c0f59dfe03b/e4cb559d81c74607bcb8aa32d10a7fdc.jpeg"
+            },
+            {
+                "uid": "aa0798cb137c4492b5c55e22fe0c6b35",
+                "width": 256,
+                "height": 144,
+                "size": 1942,
+                "url": "https://media.sketchfab.com/models/4467bc30274e4326afc3435f68237492/thumbnails/93952c1101bb4041bd584c0f59dfe03b/b5e60897daad49d5ae11f4d240bb3e36.jpeg"
+            },
+            {
+                "uid": "6614a800c7ef42818d87241c31ae8232",
+                "width": 64,
+                "height": 36,
+                "size": 757,
+                "url": "https://media.sketchfab.com/models/4467bc30274e4326afc3435f68237492/thumbnails/93952c1101bb4041bd584c0f59dfe03b/b49c1834661b4839b38c91d32029ca3f.jpeg"
+            }
+        ]
+    },
+    "uid": "4467bc30274e4326afc3435f68237492",
+    "uri": "https://api.sketchfab.com/v3/models/4467bc30274e4326afc3435f68237492",
+    "user": {
+        "uid": "cd36b9f216704028ba9e7c933086ad1a",
+        "username": "Profaster3d2d",
+        "displayName": "Profaster3d2d",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Profaster3d2d",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cd36b9f216704028ba9e7c933086ad1a"
+    },
+    "vertexCount": 111728,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/battle-axe-4467bc30274e4326afc3435f68237492",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Game-ready battle axe with PBR textures. Low-poly model optimized for Unity and Unreal Engine. Includes 4K texture maps (BaseColor, Normal, Roughness, Metallic, Displacement). Clean geometry, proper UVs. Ready to use in games, VR/AR. Multiple formats included (FBX, OBJ).",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/4467bc30274e4326afc3435f68237492/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-18T15:50:28.166989",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 2
+}

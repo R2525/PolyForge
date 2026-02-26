@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T14:35:23.062411",
+    "embedUrl": "https://sketchfab.com/models/046c9f9a8f744a5fa87afb41cec1c04f/embed",
+    "faceCount": 1729123,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "[🛠️]_Steampunk_House_['2nd-Build']",
+    "publishedAt": "2026-02-11T14:41:52.881823",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "apartments",
+            "slug": "apartments",
+            "uri": "https://api.sketchfab.com/v3/tags/apartments"
+        },
+        {
+            "name": "buildings",
+            "slug": "buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/buildings"
+        },
+        {
+            "name": "apartment",
+            "slug": "apartment",
+            "uri": "https://api.sketchfab.com/v3/tags/apartment"
+        },
+        {
+            "name": "uvmapped",
+            "slug": "uvmapped",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped"
+        },
+        {
+            "name": "modern-house",
+            "slug": "modern-house",
+            "uri": "https://api.sketchfab.com/v3/tags/modern-house"
+        },
+        {
+            "name": "apartment-building",
+            "slug": "apartment-building",
+            "uri": "https://api.sketchfab.com/v3/tags/apartment-building"
+        },
+        {
+            "name": "apartmentbuilding",
+            "slug": "apartmentbuilding",
+            "uri": "https://api.sketchfab.com/v3/tags/apartmentbuilding"
+        },
+        {
+            "name": "house-model",
+            "slug": "house-model",
+            "uri": "https://api.sketchfab.com/v3/tags/house-model"
+        },
+        {
+            "name": "architecture-design",
+            "slug": "architecture-design",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture-design"
+        },
+        {
+            "name": "architecture-building",
+            "slug": "architecture-building",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture-building"
+        },
+        {
+            "name": "housemodel",
+            "slug": "housemodel",
+            "uri": "https://api.sketchfab.com/v3/tags/housemodel"
+        },
+        {
+            "name": "steampunk-house",
+            "slug": "steampunk-house",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk-house"
+        },
+        {
+            "name": "steampunk-sci-fi",
+            "slug": "steampunk-sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk-sci-fi"
+        },
+        {
+            "name": "house-architecture",
+            "slug": "house-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/house-architecture"
+        },
+        {
+            "name": "citybuilding",
+            "slug": "citybuilding",
+            "uri": "https://api.sketchfab.com/v3/tags/citybuilding"
+        },
+        {
+            "name": "city-building",
+            "slug": "city-building",
+            "uri": "https://api.sketchfab.com/v3/tags/city-building"
+        },
+        {
+            "name": "pbr-textures",
+            "slug": "pbr-textures",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-textures"
+        },
+        {
+            "name": "building-design",
+            "slug": "building-design",
+            "uri": "https://api.sketchfab.com/v3/tags/building-design"
+        },
+        {
+            "name": "architecture-appartement",
+            "slug": "architecture-appartement",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture-appartement"
+        },
+        {
+            "name": "city-houses",
+            "slug": "city-houses",
+            "uri": "https://api.sketchfab.com/v3/tags/city-houses"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "building-architecture",
+            "slug": "building-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/building-architecture"
+        },
+        {
+            "name": "modern-building",
+            "slug": "modern-building",
+            "uri": "https://api.sketchfab.com/v3/tags/modern-building"
+        },
+        {
+            "name": "steampunkhouse",
+            "slug": "steampunkhouse",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunkhouse"
+        },
+        {
+            "name": "apartmenthouse",
+            "slug": "apartmenthouse",
+            "uri": "https://api.sketchfab.com/v3/tags/apartmenthouse"
+        },
+        {
+            "name": "housebuilding",
+            "slug": "housebuilding",
+            "uri": "https://api.sketchfab.com/v3/tags/housebuilding"
+        },
+        {
+            "name": "modernbuilding",
+            "slug": "modernbuilding",
+            "uri": "https://api.sketchfab.com/v3/tags/modernbuilding"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "meshyai",
+            "slug": "meshyai",
+            "uri": "https://api.sketchfab.com/v3/tags/meshyai"
+        },
+        {
+            "name": "meshycreatedwithaiairealistic",
+            "slug": "meshycreatedwithaiairealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/meshycreatedwithaiairealistic"
+        },
+        {
+            "name": "meshy3d",
+            "slug": "meshy3d",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy3d"
+        },
+        {
+            "name": "meshymodel",
+            "slug": "meshymodel",
+            "uri": "https://api.sketchfab.com/v3/tags/meshymodel"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "meshy-model",
+            "slug": "meshy-model",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy-model"
+        },
+        {
+            "name": "uvmapped-model",
+            "slug": "uvmapped-model",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped-model"
+        },
+        {
+            "name": "steampunk-building",
+            "slug": "steampunk-building",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk-building"
+        },
+        {
+            "name": "meshy3dai",
+            "slug": "meshy3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy3dai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "bf259725323f4187ae95cffedc47a78c",
+                "width": 1920,
+                "height": 1080,
+                "size": 402588,
+                "url": "https://media.sketchfab.com/models/046c9f9a8f744a5fa87afb41cec1c04f/thumbnails/07e785a317df47dc8a11e063d1d35968/bc67e010ec6047d19434523ac2805a2b.jpeg"
+            },
+            {
+                "uid": "ab90009c0d94449caaf6020599d0b60c",
+                "width": 1024,
+                "height": 576,
+                "size": 86060,
+                "url": "https://media.sketchfab.com/models/046c9f9a8f744a5fa87afb41cec1c04f/thumbnails/07e785a317df47dc8a11e063d1d35968/cfc9f56bb9da4e109aa53d3835cc94e2.jpeg"
+            },
+            {
+                "uid": "c585cead787f46578eff6b04ef1364f2",
+                "width": 720,
+                "height": 405,
+                "size": 46962,
+                "url": "https://media.sketchfab.com/models/046c9f9a8f744a5fa87afb41cec1c04f/thumbnails/07e785a317df47dc8a11e063d1d35968/65e96145d2154aa5a449cc95e9058888.jpeg"
+            },
+            {
+                "uid": "c5f4b724512c4e8691d5d8c306f41d42",
+                "width": 256,
+                "height": 144,
+                "size": 8779,
+                "url": "https://media.sketchfab.com/models/046c9f9a8f744a5fa87afb41cec1c04f/thumbnails/07e785a317df47dc8a11e063d1d35968/23596ea6f0bf4c79987d1bc6ba5b795d.jpeg"
+            },
+            {
+                "uid": "3d84aa561309456e84e26ecf6fa4dd7a",
+                "width": 64,
+                "height": 36,
+                "size": 1459,
+                "url": "https://media.sketchfab.com/models/046c9f9a8f744a5fa87afb41cec1c04f/thumbnails/07e785a317df47dc8a11e063d1d35968/fa181951a6a14a1d9bbeea0cd583289a.jpeg"
+            }
+        ]
+    },
+    "uid": "046c9f9a8f744a5fa87afb41cec1c04f",
+    "uri": "https://api.sketchfab.com/v3/models/046c9f9a8f744a5fa87afb41cec1c04f",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 864599,
+    "viewCount": 39,
+    "viewerUrl": "https://sketchfab.com/3d-models/steampunk-house-2nd-build-046c9f9a8f744a5fa87afb41cec1c04f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/046c9f9a8f744a5fa87afb41cec1c04f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T19:28:50.550583",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

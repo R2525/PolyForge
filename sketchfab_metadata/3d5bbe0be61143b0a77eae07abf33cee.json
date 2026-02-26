@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-03T20:41:31.583523",
+    "embedUrl": "https://sketchfab.com/models/3d5bbe0be61143b0a77eae07abf33cee/embed",
+    "faceCount": 10656,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Archery Target 01",
+    "publishedAt": "2026-01-03T20:50:41.354991",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "archery",
+            "slug": "archery",
+            "uri": "https://api.sketchfab.com/v3/tags/archery"
+        },
+        {
+            "name": "target",
+            "slug": "target",
+            "uri": "https://api.sketchfab.com/v3/tags/target"
+        },
+        {
+            "name": "shooting",
+            "slug": "shooting",
+            "uri": "https://api.sketchfab.com/v3/tags/shooting"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5057828ff4994f7d9ab8fc458d4f57ce",
+                "width": 1920,
+                "height": 1080,
+                "size": 209292,
+                "url": "https://media.sketchfab.com/models/3d5bbe0be61143b0a77eae07abf33cee/thumbnails/b45487d0961b4c30a4fd26284c95fa2d/eb9d548ec3b945718a552c0f22bf0934.jpeg"
+            },
+            {
+                "uid": "b4e339eb173b4f50a2eb63183cc92f30",
+                "width": 1024,
+                "height": 576,
+                "size": 46236,
+                "url": "https://media.sketchfab.com/models/3d5bbe0be61143b0a77eae07abf33cee/thumbnails/b45487d0961b4c30a4fd26284c95fa2d/d8528aa3762c4526bc7f1a27b0899391.jpeg"
+            },
+            {
+                "uid": "9be7fca89be54421a4467b46e2243ea5",
+                "width": 720,
+                "height": 405,
+                "size": 23766,
+                "url": "https://media.sketchfab.com/models/3d5bbe0be61143b0a77eae07abf33cee/thumbnails/b45487d0961b4c30a4fd26284c95fa2d/b8b67914fbc54c9586df250fb2996bca.jpeg"
+            },
+            {
+                "uid": "cb387a66c79248fb8ae9168eec0f91c3",
+                "width": 256,
+                "height": 144,
+                "size": 4763,
+                "url": "https://media.sketchfab.com/models/3d5bbe0be61143b0a77eae07abf33cee/thumbnails/b45487d0961b4c30a4fd26284c95fa2d/58b71fa39bde428bac69bed265e788b0.jpeg"
+            },
+            {
+                "uid": "996890189cc84acbb7afd50ee3d256db",
+                "width": 64,
+                "height": 36,
+                "size": 1079,
+                "url": "https://media.sketchfab.com/models/3d5bbe0be61143b0a77eae07abf33cee/thumbnails/b45487d0961b4c30a4fd26284c95fa2d/4aa01bc546e546b28fdc246cce2e4e08.jpeg"
+            }
+        ]
+    },
+    "uid": "3d5bbe0be61143b0a77eae07abf33cee",
+    "uri": "https://api.sketchfab.com/v3/models/3d5bbe0be61143b0a77eae07abf33cee",
+    "user": {
+        "uid": "1b17d81e9c314ef49b817e876b0919f4",
+        "username": "zmodpix",
+        "displayName": "zmodpix",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/zmodpix",
+        "avatar": {
+            "uid": "2a4b7b8461ce44b48faefd484600915c",
+            "uri": "https://api.sketchfab.com/v3/avatars/2a4b7b8461ce44b48faefd484600915c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2606,
+                    "url": "https://media.sketchfab.com/avatars/2a4b7b8461ce44b48faefd484600915c/3479fa2c67a64377a182c3f6b4030930.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5404,
+                    "url": "https://media.sketchfab.com/avatars/2a4b7b8461ce44b48faefd484600915c/c0bf9600ecbd4943afed5fbd12a39e06.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 15931,
+                    "url": "https://media.sketchfab.com/avatars/2a4b7b8461ce44b48faefd484600915c/28ed44d141d344a997e6d03fe33dad5f.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 18909,
+                    "url": "https://media.sketchfab.com/avatars/2a4b7b8461ce44b48faefd484600915c/98d1fd7f56af44a3be7180a3e283144c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1b17d81e9c314ef49b817e876b0919f4"
+    },
+    "vertexCount": 5520,
+    "viewCount": 121,
+    "viewerUrl": "https://sketchfab.com/3d-models/archery-target-01-3d5bbe0be61143b0a77eae07abf33cee",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Medieval archery targets\n\nMade in Blender\n\n4K PBR maps (Diffuse-Normal-Metallic-Roughness)",
+    "price": null,
+    "downloadCount": 41,
+    "editorUrl": "https://sketchfab.com/models/3d5bbe0be61143b0a77eae07abf33cee/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-03T20:50:41.552041",
+    "pbrType": "metalness",
+    "textureCount": 6,
+    "materialCount": 3
+}

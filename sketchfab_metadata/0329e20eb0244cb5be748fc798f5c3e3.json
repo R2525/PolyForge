@@ -1,0 +1,240 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-13T04:29:12.115318",
+    "embedUrl": "https://sketchfab.com/models/0329e20eb0244cb5be748fc798f5c3e3/embed",
+    "faceCount": 9816,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Low Poly Medieval Knight Templar Helmet PBR 3D",
+    "publishedAt": "2026-01-13T04:33:23.236325",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "quad",
+            "slug": "quad",
+            "uri": "https://api.sketchfab.com/v3/tags/quad"
+        },
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "european",
+            "slug": "european",
+            "uri": "https://api.sketchfab.com/v3/tags/european"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "helm",
+            "slug": "helm",
+            "uri": "https://api.sketchfab.com/v3/tags/helm"
+        },
+        {
+            "name": "subdivision",
+            "slug": "subdivision",
+            "uri": "https://api.sketchfab.com/v3/tags/subdivision"
+        },
+        {
+            "name": "crusader",
+            "slug": "crusader",
+            "uri": "https://api.sketchfab.com/v3/tags/crusader"
+        },
+        {
+            "name": "uvmapped",
+            "slug": "uvmapped",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped"
+        },
+        {
+            "name": "greathelm",
+            "slug": "greathelm",
+            "uri": "https://api.sketchfab.com/v3/tags/greathelm"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "steel",
+            "slug": "steel",
+            "uri": "https://api.sketchfab.com/v3/tags/steel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "63fa651dd9414f82985cc93bdeb8be78",
+                "width": 1920,
+                "height": 1080,
+                "size": 91386,
+                "url": "https://media.sketchfab.com/models/0329e20eb0244cb5be748fc798f5c3e3/thumbnails/ed6139ca85c34d47ad1eafc3fd61fdaa/a2c7070dfe2340f89577e02f1777715d.jpeg"
+            },
+            {
+                "uid": "18a04d521b5f447abfefe775a9970e62",
+                "width": 1024,
+                "height": 576,
+                "size": 30042,
+                "url": "https://media.sketchfab.com/models/0329e20eb0244cb5be748fc798f5c3e3/thumbnails/ed6139ca85c34d47ad1eafc3fd61fdaa/dc5db5a65f4d41d9865aa1016b94f0c7.jpeg"
+            },
+            {
+                "uid": "b555662d898c45a6928cd55aca1b32f6",
+                "width": 720,
+                "height": 405,
+                "size": 17362,
+                "url": "https://media.sketchfab.com/models/0329e20eb0244cb5be748fc798f5c3e3/thumbnails/ed6139ca85c34d47ad1eafc3fd61fdaa/2660c04456a245adb2cffc23e103f6f1.jpeg"
+            },
+            {
+                "uid": "bcd7bfd5ea084336938028ca0d72d4d7",
+                "width": 256,
+                "height": 144,
+                "size": 3718,
+                "url": "https://media.sketchfab.com/models/0329e20eb0244cb5be748fc798f5c3e3/thumbnails/ed6139ca85c34d47ad1eafc3fd61fdaa/79c4dc07a06542caa1d43645bf39cf6d.jpeg"
+            },
+            {
+                "uid": "6f4f2d609da14488ac99b8dd653fde8d",
+                "width": 64,
+                "height": 36,
+                "size": 972,
+                "url": "https://media.sketchfab.com/models/0329e20eb0244cb5be748fc798f5c3e3/thumbnails/ed6139ca85c34d47ad1eafc3fd61fdaa/db9e28a087e9419a8226da4b7f0fb9cf.jpeg"
+            }
+        ]
+    },
+    "uid": "0329e20eb0244cb5be748fc798f5c3e3",
+    "uri": "https://api.sketchfab.com/v3/models/0329e20eb0244cb5be748fc798f5c3e3",
+    "user": {
+        "uid": "bc34e8c7f56345faa1125c2bfe147272",
+        "username": "marius.negoita1669",
+        "displayName": "Maniro",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/marius.negoita1669",
+        "avatar": {
+            "uid": "f247085626eb424aae1276218c7cb3ce",
+            "uri": "https://api.sketchfab.com/v3/avatars/f247085626eb424aae1276218c7cb3ce",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1067,
+                    "url": "https://media.sketchfab.com/avatars/f247085626eb424aae1276218c7cb3ce/a46abd03d37b4ed29b04cef6961c4399.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1482,
+                    "url": "https://media.sketchfab.com/avatars/f247085626eb424aae1276218c7cb3ce/25690f9c4b58472abd282b4a1d853a93.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3473,
+                    "url": "https://media.sketchfab.com/avatars/f247085626eb424aae1276218c7cb3ce/169185bb1caa44f29f2115add62e0c7d.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4042,
+                    "url": "https://media.sketchfab.com/avatars/f247085626eb424aae1276218c7cb3ce/0dc563ca844044c98e9fc394ab80b541.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bc34e8c7f56345faa1125c2bfe147272"
+    },
+    "vertexCount": 4912,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-medieval-knight-templar-helmet-pbr-3d-0329e20eb0244cb5be748fc798f5c3e3",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Professional low poly medieval knight helmet with quad-only topology, subdivision-ready geometry, and detailed 4K PBR textures for games and cinematic projects.\n\nModel Description\n\nThis high-quality polygonal medieval knight templar helmet features accurate scale and realistic proportions. Designed for both real-time and high-end rendering pipelines.\n\nGeometry\n\nLow poly construction\n\nAll-quads topology\n\nClean edge flow\n\nSubdivision-ready (no creases)\n\nTextures & Materials\n\nPhysically Based Rendering (PBR)\n\nThe complete version of this asset, including full 4K PBR textures and multiple file formats, is available here: Turbosquid Search for:” Medieval Knight Helmet Collection Low Poly PBR 3D Models Ultimate Pack” by 3Ddays CG Trader Search for: “Low Poly Medieval Knight Helmet Collection PBR 3D Ultimate Pack” by 3DdaysStudio",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0329e20eb0244cb5be748fc798f5c3e3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-13T05:43:12.094162",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

@@ -1,0 +1,216 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T12:26:00.302515",
+    "embedUrl": "https://sketchfab.com/models/1763af8d0f6040e0997588b19f92c7a1/embed",
+    "faceCount": 505922,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Crimson Vanguard",
+    "publishedAt": "2026-02-24T12:26:47.128658",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "hero",
+            "slug": "hero",
+            "uri": "https://api.sketchfab.com/v3/tags/hero"
+        },
+        {
+            "name": "beard",
+            "slug": "beard",
+            "uri": "https://api.sketchfab.com/v3/tags/beard"
+        },
+        {
+            "name": "elder",
+            "slug": "elder",
+            "uri": "https://api.sketchfab.com/v3/tags/elder"
+        },
+        {
+            "name": "vanguard",
+            "slug": "vanguard",
+            "uri": "https://api.sketchfab.com/v3/tags/vanguard"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "14c5a9f2de824abfbbb438f87cf126d0",
+                "width": 1920,
+                "height": 1080,
+                "size": 79978,
+                "url": "https://media.sketchfab.com/models/1763af8d0f6040e0997588b19f92c7a1/thumbnails/a23ab141ba6840c2b7732a130c33f74e/8037d63696b5406d99567cc0258779e8.jpeg"
+            },
+            {
+                "uid": "e9c5cd4d12c0417bb620192ee2a01eae",
+                "width": 1024,
+                "height": 576,
+                "size": 27385,
+                "url": "https://media.sketchfab.com/models/1763af8d0f6040e0997588b19f92c7a1/thumbnails/a23ab141ba6840c2b7732a130c33f74e/1cf3f8c334fd4e5fae0af555681d42ca.jpeg"
+            },
+            {
+                "uid": "6b3f3c55868f4b8a9aadc5237179b897",
+                "width": 720,
+                "height": 405,
+                "size": 16002,
+                "url": "https://media.sketchfab.com/models/1763af8d0f6040e0997588b19f92c7a1/thumbnails/a23ab141ba6840c2b7732a130c33f74e/c6eca0d2cfbc498cbb308ec37fab6559.jpeg"
+            },
+            {
+                "uid": "ff1b33783aa44f92b9e8bf2a9940db89",
+                "width": 256,
+                "height": 144,
+                "size": 3524,
+                "url": "https://media.sketchfab.com/models/1763af8d0f6040e0997588b19f92c7a1/thumbnails/a23ab141ba6840c2b7732a130c33f74e/7c1d1d8e7efa4be7b3bf3d8f6a6ca806.jpeg"
+            },
+            {
+                "uid": "28735219c578461895e080f5db6331f5",
+                "width": 64,
+                "height": 36,
+                "size": 1002,
+                "url": "https://media.sketchfab.com/models/1763af8d0f6040e0997588b19f92c7a1/thumbnails/a23ab141ba6840c2b7732a130c33f74e/7a8e6a38a5414967b51e134fda01a5af.jpeg"
+            }
+        ]
+    },
+    "uid": "1763af8d0f6040e0997588b19f92c7a1",
+    "uri": "https://api.sketchfab.com/v3/models/1763af8d0f6040e0997588b19f92c7a1",
+    "user": {
+        "uid": "f838fc75d06e4cde8e4b4191bde57051",
+        "username": "Zonar",
+        "displayName": "Zonar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Zonar",
+        "avatar": {
+            "uid": "746789191bd542f18683309fc6395a07",
+            "uri": "https://api.sketchfab.com/v3/avatars/746789191bd542f18683309fc6395a07",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1100,
+                    "url": "https://media.sketchfab.com/avatars/746789191bd542f18683309fc6395a07/b2198b5c7c884912bdc1c906d138ac4e.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1568,
+                    "url": "https://media.sketchfab.com/avatars/746789191bd542f18683309fc6395a07/8a3d78a9e1f84abc8f6a35ff1e0b6588.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3546,
+                    "url": "https://media.sketchfab.com/avatars/746789191bd542f18683309fc6395a07/f69a317d5c9c4a1f866436ddc5c52d5a.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4080,
+                    "url": "https://media.sketchfab.com/avatars/746789191bd542f18683309fc6395a07/573830ba72bb4103833984fdcc39278a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f838fc75d06e4cde8e4b4191bde57051"
+    },
+    "vertexCount": 252958,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/crimson-vanguard-1763af8d0f6040e0997588b19f92c7a1",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "3D",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/1763af8d0f6040e0997588b19f92c7a1/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T12:28:25.025003",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

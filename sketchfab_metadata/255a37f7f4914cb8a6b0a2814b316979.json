@@ -1,0 +1,330 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-22T00:11:16.924595",
+    "embedUrl": "https://sketchfab.com/models/255a37f7f4914cb8a6b0a2814b316979/embed",
+    "faceCount": 499688,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Wooden Treasure Chest",
+    "publishedAt": "2025-11-22T00:12:23.457386",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "crate",
+            "slug": "crate",
+            "uri": "https://api.sketchfab.com/v3/tags/crate"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "coin",
+            "slug": "coin",
+            "uri": "https://api.sketchfab.com/v3/tags/coin"
+        },
+        {
+            "name": "key",
+            "slug": "key",
+            "uri": "https://api.sketchfab.com/v3/tags/key"
+        },
+        {
+            "name": "chest",
+            "slug": "chest",
+            "uri": "https://api.sketchfab.com/v3/tags/chest"
+        },
+        {
+            "name": "vintage",
+            "slug": "vintage",
+            "uri": "https://api.sketchfab.com/v3/tags/vintage"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "lock",
+            "slug": "lock",
+            "uri": "https://api.sketchfab.com/v3/tags/lock"
+        },
+        {
+            "name": "open",
+            "slug": "open",
+            "uri": "https://api.sketchfab.com/v3/tags/open"
+        },
+        {
+            "name": "antique",
+            "slug": "antique",
+            "uri": "https://api.sketchfab.com/v3/tags/antique"
+        },
+        {
+            "name": "ocean",
+            "slug": "ocean",
+            "uri": "https://api.sketchfab.com/v3/tags/ocean"
+        },
+        {
+            "name": "decorative",
+            "slug": "decorative",
+            "uri": "https://api.sketchfab.com/v3/tags/decorative"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "treasure",
+            "slug": "treasure",
+            "uri": "https://api.sketchfab.com/v3/tags/treasure"
+        },
+        {
+            "name": "loot",
+            "slug": "loot",
+            "uri": "https://api.sketchfab.com/v3/tags/loot"
+        },
+        {
+            "name": "scenario",
+            "slug": "scenario",
+            "uri": "https://api.sketchfab.com/v3/tags/scenario"
+        },
+        {
+            "name": "decor",
+            "slug": "decor",
+            "uri": "https://api.sketchfab.com/v3/tags/decor"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "box",
+            "slug": "box",
+            "uri": "https://api.sketchfab.com/v3/tags/box"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "bands",
+            "slug": "bands",
+            "uri": "https://api.sketchfab.com/v3/tags/bands"
+        },
+        {
+            "name": "metallic",
+            "slug": "metallic",
+            "uri": "https://api.sketchfab.com/v3/tags/metallic"
+        },
+        {
+            "name": "shaded",
+            "slug": "shaded",
+            "uri": "https://api.sketchfab.com/v3/tags/shaded"
+        },
+        {
+            "name": "treasurechest",
+            "slug": "treasurechest",
+            "uri": "https://api.sketchfab.com/v3/tags/treasurechest"
+        },
+        {
+            "name": "padlock",
+            "slug": "padlock",
+            "uri": "https://api.sketchfab.com/v3/tags/padlock"
+        },
+        {
+            "name": "reward",
+            "slug": "reward",
+            "uri": "https://api.sketchfab.com/v3/tags/reward"
+        },
+        {
+            "name": "achievement",
+            "slug": "achievement",
+            "uri": "https://api.sketchfab.com/v3/tags/achievement"
+        },
+        {
+            "name": "close",
+            "slug": "close",
+            "uri": "https://api.sketchfab.com/v3/tags/close"
+        },
+        {
+            "name": "lootbox",
+            "slug": "lootbox",
+            "uri": "https://api.sketchfab.com/v3/tags/lootbox"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "pirate",
+            "slug": "pirate",
+            "uri": "https://api.sketchfab.com/v3/tags/pirate"
+        },
+        {
+            "name": "decoration",
+            "slug": "decoration",
+            "uri": "https://api.sketchfab.com/v3/tags/decoration"
+        },
+        {
+            "name": "sea",
+            "slug": "sea",
+            "uri": "https://api.sketchfab.com/v3/tags/sea"
+        },
+        {
+            "name": "gold",
+            "slug": "gold",
+            "uri": "https://api.sketchfab.com/v3/tags/gold"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8f90a52fadd74fef80643b075ba149f2",
+                "width": 1920,
+                "height": 1080,
+                "size": 159972,
+                "url": "https://media.sketchfab.com/models/255a37f7f4914cb8a6b0a2814b316979/thumbnails/a11db7b779394921af36e2db5ad5221d/2813c8dce1dd423e88504e075ffa01d1.jpeg"
+            },
+            {
+                "uid": "a0226d58a5f04a1f98eb28cba7506ef8",
+                "width": 1024,
+                "height": 576,
+                "size": 50062,
+                "url": "https://media.sketchfab.com/models/255a37f7f4914cb8a6b0a2814b316979/thumbnails/a11db7b779394921af36e2db5ad5221d/af68f2d987ab4dfd883eaf369590913b.jpeg"
+            },
+            {
+                "uid": "013ff8cc585f4654954af2cb6c84a280",
+                "width": 720,
+                "height": 405,
+                "size": 28410,
+                "url": "https://media.sketchfab.com/models/255a37f7f4914cb8a6b0a2814b316979/thumbnails/a11db7b779394921af36e2db5ad5221d/b2f976d847a842cba7e1e496861d9a6d.jpeg"
+            },
+            {
+                "uid": "7647afdcecd549708b3066f39c8d6107",
+                "width": 256,
+                "height": 144,
+                "size": 5670,
+                "url": "https://media.sketchfab.com/models/255a37f7f4914cb8a6b0a2814b316979/thumbnails/a11db7b779394921af36e2db5ad5221d/f98915c1dab347c2b0df6773df6e503f.jpeg"
+            },
+            {
+                "uid": "45b63c780cab4232a2a794e60b3d7a2f",
+                "width": 64,
+                "height": 36,
+                "size": 1133,
+                "url": "https://media.sketchfab.com/models/255a37f7f4914cb8a6b0a2814b316979/thumbnails/a11db7b779394921af36e2db5ad5221d/04b433a4e91c49a4aba63e30c463f217.jpeg"
+            }
+        ]
+    },
+    "uid": "255a37f7f4914cb8a6b0a2814b316979",
+    "uri": "https://api.sketchfab.com/v3/models/255a37f7f4914cb8a6b0a2814b316979",
+    "user": {
+        "uid": "244e1aa2a2f14d968a522b89494253c9",
+        "username": "korvanastudio",
+        "displayName": "Korvana Studio",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/korvanastudio",
+        "avatar": {
+            "uid": "341bb918194e498ab5d7a70264237a92",
+            "uri": "https://api.sketchfab.com/v3/avatars/341bb918194e498ab5d7a70264237a92",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 962,
+                    "url": "https://media.sketchfab.com/avatars/341bb918194e498ab5d7a70264237a92/ebde8c81e80d4df9b171c4ff6b627ca4.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1413,
+                    "url": "https://media.sketchfab.com/avatars/341bb918194e498ab5d7a70264237a92/6200e9ba74c14331a399536d779e99b7.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2643,
+                    "url": "https://media.sketchfab.com/avatars/341bb918194e498ab5d7a70264237a92/343603929f50452c85c62260461ff2d2.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3108,
+                    "url": "https://media.sketchfab.com/avatars/341bb918194e498ab5d7a70264237a92/6f7e0c389ac24db2aad26ad2d894b60a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/244e1aa2a2f14d968a522b89494253c9"
+    },
+    "vertexCount": 277541,
+    "viewCount": 192,
+    "viewerUrl": "https://sketchfab.com/3d-models/wooden-treasure-chest-255a37f7f4914cb8a6b0a2814b316979",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Wooden treasure chest with metal bands, generated with AI.\n\nThis model was generated 100% with artificial intelligence (AI), from its reference image to the creation of the 3D model, and is part of a research project on artificial intelligence, but for those who want to acquire the model, they can use it however they want.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/255a37f7f4914cb8a6b0a2814b316979/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-23T20:03:03.254326",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

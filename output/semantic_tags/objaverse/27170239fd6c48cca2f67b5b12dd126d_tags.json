@@ -1,0 +1,41 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.8
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.65
+        },
+        {
+            "name": "Military",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.45
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty"
+    ],
+    "tags": [
+        "slingshot",
+        "weapon",
+        "gun"
+    ]
+}

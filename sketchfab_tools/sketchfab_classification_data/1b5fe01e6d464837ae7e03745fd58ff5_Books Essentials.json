@@ -1,0 +1,69 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Victorian",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.8
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.5
+        },
+        {
+            "name": "3D Render",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Dusty",
+        "Mossy",
+        "Cracked",
+        "Weathered"
+    ],
+    "tags": [
+        "3D model",
+        "books",
+        "furniture",
+        "home",
+        "vintage",
+        "illustration",
+        "textures",
+        "design"
+    ],
+    "model_id_full": "1b5fe01e6d464837ae7e03745fd58ff5_Books Essentials",
+    "sketchfab_id": "1b5fe01e6d464837ae7e03745fd58ff5",
+    "asset_name": "Books Essentials"
+}

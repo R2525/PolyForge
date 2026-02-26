@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T03:36:21.673990",
+    "embedUrl": "https://sketchfab.com/models/2b3b4ee4d3c9401a9bb258d6a72864a9/embed",
+    "faceCount": 288,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Stylised Grass",
+    "publishedAt": "2026-02-22T03:36:56.537293",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "plant",
+            "slug": "plant",
+            "uri": "https://api.sketchfab.com/v3/tags/plant"
+        },
+        {
+            "name": "grass",
+            "slug": "grass",
+            "uri": "https://api.sketchfab.com/v3/tags/grass"
+        },
+        {
+            "name": "stylised",
+            "slug": "stylised",
+            "uri": "https://api.sketchfab.com/v3/tags/stylised"
+        },
+        {
+            "name": "folliage",
+            "slug": "folliage",
+            "uri": "https://api.sketchfab.com/v3/tags/folliage"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b303de5f446e4092a99b2bb5ad92a012",
+                "width": 1920,
+                "height": 1080,
+                "size": 44450,
+                "url": "https://media.sketchfab.com/models/2b3b4ee4d3c9401a9bb258d6a72864a9/thumbnails/62d5db770fd444dc8d3c28bb0cd26d11/a6102deba33a43479db0c4bafcefddc1.jpeg"
+            },
+            {
+                "uid": "d2a63c1a20e54bbc8be949ec9d496ffc",
+                "width": 1024,
+                "height": 576,
+                "size": 14940,
+                "url": "https://media.sketchfab.com/models/2b3b4ee4d3c9401a9bb258d6a72864a9/thumbnails/62d5db770fd444dc8d3c28bb0cd26d11/2f6f3ec684564f6abbacfdab50b5e7a4.jpeg"
+            },
+            {
+                "uid": "8a6d7a1fe08342f3912308c8126afe77",
+                "width": 720,
+                "height": 405,
+                "size": 8673,
+                "url": "https://media.sketchfab.com/models/2b3b4ee4d3c9401a9bb258d6a72864a9/thumbnails/62d5db770fd444dc8d3c28bb0cd26d11/b5e24059f81d438dbf63a117722bddf4.jpeg"
+            },
+            {
+                "uid": "a8f53ecf45f74860bf594af23b1c6de4",
+                "width": 256,
+                "height": 144,
+                "size": 2057,
+                "url": "https://media.sketchfab.com/models/2b3b4ee4d3c9401a9bb258d6a72864a9/thumbnails/62d5db770fd444dc8d3c28bb0cd26d11/c506fa553c824be6aac087c3c6d49513.jpeg"
+            },
+            {
+                "uid": "ffee12cb75284cccba60a3355d0f06d1",
+                "width": 64,
+                "height": 36,
+                "size": 806,
+                "url": "https://media.sketchfab.com/models/2b3b4ee4d3c9401a9bb258d6a72864a9/thumbnails/62d5db770fd444dc8d3c28bb0cd26d11/f4ddf9bab25c417791f93241b0ac2dd2.jpeg"
+            }
+        ]
+    },
+    "uid": "2b3b4ee4d3c9401a9bb258d6a72864a9",
+    "uri": "https://api.sketchfab.com/v3/models/2b3b4ee4d3c9401a9bb258d6a72864a9",
+    "user": {
+        "uid": "db0487ecf5aa46b8bb0726b592b249b8",
+        "username": "danresikit1986",
+        "displayName": "danresikit1986",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/danresikit1986",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/db0487ecf5aa46b8bb0726b592b249b8"
+    },
+    "vertexCount": 252,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylised-grass-2b3b4ee4d3c9401a9bb258d6a72864a9",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the original file.The Converted version is intended exclusively for browser preview. In the source file, the following are fully preserved:✔ full scene structure✔ complete materials without reduction✔ correct PBR texture maps✔ correct object namesIf you are going to integrate the model into a project, choose the original version.stylised grass proceedural textures",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/2b3b4ee4d3c9401a9bb258d6a72864a9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T03:36:56.692634",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

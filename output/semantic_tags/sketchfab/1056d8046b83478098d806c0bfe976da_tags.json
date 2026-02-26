@@ -1,0 +1,44 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.8
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.65
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.95
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.8
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Mossy",
+        "Broken"
+    ],
+    "tags": [
+        "character",
+        "creature",
+        "mossy",
+        "glowing",
+        "volumetric"
+    ]
+}

@@ -1,0 +1,344 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-01T20:48:35.189382",
+    "embedUrl": "https://sketchfab.com/models/37a516e55b644643a814c9ed52b9e349/embed",
+    "faceCount": 1701760,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Baptismal Font - 12th century - Spain",
+    "publishedAt": "2026-02-01T21:10:23.345450",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "spain",
+            "slug": "spain",
+            "uri": "https://api.sketchfab.com/v3/tags/spain"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "heritage",
+            "slug": "heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage"
+        },
+        {
+            "name": "patrimonio",
+            "slug": "patrimonio",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimonio"
+        },
+        {
+            "name": "limestone",
+            "slug": "limestone",
+            "uri": "https://api.sketchfab.com/v3/tags/limestone"
+        },
+        {
+            "name": "3dscanning",
+            "slug": "3dscanning",
+            "uri": "https://api.sketchfab.com/v3/tags/3dscanning"
+        },
+        {
+            "name": "arqueologia",
+            "slug": "arqueologia",
+            "uri": "https://api.sketchfab.com/v3/tags/arqueologia"
+        },
+        {
+            "name": "historia",
+            "slug": "historia",
+            "uri": "https://api.sketchfab.com/v3/tags/historia"
+        },
+        {
+            "name": "guadalajara",
+            "slug": "guadalajara",
+            "uri": "https://api.sketchfab.com/v3/tags/guadalajara"
+        },
+        {
+            "name": "arqueologia-virtual",
+            "slug": "arqueologia-virtual",
+            "uri": "https://api.sketchfab.com/v3/tags/arqueologia-virtual"
+        },
+        {
+            "name": "archaeology-historical",
+            "slug": "archaeology-historical",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology-historical"
+        },
+        {
+            "name": "archaeology-architecture-3dmodel-photogrammetry",
+            "slug": "archaeology-architecture-3dmodel-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology-architecture-3dmodel-photogrammetry"
+        },
+        {
+            "name": "heritage-photogrammetry",
+            "slug": "heritage-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage-photogrammetry"
+        },
+        {
+            "name": "patrimonio-cultural",
+            "slug": "patrimonio-cultural",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimonio-cultural"
+        },
+        {
+            "name": "bautismal",
+            "slug": "bautismal",
+            "uri": "https://api.sketchfab.com/v3/tags/bautismal"
+        },
+        {
+            "name": "heritage-photogrametry-model3d",
+            "slug": "heritage-photogrametry-model3d",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage-photogrametry-model3d"
+        },
+        {
+            "name": "medieval-archaeology",
+            "slug": "medieval-archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-archaeology"
+        },
+        {
+            "name": "heritage-3dscanning",
+            "slug": "heritage-3dscanning",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage-3dscanning"
+        },
+        {
+            "name": "patrimoniovirtual",
+            "slug": "patrimoniovirtual",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimoniovirtual"
+        },
+        {
+            "name": "historia-del-arte",
+            "slug": "historia-del-arte",
+            "uri": "https://api.sketchfab.com/v3/tags/historia-del-arte"
+        },
+        {
+            "name": "heritage-scan",
+            "slug": "heritage-scan",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage-scan"
+        },
+        {
+            "name": "arqueologia-photogrammetry",
+            "slug": "arqueologia-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/arqueologia-photogrammetry"
+        },
+        {
+            "name": "heritage-preservation",
+            "slug": "heritage-preservation",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage-preservation"
+        },
+        {
+            "name": "history-of-art",
+            "slug": "history-of-art",
+            "uri": "https://api.sketchfab.com/v3/tags/history-of-art"
+        },
+        {
+            "name": "atienza",
+            "slug": "atienza",
+            "uri": "https://api.sketchfab.com/v3/tags/atienza"
+        },
+        {
+            "name": "patrimonio-historico",
+            "slug": "patrimonio-historico",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimonio-historico"
+        },
+        {
+            "name": "history-archaeology",
+            "slug": "history-archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/history-archaeology"
+        },
+        {
+            "name": "archaeology",
+            "slug": "archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology"
+        },
+        {
+            "name": "archaeology-3dmodel-photogrammetry",
+            "slug": "archaeology-3dmodel-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/archaeology-3dmodel-photogrammetry"
+        },
+        {
+            "name": "history",
+            "slug": "history",
+            "uri": "https://api.sketchfab.com/v3/tags/history"
+        },
+        {
+            "name": "historiadelartedigital",
+            "slug": "historiadelartedigital",
+            "uri": "https://api.sketchfab.com/v3/tags/historiadelartedigital"
+        },
+        {
+            "name": "spain-heritage-photogrammetry-archaeology",
+            "slug": "spain-heritage-photogrammetry-archaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/spain-heritage-photogrammetry-archaeology"
+        },
+        {
+            "name": "spanisharchaeology",
+            "slug": "spanisharchaeology",
+            "uri": "https://api.sketchfab.com/v3/tags/spanisharchaeology"
+        },
+        {
+            "name": "heritage-conservation",
+            "slug": "heritage-conservation",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage-conservation"
+        },
+        {
+            "name": "history-historical-cultural-heritage",
+            "slug": "history-historical-cultural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/history-historical-cultural-heritage"
+        },
+        {
+            "name": "patrimonio-digital",
+            "slug": "patrimonio-digital",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimonio-digital"
+        },
+        {
+            "name": "limestone-rock",
+            "slug": "limestone-rock",
+            "uri": "https://api.sketchfab.com/v3/tags/limestone-rock"
+        },
+        {
+            "name": "guadalajaraspain",
+            "slug": "guadalajaraspain",
+            "uri": "https://api.sketchfab.com/v3/tags/guadalajaraspain"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "dd9b29e9cb3a4068bea1b34c93cf171a",
+                "width": 1920,
+                "height": 1080,
+                "size": 253724,
+                "url": "https://media.sketchfab.com/models/37a516e55b644643a814c9ed52b9e349/thumbnails/f30d8f3bb30f464ab99378b50fc0bdf8/9d93f16581b54b73941a35e72ab4a37c.jpeg"
+            },
+            {
+                "uid": "765d86dbccd14cf7890febba875cc4fb",
+                "width": 1024,
+                "height": 576,
+                "size": 70644,
+                "url": "https://media.sketchfab.com/models/37a516e55b644643a814c9ed52b9e349/thumbnails/f30d8f3bb30f464ab99378b50fc0bdf8/9f85b31a355145bc86319f808865a9b2.jpeg"
+            },
+            {
+                "uid": "0f1eba0710014b5d990b580921c92465",
+                "width": 720,
+                "height": 405,
+                "size": 36306,
+                "url": "https://media.sketchfab.com/models/37a516e55b644643a814c9ed52b9e349/thumbnails/f30d8f3bb30f464ab99378b50fc0bdf8/24d8ca3f1b364af8a90ab3fa46e64dd8.jpeg"
+            },
+            {
+                "uid": "2cff4fc3c79d43ceac1b359b81950159",
+                "width": 256,
+                "height": 144,
+                "size": 5562,
+                "url": "https://media.sketchfab.com/models/37a516e55b644643a814c9ed52b9e349/thumbnails/f30d8f3bb30f464ab99378b50fc0bdf8/3d5a3932a2ba4ac6a31adf4483c66621.jpeg"
+            },
+            {
+                "uid": "eb20d163f7d34a7a821202e0e021991f",
+                "width": 64,
+                "height": 36,
+                "size": 1183,
+                "url": "https://media.sketchfab.com/models/37a516e55b644643a814c9ed52b9e349/thumbnails/f30d8f3bb30f464ab99378b50fc0bdf8/2194b7c7f89c448b9c28bfb6c79549f5.jpeg"
+            }
+        ]
+    },
+    "uid": "37a516e55b644643a814c9ed52b9e349",
+    "uri": "https://api.sketchfab.com/v3/models/37a516e55b644643a814c9ed52b9e349",
+    "user": {
+        "uid": "46e9653dfa7746069a60e0c29c974a51",
+        "username": "SoniaCorvus",
+        "displayName": "Sonia Corvus",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/SoniaCorvus",
+        "avatar": {
+            "uid": "8fb878965ebe422b933f8f1ccbf7eb1b",
+            "uri": "https://api.sketchfab.com/v3/avatars/8fb878965ebe422b933f8f1ccbf7eb1b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1116,
+                    "url": "https://media.sketchfab.com/avatars/8fb878965ebe422b933f8f1ccbf7eb1b/70b94a26311e478cb77152e577aa63f6.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1616,
+                    "url": "https://media.sketchfab.com/avatars/8fb878965ebe422b933f8f1ccbf7eb1b/f18eba9701b3461db2c37e581242186e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3694,
+                    "url": "https://media.sketchfab.com/avatars/8fb878965ebe422b933f8f1ccbf7eb1b/73a33b87b2b3438eae852533002e8906.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4220,
+                    "url": "https://media.sketchfab.com/avatars/8fb878965ebe422b933f8f1ccbf7eb1b/b3938a9f0e99409ab6d7ce6a6ea1ec2f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/46e9653dfa7746069a60e0c29c974a51"
+    },
+    "vertexCount": 850870,
+    "viewCount": 16,
+    "viewerUrl": "https://sketchfab.com/3d-models/baptismal-font-12th-century-spain-37a516e55b644643a814c9ed52b9e349",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Baptismal font, Church of St. Bartholomew - 12th century - Atienza (Guadalajara), Spain.**\n\nDimensions: *83 cm high x 113 cm diameter at the top*.\n\nLimestone.\n\nIt is located inside a small enclosure at the western end of the church.\n\nThe base is truncated pyramidal and decorated with grooves; the bowl is hemispherical and made from a single piece. The rim is decorated with diamond points and the outer face with semicircular arches resting on paired columns.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/37a516e55b644643a814c9ed52b9e349/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-01T21:10:23.461521",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

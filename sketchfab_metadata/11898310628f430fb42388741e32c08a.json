@@ -1,0 +1,209 @@
+{
+    "animationCount": 28,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T19:58:25.197486",
+    "embedUrl": "https://sketchfab.com/models/11898310628f430fb42388741e32c08a/embed",
+    "faceCount": 1128,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Metagross Galaxy (Cobblemon)",
+    "publishedAt": "2026-02-20T20:11:24.843502",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "crate",
+            "slug": "crate",
+            "uri": "https://api.sketchfab.com/v3/tags/crate"
+        },
+        {
+            "name": "server",
+            "slug": "server",
+            "uri": "https://api.sketchfab.com/v3/tags/server"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "Galaxy",
+            "slug": "galaxy",
+            "uri": "https://api.sketchfab.com/v3/tags/galaxy"
+        },
+        {
+            "name": "sell",
+            "slug": "sell",
+            "uri": "https://api.sketchfab.com/v3/tags/sell"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "cobblemon",
+            "slug": "cobblemon",
+            "uri": "https://api.sketchfab.com/v3/tags/cobblemon"
+        },
+        {
+            "name": "pixemon",
+            "slug": "pixemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pixemon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7a452503fbe7421999bf81650d2e1561",
+                "width": 1920,
+                "height": 1080,
+                "size": 106861,
+                "url": "https://media.sketchfab.com/models/11898310628f430fb42388741e32c08a/thumbnails/a190cc0e3b3b47cf924e6542bdcd5266/1988c27cad3d40ed9e53bf39e35ce7c6.jpeg"
+            },
+            {
+                "uid": "4be1768834624230b1f858598ff6eb8f",
+                "width": 1024,
+                "height": 576,
+                "size": 40091,
+                "url": "https://media.sketchfab.com/models/11898310628f430fb42388741e32c08a/thumbnails/a190cc0e3b3b47cf924e6542bdcd5266/b2057be2103b4432b95b3ff52bddc0c4.jpeg"
+            },
+            {
+                "uid": "9998ef02280045d8957a2ff4135529de",
+                "width": 720,
+                "height": 405,
+                "size": 24985,
+                "url": "https://media.sketchfab.com/models/11898310628f430fb42388741e32c08a/thumbnails/a190cc0e3b3b47cf924e6542bdcd5266/6a855623a8a543e089beb45474e27e76.jpeg"
+            },
+            {
+                "uid": "4e2b2411248b4824857a4af40fb6d693",
+                "width": 256,
+                "height": 144,
+                "size": 6270,
+                "url": "https://media.sketchfab.com/models/11898310628f430fb42388741e32c08a/thumbnails/a190cc0e3b3b47cf924e6542bdcd5266/414ca54b05d64d84bc8d4006d0733d63.jpeg"
+            },
+            {
+                "uid": "bc2e310143a348d9ad42d26f6a0e4fe6",
+                "width": 64,
+                "height": 36,
+                "size": 1310,
+                "url": "https://media.sketchfab.com/models/11898310628f430fb42388741e32c08a/thumbnails/a190cc0e3b3b47cf924e6542bdcd5266/137040dfa37b42f08a437a5e3d41b1b5.jpeg"
+            }
+        ]
+    },
+    "uid": "11898310628f430fb42388741e32c08a",
+    "uri": "https://api.sketchfab.com/v3/models/11898310628f430fb42388741e32c08a",
+    "user": {
+        "uid": "8111a8f67a24456daca3b2825ebed417",
+        "username": "Acesky",
+        "displayName": "Acesky",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Acesky",
+        "avatar": {
+            "uid": "2c6213bfb2134cdb955b3429932f3366",
+            "uri": "https://api.sketchfab.com/v3/avatars/2c6213bfb2134cdb955b3429932f3366",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 970,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/966d614345e54b6e9e8182364e2b8d4a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1249,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/75155f3e349b46a1ab44adbb1b4580d8.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2319,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/055e7547ae8f436292ddd0ebc9b46c03.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2617,
+                    "url": "https://media.sketchfab.com/avatars/2c6213bfb2134cdb955b3429932f3366/da4b85ed779c4b41a5ce53a6e7130728.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8111a8f67a24456daca3b2825ebed417"
+    },
+    "vertexCount": 752,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/metagross-galaxy-cobblemon-11898310628f430fb42388741e32c08a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/11898310628f430fb42388741e32c08a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T20:11:25.004451",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,199 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-12-01T05:17:08.134238",
+    "embedUrl": "https://sketchfab.com/models/1fbe3fd26f83407283bdb983638072f9/embed",
+    "faceCount": 15960,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Rustic Kettle",
+    "publishedAt": "2025-12-01T05:48:46.848844",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "teapot",
+            "slug": "teapot",
+            "uri": "https://api.sketchfab.com/v3/tags/teapot"
+        },
+        {
+            "name": "tea",
+            "slug": "tea",
+            "uri": "https://api.sketchfab.com/v3/tags/tea"
+        },
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "coffee",
+            "slug": "coffee",
+            "uri": "https://api.sketchfab.com/v3/tags/coffee"
+        },
+        {
+            "name": "rust",
+            "slug": "rust",
+            "uri": "https://api.sketchfab.com/v3/tags/rust"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "rustic",
+            "slug": "rustic",
+            "uri": "https://api.sketchfab.com/v3/tags/rustic"
+        },
+        {
+            "name": "kettle",
+            "slug": "kettle",
+            "uri": "https://api.sketchfab.com/v3/tags/kettle"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ab88cb72896141c185af7505348b7314",
+                "width": 1920,
+                "height": 1080,
+                "size": 164374,
+                "url": "https://media.sketchfab.com/models/1fbe3fd26f83407283bdb983638072f9/thumbnails/80a1d09f59a047f49b2cb2a7d9690f7e/8bdae24af6334e408e531e4d512b6064.jpeg"
+            },
+            {
+                "uid": "4b309c9f484e4da1a3aaf042ba9586f6",
+                "width": 1024,
+                "height": 576,
+                "size": 43998,
+                "url": "https://media.sketchfab.com/models/1fbe3fd26f83407283bdb983638072f9/thumbnails/80a1d09f59a047f49b2cb2a7d9690f7e/f9654a17c78f428097e13ef0048eabca.jpeg"
+            },
+            {
+                "uid": "8d80540b5e19445c9a9d4b275296d709",
+                "width": 720,
+                "height": 405,
+                "size": 22245,
+                "url": "https://media.sketchfab.com/models/1fbe3fd26f83407283bdb983638072f9/thumbnails/80a1d09f59a047f49b2cb2a7d9690f7e/438c9c02cd9441b6ac998532cce1c6c8.jpeg"
+            },
+            {
+                "uid": "1473413e4a86461f899a7fede9e43399",
+                "width": 256,
+                "height": 144,
+                "size": 3691,
+                "url": "https://media.sketchfab.com/models/1fbe3fd26f83407283bdb983638072f9/thumbnails/80a1d09f59a047f49b2cb2a7d9690f7e/f3523402b9a0409cb1260bab2d902e80.jpeg"
+            },
+            {
+                "uid": "0d2b71ddb19541f48a1a85be7a93660c",
+                "width": 64,
+                "height": 36,
+                "size": 995,
+                "url": "https://media.sketchfab.com/models/1fbe3fd26f83407283bdb983638072f9/thumbnails/80a1d09f59a047f49b2cb2a7d9690f7e/e54b125186f247e5b19c4ee605fc4576.jpeg"
+            }
+        ]
+    },
+    "uid": "1fbe3fd26f83407283bdb983638072f9",
+    "uri": "https://api.sketchfab.com/v3/models/1fbe3fd26f83407283bdb983638072f9",
+    "user": {
+        "uid": "d8cb79082f364330b3beb05ff55c29b2",
+        "username": "theeMAarts",
+        "displayName": "theeMAarts",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/theeMAarts",
+        "avatar": {
+            "uid": "36258ccca5ed4a60a3c64870400a25fb",
+            "uri": "https://api.sketchfab.com/v3/avatars/36258ccca5ed4a60a3c64870400a25fb",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1002,
+                    "url": "https://media.sketchfab.com/avatars/36258ccca5ed4a60a3c64870400a25fb/78e3724efbf24dd78102a33ccffd9624.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1349,
+                    "url": "https://media.sketchfab.com/avatars/36258ccca5ed4a60a3c64870400a25fb/c2932a1b003e4925ababcae1f40f9288.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2462,
+                    "url": "https://media.sketchfab.com/avatars/36258ccca5ed4a60a3c64870400a25fb/42eb18e3b57b42f9af49020d7aefdf3d.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2796,
+                    "url": "https://media.sketchfab.com/avatars/36258ccca5ed4a60a3c64870400a25fb/49c02542cc744324b17bc1b62a1b4eae.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d8cb79082f364330b3beb05ff55c29b2"
+    },
+    "vertexCount": 8011,
+    "viewCount": 33,
+    "viewerUrl": "https://sketchfab.com/3d-models/rustic-kettle-1fbe3fd26f83407283bdb983638072f9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Thank you for downloading the model.\n\n**Description**\nThis rustic kettle model was modeled in Blender 4.0, and can be imported to other 3D softwares using the various provided file exchange formats.\n\n**Scene**\nThis is a single 3D object that contains two meshes (the kettle and its cap).\n\n**Features**\n- Game-Ready\n- PBR\n- All UVs unwrapped (No Over-lapping UVs)\n- Material Textures included\n\n**Poly Count**\n- Verts: 8,011\n- Faces: 7,980\n- Tris: 15,960\n\n**Materials**\nThis model contains only four image texture maps. All these 4 maps are contained in a ZIP folder for each file exchange format.\n1. Basecolor\n2. Metalness\n3. Roughness\n4. Normal\n\n**File Formats**\n1. Blender (EEVEE)\n2. OBJ+MTL\n3. Collada DAE\n4. FBX\n5. USDC/USDZ\n6. GLB/GLTF",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1fbe3fd26f83407283bdb983638072f9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-01T05:48:47.514591",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,279 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-21T09:25:40.463501",
+    "embedUrl": "https://sketchfab.com/models/28ad4fd0ce69464dac28f6237b8745b0/embed",
+    "faceCount": 28108,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Bolts",
+    "publishedAt": "2026-01-21T09:32:36.942092",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "mechanic",
+            "slug": "mechanic",
+            "uri": "https://api.sketchfab.com/v3/tags/mechanic"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "screw",
+            "slug": "screw",
+            "uri": "https://api.sketchfab.com/v3/tags/screw"
+        },
+        {
+            "name": "tools",
+            "slug": "tools",
+            "uri": "https://api.sketchfab.com/v3/tags/tools"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "bolt",
+            "slug": "bolt",
+            "uri": "https://api.sketchfab.com/v3/tags/bolt"
+        },
+        {
+            "name": "reality",
+            "slug": "reality",
+            "uri": "https://api.sketchfab.com/v3/tags/reality"
+        },
+        {
+            "name": "new",
+            "slug": "new",
+            "uri": "https://api.sketchfab.com/v3/tags/new"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "Tool",
+            "slug": "tool",
+            "uri": "https://api.sketchfab.com/v3/tags/tool"
+        },
+        {
+            "name": "real",
+            "slug": "real",
+            "uri": "https://api.sketchfab.com/v3/tags/real"
+        },
+        {
+            "name": "screwdriver",
+            "slug": "screwdriver",
+            "uri": "https://api.sketchfab.com/v3/tags/screwdriver"
+        },
+        {
+            "name": "Repair",
+            "slug": "repair",
+            "uri": "https://api.sketchfab.com/v3/tags/repair"
+        },
+        {
+            "name": "realism",
+            "slug": "realism",
+            "uri": "https://api.sketchfab.com/v3/tags/realism"
+        },
+        {
+            "name": "attachment",
+            "slug": "attachment",
+            "uri": "https://api.sketchfab.com/v3/tags/attachment"
+        },
+        {
+            "name": "fix",
+            "slug": "fix",
+            "uri": "https://api.sketchfab.com/v3/tags/fix"
+        },
+        {
+            "name": "repairing",
+            "slug": "repairing",
+            "uri": "https://api.sketchfab.com/v3/tags/repairing"
+        },
+        {
+            "name": "imbus",
+            "slug": "imbus",
+            "uri": "https://api.sketchfab.com/v3/tags/imbus"
+        },
+        {
+            "name": "attach",
+            "slug": "attach",
+            "uri": "https://api.sketchfab.com/v3/tags/attach"
+        },
+        {
+            "name": "photo-realistic",
+            "slug": "photo-realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photo-realistic"
+        },
+        {
+            "name": "fixing",
+            "slug": "fixing",
+            "uri": "https://api.sketchfab.com/v3/tags/fixing"
+        },
+        {
+            "name": "workshop",
+            "slug": "workshop",
+            "uri": "https://api.sketchfab.com/v3/tags/workshop"
+        },
+        {
+            "name": "screen",
+            "slug": "screen",
+            "uri": "https://api.sketchfab.com/v3/tags/screen"
+        },
+        {
+            "name": "2026",
+            "slug": "2026",
+            "uri": "https://api.sketchfab.com/v3/tags/2026"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "09be608da1d54dfa99e308f785c5502b",
+                "width": 1920,
+                "height": 1080,
+                "size": 100009,
+                "url": "https://media.sketchfab.com/models/28ad4fd0ce69464dac28f6237b8745b0/thumbnails/2643e9c7dc4f4c4f861139f4d117c716/5c09515e50a14d92895a6af23c17267e.jpeg"
+            },
+            {
+                "uid": "6efca0324c5b4f8d82db7fac71444033",
+                "width": 1024,
+                "height": 576,
+                "size": 29829,
+                "url": "https://media.sketchfab.com/models/28ad4fd0ce69464dac28f6237b8745b0/thumbnails/2643e9c7dc4f4c4f861139f4d117c716/1f9f832c5fb44939bd5f51402fa5a8ce.jpeg"
+            },
+            {
+                "uid": "c1907e8e38b14a5391d9f74b1e8c80d8",
+                "width": 720,
+                "height": 405,
+                "size": 16983,
+                "url": "https://media.sketchfab.com/models/28ad4fd0ce69464dac28f6237b8745b0/thumbnails/2643e9c7dc4f4c4f861139f4d117c716/ab4aebc94a1a475a87d56a035dc3c0c4.jpeg"
+            },
+            {
+                "uid": "79e8cf22078b4a51bb33ff6e6ee69835",
+                "width": 256,
+                "height": 144,
+                "size": 3740,
+                "url": "https://media.sketchfab.com/models/28ad4fd0ce69464dac28f6237b8745b0/thumbnails/2643e9c7dc4f4c4f861139f4d117c716/7be2a043d9a945a388386e436421ba5d.jpeg"
+            },
+            {
+                "uid": "51ef280225de4114a4363b7524287078",
+                "width": 64,
+                "height": 36,
+                "size": 1072,
+                "url": "https://media.sketchfab.com/models/28ad4fd0ce69464dac28f6237b8745b0/thumbnails/2643e9c7dc4f4c4f861139f4d117c716/3470ee38d8234dfca324e7b596bc3aad.jpeg"
+            }
+        ]
+    },
+    "uid": "28ad4fd0ce69464dac28f6237b8745b0",
+    "uri": "https://api.sketchfab.com/v3/models/28ad4fd0ce69464dac28f6237b8745b0",
+    "user": {
+        "uid": "c3c8f083f67c49cda3b8b73765f956de",
+        "username": "mellydeeis",
+        "displayName": "3Dee",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mellydeeis",
+        "avatar": {
+            "uid": "a744c8fd79dc4debb56b95bd06604da4",
+            "uri": "https://api.sketchfab.com/v3/avatars/a744c8fd79dc4debb56b95bd06604da4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 759,
+                    "url": "https://media.sketchfab.com/avatars/a744c8fd79dc4debb56b95bd06604da4/cd5f836e8a144f349ab30896a642287d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1196,
+                    "url": "https://media.sketchfab.com/avatars/a744c8fd79dc4debb56b95bd06604da4/622dc30aa23d42398d17e32bdd41c559.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2918,
+                    "url": "https://media.sketchfab.com/avatars/a744c8fd79dc4debb56b95bd06604da4/167c840f936b41569dfd1cad19d8b3c0.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3324,
+                    "url": "https://media.sketchfab.com/avatars/a744c8fd79dc4debb56b95bd06604da4/880f9db5b79a47f3901d1238ec23b4fe.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c3c8f083f67c49cda3b8b73765f956de"
+    },
+    "vertexCount": 14062,
+    "viewCount": 147,
+    "viewerUrl": "https://sketchfab.com/3d-models/bolts-28ad4fd0ce69464dac28f6237b8745b0",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Photorealistic Looking Bolts.\nThis model and many more are available at the following link:\nhttps://www.fab.com/sellers/3Dee",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/28ad4fd0ce69464dac28f6237b8745b0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-21T09:32:37.058178",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

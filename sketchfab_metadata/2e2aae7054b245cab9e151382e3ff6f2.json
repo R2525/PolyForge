@@ -1,0 +1,137 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 1,
+    "createdAt": "2025-11-30T14:11:00.872164",
+    "embedUrl": "https://sketchfab.com/models/2e2aae7054b245cab9e151382e3ff6f2/embed",
+    "faceCount": 4998,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "ArcoRomanico",
+    "publishedAt": "2025-11-30T14:11:31.250164",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "arquitectura",
+            "slug": "arquitectura",
+            "uri": "https://api.sketchfab.com/v3/tags/arquitectura"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "realityscan",
+            "slug": "realityscan",
+            "uri": "https://api.sketchfab.com/v3/tags/realityscan"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0379a114ddd04a0f8887a5992d991e67",
+                "width": 1920,
+                "height": 1080,
+                "size": 76314,
+                "url": "https://media.sketchfab.com/models/2e2aae7054b245cab9e151382e3ff6f2/thumbnails/c6c2927abe1a48cea70ee3d4a4bd4417/772e19904c6f4c8fbc55d75849030a33.jpeg"
+            },
+            {
+                "uid": "ce6b76283b794b568219a66300cec2d4",
+                "width": 1024,
+                "height": 576,
+                "size": 24577,
+                "url": "https://media.sketchfab.com/models/2e2aae7054b245cab9e151382e3ff6f2/thumbnails/c6c2927abe1a48cea70ee3d4a4bd4417/dbb51a2b8b4246bca2eb8f6559016bf7.jpeg"
+            },
+            {
+                "uid": "2f5c7ff56dc14bf7b991572044188ff9",
+                "width": 720,
+                "height": 405,
+                "size": 14063,
+                "url": "https://media.sketchfab.com/models/2e2aae7054b245cab9e151382e3ff6f2/thumbnails/c6c2927abe1a48cea70ee3d4a4bd4417/2e3f70303c2e4898bc22789a71e4052b.jpeg"
+            },
+            {
+                "uid": "f52040365f8a48fba0c3e88806e6e5fc",
+                "width": 256,
+                "height": 144,
+                "size": 3152,
+                "url": "https://media.sketchfab.com/models/2e2aae7054b245cab9e151382e3ff6f2/thumbnails/c6c2927abe1a48cea70ee3d4a4bd4417/069f1b654ad949b2a95980525104c742.jpeg"
+            },
+            {
+                "uid": "d9f15379623f4317b5658a695514a1ea",
+                "width": 64,
+                "height": 36,
+                "size": 997,
+                "url": "https://media.sketchfab.com/models/2e2aae7054b245cab9e151382e3ff6f2/thumbnails/c6c2927abe1a48cea70ee3d4a4bd4417/19bfd15ba2a041a5a4b57dd3a745265a.jpeg"
+            }
+        ]
+    },
+    "uid": "2e2aae7054b245cab9e151382e3ff6f2",
+    "uri": "https://api.sketchfab.com/v3/models/2e2aae7054b245cab9e151382e3ff6f2",
+    "user": {
+        "uid": "6a41253873434632a02ec8e9cc02a196",
+        "username": "BatAndGameplayYT",
+        "displayName": "BatAndGameplayYT",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/BatAndGameplayYT",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6a41253873434632a02ec8e9cc02a196"
+    },
+    "vertexCount": 2500,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/arcoromanico-2e2aae7054b245cab9e151382e3ff6f2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Modelo 3D de un arco románico situado en la facultad de derecho de la universidad de Burgos",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/2e2aae7054b245cab9e151382e3ff6f2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "reality-capture",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-21T15:40:29.869180",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

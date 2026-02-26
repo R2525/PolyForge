@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T17:48:57.771762",
+    "embedUrl": "https://sketchfab.com/models/0d759c2b124f4c9db481c0a70f1967b7/embed",
+    "faceCount": 707950,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sergeant  Kronos (2)",
+    "publishedAt": "2026-02-21T17:50:38.298434",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "plate",
+            "slug": "plate",
+            "uri": "https://api.sketchfab.com/v3/tags/plate"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "augmented",
+            "slug": "augmented",
+            "uri": "https://api.sketchfab.com/v3/tags/augmented"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        },
+        {
+            "name": "makkoy",
+            "slug": "makkoy",
+            "uri": "https://api.sketchfab.com/v3/tags/makkoy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "780d4e7e0ebb45ada857a96f31089e08",
+                "width": 1920,
+                "height": 1080,
+                "size": 86322,
+                "url": "https://media.sketchfab.com/models/0d759c2b124f4c9db481c0a70f1967b7/thumbnails/d073e61e98aa4d40857604dc67c9351a/4ac7810d03414393837f30cd837aa24d.jpeg"
+            },
+            {
+                "uid": "cb81f7b32d1f4feda760692c3dd5523e",
+                "width": 1024,
+                "height": 576,
+                "size": 27969,
+                "url": "https://media.sketchfab.com/models/0d759c2b124f4c9db481c0a70f1967b7/thumbnails/d073e61e98aa4d40857604dc67c9351a/6ed560f6234246a8a5fda56476f066eb.jpeg"
+            },
+            {
+                "uid": "4b859d7c08d04a74bc8e011b3c702a8e",
+                "width": 720,
+                "height": 405,
+                "size": 16228,
+                "url": "https://media.sketchfab.com/models/0d759c2b124f4c9db481c0a70f1967b7/thumbnails/d073e61e98aa4d40857604dc67c9351a/1a2bd3285b384d5fbd61925ca8dd4aee.jpeg"
+            },
+            {
+                "uid": "7d88986c7017456f881507faab146bad",
+                "width": 256,
+                "height": 144,
+                "size": 3642,
+                "url": "https://media.sketchfab.com/models/0d759c2b124f4c9db481c0a70f1967b7/thumbnails/d073e61e98aa4d40857604dc67c9351a/00331f03a86247119d2193c603d1a713.jpeg"
+            },
+            {
+                "uid": "b0cbf21f5f104655909ef77a42b96c90",
+                "width": 64,
+                "height": 36,
+                "size": 1001,
+                "url": "https://media.sketchfab.com/models/0d759c2b124f4c9db481c0a70f1967b7/thumbnails/d073e61e98aa4d40857604dc67c9351a/d26febb7319a48f79576e7295c332e16.jpeg"
+            }
+        ]
+    },
+    "uid": "0d759c2b124f4c9db481c0a70f1967b7",
+    "uri": "https://api.sketchfab.com/v3/models/0d759c2b124f4c9db481c0a70f1967b7",
+    "user": {
+        "uid": "cbe9f0ecba5747a99e93f5ac19f7b9f6",
+        "username": "Makkoy_tales",
+        "displayName": "Makkoy_tales",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Makkoy_tales",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cbe9f0ecba5747a99e93f5ac19f7b9f6"
+    },
+    "vertexCount": 353896,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/sergeant-kronos-2-0d759c2b124f4c9db481c0a70f1967b7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Sergeant Kronos is a man forged by campaigns rather than titles.\r\nHe rose through the ranks not by lineage, but by endurance.\r\n\r\nVeteran of countless airship assaults and ground sieges, Kronos earned the loyalty of his soldiers through unshakable discipline and personal example. He does not shout orders — he stands where the fighting is thickest.\r\n\r\nDuring a brutal boarding action against a rival sky-fleet, a blast tore both of his arms from their sockets. Most men would have died. Kronos did not.\r\n\r\nFor his unwavering service and the lives he saved that day, the Lord granted him replacement augmetics — not ceremonial pieces, but hardened war-grade prosthetics built for command in battle.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/0d759c2b124f4c9db481c0a70f1967b7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T17:50:38.410308",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

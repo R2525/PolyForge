@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Victorian",
+            "score": 0.85
+        },
+        {
+            "name": "Industrial",
+            "score": 0.75
+        },
+        {
+            "name": "Rustic",
+            "score": 0.7
+        },
+        {
+            "name": "Crisp",
+            "score": 0.65
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "3D Model",
+            "score": 0.75
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Dusty",
+        "Rustic",
+        "Grime",
+        "Mossy"
+    ],
+    "tags": [
+        "old door",
+        "3D model",
+        "door",
+        "furniture",
+        "architecture",
+        "garden gate",
+        "doorway",
+        "cabinet"
+    ],
+    "model_id_full": "15d50adb5df44ab98f957ff8fc7cce24_Old Door",
+    "sketchfab_id": "15d50adb5df44ab98f957ff8fc7cce24",
+    "asset_name": "Old Door"
+}

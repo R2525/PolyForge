@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-08T10:20:45.171327",
+    "embedUrl": "https://sketchfab.com/models/12e4a5bb0a824f39a89905dc92776215/embed",
+    "faceCount": 11076,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Wooden Bucket Medieval",
+    "publishedAt": "2026-01-08T10:37:53.170268",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "bucket",
+            "slug": "bucket",
+            "uri": "https://api.sketchfab.com/v3/tags/bucket"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "begineer",
+            "slug": "begineer",
+            "uri": "https://api.sketchfab.com/v3/tags/begineer"
+        },
+        {
+            "name": "wooden-bucket",
+            "slug": "wooden-bucket",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden-bucket"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "585f97bb5aa64dce90615429f2271cf2",
+                "width": 1920,
+                "height": 1080,
+                "size": 54432,
+                "url": "https://media.sketchfab.com/models/12e4a5bb0a824f39a89905dc92776215/thumbnails/dce5a3838caf4827b7dfec1e403bde3d/7889eb6ec68e4047912534a9e522fc5b.jpeg"
+            },
+            {
+                "uid": "b92d93dfed6f4d568fa443132aea5de7",
+                "width": 1024,
+                "height": 576,
+                "size": 18232,
+                "url": "https://media.sketchfab.com/models/12e4a5bb0a824f39a89905dc92776215/thumbnails/dce5a3838caf4827b7dfec1e403bde3d/2bed4ac1be87471db692abd58a8ebcbd.jpeg"
+            },
+            {
+                "uid": "f4139c3faec046d397cb4f8c8376afb4",
+                "width": 720,
+                "height": 405,
+                "size": 10522,
+                "url": "https://media.sketchfab.com/models/12e4a5bb0a824f39a89905dc92776215/thumbnails/dce5a3838caf4827b7dfec1e403bde3d/761efe0ddfed41f68fca6d784bc58f41.jpeg"
+            },
+            {
+                "uid": "e2f69c74a2d84ba2b8a9fc12cdebb0b6",
+                "width": 256,
+                "height": 144,
+                "size": 2430,
+                "url": "https://media.sketchfab.com/models/12e4a5bb0a824f39a89905dc92776215/thumbnails/dce5a3838caf4827b7dfec1e403bde3d/8e7ca24f1d80473980f524eb5bf4a89a.jpeg"
+            },
+            {
+                "uid": "e464a1c80a834402bf11079e068c5344",
+                "width": 64,
+                "height": 36,
+                "size": 884,
+                "url": "https://media.sketchfab.com/models/12e4a5bb0a824f39a89905dc92776215/thumbnails/dce5a3838caf4827b7dfec1e403bde3d/1ddf5dfa891145c2aa0e1eaeb431f711.jpeg"
+            }
+        ]
+    },
+    "uid": "12e4a5bb0a824f39a89905dc92776215",
+    "uri": "https://api.sketchfab.com/v3/models/12e4a5bb0a824f39a89905dc92776215",
+    "user": {
+        "uid": "cb56ca6e6fba48d386407a18e1ff9ebd",
+        "username": "Astroregal",
+        "displayName": "Astroregal",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Astroregal",
+        "avatar": {
+            "uid": "05a819821b524a56921987e683312ce0",
+            "uri": "https://api.sketchfab.com/v3/avatars/05a819821b524a56921987e683312ce0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1013,
+                    "url": "https://media.sketchfab.com/avatars/05a819821b524a56921987e683312ce0/c60c5b7ec36441b693591a9f6dc6000d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1364,
+                    "url": "https://media.sketchfab.com/avatars/05a819821b524a56921987e683312ce0/cb001b1420d84344bc14c0dd58111780.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2997,
+                    "url": "https://media.sketchfab.com/avatars/05a819821b524a56921987e683312ce0/f802caeb196d44488231d6a0f6f65281.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3422,
+                    "url": "https://media.sketchfab.com/avatars/05a819821b524a56921987e683312ce0/af823c2af74e47f8bd742b78fd162b9d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cb56ca6e6fba48d386407a18e1ff9ebd"
+    },
+    "vertexCount": 5604,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/wooden-bucket-medieval-12e4a5bb0a824f39a89905dc92776215",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Recently I learning about 3D Design as a new hobbies, actually i have design a several object and now i'm learning how to upload my 3D Design to sketchfab.tbh, it's pretty tough, a little bit, coz i need to export procedural texture first and the result still differnt with my texture design in blender.\n\nhope you like it.",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/12e4a5bb0a824f39a89905dc92776215/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-12T20:39:00.535370",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 2
+}

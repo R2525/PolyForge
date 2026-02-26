@@ -1,0 +1,121 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 1,
+    "createdAt": "2026-02-20T21:08:20.114134",
+    "embedUrl": "https://sketchfab.com/models/107159aeac544ad9ac62cae286643ac5/embed",
+    "faceCount": 518710,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Hulk Horror Skunx",
+    "publishedAt": "2026-02-20T21:11:56.003095",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b7e13bcd6b214f0d848b1a362003c27f",
+                "width": 1920,
+                "height": 1080,
+                "size": 60338,
+                "url": "https://media.sketchfab.com/models/107159aeac544ad9ac62cae286643ac5/thumbnails/52df7a5bebfa47a380e75a9f4edb5fa0/3d1f2e38c224497193e01a7d0d2742d0.jpeg"
+            },
+            {
+                "uid": "47b2307a344341d5a5a867e4673819e2",
+                "width": 1024,
+                "height": 576,
+                "size": 20348,
+                "url": "https://media.sketchfab.com/models/107159aeac544ad9ac62cae286643ac5/thumbnails/52df7a5bebfa47a380e75a9f4edb5fa0/5567c21b3f4b4032adbc67d3021a0bfb.jpeg"
+            },
+            {
+                "uid": "db40ca112f69441db3623a80a698c218",
+                "width": 720,
+                "height": 405,
+                "size": 11850,
+                "url": "https://media.sketchfab.com/models/107159aeac544ad9ac62cae286643ac5/thumbnails/52df7a5bebfa47a380e75a9f4edb5fa0/c27f2dfb9d6b4c4b9f7999b07e8d0d94.jpeg"
+            },
+            {
+                "uid": "04b6738b8b2f476eaca15b59c37c1a4b",
+                "width": 256,
+                "height": 144,
+                "size": 2904,
+                "url": "https://media.sketchfab.com/models/107159aeac544ad9ac62cae286643ac5/thumbnails/52df7a5bebfa47a380e75a9f4edb5fa0/e92a01dc517f4122a95fad713feecc03.jpeg"
+            },
+            {
+                "uid": "dc4d10cea04340ae98fdd17d06db7314",
+                "width": 64,
+                "height": 36,
+                "size": 1007,
+                "url": "https://media.sketchfab.com/models/107159aeac544ad9ac62cae286643ac5/thumbnails/52df7a5bebfa47a380e75a9f4edb5fa0/14b062cb3725477a9885ae462a5dff17.jpeg"
+            }
+        ]
+    },
+    "uid": "107159aeac544ad9ac62cae286643ac5",
+    "uri": "https://api.sketchfab.com/v3/models/107159aeac544ad9ac62cae286643ac5",
+    "user": {
+        "uid": "2dffa4532f314d8ca36cbcdf717f0aae",
+        "username": "Sirengame.26",
+        "displayName": "SirenGame26",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Sirengame.26",
+        "avatar": {
+            "uid": "6bd2e715566d426e92782d2ee3abb554",
+            "uri": "https://api.sketchfab.com/v3/avatars/6bd2e715566d426e92782d2ee3abb554",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1243,
+                    "url": "https://media.sketchfab.com/avatars/6bd2e715566d426e92782d2ee3abb554/174f8b7089ef436898699f755769004a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1942,
+                    "url": "https://media.sketchfab.com/avatars/6bd2e715566d426e92782d2ee3abb554/24f3fb3825e94ea9b384e04fb6127bb6.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4810,
+                    "url": "https://media.sketchfab.com/avatars/6bd2e715566d426e92782d2ee3abb554/d40f4b9c21544fa88b7b6343a709e833.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5630,
+                    "url": "https://media.sketchfab.com/avatars/6bd2e715566d426e92782d2ee3abb554/30b1a39e3b404cf781ea0a16b83deb88.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2dffa4532f314d8ca36cbcdf717f0aae"
+    },
+    "vertexCount": 482012,
+    "viewCount": 35,
+    "viewerUrl": "https://sketchfab.com/3d-models/hulk-horror-skunx-107159aeac544ad9ac62cae286643ac5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "if you want the model to work properly. you need to use prisma 3D or blender as its seperated into seperate parts. for the eyes. on prisma or blender. you need to delete layer 1 of the eyes and then it works :).",
+    "price": null,
+    "downloadCount": 8,
+    "editorUrl": "https://sketchfab.com/models/107159aeac544ad9ac62cae286643ac5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T16:29:58.064847",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

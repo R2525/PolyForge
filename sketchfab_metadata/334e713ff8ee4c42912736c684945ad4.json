@@ -1,0 +1,187 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T22:44:06.150569",
+    "embedUrl": "https://sketchfab.com/models/334e713ff8ee4c42912736c684945ad4/embed",
+    "faceCount": 147012,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sci Fi Wall Ceiling Turret",
+    "publishedAt": "2026-02-20T22:48:31.807961",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "fiction",
+            "slug": "fiction",
+            "uri": "https://api.sketchfab.com/v3/tags/fiction"
+        },
+        {
+            "name": "ceiling",
+            "slug": "ceiling",
+            "uri": "https://api.sketchfab.com/v3/tags/ceiling"
+        },
+        {
+            "name": "turret",
+            "slug": "turret",
+            "uri": "https://api.sketchfab.com/v3/tags/turret"
+        },
+        {
+            "name": "science",
+            "slug": "science",
+            "uri": "https://api.sketchfab.com/v3/tags/science"
+        },
+        {
+            "name": "Cannon",
+            "slug": "cannon",
+            "uri": "https://api.sketchfab.com/v3/tags/cannon"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        },
+        {
+            "name": "wall",
+            "slug": "wall",
+            "uri": "https://api.sketchfab.com/v3/tags/wall"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1b97be8bbb17447588d3522f1758ac98",
+                "width": 1920,
+                "height": 1080,
+                "size": 62363,
+                "url": "https://media.sketchfab.com/models/334e713ff8ee4c42912736c684945ad4/thumbnails/7d95a68387644e539204a743b18c599e/b7070d444d9e4369b2842ff2a2238ee8.jpeg"
+            },
+            {
+                "uid": "34fe6d338ab14172a5ce7ca4c1005127",
+                "width": 1024,
+                "height": 576,
+                "size": 20708,
+                "url": "https://media.sketchfab.com/models/334e713ff8ee4c42912736c684945ad4/thumbnails/7d95a68387644e539204a743b18c599e/b0d5bb3ad5414c8db3fb53db898c1bdf.jpeg"
+            },
+            {
+                "uid": "b0807f610b6043c1b936754369e3c748",
+                "width": 720,
+                "height": 405,
+                "size": 12047,
+                "url": "https://media.sketchfab.com/models/334e713ff8ee4c42912736c684945ad4/thumbnails/7d95a68387644e539204a743b18c599e/9bda9523cbbb4afa929a0e64c25a6b7a.jpeg"
+            },
+            {
+                "uid": "bc85f9b3daf045b1b6a63ccb1b388d57",
+                "width": 256,
+                "height": 144,
+                "size": 2633,
+                "url": "https://media.sketchfab.com/models/334e713ff8ee4c42912736c684945ad4/thumbnails/7d95a68387644e539204a743b18c599e/fe856d9e6951423d86db03741e798594.jpeg"
+            },
+            {
+                "uid": "6cc36f935d344b499c0499fc4c5d0bcc",
+                "width": 64,
+                "height": 36,
+                "size": 855,
+                "url": "https://media.sketchfab.com/models/334e713ff8ee4c42912736c684945ad4/thumbnails/7d95a68387644e539204a743b18c599e/194ed4e280c74dbebd3b6f0821d978f9.jpeg"
+            }
+        ]
+    },
+    "uid": "334e713ff8ee4c42912736c684945ad4",
+    "uri": "https://api.sketchfab.com/v3/models/334e713ff8ee4c42912736c684945ad4",
+    "user": {
+        "uid": "7fa917e59abd472eab6a7fda58de45ae",
+        "username": "maudipsfaclo1974",
+        "displayName": "maudipsfaclo1974",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/maudipsfaclo1974",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7fa917e59abd472eab6a7fda58de45ae"
+    },
+    "vertexCount": 77305,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-wall-ceiling-turret-334e713ff8ee4c42912736c684945ad4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the Original format.The viewer version is intended exclusively for browser preview. In the Original format, the following are fully preserved:✔ full scene structure✔ complete materials without reduction✔ accurate texture maps✔ proper object namingIf you plan to use this model in production, choose the original version.!!!CYCLES ADVISED!!!A futuristic turret. It includes a controller for the turret which can be used to move it aswell as rotate it. The arm joints are constrained so that they can t be moved in a wrong position and they ll always end up where they re supposed to be. t is not pre animated but you can animate the color of the lights and other things with relative ease. Have Fun! As seen on this little animation",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/334e713ff8ee4c42912736c684945ad4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T22:48:32.193091",
+    "pbrType": "metalness",
+    "textureCount": 18,
+    "materialCount": 44
+}

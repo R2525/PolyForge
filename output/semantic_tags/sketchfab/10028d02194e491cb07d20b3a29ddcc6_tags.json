@@ -1,0 +1,40 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.8
+        },
+        {
+            "name": "Military",
+            "score": 0.75
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.6
+        }
+    ],
+    "style": "Low-Poly",
+    "top_styles": [
+        {
+            "name": "Low-Poly",
+            "score": 0.9
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.75
+        },
+        {
+            "name": "Military",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "helmet",
+        "weapon",
+        "armor"
+    ]
+}

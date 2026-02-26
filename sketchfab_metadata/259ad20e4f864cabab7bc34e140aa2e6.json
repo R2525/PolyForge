@@ -1,0 +1,222 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2025-12-01T16:40:45.248108",
+    "embedUrl": "https://sketchfab.com/models/259ad20e4f864cabab7bc34e140aa2e6/embed",
+    "faceCount": 49964,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 7,
+    "name": "Medieval Knight 3D Model",
+    "publishedAt": "2025-12-01T17:00:11.855821",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "plate",
+            "slug": "plate",
+            "uri": "https://api.sketchfab.com/v3/tags/plate"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "armadura",
+            "slug": "armadura",
+            "uri": "https://api.sketchfab.com/v3/tags/armadura"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "Guerreiro",
+            "slug": "guerreiro",
+            "uri": "https://api.sketchfab.com/v3/tags/guerreiro"
+        },
+        {
+            "name": "personagem",
+            "slug": "personagem",
+            "uri": "https://api.sketchfab.com/v3/tags/personagem"
+        },
+        {
+            "name": "cavaleiro",
+            "slug": "cavaleiro",
+            "uri": "https://api.sketchfab.com/v3/tags/cavaleiro"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "fotorrealista",
+            "slug": "fotorrealista",
+            "uri": "https://api.sketchfab.com/v3/tags/fotorrealista"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "008c17c4ed024c5d82b5dd1c07998f9b",
+                "width": 1920,
+                "height": 1080,
+                "size": 78904,
+                "url": "https://media.sketchfab.com/models/259ad20e4f864cabab7bc34e140aa2e6/thumbnails/f32b0ff2c15545edb640d38e78a28941/effdbc2b4c0f494da4daf05ca8ca2eb4.jpeg"
+            },
+            {
+                "uid": "cb5c146f9063406eba328dc82a9e7723",
+                "width": 1024,
+                "height": 576,
+                "size": 26839,
+                "url": "https://media.sketchfab.com/models/259ad20e4f864cabab7bc34e140aa2e6/thumbnails/f32b0ff2c15545edb640d38e78a28941/558d5de6f26f4772baf70fccb3be9e99.jpeg"
+            },
+            {
+                "uid": "93d37c9cf68d4810a9aeeadc3cf5a2e7",
+                "width": 720,
+                "height": 405,
+                "size": 15737,
+                "url": "https://media.sketchfab.com/models/259ad20e4f864cabab7bc34e140aa2e6/thumbnails/f32b0ff2c15545edb640d38e78a28941/46e116e9a039457fa58ec1ec17d9ac3d.jpeg"
+            },
+            {
+                "uid": "b4e7448f0131419faadc4b464ba91df3",
+                "width": 256,
+                "height": 144,
+                "size": 3500,
+                "url": "https://media.sketchfab.com/models/259ad20e4f864cabab7bc34e140aa2e6/thumbnails/f32b0ff2c15545edb640d38e78a28941/230715b5addf4184aaba1d4ad0358d63.jpeg"
+            },
+            {
+                "uid": "acc0f7ff94ad4032914b889972f5bd53",
+                "width": 64,
+                "height": 36,
+                "size": 987,
+                "url": "https://media.sketchfab.com/models/259ad20e4f864cabab7bc34e140aa2e6/thumbnails/f32b0ff2c15545edb640d38e78a28941/e62a7de147fe49be95efdf0f9a7c33f8.jpeg"
+            }
+        ]
+    },
+    "uid": "259ad20e4f864cabab7bc34e140aa2e6",
+    "uri": "https://api.sketchfab.com/v3/models/259ad20e4f864cabab7bc34e140aa2e6",
+    "user": {
+        "uid": "ace95a5dbcb745319f5e19b32f552bf0",
+        "username": "williamjesus80",
+        "displayName": "williamjesus80",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/williamjesus80",
+        "avatar": {
+            "uid": "f16f152677744d5aa83f7a5d5f9548fd",
+            "uri": "https://api.sketchfab.com/v3/avatars/f16f152677744d5aa83f7a5d5f9548fd",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 798,
+                    "url": "https://media.sketchfab.com/avatars/f16f152677744d5aa83f7a5d5f9548fd/3ad13960378d4f5e82cee642888704ac.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 902,
+                    "url": "https://media.sketchfab.com/avatars/f16f152677744d5aa83f7a5d5f9548fd/ed9fe91d9fd1440ab7a51a223959b01b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1574,
+                    "url": "https://media.sketchfab.com/avatars/f16f152677744d5aa83f7a5d5f9548fd/5a9a6643011f47548e7c203cdd12c9c1.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1675,
+                    "url": "https://media.sketchfab.com/avatars/f16f152677744d5aa83f7a5d5f9548fd/8f4e1b6e25b94c1a931d7b69b2659ddc.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ace95a5dbcb745319f5e19b32f552bf0"
+    },
+    "vertexCount": 24926,
+    "viewCount": 413,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-knight-3d-model-259ad20e4f864cabab7bc34e140aa2e6",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Step into the world of medieval fantasy with this high-quality, fully detailed 3D model of a Knight in full plate armor, ready for battle.\n\nThis asset was created with a focus on photorealism and is highly optimized for game engines like Unity and Unreal Engine. It is perfect for game development projects, animations, cinematics, or historical visualizations.",
+    "price": null,
+    "downloadCount": 114,
+    "editorUrl": "https://sketchfab.com/models/259ad20e4f864cabab7bc34e140aa2e6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-01T17:21:22.983418",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

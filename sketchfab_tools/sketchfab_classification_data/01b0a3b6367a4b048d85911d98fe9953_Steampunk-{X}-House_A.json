@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Steampunk",
+    "top_genres": [
+        {
+            "name": "Steampunk",
+            "score": 0.95
+        },
+        {
+            "name": "Gothic",
+            "score": 0.85
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Industrial",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "style": "Steampunk",
+    "top_styles": [
+        {
+            "name": "Steampunk",
+            "score": 0.95
+        },
+        {
+            "name": "Industrial",
+            "score": 0.8
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Weathered",
+        "Mossy",
+        "Dusty",
+        "Rusty"
+    ],
+    "tags": [
+        "house",
+        "steampunk",
+        "architecture",
+        "cottage",
+        "building",
+        "model",
+        "3d",
+        "house model"
+    ],
+    "model_id_full": "01b0a3b6367a4b048d85911d98fe9953_Steampunk-{X}-House_A",
+    "sketchfab_id": "01b0a3b6367a4b048d85911d98fe9953",
+    "asset_name": "Steampunk-{X}-House_A"
+}

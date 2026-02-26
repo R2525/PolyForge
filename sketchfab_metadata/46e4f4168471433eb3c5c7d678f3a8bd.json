@@ -1,0 +1,217 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-05-14T21:14:40.814427",
+    "embedUrl": "https://sketchfab.com/models/46e4f4168471433eb3c5c7d678f3a8bd/embed",
+    "faceCount": 1024,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 5,
+    "name": "Ghibli Style Low Poly Rock (No Moss)- 5/14",
+    "publishedAt": "2025-05-14T21:23:31.116305",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rocks",
+            "slug": "rocks",
+            "uri": "https://api.sketchfab.com/v3/tags/rocks"
+        },
+        {
+            "name": "baked",
+            "slug": "baked",
+            "uri": "https://api.sketchfab.com/v3/tags/baked"
+        },
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "downloadable",
+            "slug": "downloadable",
+            "uri": "https://api.sketchfab.com/v3/tags/downloadable"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "handpainted",
+            "slug": "handpainted",
+            "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+        },
+        {
+            "name": "texture",
+            "slug": "texture",
+            "uri": "https://api.sketchfab.com/v3/tags/texture"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "zbrush",
+            "slug": "zbrush",
+            "uri": "https://api.sketchfab.com/v3/tags/zbrush"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "rock",
+            "slug": "rock",
+            "uri": "https://api.sketchfab.com/v3/tags/rock"
+        },
+        {
+            "name": "download",
+            "slug": "download",
+            "uri": "https://api.sketchfab.com/v3/tags/download"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c6454671beb044b789c769ccc01a0533",
+                "width": 1920,
+                "height": 1080,
+                "size": 157318,
+                "url": "https://media.sketchfab.com/models/46e4f4168471433eb3c5c7d678f3a8bd/thumbnails/ee7fb4e029d34f9ca3d48d22131f731d/a2330fc1fccd46e0b5203a81b4dba831.jpeg"
+            },
+            {
+                "uid": "e9c069f5d9a749b7a8c2f92e5b4aa7e7",
+                "width": 1024,
+                "height": 576,
+                "size": 27878,
+                "url": "https://media.sketchfab.com/models/46e4f4168471433eb3c5c7d678f3a8bd/thumbnails/ee7fb4e029d34f9ca3d48d22131f731d/9e9bebab3f074fe6b157c0cb0248e0bc.jpeg"
+            },
+            {
+                "uid": "4f81ca1a2ff342e18dcbd05b9202c919",
+                "width": 720,
+                "height": 405,
+                "size": 15710,
+                "url": "https://media.sketchfab.com/models/46e4f4168471433eb3c5c7d678f3a8bd/thumbnails/ee7fb4e029d34f9ca3d48d22131f731d/ae7bd02af4c24f4eafa35c71392857d1.jpeg"
+            },
+            {
+                "uid": "e0265b2e9fd249948cf7e7401f0ac248",
+                "width": 256,
+                "height": 144,
+                "size": 3445,
+                "url": "https://media.sketchfab.com/models/46e4f4168471433eb3c5c7d678f3a8bd/thumbnails/ee7fb4e029d34f9ca3d48d22131f731d/109bda64a89e4265b72cf2635a42ced0.jpeg"
+            },
+            {
+                "uid": "793d8b6efde34005a22280b5a59ce529",
+                "width": 64,
+                "height": 36,
+                "size": 1005,
+                "url": "https://media.sketchfab.com/models/46e4f4168471433eb3c5c7d678f3a8bd/thumbnails/ee7fb4e029d34f9ca3d48d22131f731d/db32e0b1f2fe45d5abfb81d376582a4f.jpeg"
+            }
+        ]
+    },
+    "uid": "46e4f4168471433eb3c5c7d678f3a8bd",
+    "uri": "https://api.sketchfab.com/v3/models/46e4f4168471433eb3c5c7d678f3a8bd",
+    "user": {
+        "uid": "6baaec3a290d4ae79d5f20af0fef8af7",
+        "username": "bmwylam",
+        "displayName": "Braeden Wylam",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/bmwylam",
+        "avatar": {
+            "uid": "68318bde2b54403fbdf2abbaa653bcf3",
+            "uri": "https://api.sketchfab.com/v3/avatars/68318bde2b54403fbdf2abbaa653bcf3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1671,
+                    "url": "https://media.sketchfab.com/avatars/68318bde2b54403fbdf2abbaa653bcf3/884941e563a4407e9012785b649bcc68.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3222,
+                    "url": "https://media.sketchfab.com/avatars/68318bde2b54403fbdf2abbaa653bcf3/df730bd4e5a64347b65efcde32c7dfdb.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8927,
+                    "url": "https://media.sketchfab.com/avatars/68318bde2b54403fbdf2abbaa653bcf3/4d5ddfcab5bd43ffaeb9101581af2822.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10607,
+                    "url": "https://media.sketchfab.com/avatars/68318bde2b54403fbdf2abbaa653bcf3/761b860594984fa2b0b4f81a3afbf71d.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6baaec3a290d4ae79d5f20af0fef8af7"
+    },
+    "vertexCount": 514,
+    "viewCount": 151,
+    "viewerUrl": "https://sketchfab.com/3d-models/ghibli-style-low-poly-rock-no-moss-514-46e4f4168471433eb3c5c7d678f3a8bd",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Small little project I decided to do today. I made a small base in maya, sculpted the info for the bake in ZBrush, went back into maya and retopologized, and baked in Substance Painter. The whole process was about 3.5 hours. I'll come back to this and apply some handpainted moss to it. I set it free to download!",
+    "price": null,
+    "downloadCount": 69,
+    "editorUrl": "https://sketchfab.com/models/46e4f4168471433eb3c5c7d678f3a8bd/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-05-18T00:44:47.894292",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

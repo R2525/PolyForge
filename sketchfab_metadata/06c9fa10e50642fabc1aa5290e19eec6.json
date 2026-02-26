@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T00:23:59.794213",
+    "embedUrl": "https://sketchfab.com/models/06c9fa10e50642fabc1aa5290e19eec6/embed",
+    "faceCount": 12610,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Game Ready Sword",
+    "publishedAt": "2026-02-22T00:26:51.783640",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "game_ready",
+            "slug": "game_ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game_ready"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "39af14024fc142a685a90496822a2014",
+                "width": 1920,
+                "height": 1080,
+                "size": 35010,
+                "url": "https://media.sketchfab.com/models/06c9fa10e50642fabc1aa5290e19eec6/thumbnails/61c23eac42d64da9a239d4a115cf8278/36dbb7b78fe84fac903186c319cfe25f.jpeg"
+            },
+            {
+                "uid": "c8ba5fbe63ec4cfb9d8fde64fe146b98",
+                "width": 1024,
+                "height": 576,
+                "size": 10755,
+                "url": "https://media.sketchfab.com/models/06c9fa10e50642fabc1aa5290e19eec6/thumbnails/61c23eac42d64da9a239d4a115cf8278/27d91de6d8af46f5a4ef192fc775da7c.jpeg"
+            },
+            {
+                "uid": "2ec112ffcf7c47e88f35af6316689d76",
+                "width": 720,
+                "height": 405,
+                "size": 5929,
+                "url": "https://media.sketchfab.com/models/06c9fa10e50642fabc1aa5290e19eec6/thumbnails/61c23eac42d64da9a239d4a115cf8278/0f8b3439378747619746eeba0f5dd513.jpeg"
+            },
+            {
+                "uid": "36cb1d6b967a4df2b506abfd1deb3158",
+                "width": 256,
+                "height": 144,
+                "size": 1401,
+                "url": "https://media.sketchfab.com/models/06c9fa10e50642fabc1aa5290e19eec6/thumbnails/61c23eac42d64da9a239d4a115cf8278/f3e59abf210c406aa4cefe15f35e2b58.jpeg"
+            },
+            {
+                "uid": "46e7dfaec65f4b1399464f9438045d4f",
+                "width": 64,
+                "height": 36,
+                "size": 732,
+                "url": "https://media.sketchfab.com/models/06c9fa10e50642fabc1aa5290e19eec6/thumbnails/61c23eac42d64da9a239d4a115cf8278/aee9c98348b145789e04f932af72169d.jpeg"
+            }
+        ]
+    },
+    "uid": "06c9fa10e50642fabc1aa5290e19eec6",
+    "uri": "https://api.sketchfab.com/v3/models/06c9fa10e50642fabc1aa5290e19eec6",
+    "user": {
+        "uid": "5506fc28465c4574a92d3b53bf290c23",
+        "username": "djdiaka",
+        "displayName": "DJ DIAKA",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/djdiaka",
+        "avatar": {
+            "uid": "42f030b8718046ce922fb95843899286",
+            "uri": "https://api.sketchfab.com/v3/avatars/42f030b8718046ce922fb95843899286",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1093,
+                    "url": "https://media.sketchfab.com/avatars/42f030b8718046ce922fb95843899286/a11dd28617a641e784efda3764c3a6a6.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1542,
+                    "url": "https://media.sketchfab.com/avatars/42f030b8718046ce922fb95843899286/1270bb31e33e472fa027785a32545351.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3329,
+                    "url": "https://media.sketchfab.com/avatars/42f030b8718046ce922fb95843899286/a587035451634a1da94351c2585ef994.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3828,
+                    "url": "https://media.sketchfab.com/avatars/42f030b8718046ce922fb95843899286/fec48b18cb0d47738f6cc8950e555b8a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5506fc28465c4574a92d3b53bf290c23"
+    },
+    "vertexCount": 6343,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/game-ready-sword-06c9fa10e50642fabc1aa5290e19eec6",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For complete workflow compatibility, we recommend downloading the source format.The Converted version is intended exclusively for browser preview. In the Original format, the following are fully preserved:✔ full scene structure✔ unsimplified materials✔ proper texture maps✔ original object namesIf you are going to integrate the model into a project, choose the Original format.A stylized low poly sword optimized for real time applications.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/06c9fa10e50642fabc1aa5290e19eec6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T00:26:52.007959",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

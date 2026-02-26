@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-23T15:36:59.843346",
+    "embedUrl": "https://sketchfab.com/models/0353c53122564ed19edf6397e7ab4484/embed",
+    "faceCount": 213016,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "T-65 X-Wing Star Wars",
+    "publishedAt": "2025-12-23T15:37:32.479475",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "starship",
+            "slug": "starship",
+            "uri": "https://api.sketchfab.com/v3/tags/starship"
+        },
+        {
+            "name": "x-wingfighter",
+            "slug": "x-wingfighter",
+            "uri": "https://api.sketchfab.com/v3/tags/x-wingfighter"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "spaceship",
+            "slug": "spaceship",
+            "uri": "https://api.sketchfab.com/v3/tags/spaceship"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "481bf4c2bb0b4b2caa0daca28d1e6c5a",
+                "width": 1920,
+                "height": 1080,
+                "size": 61777,
+                "url": "https://media.sketchfab.com/models/0353c53122564ed19edf6397e7ab4484/thumbnails/1d0cab7219d243e9a54e4b437f51a862/a691cb6d4db14c1ba054d8b8485a694e.jpeg"
+            },
+            {
+                "uid": "26de11f740a0435bafdf48c164b0b0d0",
+                "width": 1024,
+                "height": 576,
+                "size": 20578,
+                "url": "https://media.sketchfab.com/models/0353c53122564ed19edf6397e7ab4484/thumbnails/1d0cab7219d243e9a54e4b437f51a862/d511069400254bc8ad92bc6d99ae7505.jpeg"
+            },
+            {
+                "uid": "fb769e9223354b33b6fd46cd163dfffb",
+                "width": 720,
+                "height": 405,
+                "size": 11845,
+                "url": "https://media.sketchfab.com/models/0353c53122564ed19edf6397e7ab4484/thumbnails/1d0cab7219d243e9a54e4b437f51a862/42726eccad3f49f39861ab2baeda1290.jpeg"
+            },
+            {
+                "uid": "7d956bbae1384d7cbb0bc2a03c7cbb2b",
+                "width": 256,
+                "height": 144,
+                "size": 2802,
+                "url": "https://media.sketchfab.com/models/0353c53122564ed19edf6397e7ab4484/thumbnails/1d0cab7219d243e9a54e4b437f51a862/ce3cb30cdfb24a0c9c59e62cf7b7c279.jpeg"
+            },
+            {
+                "uid": "e308dac6eebc4d3ea09be75ee8bb5782",
+                "width": 64,
+                "height": 36,
+                "size": 872,
+                "url": "https://media.sketchfab.com/models/0353c53122564ed19edf6397e7ab4484/thumbnails/1d0cab7219d243e9a54e4b437f51a862/541bea3e2d184d518389a53ae6fba1aa.jpeg"
+            }
+        ]
+    },
+    "uid": "0353c53122564ed19edf6397e7ab4484",
+    "uri": "https://api.sketchfab.com/v3/models/0353c53122564ed19edf6397e7ab4484",
+    "user": {
+        "uid": "dc93343fca6647c6bdeaf39994345752",
+        "username": "Nullifiedit",
+        "displayName": "Nullified",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Nullifiedit",
+        "avatar": {
+            "uid": "2b24c5a2051e48eeb16a3598d1131617",
+            "uri": "https://api.sketchfab.com/v3/avatars/2b24c5a2051e48eeb16a3598d1131617",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 917,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/cee218b7456e46df9511c1f9fb7f98e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1143,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2d512d39bb034429b9ff5f1eedd0dc7d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2062,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/62a4fcc8129e4e6eb4951485ebb0444c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2342,
+                    "url": "https://media.sketchfab.com/avatars/2b24c5a2051e48eeb16a3598d1131617/2eb1ae9960ee4c6d8d53f84bbac9192f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc93343fca6647c6bdeaf39994345752"
+    },
+    "vertexCount": 106432,
+    "viewCount": 172,
+    "viewerUrl": "https://sketchfab.com/3d-models/t-65-x-wing-star-wars-0353c53122564ed19edf6397e7ab4484",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "T-65 X-Wing from Star Wars, textures included free to use however you like",
+    "price": null,
+    "downloadCount": 13,
+    "editorUrl": "https://sketchfab.com/models/0353c53122564ed19edf6397e7ab4484/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-23T15:50:16.496337",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

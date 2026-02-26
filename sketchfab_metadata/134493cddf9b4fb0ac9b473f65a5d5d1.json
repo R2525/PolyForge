@@ -1,0 +1,164 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-12T19:12:38.096774",
+    "embedUrl": "https://sketchfab.com/models/134493cddf9b4fb0ac9b473f65a5d5d1/embed",
+    "faceCount": 208746,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Galactus",
+    "publishedAt": "2026-01-12T19:15:46.918918",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "galactus",
+            "slug": "galactus",
+            "uri": "https://api.sketchfab.com/v3/tags/galactus"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a970d5a59e7743d9ab608dde0175b99d",
+                "width": 1920,
+                "height": 1080,
+                "size": 72647,
+                "url": "https://media.sketchfab.com/models/134493cddf9b4fb0ac9b473f65a5d5d1/thumbnails/12396eadf6e34274959e3e3ee4280e19/930a2f3009f347fa9e57e69090443e01.jpeg"
+            },
+            {
+                "uid": "26dfe4fd2c4a47adae39bd5ac06d2847",
+                "width": 1024,
+                "height": 576,
+                "size": 25932,
+                "url": "https://media.sketchfab.com/models/134493cddf9b4fb0ac9b473f65a5d5d1/thumbnails/12396eadf6e34274959e3e3ee4280e19/4022df4d5a314b83ac15c1c8ce2167b8.jpeg"
+            },
+            {
+                "uid": "e6d7e30d43ba4697a13e37b6b5fff637",
+                "width": 720,
+                "height": 405,
+                "size": 15589,
+                "url": "https://media.sketchfab.com/models/134493cddf9b4fb0ac9b473f65a5d5d1/thumbnails/12396eadf6e34274959e3e3ee4280e19/9c9c161df6d74b6e98f8af59de09ee1b.jpeg"
+            },
+            {
+                "uid": "ccb229c4e4dc451b9739b035d4fca746",
+                "width": 256,
+                "height": 144,
+                "size": 3706,
+                "url": "https://media.sketchfab.com/models/134493cddf9b4fb0ac9b473f65a5d5d1/thumbnails/12396eadf6e34274959e3e3ee4280e19/3d3793655e814d5f85d86548243cdc81.jpeg"
+            },
+            {
+                "uid": "39d3c7b6ad2e4a3998aaf409281a4d8d",
+                "width": 64,
+                "height": 36,
+                "size": 1040,
+                "url": "https://media.sketchfab.com/models/134493cddf9b4fb0ac9b473f65a5d5d1/thumbnails/12396eadf6e34274959e3e3ee4280e19/c58b647e88ab492e93067589ea15b1d5.jpeg"
+            }
+        ]
+    },
+    "uid": "134493cddf9b4fb0ac9b473f65a5d5d1",
+    "uri": "https://api.sketchfab.com/v3/models/134493cddf9b4fb0ac9b473f65a5d5d1",
+    "user": {
+        "uid": "6511df1bf2b74652b34b3e50e0fe0f0c",
+        "username": "artmonite",
+        "displayName": "ArtMonite",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/artmonite",
+        "avatar": {
+            "uid": "23f5676656224d66b6f4fa3990960e45",
+            "uri": "https://api.sketchfab.com/v3/avatars/23f5676656224d66b6f4fa3990960e45",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2130,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/a9af30bb6c744fe29611c0344108c717.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3896,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/6c6513e38672418dbb92c0c967b00c67.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9337,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/a98c0bbcd5ba4287b7f817c19857a95a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10883,
+                    "url": "https://media.sketchfab.com/avatars/23f5676656224d66b6f4fa3990960e45/a056afd2f94e4d5d80a7f02607f0ef4b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6511df1bf2b74652b34b3e50e0fe0f0c"
+    },
+    "vertexCount": 104355,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/galactus-134493cddf9b4fb0ac9b473f65a5d5d1",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model is based on Galactus as drawn by Jack Kirby. This comic book character first appears in Fantastic Four #48–50 and, from his origin, is presented as a modern god of science fiction. Kirby conceives him as an entity that devours planets out of necessity, not out of evil, placing him beyond good and evil. In this way, Galactus, in the version created by Jack Kirby, is not a traditional villain but an inevitable cosmic force. Download this model from: https://artmonite.com/en/product/galactus-jack-kirby/",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/134493cddf9b4fb0ac9b473f65a5d5d1/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-12T19:15:47.091692",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

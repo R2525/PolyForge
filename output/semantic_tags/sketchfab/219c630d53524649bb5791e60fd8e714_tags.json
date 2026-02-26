@@ -1,0 +1,37 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Abstract",
+            "score": 0.9
+        },
+        {
+            "name": "Modern",
+            "score": 0.7
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Abstract",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Wet"
+    ],
+    "tags": [
+        "crucifix",
+        "religious",
+        "3D model"
+    ]
+}

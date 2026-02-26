@@ -1,0 +1,152 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-07T23:08:03.292982",
+    "embedUrl": "https://sketchfab.com/models/30de3d78729c4b879f354b09dacc76de/embed",
+    "faceCount": 1862,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Coruscant Platform",
+    "publishedAt": "2026-01-07T23:11:10.000436",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "starwarsfanart",
+            "slug": "starwarsfanart",
+            "uri": "https://api.sketchfab.com/v3/tags/starwarsfanart"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6b25c27d9f0f4da1a22a23e3fbc986a0",
+                "width": 1920,
+                "height": 1080,
+                "size": 119650,
+                "url": "https://media.sketchfab.com/models/30de3d78729c4b879f354b09dacc76de/thumbnails/5e7b4eae9b604b3ebe703d7da6318ab3/bb0df6090bd0407fb4765868f8c3c277.jpeg"
+            },
+            {
+                "uid": "a18abfb9e4404bfea2f91282c1d4da5c",
+                "width": 1024,
+                "height": 576,
+                "size": 24253,
+                "url": "https://media.sketchfab.com/models/30de3d78729c4b879f354b09dacc76de/thumbnails/5e7b4eae9b604b3ebe703d7da6318ab3/54269da1c261496ca632fa5afb8f1539.jpeg"
+            },
+            {
+                "uid": "212f1649fb5f4c1296774ff306eaf8e0",
+                "width": 720,
+                "height": 405,
+                "size": 12187,
+                "url": "https://media.sketchfab.com/models/30de3d78729c4b879f354b09dacc76de/thumbnails/5e7b4eae9b604b3ebe703d7da6318ab3/8337366443944b18b1a0ec3b3567822d.jpeg"
+            },
+            {
+                "uid": "4113000d6346493d9ece436fd94ec734",
+                "width": 256,
+                "height": 144,
+                "size": 2691,
+                "url": "https://media.sketchfab.com/models/30de3d78729c4b879f354b09dacc76de/thumbnails/5e7b4eae9b604b3ebe703d7da6318ab3/885b7784c285463c8a66e8c6f1b03954.jpeg"
+            },
+            {
+                "uid": "51fa13f4183a4079b103c109bdfab6d9",
+                "width": 64,
+                "height": 36,
+                "size": 909,
+                "url": "https://media.sketchfab.com/models/30de3d78729c4b879f354b09dacc76de/thumbnails/5e7b4eae9b604b3ebe703d7da6318ab3/a3518b456f7e48efa24dc9b1de02aea0.jpeg"
+            }
+        ]
+    },
+    "uid": "30de3d78729c4b879f354b09dacc76de",
+    "uri": "https://api.sketchfab.com/v3/models/30de3d78729c4b879f354b09dacc76de",
+    "user": {
+        "uid": "07a868cf679941d78fc86973ebf60d08",
+        "username": "CaptainJamesKirk",
+        "displayName": "Cpt.Kirk",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/CaptainJamesKirk",
+        "avatar": {
+            "uid": "1bebc4ca6d87444fb72d92ee879027c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/1bebc4ca6d87444fb72d92ee879027c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1113,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/cf4d6df1b37d4c608bcdf19cb3ecd78d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1511,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/d4a8f984e1fc467db1a9ea57924d59da.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3394,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/70c073fad2e04eff80f02cc9e4127553.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3895,
+                    "url": "https://media.sketchfab.com/avatars/1bebc4ca6d87444fb72d92ee879027c4/7b63b77d8938437688d7476eeeb5439d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/07a868cf679941d78fc86973ebf60d08"
+    },
+    "vertexCount": 929,
+    "viewCount": 36,
+    "viewerUrl": "https://sketchfab.com/3d-models/coruscant-platform-30de3d78729c4b879f354b09dacc76de",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "hello my dear followers, there's another model for my star wars fanfilm \nyou can download my model and feel free to use my model",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/30de3d78729c4b879f354b09dacc76de/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-01-07T23:12:18.113759",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

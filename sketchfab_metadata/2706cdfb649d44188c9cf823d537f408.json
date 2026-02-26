@@ -1,0 +1,266 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-24T12:48:56.282945",
+    "embedUrl": "https://sketchfab.com/models/2706cdfb649d44188c9cf823d537f408/embed",
+    "faceCount": 1000010,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 35,
+    "name": "White Scary Skeleton Knight",
+    "publishedAt": "2025-11-24T12:51:01.834161",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "skeleton",
+            "slug": "skeleton",
+            "uri": "https://api.sketchfab.com/v3/tags/skeleton"
+        },
+        {
+            "name": "armored",
+            "slug": "armored",
+            "uri": "https://api.sketchfab.com/v3/tags/armored"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "bone",
+            "slug": "bone",
+            "uri": "https://api.sketchfab.com/v3/tags/bone"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "undead",
+            "slug": "undead",
+            "uri": "https://api.sketchfab.com/v3/tags/undead"
+        },
+        {
+            "name": "scary",
+            "slug": "scary",
+            "uri": "https://api.sketchfab.com/v3/tags/scary"
+        },
+        {
+            "name": "Enemy",
+            "slug": "enemy",
+            "uri": "https://api.sketchfab.com/v3/tags/enemy"
+        },
+        {
+            "name": "creaturedesign",
+            "slug": "creaturedesign",
+            "uri": "https://api.sketchfab.com/v3/tags/creaturedesign"
+        },
+        {
+            "name": "darkfantasy",
+            "slug": "darkfantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/darkfantasy"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "skull",
+            "slug": "skull",
+            "uri": "https://api.sketchfab.com/v3/tags/skull"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "fantasyknight",
+            "slug": "fantasyknight",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyknight"
+        },
+        {
+            "name": "undeadwarrior",
+            "slug": "undeadwarrior",
+            "uri": "https://api.sketchfab.com/v3/tags/undeadwarrior"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "10e7a10b988846239c857e9757d29b81",
+                "width": 1920,
+                "height": 1080,
+                "size": 159629,
+                "url": "https://media.sketchfab.com/models/2706cdfb649d44188c9cf823d537f408/thumbnails/3815d66a49764a99ae54a438657764c5/d03a691b213b4bb8979ef9649428ea1c.jpeg"
+            },
+            {
+                "uid": "d8a63e21b9eb483cb0acb672b41e18b4",
+                "width": 1024,
+                "height": 576,
+                "size": 36637,
+                "url": "https://media.sketchfab.com/models/2706cdfb649d44188c9cf823d537f408/thumbnails/3815d66a49764a99ae54a438657764c5/ed26691ed3a145aab57596468d92e702.jpeg"
+            },
+            {
+                "uid": "31a3d9c85a044ce388f5f22695210e5c",
+                "width": 720,
+                "height": 405,
+                "size": 20252,
+                "url": "https://media.sketchfab.com/models/2706cdfb649d44188c9cf823d537f408/thumbnails/3815d66a49764a99ae54a438657764c5/051a04b57f714f8e95156c51382286f0.jpeg"
+            },
+            {
+                "uid": "c95aaf8d3f8d47989ce47b9e370099aa",
+                "width": 256,
+                "height": 144,
+                "size": 4013,
+                "url": "https://media.sketchfab.com/models/2706cdfb649d44188c9cf823d537f408/thumbnails/3815d66a49764a99ae54a438657764c5/821fb1b17c5d4605b19a33a017f7b441.jpeg"
+            },
+            {
+                "uid": "8d7d9eb488f34c00a67d807d6d31cf8f",
+                "width": 64,
+                "height": 36,
+                "size": 1001,
+                "url": "https://media.sketchfab.com/models/2706cdfb649d44188c9cf823d537f408/thumbnails/3815d66a49764a99ae54a438657764c5/8bf6f6f8e60440cbb320b6a575cc7fbb.jpeg"
+            }
+        ]
+    },
+    "uid": "2706cdfb649d44188c9cf823d537f408",
+    "uri": "https://api.sketchfab.com/v3/models/2706cdfb649d44188c9cf823d537f408",
+    "user": {
+        "uid": "c0e7cb6abbb54c4fbed332c1f658479d",
+        "username": "s8819296",
+        "displayName": "Pigcraft",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/s8819296",
+        "avatar": {
+            "uid": "7797ae77db2943ff8057f36882c126a7",
+            "uri": "https://api.sketchfab.com/v3/avatars/7797ae77db2943ff8057f36882c126a7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 912,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/641a80e3656e4f619687ec58200ffc86.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1244,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/4f74af7c9e17476b97fc30e551115c65.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2524,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/1979744444a44908b96f3bcaf009a9c4.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2809,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/cff0eb04a21445cb82338bb2738345f6.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c0e7cb6abbb54c4fbed332c1f658479d"
+    },
+    "vertexCount": 499881,
+    "viewCount": 944,
+    "viewerUrl": "https://sketchfab.com/3d-models/white-scary-skeleton-knight-2706cdfb649d44188c9cf823d537f408",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A haunting 3D model of a pale, intimidating skeleton knight equipped with nothing but a worn metal helmet and a single, deadly sword. This undead warrior is designed with sharp, bony features, an eerie presence, and a gritty medieval aesthetic.\nPerfect for dark fantasy games, undead armies, dungeon crawlers, horror environments, or cinematic battle scenes.\nClean topology, clear silhouette, and a menacing design make this asset ideal for anyone looking to add a chilling skeletal fighter to their project.",
+    "price": null,
+    "downloadCount": 194,
+    "editorUrl": "https://sketchfab.com/models/2706cdfb649d44188c9cf823d537f408/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-24T12:51:01.990878",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,67 @@
+{
+    "category": "Science & Technology",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Mystical",
+            "score": 0.7
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.6
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Dusty",
+        "Cracked"
+    ],
+    "tags": [
+        "grimoire",
+        "magic book",
+        "alchemy",
+        "ancient",
+        "dark fantasy",
+        "book",
+        "magic",
+        "circular emblem"
+    ],
+    "model_id_full": "1b877adfffcd4469afe21eabfb56708d_Stylized Alchemist Grimoire Book",
+    "sketchfab_id": "1b877adfffcd4469afe21eabfb56708d",
+    "asset_name": "Stylized Alchemist Grimoire Book"
+}

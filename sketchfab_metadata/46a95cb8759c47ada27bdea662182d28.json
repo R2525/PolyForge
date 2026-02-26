@@ -1,0 +1,309 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-22T14:27:13.964073",
+    "embedUrl": "https://sketchfab.com/models/46a95cb8759c47ada27bdea662182d28/embed",
+    "faceCount": 114457,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Canecillo decorado, Colegiata de Cervatos",
+    "publishedAt": "2025-12-30T16:58:16.093520",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "spain",
+            "slug": "spain",
+            "uri": "https://api.sketchfab.com/v3/tags/spain"
+        },
+        {
+            "name": "arquitectura",
+            "slug": "arquitectura",
+            "uri": "https://api.sketchfab.com/v3/tags/arquitectura"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "retopology",
+            "slug": "retopology",
+            "uri": "https://api.sketchfab.com/v3/tags/retopology"
+        },
+        {
+            "name": "iglesia",
+            "slug": "iglesia",
+            "uri": "https://api.sketchfab.com/v3/tags/iglesia"
+        },
+        {
+            "name": "Cantabria",
+            "slug": "cantabria",
+            "uri": "https://api.sketchfab.com/v3/tags/cantabria"
+        },
+        {
+            "name": "romanesque",
+            "slug": "romanesque",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque"
+        },
+        {
+            "name": "fotogrametria",
+            "slug": "fotogrametria",
+            "uri": "https://api.sketchfab.com/v3/tags/fotogrametria"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "Espana",
+            "slug": "espana",
+            "uri": "https://api.sketchfab.com/v3/tags/espana"
+        },
+        {
+            "name": "middleages",
+            "slug": "middleages",
+            "uri": "https://api.sketchfab.com/v3/tags/middleages"
+        },
+        {
+            "name": "romanico",
+            "slug": "romanico",
+            "uri": "https://api.sketchfab.com/v3/tags/romanico"
+        },
+        {
+            "name": "cultural-heritage",
+            "slug": "cultural-heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage"
+        },
+        {
+            "name": "romanesque-art",
+            "slug": "romanesque-art",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque-art"
+        },
+        {
+            "name": "retopologia",
+            "slug": "retopologia",
+            "uri": "https://api.sketchfab.com/v3/tags/retopologia"
+        },
+        {
+            "name": "optimizado",
+            "slug": "optimizado",
+            "uri": "https://api.sketchfab.com/v3/tags/optimizado"
+        },
+        {
+            "name": "patrimonio-cultural",
+            "slug": "patrimonio-cultural",
+            "uri": "https://api.sketchfab.com/v3/tags/patrimonio-cultural"
+        },
+        {
+            "name": "sigloxii",
+            "slug": "sigloxii",
+            "uri": "https://api.sketchfab.com/v3/tags/sigloxii"
+        },
+        {
+            "name": "edadmedia",
+            "slug": "edadmedia",
+            "uri": "https://api.sketchfab.com/v3/tags/edadmedia"
+        },
+        {
+            "name": "culturalheritage-photogrammetry-3dmodel",
+            "slug": "culturalheritage-photogrammetry-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/culturalheritage-photogrammetry-3dmodel"
+        },
+        {
+            "name": "cultural-heritage-photogrammetry-historical",
+            "slug": "cultural-heritage-photogrammetry-historical",
+            "uri": "https://api.sketchfab.com/v3/tags/cultural-heritage-photogrammetry-historical"
+        },
+        {
+            "name": "cervatos",
+            "slug": "cervatos",
+            "uri": "https://api.sketchfab.com/v3/tags/cervatos"
+        },
+        {
+            "name": "canecillo",
+            "slug": "canecillo",
+            "uri": "https://api.sketchfab.com/v3/tags/canecillo"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "concept",
+            "slug": "concept",
+            "uri": "https://api.sketchfab.com/v3/tags/concept"
+        },
+        {
+            "name": "church",
+            "slug": "church",
+            "uri": "https://api.sketchfab.com/v3/tags/church"
+        },
+        {
+            "name": "romanesque-church",
+            "slug": "romanesque-church",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque-church"
+        },
+        {
+            "name": "arteromanico",
+            "slug": "arteromanico",
+            "uri": "https://api.sketchfab.com/v3/tags/arteromanico"
+        },
+        {
+            "name": "romanesque-architecture",
+            "slug": "romanesque-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque-architecture"
+        },
+        {
+            "name": "xiicentury",
+            "slug": "xiicentury",
+            "uri": "https://api.sketchfab.com/v3/tags/xiicentury"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "88e12e2b874f440faf6766a85199dfb6",
+                "width": 1920,
+                "height": 1080,
+                "size": 120064,
+                "url": "https://media.sketchfab.com/models/46a95cb8759c47ada27bdea662182d28/thumbnails/232d2cf123404b729825ba25afd37df5/cc5b766f167e4a18b482dba05ee41184.jpeg"
+            },
+            {
+                "uid": "a1c2c86179994757a33bb89c49974b79",
+                "width": 1024,
+                "height": 576,
+                "size": 35816,
+                "url": "https://media.sketchfab.com/models/46a95cb8759c47ada27bdea662182d28/thumbnails/232d2cf123404b729825ba25afd37df5/f914e1f6b21142e79252c9fd6cbb2abb.jpeg"
+            },
+            {
+                "uid": "a4c1262f04ca44eba83936a089ccc04b",
+                "width": 720,
+                "height": 405,
+                "size": 20004,
+                "url": "https://media.sketchfab.com/models/46a95cb8759c47ada27bdea662182d28/thumbnails/232d2cf123404b729825ba25afd37df5/d7035ba6267b48e0b9b50cbb66337335.jpeg"
+            },
+            {
+                "uid": "e39dd29d17514e6cb4f89bb823757c6e",
+                "width": 256,
+                "height": 144,
+                "size": 4170,
+                "url": "https://media.sketchfab.com/models/46a95cb8759c47ada27bdea662182d28/thumbnails/232d2cf123404b729825ba25afd37df5/0080b311d66b4df5a8589c9e0108a918.jpeg"
+            },
+            {
+                "uid": "30a6412755184a8eb020bff476eb33a4",
+                "width": 64,
+                "height": 36,
+                "size": 1109,
+                "url": "https://media.sketchfab.com/models/46a95cb8759c47ada27bdea662182d28/thumbnails/232d2cf123404b729825ba25afd37df5/bf132f85953f477ba118f2d48d028b32.jpeg"
+            }
+        ]
+    },
+    "uid": "46a95cb8759c47ada27bdea662182d28",
+    "uri": "https://api.sketchfab.com/v3/models/46a95cb8759c47ada27bdea662182d28",
+    "user": {
+        "uid": "21dd9d33c5b742e895572a055d090666",
+        "username": "hjft",
+        "displayName": "Héctor Fonseca",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/hjft",
+        "avatar": {
+            "uid": "05c2ecc488c64911b37fd60cdd768844",
+            "uri": "https://api.sketchfab.com/v3/avatars/05c2ecc488c64911b37fd60cdd768844",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4288,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/fee3698f526a4dd2aeed90148e421f20.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3657,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/2d6da696b4c940f7b2f63c9ae1825b70.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/4c2a7427d7c9466d93c651dec25be2e9.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 837,
+                    "url": "https://media.sketchfab.com/avatars/05c2ecc488c64911b37fd60cdd768844/e426a17375db4f2c972c4624450b2e43.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/21dd9d33c5b742e895572a055d090666"
+    },
+    "vertexCount": 62566,
+    "viewCount": 60,
+    "viewerUrl": "https://sketchfab.com/3d-models/canecillo-decorado-colegiata-de-cervatos-46a95cb8759c47ada27bdea662182d28",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**ESP** Canecillo románico  decorado (s. XII) que corona el exterior del ábside de la Colegiata de San Pedro de Cervatos (Cantabria, España). Representa a un hombre que mantiene las fauces abiertas de un demonio que se está tragando a otra figura humana en actitud pensativa.\n\n**ENG** Decorated Romanesque corbel (12th century) crowning the exterior of the apse of the Collegiate Church of San Pedro de Cervatos (Cantabria, Spain). It depicts a man holding open the jaws of a demon that is swallowing another human figure in a pensive attitude.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/46a95cb8759c47ada27bdea662182d28/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-30T16:58:16.619712",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 2
+}

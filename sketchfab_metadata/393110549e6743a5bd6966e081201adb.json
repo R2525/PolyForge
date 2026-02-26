@@ -1,0 +1,349 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T15:19:42.897319",
+    "embedUrl": "https://sketchfab.com/models/393110549e6743a5bd6966e081201adb/embed",
+    "faceCount": 42758,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 4,
+    "name": "Naruto Run",
+    "publishedAt": "2026-02-20T15:29:29.442372",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "humanoid",
+            "slug": "humanoid",
+            "uri": "https://api.sketchfab.com/v3/tags/humanoid"
+        },
+        {
+            "name": "toon",
+            "slug": "toon",
+            "uri": "https://api.sketchfab.com/v3/tags/toon"
+        },
+        {
+            "name": "cute",
+            "slug": "cute",
+            "uri": "https://api.sketchfab.com/v3/tags/cute"
+        },
+        {
+            "name": "avatar",
+            "slug": "avatar",
+            "uri": "https://api.sketchfab.com/v3/tags/avatar"
+        },
+        {
+            "name": "pose",
+            "slug": "pose",
+            "uri": "https://api.sketchfab.com/v3/tags/pose"
+        },
+        {
+            "name": "ninja",
+            "slug": "ninja",
+            "uri": "https://api.sketchfab.com/v3/tags/ninja"
+        },
+        {
+            "name": "action",
+            "slug": "action",
+            "uri": "https://api.sketchfab.com/v3/tags/action"
+        },
+        {
+            "name": "sexy",
+            "slug": "sexy",
+            "uri": "https://api.sketchfab.com/v3/tags/sexy"
+        },
+        {
+            "name": "shorts",
+            "slug": "shorts",
+            "uri": "https://api.sketchfab.com/v3/tags/shorts"
+        },
+        {
+            "name": "big",
+            "slug": "big",
+            "uri": "https://api.sketchfab.com/v3/tags/big"
+        },
+        {
+            "name": "shinobi",
+            "slug": "shinobi",
+            "uri": "https://api.sketchfab.com/v3/tags/shinobi"
+        },
+        {
+            "name": "hot",
+            "slug": "hot",
+            "uri": "https://api.sketchfab.com/v3/tags/hot"
+        },
+        {
+            "name": "npc",
+            "slug": "npc",
+            "uri": "https://api.sketchfab.com/v3/tags/npc"
+        },
+        {
+            "name": "sprint",
+            "slug": "sprint",
+            "uri": "https://api.sketchfab.com/v3/tags/sprint"
+        },
+        {
+            "name": "run",
+            "slug": "run",
+            "uri": "https://api.sketchfab.com/v3/tags/run"
+        },
+        {
+            "name": "manga",
+            "slug": "manga",
+            "uri": "https://api.sketchfab.com/v3/tags/manga"
+        },
+        {
+            "name": "3dcharacter",
+            "slug": "3dcharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/3dcharacter"
+        },
+        {
+            "name": "kawaii",
+            "slug": "kawaii",
+            "uri": "https://api.sketchfab.com/v3/tags/kawaii"
+        },
+        {
+            "name": "casual",
+            "slug": "casual",
+            "uri": "https://api.sketchfab.com/v3/tags/casual"
+        },
+        {
+            "name": "boobs",
+            "slug": "boobs",
+            "uri": "https://api.sketchfab.com/v3/tags/boobs"
+        },
+        {
+            "name": "Running",
+            "slug": "running",
+            "uri": "https://api.sketchfab.com/v3/tags/running"
+        },
+        {
+            "name": "outfit",
+            "slug": "outfit",
+            "uri": "https://api.sketchfab.com/v3/tags/outfit"
+        },
+        {
+            "name": "animegirl",
+            "slug": "animegirl",
+            "uri": "https://api.sketchfab.com/v3/tags/animegirl"
+        },
+        {
+            "name": "femalecharacter",
+            "slug": "femalecharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/femalecharacter"
+        },
+        {
+            "name": "waifu",
+            "slug": "waifu",
+            "uri": "https://api.sketchfab.com/v3/tags/waifu"
+        },
+        {
+            "name": "animecharacter",
+            "slug": "animecharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/animecharacter"
+        },
+        {
+            "name": "actionpose",
+            "slug": "actionpose",
+            "uri": "https://api.sketchfab.com/v3/tags/actionpose"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "female",
+            "slug": "female",
+            "uri": "https://api.sketchfab.com/v3/tags/female"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "gamecharacter",
+            "slug": "gamecharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/gamecharacter"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        },
+        {
+            "name": "japanese",
+            "slug": "japanese",
+            "uri": "https://api.sketchfab.com/v3/tags/japanese"
+        },
+        {
+            "name": "narutorun",
+            "slug": "narutorun",
+            "uri": "https://api.sketchfab.com/v3/tags/narutorun"
+        },
+        {
+            "name": "animefemale",
+            "slug": "animefemale",
+            "uri": "https://api.sketchfab.com/v3/tags/animefemale"
+        },
+        {
+            "name": "ninjrun",
+            "slug": "ninjrun",
+            "uri": "https://api.sketchfab.com/v3/tags/ninjrun"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ead7a2e319db4889b6fb581078263349",
+                "width": 1920,
+                "height": 1080,
+                "size": 64549,
+                "url": "https://media.sketchfab.com/models/393110549e6743a5bd6966e081201adb/thumbnails/f1b630a65ec04feead1f685912b0a4fd/6a0d1e33b269460da3b748e36986c784.jpeg"
+            },
+            {
+                "uid": "28a42b025aba43d597d760b400545db4",
+                "width": 1024,
+                "height": 576,
+                "size": 23874,
+                "url": "https://media.sketchfab.com/models/393110549e6743a5bd6966e081201adb/thumbnails/f1b630a65ec04feead1f685912b0a4fd/98f44fe8444247798dc97c216be45327.jpeg"
+            },
+            {
+                "uid": "3614468f5620458ba6e7d59a9f82c2ef",
+                "width": 720,
+                "height": 405,
+                "size": 14488,
+                "url": "https://media.sketchfab.com/models/393110549e6743a5bd6966e081201adb/thumbnails/f1b630a65ec04feead1f685912b0a4fd/de3c811a13e74d61b578c2ed7d91403f.jpeg"
+            },
+            {
+                "uid": "4a3ed5fdaafb47feb91c9e49ce5cbdf7",
+                "width": 256,
+                "height": 144,
+                "size": 3582,
+                "url": "https://media.sketchfab.com/models/393110549e6743a5bd6966e081201adb/thumbnails/f1b630a65ec04feead1f685912b0a4fd/9f0be65542b44bfd99b9ea6a36bdbc87.jpeg"
+            },
+            {
+                "uid": "4ba8f441e38b4d1f8c2e5b40dbe52ceb",
+                "width": 64,
+                "height": 36,
+                "size": 1056,
+                "url": "https://media.sketchfab.com/models/393110549e6743a5bd6966e081201adb/thumbnails/f1b630a65ec04feead1f685912b0a4fd/9952e5b5f1bd472083908010e914992c.jpeg"
+            }
+        ]
+    },
+    "uid": "393110549e6743a5bd6966e081201adb",
+    "uri": "https://api.sketchfab.com/v3/models/393110549e6743a5bd6966e081201adb",
+    "user": {
+        "uid": "74077753057942289970d6ba926a8566",
+        "username": "kasuga",
+        "displayName": "Kasuga𓅂",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kasuga",
+        "avatar": {
+            "uid": "7e17ab214d6746b087de5f26b0cb7cb2",
+            "uri": "https://api.sketchfab.com/v3/avatars/7e17ab214d6746b087de5f26b0cb7cb2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1136,
+                    "url": "https://media.sketchfab.com/avatars/7e17ab214d6746b087de5f26b0cb7cb2/67cb75062cbb4784964e687b2ff958d9.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1563,
+                    "url": "https://media.sketchfab.com/avatars/7e17ab214d6746b087de5f26b0cb7cb2/5d886a1f9f4d4a32ba5668463ae45dd0.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3167,
+                    "url": "https://media.sketchfab.com/avatars/7e17ab214d6746b087de5f26b0cb7cb2/659466a6995a40ab81f2a920a661b51a.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3447,
+                    "url": "https://media.sketchfab.com/avatars/7e17ab214d6746b087de5f26b0cb7cb2/f8a40b2bda6445ffbb9a7619999c8eda.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/74077753057942289970d6ba926a8566"
+    },
+    "vertexCount": 22321,
+    "viewCount": 42,
+    "viewerUrl": "https://sketchfab.com/3d-models/naruto-run-393110549e6743a5bd6966e081201adb",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "# Download this Character: https://fab.com/s/81c07c6f61f0\n\n---------------------------------------------------\n**This Character is:**\n\n* Fully Rigged (ready for animation)\n* UV Mapped & Textured\n* Includes Facial Expression Blend-Shape Keys \n\nPure OC/DOES NOT BELONG TO ANY ANIME.\n\n\n# Download Similar Anime Models on FAB: https://www.fab.com/sellers/Kasuga",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/393110549e6743a5bd6966e081201adb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T15:32:04.102299",
+    "pbrType": null,
+    "textureCount": 16,
+    "materialCount": 16
+}

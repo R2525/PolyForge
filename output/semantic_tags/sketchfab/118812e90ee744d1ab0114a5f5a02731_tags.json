@@ -1,0 +1,41 @@
+{
+    "category": "Weapons & Military",
+    "top_genres": [
+        {
+            "name": "Military",
+            "score": 0.85
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Clean"
+    ],
+    "tags": [
+        "hammer",
+        "mace",
+        "tool"
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-13T20:43:45.904177",
+    "embedUrl": "https://sketchfab.com/models/2192ffa2018c4822bfd7df777e9259a9/embed",
+    "faceCount": 117573,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 18,
+    "name": "Gambit Mr X",
+    "publishedAt": "2026-02-13T21:00:01.911786",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "gambit",
+            "slug": "gambit",
+            "uri": "https://api.sketchfab.com/v3/tags/gambit"
+        },
+        {
+            "name": "rivals",
+            "slug": "rivals",
+            "uri": "https://api.sketchfab.com/v3/tags/rivals"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "43c3e113cb2b4925ade34e49ecbae960",
+                "width": 1920,
+                "height": 1080,
+                "size": 152779,
+                "url": "https://media.sketchfab.com/models/2192ffa2018c4822bfd7df777e9259a9/thumbnails/19b650fd5a9b42d7a92a3a7266bac87c/364920cc2e65466d8612420dc718804f.jpeg"
+            },
+            {
+                "uid": "dfdc95f0b10f4cd0aca6782f010f367a",
+                "width": 1024,
+                "height": 576,
+                "size": 33990,
+                "url": "https://media.sketchfab.com/models/2192ffa2018c4822bfd7df777e9259a9/thumbnails/19b650fd5a9b42d7a92a3a7266bac87c/654cd66190184bd7b01bd2b3124c0432.jpeg"
+            },
+            {
+                "uid": "1d37d76f41a6412195c41e9d65cec781",
+                "width": 720,
+                "height": 405,
+                "size": 18567,
+                "url": "https://media.sketchfab.com/models/2192ffa2018c4822bfd7df777e9259a9/thumbnails/19b650fd5a9b42d7a92a3a7266bac87c/732203ea5b134387b14c08ee693e0b97.jpeg"
+            },
+            {
+                "uid": "3abf0644af0f44d3a0eae659784de2da",
+                "width": 256,
+                "height": 144,
+                "size": 3781,
+                "url": "https://media.sketchfab.com/models/2192ffa2018c4822bfd7df777e9259a9/thumbnails/19b650fd5a9b42d7a92a3a7266bac87c/18d4d8feb07242edb708c0e2d4af05f5.jpeg"
+            },
+            {
+                "uid": "8b85807ab5d84560b6ff425f62b16d33",
+                "width": 64,
+                "height": 36,
+                "size": 1034,
+                "url": "https://media.sketchfab.com/models/2192ffa2018c4822bfd7df777e9259a9/thumbnails/19b650fd5a9b42d7a92a3a7266bac87c/b0eba6dfbce64173ba0e6670ef61fc82.jpeg"
+            }
+        ]
+    },
+    "uid": "2192ffa2018c4822bfd7df777e9259a9",
+    "uri": "https://api.sketchfab.com/v3/models/2192ffa2018c4822bfd7df777e9259a9",
+    "user": {
+        "uid": "a183bfad17764f368b4a14d2bb52f07b",
+        "username": "YEEZY_YE",
+        "displayName": "YE YE",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/YEEZY_YE",
+        "avatar": {
+            "uid": "f7308e227b884312a2e856291a675087",
+            "uri": "https://api.sketchfab.com/v3/avatars/f7308e227b884312a2e856291a675087",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1043,
+                    "url": "https://media.sketchfab.com/avatars/f7308e227b884312a2e856291a675087/307678e6e2ca43fc917a14524def5f32.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1398,
+                    "url": "https://media.sketchfab.com/avatars/f7308e227b884312a2e856291a675087/4b8b2b5848a7427a955b93853d116a75.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2558,
+                    "url": "https://media.sketchfab.com/avatars/f7308e227b884312a2e856291a675087/2b24e401b82143c3a4161c6543747fc6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2924,
+                    "url": "https://media.sketchfab.com/avatars/f7308e227b884312a2e856291a675087/f140447f11e54ddf90464019c23d215c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a183bfad17764f368b4a14d2bb52f07b"
+    },
+    "vertexCount": 65861,
+    "viewCount": 357,
+    "viewerUrl": "https://sketchfab.com/3d-models/gambit-mr-x-2192ffa2018c4822bfd7df777e9259a9",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "All rights belong to Disney, Marvel Games, and NetEase",
+    "price": null,
+    "downloadCount": 71,
+    "editorUrl": "https://sketchfab.com/models/2192ffa2018c4822bfd7df777e9259a9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-13T21:00:02.244783",
+    "pbrType": null,
+    "textureCount": 19,
+    "materialCount": 13
+}

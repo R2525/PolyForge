@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "name": "Sports & Fitness",
+            "slug": "sports-fitness",
+            "uri": "https://api.sketchfab.com/v3/categories/ac8a0065d9e34fca8a3ffa9c6db39bff",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/2cc5442dbf0aeeed5327cbf073964157-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T14:53:17.173875",
+    "embedUrl": "https://sketchfab.com/models/27a1d8568e044a8daf1bc91ab4cad818/embed",
+    "faceCount": 16797,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "-✘-Sc0rn🏁V8‑Turbo-Kart🏁'Ia-Unit'",
+    "publishedAt": "2026-02-21T14:58:38.009738",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "racer",
+            "slug": "racer",
+            "uri": "https://api.sketchfab.com/v3/tags/racer"
+        },
+        {
+            "name": "vehicles",
+            "slug": "vehicles",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicles"
+        },
+        {
+            "name": "cars",
+            "slug": "cars",
+            "uri": "https://api.sketchfab.com/v3/tags/cars"
+        },
+        {
+            "name": "sportcar",
+            "slug": "sportcar",
+            "uri": "https://api.sketchfab.com/v3/tags/sportcar"
+        },
+        {
+            "name": "sportscar",
+            "slug": "sportscar",
+            "uri": "https://api.sketchfab.com/v3/tags/sportscar"
+        },
+        {
+            "name": "kart",
+            "slug": "kart",
+            "uri": "https://api.sketchfab.com/v3/tags/kart"
+        },
+        {
+            "name": "GoKart",
+            "slug": "gokart",
+            "uri": "https://api.sketchfab.com/v3/tags/gokart"
+        },
+        {
+            "name": "fastcars",
+            "slug": "fastcars",
+            "uri": "https://api.sketchfab.com/v3/tags/fastcars"
+        },
+        {
+            "name": "karts",
+            "slug": "karts",
+            "uri": "https://api.sketchfab.com/v3/tags/karts"
+        },
+        {
+            "name": "sports-car",
+            "slug": "sports-car",
+            "uri": "https://api.sketchfab.com/v3/tags/sports-car"
+        },
+        {
+            "name": "sport-car",
+            "slug": "sport-car",
+            "uri": "https://api.sketchfab.com/v3/tags/sport-car"
+        },
+        {
+            "name": "sportscars",
+            "slug": "sportscars",
+            "uri": "https://api.sketchfab.com/v3/tags/sportscars"
+        },
+        {
+            "name": "sportcars",
+            "slug": "sportcars",
+            "uri": "https://api.sketchfab.com/v3/tags/sportcars"
+        },
+        {
+            "name": "go-kart",
+            "slug": "go-kart",
+            "uri": "https://api.sketchfab.com/v3/tags/go-kart"
+        },
+        {
+            "name": "race-car",
+            "slug": "race-car",
+            "uri": "https://api.sketchfab.com/v3/tags/race-car"
+        },
+        {
+            "name": "kartrider",
+            "slug": "kartrider",
+            "uri": "https://api.sketchfab.com/v3/tags/kartrider"
+        },
+        {
+            "name": "fastcar",
+            "slug": "fastcar",
+            "uri": "https://api.sketchfab.com/v3/tags/fastcar"
+        },
+        {
+            "name": "v8engine",
+            "slug": "v8engine",
+            "uri": "https://api.sketchfab.com/v3/tags/v8engine"
+        },
+        {
+            "name": "vehicle",
+            "slug": "vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+        },
+        {
+            "name": "car",
+            "slug": "car",
+            "uri": "https://api.sketchfab.com/v3/tags/car"
+        },
+        {
+            "name": "stylized-vehicle",
+            "slug": "stylized-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-vehicle"
+        },
+        {
+            "name": "fast-car",
+            "slug": "fast-car",
+            "uri": "https://api.sketchfab.com/v3/tags/fast-car"
+        },
+        {
+            "name": "sports-cars",
+            "slug": "sports-cars",
+            "uri": "https://api.sketchfab.com/v3/tags/sports-cars"
+        },
+        {
+            "name": "stylized-car",
+            "slug": "stylized-car",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-car"
+        },
+        {
+            "name": "stylizedcar",
+            "slug": "stylizedcar",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedcar"
+        },
+        {
+            "name": "stylizedvehicle",
+            "slug": "stylizedvehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedvehicle"
+        },
+        {
+            "name": "copilot",
+            "slug": "copilot",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot"
+        },
+        {
+            "name": "fast-vehicle",
+            "slug": "fast-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/fast-vehicle"
+        },
+        {
+            "name": "kart-racers",
+            "slug": "kart-racers",
+            "uri": "https://api.sketchfab.com/v3/tags/kart-racers"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "stylized-cars",
+            "slug": "stylized-cars",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-cars"
+        },
+        {
+            "name": "kartracer",
+            "slug": "kartracer",
+            "uri": "https://api.sketchfab.com/v3/tags/kartracer"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "copilot3d",
+            "slug": "copilot3d",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3d"
+        },
+        {
+            "name": "copilotai",
+            "slug": "copilotai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotai"
+        },
+        {
+            "name": "copilotlabs",
+            "slug": "copilotlabs",
+            "uri": "https://api.sketchfab.com/v3/tags/copilotlabs"
+        },
+        {
+            "name": "copilot3dai",
+            "slug": "copilot3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot3dai"
+        },
+        {
+            "name": "copilot-models",
+            "slug": "copilot-models",
+            "uri": "https://api.sketchfab.com/v3/tags/copilot-models"
+        },
+        {
+            "name": "v8-turbo-kart",
+            "slug": "v8-turbo-kart",
+            "uri": "https://api.sketchfab.com/v3/tags/v8-turbo-kart"
+        },
+        {
+            "name": "v8-turbokart",
+            "slug": "v8-turbokart",
+            "uri": "https://api.sketchfab.com/v3/tags/v8-turbokart"
+        },
+        {
+            "name": "v8turbokart",
+            "slug": "v8turbokart",
+            "uri": "https://api.sketchfab.com/v3/tags/v8turbokart"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0977fe12e06e4744bbf12738b1aedb10",
+                "width": 1920,
+                "height": 1080,
+                "size": 296856,
+                "url": "https://media.sketchfab.com/models/27a1d8568e044a8daf1bc91ab4cad818/thumbnails/ad56c8ccd18542598b55ac04d8ee1e58/5d53bdf66ae1479aaca2105c443dfaed.jpeg"
+            },
+            {
+                "uid": "b58afb0a099547eab5290acbe62387b1",
+                "width": 1024,
+                "height": 576,
+                "size": 62430,
+                "url": "https://media.sketchfab.com/models/27a1d8568e044a8daf1bc91ab4cad818/thumbnails/ad56c8ccd18542598b55ac04d8ee1e58/6c55a926933d40ce90cbfd1b3ce86246.jpeg"
+            },
+            {
+                "uid": "79e18ea47b6b4b919f3903f7eecb188f",
+                "width": 720,
+                "height": 405,
+                "size": 35137,
+                "url": "https://media.sketchfab.com/models/27a1d8568e044a8daf1bc91ab4cad818/thumbnails/ad56c8ccd18542598b55ac04d8ee1e58/e08a9afa2313471990e849cb5f285142.jpeg"
+            },
+            {
+                "uid": "41d93f3e4c8c4908a800929e75b042e1",
+                "width": 256,
+                "height": 144,
+                "size": 7711,
+                "url": "https://media.sketchfab.com/models/27a1d8568e044a8daf1bc91ab4cad818/thumbnails/ad56c8ccd18542598b55ac04d8ee1e58/a406c898b69d4e19b856dc58bd313b01.jpeg"
+            },
+            {
+                "uid": "e9131d1836494e01a63f581883591aa1",
+                "width": 64,
+                "height": 36,
+                "size": 1440,
+                "url": "https://media.sketchfab.com/models/27a1d8568e044a8daf1bc91ab4cad818/thumbnails/ad56c8ccd18542598b55ac04d8ee1e58/2542d9e995d64633a2cbd9579f125033.jpeg"
+            }
+        ]
+    },
+    "uid": "27a1d8568e044a8daf1bc91ab4cad818",
+    "uri": "https://api.sketchfab.com/v3/models/27a1d8568e044a8daf1bc91ab4cad818",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 8416,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/sc0rnv8turbo-kartia-unit-27a1d8568e044a8daf1bc91ab4cad818",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/27a1d8568e044a8daf1bc91ab4cad818/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:33:49.899660",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

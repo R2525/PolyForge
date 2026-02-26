@@ -1,0 +1,184 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T19:00:14.278661",
+    "embedUrl": "https://sketchfab.com/models/0d5f9af1ed964c7cbdf601670b0487a8/embed",
+    "faceCount": 600,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Item – Lantern | Set – The Lighthouse Keeper",
+    "publishedAt": "2026-02-19T19:04:11.887886",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "custom",
+            "slug": "custom",
+            "uri": "https://api.sketchfab.com/v3/tags/custom"
+        },
+        {
+            "name": "item",
+            "slug": "item",
+            "uri": "https://api.sketchfab.com/v3/tags/item"
+        },
+        {
+            "name": "cosmetics",
+            "slug": "cosmetics",
+            "uri": "https://api.sketchfab.com/v3/tags/cosmetics"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "225bc6e64e154e3d8dd8cc44298bac8c",
+                "width": 1920,
+                "height": 1080,
+                "size": 46951,
+                "url": "https://media.sketchfab.com/models/0d5f9af1ed964c7cbdf601670b0487a8/thumbnails/11c942480ac24287bd67bc68d2a48bc9/3867184b05e041359247a05c9ff26b2c.jpeg"
+            },
+            {
+                "uid": "7523e6877c834bc18af14dadc9417f9d",
+                "width": 1024,
+                "height": 576,
+                "size": 15593,
+                "url": "https://media.sketchfab.com/models/0d5f9af1ed964c7cbdf601670b0487a8/thumbnails/11c942480ac24287bd67bc68d2a48bc9/51f85734d5f74863bfc9ce62ffb6a10a.jpeg"
+            },
+            {
+                "uid": "83bddf6377384e219e0400d9ec618eb7",
+                "width": 720,
+                "height": 405,
+                "size": 9131,
+                "url": "https://media.sketchfab.com/models/0d5f9af1ed964c7cbdf601670b0487a8/thumbnails/11c942480ac24287bd67bc68d2a48bc9/8fc58e7d24ca44dfa8d277192e9f7e98.jpeg"
+            },
+            {
+                "uid": "f0fb94ebc4ac43518e09def2e74310a3",
+                "width": 256,
+                "height": 144,
+                "size": 2227,
+                "url": "https://media.sketchfab.com/models/0d5f9af1ed964c7cbdf601670b0487a8/thumbnails/11c942480ac24287bd67bc68d2a48bc9/4ef9a5b4062d4015b8f6959a45339b7a.jpeg"
+            },
+            {
+                "uid": "d9b212dafc6a4a20b598728cd7ed94dd",
+                "width": 64,
+                "height": 36,
+                "size": 900,
+                "url": "https://media.sketchfab.com/models/0d5f9af1ed964c7cbdf601670b0487a8/thumbnails/11c942480ac24287bd67bc68d2a48bc9/1daf769192bf4b23a950d2646eddb76c.jpeg"
+            }
+        ]
+    },
+    "uid": "0d5f9af1ed964c7cbdf601670b0487a8",
+    "uri": "https://api.sketchfab.com/v3/models/0d5f9af1ed964c7cbdf601670b0487a8",
+    "user": {
+        "uid": "0a624d8b14bb40de9c29c7bdae14b28f",
+        "username": "wavesync",
+        "displayName": "WaveSync - discover power of imagination",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/wavesync",
+        "avatar": {
+            "uid": "4858aeb8ff72454391e2d2820eea0ced",
+            "uri": "https://api.sketchfab.com/v3/avatars/4858aeb8ff72454391e2d2820eea0ced",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 606,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/2ed2db35c10b48ecbb408ed8a1c5bf3f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 981,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/873999b810de4ae39346790bce21c4bd.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2524,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/e7fdc53e69394be995a38331110f39d5.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2946,
+                    "url": "https://media.sketchfab.com/avatars/4858aeb8ff72454391e2d2820eea0ced/c92b41a6f90e4266b139a9b8bf033639.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0a624d8b14bb40de9c29c7bdae14b28f"
+    },
+    "vertexCount": 400,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/item-lantern-set-the-lighthouse-keeper-0d5f9af1ed964c7cbdf601670b0487a8",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Event**\nLunar New Year\n\n**Set name**\nThe Lighthouse Keeper\n\n**3D Model Name**\nItem – Lantern on a Stick\n\n*Create in Blockbench by WaveSync*",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0d5f9af1ed964c7cbdf601670b0487a8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T19:04:12.267199",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

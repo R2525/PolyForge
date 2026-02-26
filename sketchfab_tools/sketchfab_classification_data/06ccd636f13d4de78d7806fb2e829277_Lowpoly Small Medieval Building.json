@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.95
+        },
+        {
+            "name": "Rustic",
+            "score": 0.85
+        },
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Dated",
+            "score": 0.75
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        }
+    ],
+    "style": "Lowpoly",
+    "top_styles": [
+        {
+            "name": "Lowpoly",
+            "score": 0.9
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Minimalist",
+            "score": 0.7
+        },
+        {
+            "name": "Pixel Art",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Mossy",
+        "Dusty",
+        "Rusty",
+        "Cracked"
+    ],
+    "tags": [
+        "medieval",
+        "small",
+        "house",
+        "building",
+        "lowpoly",
+        "3D model",
+        "architecture",
+        "stone"
+    ],
+    "model_id_full": "06ccd636f13d4de78d7806fb2e829277_Lowpoly Small Medieval Building",
+    "sketchfab_id": "06ccd636f13d4de78d7806fb2e829277",
+    "asset_name": "Lowpoly Small Medieval Building"
+}

@@ -1,0 +1,176 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-03T13:13:59.444363",
+    "embedUrl": "https://sketchfab.com/models/08f76d8daad74edb82c67a7492d95714/embed",
+    "faceCount": 7656,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 5,
+    "name": "Dragonite pokopia",
+    "publishedAt": "2026-02-03T13:34:47.162458",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "Dragonite",
+            "slug": "dragonite",
+            "uri": "https://api.sketchfab.com/v3/tags/dragonite"
+        },
+        {
+            "name": "pokemon3d",
+            "slug": "pokemon3d",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "969d7ee0a5b74eb8b081431f66b9c73b",
+                "width": 1920,
+                "height": 1080,
+                "size": 62939,
+                "url": "https://media.sketchfab.com/models/08f76d8daad74edb82c67a7492d95714/thumbnails/003238b514cc46b78a76dbaff39f1a7b/e7398c9bba05465fbfbe976438783638.jpeg"
+            },
+            {
+                "uid": "1bd48d6cf3514f52a94e36b55bffe5dc",
+                "width": 1024,
+                "height": 576,
+                "size": 22242,
+                "url": "https://media.sketchfab.com/models/08f76d8daad74edb82c67a7492d95714/thumbnails/003238b514cc46b78a76dbaff39f1a7b/eb7af774d4f4475d8042e0574c6ea5fa.jpeg"
+            },
+            {
+                "uid": "c57d713d652a4064b9b2088ee94c84fe",
+                "width": 720,
+                "height": 405,
+                "size": 13439,
+                "url": "https://media.sketchfab.com/models/08f76d8daad74edb82c67a7492d95714/thumbnails/003238b514cc46b78a76dbaff39f1a7b/1a9724af424745268cc85fe7753e66f3.jpeg"
+            },
+            {
+                "uid": "7fe97e4aba1f4cb4ae1b9cb867ecd20c",
+                "width": 256,
+                "height": 144,
+                "size": 3299,
+                "url": "https://media.sketchfab.com/models/08f76d8daad74edb82c67a7492d95714/thumbnails/003238b514cc46b78a76dbaff39f1a7b/911929385f144414adb53469a089b485.jpeg"
+            },
+            {
+                "uid": "c096a3a608c6457a96936746b1a3d839",
+                "width": 64,
+                "height": 36,
+                "size": 950,
+                "url": "https://media.sketchfab.com/models/08f76d8daad74edb82c67a7492d95714/thumbnails/003238b514cc46b78a76dbaff39f1a7b/7f09294baf6742159309954931e1282c.jpeg"
+            }
+        ]
+    },
+    "uid": "08f76d8daad74edb82c67a7492d95714",
+    "uri": "https://api.sketchfab.com/v3/models/08f76d8daad74edb82c67a7492d95714",
+    "user": {
+        "uid": "b5a0b828b8f34e95b543c2b5c6d61a02",
+        "username": "rugvedshetge",
+        "displayName": "rugved shetge",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rugvedshetge",
+        "avatar": {
+            "uid": "0c1a27bafcb74cce9c6f18fc8655630c",
+            "uri": "https://api.sketchfab.com/v3/avatars/0c1a27bafcb74cce9c6f18fc8655630c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1134,
+                    "url": "https://media.sketchfab.com/avatars/0c1a27bafcb74cce9c6f18fc8655630c/732c9cd9c90d4f69b5b8daa2ac19cc3f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1608,
+                    "url": "https://media.sketchfab.com/avatars/0c1a27bafcb74cce9c6f18fc8655630c/f88f47d729ee4b75b3a63ec41492060f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3493,
+                    "url": "https://media.sketchfab.com/avatars/0c1a27bafcb74cce9c6f18fc8655630c/64be34a3f4fb44d6aa95d600d1b37a57.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3976,
+                    "url": "https://media.sketchfab.com/avatars/0c1a27bafcb74cce9c6f18fc8655630c/663ef02a5b4049729cc12398fa799cad.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b5a0b828b8f34e95b543c2b5c6d61a02"
+    },
+    "vertexCount": 3946,
+    "viewCount": 74,
+    "viewerUrl": "https://sketchfab.com/3d-models/dragonite-pokopia-08f76d8daad74edb82c67a7492d95714",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Dittonite dragonite\ndragonite from pokopia\nnot rigged\nbad textures\nhand painted",
+    "price": null,
+    "downloadCount": 12,
+    "editorUrl": "https://sketchfab.com/models/08f76d8daad74edb82c67a7492d95714/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-03T13:39:20.908977",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 10
+}

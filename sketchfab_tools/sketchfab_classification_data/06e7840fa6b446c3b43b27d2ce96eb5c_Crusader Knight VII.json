@@ -1,0 +1,68 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Warrior",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Gothic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Rusty",
+        "Dusty",
+        "Mossy",
+        "Cracked"
+    ],
+    "tags": [
+        "crusader knight",
+        "medieval knight",
+        "warrior",
+        "shield",
+        "sword",
+        "armor",
+        "fantasy"
+    ],
+    "model_id_full": "06e7840fa6b446c3b43b27d2ce96eb5c_Crusader Knight VII",
+    "sketchfab_id": "06e7840fa6b446c3b43b27d2ce96eb5c",
+    "asset_name": "Crusader Knight VII"
+}

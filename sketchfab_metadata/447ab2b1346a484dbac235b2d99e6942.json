@@ -1,0 +1,175 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-10-06T02:42:13.184116",
+    "embedUrl": "https://sketchfab.com/models/447ab2b1346a484dbac235b2d99e6942/embed",
+    "faceCount": 784014,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Pink And Blue Horrors Of Tzeentch",
+    "publishedAt": "2025-10-06T02:44:59.716101",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "warhammer40000",
+            "slug": "warhammer40000",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer40000"
+        },
+        {
+            "name": "horrors",
+            "slug": "horrors",
+            "uri": "https://api.sketchfab.com/v3/tags/horrors"
+        },
+        {
+            "name": "warhammer40",
+            "slug": "warhammer40",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer40"
+        },
+        {
+            "name": "warhammer40k",
+            "slug": "warhammer40k",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer40k"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "tzeentch",
+            "slug": "tzeentch",
+            "uri": "https://api.sketchfab.com/v3/tags/tzeentch"
+        },
+        {
+            "name": "notcreatedwithai",
+            "slug": "notcreatedwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/notcreatedwithai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c670e24a09ce46258ccfce60229fc9a6",
+                "width": 1920,
+                "height": 1080,
+                "size": 422653,
+                "url": "https://media.sketchfab.com/models/447ab2b1346a484dbac235b2d99e6942/thumbnails/1faf3d0bc55b4ea080b7c05500331a47/ee88d81347844206a4b0f777d9feb279.jpeg"
+            },
+            {
+                "uid": "b503c2a5f6184e83886e43cf7dfa5ec2",
+                "width": 1024,
+                "height": 576,
+                "size": 53216,
+                "url": "https://media.sketchfab.com/models/447ab2b1346a484dbac235b2d99e6942/thumbnails/1faf3d0bc55b4ea080b7c05500331a47/106c4c1cade94523af28b8f1e362430d.jpeg"
+            },
+            {
+                "uid": "62287ed1d94642c998a8f949ac801d23",
+                "width": 720,
+                "height": 405,
+                "size": 23452,
+                "url": "https://media.sketchfab.com/models/447ab2b1346a484dbac235b2d99e6942/thumbnails/1faf3d0bc55b4ea080b7c05500331a47/488a714e2ef349859e3b598b49394405.jpeg"
+            },
+            {
+                "uid": "3b32148d90414b38a81db96d27838663",
+                "width": 256,
+                "height": 144,
+                "size": 3894,
+                "url": "https://media.sketchfab.com/models/447ab2b1346a484dbac235b2d99e6942/thumbnails/1faf3d0bc55b4ea080b7c05500331a47/297fc1b18d894c1eab021650536ca760.jpeg"
+            },
+            {
+                "uid": "0678d739dff44954896210a292b73146",
+                "width": 64,
+                "height": 36,
+                "size": 957,
+                "url": "https://media.sketchfab.com/models/447ab2b1346a484dbac235b2d99e6942/thumbnails/1faf3d0bc55b4ea080b7c05500331a47/6fba988fc5da4655a6de4a19ad07a2b3.jpeg"
+            }
+        ]
+    },
+    "uid": "447ab2b1346a484dbac235b2d99e6942",
+    "uri": "https://api.sketchfab.com/v3/models/447ab2b1346a484dbac235b2d99e6942",
+    "user": {
+        "uid": "a53dc479e14f4152b8cc97cf34346764",
+        "username": "hdbanks1",
+        "displayName": "hdbanks1",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hdbanks1",
+        "avatar": {
+            "uid": "316d4215c6fb4a19bb4d96f216ef17d3",
+            "uri": "https://api.sketchfab.com/v3/avatars/316d4215c6fb4a19bb4d96f216ef17d3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1109,
+                    "url": "https://media.sketchfab.com/avatars/316d4215c6fb4a19bb4d96f216ef17d3/d725664b59e3478184c17b6a8025162f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1873,
+                    "url": "https://media.sketchfab.com/avatars/316d4215c6fb4a19bb4d96f216ef17d3/7dd7cdfcff124431a8ee0f2e77ea70de.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5159,
+                    "url": "https://media.sketchfab.com/avatars/316d4215c6fb4a19bb4d96f216ef17d3/a527883b47f6413184c8d9b9613d5673.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5997,
+                    "url": "https://media.sketchfab.com/avatars/316d4215c6fb4a19bb4d96f216ef17d3/93bbccbdd6fd429a98018594ab77ecb6.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a53dc479e14f4152b8cc97cf34346764"
+    },
+    "vertexCount": 391992,
+    "viewCount": 21,
+    "viewerUrl": "https://sketchfab.com/3d-models/pink-and-blue-horrors-of-tzeentch-447ab2b1346a484dbac235b2d99e6942",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "First sculpt in ages as a challenge.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/447ab2b1346a484dbac235b2d99e6942/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-10-06T02:53:48.247615",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 4
+}

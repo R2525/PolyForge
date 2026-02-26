@@ -1,0 +1,212 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-08-13T03:04:11.549189",
+    "embedUrl": "https://sketchfab.com/models/28ae205f1cad4f7ca386f5d557059a1a/embed",
+    "faceCount": 486,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Bread | Kiki's Delivery Service Low-Poly",
+    "publishedAt": "2025-08-13T03:16:33.218737",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "bread",
+            "slug": "bread",
+            "uri": "https://api.sketchfab.com/v3/tags/bread"
+        },
+        {
+            "name": "lowpolygon",
+            "slug": "lowpolygon",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolygon"
+        },
+        {
+            "name": "lowpolyart",
+            "slug": "lowpolyart",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolyart"
+        },
+        {
+            "name": "lowresolution",
+            "slug": "lowresolution",
+            "uri": "https://api.sketchfab.com/v3/tags/lowresolution"
+        },
+        {
+            "name": "low-poly-model",
+            "slug": "low-poly-model",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly-model"
+        },
+        {
+            "name": "lowpolymodel",
+            "slug": "lowpolymodel",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolymodel"
+        },
+        {
+            "name": "lowpolygon-model",
+            "slug": "lowpolygon-model",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolygon-model"
+        },
+        {
+            "name": "kikisdeliveryservice",
+            "slug": "kikisdeliveryservice",
+            "uri": "https://api.sketchfab.com/v3/tags/kikisdeliveryservice"
+        },
+        {
+            "name": "low-resolution",
+            "slug": "low-resolution",
+            "uri": "https://api.sketchfab.com/v3/tags/low-resolution"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "low-res-low-polygon-count",
+            "slug": "low-res-low-polygon-count",
+            "uri": "https://api.sketchfab.com/v3/tags/low-res-low-polygon-count"
+        },
+        {
+            "name": "kiki-s-delivery-service",
+            "slug": "kiki-s-delivery-service",
+            "uri": "https://api.sketchfab.com/v3/tags/kiki-s-delivery-service"
+        },
+        {
+            "name": "bread-loaf",
+            "slug": "bread-loaf",
+            "uri": "https://api.sketchfab.com/v3/tags/bread-loaf"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "be8fec8f60694eb0bfbca4f55939ec42",
+                "width": 1920,
+                "height": 1080,
+                "size": 57210,
+                "url": "https://media.sketchfab.com/models/28ae205f1cad4f7ca386f5d557059a1a/thumbnails/f1976ed6ffea4689aac4718c1a9d93be/1339adcc8dc249f9a8d60bec8c630f5e.jpeg"
+            },
+            {
+                "uid": "2e105dc6142847fba571c079d6dc77dd",
+                "width": 1024,
+                "height": 576,
+                "size": 18426,
+                "url": "https://media.sketchfab.com/models/28ae205f1cad4f7ca386f5d557059a1a/thumbnails/f1976ed6ffea4689aac4718c1a9d93be/f4a90a24f03541d8be4cca1c38c9a62d.jpeg"
+            },
+            {
+                "uid": "a4df19d5d3b0467db102b698a2673c0f",
+                "width": 720,
+                "height": 405,
+                "size": 10647,
+                "url": "https://media.sketchfab.com/models/28ae205f1cad4f7ca386f5d557059a1a/thumbnails/f1976ed6ffea4689aac4718c1a9d93be/01536f0060c142668d7b6e212f6981ea.jpeg"
+            },
+            {
+                "uid": "f766e163c8d8468b8b79d2e96089a254",
+                "width": 256,
+                "height": 144,
+                "size": 2411,
+                "url": "https://media.sketchfab.com/models/28ae205f1cad4f7ca386f5d557059a1a/thumbnails/f1976ed6ffea4689aac4718c1a9d93be/0495f09483eb48d681f682d0e7e55c36.jpeg"
+            },
+            {
+                "uid": "6a7123694b384fc99a460d22745b6a13",
+                "width": 64,
+                "height": 36,
+                "size": 859,
+                "url": "https://media.sketchfab.com/models/28ae205f1cad4f7ca386f5d557059a1a/thumbnails/f1976ed6ffea4689aac4718c1a9d93be/fc21e212818d4be79287ae1b0a17ce7c.jpeg"
+            }
+        ]
+    },
+    "uid": "28ae205f1cad4f7ca386f5d557059a1a",
+    "uri": "https://api.sketchfab.com/v3/models/28ae205f1cad4f7ca386f5d557059a1a",
+    "user": {
+        "uid": "89778d3e93de418da2f4599bc675583c",
+        "username": "bekamillar",
+        "displayName": "bekamillar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/bekamillar",
+        "avatar": {
+            "uid": "ff194fba1e624192a8f7642c5d7a063a",
+            "uri": "https://api.sketchfab.com/v3/avatars/ff194fba1e624192a8f7642c5d7a063a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1036,
+                    "url": "https://media.sketchfab.com/avatars/ff194fba1e624192a8f7642c5d7a063a/4f1dfe5f21c1463e93bb49c65285e7e5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1395,
+                    "url": "https://media.sketchfab.com/avatars/ff194fba1e624192a8f7642c5d7a063a/e1613985c34f4907b1bd47066534ba9b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2773,
+                    "url": "https://media.sketchfab.com/avatars/ff194fba1e624192a8f7642c5d7a063a/93b6763284cc442686ea8fb8729c2d0c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3179,
+                    "url": "https://media.sketchfab.com/avatars/ff194fba1e624192a8f7642c5d7a063a/b9cba02b65014adaa79edcbcd4c4ea19.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/89778d3e93de418da2f4599bc675583c"
+    },
+    "vertexCount": 249,
+    "viewCount": 61,
+    "viewerUrl": "https://sketchfab.com/3d-models/bread-kikis-delivery-service-low-poly-28ae205f1cad4f7ca386f5d557059a1a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Low-polygon (<500 poly) sliced and buttered loaf of bread, inspired by Studio Ghibli's Kiki's Delivery Service, with a 128x128px handpainted texture.",
+    "price": null,
+    "downloadCount": 28,
+    "editorUrl": "https://sketchfab.com/models/28ae205f1cad4f7ca386f5d557059a1a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-08-18T01:42:35.815868",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

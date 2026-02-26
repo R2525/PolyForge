@@ -1,0 +1,169 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T09:19:55.190955",
+    "embedUrl": "https://sketchfab.com/models/229fee4823d74dcca68fbb2657398c81/embed",
+    "faceCount": 70776,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Fantasy Ring",
+    "publishedAt": "2026-02-24T09:28:48.420806",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "dnd",
+            "slug": "dnd",
+            "uri": "https://api.sketchfab.com/v3/tags/dnd"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "ring",
+            "slug": "ring",
+            "uri": "https://api.sketchfab.com/v3/tags/ring"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2be29727210d4427b64a975f580a4541",
+                "width": 1920,
+                "height": 1080,
+                "size": 300053,
+                "url": "https://media.sketchfab.com/models/229fee4823d74dcca68fbb2657398c81/thumbnails/801c2625295a45c2bd7023f9c080b35d/d68520d22d1c45cc97eac747661f4f8d.jpeg"
+            },
+            {
+                "uid": "68514050dae7456d9a99286ce5f99cb3",
+                "width": 1024,
+                "height": 576,
+                "size": 78845,
+                "url": "https://media.sketchfab.com/models/229fee4823d74dcca68fbb2657398c81/thumbnails/801c2625295a45c2bd7023f9c080b35d/d4fd20df7c5240da8520fc41a7631b4b.jpeg"
+            },
+            {
+                "uid": "89cf2dc780624481bd2007c7aaad077e",
+                "width": 720,
+                "height": 405,
+                "size": 45185,
+                "url": "https://media.sketchfab.com/models/229fee4823d74dcca68fbb2657398c81/thumbnails/801c2625295a45c2bd7023f9c080b35d/e1c32f016e3949759cb4d41b17d6cccf.jpeg"
+            },
+            {
+                "uid": "2945f34d229f4485a47b3be44de513af",
+                "width": 256,
+                "height": 144,
+                "size": 9693,
+                "url": "https://media.sketchfab.com/models/229fee4823d74dcca68fbb2657398c81/thumbnails/801c2625295a45c2bd7023f9c080b35d/7984f279a2de4502820e82abd9f552c8.jpeg"
+            },
+            {
+                "uid": "0e346ccd93414a81924f219a2b74108e",
+                "width": 64,
+                "height": 36,
+                "size": 1636,
+                "url": "https://media.sketchfab.com/models/229fee4823d74dcca68fbb2657398c81/thumbnails/801c2625295a45c2bd7023f9c080b35d/d92fd2a904b3454c87c489b1befc3d58.jpeg"
+            }
+        ]
+    },
+    "uid": "229fee4823d74dcca68fbb2657398c81",
+    "uri": "https://api.sketchfab.com/v3/models/229fee4823d74dcca68fbb2657398c81",
+    "user": {
+        "uid": "4e8e47592d6549beab431c5e7d71e3db",
+        "username": "Aerun_",
+        "displayName": "Aerun",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Aerun_",
+        "avatar": {
+            "uid": "f15b2750f0d544bfb9ad982039a3dd27",
+            "uri": "https://api.sketchfab.com/v3/avatars/f15b2750f0d544bfb9ad982039a3dd27",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2367,
+                    "url": "https://media.sketchfab.com/avatars/f15b2750f0d544bfb9ad982039a3dd27/3194faa3d6c044fbaf1ada0a551cbf7c.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4565,
+                    "url": "https://media.sketchfab.com/avatars/f15b2750f0d544bfb9ad982039a3dd27/31a5a572bed346bab5db3fb11dc409c5.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12822,
+                    "url": "https://media.sketchfab.com/avatars/f15b2750f0d544bfb9ad982039a3dd27/cf9a2a26c8434a3f9e22164d774c8694.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 15098,
+                    "url": "https://media.sketchfab.com/avatars/f15b2750f0d544bfb9ad982039a3dd27/44abddcf201b414ba89526ae52ad5317.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4e8e47592d6549beab431c5e7d71e3db"
+    },
+    "vertexCount": 40108,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-ring-229fee4823d74dcca68fbb2657398c81",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Buy ready models here:\n# https://h7.cl/1gLhx\n\n\nOrder a custom model:\n# https://www.fiverr.com/aerun3d",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/229fee4823d74dcca68fbb2657398c81/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T09:28:48.552452",
+    "pbrType": "metalness",
+    "textureCount": 32,
+    "materialCount": 9
+}

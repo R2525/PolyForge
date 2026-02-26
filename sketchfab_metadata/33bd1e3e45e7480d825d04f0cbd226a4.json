@@ -1,0 +1,224 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-13T04:57:02.932636",
+    "embedUrl": "https://sketchfab.com/models/33bd1e3e45e7480d825d04f0cbd226a4/embed",
+    "faceCount": 304868,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Medieval Interior Room Diorama",
+    "publishedAt": "2026-01-13T05:27:49.338218",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "scene",
+            "slug": "scene",
+            "uri": "https://api.sketchfab.com/v3/tags/scene"
+        },
+        {
+            "name": "room",
+            "slug": "room",
+            "uri": "https://api.sketchfab.com/v3/tags/room"
+        },
+        {
+            "name": "fireplace",
+            "slug": "fireplace",
+            "uri": "https://api.sketchfab.com/v3/tags/fireplace"
+        },
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "books",
+            "slug": "books",
+            "uri": "https://api.sketchfab.com/v3/tags/books"
+        },
+        {
+            "name": "walls",
+            "slug": "walls",
+            "uri": "https://api.sketchfab.com/v3/tags/walls"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "diorama",
+            "slug": "diorama",
+            "uri": "https://api.sketchfab.com/v3/tags/diorama"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "interior",
+            "slug": "interior",
+            "uri": "https://api.sketchfab.com/v3/tags/interior"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6bfa614304414618a8dcac8a1d9ca7af",
+                "width": 1920,
+                "height": 1080,
+                "size": 167226,
+                "url": "https://media.sketchfab.com/models/33bd1e3e45e7480d825d04f0cbd226a4/thumbnails/8e3be361b7424f9aaa1cf1926496e99d/705dd8f01d0348fd9b164c8b8c90c14d.jpeg"
+            },
+            {
+                "uid": "c5f1ccdf1a6d4dd79f3525d8c5cd5b45",
+                "width": 1024,
+                "height": 576,
+                "size": 52364,
+                "url": "https://media.sketchfab.com/models/33bd1e3e45e7480d825d04f0cbd226a4/thumbnails/8e3be361b7424f9aaa1cf1926496e99d/4be3ed11c0464517874fa15cf98ac4a7.jpeg"
+            },
+            {
+                "uid": "acb4d9baa8824afc96064f4e3a1da4b6",
+                "width": 720,
+                "height": 405,
+                "size": 29568,
+                "url": "https://media.sketchfab.com/models/33bd1e3e45e7480d825d04f0cbd226a4/thumbnails/8e3be361b7424f9aaa1cf1926496e99d/a52e82f8922f4b73bdad09eb5d7c9892.jpeg"
+            },
+            {
+                "uid": "0c5d5bd840d44ae0a8ea43a766639090",
+                "width": 256,
+                "height": 144,
+                "size": 5375,
+                "url": "https://media.sketchfab.com/models/33bd1e3e45e7480d825d04f0cbd226a4/thumbnails/8e3be361b7424f9aaa1cf1926496e99d/d8dee36e24394f58a7c1556395fe79bf.jpeg"
+            },
+            {
+                "uid": "ffc541c3656f468099d2fa0a760b79ae",
+                "width": 64,
+                "height": 36,
+                "size": 1244,
+                "url": "https://media.sketchfab.com/models/33bd1e3e45e7480d825d04f0cbd226a4/thumbnails/8e3be361b7424f9aaa1cf1926496e99d/f81d9697d4284b668129917d0150481e.jpeg"
+            }
+        ]
+    },
+    "uid": "33bd1e3e45e7480d825d04f0cbd226a4",
+    "uri": "https://api.sketchfab.com/v3/models/33bd1e3e45e7480d825d04f0cbd226a4",
+    "user": {
+        "uid": "42ef320ad3604fb599029e025cc9685d",
+        "username": "rodrigosd2004.rh",
+        "displayName": "RodrigoSD",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rodrigosd2004.rh",
+        "avatar": {
+            "uid": "34d2e3408edc4755b088888e055a6302",
+            "uri": "https://api.sketchfab.com/v3/avatars/34d2e3408edc4755b088888e055a6302",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 953,
+                    "url": "https://media.sketchfab.com/avatars/34d2e3408edc4755b088888e055a6302/0480528d250148ff9e5dc935956caa98.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1867,
+                    "url": "https://media.sketchfab.com/avatars/34d2e3408edc4755b088888e055a6302/c7488d6dd74c46a3baa5b5e776094cf0.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5657,
+                    "url": "https://media.sketchfab.com/avatars/34d2e3408edc4755b088888e055a6302/7effeb484f114314bdcd6ffe71f0372f.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6777,
+                    "url": "https://media.sketchfab.com/avatars/34d2e3408edc4755b088888e055a6302/f4ce0f4c803a4a2c949c004c6097b14c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/42ef320ad3604fb599029e025cc9685d"
+    },
+    "vertexCount": 153093,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-interior-room-diorama-33bd1e3e45e7480d825d04f0cbd226a4",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "3D interior diorama of a medieval fantasy room featuring stone walls, a fireplace, wooden furniture, bookshelves, candles, and various decorative props.The scene is designed as a compact interior environment focused on atmosphere, composition, and storytelling. Warm lighting and detailed props help convey a lived-in medieval space, suitable for fantasy-themed projects.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/33bd1e3e45e7480d825d04f0cbd226a4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-13T05:27:49.505684",
+    "pbrType": "metalness",
+    "textureCount": 14,
+    "materialCount": 28
+}

@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-07T13:27:45.916833",
+    "embedUrl": "https://sketchfab.com/models/2eaefc8e91404da8b61cca41588b7a14/embed",
+    "faceCount": 5091148,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 5,
+    "name": "Rekonstrukce hradu Holštejn, castle",
+    "publishedAt": "2026-01-08T08:21:27.803227",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "Blansko",
+            "slug": "blansko",
+            "uri": "https://api.sketchfab.com/v3/tags/blansko"
+        },
+        {
+            "name": "moravian-karst",
+            "slug": "moravian-karst",
+            "uri": "https://api.sketchfab.com/v3/tags/moravian-karst"
+        },
+        {
+            "name": "holstejn",
+            "slug": "holstejn",
+            "uri": "https://api.sketchfab.com/v3/tags/holstejn"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5962e408ba854243a018dd89c6ee4b0c",
+                "width": 1920,
+                "height": 1080,
+                "size": 389831,
+                "url": "https://media.sketchfab.com/models/2eaefc8e91404da8b61cca41588b7a14/thumbnails/6137b66f839540e48de925ae7a2ad74a/a4c322905a124def8f93757e85f1874a.jpeg"
+            },
+            {
+                "uid": "c846ca36bbfb48e2b5fe7317a5cd2623",
+                "width": 1024,
+                "height": 576,
+                "size": 58802,
+                "url": "https://media.sketchfab.com/models/2eaefc8e91404da8b61cca41588b7a14/thumbnails/6137b66f839540e48de925ae7a2ad74a/aa8bcbdec6b94b09866afad2ca2d6d3d.jpeg"
+            },
+            {
+                "uid": "ba25dd42372b48cda56f01fbe28918ea",
+                "width": 720,
+                "height": 405,
+                "size": 33437,
+                "url": "https://media.sketchfab.com/models/2eaefc8e91404da8b61cca41588b7a14/thumbnails/6137b66f839540e48de925ae7a2ad74a/306078e05e1a49f38cad4b7cc9329c31.jpeg"
+            },
+            {
+                "uid": "35ca053352e54b8ab36b3fd57f1e8ea3",
+                "width": 256,
+                "height": 144,
+                "size": 6822,
+                "url": "https://media.sketchfab.com/models/2eaefc8e91404da8b61cca41588b7a14/thumbnails/6137b66f839540e48de925ae7a2ad74a/fdfed50db1004d2486a95ff7b9ffc753.jpeg"
+            },
+            {
+                "uid": "be86239bebe34242a9e4b5361644b3f5",
+                "width": 64,
+                "height": 36,
+                "size": 1326,
+                "url": "https://media.sketchfab.com/models/2eaefc8e91404da8b61cca41588b7a14/thumbnails/6137b66f839540e48de925ae7a2ad74a/57f115a37cda4d389530162a4fd89156.jpeg"
+            }
+        ]
+    },
+    "uid": "2eaefc8e91404da8b61cca41588b7a14",
+    "uri": "https://api.sketchfab.com/v3/models/2eaefc8e91404da8b61cca41588b7a14",
+    "user": {
+        "uid": "ac447fa53ce24bb58df8137750ac579d",
+        "username": "kuratorMzB",
+        "displayName": "Muzeum Blanenska",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kuratorMzB",
+        "avatar": {
+            "uid": "8f261480f94e4820933c4da1659ca447",
+            "uri": "https://api.sketchfab.com/v3/avatars/8f261480f94e4820933c4da1659ca447",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1142,
+                    "url": "https://media.sketchfab.com/avatars/8f261480f94e4820933c4da1659ca447/f685fce683d14fa6914c61bedfcd03fa.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1674,
+                    "url": "https://media.sketchfab.com/avatars/8f261480f94e4820933c4da1659ca447/009d60681a8c49708daa4a8fa4c0ba59.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4002,
+                    "url": "https://media.sketchfab.com/avatars/8f261480f94e4820933c4da1659ca447/47d8a045350c441f8779f14d1be52579.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4731,
+                    "url": "https://media.sketchfab.com/avatars/8f261480f94e4820933c4da1659ca447/faf81d9bd05242e98f39fd80616382f7.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ac447fa53ce24bb58df8137750ac579d"
+    },
+    "vertexCount": 2618477,
+    "viewCount": 410,
+    "viewerUrl": "https://sketchfab.com/3d-models/rekonstrukce-hradu-holstejn-castle-2eaefc8e91404da8b61cca41588b7a14",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Castle Holštejn in Moravian karst",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2eaefc8e91404da8b61cca41588b7a14/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-05T09:17:47.629144",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 30
+}

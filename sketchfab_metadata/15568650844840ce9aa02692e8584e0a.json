@@ -1,0 +1,274 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-03T12:30:14.574469",
+    "embedUrl": "https://sketchfab.com/models/15568650844840ce9aa02692e8584e0a/embed",
+    "faceCount": 79884,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Jade Throne",
+    "publishedAt": "2025-12-03T12:54:05.781642",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "beast",
+            "slug": "beast",
+            "uri": "https://api.sketchfab.com/v3/tags/beast"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "throne",
+            "slug": "throne",
+            "uri": "https://api.sketchfab.com/v3/tags/throne"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "besta",
+            "slug": "besta",
+            "uri": "https://api.sketchfab.com/v3/tags/besta"
+        },
+        {
+            "name": "comicbook",
+            "slug": "comicbook",
+            "uri": "https://api.sketchfab.com/v3/tags/comicbook"
+        },
+        {
+            "name": "fantasia",
+            "slug": "fantasia",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasia"
+        },
+        {
+            "name": "trono",
+            "slug": "trono",
+            "uri": "https://api.sketchfab.com/v3/tags/trono"
+        },
+        {
+            "name": "3dsculpt",
+            "slug": "3dsculpt",
+            "uri": "https://api.sketchfab.com/v3/tags/3dsculpt"
+        },
+        {
+            "name": "Escultura3d",
+            "slug": "escultura3d",
+            "uri": "https://api.sketchfab.com/v3/tags/escultura3d"
+        },
+        {
+            "name": "swordandsorcery",
+            "slug": "swordandsorcery",
+            "uri": "https://api.sketchfab.com/v3/tags/swordandsorcery"
+        },
+        {
+            "name": "props-assets",
+            "slug": "props-assets",
+            "uri": "https://api.sketchfab.com/v3/tags/props-assets"
+        },
+        {
+            "name": "quadrinhos",
+            "slug": "quadrinhos",
+            "uri": "https://api.sketchfab.com/v3/tags/quadrinhos"
+        },
+        {
+            "name": "arte3d",
+            "slug": "arte3d",
+            "uri": "https://api.sketchfab.com/v3/tags/arte3d"
+        },
+        {
+            "name": "3dartwork",
+            "slug": "3dartwork",
+            "uri": "https://api.sketchfab.com/v3/tags/3dartwork"
+        },
+        {
+            "name": "pbr-texturing",
+            "slug": "pbr-texturing",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-texturing"
+        },
+        {
+            "name": "jadestone",
+            "slug": "jadestone",
+            "uri": "https://api.sketchfab.com/v3/tags/jadestone"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        },
+        {
+            "name": "throne-king",
+            "slug": "throne-king",
+            "uri": "https://api.sketchfab.com/v3/tags/throne-king"
+        },
+        {
+            "name": "jade-ornament",
+            "slug": "jade-ornament",
+            "uri": "https://api.sketchfab.com/v3/tags/jade-ornament"
+        },
+        {
+            "name": "espadaefeiticaria",
+            "slug": "espadaefeiticaria",
+            "uri": "https://api.sketchfab.com/v3/tags/espadaefeiticaria"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b35add20fc124d6dbea9286308a8ce3b",
+                "width": 1920,
+                "height": 1080,
+                "size": 115630,
+                "url": "https://media.sketchfab.com/models/15568650844840ce9aa02692e8584e0a/thumbnails/f6c28a8abec949cd9e2f33a723574b4d/dca88855714348a9ad76b2ec7db23f05.jpeg"
+            },
+            {
+                "uid": "3a37949347c74ee3909a0eadd5d1b257",
+                "width": 1024,
+                "height": 576,
+                "size": 35652,
+                "url": "https://media.sketchfab.com/models/15568650844840ce9aa02692e8584e0a/thumbnails/f6c28a8abec949cd9e2f33a723574b4d/72a0586ebd85421a8c1bae4125c65a7f.jpeg"
+            },
+            {
+                "uid": "ecddafdab47e4929ac96b6b46a67251f",
+                "width": 720,
+                "height": 405,
+                "size": 19922,
+                "url": "https://media.sketchfab.com/models/15568650844840ce9aa02692e8584e0a/thumbnails/f6c28a8abec949cd9e2f33a723574b4d/3c4c33d38244462aa4060100f25cb4d9.jpeg"
+            },
+            {
+                "uid": "cbd7149263aa4df1b63e1e730c7fa37d",
+                "width": 256,
+                "height": 144,
+                "size": 4126,
+                "url": "https://media.sketchfab.com/models/15568650844840ce9aa02692e8584e0a/thumbnails/f6c28a8abec949cd9e2f33a723574b4d/f9d4a0c73e064c95a0877a73da7e2cd3.jpeg"
+            },
+            {
+                "uid": "b254b92d97f14adf921bc169e0576ed3",
+                "width": 64,
+                "height": 36,
+                "size": 1086,
+                "url": "https://media.sketchfab.com/models/15568650844840ce9aa02692e8584e0a/thumbnails/f6c28a8abec949cd9e2f33a723574b4d/64473279700e49cdbf8ebbca274649c2.jpeg"
+            }
+        ]
+    },
+    "uid": "15568650844840ce9aa02692e8584e0a",
+    "uri": "https://api.sketchfab.com/v3/models/15568650844840ce9aa02692e8584e0a",
+    "user": {
+        "uid": "8d1eae1b4dd84052945c9871a8f68b61",
+        "username": "Auriston.Pacheco",
+        "displayName": "Auriston Pacheco",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Auriston.Pacheco",
+        "avatar": {
+            "uid": "0392375e13774134b6f77de4f5093ff7",
+            "uri": "https://api.sketchfab.com/v3/avatars/0392375e13774134b6f77de4f5093ff7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1197,
+                    "url": "https://media.sketchfab.com/avatars/0392375e13774134b6f77de4f5093ff7/5b2b22fd5a494a5aa245fef5779af484.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1740,
+                    "url": "https://media.sketchfab.com/avatars/0392375e13774134b6f77de4f5093ff7/4ce4184c10aa4a448277db504b10e42b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3991,
+                    "url": "https://media.sketchfab.com/avatars/0392375e13774134b6f77de4f5093ff7/a4d508e9aa3b42dab08e535c9e94f3e7.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4654,
+                    "url": "https://media.sketchfab.com/avatars/0392375e13774134b6f77de4f5093ff7/22e610907af142809be31e256cada6e7.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8d1eae1b4dd84052945c9871a8f68b61"
+    },
+    "vertexCount": 39948,
+    "viewCount": 45,
+    "viewerUrl": "https://sketchfab.com/3d-models/jade-throne-15568650844840ce9aa02692e8584e0a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is the Jade Throne, which is part of one of the settings in the second edition of Fantastic Dimension, a sword and sorcery comic book. Initially, I hadn't planned to sculpt the beast's head onto the throne. However, I liked a suggested reference so much that I decided to sculpt it. The throne was sculpted in ZBrush, textured in Substance Painter, and initially blocked in Blender.\n\n----------------------\n\nEste é o Trono de Jade que integra um dos cenários da segunda edição de Dimensão Fantástica, um quadrinho do gênero espada e feitiçaria. No começo, eu não havia planejado escupir a cabeça da besta no trono. Entretanto, gostei tanto de uma sugestão de referência, que resolvi esculpi-la. A escultura do trono foi feita no Zbrush, texturização no Substance Painter e blocagem inicial no Blender.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/15568650844840ce9aa02692e8584e0a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-03T12:59:59.319579",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

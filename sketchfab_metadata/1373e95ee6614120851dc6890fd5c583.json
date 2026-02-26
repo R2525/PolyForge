@@ -1,0 +1,170 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-31T09:01:31.454057",
+    "embedUrl": "https://sketchfab.com/models/1373e95ee6614120851dc6890fd5c583/embed",
+    "faceCount": 4761,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Saucepan",
+    "publishedAt": "2026-01-31T09:27:19.222784",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pot",
+            "slug": "pot",
+            "uri": "https://api.sketchfab.com/v3/tags/pot"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "kitchen",
+            "slug": "kitchen",
+            "uri": "https://api.sketchfab.com/v3/tags/kitchen"
+        },
+        {
+            "name": "Saucepan",
+            "slug": "saucepan",
+            "uri": "https://api.sketchfab.com/v3/tags/saucepan"
+        },
+        {
+            "name": "pbr-texturing",
+            "slug": "pbr-texturing",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-texturing"
+        },
+        {
+            "name": "pbr-game-ready",
+            "slug": "pbr-game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-game-ready"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6e3be92f2549404e8ee10af03f7ad59b",
+                "width": 1920,
+                "height": 1080,
+                "size": 134535,
+                "url": "https://media.sketchfab.com/models/1373e95ee6614120851dc6890fd5c583/thumbnails/6014c0fb4f3f478581d1006bbcd0b929/e80bce4ffc5241faad71e7fe1a8b9564.jpeg"
+            },
+            {
+                "uid": "c07649a934394ff3be3b8b5318e3ed9f",
+                "width": 1024,
+                "height": 576,
+                "size": 40762,
+                "url": "https://media.sketchfab.com/models/1373e95ee6614120851dc6890fd5c583/thumbnails/6014c0fb4f3f478581d1006bbcd0b929/6764b72de93b4216a901719373c260b8.jpeg"
+            },
+            {
+                "uid": "125971d52cc74e089beae60d2edf3213",
+                "width": 720,
+                "height": 405,
+                "size": 22802,
+                "url": "https://media.sketchfab.com/models/1373e95ee6614120851dc6890fd5c583/thumbnails/6014c0fb4f3f478581d1006bbcd0b929/cf54a4fa86a0419394f253a45e3b7560.jpeg"
+            },
+            {
+                "uid": "87f4e51bfa4e4215bc915882924ef9fd",
+                "width": 256,
+                "height": 144,
+                "size": 4689,
+                "url": "https://media.sketchfab.com/models/1373e95ee6614120851dc6890fd5c583/thumbnails/6014c0fb4f3f478581d1006bbcd0b929/652b09a8042945b1a7771f45b25dc9f7.jpeg"
+            },
+            {
+                "uid": "a3799cd860fd43d1b77e9e030609fae5",
+                "width": 64,
+                "height": 36,
+                "size": 1271,
+                "url": "https://media.sketchfab.com/models/1373e95ee6614120851dc6890fd5c583/thumbnails/6014c0fb4f3f478581d1006bbcd0b929/1c2746854e6b4b53b21fda17382e4f11.jpeg"
+            }
+        ]
+    },
+    "uid": "1373e95ee6614120851dc6890fd5c583",
+    "uri": "https://api.sketchfab.com/v3/models/1373e95ee6614120851dc6890fd5c583",
+    "user": {
+        "uid": "4a91e479b9be41f38af6ca4f99c28c6a",
+        "username": "DevaIgod",
+        "displayName": "Devalgod",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DevaIgod",
+        "avatar": {
+            "uid": "aaa6ddcabcb24a119cd11d4ac3f36432",
+            "uri": "https://api.sketchfab.com/v3/avatars/aaa6ddcabcb24a119cd11d4ac3f36432",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2497,
+                    "url": "https://media.sketchfab.com/avatars/aaa6ddcabcb24a119cd11d4ac3f36432/046f0759fcf44268b5988414d9916c74.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5144,
+                    "url": "https://media.sketchfab.com/avatars/aaa6ddcabcb24a119cd11d4ac3f36432/5324d700d1c44ed99004b1571321dcf9.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 15633,
+                    "url": "https://media.sketchfab.com/avatars/aaa6ddcabcb24a119cd11d4ac3f36432/377cc5ff9722491c9849c1fccfb4eedf.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 18717,
+                    "url": "https://media.sketchfab.com/avatars/aaa6ddcabcb24a119cd11d4ac3f36432/f0f756eae0c54763a0861ad2287979ec.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4a91e479b9be41f38af6ca4f99c28c6a"
+    },
+    "vertexCount": 2510,
+    "viewCount": 18,
+    "viewerUrl": "https://sketchfab.com/3d-models/saucepan-1373e95ee6614120851dc6890fd5c583",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "I attempted to achieve photorealistic textures and used an old pot from the kitchen for this purpose.\n\nI believe the result is quite realistic.\n\nFull post on Artstation: https://www.artstation.com/artwork/Ezebrq\n\nTechnical parameters\n\n- 4761 triangles, 2510 vertices, 3481 vertices in RizomUV\n- one square 4096x4096 pixel texture\n- 3 TARGA files. Normal map + opacity, Diffuse map and ARM in the third .tga file.\n- PBR Metallic/Roughness workflow.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1373e95ee6614120851dc6890fd5c583/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-31T09:30:45.179745",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

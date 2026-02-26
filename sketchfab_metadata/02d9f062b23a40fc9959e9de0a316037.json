@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2026-02-09T05:44:47.524175",
+    "embedUrl": "https://sketchfab.com/models/02d9f062b23a40fc9959e9de0a316037/embed",
+    "faceCount": 187102,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 11,
+    "name": "Spider-Man (2002 Film - Sam Raimi)",
+    "publishedAt": "2026-02-09T08:34:23.566544",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "sony",
+            "slug": "sony",
+            "uri": "https://api.sketchfab.com/v3/tags/sony"
+        },
+        {
+            "name": "superhero",
+            "slug": "superhero",
+            "uri": "https://api.sketchfab.com/v3/tags/superhero"
+        },
+        {
+            "name": "spiderman",
+            "slug": "spiderman",
+            "uri": "https://api.sketchfab.com/v3/tags/spiderman"
+        },
+        {
+            "name": "movie",
+            "slug": "movie",
+            "uri": "https://api.sketchfab.com/v3/tags/movie"
+        },
+        {
+            "name": "samraimi",
+            "slug": "samraimi",
+            "uri": "https://api.sketchfab.com/v3/tags/samraimi"
+        },
+        {
+            "name": "tobeymaguire",
+            "slug": "tobeymaguire",
+            "uri": "https://api.sketchfab.com/v3/tags/tobeymaguire"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e066544335e44e01b1259f4761b88a31",
+                "width": 1920,
+                "height": 1080,
+                "size": 232959,
+                "url": "https://media.sketchfab.com/models/02d9f062b23a40fc9959e9de0a316037/thumbnails/66aa17a75a534e838205865ec7f0b818/0a4c2e2c10b343f68266711ddfde71e5.jpeg"
+            },
+            {
+                "uid": "27b2c1f23c0b498aa755d1fcdf217986",
+                "width": 1024,
+                "height": 576,
+                "size": 58190,
+                "url": "https://media.sketchfab.com/models/02d9f062b23a40fc9959e9de0a316037/thumbnails/66aa17a75a534e838205865ec7f0b818/f23f165e5f734dabb07a34d8a77a6a50.jpeg"
+            },
+            {
+                "uid": "862df653d5934e02a42b6c6fdb28b149",
+                "width": 720,
+                "height": 405,
+                "size": 32717,
+                "url": "https://media.sketchfab.com/models/02d9f062b23a40fc9959e9de0a316037/thumbnails/66aa17a75a534e838205865ec7f0b818/27dcdbdfd68649a9819bdf01e601c17e.jpeg"
+            },
+            {
+                "uid": "f1e03c8e2e9e4bf897de6dfd8654b541",
+                "width": 256,
+                "height": 144,
+                "size": 5708,
+                "url": "https://media.sketchfab.com/models/02d9f062b23a40fc9959e9de0a316037/thumbnails/66aa17a75a534e838205865ec7f0b818/7bc7161834184545b4c29ec366cce30b.jpeg"
+            },
+            {
+                "uid": "b74f2323547b4f599e202e2f2a09d7b8",
+                "width": 64,
+                "height": 36,
+                "size": 1174,
+                "url": "https://media.sketchfab.com/models/02d9f062b23a40fc9959e9de0a316037/thumbnails/66aa17a75a534e838205865ec7f0b818/b9fb7545020d404f97f99327bf330ecf.jpeg"
+            }
+        ]
+    },
+    "uid": "02d9f062b23a40fc9959e9de0a316037",
+    "uri": "https://api.sketchfab.com/v3/models/02d9f062b23a40fc9959e9de0a316037",
+    "user": {
+        "uid": "e5130c0f686649dca5d831348eddb67c",
+        "username": "mrpgremlin",
+        "displayName": "Mr. P",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mrpgremlin",
+        "avatar": {
+            "uid": "c12285fcdbe94632ba04cfa4b442466d",
+            "uri": "https://api.sketchfab.com/v3/avatars/c12285fcdbe94632ba04cfa4b442466d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2290,
+                    "url": "https://media.sketchfab.com/avatars/c12285fcdbe94632ba04cfa4b442466d/6514d77b155345d4bd200a52eeac982c.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4747,
+                    "url": "https://media.sketchfab.com/avatars/c12285fcdbe94632ba04cfa4b442466d/7f7b81ca739c40ceb362abaca5de7a85.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14816,
+                    "url": "https://media.sketchfab.com/avatars/c12285fcdbe94632ba04cfa4b442466d/aba4887c346048b3b3c1da82c8060b8c.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17777,
+                    "url": "https://media.sketchfab.com/avatars/c12285fcdbe94632ba04cfa4b442466d/74b4ad8dfe194ce0b8dc3e91a02461ee.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e5130c0f686649dca5d831348eddb67c"
+    },
+    "vertexCount": 91929,
+    "viewCount": 1302,
+    "viewerUrl": "https://sketchfab.com/3d-models/spider-man-2002-film-sam-raimi-02d9f062b23a40fc9959e9de0a316037",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is a 3D replica of the suit used in the film Spider-Man (2002). This one is a personal favorite and happy with how this one came out. Tried to make it as close to the original suit while taking some creative liberties. This has a Mixamo rig (with fixed up weights and additional twist bones) and unrigged fbx and 4k png textures.\n\nThe webs are not as crazy like the 2004-2007 model and are a major improvement, but still might not be as 1:1. Feel absolutely free to edit, modify or port to any program or game as you please.\n\nThis does not contain every proper textures (due to Sketchfab's size limits), I dropped this over on CGTrader with additonal 8k textures and two blender files (for 4.2 & 5.0): https://tinyurl.com/yc43y45v",
+    "price": null,
+    "downloadCount": 93,
+    "editorUrl": "https://sketchfab.com/models/02d9f062b23a40fc9959e9de0a316037/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-14T00:41:36.979098",
+    "pbrType": null,
+    "textureCount": 17,
+    "materialCount": 7
+}

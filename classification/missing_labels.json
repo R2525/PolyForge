@@ -1,0 +1,97 @@
+[
+    {
+        "label": "cyberpunk",
+        "source": "filename: cyberpunk_energy_drink.fbx",
+        "detected_at": "2026-02-23 18:30:54"
+    },
+    {
+        "label": "energy",
+        "source": "filename: cyberpunk_energy_drink.fbx",
+        "detected_at": "2026-02-23 18:30:54"
+    },
+    {
+        "label": "drink",
+        "source": "filename: cyberpunk_energy_drink.fbx",
+        "detected_at": "2026-02-23 18:30:54"
+    },
+    {
+        "label": "chocolate",
+        "source": "vlm_output",
+        "detected_at": "2026-02-23 18:31:06"
+    },
+    {
+        "label": "brown",
+        "source": "filename: bread_brown_cut.fbx",
+        "detected_at": "2026-02-23 18:32:21"
+    },
+    {
+        "label": "cut",
+        "source": "filename: bread_brown_cut.fbx",
+        "detected_at": "2026-02-23 18:32:21"
+    },
+    {
+        "label": "white",
+        "source": "filename: bread_white.fbx",
+        "detected_at": "2026-02-23 18:32:29"
+    },
+    {
+        "label": "grilled",
+        "source": "filename: grilled_chicken.fbx",
+        "detected_at": "2026-02-23 18:33:05"
+    },
+    {
+        "label": "chicken",
+        "source": "filename: grilled_chicken.fbx",
+        "detected_at": "2026-02-23 18:33:05"
+    },
+    {
+        "label": "hatchet",
+        "source": "filename: hatchet.fbx",
+        "detected_at": "2026-02-23 18:33:22"
+    },
+    {
+        "label": "lobster",
+        "source": "filename: lobster.fbx",
+        "detected_at": "2026-02-23 18:33:48"
+    },
+    {
+        "label": "slice",
+        "source": "filename: pie_slice.fbx",
+        "detected_at": "2026-02-23 18:34:13"
+    },
+    {
+        "label": "metal",
+        "source": "filename: plate_metal2.fbx",
+        "detected_at": "2026-02-23 18:34:22"
+    },
+    {
+        "label": "roll",
+        "source": "filename: roll.fbx",
+        "detected_at": "2026-02-23 18:34:30"
+    },
+    {
+        "label": "sausages",
+        "source": "filename: sausages1.fbx",
+        "detected_at": "2026-02-23 18:34:47"
+    },
+    {
+        "label": "straight",
+        "source": "filename: sausages_straight.fbx",
+        "detected_at": "2026-02-23 18:35:04"
+    },
+    {
+        "label": "tied",
+        "source": "filename: tied_ham.fbx",
+        "detected_at": "2026-02-23 18:35:13"
+    },
+    {
+        "label": "food",
+        "source": "keyword_search: food.tga",
+        "detected_at": "2026-02-23 18:48:50"
+    },
+    {
+        "label": "tga",
+        "source": "keyword_search: food.tga",
+        "detected_at": "2026-02-23 18:48:50"
+    }
+]

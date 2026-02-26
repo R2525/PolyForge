@@ -1,0 +1,137 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T13:01:54.714542",
+    "embedUrl": "https://sketchfab.com/models/0396ff6a6aae46b8952cf6de825f3868/embed",
+    "faceCount": 1069490,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Angry Birds Star Wars - Tie Fighter Pig",
+    "publishedAt": "2026-02-22T13:02:27.718400",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "14cd043b3a324251a8eb9ab577eb831d",
+                "width": 1920,
+                "height": 1080,
+                "size": 82699,
+                "url": "https://media.sketchfab.com/models/0396ff6a6aae46b8952cf6de825f3868/thumbnails/f84482777f4e4051b51bd508bf27286e/88f1fbeab2ec4abe90d499b456192b63.jpeg"
+            },
+            {
+                "uid": "107284d791474cfa9095ba3457d184e5",
+                "width": 1024,
+                "height": 576,
+                "size": 30025,
+                "url": "https://media.sketchfab.com/models/0396ff6a6aae46b8952cf6de825f3868/thumbnails/f84482777f4e4051b51bd508bf27286e/7dd8de5092d845089121cce9f5da279f.jpeg"
+            },
+            {
+                "uid": "159fac56e1774fd6ad52aab06f069f12",
+                "width": 720,
+                "height": 405,
+                "size": 18175,
+                "url": "https://media.sketchfab.com/models/0396ff6a6aae46b8952cf6de825f3868/thumbnails/f84482777f4e4051b51bd508bf27286e/109d5ab638424cef86824a7b35e7d829.jpeg"
+            },
+            {
+                "uid": "576e6160f4d1461797829ed97681770d",
+                "width": 256,
+                "height": 144,
+                "size": 4135,
+                "url": "https://media.sketchfab.com/models/0396ff6a6aae46b8952cf6de825f3868/thumbnails/f84482777f4e4051b51bd508bf27286e/6adedf385ab647889a439a05f9ef1bc6.jpeg"
+            },
+            {
+                "uid": "0636ccf133d2487fb5396a6d55702a28",
+                "width": 64,
+                "height": 36,
+                "size": 1086,
+                "url": "https://media.sketchfab.com/models/0396ff6a6aae46b8952cf6de825f3868/thumbnails/f84482777f4e4051b51bd508bf27286e/1ee8d5b13b19477f9f213ef2ec8c570e.jpeg"
+            }
+        ]
+    },
+    "uid": "0396ff6a6aae46b8952cf6de825f3868",
+    "uri": "https://api.sketchfab.com/v3/models/0396ff6a6aae46b8952cf6de825f3868",
+    "user": {
+        "uid": "c0cd59d5c25d4dcebaeb2a713a3df670",
+        "username": "NBProductions",
+        "displayName": "NB Productions",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/NBProductions",
+        "avatar": {
+            "uid": "22424816022f4c7685ed539cd8ec0b35",
+            "uri": "https://api.sketchfab.com/v3/avatars/22424816022f4c7685ed539cd8ec0b35",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2982,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/c07bc6d104ef4111b89b5e03a8d2cd26.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5509,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/44e36fc67c744e81857f2e1b905ff034.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12770,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/dbb806198da749a3aedb505c1a09a229.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 14755,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/2d69f7ae5e444524a9aecd2667805428.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c0cd59d5c25d4dcebaeb2a713a3df670"
+    },
+    "vertexCount": 534708,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/angry-birds-star-wars-tie-fighter-pig-0396ff6a6aae46b8952cf6de825f3868",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Here is 3D model design of the Tie Fighter Pig from Angry Birds Star Wars. This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/5qgwTF](https://www.meshy.ai/s/5qgwTF)",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/0396ff6a6aae46b8952cf6de825f3868/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T16:30:51.866423",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

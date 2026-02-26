@@ -1,0 +1,195 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-12T02:06:00.663581",
+    "embedUrl": "https://sketchfab.com/models/39dd1ba12cdb424981a9ad6124f69f0f/embed",
+    "faceCount": 10948,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Stylized Voxel Medieval Weapons Pack",
+    "publishedAt": "2026-02-12T02:07:18.921376",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "arrow",
+            "slug": "arrow",
+            "uri": "https://api.sketchfab.com/v3/tags/arrow"
+        },
+        {
+            "name": "katana",
+            "slug": "katana",
+            "uri": "https://api.sketchfab.com/v3/tags/katana"
+        },
+        {
+            "name": "bow",
+            "slug": "bow",
+            "uri": "https://api.sketchfab.com/v3/tags/bow"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "archery",
+            "slug": "archery",
+            "uri": "https://api.sketchfab.com/v3/tags/archery"
+        },
+        {
+            "name": "hammers",
+            "slug": "hammers",
+            "uri": "https://api.sketchfab.com/v3/tags/hammers"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5f385537893b4de2936253a2be40ed43",
+                "width": 1920,
+                "height": 1080,
+                "size": 277043,
+                "url": "https://media.sketchfab.com/models/39dd1ba12cdb424981a9ad6124f69f0f/thumbnails/2a04a22d09f14b20a740b8fc0d9f6c2a/7a9cf5a7e35e4a3a94db23e33897494e.jpeg"
+            },
+            {
+                "uid": "e760d7798eb647138b9cefcd7940ea9c",
+                "width": 1024,
+                "height": 576,
+                "size": 48552,
+                "url": "https://media.sketchfab.com/models/39dd1ba12cdb424981a9ad6124f69f0f/thumbnails/2a04a22d09f14b20a740b8fc0d9f6c2a/657b3c3ec3b240d1b50edf785dfc261a.jpeg"
+            },
+            {
+                "uid": "e61bdf2bd8974e049af5a8fff42d9d2c",
+                "width": 720,
+                "height": 405,
+                "size": 26884,
+                "url": "https://media.sketchfab.com/models/39dd1ba12cdb424981a9ad6124f69f0f/thumbnails/2a04a22d09f14b20a740b8fc0d9f6c2a/114dd57af8a145b194dc4982d106af96.jpeg"
+            },
+            {
+                "uid": "fcd7d7f42dae423c9b22ae96dd663612",
+                "width": 256,
+                "height": 144,
+                "size": 6234,
+                "url": "https://media.sketchfab.com/models/39dd1ba12cdb424981a9ad6124f69f0f/thumbnails/2a04a22d09f14b20a740b8fc0d9f6c2a/c61291b70e414c01992d98dc691bea8f.jpeg"
+            },
+            {
+                "uid": "f1cdc9865ebc44319115333533ac6086",
+                "width": 64,
+                "height": 36,
+                "size": 1352,
+                "url": "https://media.sketchfab.com/models/39dd1ba12cdb424981a9ad6124f69f0f/thumbnails/2a04a22d09f14b20a740b8fc0d9f6c2a/4d779568a5d6475fb7c26c25e7839cd6.jpeg"
+            }
+        ]
+    },
+    "uid": "39dd1ba12cdb424981a9ad6124f69f0f",
+    "uri": "https://api.sketchfab.com/v3/models/39dd1ba12cdb424981a9ad6124f69f0f",
+    "user": {
+        "uid": "9a54afed09794dcb9bd04969e1abae08",
+        "username": "guardabarrancoestudiomaterial",
+        "displayName": "guardabarranco",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/guardabarrancoestudiomaterial",
+        "avatar": {
+            "uid": "e190d89c663548c6a371fa2600b44146",
+            "uri": "https://api.sketchfab.com/v3/avatars/e190d89c663548c6a371fa2600b44146",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 980,
+                    "url": "https://media.sketchfab.com/avatars/e190d89c663548c6a371fa2600b44146/34fa816997c74ee6a9ef8921fb80a23b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1258,
+                    "url": "https://media.sketchfab.com/avatars/e190d89c663548c6a371fa2600b44146/11b0aa4bc662457e87112923d65f145d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2268,
+                    "url": "https://media.sketchfab.com/avatars/e190d89c663548c6a371fa2600b44146/ae32f84b1c35478cac64bb5578678f2a.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2606,
+                    "url": "https://media.sketchfab.com/avatars/e190d89c663548c6a371fa2600b44146/97ad66c86a384572946332b885910041.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9a54afed09794dcb9bd04969e1abae08"
+    },
+    "vertexCount": 9371,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-voxel-medieval-weapons-pack-39dd1ba12cdb424981a9ad6124f69f0f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "https://voxelplayercontroller.lat/",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/39dd1ba12cdb424981a9ad6124f69f0f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T23:32:04.209915",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 24
+}

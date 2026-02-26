@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T15:40:55.203801",
+    "embedUrl": "https://sketchfab.com/models/3611be19fa224efdbfaa55237af866f5/embed",
+    "faceCount": 346560,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Ringed Sabre Kenshi",
+    "publishedAt": "2026-02-18T16:11:58.263097",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "Kenshi",
+            "slug": "kenshi",
+            "uri": "https://api.sketchfab.com/v3/tags/kenshi"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "viodegames",
+            "slug": "viodegames",
+            "uri": "https://api.sketchfab.com/v3/tags/viodegames"
+        },
+        {
+            "name": "kenshi-game",
+            "slug": "kenshi-game",
+            "uri": "https://api.sketchfab.com/v3/tags/kenshi-game"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "324ef6f73f4e4a6bb31768f3a29f24ae",
+                "width": 1920,
+                "height": 1080,
+                "size": 328818,
+                "url": "https://media.sketchfab.com/models/3611be19fa224efdbfaa55237af866f5/thumbnails/eb5fd0168d63488085cd2eced575d6a3/cb50536f59024a748e9390249c5d48ec.jpeg"
+            },
+            {
+                "uid": "193734bb22734ceab1a8eecee6419c09",
+                "width": 1024,
+                "height": 576,
+                "size": 86685,
+                "url": "https://media.sketchfab.com/models/3611be19fa224efdbfaa55237af866f5/thumbnails/eb5fd0168d63488085cd2eced575d6a3/78f4596ae9c6418e95fdacc181dae5e7.jpeg"
+            },
+            {
+                "uid": "b9a8ce65a689446c80a33b1f7166bc9f",
+                "width": 720,
+                "height": 405,
+                "size": 39619,
+                "url": "https://media.sketchfab.com/models/3611be19fa224efdbfaa55237af866f5/thumbnails/eb5fd0168d63488085cd2eced575d6a3/4e33b220eb684c38a5486d826a51015e.jpeg"
+            },
+            {
+                "uid": "fa9d1a0017434fc98dc6965ab31aaa64",
+                "width": 256,
+                "height": 144,
+                "size": 4915,
+                "url": "https://media.sketchfab.com/models/3611be19fa224efdbfaa55237af866f5/thumbnails/eb5fd0168d63488085cd2eced575d6a3/fb5196805de64fb28b46505a4fe66152.jpeg"
+            },
+            {
+                "uid": "945dd24e7e474ff1a64e7422dcd9ed64",
+                "width": 64,
+                "height": 36,
+                "size": 995,
+                "url": "https://media.sketchfab.com/models/3611be19fa224efdbfaa55237af866f5/thumbnails/eb5fd0168d63488085cd2eced575d6a3/2f20c9d5be574bcf8662943d730f41ca.jpeg"
+            }
+        ]
+    },
+    "uid": "3611be19fa224efdbfaa55237af866f5",
+    "uri": "https://api.sketchfab.com/v3/models/3611be19fa224efdbfaa55237af866f5",
+    "user": {
+        "uid": "e043655c45264c70a22813c438383669",
+        "username": "cholter",
+        "displayName": "cholter",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/cholter",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e043655c45264c70a22813c438383669"
+    },
+    "vertexCount": 173288,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/ringed-sabre-kenshi-3611be19fa224efdbfaa55237af866f5",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Ringed Sabre – 3D Weapon Model (Post-Apocalyptic Sword)\n\nHigh-quality 3D model inspired by the Ringed Sabre, a fast and versatile weapon from the videogame Kenshi. This blade is characterized by its distinctive ring-shaped guard, lightweight design, and practical combat style, fitting perfectly within the harsh, post-apocalyptic world of Kenshi.\n\nThe Ringed Sabre combines functionality and rugged aesthetics, making it ideal for agile characters, scavengers, mercenaries, or nomads. Its clean yet worn design works great for wasteland, sci-fi, or dark fantasy environments.\n\nSoftware: Blender\nCategory: Weapons / Military / Video Games\nStyle: Post-apocalyptic, sci-fi, brutalist\n\nThis model is fan-made and created for artistic and educational purposes. All rights to the original game design belong to their respective owners.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3611be19fa224efdbfaa55237af866f5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T20:55:12.509423",
+    "pbrType": "metalness",
+    "textureCount": 51,
+    "materialCount": 13
+}

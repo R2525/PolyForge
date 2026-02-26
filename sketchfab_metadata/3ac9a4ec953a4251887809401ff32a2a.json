@@ -1,0 +1,199 @@
+{
+    "animationCount": 11,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-15T16:27:29.209758",
+    "embedUrl": "https://sketchfab.com/models/3ac9a4ec953a4251887809401ff32a2a/embed",
+    "faceCount": 708,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Serperior Lunar Shiny (Cobblemon)",
+    "publishedAt": "2026-02-15T16:49:01.826643",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "lunar",
+            "slug": "lunar",
+            "uri": "https://api.sketchfab.com/v3/tags/lunar"
+        },
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "skin",
+            "slug": "skin",
+            "uri": "https://api.sketchfab.com/v3/tags/skin"
+        },
+        {
+            "name": "serperior",
+            "slug": "serperior",
+            "uri": "https://api.sketchfab.com/v3/tags/serperior"
+        },
+        {
+            "name": "cobblemon",
+            "slug": "cobblemon",
+            "uri": "https://api.sketchfab.com/v3/tags/cobblemon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "55daaea067704bc281c6d0e3b5d5ffd8",
+                "width": 1920,
+                "height": 1080,
+                "size": 90329,
+                "url": "https://media.sketchfab.com/models/3ac9a4ec953a4251887809401ff32a2a/thumbnails/23177a2fcf31422ba99312e27289e41c/62699c9e086344b8bd5f2cecbe971fed.jpeg"
+            },
+            {
+                "uid": "1cad4211586946548fe5d1065c36bd43",
+                "width": 1024,
+                "height": 576,
+                "size": 33488,
+                "url": "https://media.sketchfab.com/models/3ac9a4ec953a4251887809401ff32a2a/thumbnails/23177a2fcf31422ba99312e27289e41c/70ea08e79bc944dbbee13f8e06a01542.jpeg"
+            },
+            {
+                "uid": "d2edfee31e784ea8be36c15767c6479e",
+                "width": 720,
+                "height": 405,
+                "size": 20677,
+                "url": "https://media.sketchfab.com/models/3ac9a4ec953a4251887809401ff32a2a/thumbnails/23177a2fcf31422ba99312e27289e41c/ef52741fb79649a8a289c9f8ce4d7d9e.jpeg"
+            },
+            {
+                "uid": "9fe33d188f834eb784d191617cd9432e",
+                "width": 256,
+                "height": 144,
+                "size": 4658,
+                "url": "https://media.sketchfab.com/models/3ac9a4ec953a4251887809401ff32a2a/thumbnails/23177a2fcf31422ba99312e27289e41c/548e413e1ce34ab7ba9d81d48a3fb2fc.jpeg"
+            },
+            {
+                "uid": "6e3fb4a9fcf7488e9a8f3e6fef20ecda",
+                "width": 64,
+                "height": 36,
+                "size": 1076,
+                "url": "https://media.sketchfab.com/models/3ac9a4ec953a4251887809401ff32a2a/thumbnails/23177a2fcf31422ba99312e27289e41c/99c5b36faabb4c12ac4ff80beb613649.jpeg"
+            }
+        ]
+    },
+    "uid": "3ac9a4ec953a4251887809401ff32a2a",
+    "uri": "https://api.sketchfab.com/v3/models/3ac9a4ec953a4251887809401ff32a2a",
+    "user": {
+        "uid": "a0a579495c1f45859d7339e3c671c9a8",
+        "username": "Destroyaa96",
+        "displayName": "PokeResort",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/Destroyaa96",
+        "avatar": {
+            "uid": "b919dcc4efb346f1b84cd4763723bb9a",
+            "uri": "https://api.sketchfab.com/v3/avatars/b919dcc4efb346f1b84cd4763723bb9a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2976,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/4b38a3e07ac445c880f72273c49e3062.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5811,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/6e4cd42e6d0e4e00822527d659880648.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16371,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/431c15146ecb4007a0281c972183185b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 19285,
+                    "url": "https://media.sketchfab.com/avatars/b919dcc4efb346f1b84cd4763723bb9a/12ccdb2974884fc1bcf77a147029a95e.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a0a579495c1f45859d7339e3c671c9a8"
+    },
+    "vertexCount": 472,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/serperior-lunar-shiny-cobblemon-3ac9a4ec953a4251887809401ff32a2a",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3ac9a4ec953a4251887809401ff32a2a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-15T17:31:03.712008",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

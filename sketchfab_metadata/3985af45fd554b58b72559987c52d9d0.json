@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T23:09:31.199929",
+    "embedUrl": "https://sketchfab.com/models/3985af45fd554b58b72559987c52d9d0/embed",
+    "faceCount": 952222,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Chalice of Abbott Suger 3d Model",
+    "publishedAt": "2026-02-11T23:16:50.981388",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e1cc0304c6544b7491628c0b95861a2b",
+                "width": 1920,
+                "height": 1080,
+                "size": 59825,
+                "url": "https://media.sketchfab.com/models/3985af45fd554b58b72559987c52d9d0/thumbnails/dac88475b220460eb80432d6f983a0eb/bc5c583563f14230bdb6d6ca70b9225c.jpeg"
+            },
+            {
+                "uid": "50b43e6457084bc397d0e2bacd7dbc19",
+                "width": 1024,
+                "height": 576,
+                "size": 20146,
+                "url": "https://media.sketchfab.com/models/3985af45fd554b58b72559987c52d9d0/thumbnails/dac88475b220460eb80432d6f983a0eb/4fa491b4bdc64177919971acee3e506e.jpeg"
+            },
+            {
+                "uid": "48ab3aaf3062475a900e8073d6b69027",
+                "width": 720,
+                "height": 405,
+                "size": 11638,
+                "url": "https://media.sketchfab.com/models/3985af45fd554b58b72559987c52d9d0/thumbnails/dac88475b220460eb80432d6f983a0eb/648df86144cb4e189641bd62600c9c94.jpeg"
+            },
+            {
+                "uid": "c99b72e9444d43e3ab3577c5a9bb4268",
+                "width": 256,
+                "height": 144,
+                "size": 2458,
+                "url": "https://media.sketchfab.com/models/3985af45fd554b58b72559987c52d9d0/thumbnails/dac88475b220460eb80432d6f983a0eb/2043f35f14904f8ebc8a7779d4d75d24.jpeg"
+            },
+            {
+                "uid": "f681d87607314281bd64733b1f4149d3",
+                "width": 64,
+                "height": 36,
+                "size": 814,
+                "url": "https://media.sketchfab.com/models/3985af45fd554b58b72559987c52d9d0/thumbnails/dac88475b220460eb80432d6f983a0eb/36ed3cf6fa6645dda495f3715fd152cf.jpeg"
+            }
+        ]
+    },
+    "uid": "3985af45fd554b58b72559987c52d9d0",
+    "uri": "https://api.sketchfab.com/v3/models/3985af45fd554b58b72559987c52d9d0",
+    "user": {
+        "uid": "0d8c0d2c160b4d94862021ea21d2c75e",
+        "username": "JM.CASPER",
+        "displayName": "JM.CASPER",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/JM.CASPER",
+        "avatar": {
+            "uid": "436b8fe416ce4cef90f62ff860fe3b48",
+            "uri": "https://api.sketchfab.com/v3/avatars/436b8fe416ce4cef90f62ff860fe3b48",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1208,
+                    "url": "https://media.sketchfab.com/avatars/436b8fe416ce4cef90f62ff860fe3b48/6ed5dd66fe824e61934c7cb6e2d72297.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1900,
+                    "url": "https://media.sketchfab.com/avatars/436b8fe416ce4cef90f62ff860fe3b48/e2a2bae08f464e45ac42c072d02ea49f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5212,
+                    "url": "https://media.sketchfab.com/avatars/436b8fe416ce4cef90f62ff860fe3b48/8ad277e702ee4eed96bb0e3724587e07.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6137,
+                    "url": "https://media.sketchfab.com/avatars/436b8fe416ce4cef90f62ff860fe3b48/b868ef8513754935856720f77985c3dd.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0d8c0d2c160b4d94862021ea21d2c75e"
+    },
+    "vertexCount": 476101,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/chalice-of-abbott-suger-3d-model-3985af45fd554b58b72559987c52d9d0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Chalice of Abbot Suger – 3D Printable STL (18.4 cm Reference Height)\n\nThis STL file is a historically proportioned 3D interpretation of the Chalice of Abbot Suger (Widener Collection, National Gallery of Art, Washington, DC). The original chalice dates to the 12th century and is associated with Abbot Suger, a key figure in the development of early Gothic art and theology of light at the Abbey of Saint-Denis.\n\nIf you resize for ceramic firing, remember to scale up to account for clay shrinkage (typically 10–15% depending on body and temperature).\nThis file is shared in the spirit of open artistic exploration. The chalice historically functioned as a vessel of transformation — materially and spiritually. Consider what it might hold in your hands now.\n\nIf you print or remix it, I’d love to see what you make.\n— Jeanne",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/3985af45fd554b58b72559987c52d9d0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-11T23:16:51.101903",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

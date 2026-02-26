@@ -1,0 +1,266 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-27T12:28:11.215958",
+    "embedUrl": "https://sketchfab.com/models/24c933d82ddd4a5a92e6c01826ef6bd2/embed",
+    "faceCount": 734250,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 12,
+    "name": "Gothic Black and Gold Knight with Giant Sword",
+    "publishedAt": "2026-01-27T12:31:50.144616",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "hero",
+            "slug": "hero",
+            "uri": "https://api.sketchfab.com/v3/tags/hero"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "giant",
+            "slug": "giant",
+            "uri": "https://api.sketchfab.com/v3/tags/giant"
+        },
+        {
+            "name": "scary",
+            "slug": "scary",
+            "uri": "https://api.sketchfab.com/v3/tags/scary"
+        },
+        {
+            "name": "gothic",
+            "slug": "gothic",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic"
+        },
+        {
+            "name": "boss",
+            "slug": "boss",
+            "uri": "https://api.sketchfab.com/v3/tags/boss"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "spiky",
+            "slug": "spiky",
+            "uri": "https://api.sketchfab.com/v3/tags/spiky"
+        },
+        {
+            "name": "mythic",
+            "slug": "mythic",
+            "uri": "https://api.sketchfab.com/v3/tags/mythic"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "black",
+            "slug": "black",
+            "uri": "https://api.sketchfab.com/v3/tags/black"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "gold",
+            "slug": "gold",
+            "uri": "https://api.sketchfab.com/v3/tags/gold"
+        },
+        {
+            "name": "evil",
+            "slug": "evil",
+            "uri": "https://api.sketchfab.com/v3/tags/evil"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ed0a7a97b2e54432a97dc731fc5b6e4a",
+                "width": 1920,
+                "height": 1080,
+                "size": 159696,
+                "url": "https://media.sketchfab.com/models/24c933d82ddd4a5a92e6c01826ef6bd2/thumbnails/92149793d02f48069e137b3de9045f73/d2db9d91f9914906931f7c1156d9bd3e.jpeg"
+            },
+            {
+                "uid": "60f8981d9a2f4444a5e33f5abbb75188",
+                "width": 1024,
+                "height": 576,
+                "size": 38850,
+                "url": "https://media.sketchfab.com/models/24c933d82ddd4a5a92e6c01826ef6bd2/thumbnails/92149793d02f48069e137b3de9045f73/686cddf969514dec93dad5c8a9242466.jpeg"
+            },
+            {
+                "uid": "7ad8305ea74e4ee1a2e41818611a9e20",
+                "width": 720,
+                "height": 405,
+                "size": 21580,
+                "url": "https://media.sketchfab.com/models/24c933d82ddd4a5a92e6c01826ef6bd2/thumbnails/92149793d02f48069e137b3de9045f73/7c6c940b8b16436baea735d28db7ef97.jpeg"
+            },
+            {
+                "uid": "ee94221a6c544afab512fda54d669ac2",
+                "width": 256,
+                "height": 144,
+                "size": 4365,
+                "url": "https://media.sketchfab.com/models/24c933d82ddd4a5a92e6c01826ef6bd2/thumbnails/92149793d02f48069e137b3de9045f73/caf435a07f064e868552dc553eb4e7de.jpeg"
+            },
+            {
+                "uid": "c79271d9e9814627833ac86fac107843",
+                "width": 64,
+                "height": 36,
+                "size": 1033,
+                "url": "https://media.sketchfab.com/models/24c933d82ddd4a5a92e6c01826ef6bd2/thumbnails/92149793d02f48069e137b3de9045f73/1636b99421dc4ea89011a14f87001f82.jpeg"
+            }
+        ]
+    },
+    "uid": "24c933d82ddd4a5a92e6c01826ef6bd2",
+    "uri": "https://api.sketchfab.com/v3/models/24c933d82ddd4a5a92e6c01826ef6bd2",
+    "user": {
+        "uid": "c0e7cb6abbb54c4fbed332c1f658479d",
+        "username": "s8819296",
+        "displayName": "Pigcraft",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/s8819296",
+        "avatar": {
+            "uid": "7797ae77db2943ff8057f36882c126a7",
+            "uri": "https://api.sketchfab.com/v3/avatars/7797ae77db2943ff8057f36882c126a7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 912,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/641a80e3656e4f619687ec58200ffc86.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1244,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/4f74af7c9e17476b97fc30e551115c65.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2524,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/1979744444a44908b96f3bcaf009a9c4.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2809,
+                    "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/cff0eb04a21445cb82338bb2738345f6.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c0e7cb6abbb54c4fbed332c1f658479d"
+    },
+    "vertexCount": 367123,
+    "viewCount": 213,
+    "viewerUrl": "https://sketchfab.com/3d-models/gothic-black-and-gold-knight-with-giant-sword-24c933d82ddd4a5a92e6c01826ef6bd2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A terrifying gothic knight clad in black and gold spiked armor, battle-worn and imposing. This evil warrior wields a massive, menacing sword, perfect for crushing foes in dark fantasy worlds. The armor is intricately detailed with sharp edges, spikes, and gothic motifs, giving the knight a brutal, fearsome silhouette. Ideal for RPGs, cinematic scenes, or as a boss character in games.",
+    "price": null,
+    "downloadCount": 56,
+    "editorUrl": "https://sketchfab.com/models/24c933d82ddd4a5a92e6c01826ef6bd2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-27T12:31:50.274815",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

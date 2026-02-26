@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-27T19:37:31.016738",
+    "embedUrl": "https://sketchfab.com/models/28730604a07c41398a5c3772d8d3896f/embed",
+    "faceCount": 1724,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+    },
+    "likeCount": 0,
+    "name": "He Who Remains' Tempad",
+    "publishedAt": "2026-01-27T19:51:28.383005",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "device",
+            "slug": "device",
+            "uri": "https://api.sketchfab.com/v3/tags/device"
+        },
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "loki",
+            "slug": "loki",
+            "uri": "https://api.sketchfab.com/v3/tags/loki"
+        },
+        {
+            "name": "marble",
+            "slug": "marble",
+            "uri": "https://api.sketchfab.com/v3/tags/marble"
+        },
+        {
+            "name": "tva",
+            "slug": "tva",
+            "uri": "https://api.sketchfab.com/v3/tags/tva"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "tempad",
+            "slug": "tempad",
+            "uri": "https://api.sketchfab.com/v3/tags/tempad"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "71301a2d2ab44da492bd89ed1ea0c466",
+                "width": 1920,
+                "height": 1080,
+                "size": 102263,
+                "url": "https://media.sketchfab.com/models/28730604a07c41398a5c3772d8d3896f/thumbnails/827c4d0304714d849281ddc003f8db49/166e0011014145b68141e620d6562343.jpeg"
+            },
+            {
+                "uid": "864a5a14cfa742ba987976c30b43677d",
+                "width": 1024,
+                "height": 576,
+                "size": 32232,
+                "url": "https://media.sketchfab.com/models/28730604a07c41398a5c3772d8d3896f/thumbnails/827c4d0304714d849281ddc003f8db49/261273cb422042d9baf16a04811d7752.jpeg"
+            },
+            {
+                "uid": "1314ad27d25144a896dfa8a281ed3338",
+                "width": 720,
+                "height": 405,
+                "size": 18443,
+                "url": "https://media.sketchfab.com/models/28730604a07c41398a5c3772d8d3896f/thumbnails/827c4d0304714d849281ddc003f8db49/5c4e7f679e02490d91f65be01c6a8a33.jpeg"
+            },
+            {
+                "uid": "401edf2339cc4163a720a31975b9cde7",
+                "width": 256,
+                "height": 144,
+                "size": 3897,
+                "url": "https://media.sketchfab.com/models/28730604a07c41398a5c3772d8d3896f/thumbnails/827c4d0304714d849281ddc003f8db49/64a55626bab0461191b254518129f190.jpeg"
+            },
+            {
+                "uid": "f4a1f9d88715419caec9072acc421191",
+                "width": 64,
+                "height": 36,
+                "size": 1067,
+                "url": "https://media.sketchfab.com/models/28730604a07c41398a5c3772d8d3896f/thumbnails/827c4d0304714d849281ddc003f8db49/7a438359aa3043ed9d4b0a2a759602d7.jpeg"
+            }
+        ]
+    },
+    "uid": "28730604a07c41398a5c3772d8d3896f",
+    "uri": "https://api.sketchfab.com/v3/models/28730604a07c41398a5c3772d8d3896f",
+    "user": {
+        "uid": "d1d0fcf4243a47adb5ea10af8a4da922",
+        "username": "anquietas-sys",
+        "displayName": "Anquietas System",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/anquietas-sys",
+        "avatar": {
+            "uid": "d2fa430da91743f0b977b733a8b5c482",
+            "uri": "https://api.sketchfab.com/v3/avatars/d2fa430da91743f0b977b733a8b5c482",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1250,
+                    "url": "https://media.sketchfab.com/avatars/d2fa430da91743f0b977b733a8b5c482/4552b5f5a8dd46aaa6bc5fe742a530ec.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1953,
+                    "url": "https://media.sketchfab.com/avatars/d2fa430da91743f0b977b733a8b5c482/449adf1539a44deaa093b4c607922177.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5005,
+                    "url": "https://media.sketchfab.com/avatars/d2fa430da91743f0b977b733a8b5c482/294c85feeeca4fd383778273e60a226f.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5883,
+                    "url": "https://media.sketchfab.com/avatars/d2fa430da91743f0b977b733a8b5c482/b97f01bf7489495483f0171a5a6eec43.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d1d0fcf4243a47adb5ea10af8a4da922"
+    },
+    "vertexCount": 876,
+    "viewCount": 13,
+    "viewerUrl": "https://sketchfab.com/3d-models/he-who-remains-tempad-28730604a07c41398a5c3772d8d3896f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A recreation of the Tempad that He Who Remains has on his left hand at the end of Season 1 of Loki.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/28730604a07c41398a5c3772d8d3896f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-27T19:51:47.623936",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

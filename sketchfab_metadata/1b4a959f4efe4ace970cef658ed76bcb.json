@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-09T07:09:25.631979",
+    "embedUrl": "https://sketchfab.com/models/1b4a959f4efe4ace970cef658ed76bcb/embed",
+    "faceCount": 530,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Hope Summers(Marvel)",
+    "publishedAt": "2026-01-09T07:11:18.318051",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0c06d95479b74cd083e527ac74e4da90",
+                "width": 1920,
+                "height": 1080,
+                "size": 69110,
+                "url": "https://media.sketchfab.com/models/1b4a959f4efe4ace970cef658ed76bcb/thumbnails/4b0fd44cd21e40fc8f265d19fdf70898/b26a5dbeccb340c686be978eb944d3c6.jpeg"
+            },
+            {
+                "uid": "0a135342568043b7b7e31749153e8b3f",
+                "width": 1024,
+                "height": 576,
+                "size": 23420,
+                "url": "https://media.sketchfab.com/models/1b4a959f4efe4ace970cef658ed76bcb/thumbnails/4b0fd44cd21e40fc8f265d19fdf70898/93b294999dc9482aa5dc78ea2bb42df6.jpeg"
+            },
+            {
+                "uid": "0f2ab794aafe41e5af1e8f43aa05dda2",
+                "width": 720,
+                "height": 405,
+                "size": 13229,
+                "url": "https://media.sketchfab.com/models/1b4a959f4efe4ace970cef658ed76bcb/thumbnails/4b0fd44cd21e40fc8f265d19fdf70898/16dcb81343b44d8fa87cb16323e17fcd.jpeg"
+            },
+            {
+                "uid": "8261bcd9ec6f44939046e2383a82b8db",
+                "width": 256,
+                "height": 144,
+                "size": 3058,
+                "url": "https://media.sketchfab.com/models/1b4a959f4efe4ace970cef658ed76bcb/thumbnails/4b0fd44cd21e40fc8f265d19fdf70898/4313c370fae6457c8f61439498dc9750.jpeg"
+            },
+            {
+                "uid": "ada467ce886141b680b75bdf394243e4",
+                "width": 64,
+                "height": 36,
+                "size": 1000,
+                "url": "https://media.sketchfab.com/models/1b4a959f4efe4ace970cef658ed76bcb/thumbnails/4b0fd44cd21e40fc8f265d19fdf70898/ffb65126cf3847bebd138ef0adb0e098.jpeg"
+            }
+        ]
+    },
+    "uid": "1b4a959f4efe4ace970cef658ed76bcb",
+    "uri": "https://api.sketchfab.com/v3/models/1b4a959f4efe4ace970cef658ed76bcb",
+    "user": {
+        "uid": "34bdaec9495f41ae81f50b96ca4cef97",
+        "username": "mitchellgarcia1009",
+        "displayName": "mitchellgarcia1009",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mitchellgarcia1009",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/34bdaec9495f41ae81f50b96ca4cef97"
+    },
+    "vertexCount": 259,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/hope-summersmarvel-1b4a959f4efe4ace970cef658ed76bcb",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/1b4a959f4efe4ace970cef658ed76bcb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-09T07:11:18.479082",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

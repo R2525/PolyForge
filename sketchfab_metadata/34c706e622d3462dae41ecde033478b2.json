@@ -1,0 +1,201 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-08T15:32:57.127417",
+    "embedUrl": "https://sketchfab.com/models/34c706e622d3462dae41ecde033478b2/embed",
+    "faceCount": 265082,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/2628dbe5140a4e9592126c8df566c0b7",
+        "label": "CC Attribution-NonCommercial-ShareAlike",
+        "fullName": "CC Attribution-NonCommercial-ShareAlike",
+        "requirements": "Author must be credited. No commercial use. Modified versions must have the same license.",
+        "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "slug": "by-nc-sa"
+    },
+    "likeCount": 8,
+    "name": "Medieval Knight Wooton Wawen",
+    "publishedAt": "2025-12-08T15:33:37.589233",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "church-architecture",
+            "slug": "church-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/church-architecture"
+        },
+        {
+            "name": "knight-armor",
+            "slug": "knight-armor",
+            "uri": "https://api.sketchfab.com/v3/tags/knight-armor"
+        },
+        {
+            "name": "knight-weapon",
+            "slug": "knight-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/knight-weapon"
+        },
+        {
+            "name": "church-architecture-photogrammetry",
+            "slug": "church-architecture-photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/church-architecture-photogrammetry"
+        },
+        {
+            "name": "knight-helmet",
+            "slug": "knight-helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/knight-helmet"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "scaniverse",
+            "slug": "scaniverse",
+            "uri": "https://api.sketchfab.com/v3/tags/scaniverse"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a541e17f197747f7abcececfaf1d94f3",
+                "width": 1920,
+                "height": 1080,
+                "size": 396715,
+                "url": "https://media.sketchfab.com/models/34c706e622d3462dae41ecde033478b2/thumbnails/547abd29690c470f80f6c1effd8e6e97/eeb78235d2fd4b7db049f8965f04a181.jpeg"
+            },
+            {
+                "uid": "9a7e2499d5f14d8296ddccc8f10fde76",
+                "width": 1024,
+                "height": 576,
+                "size": 84823,
+                "url": "https://media.sketchfab.com/models/34c706e622d3462dae41ecde033478b2/thumbnails/547abd29690c470f80f6c1effd8e6e97/85d99a7a1a8441689efaf9b5149c72fc.jpeg"
+            },
+            {
+                "uid": "9baa1fb529ef4cdabb0cf38042d639df",
+                "width": 720,
+                "height": 405,
+                "size": 43538,
+                "url": "https://media.sketchfab.com/models/34c706e622d3462dae41ecde033478b2/thumbnails/547abd29690c470f80f6c1effd8e6e97/128124afc7d64893930809b3237b3c71.jpeg"
+            },
+            {
+                "uid": "3a1189b721bf4f26b29f1cfa602860c3",
+                "width": 256,
+                "height": 144,
+                "size": 7262,
+                "url": "https://media.sketchfab.com/models/34c706e622d3462dae41ecde033478b2/thumbnails/547abd29690c470f80f6c1effd8e6e97/7eec523a407242419ffb85a7344a0ab4.jpeg"
+            },
+            {
+                "uid": "38f1b9ef729345a2b40ef93a0f207063",
+                "width": 64,
+                "height": 36,
+                "size": 1383,
+                "url": "https://media.sketchfab.com/models/34c706e622d3462dae41ecde033478b2/thumbnails/547abd29690c470f80f6c1effd8e6e97/cfd08111b8424e1486d16746b9792be2.jpeg"
+            }
+        ]
+    },
+    "uid": "34c706e622d3462dae41ecde033478b2",
+    "uri": "https://api.sketchfab.com/v3/models/34c706e622d3462dae41ecde033478b2",
+    "user": {
+        "uid": "4ae477c1dcb442bb8ff0135f0631235f",
+        "username": "morturn",
+        "displayName": "Shiro Morturn",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/morturn",
+        "avatar": {
+            "uid": "6aad69413cea4879a34cb10c98017ec6",
+            "uri": "https://api.sketchfab.com/v3/avatars/6aad69413cea4879a34cb10c98017ec6",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 885,
+                    "url": "https://media.sketchfab.com/avatars/6aad69413cea4879a34cb10c98017ec6/34a0c962a20b49d09035ecaf47a9ccf6.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1221,
+                    "url": "https://media.sketchfab.com/avatars/6aad69413cea4879a34cb10c98017ec6/9d952f78a25e4f069eaafbb5d8285839.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2735,
+                    "url": "https://media.sketchfab.com/avatars/6aad69413cea4879a34cb10c98017ec6/3858ebcba98849e3bcc2f33fb171e073.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3235,
+                    "url": "https://media.sketchfab.com/avatars/6aad69413cea4879a34cb10c98017ec6/276a6d09d8ba4d44a35347807e264007.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4ae477c1dcb442bb8ff0135f0631235f"
+    },
+    "vertexCount": 133532,
+    "viewCount": 103,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-knight-wooton-wawen-34c706e622d3462dae41ecde033478b2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Please Note:\n\nSudbury Gasworks Digital Imaging is a collaborative team of individuals working together for the benefit of the wider community to help record historic artifacts.\n\nOur aims are to help people to take responsibility for the local buildings, artifacts, and landscapes they love. Giving them the power to transform people, places, and communities.\n\nPlease feel free to download and use this model. All we ask if that you like, leave a comment and give credit to the author Shiro Morturn.\n\nThanks",
+    "price": null,
+    "downloadCount": 23,
+    "editorUrl": "https://sketchfab.com/models/34c706e622d3462dae41ecde033478b2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "scaniverse",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-07T18:03:44.578543",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

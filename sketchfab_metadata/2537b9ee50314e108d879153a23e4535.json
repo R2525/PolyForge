@@ -1,0 +1,187 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T11:06:25.907566",
+    "embedUrl": "https://sketchfab.com/models/2537b9ee50314e108d879153a23e4535/embed",
+    "faceCount": 329,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "The Omsk Musical Theater model psx",
+    "publishedAt": "2026-02-23T11:12:14.699736",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "russian",
+            "slug": "russian",
+            "uri": "https://api.sketchfab.com/v3/tags/russian"
+        },
+        {
+            "name": "psx",
+            "slug": "psx",
+            "uri": "https://api.sketchfab.com/v3/tags/psx"
+        },
+        {
+            "name": "USSR",
+            "slug": "ussr",
+            "uri": "https://api.sketchfab.com/v3/tags/ussr"
+        },
+        {
+            "name": "ps1",
+            "slug": "ps1",
+            "uri": "https://api.sketchfab.com/v3/tags/ps1"
+        },
+        {
+            "name": "depression",
+            "slug": "depression",
+            "uri": "https://api.sketchfab.com/v3/tags/depression"
+        },
+        {
+            "name": "omsk",
+            "slug": "omsk",
+            "uri": "https://api.sketchfab.com/v3/tags/omsk"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "teatre",
+            "slug": "teatre",
+            "uri": "https://api.sketchfab.com/v3/tags/teatre"
+        },
+        {
+            "name": "ps1-graphics",
+            "slug": "ps1-graphics",
+            "uri": "https://api.sketchfab.com/v3/tags/ps1-graphics"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1ee6289228324114857e6b9976fc3434",
+                "width": 1920,
+                "height": 1080,
+                "size": 453846,
+                "url": "https://media.sketchfab.com/models/2537b9ee50314e108d879153a23e4535/thumbnails/04ba40fcaa0140c1880fd3be54358daf/219bda5329e6461abc977c40d1a8b1f0.jpeg"
+            },
+            {
+                "uid": "aac9006339384a6da84ff9793a2d01f6",
+                "width": 1024,
+                "height": 576,
+                "size": 51762,
+                "url": "https://media.sketchfab.com/models/2537b9ee50314e108d879153a23e4535/thumbnails/04ba40fcaa0140c1880fd3be54358daf/8b793741a48d4181b5fd6b59f747e0d4.jpeg"
+            },
+            {
+                "uid": "0917039876fc4273a7d5808ffaac8b6a",
+                "width": 720,
+                "height": 405,
+                "size": 24009,
+                "url": "https://media.sketchfab.com/models/2537b9ee50314e108d879153a23e4535/thumbnails/04ba40fcaa0140c1880fd3be54358daf/50a52c1de69f4ca2a66f44684e13a136.jpeg"
+            },
+            {
+                "uid": "53a3908b8d2143c6b7ee477bd5cadcd7",
+                "width": 256,
+                "height": 144,
+                "size": 4722,
+                "url": "https://media.sketchfab.com/models/2537b9ee50314e108d879153a23e4535/thumbnails/04ba40fcaa0140c1880fd3be54358daf/e52c8f6a33dc420e8b271fc7a3c0b477.jpeg"
+            },
+            {
+                "uid": "8782aa6f79514637b9a91a658fd3bbbc",
+                "width": 64,
+                "height": 36,
+                "size": 1227,
+                "url": "https://media.sketchfab.com/models/2537b9ee50314e108d879153a23e4535/thumbnails/04ba40fcaa0140c1880fd3be54358daf/8958ca2658074658854d540c736df35b.jpeg"
+            }
+        ]
+    },
+    "uid": "2537b9ee50314e108d879153a23e4535",
+    "uri": "https://api.sketchfab.com/v3/models/2537b9ee50314e108d879153a23e4535",
+    "user": {
+        "uid": "65b6bb4e1822424faa09a2bf6d57fa0e",
+        "username": "pavelkravcov492",
+        "displayName": "crime100",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/pavelkravcov492",
+        "avatar": {
+            "uid": "dd61fbd52c894aeda9e44ea9927ddd6b",
+            "uri": "https://api.sketchfab.com/v3/avatars/dd61fbd52c894aeda9e44ea9927ddd6b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1116,
+                    "url": "https://media.sketchfab.com/avatars/dd61fbd52c894aeda9e44ea9927ddd6b/70f73eb5f7fa422cbb5f4e1029f7b565.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1578,
+                    "url": "https://media.sketchfab.com/avatars/dd61fbd52c894aeda9e44ea9927ddd6b/82a47a8c1ab94514b493211e0e73e7e0.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3548,
+                    "url": "https://media.sketchfab.com/avatars/dd61fbd52c894aeda9e44ea9927ddd6b/62e71b5bd80f4680b85a03954752a1b5.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4150,
+                    "url": "https://media.sketchfab.com/avatars/dd61fbd52c894aeda9e44ea9927ddd6b/8284030f0e664a29bb29c7d0917ff147.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/65b6bb4e1822424faa09a2bf6d57fa0e"
+    },
+    "vertexCount": 169,
+    "viewCount": 25,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-omsk-musical-theater-model-psx-2537b9ee50314e108d879153a23e4535",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A ps1-style Omsk musical theater model for game assets, created by me for my horror game \"Kyofu\"",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/2537b9ee50314e108d879153a23e4535/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T06:16:04.003931",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

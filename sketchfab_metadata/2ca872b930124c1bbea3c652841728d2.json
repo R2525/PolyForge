@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-30T16:55:10.881351",
+    "embedUrl": "https://sketchfab.com/models/2ca872b930124c1bbea3c652841728d2/embed",
+    "faceCount": 49521,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Articulated Mechanical Dragon Cub - Fantasy Toy",
+    "publishedAt": "2026-01-30T16:55:22.813128",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "toys",
+            "slug": "toys",
+            "uri": "https://api.sketchfab.com/v3/tags/toys"
+        },
+        {
+            "name": "3d-print",
+            "slug": "3d-print",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-print"
+        },
+        {
+            "name": "ai-generated",
+            "slug": "ai-generated",
+            "uri": "https://api.sketchfab.com/v3/tags/ai-generated"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "cb5a11e09c2043bc8dcdbd02d9a30d90",
+                "width": 1920,
+                "height": 1080,
+                "size": 52584,
+                "url": "https://media.sketchfab.com/models/2ca872b930124c1bbea3c652841728d2/thumbnails/bb73fa4f551c4a449945a882ee737443/0477ab137bd74a36aaf2f5e513eac428.jpeg"
+            },
+            {
+                "uid": "4cb03029791d44cf88b0383b19341fb7",
+                "width": 1024,
+                "height": 576,
+                "size": 17595,
+                "url": "https://media.sketchfab.com/models/2ca872b930124c1bbea3c652841728d2/thumbnails/bb73fa4f551c4a449945a882ee737443/64368aea5b1b4ca280bcbb50a32c64d3.jpeg"
+            },
+            {
+                "uid": "d2afaaf528f54963b749f34e85198e92",
+                "width": 720,
+                "height": 405,
+                "size": 10130,
+                "url": "https://media.sketchfab.com/models/2ca872b930124c1bbea3c652841728d2/thumbnails/bb73fa4f551c4a449945a882ee737443/9785db96e0e24caba3d2cacca1906c29.jpeg"
+            },
+            {
+                "uid": "4047868e24d8417082e56d25a2b12754",
+                "width": 256,
+                "height": 144,
+                "size": 2234,
+                "url": "https://media.sketchfab.com/models/2ca872b930124c1bbea3c652841728d2/thumbnails/bb73fa4f551c4a449945a882ee737443/93261fe371b648b2b48d0ad4c37ddfd3.jpeg"
+            },
+            {
+                "uid": "15f4968358f54c45a3d748376847226b",
+                "width": 64,
+                "height": 36,
+                "size": 778,
+                "url": "https://media.sketchfab.com/models/2ca872b930124c1bbea3c652841728d2/thumbnails/bb73fa4f551c4a449945a882ee737443/8cc12145441a42e38cdcf8a27e11c7e1.jpeg"
+            }
+        ]
+    },
+    "uid": "2ca872b930124c1bbea3c652841728d2",
+    "uri": "https://api.sketchfab.com/v3/models/2ca872b930124c1bbea3c652841728d2",
+    "user": {
+        "uid": "9ecc13ec5d194c0687e0790c845064de",
+        "username": "noob122044",
+        "displayName": "noob122044",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/noob122044",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9ecc13ec5d194c0687e0790c845064de"
+    },
+    "vertexCount": 24671,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/articulated-mechanical-dragon-cub-fantasy-toy-2ca872b930124c1bbea3c652841728d2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Bring a touch of mechanical magic to your collection with this stunning Articulated Mechanical Dragon Cub! This 3D printable figurine features intricate metallic-style emerald scales and majestic golden horns, blending fantasy aesthetics with steampunk design. Engineered with sturdy, high-tolerance ball joints, this cub is fully poseable and offers a satisfying tactile experience, making it perfect as a desk fidget toy or a display piece. Optimized for both FDM and Resin printing, the model is designed to be printed in place with no supports required for most setups. We recommend a layer height of 0.12mm to 0.16mm to capture the fine scale details. Use silk PLA for that brilliant metallic finish or high-toughness resin for extra durability. Whether you are a fan of dragons, mechanical creatures, or unique 3D printed toys, this dragon cub is a must-have addition to your 3D printing library!",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/2ca872b930124c1bbea3c652841728d2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-30T16:55:22.788993",
+    "pbrType": null,
+    "textureCount": null,
+    "materialCount": 1
+}

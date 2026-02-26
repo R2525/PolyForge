@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T00:32:30.305973",
+    "embedUrl": "https://sketchfab.com/models/407f1b0067e440f3a478a4dfbce5ecdc/embed",
+    "faceCount": 3824,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Dc Licence Plate Pl",
+    "publishedAt": "2026-02-21T00:32:52.006595",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "plate",
+            "slug": "plate",
+            "uri": "https://api.sketchfab.com/v3/tags/plate"
+        },
+        {
+            "name": "america",
+            "slug": "america",
+            "uri": "https://api.sketchfab.com/v3/tags/america"
+        },
+        {
+            "name": "licence",
+            "slug": "licence",
+            "uri": "https://api.sketchfab.com/v3/tags/licence"
+        },
+        {
+            "name": "license",
+            "slug": "license",
+            "uri": "https://api.sketchfab.com/v3/tags/license"
+        },
+        {
+            "name": "immatriculation",
+            "slug": "immatriculation",
+            "uri": "https://api.sketchfab.com/v3/tags/immatriculation"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a035613b7da949d38a5a20ee383eddbd",
+                "width": 1920,
+                "height": 1080,
+                "size": 79127,
+                "url": "https://media.sketchfab.com/models/407f1b0067e440f3a478a4dfbce5ecdc/thumbnails/a9c371bffc4c42e1b86967e5e2b956e3/ac70c1332f3441088de00337250d74f1.jpeg"
+            },
+            {
+                "uid": "e5e10f4a89884cfd8c95632d379ad41c",
+                "width": 1024,
+                "height": 576,
+                "size": 27640,
+                "url": "https://media.sketchfab.com/models/407f1b0067e440f3a478a4dfbce5ecdc/thumbnails/a9c371bffc4c42e1b86967e5e2b956e3/ead7a32bf44546378e51af570c8d6ca1.jpeg"
+            },
+            {
+                "uid": "f88085e0357346b8842068db1f6751e5",
+                "width": 720,
+                "height": 405,
+                "size": 16198,
+                "url": "https://media.sketchfab.com/models/407f1b0067e440f3a478a4dfbce5ecdc/thumbnails/a9c371bffc4c42e1b86967e5e2b956e3/7714ccf0cef8489dbd977ff9aa29e1e5.jpeg"
+            },
+            {
+                "uid": "43578563c16d4083ae1292bc3f4cacbb",
+                "width": 256,
+                "height": 144,
+                "size": 3918,
+                "url": "https://media.sketchfab.com/models/407f1b0067e440f3a478a4dfbce5ecdc/thumbnails/a9c371bffc4c42e1b86967e5e2b956e3/1959330488ea4dc897d43ed813c0e8dc.jpeg"
+            },
+            {
+                "uid": "49a0ee3757034085958d28499697f5e8",
+                "width": 64,
+                "height": 36,
+                "size": 963,
+                "url": "https://media.sketchfab.com/models/407f1b0067e440f3a478a4dfbce5ecdc/thumbnails/a9c371bffc4c42e1b86967e5e2b956e3/a9fc1310437944d5aa4271f6968d4cae.jpeg"
+            }
+        ]
+    },
+    "uid": "407f1b0067e440f3a478a4dfbce5ecdc",
+    "uri": "https://api.sketchfab.com/v3/models/407f1b0067e440f3a478a4dfbce5ecdc",
+    "user": {
+        "uid": "3e473da067344e658c345b1f72e25ad5",
+        "username": "nairexptisar1970",
+        "displayName": "nairexptisar1970",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/nairexptisar1970",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3e473da067344e658c345b1f72e25ad5"
+    },
+    "vertexCount": 2058,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/dc-licence-plate-pl-407f1b0067e440f3a478a4dfbce5ecdc",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the original file.The Converted version is intended for web viewing only. In the original file, the following are fully preserved:✔ original scene hierarchy✔ unsimplified materials✔ accurate texture maps✔ correct object namesIf you plan to use this model in production, download the source file.Simple license plate for vehicles like cars and tricks. The texture is not made for close ups as it s not super high resolution.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/407f1b0067e440f3a478a4dfbce5ecdc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T00:32:52.167485",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

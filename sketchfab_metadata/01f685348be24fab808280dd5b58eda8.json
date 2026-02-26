@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 6,
+    "createdAt": "2025-11-23T16:09:07.717077",
+    "embedUrl": "https://sketchfab.com/models/01f685348be24fab808280dd5b58eda8/embed",
+    "faceCount": 12263,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 56,
+    "name": "low-poly Shadow Systems MR920",
+    "publishedAt": "2025-11-23T16:14:19.235108",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "9mm",
+            "slug": "9mm",
+            "uri": "https://api.sketchfab.com/v3/tags/9mm"
+        },
+        {
+            "name": "9x19mm",
+            "slug": "9x19mm",
+            "uri": "https://api.sketchfab.com/v3/tags/9x19mm"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "usa",
+            "slug": "usa",
+            "uri": "https://api.sketchfab.com/v3/tags/usa"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3850f996efd24cb7a1f8a97402757c8b",
+                "width": 1920,
+                "height": 1080,
+                "size": 202950,
+                "url": "https://media.sketchfab.com/models/01f685348be24fab808280dd5b58eda8/thumbnails/44b23abb329c4da18f0085e51d3a887f/8f893fa9e2124dac8df6ce6b725deebb.jpeg"
+            },
+            {
+                "uid": "01d27dc713be4f9a8cdc1d05d8514c4e",
+                "width": 1024,
+                "height": 576,
+                "size": 33650,
+                "url": "https://media.sketchfab.com/models/01f685348be24fab808280dd5b58eda8/thumbnails/44b23abb329c4da18f0085e51d3a887f/b319b4a1fb0f4026a0588c623e1041a9.jpeg"
+            },
+            {
+                "uid": "bb0a0c62d0b248cc9e58d63f06ccfbf0",
+                "width": 720,
+                "height": 405,
+                "size": 19775,
+                "url": "https://media.sketchfab.com/models/01f685348be24fab808280dd5b58eda8/thumbnails/44b23abb329c4da18f0085e51d3a887f/04414a1abc1f49ac851497a3e71f8263.jpeg"
+            },
+            {
+                "uid": "4f66bcd9ed9d42e7aa1615b96d38740f",
+                "width": 256,
+                "height": 144,
+                "size": 4684,
+                "url": "https://media.sketchfab.com/models/01f685348be24fab808280dd5b58eda8/thumbnails/44b23abb329c4da18f0085e51d3a887f/d991584dae4b49a1830be3355f104daf.jpeg"
+            },
+            {
+                "uid": "a177cd3293914a01ad876a1ce17b8a49",
+                "width": 64,
+                "height": 36,
+                "size": 1164,
+                "url": "https://media.sketchfab.com/models/01f685348be24fab808280dd5b58eda8/thumbnails/44b23abb329c4da18f0085e51d3a887f/742aaf0a34964522b7dfbf968fd26300.jpeg"
+            }
+        ]
+    },
+    "uid": "01f685348be24fab808280dd5b58eda8",
+    "uri": "https://api.sketchfab.com/v3/models/01f685348be24fab808280dd5b58eda8",
+    "user": {
+        "uid": "5b29badd2f7f4647bcbe257af22aa156",
+        "username": "DU1701",
+        "displayName": "D_U",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DU1701",
+        "avatar": {
+            "uid": "50321f54f6764201ae2ee8d4df1835e9",
+            "uri": "https://api.sketchfab.com/v3/avatars/50321f54f6764201ae2ee8d4df1835e9",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 472,
+                    "url": "https://media.sketchfab.com/avatars/50321f54f6764201ae2ee8d4df1835e9/7ee46db1392d4aa08e1809a8f16e8385.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 709,
+                    "url": "https://media.sketchfab.com/avatars/50321f54f6764201ae2ee8d4df1835e9/b224a272831a48c5b6318e59eef76a81.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1218,
+                    "url": "https://media.sketchfab.com/avatars/50321f54f6764201ae2ee8d4df1835e9/0a301b43f0714266a6367658b01397ae.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1319,
+                    "url": "https://media.sketchfab.com/avatars/50321f54f6764201ae2ee8d4df1835e9/a10bc832534b4ad0adcb9f265e9cf7c2.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5b29badd2f7f4647bcbe257af22aa156"
+    },
+    "vertexCount": 6571,
+    "viewCount": 1480,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-shadow-systems-mr920-01f685348be24fab808280dd5b58eda8",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "The MR920 Series is flagship compact pistol, compatible with G19 holsters and gear for seamless integration. It’s built for versatility, with features like interchangeable backstraps for custom grip angles. The extended beavertail reduces recoil, while wrap-around texturing ensures control in any condition. (Shadow Systems official website)\n\nOur DC server: https://discord.gg/qGbyejEz3n",
+    "price": null,
+    "downloadCount": 237,
+    "editorUrl": "https://sketchfab.com/models/01f685348be24fab808280dd5b58eda8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-07T15:35:59.163935",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 6
+}

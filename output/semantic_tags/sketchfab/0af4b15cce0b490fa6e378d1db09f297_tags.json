@@ -1,0 +1,41 @@
+{
+    "category": "Science & Technology",
+    "top_genres": [
+        {
+            "name": "Steampunk",
+            "score": 0.85
+        },
+        {
+            "name": "Historical",
+            "score": 0.7
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.6
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Toon / Anime",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Dusty"
+    ],
+    "tags": [
+        "compass",
+        "key",
+        "book"
+    ]
+}

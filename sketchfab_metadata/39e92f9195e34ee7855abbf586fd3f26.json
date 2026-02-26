@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2024-04-27T15:12:24.582106",
+    "embedUrl": "https://sketchfab.com/models/39e92f9195e34ee7855abbf586fd3f26/embed",
+    "faceCount": 31372,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Ghibli robot (天空の城ラピュタ)",
+    "publishedAt": "2024-04-27T15:51:18.520023",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "castleinthesky",
+            "slug": "castleinthesky",
+            "uri": "https://api.sketchfab.com/v3/tags/castleinthesky"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3f23ac907ce0477a881c7e5830ca8a2b",
+                "width": 1920,
+                "height": 1080,
+                "size": 148841,
+                "url": "https://media.sketchfab.com/models/39e92f9195e34ee7855abbf586fd3f26/thumbnails/052bb5cdb97d49a0b3c0b18b82e4a31b/a2e4b25ee26d41f3ac755aca69998966.jpeg"
+            },
+            {
+                "uid": "03d85c42f55a40f18d3e12ac3412babc",
+                "width": 1024,
+                "height": 576,
+                "size": 29061,
+                "url": "https://media.sketchfab.com/models/39e92f9195e34ee7855abbf586fd3f26/thumbnails/052bb5cdb97d49a0b3c0b18b82e4a31b/0991d021666d435db3e57d4afa5a36f8.jpeg"
+            },
+            {
+                "uid": "b81effc39d8e4e2789706e0b91303025",
+                "width": 720,
+                "height": 405,
+                "size": 14038,
+                "url": "https://media.sketchfab.com/models/39e92f9195e34ee7855abbf586fd3f26/thumbnails/052bb5cdb97d49a0b3c0b18b82e4a31b/14f31825c4124d228832ae8316cac035.jpeg"
+            },
+            {
+                "uid": "d427b8d86b8442dc9d79760162e2adcf",
+                "width": 256,
+                "height": 144,
+                "size": 2665,
+                "url": "https://media.sketchfab.com/models/39e92f9195e34ee7855abbf586fd3f26/thumbnails/052bb5cdb97d49a0b3c0b18b82e4a31b/7f68c99ca9c54ae8a0d1cfc5d3719352.jpeg"
+            },
+            {
+                "uid": "b20447d687c84876b961ff893b3c632d",
+                "width": 64,
+                "height": 36,
+                "size": 852,
+                "url": "https://media.sketchfab.com/models/39e92f9195e34ee7855abbf586fd3f26/thumbnails/052bb5cdb97d49a0b3c0b18b82e4a31b/c20bbafc3cf54456ae364b4baa4af3c8.jpeg"
+            }
+        ]
+    },
+    "uid": "39e92f9195e34ee7855abbf586fd3f26",
+    "uri": "https://api.sketchfab.com/v3/models/39e92f9195e34ee7855abbf586fd3f26",
+    "user": {
+        "uid": "0207b2bc9bdd4fcc9163612fa866f980",
+        "username": "andywu123",
+        "displayName": "(ꐦ ಠ皿ಠ )",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/andywu123",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0207b2bc9bdd4fcc9163612fa866f980"
+    },
+    "vertexCount": 15824,
+    "viewCount": 195,
+    "viewerUrl": "https://sketchfab.com/3d-models/ghibli-robot-39e92f9195e34ee7855abbf586fd3f26",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "I'm trying to make some characters,the robot from Castle in the Sky",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/39e92f9195e34ee7855abbf586fd3f26/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2024-04-27T15:51:18.697084",
+    "pbrType": "metalness",
+    "textureCount": 9,
+    "materialCount": 2
+}

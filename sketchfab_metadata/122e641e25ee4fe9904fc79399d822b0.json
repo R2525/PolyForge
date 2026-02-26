@@ -1,0 +1,366 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-12T22:51:21.807084",
+    "embedUrl": "https://sketchfab.com/models/122e641e25ee4fe9904fc79399d822b0/embed",
+    "faceCount": 4226,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+        "label": "CC Attribution-NonCommercial",
+        "fullName": "Creative Commons Attribution-NonCommercial",
+        "requirements": "Author must be credited. No commercial use.",
+        "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "slug": "by-nc"
+    },
+    "likeCount": 16,
+    "name": "Arcade Cabinet",
+    "publishedAt": "2026-02-12T23:16:17.191261",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "arcade",
+            "slug": "arcade",
+            "uri": "https://api.sketchfab.com/v3/tags/arcade"
+        },
+        {
+            "name": "time",
+            "slug": "time",
+            "uri": "https://api.sketchfab.com/v3/tags/time"
+        },
+        {
+            "name": "mesh",
+            "slug": "mesh",
+            "uri": "https://api.sketchfab.com/v3/tags/mesh"
+        },
+        {
+            "name": "gaming",
+            "slug": "gaming",
+            "uri": "https://api.sketchfab.com/v3/tags/gaming"
+        },
+        {
+            "name": "sci",
+            "slug": "sci",
+            "uri": "https://api.sketchfab.com/v3/tags/sci"
+        },
+        {
+            "name": "fi",
+            "slug": "fi",
+            "uri": "https://api.sketchfab.com/v3/tags/fi"
+        },
+        {
+            "name": "videogame",
+            "slug": "videogame",
+            "uri": "https://api.sketchfab.com/v3/tags/videogame"
+        },
+        {
+            "name": "textures",
+            "slug": "textures",
+            "uri": "https://api.sketchfab.com/v3/tags/textures"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "retro",
+            "slug": "retro",
+            "uri": "https://api.sketchfab.com/v3/tags/retro"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "development",
+            "slug": "development",
+            "uri": "https://api.sketchfab.com/v3/tags/development"
+        },
+        {
+            "name": "classic",
+            "slug": "classic",
+            "uri": "https://api.sketchfab.com/v3/tags/classic"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "nostalgia",
+            "slug": "nostalgia",
+            "uri": "https://api.sketchfab.com/v3/tags/nostalgia"
+        },
+        {
+            "name": "80's",
+            "slug": "80s",
+            "uri": "https://api.sketchfab.com/v3/tags/80s"
+        },
+        {
+            "name": "decor",
+            "slug": "decor",
+            "uri": "https://api.sketchfab.com/v3/tags/decor"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "Cabinet",
+            "slug": "cabinet",
+            "uri": "https://api.sketchfab.com/v3/tags/cabinet"
+        },
+        {
+            "name": "Machine",
+            "slug": "machine",
+            "uri": "https://api.sketchfab.com/v3/tags/machine"
+        },
+        {
+            "name": "engine",
+            "slug": "engine",
+            "uri": "https://api.sketchfab.com/v3/tags/engine"
+        },
+        {
+            "name": "real",
+            "slug": "real",
+            "uri": "https://api.sketchfab.com/v3/tags/real"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "vaporwave",
+            "slug": "vaporwave",
+            "uri": "https://api.sketchfab.com/v3/tags/vaporwave"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "technology",
+            "slug": "technology",
+            "uri": "https://api.sketchfab.com/v3/tags/technology"
+        },
+        {
+            "name": "video",
+            "slug": "video",
+            "uri": "https://api.sketchfab.com/v3/tags/video"
+        },
+        {
+            "name": "interior",
+            "slug": "interior",
+            "uri": "https://api.sketchfab.com/v3/tags/interior"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9d13296f0a704a74b3c0828b9caeb1a1",
+                "width": 1920,
+                "height": 1080,
+                "size": 133219,
+                "url": "https://media.sketchfab.com/models/122e641e25ee4fe9904fc79399d822b0/thumbnails/290d65d9629043f892c575922118df29/3f200fbb28d245be886b3fc0cd337646.jpeg"
+            },
+            {
+                "uid": "c1a2047b40a4411e914a884394e0c541",
+                "width": 1024,
+                "height": 576,
+                "size": 37415,
+                "url": "https://media.sketchfab.com/models/122e641e25ee4fe9904fc79399d822b0/thumbnails/290d65d9629043f892c575922118df29/97ee68118a8849c3a0f8adb5bd3d5899.jpeg"
+            },
+            {
+                "uid": "d28fe8e6a14a47e0824669fc61762540",
+                "width": 720,
+                "height": 405,
+                "size": 20168,
+                "url": "https://media.sketchfab.com/models/122e641e25ee4fe9904fc79399d822b0/thumbnails/290d65d9629043f892c575922118df29/f69c29e150f24df998edb4cb49abed1b.jpeg"
+            },
+            {
+                "uid": "cbae9fd522a84f0e810dc54c4c638d82",
+                "width": 256,
+                "height": 144,
+                "size": 3782,
+                "url": "https://media.sketchfab.com/models/122e641e25ee4fe9904fc79399d822b0/thumbnails/290d65d9629043f892c575922118df29/134d7eacdc454347af495a387af993bd.jpeg"
+            },
+            {
+                "uid": "3168e18ae1394504880041be6ff2608b",
+                "width": 64,
+                "height": 36,
+                "size": 952,
+                "url": "https://media.sketchfab.com/models/122e641e25ee4fe9904fc79399d822b0/thumbnails/290d65d9629043f892c575922118df29/353a0749bbe84a3c90ff47c1623fd618.jpeg"
+            }
+        ]
+    },
+    "uid": "122e641e25ee4fe9904fc79399d822b0",
+    "uri": "https://api.sketchfab.com/v3/models/122e641e25ee4fe9904fc79399d822b0",
+    "user": {
+        "uid": "cdc7629e97fa44118394b58f47fd89bd",
+        "username": "LlucGuardiola",
+        "displayName": "Lluc Guardiolaa",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/LlucGuardiola",
+        "avatar": {
+            "uid": "e56c7feea8d94ddd93514db56e28f3a4",
+            "uri": "https://api.sketchfab.com/v3/avatars/e56c7feea8d94ddd93514db56e28f3a4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2266,
+                    "url": "https://media.sketchfab.com/avatars/e56c7feea8d94ddd93514db56e28f3a4/abf608586fe647878cc8f4cc16594326.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4644,
+                    "url": "https://media.sketchfab.com/avatars/e56c7feea8d94ddd93514db56e28f3a4/006ebe2d3cbe45f594c53a702768192b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14599,
+                    "url": "https://media.sketchfab.com/avatars/e56c7feea8d94ddd93514db56e28f3a4/67666b8628cc4306b6caf58a9b252d06.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17616,
+                    "url": "https://media.sketchfab.com/avatars/e56c7feea8d94ddd93514db56e28f3a4/929b62decb1a4d5bacb72fa99618bdd4.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cdc7629e97fa44118394b58f47fd89bd"
+    },
+    "vertexCount": 2268,
+    "viewCount": 287,
+    "viewerUrl": "https://sketchfab.com/3d-models/arcade-cabinet-122e641e25ee4fe9904fc79399d822b0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Game-ready retro arcade cabinet with sci-fi side art and worn materials. Optimized for real-time use in modern game engines.\n\n**Software Used:**\n\n* Substance Painter\n* Blender\n* PureRef\n* Chat GPT to generate side images\n* Arcade panel: https://drive.google.com/file/d/1AnemBxK_uw7RVCGAqCUUnbmRwLjeC4oq/view",
+    "price": null,
+    "downloadCount": 55,
+    "editorUrl": "https://sketchfab.com/models/122e641e25ee4fe9904fc79399d822b0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T14:28:56.326914",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

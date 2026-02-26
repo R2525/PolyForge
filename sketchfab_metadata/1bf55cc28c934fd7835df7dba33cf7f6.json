@@ -1,0 +1,180 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T16:57:16.326537",
+    "embedUrl": "https://sketchfab.com/models/1bf55cc28c934fd7835df7dba33cf7f6/embed",
+    "faceCount": 1116,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Lee–Enfield",
+    "publishedAt": "2026-02-22T16:57:52.595179",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rifle",
+            "slug": "rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle"
+        },
+        {
+            "name": "british",
+            "slug": "british",
+            "uri": "https://api.sketchfab.com/v3/tags/british"
+        },
+        {
+            "name": "ww1",
+            "slug": "ww1",
+            "uri": "https://api.sketchfab.com/v3/tags/ww1"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4e61c5c9a5d74ccfa6e3e02551e0bd3f",
+                "width": 1920,
+                "height": 1080,
+                "size": 52120,
+                "url": "https://media.sketchfab.com/models/1bf55cc28c934fd7835df7dba33cf7f6/thumbnails/6449077fbf7f404e844e3e0b280ed9ed/c0be33e36bc24dc6abe2b2796a90d82a.jpeg"
+            },
+            {
+                "uid": "97a50a7b90bf40e08dca6b9170475045",
+                "width": 1024,
+                "height": 576,
+                "size": 17212,
+                "url": "https://media.sketchfab.com/models/1bf55cc28c934fd7835df7dba33cf7f6/thumbnails/6449077fbf7f404e844e3e0b280ed9ed/26359e549dcd4f2f88b9861010bfac0b.jpeg"
+            },
+            {
+                "uid": "bf973c84ea554d31aab479b96d58515c",
+                "width": 720,
+                "height": 405,
+                "size": 9758,
+                "url": "https://media.sketchfab.com/models/1bf55cc28c934fd7835df7dba33cf7f6/thumbnails/6449077fbf7f404e844e3e0b280ed9ed/772777d137bc4e6c950642827f7f3fa6.jpeg"
+            },
+            {
+                "uid": "f7c67d2bbf134d27a35516cc8b0eab6e",
+                "width": 256,
+                "height": 144,
+                "size": 2442,
+                "url": "https://media.sketchfab.com/models/1bf55cc28c934fd7835df7dba33cf7f6/thumbnails/6449077fbf7f404e844e3e0b280ed9ed/bb06c45528b94915932ad907f6138205.jpeg"
+            },
+            {
+                "uid": "760715babd54481cba5fbeb98187224a",
+                "width": 64,
+                "height": 36,
+                "size": 870,
+                "url": "https://media.sketchfab.com/models/1bf55cc28c934fd7835df7dba33cf7f6/thumbnails/6449077fbf7f404e844e3e0b280ed9ed/cd82e5f75c4a4764874dae483309dc32.jpeg"
+            }
+        ]
+    },
+    "uid": "1bf55cc28c934fd7835df7dba33cf7f6",
+    "uri": "https://api.sketchfab.com/v3/models/1bf55cc28c934fd7835df7dba33cf7f6",
+    "user": {
+        "uid": "284425b7ba6d469a825400e354b66754",
+        "username": "Felina-chan",
+        "displayName": "SmartKitty",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Felina-chan",
+        "avatar": {
+            "uid": "db14f6a5c70a4a469b58b0781a3f1cc3",
+            "uri": "https://api.sketchfab.com/v3/avatars/db14f6a5c70a4a469b58b0781a3f1cc3",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2607,
+                    "url": "https://media.sketchfab.com/avatars/db14f6a5c70a4a469b58b0781a3f1cc3/6a5d9ad7c40145a1945a9b7d54dd5f92.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5418,
+                    "url": "https://media.sketchfab.com/avatars/db14f6a5c70a4a469b58b0781a3f1cc3/7dbc21a482b64b7590b25705b74ecde8.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 16830,
+                    "url": "https://media.sketchfab.com/avatars/db14f6a5c70a4a469b58b0781a3f1cc3/804550b53a4c4fffaff081e680015e74.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 20396,
+                    "url": "https://media.sketchfab.com/avatars/db14f6a5c70a4a469b58b0781a3f1cc3/0187c74640cf42f6ac7fe86d8c3a5085.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/284425b7ba6d469a825400e354b66754"
+    },
+    "vertexCount": 744,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/leeenfield-1bf55cc28c934fd7835df7dba33cf7f6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "The Lee–Enfield is a bolt-action, magazine-fed repeating rifle that served as the main firearm of the military forces of the British Empire and Commonwealth during the first half of the 20th century, and was the standard service rifle of the British Armed Forces from its official adoption in 1895 until 1957",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1bf55cc28c934fd7835df7dba33cf7f6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T16:57:52.711720",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

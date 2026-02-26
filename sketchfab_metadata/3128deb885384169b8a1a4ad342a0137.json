@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T07:42:08.190349",
+    "embedUrl": "https://sketchfab.com/models/3128deb885384169b8a1a4ad342a0137/embed",
+    "faceCount": 504,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Shelf Stylised",
+    "publishedAt": "2026-02-21T07:43:04.480555",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "shelf",
+            "slug": "shelf",
+            "uri": "https://api.sketchfab.com/v3/tags/shelf"
+        },
+        {
+            "name": "cartoony",
+            "slug": "cartoony",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoony"
+        },
+        {
+            "name": "classroom",
+            "slug": "classroom",
+            "uri": "https://api.sketchfab.com/v3/tags/classroom"
+        },
+        {
+            "name": "stylised",
+            "slug": "stylised",
+            "uri": "https://api.sketchfab.com/v3/tags/stylised"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "inteerior",
+            "slug": "inteerior",
+            "uri": "https://api.sketchfab.com/v3/tags/inteerior"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "bab00dea8bb34bb1b0459e4da475eee2",
+                "width": 1920,
+                "height": 1080,
+                "size": 74223,
+                "url": "https://media.sketchfab.com/models/3128deb885384169b8a1a4ad342a0137/thumbnails/29a661d8123e481ea9781cfc3f27d540/6421efe776ea411494554bcb45dbd86c.jpeg"
+            },
+            {
+                "uid": "85acbe88cd9c4ddaad833abeef764225",
+                "width": 1024,
+                "height": 576,
+                "size": 25952,
+                "url": "https://media.sketchfab.com/models/3128deb885384169b8a1a4ad342a0137/thumbnails/29a661d8123e481ea9781cfc3f27d540/87cb095cd825424d9fee8609ce4dee5a.jpeg"
+            },
+            {
+                "uid": "b172e8726a91436b8e2da061224bd84c",
+                "width": 720,
+                "height": 405,
+                "size": 14743,
+                "url": "https://media.sketchfab.com/models/3128deb885384169b8a1a4ad342a0137/thumbnails/29a661d8123e481ea9781cfc3f27d540/7c7f0928a3fb4ca5bec1c62efe2d11e9.jpeg"
+            },
+            {
+                "uid": "181c52ed5e834454860dd74209668063",
+                "width": 256,
+                "height": 144,
+                "size": 3379,
+                "url": "https://media.sketchfab.com/models/3128deb885384169b8a1a4ad342a0137/thumbnails/29a661d8123e481ea9781cfc3f27d540/7651d762b82c454b9a74189c1f643633.jpeg"
+            },
+            {
+                "uid": "d205d3cbc9e448a2a7d40d7b420e4526",
+                "width": 64,
+                "height": 36,
+                "size": 1074,
+                "url": "https://media.sketchfab.com/models/3128deb885384169b8a1a4ad342a0137/thumbnails/29a661d8123e481ea9781cfc3f27d540/610e6d7af2a9408f97191cead53b3034.jpeg"
+            }
+        ]
+    },
+    "uid": "3128deb885384169b8a1a4ad342a0137",
+    "uri": "https://api.sketchfab.com/v3/models/3128deb885384169b8a1a4ad342a0137",
+    "user": {
+        "uid": "0b31e5fbef0f465baddc98a6390af7d0",
+        "username": "balasiva",
+        "displayName": "balasiva",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/balasiva",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0b31e5fbef0f465baddc98a6390af7d0"
+    },
+    "vertexCount": 256,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/shelf-stylised-3128deb885384169b8a1a4ad342a0137",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the source format.The viewer version is intended for web viewing only. In the Original format, the following are fully preserved:✔ original scene hierarchy✔ complete materials without reduction✔ correct PBR texture maps✔ original object namesIf you plan to use this model in production, select the source file.game ready anime feel shelf painterly",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/3128deb885384169b8a1a4ad342a0137/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T07:43:04.671730",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

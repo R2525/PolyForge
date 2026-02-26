@@ -1,0 +1,67 @@
+{
+    "category": "Animals & Creatures",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "3D Render",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "dragon",
+        "shield",
+        "emblem",
+        "3D model",
+        "fantasy",
+        "symbol",
+        "creatures",
+        "ancient"
+    ],
+    "model_id_full": "49fb0320b19c4781af476c700b4e0be7_Dragon Shield Emblem",
+    "sketchfab_id": "49fb0320b19c4781af476c700b4e0be7",
+    "asset_name": "Dragon Shield Emblem"
+}

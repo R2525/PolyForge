@@ -1,0 +1,187 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T14:15:16.411284",
+    "embedUrl": "https://sketchfab.com/models/3895ca97c1dd4f1994758144e85414fa/embed",
+    "faceCount": 772,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sci Fi Monitor",
+    "publishedAt": "2026-02-20T14:16:23.360949",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "monitor",
+            "slug": "monitor",
+            "uri": "https://api.sketchfab.com/v3/tags/monitor"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "facility",
+            "slug": "facility",
+            "uri": "https://api.sketchfab.com/v3/tags/facility"
+        },
+        {
+            "name": "indusrial",
+            "slug": "indusrial",
+            "uri": "https://api.sketchfab.com/v3/tags/indusrial"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "technology",
+            "slug": "technology",
+            "uri": "https://api.sketchfab.com/v3/tags/technology"
+        },
+        {
+            "name": "factory",
+            "slug": "factory",
+            "uri": "https://api.sketchfab.com/v3/tags/factory"
+        },
+        {
+            "name": "screen",
+            "slug": "screen",
+            "uri": "https://api.sketchfab.com/v3/tags/screen"
+        },
+        {
+            "name": "degital",
+            "slug": "degital",
+            "uri": "https://api.sketchfab.com/v3/tags/degital"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "888be4d88aa2409ab08c5d795dafcd9b",
+                "width": 1920,
+                "height": 1080,
+                "size": 53553,
+                "url": "https://media.sketchfab.com/models/3895ca97c1dd4f1994758144e85414fa/thumbnails/f8ecedafbbe349178e4a5449b8a54d62/e43ec10ca0fb44c586cc189cde5a7a30.jpeg"
+            },
+            {
+                "uid": "62d19616ce93427191949b2e11619bd4",
+                "width": 1024,
+                "height": 576,
+                "size": 17283,
+                "url": "https://media.sketchfab.com/models/3895ca97c1dd4f1994758144e85414fa/thumbnails/f8ecedafbbe349178e4a5449b8a54d62/9d4872768b0447799454dc2e6762ec78.jpeg"
+            },
+            {
+                "uid": "2ba78aee3969451aad75568077bd9a83",
+                "width": 720,
+                "height": 405,
+                "size": 9879,
+                "url": "https://media.sketchfab.com/models/3895ca97c1dd4f1994758144e85414fa/thumbnails/f8ecedafbbe349178e4a5449b8a54d62/7920c49ff47e4060a507fccfd5b2bb2a.jpeg"
+            },
+            {
+                "uid": "97d79bec8f6a4d6fb853fc5f2dd956b6",
+                "width": 256,
+                "height": 144,
+                "size": 2215,
+                "url": "https://media.sketchfab.com/models/3895ca97c1dd4f1994758144e85414fa/thumbnails/f8ecedafbbe349178e4a5449b8a54d62/876450ae666e46298fec455e10167aa8.jpeg"
+            },
+            {
+                "uid": "7d3d7c1fb28345908cdd273d4ea10bc9",
+                "width": 64,
+                "height": 36,
+                "size": 854,
+                "url": "https://media.sketchfab.com/models/3895ca97c1dd4f1994758144e85414fa/thumbnails/f8ecedafbbe349178e4a5449b8a54d62/286a02ba8cf2462aa73c7b9c669d3fab.jpeg"
+            }
+        ]
+    },
+    "uid": "3895ca97c1dd4f1994758144e85414fa",
+    "uri": "https://api.sketchfab.com/v3/models/3895ca97c1dd4f1994758144e85414fa",
+    "user": {
+        "uid": "dc8ede634f7b451ab6607433dfa1d9d1",
+        "username": "happing321",
+        "displayName": "happing321",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/happing321",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/dc8ede634f7b451ab6607433dfa1d9d1"
+    },
+    "vertexCount": 396,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-monitor-3895ca97c1dd4f1994758144e85414fa",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the original file.The viewer version is intended exclusively for browser preview. In the Original format, the following are fully preserved:✔ full scene structure✔ unsimplified materials✔ accurate texture maps✔ correct object namesIf you intend to use the asset in a production environment, select the source file.Sci fi monitor with high quality textures",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/3895ca97c1dd4f1994758144e85414fa/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T14:16:23.607768",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 2
+}

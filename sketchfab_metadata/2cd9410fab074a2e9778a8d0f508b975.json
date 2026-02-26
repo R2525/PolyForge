@@ -1,0 +1,191 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-19T21:20:48.059499",
+    "embedUrl": "https://sketchfab.com/models/2cd9410fab074a2e9778a8d0f508b975/embed",
+    "faceCount": 129856,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/72eb2b1960364637901eacce19283624",
+        "label": "Free Standard",
+        "fullName": "Free Standard",
+        "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+        "url": "https://sketchfab.com/licenses",
+        "slug": "free-st"
+    },
+    "likeCount": 0,
+    "name": "Thor Helmet Marvel",
+    "publishedAt": "2026-01-19T21:23:24.327444",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "thor",
+            "slug": "thor",
+            "uri": "https://api.sketchfab.com/v3/tags/thor"
+        },
+        {
+            "name": "norse",
+            "slug": "norse",
+            "uri": "https://api.sketchfab.com/v3/tags/norse"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "helmet",
+            "slug": "helmet",
+            "uri": "https://api.sketchfab.com/v3/tags/helmet"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "263ed7588e964f7389e1c17271ee9865",
+                "width": 1920,
+                "height": 1080,
+                "size": 67274,
+                "url": "https://media.sketchfab.com/models/2cd9410fab074a2e9778a8d0f508b975/thumbnails/fb80b1f6f3b341d3a460ae6e94ee25e3/7095142f4f24413a8c410daf7d58bf8d.jpeg"
+            },
+            {
+                "uid": "8a9f4ca16b2245cab9c61e101073fa77",
+                "width": 1024,
+                "height": 576,
+                "size": 22329,
+                "url": "https://media.sketchfab.com/models/2cd9410fab074a2e9778a8d0f508b975/thumbnails/fb80b1f6f3b341d3a460ae6e94ee25e3/9213563ffc6d4be98a7800d23094ea91.jpeg"
+            },
+            {
+                "uid": "0ccf10d6080443d0a98cce06ddee8d0c",
+                "width": 720,
+                "height": 405,
+                "size": 13234,
+                "url": "https://media.sketchfab.com/models/2cd9410fab074a2e9778a8d0f508b975/thumbnails/fb80b1f6f3b341d3a460ae6e94ee25e3/fb4f255d87054556913a4afeaea8b67d.jpeg"
+            },
+            {
+                "uid": "958818d3f9594f8292a346f2cd94a6da",
+                "width": 256,
+                "height": 144,
+                "size": 3284,
+                "url": "https://media.sketchfab.com/models/2cd9410fab074a2e9778a8d0f508b975/thumbnails/fb80b1f6f3b341d3a460ae6e94ee25e3/d3239b6b236a4296af621caca3648d5d.jpeg"
+            },
+            {
+                "uid": "2bc48e2fbac94b4d8d50daadfacfcd15",
+                "width": 64,
+                "height": 36,
+                "size": 989,
+                "url": "https://media.sketchfab.com/models/2cd9410fab074a2e9778a8d0f508b975/thumbnails/fb80b1f6f3b341d3a460ae6e94ee25e3/65f3ac975f694b0f9e93e2d607804692.jpeg"
+            }
+        ]
+    },
+    "uid": "2cd9410fab074a2e9778a8d0f508b975",
+    "uri": "https://api.sketchfab.com/v3/models/2cd9410fab074a2e9778a8d0f508b975",
+    "user": {
+        "uid": "e21215b923904418afd04c0f4fc4c00f",
+        "username": "matuge2010",
+        "displayName": "matuge2010",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/matuge2010",
+        "avatar": {
+            "uid": "c91c2799d60a41ff88c455b7c36f4ce2",
+            "uri": "https://api.sketchfab.com/v3/avatars/c91c2799d60a41ff88c455b7c36f4ce2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1138,
+                    "url": "https://media.sketchfab.com/avatars/c91c2799d60a41ff88c455b7c36f4ce2/9cba6986a4f641e5b2386c69802063fb.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1712,
+                    "url": "https://media.sketchfab.com/avatars/c91c2799d60a41ff88c455b7c36f4ce2/97e1944380744c4f93de7438236399d8.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3923,
+                    "url": "https://media.sketchfab.com/avatars/c91c2799d60a41ff88c455b7c36f4ce2/5b214f5d2f2f4da08980699cf8232083.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4562,
+                    "url": "https://media.sketchfab.com/avatars/c91c2799d60a41ff88c455b7c36f4ce2/627cc32866894c69a989c00263022787.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e21215b923904418afd04c0f4fc4c00f"
+    },
+    "vertexCount": 63192,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/thor-helmet-marvel-2cd9410fab074a2e9778a8d0f508b975",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Thor's helmet from comics. All rights belong to Marvel Comics.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/2cd9410fab074a2e9778a8d0f508b975/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-19T21:23:56.814476",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

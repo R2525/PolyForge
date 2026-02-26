@@ -1,0 +1,230 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-02T08:37:45.389693",
+    "embedUrl": "https://sketchfab.com/models/3d8699013f16478b8fd00a479f476d40/embed",
+    "faceCount": 2588,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Fantasy Blue Heraldic Shield Low Poly Game PBR",
+    "publishedAt": "2026-01-02T09:14:56.102602",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "Heraldry",
+            "slug": "heraldry",
+            "uri": "https://api.sketchfab.com/v3/tags/heraldry"
+        },
+        {
+            "name": "medievalshield",
+            "slug": "medievalshield",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalshield"
+        },
+        {
+            "name": "fantasyshield",
+            "slug": "fantasyshield",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyshield"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "798372e993dd489687e40defd1826389",
+                "width": 1920,
+                "height": 1080,
+                "size": 116196,
+                "url": "https://media.sketchfab.com/models/3d8699013f16478b8fd00a479f476d40/thumbnails/39d030f10be743de83e1dcbcdb2734d4/5fd5318eb49d477d921817d160f72b38.jpeg"
+            },
+            {
+                "uid": "68eb17ca31d944a1a2a7c679cfe0b9f8",
+                "width": 1024,
+                "height": 576,
+                "size": 38422,
+                "url": "https://media.sketchfab.com/models/3d8699013f16478b8fd00a479f476d40/thumbnails/39d030f10be743de83e1dcbcdb2734d4/538ab83ccccd4e2da0a20f99d04c2521.jpeg"
+            },
+            {
+                "uid": "b8890e60280e4664af4d3859646c912a",
+                "width": 720,
+                "height": 405,
+                "size": 22502,
+                "url": "https://media.sketchfab.com/models/3d8699013f16478b8fd00a479f476d40/thumbnails/39d030f10be743de83e1dcbcdb2734d4/01b1097334de435a9e68d201d2f8a994.jpeg"
+            },
+            {
+                "uid": "ea07cddb0a9b4eab80025cb46a4e2aca",
+                "width": 256,
+                "height": 144,
+                "size": 4775,
+                "url": "https://media.sketchfab.com/models/3d8699013f16478b8fd00a479f476d40/thumbnails/39d030f10be743de83e1dcbcdb2734d4/7005436ab16e41bca2c267424653bddd.jpeg"
+            },
+            {
+                "uid": "780abf80389c42a18ff30d3e918d4b6d",
+                "width": 64,
+                "height": 36,
+                "size": 1122,
+                "url": "https://media.sketchfab.com/models/3d8699013f16478b8fd00a479f476d40/thumbnails/39d030f10be743de83e1dcbcdb2734d4/427f24afb199492f804e279ae73e6b55.jpeg"
+            }
+        ]
+    },
+    "uid": "3d8699013f16478b8fd00a479f476d40",
+    "uri": "https://api.sketchfab.com/v3/models/3d8699013f16478b8fd00a479f476d40",
+    "user": {
+        "uid": "bc34e8c7f56345faa1125c2bfe147272",
+        "username": "marius.negoita1669",
+        "displayName": "Maniro",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/marius.negoita1669",
+        "avatar": {
+            "uid": "f247085626eb424aae1276218c7cb3ce",
+            "uri": "https://api.sketchfab.com/v3/avatars/f247085626eb424aae1276218c7cb3ce",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1067,
+                    "url": "https://media.sketchfab.com/avatars/f247085626eb424aae1276218c7cb3ce/a46abd03d37b4ed29b04cef6961c4399.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1482,
+                    "url": "https://media.sketchfab.com/avatars/f247085626eb424aae1276218c7cb3ce/25690f9c4b58472abd282b4a1d853a93.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3473,
+                    "url": "https://media.sketchfab.com/avatars/f247085626eb424aae1276218c7cb3ce/169185bb1caa44f29f2115add62e0c7d.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4042,
+                    "url": "https://media.sketchfab.com/avatars/f247085626eb424aae1276218c7cb3ce/0dc563ca844044c98e9fc394ab80b541.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bc34e8c7f56345faa1125c2bfe147272"
+    },
+    "vertexCount": 1298,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/fantasy-blue-heraldic-shield-low-poly-game-pbr-3d8699013f16478b8fd00a479f476d40",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "High-quality low poly medieval fantasy shield  with clean quad-only topology and optimized PBR materials, created for real-time and game-ready workflows.\n\n Geometry\n\nHigh-quality polygonal models\n\nAccurate real-world scale and proportions\n\nLow poly, all-quads geometry\n\nClean topology with efficient edge flow\n\nSubdivision-ready (no creases, smooth results)\n\n🔹 Textures & Materials\n\nPhysically Based Rendering (PBR) workflow\n\nOptimized texture sets for real-time use\n\nIncluded maps:\n\nBase Color\n\nRoughness\n\nNormal\n\nMetallic\n\nAmbient Occlusion\n\n🔹 UVs\n\nNon-overlapping UVs\n\nProperly unwrapped and optimized for texturing\n\nThe complete version of this asset, including full 4K PBR textures and multiple file formats, is available here:\nTurbosquid Search for: \"Medieval Fantasy Shields Collection 3D Models Low Poly PBR 4K\" by 3Ddays\nCG Trader Search for: \"Fantasy Medieval Shield Collection Low Poly 3D Models 4K PBR 3D\" by 3DdaysStudio",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3d8699013f16478b8fd00a479f476d40/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-11T08:53:33.637300",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

@@ -1,0 +1,191 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-06T13:42:23.190326",
+    "embedUrl": "https://sketchfab.com/models/1a5d09196e854727883b340c7004d741/embed",
+    "faceCount": 2774,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Stylized Fantasy Sword",
+    "publishedAt": "2026-02-06T13:47:29.196609",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "leagueoflegends",
+            "slug": "leagueoflegends",
+            "uri": "https://api.sketchfab.com/v3/tags/leagueoflegends"
+        },
+        {
+            "name": "stylizedweapon",
+            "slug": "stylizedweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedweapon"
+        },
+        {
+            "name": "fanart3d",
+            "slug": "fanart3d",
+            "uri": "https://api.sketchfab.com/v3/tags/fanart3d"
+        },
+        {
+            "name": "bladed-weapon",
+            "slug": "bladed-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/bladed-weapon"
+        },
+        {
+            "name": "handpainted",
+            "slug": "handpainted",
+            "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1c9acd37809943d5a07be7435ae0e2ea",
+                "width": 1920,
+                "height": 1080,
+                "size": 53630,
+                "url": "https://media.sketchfab.com/models/1a5d09196e854727883b340c7004d741/thumbnails/2db0a206ae874ff29694a782f6df4f9a/14b9bc3482bd4b8dae3b3b7cda521e1a.jpeg"
+            },
+            {
+                "uid": "ff03f5f21e2c4324909ace8cd18303c2",
+                "width": 1024,
+                "height": 576,
+                "size": 18622,
+                "url": "https://media.sketchfab.com/models/1a5d09196e854727883b340c7004d741/thumbnails/2db0a206ae874ff29694a782f6df4f9a/60c9b14f878344fa9e96cae1fc2950a9.jpeg"
+            },
+            {
+                "uid": "49c12ef9e7384320a17d0cad0281dba1",
+                "width": 720,
+                "height": 405,
+                "size": 11055,
+                "url": "https://media.sketchfab.com/models/1a5d09196e854727883b340c7004d741/thumbnails/2db0a206ae874ff29694a782f6df4f9a/28be63940a424014bae277f06cbbb219.jpeg"
+            },
+            {
+                "uid": "0b628573f58a4816877817732b5de34a",
+                "width": 256,
+                "height": 144,
+                "size": 2686,
+                "url": "https://media.sketchfab.com/models/1a5d09196e854727883b340c7004d741/thumbnails/2db0a206ae874ff29694a782f6df4f9a/5ba787c9c85c4a78b05986dfd2cf2e26.jpeg"
+            },
+            {
+                "uid": "999284ad63e846ce9426bbd22a0539ee",
+                "width": 64,
+                "height": 36,
+                "size": 898,
+                "url": "https://media.sketchfab.com/models/1a5d09196e854727883b340c7004d741/thumbnails/2db0a206ae874ff29694a782f6df4f9a/2f32e326285e403d8ea3b2acdbd28131.jpeg"
+            }
+        ]
+    },
+    "uid": "1a5d09196e854727883b340c7004d741",
+    "uri": "https://api.sketchfab.com/v3/models/1a5d09196e854727883b340c7004d741",
+    "user": {
+        "uid": "d3a1a022f9944e07ba33b4b0bb9a5475",
+        "username": "ilwsq",
+        "displayName": "Spider-Pig",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ilwsq",
+        "avatar": {
+            "uid": "077af26aedcf470bb79158476f3e56f7",
+            "uri": "https://api.sketchfab.com/v3/avatars/077af26aedcf470bb79158476f3e56f7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2480,
+                    "url": "https://media.sketchfab.com/avatars/077af26aedcf470bb79158476f3e56f7/6c9ed2b121fe46549e09a321f4344ccf.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4960,
+                    "url": "https://media.sketchfab.com/avatars/077af26aedcf470bb79158476f3e56f7/005ceaf96a1645b5b05450f99057facc.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14324,
+                    "url": "https://media.sketchfab.com/avatars/077af26aedcf470bb79158476f3e56f7/a06ba2eded8f42f5bcce02ff01dd0c60.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 16977,
+                    "url": "https://media.sketchfab.com/avatars/077af26aedcf470bb79158476f3e56f7/6a521486bc2144a2a474b59e45dc0c7f.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d3a1a022f9944e07ba33b4b0bb9a5475"
+    },
+    "vertexCount": 1425,
+    "viewCount": 179,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-fantasy-sword-1a5d09196e854727883b340c7004d741",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is a 3-day personal project where I focused on improving my hand-painted texturing skills.\nConcept:https://www.artstation.com/artwork/Wmnm63",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/1a5d09196e854727883b340c7004d741/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-06T13:47:29.526634",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

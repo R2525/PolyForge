@@ -1,0 +1,43 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty"
+    ],
+    "tags": [
+        "door handle",
+        "knocker",
+        "iron",
+        "furniture",
+        "home",
+        "antique",
+        "old",
+        "decorative"
+    ],
+    "model_id_full": "348bda91eb6241fea10dcaabbfe6dcd4_Door Handle Knocker Iron",
+    "sketchfab_id": "348bda91eb6241fea10dcaabbfe6dcd4",
+    "asset_name": "Door Handle Knocker Iron"
+}

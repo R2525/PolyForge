@@ -1,0 +1,196 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-29T18:16:20.629772",
+    "embedUrl": "https://sketchfab.com/models/3ae77627a5c24bd89fd8acc9a2000f71/embed",
+    "faceCount": 2191074,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Freshford: St Lachtain's Doorway",
+    "publishedAt": "2025-12-29T18:26:23.788118",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "sandstone",
+            "slug": "sandstone",
+            "uri": "https://api.sketchfab.com/v3/tags/sandstone"
+        },
+        {
+            "name": "church",
+            "slug": "church",
+            "uri": "https://api.sketchfab.com/v3/tags/church"
+        },
+        {
+            "name": "kilkenny3d",
+            "slug": "kilkenny3d",
+            "uri": "https://api.sketchfab.com/v3/tags/kilkenny3d"
+        },
+        {
+            "name": "kiriengine",
+            "slug": "kiriengine",
+            "uri": "https://api.sketchfab.com/v3/tags/kiriengine"
+        },
+        {
+            "name": "romanesque-architecture",
+            "slug": "romanesque-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/romanesque-architecture"
+        },
+        {
+            "name": "smr-ie",
+            "slug": "smr-ie",
+            "uri": "https://api.sketchfab.com/v3/tags/smr-ie"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "58d60155c875493cae89d0e09d1ac41b",
+                "width": 1920,
+                "height": 1080,
+                "size": 274183,
+                "url": "https://media.sketchfab.com/models/3ae77627a5c24bd89fd8acc9a2000f71/thumbnails/6a88d72a0e174f4e950469c744d9baba/db52b95fd3d64008bf787918126fd351.jpeg"
+            },
+            {
+                "uid": "565c6902a02f482f9fcfb17ac8fcd18b",
+                "width": 1024,
+                "height": 576,
+                "size": 81209,
+                "url": "https://media.sketchfab.com/models/3ae77627a5c24bd89fd8acc9a2000f71/thumbnails/6a88d72a0e174f4e950469c744d9baba/978e7ad5f9764c8b96b40856047c0671.jpeg"
+            },
+            {
+                "uid": "df49461a54e14bb288b42663ec8fd952",
+                "width": 720,
+                "height": 405,
+                "size": 44532,
+                "url": "https://media.sketchfab.com/models/3ae77627a5c24bd89fd8acc9a2000f71/thumbnails/6a88d72a0e174f4e950469c744d9baba/5fd313d226ef4190aa649cef503b5123.jpeg"
+            },
+            {
+                "uid": "be1025e6a6ed4e4e9851c6e32f29e666",
+                "width": 256,
+                "height": 144,
+                "size": 7566,
+                "url": "https://media.sketchfab.com/models/3ae77627a5c24bd89fd8acc9a2000f71/thumbnails/6a88d72a0e174f4e950469c744d9baba/3e20b04bca57465fa4503fe14b7b554d.jpeg"
+            },
+            {
+                "uid": "2967081bb2ce46b6b1e0e32421726ea9",
+                "width": 64,
+                "height": 36,
+                "size": 1251,
+                "url": "https://media.sketchfab.com/models/3ae77627a5c24bd89fd8acc9a2000f71/thumbnails/6a88d72a0e174f4e950469c744d9baba/25c1a9529269401c8192c694cba91d43.jpeg"
+            }
+        ]
+    },
+    "uid": "3ae77627a5c24bd89fd8acc9a2000f71",
+    "uri": "https://api.sketchfab.com/v3/models/3ae77627a5c24bd89fd8acc9a2000f71",
+    "user": {
+        "uid": "4d9ac526066f4adc90a32dd57ddc42dc",
+        "username": "b-unicycling",
+        "displayName": "b-unicycling",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/b-unicycling",
+        "avatar": {
+            "uid": "6993d14140a241a9ac3a5b48ab9b6abc",
+            "uri": "https://api.sketchfab.com/v3/avatars/6993d14140a241a9ac3a5b48ab9b6abc",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2335,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/6baf43359e634dba8122684a52e0bb72.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4058,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/7977252be95f4b3a82341af4778882b4.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8726,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/ec8ce19d537049fdba0a5421e7a38503.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10011,
+                    "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/e554dd6be43a4b3f9089c549228edb8c.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4d9ac526066f4adc90a32dd57ddc42dc"
+    },
+    "vertexCount": 1097155,
+    "viewCount": 32,
+    "viewerUrl": "https://sketchfab.com/3d-models/freshford-st-lachtains-doorway-3ae77627a5c24bd89fd8acc9a2000f71",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Bottom part of the romanesque doorway of St Lachtain's Church of Ireland Church in Freshford. a spontaneous project while I was waiting for the bus. The doorway is quite weathered, but there is still an amazing amount of detail to discover. I might go again, take more photographs and re-upload here.\n\nSMR no. (for church): KK013-023001-\n\n110 photographs with Nikon D7000, processed in KiriEngine and cleaned with MeshLab.",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/3ae77627a5c24bd89fd8acc9a2000f71/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-29T19:12:18.472834",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 2
+}

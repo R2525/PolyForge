@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-12-15T12:13:09.435773",
+    "embedUrl": "https://sketchfab.com/models/1e38b33277c14114b447de9c27f3ee7d/embed",
+    "faceCount": 18186,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 11,
+    "name": "DCA/PLK 57mm (WARNO)",
+    "publishedAt": "2025-12-15T14:08:55.836869",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d64349d0125b447fad140c98e8d63289",
+                "width": 1920,
+                "height": 1080,
+                "size": 54607,
+                "url": "https://media.sketchfab.com/models/1e38b33277c14114b447de9c27f3ee7d/thumbnails/487d175525ad44f2ac82cc4b130c3925/0b7ecafbf3984517960795bb3573f72f.jpeg"
+            },
+            {
+                "uid": "6aef4a2ed41c434f93eb41371d4908e9",
+                "width": 1024,
+                "height": 576,
+                "size": 17175,
+                "url": "https://media.sketchfab.com/models/1e38b33277c14114b447de9c27f3ee7d/thumbnails/487d175525ad44f2ac82cc4b130c3925/3861510fbd0045aea58afa02acb76e3e.jpeg"
+            },
+            {
+                "uid": "f23c4661471a45dc8770850efb335724",
+                "width": 720,
+                "height": 405,
+                "size": 9807,
+                "url": "https://media.sketchfab.com/models/1e38b33277c14114b447de9c27f3ee7d/thumbnails/487d175525ad44f2ac82cc4b130c3925/9f52525c7fe548868b0b6188f03e1cf4.jpeg"
+            },
+            {
+                "uid": "c963853ffc074f16972e92ae6a683ff5",
+                "width": 256,
+                "height": 144,
+                "size": 2226,
+                "url": "https://media.sketchfab.com/models/1e38b33277c14114b447de9c27f3ee7d/thumbnails/487d175525ad44f2ac82cc4b130c3925/e0a13a2bf5d6413ca6c9688f50af6209.jpeg"
+            },
+            {
+                "uid": "69352380a0ac4d2691fd4ec067abe116",
+                "width": 64,
+                "height": 36,
+                "size": 848,
+                "url": "https://media.sketchfab.com/models/1e38b33277c14114b447de9c27f3ee7d/thumbnails/487d175525ad44f2ac82cc4b130c3925/7b4997aa85f140d3b3f7665c24091d11.jpeg"
+            }
+        ]
+    },
+    "uid": "1e38b33277c14114b447de9c27f3ee7d",
+    "uri": "https://api.sketchfab.com/v3/models/1e38b33277c14114b447de9c27f3ee7d",
+    "user": {
+        "uid": "85f702e7998044b8b856bd10c6f48778",
+        "username": "KojfDiscord",
+        "displayName": "KojfDiscord",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/KojfDiscord",
+        "avatar": {
+            "uid": "d4b1101d955e449cb6d92c0c0c3cb4d0",
+            "uri": "https://api.sketchfab.com/v3/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1207,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/fd0850c6e13f463083f350c151d94de2.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1888,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/b1b01ae81f3042d4a15bcc8172b28a8a.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4524,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/4e5efc15c69a417ba2eb0bab579b27d3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5180,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/07fd657217a44f10aee40cf096ee0193.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/85f702e7998044b8b856bd10c6f48778"
+    },
+    "vertexCount": 11267,
+    "viewCount": 146,
+    "viewerUrl": "https://sketchfab.com/3d-models/dcaplk-57mm-warno-1e38b33277c14114b447de9c27f3ee7d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 49,
+    "editorUrl": "https://sketchfab.com/models/1e38b33277c14114b447de9c27f3ee7d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-15T14:08:55.966391",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 1
+}

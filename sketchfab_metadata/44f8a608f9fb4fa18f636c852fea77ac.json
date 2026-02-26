@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T16:35:39.516223",
+    "embedUrl": "https://sketchfab.com/models/44f8a608f9fb4fa18f636c852fea77ac/embed",
+    "faceCount": 16208,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Stylized Stones V2",
+    "publishedAt": "2026-02-19T16:39:07.568410",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cartoony",
+            "slug": "cartoony",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoony"
+        },
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "moss",
+            "slug": "moss",
+            "uri": "https://api.sketchfab.com/v3/tags/moss"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "rock",
+            "slug": "rock",
+            "uri": "https://api.sketchfab.com/v3/tags/rock"
+        },
+        {
+            "name": "stylizedstone",
+            "slug": "stylizedstone",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedstone"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "42addd6d9e8a4660a976168d0e8b3ad9",
+                "width": 1920,
+                "height": 1080,
+                "size": 67088,
+                "url": "https://media.sketchfab.com/models/44f8a608f9fb4fa18f636c852fea77ac/thumbnails/f78d49467fd54e94801ba234572f1269/5967e6667e1e4d009d0aac90448c519b.jpeg"
+            },
+            {
+                "uid": "4b5d832cf3144a1488a80855dd472d04",
+                "width": 1024,
+                "height": 576,
+                "size": 21735,
+                "url": "https://media.sketchfab.com/models/44f8a608f9fb4fa18f636c852fea77ac/thumbnails/f78d49467fd54e94801ba234572f1269/c140c566457b460cb38d8946e720020c.jpeg"
+            },
+            {
+                "uid": "2c26f09a9f294dbfa517c557cfe90a0a",
+                "width": 720,
+                "height": 405,
+                "size": 12455,
+                "url": "https://media.sketchfab.com/models/44f8a608f9fb4fa18f636c852fea77ac/thumbnails/f78d49467fd54e94801ba234572f1269/f85136d9640a44fab950d4e3b67cba26.jpeg"
+            },
+            {
+                "uid": "896b391b0a734f1ba7d4b124b323287d",
+                "width": 256,
+                "height": 144,
+                "size": 2845,
+                "url": "https://media.sketchfab.com/models/44f8a608f9fb4fa18f636c852fea77ac/thumbnails/f78d49467fd54e94801ba234572f1269/1807fd2ebdcf45b597cf4a03c1409553.jpeg"
+            },
+            {
+                "uid": "942d45bab3c94de9a0eb80b2df1bbb0c",
+                "width": 64,
+                "height": 36,
+                "size": 1001,
+                "url": "https://media.sketchfab.com/models/44f8a608f9fb4fa18f636c852fea77ac/thumbnails/f78d49467fd54e94801ba234572f1269/1f4047fae87845e2bf99153697b8bfce.jpeg"
+            }
+        ]
+    },
+    "uid": "44f8a608f9fb4fa18f636c852fea77ac",
+    "uri": "https://api.sketchfab.com/v3/models/44f8a608f9fb4fa18f636c852fea77ac",
+    "user": {
+        "uid": "8228eda2f1e848a78fb95b09c1c7f77a",
+        "username": "RobinDong",
+        "displayName": "RobinDong",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/RobinDong",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8228eda2f1e848a78fb95b09c1c7f77a"
+    },
+    "vertexCount": 8110,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-stones-v2-44f8a608f9fb4fa18f636c852fea77ac",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Stylzied Environment Stones with moss. YOU CAN CHANGE HUE AND VALUE OF MOSS IN THE IF YOU NEED IT. 2K TEXTUREChange materoal for second look",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/44f8a608f9fb4fa18f636c852fea77ac/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T16:39:07.776601",
+    "pbrType": null,
+    "textureCount": 9,
+    "materialCount": 3
+}

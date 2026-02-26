@@ -1,0 +1,69 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Victorian",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Rustic",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.5
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Dusty",
+        "Rusted",
+        "Mossy",
+        "Cracked"
+    ],
+    "tags": [
+        "wooden",
+        "crate",
+        "medieval",
+        "box",
+        "storage",
+        "furniture",
+        "rusted",
+        "old"
+    ],
+    "model_id_full": "198e9f37064f404699f4e4bc166f1757_Medieval Box 1",
+    "sketchfab_id": "198e9f37064f404699f4e4bc166f1757",
+    "asset_name": "Medieval Box 1"
+}

@@ -1,0 +1,155 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-05-13T01:25:00.368201",
+    "embedUrl": "https://sketchfab.com/models/008bebd860bb4affb47b373165e764f9/embed",
+    "faceCount": 9540,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 4,
+    "name": "Robot",
+    "publishedAt": "2025-05-14T01:01:46.490245",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "3dart",
+            "slug": "3dart",
+            "uri": "https://api.sketchfab.com/v3/tags/3dart"
+        },
+        {
+            "name": "ghibli-studio",
+            "slug": "ghibli-studio",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli-studio"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "sky-castle",
+            "slug": "sky-castle",
+            "uri": "https://api.sketchfab.com/v3/tags/sky-castle"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e6e11781ba8247e1908e8f0ccae322d5",
+                "width": 1920,
+                "height": 1080,
+                "size": 135097,
+                "url": "https://media.sketchfab.com/models/008bebd860bb4affb47b373165e764f9/thumbnails/1604dc3f694d44d4a1294694d51c3e42/a5e6be04a82145f88f656dc53e79d6f0.jpeg"
+            },
+            {
+                "uid": "7cdda9cfe5ad4f99b1044a4ed9b56bd6",
+                "width": 1024,
+                "height": 576,
+                "size": 43824,
+                "url": "https://media.sketchfab.com/models/008bebd860bb4affb47b373165e764f9/thumbnails/1604dc3f694d44d4a1294694d51c3e42/1c67355df0294edebc769f2a04077706.jpeg"
+            },
+            {
+                "uid": "11b1c739bea04402975686dcc61ee0b6",
+                "width": 720,
+                "height": 405,
+                "size": 25622,
+                "url": "https://media.sketchfab.com/models/008bebd860bb4affb47b373165e764f9/thumbnails/1604dc3f694d44d4a1294694d51c3e42/89e389a35ec946b8aa08c8ae5bc5a417.jpeg"
+            },
+            {
+                "uid": "6dffef9d82c1492f86be43a638624482",
+                "width": 256,
+                "height": 144,
+                "size": 5430,
+                "url": "https://media.sketchfab.com/models/008bebd860bb4affb47b373165e764f9/thumbnails/1604dc3f694d44d4a1294694d51c3e42/e654a0d1d5744fc8baeea518cd9556cd.jpeg"
+            },
+            {
+                "uid": "f49e010a60fc48829516f945492a251e",
+                "width": 64,
+                "height": 36,
+                "size": 1356,
+                "url": "https://media.sketchfab.com/models/008bebd860bb4affb47b373165e764f9/thumbnails/1604dc3f694d44d4a1294694d51c3e42/6c3e0d5ba25f4acd92f7674115b67e43.jpeg"
+            }
+        ]
+    },
+    "uid": "008bebd860bb4affb47b373165e764f9",
+    "uri": "https://api.sketchfab.com/v3/models/008bebd860bb4affb47b373165e764f9",
+    "user": {
+        "uid": "575e79fe36a34fec91bb247fbcaf09d8",
+        "username": "mafelopez",
+        "displayName": "Maria Fernanda Lopez",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mafelopez",
+        "avatar": {
+            "uid": "46ee1fc2452d4b4c81a80405e48868f7",
+            "uri": "https://api.sketchfab.com/v3/avatars/46ee1fc2452d4b4c81a80405e48868f7",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1138,
+                    "url": "https://media.sketchfab.com/avatars/46ee1fc2452d4b4c81a80405e48868f7/c9028d81e7ce4c33bdbfe0bd71a1377b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1660,
+                    "url": "https://media.sketchfab.com/avatars/46ee1fc2452d4b4c81a80405e48868f7/c6a3017c62a64b2fa92f3f4910609f5e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3609,
+                    "url": "https://media.sketchfab.com/avatars/46ee1fc2452d4b4c81a80405e48868f7/75f292b347c84696b9bafa53bf40cfc0.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4140,
+                    "url": "https://media.sketchfab.com/avatars/46ee1fc2452d4b4c81a80405e48868f7/4749c2d64c804b3d8ce0f1e47385bcbf.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/575e79fe36a34fec91bb247fbcaf09d8"
+    },
+    "vertexCount": 5133,
+    "viewCount": 62,
+    "viewerUrl": "https://sketchfab.com/3d-models/robot-008bebd860bb4affb47b373165e764f9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Hola, este es un proyecto que hice para un evento universitario \nEl modelo esta inspirado en el robot de la pelicula de Studio Ghibli Castillo en el cielo\nHoras de trabajo: 12h\nProgramas usados: Maya, substance Painter.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/008bebd860bb4affb47b373165e764f9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-05-14T01:01:46.645710",
+    "pbrType": "metalness",
+    "textureCount": 19,
+    "materialCount": 6
+}

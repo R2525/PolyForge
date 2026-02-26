@@ -1,0 +1,68 @@
+{
+    "category": "Cultural Heritage & History",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Historical",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Antique",
+            "score": 0.7
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Gothic",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Polished"
+    ],
+    "tags": [
+        "key",
+        "copper",
+        "antique",
+        "historical",
+        "key-shaped",
+        "old",
+        "metal",
+        "decorative"
+    ],
+    "model_id_full": "4b4ff0b9c28c45528553ea3f30692305_key_copper",
+    "sketchfab_id": "4b4ff0b9c28c45528553ea3f30692305",
+    "asset_name": "key_copper"
+}

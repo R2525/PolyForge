@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-17T17:31:03.453343",
+    "embedUrl": "https://sketchfab.com/models/44809ce84fa44d129c4f017724605ec6/embed",
+    "faceCount": 5026,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Crossbow",
+    "publishedAt": "2025-12-17T17:40:53.479632",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "crossbow",
+            "slug": "crossbow",
+            "uri": "https://api.sketchfab.com/v3/tags/crossbow"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "arc",
+            "slug": "arc",
+            "uri": "https://api.sketchfab.com/v3/tags/arc"
+        },
+        {
+            "name": "ballesta",
+            "slug": "ballesta",
+            "uri": "https://api.sketchfab.com/v3/tags/ballesta"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8e231f7ea8be4269a83fb6e286d81e20",
+                "width": 1920,
+                "height": 1080,
+                "size": 151767,
+                "url": "https://media.sketchfab.com/models/44809ce84fa44d129c4f017724605ec6/thumbnails/723ffd0c617b40919951a6528b1c04c5/f735c060d71c4fb18c7444efb3130d42.jpeg"
+            },
+            {
+                "uid": "31c6a8353d7d475baa5b41387ea1377d",
+                "width": 1024,
+                "height": 576,
+                "size": 41082,
+                "url": "https://media.sketchfab.com/models/44809ce84fa44d129c4f017724605ec6/thumbnails/723ffd0c617b40919951a6528b1c04c5/6b3cb94ca4434660be2a9f2368454e4c.jpeg"
+            },
+            {
+                "uid": "531e545b89a04769bb972333def9f585",
+                "width": 720,
+                "height": 405,
+                "size": 24088,
+                "url": "https://media.sketchfab.com/models/44809ce84fa44d129c4f017724605ec6/thumbnails/723ffd0c617b40919951a6528b1c04c5/6bbfdf80f4a843e286568634a21ab4c6.jpeg"
+            },
+            {
+                "uid": "7a5b2b2ce26b422180c809239245be57",
+                "width": 256,
+                "height": 144,
+                "size": 5139,
+                "url": "https://media.sketchfab.com/models/44809ce84fa44d129c4f017724605ec6/thumbnails/723ffd0c617b40919951a6528b1c04c5/8580cc19defa482db2710f809ddbdb2b.jpeg"
+            },
+            {
+                "uid": "b683d4578b684c74bb1dc9c04bbfa816",
+                "width": 64,
+                "height": 36,
+                "size": 1167,
+                "url": "https://media.sketchfab.com/models/44809ce84fa44d129c4f017724605ec6/thumbnails/723ffd0c617b40919951a6528b1c04c5/2a1bd8d0f13c4a15b7a49fb33fe5d597.jpeg"
+            }
+        ]
+    },
+    "uid": "44809ce84fa44d129c4f017724605ec6",
+    "uri": "https://api.sketchfab.com/v3/models/44809ce84fa44d129c4f017724605ec6",
+    "user": {
+        "uid": "75b78b802e1d4a8797cd52fec7dc563f",
+        "username": "salazar-3d",
+        "displayName": "Salazar 3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/salazar-3d",
+        "avatar": {
+            "uid": "d6e6ac4fb7214fea8397af87fbc52538",
+            "uri": "https://api.sketchfab.com/v3/avatars/d6e6ac4fb7214fea8397af87fbc52538",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1957,
+                    "url": "https://media.sketchfab.com/avatars/d6e6ac4fb7214fea8397af87fbc52538/b7040a0c86f44a20aab3bf5569697afc.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3791,
+                    "url": "https://media.sketchfab.com/avatars/d6e6ac4fb7214fea8397af87fbc52538/42ace9cb66db44ad9cef21e0e029a6cb.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 10727,
+                    "url": "https://media.sketchfab.com/avatars/d6e6ac4fb7214fea8397af87fbc52538/11e2e844145c4f90aa00132243777a87.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 12745,
+                    "url": "https://media.sketchfab.com/avatars/d6e6ac4fb7214fea8397af87fbc52538/57af2f7097624346961829cc998a22f4.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/75b78b802e1d4a8797cd52fec7dc563f"
+    },
+    "vertexCount": 2796,
+    "viewCount": 28,
+    "viewerUrl": "https://sketchfab.com/3d-models/crossbow-44809ce84fa44d129c4f017724605ec6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Ballesta estilizada desarrollada como práctica de asset 3D para videojuegos. Modelada en Maya y texturizada en Substance Painter. El objetivo fue lograr una estética detallada sin comprometer la optimización para entornos en tiempo real.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/44809ce84fa44d129c4f017724605ec6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-17T17:40:53.721756",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

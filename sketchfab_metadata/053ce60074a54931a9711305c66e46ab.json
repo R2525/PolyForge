@@ -1,0 +1,214 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 5,
+    "createdAt": "2025-11-28T19:48:07.010511",
+    "embedUrl": "https://sketchfab.com/models/053ce60074a54931a9711305c66e46ab/embed",
+    "faceCount": 386796,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 3,
+    "name": "Nanotyrannus Lancensis Skull",
+    "publishedAt": "2025-11-28T19:51:59.667054",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "nano",
+            "slug": "nano",
+            "uri": "https://api.sketchfab.com/v3/tags/nano"
+        },
+        {
+            "name": "t.rex",
+            "slug": "trex",
+            "uri": "https://api.sketchfab.com/v3/tags/trex"
+        },
+        {
+            "name": "bone",
+            "slug": "bone",
+            "uri": "https://api.sketchfab.com/v3/tags/bone"
+        },
+        {
+            "name": "rex",
+            "slug": "rex",
+            "uri": "https://api.sketchfab.com/v3/tags/rex"
+        },
+        {
+            "name": "Fossil",
+            "slug": "fossil",
+            "uri": "https://api.sketchfab.com/v3/tags/fossil"
+        },
+        {
+            "name": "paleontology",
+            "slug": "paleontology",
+            "uri": "https://api.sketchfab.com/v3/tags/paleontology"
+        },
+        {
+            "name": "Tyrannosaurus",
+            "slug": "tyrannosaurus",
+            "uri": "https://api.sketchfab.com/v3/tags/tyrannosaurus"
+        },
+        {
+            "name": "Paleo",
+            "slug": "paleo",
+            "uri": "https://api.sketchfab.com/v3/tags/paleo"
+        },
+        {
+            "name": "nanotyrannus",
+            "slug": "nanotyrannus",
+            "uri": "https://api.sketchfab.com/v3/tags/nanotyrannus"
+        },
+        {
+            "name": "skull",
+            "slug": "skull",
+            "uri": "https://api.sketchfab.com/v3/tags/skull"
+        },
+        {
+            "name": "dinosaur",
+            "slug": "dinosaur",
+            "uri": "https://api.sketchfab.com/v3/tags/dinosaur"
+        },
+        {
+            "name": "lancensis",
+            "slug": "lancensis",
+            "uri": "https://api.sketchfab.com/v3/tags/lancensis"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c743d30edc184fdb9857a0840b1a9874",
+                "width": 1920,
+                "height": 1080,
+                "size": 55470,
+                "url": "https://media.sketchfab.com/models/053ce60074a54931a9711305c66e46ab/thumbnails/90ecad0fed504d209aeb1212c82f11f2/45effa70048b4c049a244e45feec3ded.jpeg"
+            },
+            {
+                "uid": "b872a87d4a8d42a6bf429ee0f1d23540",
+                "width": 1024,
+                "height": 576,
+                "size": 18536,
+                "url": "https://media.sketchfab.com/models/053ce60074a54931a9711305c66e46ab/thumbnails/90ecad0fed504d209aeb1212c82f11f2/00cd45ccee9143d198a5b9886ffe6776.jpeg"
+            },
+            {
+                "uid": "26062331f95f4ea4b9a7242e9e4d1cb8",
+                "width": 720,
+                "height": 405,
+                "size": 10829,
+                "url": "https://media.sketchfab.com/models/053ce60074a54931a9711305c66e46ab/thumbnails/90ecad0fed504d209aeb1212c82f11f2/66e6864e16e7409eb2c9cd41a071f899.jpeg"
+            },
+            {
+                "uid": "250f2950ab374226855c05403378e7af",
+                "width": 256,
+                "height": 144,
+                "size": 2537,
+                "url": "https://media.sketchfab.com/models/053ce60074a54931a9711305c66e46ab/thumbnails/90ecad0fed504d209aeb1212c82f11f2/24598fa802c04635b48a9e29dad28699.jpeg"
+            },
+            {
+                "uid": "fc68fbdffc37423b83a9ddad5694d868",
+                "width": 64,
+                "height": 36,
+                "size": 874,
+                "url": "https://media.sketchfab.com/models/053ce60074a54931a9711305c66e46ab/thumbnails/90ecad0fed504d209aeb1212c82f11f2/9ddc1993d860464d9e0c128b622d5e16.jpeg"
+            }
+        ]
+    },
+    "uid": "053ce60074a54931a9711305c66e46ab",
+    "uri": "https://api.sketchfab.com/v3/models/053ce60074a54931a9711305c66e46ab",
+    "user": {
+        "uid": "ce49ccbb332045e78fadcbb4674310e1",
+        "username": "NachoRaptor",
+        "displayName": "NachoRaptor",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/NachoRaptor",
+        "avatar": {
+            "uid": "78b3fee9cb4c43adb5c9caa29e3d18a9",
+            "uri": "https://api.sketchfab.com/v3/avatars/78b3fee9cb4c43adb5c9caa29e3d18a9",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1750,
+                    "url": "https://media.sketchfab.com/avatars/78b3fee9cb4c43adb5c9caa29e3d18a9/f2d781c3057948939f9b749f5e20a1cb.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3217,
+                    "url": "https://media.sketchfab.com/avatars/78b3fee9cb4c43adb5c9caa29e3d18a9/2758a2649d6e4ad4a9b97d9bb486ee38.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9057,
+                    "url": "https://media.sketchfab.com/avatars/78b3fee9cb4c43adb5c9caa29e3d18a9/018c44e12ea24a8b8e737f3c0159792a.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10829,
+                    "url": "https://media.sketchfab.com/avatars/78b3fee9cb4c43adb5c9caa29e3d18a9/697d39283a1843f392fbf2124b586b78.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ce49ccbb332045e78fadcbb4674310e1"
+    },
+    "vertexCount": 193376,
+    "viewCount": 269,
+    "viewerUrl": "https://sketchfab.com/3d-models/nanotyrannus-lancensis-skull-053ce60074a54931a9711305c66e46ab",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "The skull of an adolescent N. Lancensis based on the holotype. Warping and deterioration undone with references from \"Warhammer\". Made in Blender with Geometry nodes. No braincase as of yet.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/053ce60074a54931a9711305c66e46ab/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-28T19:54:56.369724",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

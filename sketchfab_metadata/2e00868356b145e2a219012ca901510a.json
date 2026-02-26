@@ -1,0 +1,176 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T03:58:23.525385",
+    "embedUrl": "https://sketchfab.com/models/2e00868356b145e2a219012ca901510a/embed",
+    "faceCount": 2580,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Tombstone",
+    "publishedAt": "2026-02-23T03:59:25.321450",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "game-asset",
+            "slug": "game-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+        },
+        {
+            "name": "gamedev-3dmodel",
+            "slug": "gamedev-3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/gamedev-3dmodel"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "eca0737bd54a4db99ca7698a3e223394",
+                "width": 1920,
+                "height": 1080,
+                "size": 51778,
+                "url": "https://media.sketchfab.com/models/2e00868356b145e2a219012ca901510a/thumbnails/3d620767ad494cd39f1a8bc25de9ad67/1525ca591a0d4f58b27fea2e33d19a5a.jpeg"
+            },
+            {
+                "uid": "a6f0f705425a4862998ac5fcda4b8254",
+                "width": 1024,
+                "height": 576,
+                "size": 16298,
+                "url": "https://media.sketchfab.com/models/2e00868356b145e2a219012ca901510a/thumbnails/3d620767ad494cd39f1a8bc25de9ad67/94004c8a2d854f01bb433bcb41024d3a.jpeg"
+            },
+            {
+                "uid": "66931952bce641e6822d15d336f63567",
+                "width": 720,
+                "height": 405,
+                "size": 9511,
+                "url": "https://media.sketchfab.com/models/2e00868356b145e2a219012ca901510a/thumbnails/3d620767ad494cd39f1a8bc25de9ad67/12873b4b041e4aa29b9364b14c9eab77.jpeg"
+            },
+            {
+                "uid": "1f884d1208cd448ca897985cd763862e",
+                "width": 256,
+                "height": 144,
+                "size": 2322,
+                "url": "https://media.sketchfab.com/models/2e00868356b145e2a219012ca901510a/thumbnails/3d620767ad494cd39f1a8bc25de9ad67/7ae18de8caa8428c8e57c2005d2be34a.jpeg"
+            },
+            {
+                "uid": "b899f70928e842c6953639a3ca1d4ca0",
+                "width": 64,
+                "height": 36,
+                "size": 827,
+                "url": "https://media.sketchfab.com/models/2e00868356b145e2a219012ca901510a/thumbnails/3d620767ad494cd39f1a8bc25de9ad67/aa917a5e673646cc91acd423fb30e443.jpeg"
+            }
+        ]
+    },
+    "uid": "2e00868356b145e2a219012ca901510a",
+    "uri": "https://api.sketchfab.com/v3/models/2e00868356b145e2a219012ca901510a",
+    "user": {
+        "uid": "0904e61ea1bf49c1a9d472c0f77fbd80",
+        "username": "BladeSky20",
+        "displayName": "Ilmanna",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/BladeSky20",
+        "avatar": {
+            "uid": "cf73798d64b3458baa6e8c1f9636b00d",
+            "uri": "https://api.sketchfab.com/v3/avatars/cf73798d64b3458baa6e8c1f9636b00d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1112,
+                    "url": "https://media.sketchfab.com/avatars/cf73798d64b3458baa6e8c1f9636b00d/631cdaef652644e7a98fcf6ee45f779b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1511,
+                    "url": "https://media.sketchfab.com/avatars/cf73798d64b3458baa6e8c1f9636b00d/a41d6e4a15a94e5b9e0e16b3d984fe14.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2858,
+                    "url": "https://media.sketchfab.com/avatars/cf73798d64b3458baa6e8c1f9636b00d/56649d75fbf84eeb910b539ede19b813.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3235,
+                    "url": "https://media.sketchfab.com/avatars/cf73798d64b3458baa6e8c1f9636b00d/d5438b8e1ee34303b4151eac0e71886a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0904e61ea1bf49c1a9d472c0f77fbd80"
+    },
+    "vertexCount": 1288,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/tombstone-2e00868356b145e2a219012ca901510a",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Game Assets for IGJ 2026, Tombstones Halloween, Horror game Props",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/2e00868356b145e2a219012ca901510a/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T03:59:25.465028",
+    "pbrType": null,
+    "textureCount": 10,
+    "materialCount": 5
+}

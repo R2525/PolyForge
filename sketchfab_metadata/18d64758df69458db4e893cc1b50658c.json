@@ -1,0 +1,194 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T05:12:20.041032",
+    "embedUrl": "https://sketchfab.com/models/18d64758df69458db4e893cc1b50658c/embed",
+    "faceCount": 210472,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Rook",
+    "publishedAt": "2026-02-11T05:26:12.546069",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "boardgame",
+            "slug": "boardgame",
+            "uri": "https://api.sketchfab.com/v3/tags/boardgame"
+        },
+        {
+            "name": "3dprintable",
+            "slug": "3dprintable",
+            "uri": "https://api.sketchfab.com/v3/tags/3dprintable"
+        },
+        {
+            "name": "rook",
+            "slug": "rook",
+            "uri": "https://api.sketchfab.com/v3/tags/rook"
+        },
+        {
+            "name": "collectible",
+            "slug": "collectible",
+            "uri": "https://api.sketchfab.com/v3/tags/collectible"
+        },
+        {
+            "name": "fortress",
+            "slug": "fortress",
+            "uri": "https://api.sketchfab.com/v3/tags/fortress"
+        },
+        {
+            "name": "chess",
+            "slug": "chess",
+            "uri": "https://api.sketchfab.com/v3/tags/chess"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9fe212f27597453894cf54c713550859",
+                "width": 1920,
+                "height": 1080,
+                "size": 187429,
+                "url": "https://media.sketchfab.com/models/18d64758df69458db4e893cc1b50658c/thumbnails/d33491859b314a759e2567b26e9b173e/ae4a7526f0bc423183e67c7dc4b772fb.jpeg"
+            },
+            {
+                "uid": "5d745cd6c8a14b2a8d86804b33d8dd23",
+                "width": 1024,
+                "height": 576,
+                "size": 44400,
+                "url": "https://media.sketchfab.com/models/18d64758df69458db4e893cc1b50658c/thumbnails/d33491859b314a759e2567b26e9b173e/f1c2e882fe0b46bc8553780052a51c2e.jpeg"
+            },
+            {
+                "uid": "922de185e8e34d05b26881071e1e60fc",
+                "width": 720,
+                "height": 405,
+                "size": 23222,
+                "url": "https://media.sketchfab.com/models/18d64758df69458db4e893cc1b50658c/thumbnails/d33491859b314a759e2567b26e9b173e/158ba2eaf35f41a8af606be17115d696.jpeg"
+            },
+            {
+                "uid": "1d2db1046cb14dd2b70106efcc5b6fc6",
+                "width": 256,
+                "height": 144,
+                "size": 4207,
+                "url": "https://media.sketchfab.com/models/18d64758df69458db4e893cc1b50658c/thumbnails/d33491859b314a759e2567b26e9b173e/e5f35f0d783241a2855d4e6a44b79d5d.jpeg"
+            },
+            {
+                "uid": "84211be3b0aa4c92bc3b259a76a3477b",
+                "width": 64,
+                "height": 36,
+                "size": 1051,
+                "url": "https://media.sketchfab.com/models/18d64758df69458db4e893cc1b50658c/thumbnails/d33491859b314a759e2567b26e9b173e/2e428e45cf7f47dfb332bcdcc788f661.jpeg"
+            }
+        ]
+    },
+    "uid": "18d64758df69458db4e893cc1b50658c",
+    "uri": "https://api.sketchfab.com/v3/models/18d64758df69458db4e893cc1b50658c",
+    "user": {
+        "uid": "33672a4ee68b4babba012d32234b64c7",
+        "username": "Hugo.Dalben",
+        "displayName": "Hugo.Dalben",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Hugo.Dalben",
+        "avatar": {
+            "uid": "d04a2d7d47274ee7acc5630fc9feb4a6",
+            "uri": "https://api.sketchfab.com/v3/avatars/d04a2d7d47274ee7acc5630fc9feb4a6",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1075,
+                    "url": "https://media.sketchfab.com/avatars/d04a2d7d47274ee7acc5630fc9feb4a6/78719d408a054865b8d0a5ab6f821edf.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1411,
+                    "url": "https://media.sketchfab.com/avatars/d04a2d7d47274ee7acc5630fc9feb4a6/5f78d07b50e94383ad83700a1a7a328c.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2469,
+                    "url": "https://media.sketchfab.com/avatars/d04a2d7d47274ee7acc5630fc9feb4a6/d1bd81b508034cc1b6080cb87d71d6fb.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2751,
+                    "url": "https://media.sketchfab.com/avatars/d04a2d7d47274ee7acc5630fc9feb4a6/2f2f2e82b68943c6839670be77bbcffb.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/33672a4ee68b4babba012d32234b64c7"
+    },
+    "vertexCount": 105224,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/rook-18d64758df69458db4e893cc1b50658c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Medieval rook designed as part of a themed chess set inspired by Battle Chess.  \nOptimized for 3D printing (7 cm height, 5 cm width, available in 5 MB and 10 MB versions).  \nPerfect for collectors, board game enthusiasts, and anyone looking for a unique and detailed medieval chess set.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/18d64758df69458db4e893cc1b50658c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-11T05:26:12.830038",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

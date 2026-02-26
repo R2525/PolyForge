@@ -1,0 +1,40 @@
+{
+    "category": "Furniture & Home",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.85
+        },
+        {
+            "name": "Art & Abstract",
+            "score": 0.7
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.45
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Modern",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "armchair",
+        "couch",
+        "furniture"
+    ]
+}

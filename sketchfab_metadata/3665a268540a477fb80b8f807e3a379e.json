@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2024-09-19T16:48:09.076868",
+    "embedUrl": "https://sketchfab.com/models/3665a268540a477fb80b8f807e3a379e/embed",
+    "faceCount": 25844,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 13,
+    "name": "Totoro - My Neighbor Totoro",
+    "publishedAt": "2024-09-19T16:54:19.376719",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "miyazaki",
+            "slug": "miyazaki",
+            "uri": "https://api.sketchfab.com/v3/tags/miyazaki"
+        },
+        {
+            "name": "Totoro",
+            "slug": "totoro",
+            "uri": "https://api.sketchfab.com/v3/tags/totoro"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e07b1f4f9e2b48b88b3a5618857bc000",
+                "width": 1920,
+                "height": 1080,
+                "size": 118099,
+                "url": "https://media.sketchfab.com/models/3665a268540a477fb80b8f807e3a379e/thumbnails/6c7bc1de89c143a9890a58609c08a268/5a8f08012d504d07877162733d5c17c6.jpeg"
+            },
+            {
+                "uid": "367140d02d6a4bfea979d37ba8f2b82d",
+                "width": 1024,
+                "height": 576,
+                "size": 31269,
+                "url": "https://media.sketchfab.com/models/3665a268540a477fb80b8f807e3a379e/thumbnails/6c7bc1de89c143a9890a58609c08a268/9db3998a5b4142e1abf9056dd6620807.jpeg"
+            },
+            {
+                "uid": "dcb1a11e4cd64f2a876e971ca61b2337",
+                "width": 720,
+                "height": 405,
+                "size": 17103,
+                "url": "https://media.sketchfab.com/models/3665a268540a477fb80b8f807e3a379e/thumbnails/6c7bc1de89c143a9890a58609c08a268/55a4137b97aa4d6a8f9009edd1ebefa4.jpeg"
+            },
+            {
+                "uid": "a562a6bc1f894f97b7e5b2b7b9bc7120",
+                "width": 256,
+                "height": 144,
+                "size": 4002,
+                "url": "https://media.sketchfab.com/models/3665a268540a477fb80b8f807e3a379e/thumbnails/6c7bc1de89c143a9890a58609c08a268/90ff310bd6b542b580953aca0b16367c.jpeg"
+            },
+            {
+                "uid": "6eb4ce24c52c46488e113a195933112c",
+                "width": 64,
+                "height": 36,
+                "size": 1085,
+                "url": "https://media.sketchfab.com/models/3665a268540a477fb80b8f807e3a379e/thumbnails/6c7bc1de89c143a9890a58609c08a268/e98237ecef13402ba29ed76ebe5dc372.jpeg"
+            }
+        ]
+    },
+    "uid": "3665a268540a477fb80b8f807e3a379e",
+    "uri": "https://api.sketchfab.com/v3/models/3665a268540a477fb80b8f807e3a379e",
+    "user": {
+        "uid": "0a972653ae654293a902164e61283a96",
+        "username": "Zebbz",
+        "displayName": "Z3bbz",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Zebbz",
+        "avatar": {
+            "uid": "4773348be4aa45dc9db97e21a44f8a36",
+            "uri": "https://api.sketchfab.com/v3/avatars/4773348be4aa45dc9db97e21a44f8a36",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 987,
+                    "url": "https://media.sketchfab.com/avatars/4773348be4aa45dc9db97e21a44f8a36/b2829fc88e0f41518d595792f99c19e7.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1444,
+                    "url": "https://media.sketchfab.com/avatars/4773348be4aa45dc9db97e21a44f8a36/1be4f16e43b74fe195cf51708055fae2.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3399,
+                    "url": "https://media.sketchfab.com/avatars/4773348be4aa45dc9db97e21a44f8a36/c546f9c63b654c64883154190bf6fe7b.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4006,
+                    "url": "https://media.sketchfab.com/avatars/4773348be4aa45dc9db97e21a44f8a36/3ea6ffc453ab4a15815b9dea2e9827e7.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0a972653ae654293a902164e61283a96"
+    },
+    "vertexCount": 12770,
+    "viewCount": 324,
+    "viewerUrl": "https://sketchfab.com/3d-models/totoro-my-neighbor-totoro-3665a268540a477fb80b8f807e3a379e",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "3D model representing Totoro, the famous character from the animated film “My Neighbor Totoro”.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3665a268540a477fb80b8f807e3a379e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "SubstancePainter",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2024-09-29T05:57:47.160038",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 1
+}

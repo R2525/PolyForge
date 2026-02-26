@@ -1,0 +1,152 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T13:37:15.610254",
+    "embedUrl": "https://sketchfab.com/models/1954507e992b439e858b5723c59ebbc3/embed",
+    "faceCount": 10128,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "2027 Toyota GR GT - Low Poly",
+    "publishedAt": "2026-02-22T13:40:25.831162",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "toyota",
+            "slug": "toyota",
+            "uri": "https://api.sketchfab.com/v3/tags/toyota"
+        },
+        {
+            "name": "toyota-grgt",
+            "slug": "toyota-grgt",
+            "uri": "https://api.sketchfab.com/v3/tags/toyota-grgt"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "575d4920b8f84a86ac47e9ce424845ae",
+                "width": 1920,
+                "height": 1080,
+                "size": 50947,
+                "url": "https://media.sketchfab.com/models/1954507e992b439e858b5723c59ebbc3/thumbnails/bfd4f46adc754377bc338bcffea7f990/53d9b234c7c1491cae3012d731e023e5.jpeg"
+            },
+            {
+                "uid": "7c43f8100c2543159844f44b835cb510",
+                "width": 1024,
+                "height": 576,
+                "size": 17126,
+                "url": "https://media.sketchfab.com/models/1954507e992b439e858b5723c59ebbc3/thumbnails/bfd4f46adc754377bc338bcffea7f990/76d29f56301c473caade1e49707868b7.jpeg"
+            },
+            {
+                "uid": "7d1cf76141c24d5e8a399350ab9957fa",
+                "width": 720,
+                "height": 405,
+                "size": 9778,
+                "url": "https://media.sketchfab.com/models/1954507e992b439e858b5723c59ebbc3/thumbnails/bfd4f46adc754377bc338bcffea7f990/b11ccd239d6646e3a04e6152df970624.jpeg"
+            },
+            {
+                "uid": "19783145ab064c0f996efd2ca09acb67",
+                "width": 256,
+                "height": 144,
+                "size": 2246,
+                "url": "https://media.sketchfab.com/models/1954507e992b439e858b5723c59ebbc3/thumbnails/bfd4f46adc754377bc338bcffea7f990/dd6ca2544f264d818640be95c14b746b.jpeg"
+            },
+            {
+                "uid": "e8bea237df2a4c2095496ace0c5ec4f9",
+                "width": 64,
+                "height": 36,
+                "size": 787,
+                "url": "https://media.sketchfab.com/models/1954507e992b439e858b5723c59ebbc3/thumbnails/bfd4f46adc754377bc338bcffea7f990/a77e6b3887d24d2c860a2f3031aeab85.jpeg"
+            }
+        ]
+    },
+    "uid": "1954507e992b439e858b5723c59ebbc3",
+    "uri": "https://api.sketchfab.com/v3/models/1954507e992b439e858b5723c59ebbc3",
+    "user": {
+        "uid": "2a6f8bd9068f45a6b4e453c2092bdae7",
+        "username": "mrg700",
+        "displayName": "mrg700",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mrg700",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2a6f8bd9068f45a6b4e453c2092bdae7"
+    },
+    "vertexCount": 6041,
+    "viewCount": 47,
+    "viewerUrl": "https://sketchfab.com/3d-models/2027-toyota-gr-gt-low-poly-1954507e992b439e858b5723c59ebbc3",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Untextured Low-Poly GR GT model with low poly interior, made with game optimization in-mind.\n\n**Contact me:**\nhttps://x.com/7vSZyVjHoE",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/1954507e992b439e858b5723c59ebbc3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T13:40:26.068994",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 5
+}

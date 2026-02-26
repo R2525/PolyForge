@@ -1,0 +1,219 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T22:42:56.900543",
+    "embedUrl": "https://sketchfab.com/models/3329c142ce9e41749411264c64bee4cf/embed",
+    "faceCount": 1200,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Panda Cosmetics | Made for Minecraft",
+    "publishedAt": "2026-02-22T22:45:46.137035",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "hat",
+            "slug": "hat",
+            "uri": "https://api.sketchfab.com/v3/tags/hat"
+        },
+        {
+            "name": "balloon",
+            "slug": "balloon",
+            "uri": "https://api.sketchfab.com/v3/tags/balloon"
+        },
+        {
+            "name": "stick",
+            "slug": "stick",
+            "uri": "https://api.sketchfab.com/v3/tags/stick"
+        },
+        {
+            "name": "panda",
+            "slug": "panda",
+            "uri": "https://api.sketchfab.com/v3/tags/panda"
+        },
+        {
+            "name": "bamboo",
+            "slug": "bamboo",
+            "uri": "https://api.sketchfab.com/v3/tags/bamboo"
+        },
+        {
+            "name": "backpack",
+            "slug": "backpack",
+            "uri": "https://api.sketchfab.com/v3/tags/backpack"
+        },
+        {
+            "name": "cosmetics",
+            "slug": "cosmetics",
+            "uri": "https://api.sketchfab.com/v3/tags/cosmetics"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "offhand",
+            "slug": "offhand",
+            "uri": "https://api.sketchfab.com/v3/tags/offhand"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "mcmodels",
+            "slug": "mcmodels",
+            "uri": "https://api.sketchfab.com/v3/tags/mcmodels"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3442beb7be9a45b1a6f3a41349af9787",
+                "width": 1920,
+                "height": 1080,
+                "size": 88494,
+                "url": "https://media.sketchfab.com/models/3329c142ce9e41749411264c64bee4cf/thumbnails/f588586efcd54bab966b278d9c4c6df5/353641d3d03a4726bea2b3c371d1dc32.jpeg"
+            },
+            {
+                "uid": "3bd075f148c84eb9b9faffee7d731513",
+                "width": 1024,
+                "height": 576,
+                "size": 32163,
+                "url": "https://media.sketchfab.com/models/3329c142ce9e41749411264c64bee4cf/thumbnails/f588586efcd54bab966b278d9c4c6df5/89947bd1718548b9b11412deef14dbce.jpeg"
+            },
+            {
+                "uid": "0e369cd5d2a1431bbd8a9b9949a06661",
+                "width": 720,
+                "height": 405,
+                "size": 19095,
+                "url": "https://media.sketchfab.com/models/3329c142ce9e41749411264c64bee4cf/thumbnails/f588586efcd54bab966b278d9c4c6df5/1dbe4c6a2a65467984f8277c70706824.jpeg"
+            },
+            {
+                "uid": "d4b653b316204d00a04e8e37d339803f",
+                "width": 256,
+                "height": 144,
+                "size": 4160,
+                "url": "https://media.sketchfab.com/models/3329c142ce9e41749411264c64bee4cf/thumbnails/f588586efcd54bab966b278d9c4c6df5/d08a1b4ec70249ae86afdf863f7dd906.jpeg"
+            },
+            {
+                "uid": "7c9d4da868bf42ab94a13d6c623d568f",
+                "width": 64,
+                "height": 36,
+                "size": 1026,
+                "url": "https://media.sketchfab.com/models/3329c142ce9e41749411264c64bee4cf/thumbnails/f588586efcd54bab966b278d9c4c6df5/5a5e8492c1e54f70827f427b343bdad9.jpeg"
+            }
+        ]
+    },
+    "uid": "3329c142ce9e41749411264c64bee4cf",
+    "uri": "https://api.sketchfab.com/v3/models/3329c142ce9e41749411264c64bee4cf",
+    "user": {
+        "uid": "b4d0c7eb43d04cb4b5528ff820ee9865",
+        "username": "iplexity",
+        "displayName": "iPlexity",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/iplexity",
+        "avatar": {
+            "uid": "92e4674e1e904c9e9d3197bcf78fb21a",
+            "uri": "https://api.sketchfab.com/v3/avatars/92e4674e1e904c9e9d3197bcf78fb21a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2089,
+                    "url": "https://media.sketchfab.com/avatars/92e4674e1e904c9e9d3197bcf78fb21a/fc4b280669084b75a774e421ec24bb3a.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4039,
+                    "url": "https://media.sketchfab.com/avatars/92e4674e1e904c9e9d3197bcf78fb21a/a9622090ceac4789abba1a8a8702f3e0.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 11148,
+                    "url": "https://media.sketchfab.com/avatars/92e4674e1e904c9e9d3197bcf78fb21a/85c2835ac2f84a06a62db2be3aa6133e.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 13234,
+                    "url": "https://media.sketchfab.com/avatars/92e4674e1e904c9e9d3197bcf78fb21a/98a62cfd22674d4f8e7bb6b2cab8c0aa.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b4d0c7eb43d04cb4b5528ff820ee9865"
+    },
+    "vertexCount": 800,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/panda-cosmetics-made-for-minecraft-3329c142ce9e41749411264c64bee4cf",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "**Panda Cosmetics**\n\nMade on ***Blockbench***\n\nMade by ***iPlexity***\n\nI made this pack for my store. I hope you enjoy them!",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3329c142ce9e41749411264c64bee4cf/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T22:45:46.758829",
+    "pbrType": null,
+    "textureCount": 6,
+    "materialCount": 6
+}

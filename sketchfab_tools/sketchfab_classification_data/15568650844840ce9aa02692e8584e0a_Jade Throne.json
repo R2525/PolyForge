@@ -1,0 +1,69 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.95
+        },
+        {
+            "name": "Gothic",
+            "score": 0.85
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "Medieval",
+            "score": 0.75
+        },
+        {
+            "name": "Historic",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.75
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic",
+            "score": 0.65
+        },
+        {
+            "name": "Realistic",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Mossy",
+        "Polished",
+        "Cracked",
+        "Dusty"
+    ],
+    "tags": [
+        "throne",
+        "jade",
+        "ancient",
+        "royal",
+        "furniture",
+        "cultural",
+        "historical",
+        "stone"
+    ],
+    "model_id_full": "15568650844840ce9aa02692e8584e0a_Jade Throne",
+    "sketchfab_id": "15568650844840ce9aa02692e8584e0a",
+    "asset_name": "Jade Throne"
+}

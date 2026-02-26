@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T17:43:13.969732",
+    "embedUrl": "https://sketchfab.com/models/2ffeacbe73b4429b9e144b293e56b411/embed",
+    "faceCount": 18904,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Street Lamp Sci Fi",
+    "publishedAt": "2026-02-20T17:44:53.931525",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "lamp",
+            "slug": "lamp",
+            "uri": "https://api.sketchfab.com/v3/tags/lamp"
+        },
+        {
+            "name": "road",
+            "slug": "road",
+            "uri": "https://api.sketchfab.com/v3/tags/road"
+        },
+        {
+            "name": "subdiv",
+            "slug": "subdiv",
+            "uri": "https://api.sketchfab.com/v3/tags/subdiv"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "street",
+            "slug": "street",
+            "uri": "https://api.sketchfab.com/v3/tags/street"
+        },
+        {
+            "name": "light",
+            "slug": "light",
+            "uri": "https://api.sketchfab.com/v3/tags/light"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "51c21e4951d945709a303e30735f6878",
+                "width": 1920,
+                "height": 1080,
+                "size": 45207,
+                "url": "https://media.sketchfab.com/models/2ffeacbe73b4429b9e144b293e56b411/thumbnails/e7ff22bf178a46d1be3c51a456fe0992/fa2f5d70dca548c0afa6dd230fbefcb9.jpeg"
+            },
+            {
+                "uid": "199d8ca091634836b476932ba8da4d44",
+                "width": 1024,
+                "height": 576,
+                "size": 14346,
+                "url": "https://media.sketchfab.com/models/2ffeacbe73b4429b9e144b293e56b411/thumbnails/e7ff22bf178a46d1be3c51a456fe0992/a370e96fdc4b4bfc86469bc3c1b33172.jpeg"
+            },
+            {
+                "uid": "774158ba1ce94a32a9b528c4d5e83e78",
+                "width": 720,
+                "height": 405,
+                "size": 8332,
+                "url": "https://media.sketchfab.com/models/2ffeacbe73b4429b9e144b293e56b411/thumbnails/e7ff22bf178a46d1be3c51a456fe0992/b0cf3d5ba8e3421a9cdf235d59e2da14.jpeg"
+            },
+            {
+                "uid": "29f2c5d5236c42af876238ac82120a07",
+                "width": 256,
+                "height": 144,
+                "size": 1907,
+                "url": "https://media.sketchfab.com/models/2ffeacbe73b4429b9e144b293e56b411/thumbnails/e7ff22bf178a46d1be3c51a456fe0992/80e3fa05e5004bfb99bb1d39e8c038e2.jpeg"
+            },
+            {
+                "uid": "913b72c5970548918e12c6e5f7b3b635",
+                "width": 64,
+                "height": 36,
+                "size": 798,
+                "url": "https://media.sketchfab.com/models/2ffeacbe73b4429b9e144b293e56b411/thumbnails/e7ff22bf178a46d1be3c51a456fe0992/669ff82d4b654550b03500f244b1270f.jpeg"
+            }
+        ]
+    },
+    "uid": "2ffeacbe73b4429b9e144b293e56b411",
+    "uri": "https://api.sketchfab.com/v3/models/2ffeacbe73b4429b9e144b293e56b411",
+    "user": {
+        "uid": "7804a7b4532645d7b9f17e88a66bc92b",
+        "username": "GribinceaDumitru",
+        "displayName": "GribinceaDumitru",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/GribinceaDumitru",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7804a7b4532645d7b9f17e88a66bc92b"
+    },
+    "vertexCount": 9580,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/street-lamp-sci-fi-2ffeacbe73b4429b9e144b293e56b411",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For complete workflow compatibility, we recommend downloading the Original format.The Converted version is intended exclusively for browser preview. In the original file, the following are fully preserved:✔ original scene hierarchy✔ all materials without simplification✔ proper texture maps✔ proper object namingIf you intend to use the asset in a production environment, select the original version.Street lamp Model with subdivision control good for show case scene for in a separate material if u want to change colors.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/2ffeacbe73b4429b9e144b293e56b411/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T17:44:54.542493",
+    "pbrType": "metalness",
+    "textureCount": 5,
+    "materialCount": 2
+}

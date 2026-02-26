@@ -1,0 +1,42 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.85
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Broken",
+        "Dusty"
+    ],
+    "tags": [
+        "robot",
+        "character",
+        "warrior"
+    ]
+}

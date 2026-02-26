@@ -1,0 +1,191 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 4,
+    "createdAt": "2025-12-01T06:40:30.307736",
+    "embedUrl": "https://sketchfab.com/models/050789e2d59048279adce9aaca9c7997/embed",
+    "faceCount": 561378,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 7,
+    "name": "DC MOTOR",
+    "publishedAt": "2025-12-01T06:43:08.526543",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rotors",
+            "slug": "rotors",
+            "uri": "https://api.sketchfab.com/v3/tags/rotors"
+        },
+        {
+            "name": "rotor",
+            "slug": "rotor",
+            "uri": "https://api.sketchfab.com/v3/tags/rotor"
+        },
+        {
+            "name": "motor",
+            "slug": "motor",
+            "uri": "https://api.sketchfab.com/v3/tags/motor"
+        },
+        {
+            "name": "motorbike",
+            "slug": "motorbike",
+            "uri": "https://api.sketchfab.com/v3/tags/motorbike"
+        },
+        {
+            "name": "dc",
+            "slug": "dc",
+            "uri": "https://api.sketchfab.com/v3/tags/dc"
+        },
+        {
+            "name": "Stator",
+            "slug": "stator",
+            "uri": "https://api.sketchfab.com/v3/tags/stator"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "fe19b2b18b92427fafb3b91a7f25284b",
+                "width": 1920,
+                "height": 1080,
+                "size": 447097,
+                "url": "https://media.sketchfab.com/models/050789e2d59048279adce9aaca9c7997/thumbnails/b859bd9f700048c3ac1c063c0793fd0e/ea782ec4d569463e8e0769303c8ae539.jpeg"
+            },
+            {
+                "uid": "b70898707b124aeeb5dbb51a72013bc5",
+                "width": 1024,
+                "height": 576,
+                "size": 48835,
+                "url": "https://media.sketchfab.com/models/050789e2d59048279adce9aaca9c7997/thumbnails/b859bd9f700048c3ac1c063c0793fd0e/b6083fd810d944d2906b160f112642c5.jpeg"
+            },
+            {
+                "uid": "b57cc6b676a04307915ca52a1f67f1a5",
+                "width": 720,
+                "height": 405,
+                "size": 22795,
+                "url": "https://media.sketchfab.com/models/050789e2d59048279adce9aaca9c7997/thumbnails/b859bd9f700048c3ac1c063c0793fd0e/43c3e4b3f0db4f1798b881cb17297cc8.jpeg"
+            },
+            {
+                "uid": "93dee750d0b141c1a68760bfffbfc3f8",
+                "width": 256,
+                "height": 144,
+                "size": 4434,
+                "url": "https://media.sketchfab.com/models/050789e2d59048279adce9aaca9c7997/thumbnails/b859bd9f700048c3ac1c063c0793fd0e/b0254a1515bb4fd1a3758dc79d6eea92.jpeg"
+            },
+            {
+                "uid": "1bbf4c9e012443d3a8f3fb150e780fa4",
+                "width": 64,
+                "height": 36,
+                "size": 1173,
+                "url": "https://media.sketchfab.com/models/050789e2d59048279adce9aaca9c7997/thumbnails/b859bd9f700048c3ac1c063c0793fd0e/601361706b8645e6b581f9d6b16e7a83.jpeg"
+            }
+        ]
+    },
+    "uid": "050789e2d59048279adce9aaca9c7997",
+    "uri": "https://api.sketchfab.com/v3/models/050789e2d59048279adce9aaca9c7997",
+    "user": {
+        "uid": "43a218e05b454e7daeb73ced2b178ff9",
+        "username": "vr.designer_09",
+        "displayName": "VR DESIGNER",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/vr.designer_09",
+        "avatar": {
+            "uid": "24988475d71a4230af2a22dc956d3b65",
+            "uri": "https://api.sketchfab.com/v3/avatars/24988475d71a4230af2a22dc956d3b65",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1092,
+                    "url": "https://media.sketchfab.com/avatars/24988475d71a4230af2a22dc956d3b65/94e6529f27004e43b8f8dd5680492cda.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1634,
+                    "url": "https://media.sketchfab.com/avatars/24988475d71a4230af2a22dc956d3b65/b30ce1c8deb04df19209931c7000d25a.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4114,
+                    "url": "https://media.sketchfab.com/avatars/24988475d71a4230af2a22dc956d3b65/e7964c8ac105424187efe82e5f244b33.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4829,
+                    "url": "https://media.sketchfab.com/avatars/24988475d71a4230af2a22dc956d3b65/a3d507a122b84e1ba6807ac0d8d651a0.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/43a218e05b454e7daeb73ced2b178ff9"
+    },
+    "vertexCount": 262838,
+    "viewCount": 381,
+    "viewerUrl": "https://sketchfab.com/3d-models/dc-motor-050789e2d59048279adce9aaca9c7997",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A DC motor converts direct electrical energy into mechanical rotation using electromagnetic principles. It is widely used in automotive, industrial, and robotic applications due to its precise speed and torque control.\n\nhttps://youtu.be/fj8rLrE_-JI",
+    "price": null,
+    "downloadCount": 34,
+    "editorUrl": "https://sketchfab.com/models/050789e2d59048279adce9aaca9c7997/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-01T06:43:08.686695",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

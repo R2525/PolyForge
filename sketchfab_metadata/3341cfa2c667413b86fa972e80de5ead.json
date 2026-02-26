@@ -1,0 +1,150 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T00:02:26.895189",
+    "embedUrl": "https://sketchfab.com/models/3341cfa2c667413b86fa972e80de5ead/embed",
+    "faceCount": 2055168,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Warped Abomination",
+    "publishedAt": "2026-02-24T00:03:17.171959",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "wh40k",
+            "slug": "wh40k",
+            "uri": "https://api.sketchfab.com/v3/tags/wh40k"
+        },
+        {
+            "name": "chaos",
+            "slug": "chaos",
+            "uri": "https://api.sketchfab.com/v3/tags/chaos"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "warhammer40k",
+            "slug": "warhammer40k",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer40k"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "57086f862d1f4ee18cbdbac65783d2b2",
+                "width": 1920,
+                "height": 1080,
+                "size": 87169,
+                "url": "https://media.sketchfab.com/models/3341cfa2c667413b86fa972e80de5ead/thumbnails/313b096f09134dac83a6ce4507c6b213/5d748ba63f8f46248f434d7396ddfd68.jpeg"
+            },
+            {
+                "uid": "c35250e8c4e748f490a69b17753fca12",
+                "width": 1024,
+                "height": 576,
+                "size": 28653,
+                "url": "https://media.sketchfab.com/models/3341cfa2c667413b86fa972e80de5ead/thumbnails/313b096f09134dac83a6ce4507c6b213/4d216199951d4802b3cf918d87836d14.jpeg"
+            },
+            {
+                "uid": "7c41e73056114598910ea5c4d6505996",
+                "width": 720,
+                "height": 405,
+                "size": 16256,
+                "url": "https://media.sketchfab.com/models/3341cfa2c667413b86fa972e80de5ead/thumbnails/313b096f09134dac83a6ce4507c6b213/2ea85478b15842619a772ef232615223.jpeg"
+            },
+            {
+                "uid": "e4d96ebf5dde4c048cf56fe359e0d579",
+                "width": 256,
+                "height": 144,
+                "size": 3234,
+                "url": "https://media.sketchfab.com/models/3341cfa2c667413b86fa972e80de5ead/thumbnails/313b096f09134dac83a6ce4507c6b213/5f00322071414ff39ea76cce6afda013.jpeg"
+            },
+            {
+                "uid": "3ac50389667449d68aecdfcc3442d9c4",
+                "width": 64,
+                "height": 36,
+                "size": 879,
+                "url": "https://media.sketchfab.com/models/3341cfa2c667413b86fa972e80de5ead/thumbnails/313b096f09134dac83a6ce4507c6b213/308f621bd9c74daf89cf49fccd561824.jpeg"
+            }
+        ]
+    },
+    "uid": "3341cfa2c667413b86fa972e80de5ead",
+    "uri": "https://api.sketchfab.com/v3/models/3341cfa2c667413b86fa972e80de5ead",
+    "user": {
+        "uid": "9acf08a0f466478d8e229c80baf3d568",
+        "username": "Vaterdeshulk",
+        "displayName": "Vaterdeshulk",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Vaterdeshulk",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9acf08a0f466478d8e229c80baf3d568"
+    },
+    "vertexCount": 1027480,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/warped-abomination-3341cfa2c667413b86fa972e80de5ead",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/P6T2dV](https://www.meshy.ai/s/P6T2dV)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3341cfa2c667413b86fa972e80de5ead/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T00:03:17.151108",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

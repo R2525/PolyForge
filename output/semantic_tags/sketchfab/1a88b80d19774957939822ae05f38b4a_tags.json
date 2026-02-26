@@ -1,0 +1,41 @@
+{
+    "category": "Art & Abstract",
+    "top_genres": [
+        {
+            "name": "Cyberpunk",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Voxel",
+    "top_styles": [
+        {
+            "name": "Voxel",
+            "score": 0.9
+        },
+        {
+            "name": "Abstract",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean",
+        "Dusty"
+    ],
+    "tags": [
+        "pixel art",
+        "digital",
+        "abstract"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.95
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Winter",
+            "score": 0.85
+        },
+        {
+            "name": "Rustic",
+            "score": 0.8
+        },
+        {
+            "name": "Celtic",
+            "score": 0.7
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.85
+        },
+        {
+            "name": "Pixel Art",
+            "score": 0.8
+        },
+        {
+            "name": "Blocky",
+            "score": 0.75
+        },
+        {
+            "name": "Game Art",
+            "score": 0.7
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Mossy",
+        "Cracked",
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "medieval",
+        "winter",
+        "island",
+        "server",
+        "spawn",
+        "architecture",
+        "3D model",
+        "pixel art"
+    ],
+    "model_id_full": "291a9e3d8a33417e994d02b63ee53a70_Winter Medieval Server Spawn",
+    "sketchfab_id": "291a9e3d8a33417e994d02b63ee53a70",
+    "asset_name": "Winter Medieval Server Spawn"
+}

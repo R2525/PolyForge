@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-01-21T19:50:14.635375",
+    "embedUrl": "https://sketchfab.com/models/08bd7dbe3378427e95836e049af8cfbb/embed",
+    "faceCount": 4096502,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Red Dead Redemption 2 Valentine town",
+    "publishedAt": "2026-01-21T20:05:09.768250",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "games",
+            "slug": "games",
+            "uri": "https://api.sketchfab.com/v3/tags/games"
+        },
+        {
+            "name": "voxel-3d",
+            "slug": "voxel-3d",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel-3d"
+        },
+        {
+            "name": "western-town",
+            "slug": "western-town",
+            "uri": "https://api.sketchfab.com/v3/tags/western-town"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "voxelart",
+            "slug": "voxelart",
+            "uri": "https://api.sketchfab.com/v3/tags/voxelart"
+        },
+        {
+            "name": "reddeadredemption2",
+            "slug": "reddeadredemption2",
+            "uri": "https://api.sketchfab.com/v3/tags/reddeadredemption2"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "208c13e42004406f816eb6b46f6ddd09",
+                "width": 1920,
+                "height": 1080,
+                "size": 362645,
+                "url": "https://media.sketchfab.com/models/08bd7dbe3378427e95836e049af8cfbb/thumbnails/c11b50b478d04c66b68ded678113253e/3d28c780e2cc4a9cb4fb8e567976c29f.jpeg"
+            },
+            {
+                "uid": "04b4058971324947b4e8d1fd3e108395",
+                "width": 1024,
+                "height": 576,
+                "size": 72247,
+                "url": "https://media.sketchfab.com/models/08bd7dbe3378427e95836e049af8cfbb/thumbnails/c11b50b478d04c66b68ded678113253e/b7a4258de6e348a484c00c91276e0598.jpeg"
+            },
+            {
+                "uid": "8c7d554c8ba24a3796dff719fb2d00e1",
+                "width": 720,
+                "height": 405,
+                "size": 40014,
+                "url": "https://media.sketchfab.com/models/08bd7dbe3378427e95836e049af8cfbb/thumbnails/c11b50b478d04c66b68ded678113253e/3555b35614f14f9c96821e4c7ae03b2f.jpeg"
+            },
+            {
+                "uid": "9dfbec87366f466d8a76dfdf62876878",
+                "width": 256,
+                "height": 144,
+                "size": 7662,
+                "url": "https://media.sketchfab.com/models/08bd7dbe3378427e95836e049af8cfbb/thumbnails/c11b50b478d04c66b68ded678113253e/1a1b0d7f47144a1faf90877f6638e271.jpeg"
+            },
+            {
+                "uid": "837b536dc2e94f1983f3a0785e01e79d",
+                "width": 64,
+                "height": 36,
+                "size": 1395,
+                "url": "https://media.sketchfab.com/models/08bd7dbe3378427e95836e049af8cfbb/thumbnails/c11b50b478d04c66b68ded678113253e/590839b96dca4c48a912d228122e7e2d.jpeg"
+            }
+        ]
+    },
+    "uid": "08bd7dbe3378427e95836e049af8cfbb",
+    "uri": "https://api.sketchfab.com/v3/models/08bd7dbe3378427e95836e049af8cfbb",
+    "user": {
+        "uid": "f31904ee917c46908d5763416062f705",
+        "username": "_BraveLittlePug_",
+        "displayName": "_BraveLittlePug_",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/_BraveLittlePug_",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f31904ee917c46908d5763416062f705"
+    },
+    "vertexCount": 2034375,
+    "viewCount": 141,
+    "viewerUrl": "https://sketchfab.com/3d-models/red-dead-redemption-2-valentine-town-08bd7dbe3378427e95836e049af8cfbb",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/08bd7dbe3378427e95836e049af8cfbb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-24T18:28:45.274207",
+    "pbrType": null,
+    "textureCount": 16,
+    "materialCount": 13
+}

@@ -1,0 +1,205 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-12T16:53:52.834098",
+    "embedUrl": "https://sketchfab.com/models/3985f81b80844e96be95893e91c9ef65/embed",
+    "faceCount": 558,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "OPTIMIZED MEDIEVAL SHELF",
+    "publishedAt": "2026-02-12T16:56:08.167616",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "uv",
+            "slug": "uv",
+            "uri": "https://api.sketchfab.com/v3/tags/uv"
+        },
+        {
+            "name": "shelf",
+            "slug": "shelf",
+            "uri": "https://api.sketchfab.com/v3/tags/shelf"
+        },
+        {
+            "name": "console",
+            "slug": "console",
+            "uri": "https://api.sketchfab.com/v3/tags/console"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "tavern",
+            "slug": "tavern",
+            "uri": "https://api.sketchfab.com/v3/tags/tavern"
+        },
+        {
+            "name": "bracket",
+            "slug": "bracket",
+            "uri": "https://api.sketchfab.com/v3/tags/bracket"
+        },
+        {
+            "name": "bookshelf",
+            "slug": "bookshelf",
+            "uri": "https://api.sketchfab.com/v3/tags/bookshelf"
+        },
+        {
+            "name": "optimized",
+            "slug": "optimized",
+            "uri": "https://api.sketchfab.com/v3/tags/optimized"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "textured",
+            "slug": "textured",
+            "uri": "https://api.sketchfab.com/v3/tags/textured"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "de829724fca74ef1b27bf1f5a2546df6",
+                "width": 1920,
+                "height": 1080,
+                "size": 158448,
+                "url": "https://media.sketchfab.com/models/3985f81b80844e96be95893e91c9ef65/thumbnails/a1c4693437ae450e95fddbd0cd422cb0/fb00bd710d644a5c85469bfb2a4605c3.jpeg"
+            },
+            {
+                "uid": "c90dc6c3fdfb425daad0b3e7c40a0d61",
+                "width": 1024,
+                "height": 576,
+                "size": 46093,
+                "url": "https://media.sketchfab.com/models/3985f81b80844e96be95893e91c9ef65/thumbnails/a1c4693437ae450e95fddbd0cd422cb0/d05e053e6b824903bceee30e79c82a74.jpeg"
+            },
+            {
+                "uid": "f9e32bf835014debb55bfee59ac0036b",
+                "width": 720,
+                "height": 405,
+                "size": 24776,
+                "url": "https://media.sketchfab.com/models/3985f81b80844e96be95893e91c9ef65/thumbnails/a1c4693437ae450e95fddbd0cd422cb0/d698c063489f465aafe49835026f7e00.jpeg"
+            },
+            {
+                "uid": "bec16f9da0494b12ba0736670559983e",
+                "width": 256,
+                "height": 144,
+                "size": 4533,
+                "url": "https://media.sketchfab.com/models/3985f81b80844e96be95893e91c9ef65/thumbnails/a1c4693437ae450e95fddbd0cd422cb0/2560b0e47c414dab80be103bec07e35f.jpeg"
+            },
+            {
+                "uid": "73ac73feaeaa46ec9bf6928df635f277",
+                "width": 64,
+                "height": 36,
+                "size": 1060,
+                "url": "https://media.sketchfab.com/models/3985f81b80844e96be95893e91c9ef65/thumbnails/a1c4693437ae450e95fddbd0cd422cb0/3573f3c511db496a9347151923e425d3.jpeg"
+            }
+        ]
+    },
+    "uid": "3985f81b80844e96be95893e91c9ef65",
+    "uri": "https://api.sketchfab.com/v3/models/3985f81b80844e96be95893e91c9ef65",
+    "user": {
+        "uid": "9bfd8fc9e03045439f693e45d5daec2e",
+        "username": "HotMesh",
+        "displayName": "HotMesh",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/HotMesh",
+        "avatar": {
+            "uid": "fb3595ad32134779a3d81ebf01c87342",
+            "uri": "https://api.sketchfab.com/v3/avatars/fb3595ad32134779a3d81ebf01c87342",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 966,
+                    "url": "https://media.sketchfab.com/avatars/fb3595ad32134779a3d81ebf01c87342/f46eac53f37a4267b62bcf6624775282.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1288,
+                    "url": "https://media.sketchfab.com/avatars/fb3595ad32134779a3d81ebf01c87342/00a5bf470c154a24a441b19febe1ff0e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2279,
+                    "url": "https://media.sketchfab.com/avatars/fb3595ad32134779a3d81ebf01c87342/816c082ef46748ce999d96f00169ce45.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2530,
+                    "url": "https://media.sketchfab.com/avatars/fb3595ad32134779a3d81ebf01c87342/56fdb1db84204fbf9960e2492a4cd178.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9bfd8fc9e03045439f693e45d5daec2e"
+    },
+    "vertexCount": 344,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/optimized-medieval-shelf-3985f81b80844e96be95893e91c9ef65",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "GET IT HERE: https://www.fab.com/listings/8867106b-a4fc-4379-9efe-c7ecaecf6057\n\nThis is a high-quality low poly medieval shelf, ideal for game environments, virtual reality, or historical scenes. Designed with performance in mind, the model is fully UV unwrapped, game ready, with textures embedded in the .glb file.\n\nFeatures:\n\nClean topology, low polygon count\nFully unwrapped UVs\nTextured with 1K - 2K - 4K PBR maps (Base Color, Roughness, Normal, AO)\nMaterials and textures are embedded in the .glb file\nINCLUDED:\n\nTextures 1K - 2K - 4K (jpeg) / 2K (PNG)\nfbx, .obj, .blend, .glb",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3985f81b80844e96be95893e91c9ef65/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-12T16:56:32.877476",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

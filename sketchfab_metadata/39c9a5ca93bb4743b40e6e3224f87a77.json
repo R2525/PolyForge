@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T02:19:12.262723",
+    "embedUrl": "https://sketchfab.com/models/39c9a5ca93bb4743b40e6e3224f87a77/embed",
+    "faceCount": 613502,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Demonic Mjolnir",
+    "publishedAt": "2026-02-21T02:22:12.655239",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "hammer",
+            "slug": "hammer",
+            "uri": "https://api.sketchfab.com/v3/tags/hammer"
+        },
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "mjolnir",
+            "slug": "mjolnir",
+            "uri": "https://api.sketchfab.com/v3/tags/mjolnir"
+        },
+        {
+            "name": "thor",
+            "slug": "thor",
+            "uri": "https://api.sketchfab.com/v3/tags/thor"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d282fc96654745e2b8c29f83cc4866ee",
+                "width": 1920,
+                "height": 1080,
+                "size": 52068,
+                "url": "https://media.sketchfab.com/models/39c9a5ca93bb4743b40e6e3224f87a77/thumbnails/f74a61b0a69a45429aa4316da03aabf8/c95c4014c7744b5881cbfd1b8a41f7df.jpeg"
+            },
+            {
+                "uid": "03171bacf0eb46dfb2218c07fc65e0f2",
+                "width": 1024,
+                "height": 576,
+                "size": 16218,
+                "url": "https://media.sketchfab.com/models/39c9a5ca93bb4743b40e6e3224f87a77/thumbnails/f74a61b0a69a45429aa4316da03aabf8/5be35780404c4fd4829e24e1eb51e2b3.jpeg"
+            },
+            {
+                "uid": "431ffa2bf9d841ceb6ba65c5076f8ce7",
+                "width": 720,
+                "height": 405,
+                "size": 9084,
+                "url": "https://media.sketchfab.com/models/39c9a5ca93bb4743b40e6e3224f87a77/thumbnails/f74a61b0a69a45429aa4316da03aabf8/8f8de58106c54c20a0f1b615e647fb82.jpeg"
+            },
+            {
+                "uid": "a638d75e539e4121a8d00c248c095841",
+                "width": 256,
+                "height": 144,
+                "size": 1968,
+                "url": "https://media.sketchfab.com/models/39c9a5ca93bb4743b40e6e3224f87a77/thumbnails/f74a61b0a69a45429aa4316da03aabf8/5aaefc5258a543a885030752394ca018.jpeg"
+            },
+            {
+                "uid": "d561c236747240d0a4c773592108d79f",
+                "width": 64,
+                "height": 36,
+                "size": 783,
+                "url": "https://media.sketchfab.com/models/39c9a5ca93bb4743b40e6e3224f87a77/thumbnails/f74a61b0a69a45429aa4316da03aabf8/3772fa9cfa354530a06f9c237a039526.jpeg"
+            }
+        ]
+    },
+    "uid": "39c9a5ca93bb4743b40e6e3224f87a77",
+    "uri": "https://api.sketchfab.com/v3/models/39c9a5ca93bb4743b40e6e3224f87a77",
+    "user": {
+        "uid": "b32e97c9975a400fbac38da907d3102c",
+        "username": "GameLudo",
+        "displayName": "GameLudo",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/GameLudo",
+        "avatar": {
+            "uid": "b1d1889edf50409999bd2cd66a4410fe",
+            "uri": "https://api.sketchfab.com/v3/avatars/b1d1889edf50409999bd2cd66a4410fe",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1065,
+                    "url": "https://media.sketchfab.com/avatars/b1d1889edf50409999bd2cd66a4410fe/0a2225c300bb435fb406b335acc6910d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1472,
+                    "url": "https://media.sketchfab.com/avatars/b1d1889edf50409999bd2cd66a4410fe/f7ac15cd75994b04bafd4084426585c7.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3108,
+                    "url": "https://media.sketchfab.com/avatars/b1d1889edf50409999bd2cd66a4410fe/e34933c816674188bcf8e4dd58eb3cc6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3529,
+                    "url": "https://media.sketchfab.com/avatars/b1d1889edf50409999bd2cd66a4410fe/47efea8b11674c46941a2355fee29f94.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b32e97c9975a400fbac38da907d3102c"
+    },
+    "vertexCount": 309169,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/demonic-mjolnir-39c9a5ca93bb4743b40e6e3224f87a77",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the Original format.The Converted version is intended for web viewing only. In the original file, the following are fully preserved:✔ full scene structure✔ complete materials without reduction✔ accurate texture maps✔ proper object namingIf you are going to integrate the model into a project, download the original version.A corrupted version of Mjolnir conjured up in my brain. Please Rate! Enjoy!",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/39c9a5ca93bb4743b40e6e3224f87a77/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T02:22:12.847720",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 3
+}

@@ -1,0 +1,152 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-12T04:13:49.468099",
+    "embedUrl": "https://sketchfab.com/models/46490668ecbf49fdbea8395bf8147417/embed",
+    "faceCount": 1852,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Avatar marketplace hulk rig",
+    "publishedAt": "2026-01-12T04:14:42.128201",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "avatar",
+            "slug": "avatar",
+            "uri": "https://api.sketchfab.com/v3/tags/avatar"
+        },
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "rig",
+            "slug": "rig",
+            "uri": "https://api.sketchfab.com/v3/tags/rig"
+        },
+        {
+            "name": "hulk",
+            "slug": "hulk",
+            "uri": "https://api.sketchfab.com/v3/tags/hulk"
+        },
+        {
+            "name": "marketplace",
+            "slug": "marketplace",
+            "uri": "https://api.sketchfab.com/v3/tags/marketplace"
+        },
+        {
+            "name": "themodelresource",
+            "slug": "themodelresource",
+            "uri": "https://api.sketchfab.com/v3/tags/themodelresource"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2cb9456f05f64fe69b833befd45f8553",
+                "width": 1920,
+                "height": 1080,
+                "size": 55570,
+                "url": "https://media.sketchfab.com/models/46490668ecbf49fdbea8395bf8147417/thumbnails/4b3291b98b814ee698d6fae60edf408f/bdf76357aac54aeea476e7f3f3bcf0d0.jpeg"
+            },
+            {
+                "uid": "e57c8c2e5ff0468d8c50f18af4ba05bf",
+                "width": 1024,
+                "height": 576,
+                "size": 18295,
+                "url": "https://media.sketchfab.com/models/46490668ecbf49fdbea8395bf8147417/thumbnails/4b3291b98b814ee698d6fae60edf408f/5e2484b520154392aca589e73a94aaea.jpeg"
+            },
+            {
+                "uid": "9b7b13ab6a514054af5b6d79cfc5e171",
+                "width": 720,
+                "height": 405,
+                "size": 10662,
+                "url": "https://media.sketchfab.com/models/46490668ecbf49fdbea8395bf8147417/thumbnails/4b3291b98b814ee698d6fae60edf408f/3b801aaa75334831b785739e2f9a714b.jpeg"
+            },
+            {
+                "uid": "d4d3d9c2a0994fe3b1518217a8297f15",
+                "width": 256,
+                "height": 144,
+                "size": 2588,
+                "url": "https://media.sketchfab.com/models/46490668ecbf49fdbea8395bf8147417/thumbnails/4b3291b98b814ee698d6fae60edf408f/8af10a7ec7f54b13ae469046fc7f7292.jpeg"
+            },
+            {
+                "uid": "fbea042b07d3423c8309e817dc1a256d",
+                "width": 64,
+                "height": 36,
+                "size": 917,
+                "url": "https://media.sketchfab.com/models/46490668ecbf49fdbea8395bf8147417/thumbnails/4b3291b98b814ee698d6fae60edf408f/5602b628b6ac4239b102bf1e3fdf3479.jpeg"
+            }
+        ]
+    },
+    "uid": "46490668ecbf49fdbea8395bf8147417",
+    "uri": "https://api.sketchfab.com/v3/models/46490668ecbf49fdbea8395bf8147417",
+    "user": {
+        "uid": "aa57395a1c724659b760b962eb5fb6d6",
+        "username": "anaceladiosabot",
+        "displayName": "Pablo",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/anaceladiosabot",
+        "avatar": {
+            "uid": "ce8d64496baa401eab3540a583f448ba",
+            "uri": "https://api.sketchfab.com/v3/avatars/ce8d64496baa401eab3540a583f448ba",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 940,
+                    "url": "https://media.sketchfab.com/avatars/ce8d64496baa401eab3540a583f448ba/00048777af834826a321d934c60aa2e2.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1548,
+                    "url": "https://media.sketchfab.com/avatars/ce8d64496baa401eab3540a583f448ba/affdcf802ee245d4869738e2367c23c7.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3673,
+                    "url": "https://media.sketchfab.com/avatars/ce8d64496baa401eab3540a583f448ba/de111ea040ae457eb62a8ba082237339.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4361,
+                    "url": "https://media.sketchfab.com/avatars/ce8d64496baa401eab3540a583f448ba/46389abf0877457bbc8226889c2e5fe1.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/aa57395a1c724659b760b962eb5fb6d6"
+    },
+    "vertexCount": 927,
+    "viewCount": 15,
+    "viewerUrl": "https://sketchfab.com/3d-models/avatar-marketplace-hulk-rig-46490668ecbf49fdbea8395bf8147417",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/46490668ecbf49fdbea8395bf8147417/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-12T04:14:42.293026",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

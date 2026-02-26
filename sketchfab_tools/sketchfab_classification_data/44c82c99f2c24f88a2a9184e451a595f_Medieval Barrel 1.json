@@ -1,0 +1,66 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Gothic",
+            "score": 0.6
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.5
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.4
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.5
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.4
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.3
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Cracked",
+        "Polished"
+    ],
+    "tags": [
+        "barrel",
+        "medieval",
+        "wooden",
+        "metal",
+        "storage"
+    ],
+    "model_id_full": "44c82c99f2c24f88a2a9184e451a595f_Medieval Barrel 1",
+    "sketchfab_id": "44c82c99f2c24f88a2a9184e451a595f",
+    "asset_name": "Medieval Barrel 1"
+}

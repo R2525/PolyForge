@@ -1,0 +1,180 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T15:55:03.558162",
+    "embedUrl": "https://sketchfab.com/models/1f40acd68c304fa4bf8c0b20d92cb99c/embed",
+    "faceCount": 15044,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Floppy Machine - 3D Prop Study",
+    "publishedAt": "2026-02-24T11:18:24.008280",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "substance_painter",
+            "slug": "substance_painter",
+            "uri": "https://api.sketchfab.com/v3/tags/substance_painter"
+        },
+        {
+            "name": "props-assets",
+            "slug": "props-assets",
+            "uri": "https://api.sketchfab.com/v3/tags/props-assets"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "maya",
+            "slug": "maya",
+            "uri": "https://api.sketchfab.com/v3/tags/maya"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "photoshop",
+            "slug": "photoshop",
+            "uri": "https://api.sketchfab.com/v3/tags/photoshop"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3ff7603efd244afb85a23afaca74737c",
+                "width": 1920,
+                "height": 1080,
+                "size": 78525,
+                "url": "https://media.sketchfab.com/models/1f40acd68c304fa4bf8c0b20d92cb99c/thumbnails/c3ca32189f70450180e53a17154ece23/61c3af037e6e4247ba096b30cbb364d9.jpeg"
+            },
+            {
+                "uid": "cabd183d39d449f5ac6320562f164628",
+                "width": 1024,
+                "height": 576,
+                "size": 26767,
+                "url": "https://media.sketchfab.com/models/1f40acd68c304fa4bf8c0b20d92cb99c/thumbnails/c3ca32189f70450180e53a17154ece23/742fae960b424f54ada9073bd5bf2788.jpeg"
+            },
+            {
+                "uid": "da77efdffac948fb8af517c5597113a8",
+                "width": 720,
+                "height": 405,
+                "size": 16044,
+                "url": "https://media.sketchfab.com/models/1f40acd68c304fa4bf8c0b20d92cb99c/thumbnails/c3ca32189f70450180e53a17154ece23/79f3d1995f764f0dab6f0ab24102d5a9.jpeg"
+            },
+            {
+                "uid": "fa4140f1c44946ae91007787847d4555",
+                "width": 256,
+                "height": 144,
+                "size": 3895,
+                "url": "https://media.sketchfab.com/models/1f40acd68c304fa4bf8c0b20d92cb99c/thumbnails/c3ca32189f70450180e53a17154ece23/3bd475a3d9f048a9b6106c06de5d47c5.jpeg"
+            },
+            {
+                "uid": "b09a19ac564e41219f8ef1c3ae61e89d",
+                "width": 64,
+                "height": 36,
+                "size": 1099,
+                "url": "https://media.sketchfab.com/models/1f40acd68c304fa4bf8c0b20d92cb99c/thumbnails/c3ca32189f70450180e53a17154ece23/77a88711b5ef422496e7dc50ec224fac.jpeg"
+            }
+        ]
+    },
+    "uid": "1f40acd68c304fa4bf8c0b20d92cb99c",
+    "uri": "https://api.sketchfab.com/v3/models/1f40acd68c304fa4bf8c0b20d92cb99c",
+    "user": {
+        "uid": "91d0a832ff4b4adf8afcadcef1d7b79d",
+        "username": "hohweileralbane",
+        "displayName": "Hohweiler Albane",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hohweileralbane",
+        "avatar": {
+            "uid": "a840c58300b6452b8bd305ebdf47c0d9",
+            "uri": "https://api.sketchfab.com/v3/avatars/a840c58300b6452b8bd305ebdf47c0d9",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 988,
+                    "url": "https://media.sketchfab.com/avatars/a840c58300b6452b8bd305ebdf47c0d9/024591cf901d401daea21f4bb7652eb2.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1278,
+                    "url": "https://media.sketchfab.com/avatars/a840c58300b6452b8bd305ebdf47c0d9/6f576926ece14eaba7cd3cd52c4f832b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2484,
+                    "url": "https://media.sketchfab.com/avatars/a840c58300b6452b8bd305ebdf47c0d9/43c3ae837c4d45a288ebb9093a99b45e.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2894,
+                    "url": "https://media.sketchfab.com/avatars/a840c58300b6452b8bd305ebdf47c0d9/ca6ccb2406e74cd195d31554258fbb79.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/91d0a832ff4b4adf8afcadcef1d7b79d"
+    },
+    "vertexCount": 7650,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/floppy-machine-3d-prop-study-1f40acd68c304fa4bf8c0b20d92cb99c",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Floppy Machine - 3D Prop Study\n\nInspired by Arthur Mougne’s original concept, this project explores a stylized, hand-painted approach to hard-surface props.\nI focused on preserving the strong shapes and playful proportions in 3D.\nhttps://www.artstation.com/artwork/6NW9k0\n\nThe model was created in Maya, textured in Substance Painter, with final presentation adjustments done in Photoshop.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1f40acd68c304fa4bf8c0b20d92cb99c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T11:20:51.608012",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

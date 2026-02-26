@@ -1,0 +1,68 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.8
+        },
+        {
+            "name": "War",
+            "score": 0.7
+        },
+        {
+            "name": "Knight",
+            "score": 0.6
+        },
+        {
+            "name": "Historical",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "High-Definition",
+            "score": 0.7
+        },
+        {
+            "name": "Realistic",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "Knight",
+        "Medieval",
+        "Armor",
+        "Shield",
+        "Sword",
+        "Polearm",
+        "Crest",
+        "Cross",
+        "Historical"
+    ],
+    "model_id_full": "42da4754b0994752a6321ad0b08b77ca_Teutonic Knight on Ice",
+    "sketchfab_id": "42da4754b0994752a6321ad0b08b77ca",
+    "asset_name": "Teutonic Knight on Ice"
+}

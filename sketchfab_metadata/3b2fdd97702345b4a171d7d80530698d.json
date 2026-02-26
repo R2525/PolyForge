@@ -1,0 +1,196 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-12-03T17:24:18.841920",
+    "embedUrl": "https://sketchfab.com/models/3b2fdd97702345b4a171d7d80530698d/embed",
+    "faceCount": 2450502,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/72eb2b1960364637901eacce19283624",
+        "label": "Free Standard",
+        "fullName": "Free Standard",
+        "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+        "url": "https://sketchfab.com/licenses",
+        "slug": "free-st"
+    },
+    "likeCount": 3,
+    "name": "dwarf body (high poly)",
+    "publishedAt": "2025-12-03T17:49:26.968603",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "body",
+            "slug": "body",
+            "uri": "https://api.sketchfab.com/v3/tags/body"
+        },
+        {
+            "name": "warhammer",
+            "slug": "warhammer",
+            "uri": "https://api.sketchfab.com/v3/tags/warhammer"
+        },
+        {
+            "name": "dwarf",
+            "slug": "dwarf",
+            "uri": "https://api.sketchfab.com/v3/tags/dwarf"
+        },
+        {
+            "name": "lotr",
+            "slug": "lotr",
+            "uri": "https://api.sketchfab.com/v3/tags/lotr"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "highpoly",
+            "slug": "highpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/highpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "00b3e7a505f149e786cfd3f486a35a03",
+                "width": 1920,
+                "height": 1080,
+                "size": 90719,
+                "url": "https://media.sketchfab.com/models/3b2fdd97702345b4a171d7d80530698d/thumbnails/fedfe0da044d4d398f867403b8e50368/32a0945457f54281acea2f43b044af57.jpeg"
+            },
+            {
+                "uid": "eba533ef3fc441f7973fb302f0cc2352",
+                "width": 1024,
+                "height": 576,
+                "size": 31590,
+                "url": "https://media.sketchfab.com/models/3b2fdd97702345b4a171d7d80530698d/thumbnails/fedfe0da044d4d398f867403b8e50368/c6f0b40a0e8b401a8475caecbc3e23a2.jpeg"
+            },
+            {
+                "uid": "7f4a2768e15149a289986136052d9c21",
+                "width": 720,
+                "height": 405,
+                "size": 19033,
+                "url": "https://media.sketchfab.com/models/3b2fdd97702345b4a171d7d80530698d/thumbnails/fedfe0da044d4d398f867403b8e50368/d1f35a34692d4d7791405bbc46d9948a.jpeg"
+            },
+            {
+                "uid": "44de2eb97e7f4c36a9d521150f20dcbf",
+                "width": 256,
+                "height": 144,
+                "size": 4650,
+                "url": "https://media.sketchfab.com/models/3b2fdd97702345b4a171d7d80530698d/thumbnails/fedfe0da044d4d398f867403b8e50368/aef0d2577bef4236bb89f66a764bce5e.jpeg"
+            },
+            {
+                "uid": "1082dd29776844869cce5bf2838f4d70",
+                "width": 64,
+                "height": 36,
+                "size": 1213,
+                "url": "https://media.sketchfab.com/models/3b2fdd97702345b4a171d7d80530698d/thumbnails/fedfe0da044d4d398f867403b8e50368/5dca98fdc86f4f73ba455a1441ca0ff5.jpeg"
+            }
+        ]
+    },
+    "uid": "3b2fdd97702345b4a171d7d80530698d",
+    "uri": "https://api.sketchfab.com/v3/models/3b2fdd97702345b4a171d7d80530698d",
+    "user": {
+        "uid": "03844f024bc0402380ea25a3b30e0e38",
+        "username": "mustard-gas",
+        "displayName": "mustard gas",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mustard-gas",
+        "avatar": {
+            "uid": "5a5cfcafa36244b4a97f0e4df512fc03",
+            "uri": "https://api.sketchfab.com/v3/avatars/5a5cfcafa36244b4a97f0e4df512fc03",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2225,
+                    "url": "https://media.sketchfab.com/avatars/5a5cfcafa36244b4a97f0e4df512fc03/e7171864ea074d69bbab155e134e426f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4472,
+                    "url": "https://media.sketchfab.com/avatars/5a5cfcafa36244b4a97f0e4df512fc03/fa13a297e92b4a6a805cdd99f5e98917.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 13785,
+                    "url": "https://media.sketchfab.com/avatars/5a5cfcafa36244b4a97f0e4df512fc03/717471ae2b404253a5ef85ead000e085.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 16667,
+                    "url": "https://media.sketchfab.com/avatars/5a5cfcafa36244b4a97f0e4df512fc03/21ffbbffce454f088cdedcfa3358b11b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/03844f024bc0402380ea25a3b30e0e38"
+    },
+    "vertexCount": 1225267,
+    "viewCount": 97,
+    "viewerUrl": "https://sketchfab.com/3d-models/dwarf-body-high-poly-3b2fdd97702345b4a171d7d80530698d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "while making this beardling. i was trying to do something that match the lord of the rings and warhammer settings. because i think those two have the best dwarfs.\n\nthis model is free and no credit needed.",
+    "price": null,
+    "downloadCount": 27,
+    "editorUrl": "https://sketchfab.com/models/3b2fdd97702345b4a171d7d80530698d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-03T17:51:38.681509",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 2
+}

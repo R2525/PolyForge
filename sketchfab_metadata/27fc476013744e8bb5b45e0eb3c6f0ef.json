@@ -1,0 +1,170 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-05T11:21:53.298356",
+    "embedUrl": "https://sketchfab.com/models/27fc476013744e8bb5b45e0eb3c6f0ef/embed",
+    "faceCount": 3816,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Raijin Dragonbone - Low Poly 3D Weapon Model",
+    "publishedAt": "2026-01-05T11:24:41.631135",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "swords",
+            "slug": "swords",
+            "uri": "https://api.sketchfab.com/v3/tags/swords"
+        },
+        {
+            "name": "sword-weapon",
+            "slug": "sword-weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/sword-weapon"
+        },
+        {
+            "name": "darkfantasy",
+            "slug": "darkfantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/darkfantasy"
+        },
+        {
+            "name": "sword-3d-model",
+            "slug": "sword-3d-model",
+            "uri": "https://api.sketchfab.com/v3/tags/sword-3d-model"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "c00a20074a834274a85540dfae11f8e2",
+                "width": 1920,
+                "height": 1080,
+                "size": 60304,
+                "url": "https://media.sketchfab.com/models/27fc476013744e8bb5b45e0eb3c6f0ef/thumbnails/54a0d5752ea94bb69b45fa33b728b763/6fd65e309f064b7e90c7b89c8f10ac05.jpeg"
+            },
+            {
+                "uid": "0a8814a3d4244bc8b06fbaea6db99675",
+                "width": 1024,
+                "height": 576,
+                "size": 19778,
+                "url": "https://media.sketchfab.com/models/27fc476013744e8bb5b45e0eb3c6f0ef/thumbnails/54a0d5752ea94bb69b45fa33b728b763/c66f38ed701440a08397ee58186f3117.jpeg"
+            },
+            {
+                "uid": "39b65ff4bd8949e092c54025f7a0f840",
+                "width": 720,
+                "height": 405,
+                "size": 11347,
+                "url": "https://media.sketchfab.com/models/27fc476013744e8bb5b45e0eb3c6f0ef/thumbnails/54a0d5752ea94bb69b45fa33b728b763/a2c6b7181e03452c8533dd2eb6e97d97.jpeg"
+            },
+            {
+                "uid": "58fb4ac17d8540a78f645ebcb7942d01",
+                "width": 256,
+                "height": 144,
+                "size": 2457,
+                "url": "https://media.sketchfab.com/models/27fc476013744e8bb5b45e0eb3c6f0ef/thumbnails/54a0d5752ea94bb69b45fa33b728b763/d22f0552fb644cd2b042002abe5bbaa0.jpeg"
+            },
+            {
+                "uid": "e85d3804f5514b619836688e573fd523",
+                "width": 64,
+                "height": 36,
+                "size": 875,
+                "url": "https://media.sketchfab.com/models/27fc476013744e8bb5b45e0eb3c6f0ef/thumbnails/54a0d5752ea94bb69b45fa33b728b763/f30a39680b5345849fdcef4ca0eb96de.jpeg"
+            }
+        ]
+    },
+    "uid": "27fc476013744e8bb5b45e0eb3c6f0ef",
+    "uri": "https://api.sketchfab.com/v3/models/27fc476013744e8bb5b45e0eb3c6f0ef",
+    "user": {
+        "uid": "f7995448aa7b43ccb44808931da00ca8",
+        "username": "AvarForge3D",
+        "displayName": "AvarForge3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/AvarForge3D",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f7995448aa7b43ccb44808931da00ca8"
+    },
+    "vertexCount": 1910,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/raijin-dragonbone-low-poly-3d-weapon-model-27fc476013744e8bb5b45e0eb3c6f0ef",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Bring a boss-tier weapon into your game with the **Raijin Dragonbone Cleaver** — a dark-fantasy, semi-realistic greatsword/cleaver featuring a vertebrae spine along the back, metal-scale inlays, and a dragon-claw pommel. It’s built as a clean, production-ready game asset you can drop into any action RPG, souls-like, hack-and-slash, roguelite, or stylized fantasy project.\n\n**What’s included**\n1× hero-quality weapon mesh (FBX), single material, non-rigged.\nPBR textures (separate maps): BaseColor, Normal, Roughness, Metallic, Ambient Occlusion.\n\nCustomization\nCreate fast color variants by adjusting BaseColor or using material tint; push the mood from cold indigo steel to warm volcanic metal in seconds.\nScales and spine read clearly at mid/low spec; easy to add your own emission/VFX or blood decals if desired.\nPlayer “hero” weapon, boss drop, blacksmith inventory, or premium shop item.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/27fc476013744e8bb5b45e0eb3c6f0ef/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-05T11:24:41.809852",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

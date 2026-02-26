@@ -1,0 +1,229 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+            "name": "Places & Travel",
+            "slug": "places-travel",
+            "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-13T11:00:42.184047",
+    "embedUrl": "https://sketchfab.com/models/34910d974e4d4c41b39127814e3a7246/embed",
+    "faceCount": 133124,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Decayed Abandoned Train Tunnel Entrance",
+    "publishedAt": "2026-01-13T11:03:18.130654",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "abandoned",
+            "slug": "abandoned",
+            "uri": "https://api.sketchfab.com/v3/tags/abandoned"
+        },
+        {
+            "name": "winter",
+            "slug": "winter",
+            "uri": "https://api.sketchfab.com/v3/tags/winter"
+        },
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "bunker",
+            "slug": "bunker",
+            "uri": "https://api.sketchfab.com/v3/tags/bunker"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "entrance",
+            "slug": "entrance",
+            "uri": "https://api.sketchfab.com/v3/tags/entrance"
+        },
+        {
+            "name": "snow",
+            "slug": "snow",
+            "uri": "https://api.sketchfab.com/v3/tags/snow"
+        },
+        {
+            "name": "graffiti",
+            "slug": "graffiti",
+            "uri": "https://api.sketchfab.com/v3/tags/graffiti"
+        },
+        {
+            "name": "postapocalyptic",
+            "slug": "postapocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/postapocalyptic"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "decay",
+            "slug": "decay",
+            "uri": "https://api.sketchfab.com/v3/tags/decay"
+        },
+        {
+            "name": "Tunnel",
+            "slug": "tunnel",
+            "uri": "https://api.sketchfab.com/v3/tags/tunnel"
+        },
+        {
+            "name": "photogrammetry",
+            "slug": "photogrammetry",
+            "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "scan",
+            "slug": "scan",
+            "uri": "https://api.sketchfab.com/v3/tags/scan"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ebe58d1fca3a49e0aa203476deb4dd8a",
+                "width": 1920,
+                "height": 1080,
+                "size": 403386,
+                "url": "https://media.sketchfab.com/models/34910d974e4d4c41b39127814e3a7246/thumbnails/67f50cd1f25e481687cb640eacc9f969/d7b70d83264a4a8095e94d83e80c088d.jpeg"
+            },
+            {
+                "uid": "a5a8bf313ab247578c8e5df8ba2d4756",
+                "width": 1024,
+                "height": 576,
+                "size": 144272,
+                "url": "https://media.sketchfab.com/models/34910d974e4d4c41b39127814e3a7246/thumbnails/67f50cd1f25e481687cb640eacc9f969/a1ad64e101334b04898604c341e34834.jpeg"
+            },
+            {
+                "uid": "f6824641d4744c4d8dc5318870c3cd31",
+                "width": 720,
+                "height": 405,
+                "size": 85024,
+                "url": "https://media.sketchfab.com/models/34910d974e4d4c41b39127814e3a7246/thumbnails/67f50cd1f25e481687cb640eacc9f969/79459e924d544e1dac05ff6009457a3b.jpeg"
+            },
+            {
+                "uid": "e95d8979acf9442287d21d69f1a77d42",
+                "width": 256,
+                "height": 144,
+                "size": 15578,
+                "url": "https://media.sketchfab.com/models/34910d974e4d4c41b39127814e3a7246/thumbnails/67f50cd1f25e481687cb640eacc9f969/1daa3644682e4aaf9d746c6ec1e54009.jpeg"
+            },
+            {
+                "uid": "0380b4f024354f7da8e61cc63593b2fc",
+                "width": 64,
+                "height": 36,
+                "size": 1862,
+                "url": "https://media.sketchfab.com/models/34910d974e4d4c41b39127814e3a7246/thumbnails/67f50cd1f25e481687cb640eacc9f969/41c6d56b457f4be5b1276330f5c90fb4.jpeg"
+            }
+        ]
+    },
+    "uid": "34910d974e4d4c41b39127814e3a7246",
+    "uri": "https://api.sketchfab.com/v3/models/34910d974e4d4c41b39127814e3a7246",
+    "user": {
+        "uid": "a2ffafce88fc49e4b6324ed03d198800",
+        "username": "michaelmiz92",
+        "displayName": "Mike92",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/michaelmiz92",
+        "avatar": {
+            "uid": "6974ec4b8f964a5a8f744f249bc7e7f6",
+            "uri": "https://api.sketchfab.com/v3/avatars/6974ec4b8f964a5a8f744f249bc7e7f6",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 987,
+                    "url": "https://media.sketchfab.com/avatars/6974ec4b8f964a5a8f744f249bc7e7f6/21c570c227c448ea9dfb2fb238c5fe45.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1349,
+                    "url": "https://media.sketchfab.com/avatars/6974ec4b8f964a5a8f744f249bc7e7f6/0400cb2713d546b598ad06ffbf1c89d1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3066,
+                    "url": "https://media.sketchfab.com/avatars/6974ec4b8f964a5a8f744f249bc7e7f6/9288d1a94f434c01b2b6e3e73eb22ab0.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3603,
+                    "url": "https://media.sketchfab.com/avatars/6974ec4b8f964a5a8f744f249bc7e7f6/1dd880067c64419b8d364376f8e81bbe.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a2ffafce88fc49e4b6324ed03d198800"
+    },
+    "vertexCount": 66643,
+    "viewCount": 23,
+    "viewerUrl": "https://sketchfab.com/3d-models/decayed-abandoned-train-tunnel-entrance-34910d974e4d4c41b39127814e3a7246",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Part of the https://www.anatomyofdecay.com/ pack. Get new regular assets at a fixed price when you buy the pre launch.\n\nThis is a photogrammetry scan of an old abandoned and decayed train tunnel entrance in the winter.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/34910d974e4d4c41b39127814e3a7246/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-13T11:53:54.808593",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

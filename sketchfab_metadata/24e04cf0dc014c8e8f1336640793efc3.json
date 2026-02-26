@@ -1,0 +1,142 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-14T01:20:22.891602",
+    "embedUrl": "https://sketchfab.com/models/24e04cf0dc014c8e8f1336640793efc3/embed",
+    "faceCount": 942,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "Spiderman rig",
+    "publishedAt": "2026-01-14T01:21:05.270779",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "spiderman",
+            "slug": "spiderman",
+            "uri": "https://api.sketchfab.com/v3/tags/spiderman"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a04ac056ee6649cca659744a62b2fa80",
+                "width": 1920,
+                "height": 1080,
+                "size": 56226,
+                "url": "https://media.sketchfab.com/models/24e04cf0dc014c8e8f1336640793efc3/thumbnails/c4c24ba5a3194ffe94e71443aeb7177b/081792a4062049d4a582f912a6dd01e9.jpeg"
+            },
+            {
+                "uid": "609fd70a3af74713850beba6eeb95323",
+                "width": 1024,
+                "height": 576,
+                "size": 19068,
+                "url": "https://media.sketchfab.com/models/24e04cf0dc014c8e8f1336640793efc3/thumbnails/c4c24ba5a3194ffe94e71443aeb7177b/d1085e96407c42ef9257b7f120fd21c5.jpeg"
+            },
+            {
+                "uid": "2787547aaf5443b495c357adc9eac410",
+                "width": 720,
+                "height": 405,
+                "size": 11375,
+                "url": "https://media.sketchfab.com/models/24e04cf0dc014c8e8f1336640793efc3/thumbnails/c4c24ba5a3194ffe94e71443aeb7177b/475ca1c107cb4332bcb34302540b6a91.jpeg"
+            },
+            {
+                "uid": "95142439b34f4b59b5bd6dfefe75a982",
+                "width": 256,
+                "height": 144,
+                "size": 2791,
+                "url": "https://media.sketchfab.com/models/24e04cf0dc014c8e8f1336640793efc3/thumbnails/c4c24ba5a3194ffe94e71443aeb7177b/a1d141a723b74743afe3bdea4baba309.jpeg"
+            },
+            {
+                "uid": "97435d27851f4981a04dbbaf1c0840ff",
+                "width": 64,
+                "height": 36,
+                "size": 962,
+                "url": "https://media.sketchfab.com/models/24e04cf0dc014c8e8f1336640793efc3/thumbnails/c4c24ba5a3194ffe94e71443aeb7177b/67388107e2c945e483a3bdd934736a3f.jpeg"
+            }
+        ]
+    },
+    "uid": "24e04cf0dc014c8e8f1336640793efc3",
+    "uri": "https://api.sketchfab.com/v3/models/24e04cf0dc014c8e8f1336640793efc3",
+    "user": {
+        "uid": "ec0cd10a66db4bb5a1865a04343c7622",
+        "username": "alvarotorales3",
+        "displayName": "Tung tung tung sahur",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alvarotorales3",
+        "avatar": {
+            "uid": "d7fdcb735f974798b1f7f5b47e5247ab",
+            "uri": "https://api.sketchfab.com/v3/avatars/d7fdcb735f974798b1f7f5b47e5247ab",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1277,
+                    "url": "https://media.sketchfab.com/avatars/d7fdcb735f974798b1f7f5b47e5247ab/850e63871cad4832b94fe980d89221a0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1905,
+                    "url": "https://media.sketchfab.com/avatars/d7fdcb735f974798b1f7f5b47e5247ab/cbbefe5ab2d44aada68a80b586923bf0.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3856,
+                    "url": "https://media.sketchfab.com/avatars/d7fdcb735f974798b1f7f5b47e5247ab/6fd3f2a6b1d748648ff9c1c4ff04c590.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4287,
+                    "url": "https://media.sketchfab.com/avatars/d7fdcb735f974798b1f7f5b47e5247ab/ef5c26d500c64545a971dd2ef8262602.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ec0cd10a66db4bb5a1865a04343c7622"
+    },
+    "vertexCount": 472,
+    "viewCount": 494,
+    "viewerUrl": "https://sketchfab.com/3d-models/spiderman-rig-24e04cf0dc014c8e8f1336640793efc3",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 87,
+    "editorUrl": "https://sketchfab.com/models/24e04cf0dc014c8e8f1336640793efc3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-16T23:28:37.684050",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

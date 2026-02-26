@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+            "name": "Places & Travel",
+            "slug": "places-travel",
+            "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T04:48:07.752465",
+    "embedUrl": "https://sketchfab.com/models/00d7abbe844d429d953a1e29d682c0fe/embed",
+    "faceCount": 41771,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": ".GØDHeaD.⟠'☠'⟠.'ᛗᛟᚱᚱᛁᚷᚨᚾ'.",
+    "publishedAt": "2026-02-23T05:05:23.890137",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "monument",
+            "slug": "monument",
+            "uri": "https://api.sketchfab.com/v3/tags/monument"
+        },
+        {
+            "name": "buildings",
+            "slug": "buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/buildings"
+        },
+        {
+            "name": "hero",
+            "slug": "hero",
+            "uri": "https://api.sketchfab.com/v3/tags/hero"
+        },
+        {
+            "name": "morrigan",
+            "slug": "morrigan",
+            "uri": "https://api.sketchfab.com/v3/tags/morrigan"
+        },
+        {
+            "name": "statue",
+            "slug": "statue",
+            "uri": "https://api.sketchfab.com/v3/tags/statue"
+        },
+        {
+            "name": "head",
+            "slug": "head",
+            "uri": "https://api.sketchfab.com/v3/tags/head"
+        },
+        {
+            "name": "decorations",
+            "slug": "decorations",
+            "uri": "https://api.sketchfab.com/v3/tags/decorations"
+        },
+        {
+            "name": "STRUCTURES",
+            "slug": "structures",
+            "uri": "https://api.sketchfab.com/v3/tags/structures"
+        },
+        {
+            "name": "structuresynth",
+            "slug": "structuresynth",
+            "uri": "https://api.sketchfab.com/v3/tags/structuresynth"
+        },
+        {
+            "name": "statues",
+            "slug": "statues",
+            "uri": "https://api.sketchfab.com/v3/tags/statues"
+        },
+        {
+            "name": "iconography",
+            "slug": "iconography",
+            "uri": "https://api.sketchfab.com/v3/tags/iconography"
+        },
+        {
+            "name": "stylized-building",
+            "slug": "stylized-building",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-building"
+        },
+        {
+            "name": "2ktextures",
+            "slug": "2ktextures",
+            "uri": "https://api.sketchfab.com/v3/tags/2ktextures"
+        },
+        {
+            "name": "decorative-element",
+            "slug": "decorative-element",
+            "uri": "https://api.sketchfab.com/v3/tags/decorative-element"
+        },
+        {
+            "name": "godhead",
+            "slug": "godhead",
+            "uri": "https://api.sketchfab.com/v3/tags/godhead"
+        },
+        {
+            "name": "architecture-places-travel",
+            "slug": "architecture-places-travel",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture-places-travel"
+        },
+        {
+            "name": "monumental-statue",
+            "slug": "monumental-statue",
+            "uri": "https://api.sketchfab.com/v3/tags/monumental-statue"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "structure",
+            "slug": "structure",
+            "uri": "https://api.sketchfab.com/v3/tags/structure"
+        },
+        {
+            "name": "decoration",
+            "slug": "decoration",
+            "uri": "https://api.sketchfab.com/v3/tags/decoration"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "architecture-fashion-style",
+            "slug": "architecture-fashion-style",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture-fashion-style"
+        },
+        {
+            "name": "decorative-object",
+            "slug": "decorative-object",
+            "uri": "https://api.sketchfab.com/v3/tags/decorative-object"
+        },
+        {
+            "name": "decorative-arts",
+            "slug": "decorative-arts",
+            "uri": "https://api.sketchfab.com/v3/tags/decorative-arts"
+        },
+        {
+            "name": "stylizedarchitecture",
+            "slug": "stylizedarchitecture",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedarchitecture"
+        },
+        {
+            "name": "stylizedbuilding",
+            "slug": "stylizedbuilding",
+            "uri": "https://api.sketchfab.com/v3/tags/stylizedbuilding"
+        },
+        {
+            "name": "monumental-buildings",
+            "slug": "monumental-buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/monumental-buildings"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "sloyd",
+            "slug": "sloyd",
+            "uri": "https://api.sketchfab.com/v3/tags/sloyd"
+        },
+        {
+            "name": "sloydai",
+            "slug": "sloydai",
+            "uri": "https://api.sketchfab.com/v3/tags/sloydai"
+        },
+        {
+            "name": "stylized-statue",
+            "slug": "stylized-statue",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-statue"
+        },
+        {
+            "name": "evil-demon",
+            "slug": "evil-demon",
+            "uri": "https://api.sketchfab.com/v3/tags/evil-demon"
+        },
+        {
+            "name": "scifi-art",
+            "slug": "scifi-art",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi-art"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "stylized-architecture",
+            "slug": "stylized-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-architecture"
+        },
+        {
+            "name": "sloyd3d",
+            "slug": "sloyd3d",
+            "uri": "https://api.sketchfab.com/v3/tags/sloyd3d"
+        },
+        {
+            "name": "sloyd3dai",
+            "slug": "sloyd3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/sloyd3dai"
+        },
+        {
+            "name": "sloyd-models",
+            "slug": "sloyd-models",
+            "uri": "https://api.sketchfab.com/v3/tags/sloyd-models"
+        },
+        {
+            "name": "god-head",
+            "slug": "god-head",
+            "uri": "https://api.sketchfab.com/v3/tags/god-head"
+        },
+        {
+            "name": "godhead-morrigan",
+            "slug": "godhead-morrigan",
+            "uri": "https://api.sketchfab.com/v3/tags/godhead-morrigan"
+        },
+        {
+            "name": "godheadmorrigan",
+            "slug": "godheadmorrigan",
+            "uri": "https://api.sketchfab.com/v3/tags/godheadmorrigan"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5be4391fa23c46bd89276eba14dc4db5",
+                "width": 1920,
+                "height": 1080,
+                "size": 353037,
+                "url": "https://media.sketchfab.com/models/00d7abbe844d429d953a1e29d682c0fe/thumbnails/cd12a37a18e64e9b9258735e6af48765/96c31a12d0f94fd281e86679c9982814.jpeg"
+            },
+            {
+                "uid": "d4c02e93a89843f6b7a4bf33fd40c5c1",
+                "width": 1024,
+                "height": 576,
+                "size": 78060,
+                "url": "https://media.sketchfab.com/models/00d7abbe844d429d953a1e29d682c0fe/thumbnails/cd12a37a18e64e9b9258735e6af48765/32969146998943d2b8dfa5d508973610.jpeg"
+            },
+            {
+                "uid": "f6c6b7c8f635452ca51aa17fa4fa043a",
+                "width": 720,
+                "height": 405,
+                "size": 42489,
+                "url": "https://media.sketchfab.com/models/00d7abbe844d429d953a1e29d682c0fe/thumbnails/cd12a37a18e64e9b9258735e6af48765/57e735f9ba3342c79e8358eb0e491d29.jpeg"
+            },
+            {
+                "uid": "4f5f0317b974408dac2a458810111f8c",
+                "width": 256,
+                "height": 144,
+                "size": 7508,
+                "url": "https://media.sketchfab.com/models/00d7abbe844d429d953a1e29d682c0fe/thumbnails/cd12a37a18e64e9b9258735e6af48765/75b76eb701454ee7a9050af7931b624c.jpeg"
+            },
+            {
+                "uid": "54197064e4c948c5b9ca54e21da6e510",
+                "width": 64,
+                "height": 36,
+                "size": 1315,
+                "url": "https://media.sketchfab.com/models/00d7abbe844d429d953a1e29d682c0fe/thumbnails/cd12a37a18e64e9b9258735e6af48765/98e64066a928437ebc2da0f083141f05.jpeg"
+            }
+        ]
+    },
+    "uid": "00d7abbe844d429d953a1e29d682c0fe",
+    "uri": "https://api.sketchfab.com/v3/models/00d7abbe844d429d953a1e29d682c0fe",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 21876,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/gdhead-00d7abbe844d429d953a1e29d682c0fe",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 4,
+    "editorUrl": "https://sketchfab.com/models/00d7abbe844d429d953a1e29d682c0fe/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:32:03.325096",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

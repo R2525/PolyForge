@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T08:05:48.056135",
+    "embedUrl": "https://sketchfab.com/models/02d5d1ecdeeb4790b86df8e257d55934/embed",
+    "faceCount": 2460,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Sci-Fi Industrial Blast Door – PBR Game Ready",
+    "publishedAt": "2026-02-21T08:06:58.673619",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blastdoor",
+            "slug": "blastdoor",
+            "uri": "https://api.sketchfab.com/v3/tags/blastdoor"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "12261ece68bd48f0a0c8e54a5cd3e5fc",
+                "width": 1920,
+                "height": 1080,
+                "size": 256270,
+                "url": "https://media.sketchfab.com/models/02d5d1ecdeeb4790b86df8e257d55934/thumbnails/3a53d3fe55914e848dd726cb79d55f3c/b9a17edd439c4bcea025cb27ec2be4f9.jpeg"
+            },
+            {
+                "uid": "5209a4b77e644793b3260284be7b0990",
+                "width": 1024,
+                "height": 576,
+                "size": 51057,
+                "url": "https://media.sketchfab.com/models/02d5d1ecdeeb4790b86df8e257d55934/thumbnails/3a53d3fe55914e848dd726cb79d55f3c/a2b338a1827440e7bd5a5131c9a2a153.jpeg"
+            },
+            {
+                "uid": "e776a786de484fe19525eb3126e9fb7a",
+                "width": 720,
+                "height": 405,
+                "size": 22935,
+                "url": "https://media.sketchfab.com/models/02d5d1ecdeeb4790b86df8e257d55934/thumbnails/3a53d3fe55914e848dd726cb79d55f3c/c7e05265c18640719be930fcd25e9292.jpeg"
+            },
+            {
+                "uid": "d4969835fc754f40aafbc1e1af6543ac",
+                "width": 256,
+                "height": 144,
+                "size": 3693,
+                "url": "https://media.sketchfab.com/models/02d5d1ecdeeb4790b86df8e257d55934/thumbnails/3a53d3fe55914e848dd726cb79d55f3c/932f00c7c3e64fc3ba6e6d7f85ba57c8.jpeg"
+            },
+            {
+                "uid": "bf460f640fe34960a82a5ec5fd1dd836",
+                "width": 64,
+                "height": 36,
+                "size": 980,
+                "url": "https://media.sketchfab.com/models/02d5d1ecdeeb4790b86df8e257d55934/thumbnails/3a53d3fe55914e848dd726cb79d55f3c/b66cf32115434cc18d220ea521d2891b.jpeg"
+            }
+        ]
+    },
+    "uid": "02d5d1ecdeeb4790b86df8e257d55934",
+    "uri": "https://api.sketchfab.com/v3/models/02d5d1ecdeeb4790b86df8e257d55934",
+    "user": {
+        "uid": "2c84dff7b54d435891254be824e96753",
+        "username": "Kunal.Kohli",
+        "displayName": "Kunal.Kohli",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Kunal.Kohli",
+        "avatar": {
+            "uid": "69dac071388e4e4e86a7d9ac62f57834",
+            "uri": "https://api.sketchfab.com/v3/avatars/69dac071388e4e4e86a7d9ac62f57834",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1053,
+                    "url": "https://media.sketchfab.com/avatars/69dac071388e4e4e86a7d9ac62f57834/13091bc10f3547d087a2791219cc0a1c.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1340,
+                    "url": "https://media.sketchfab.com/avatars/69dac071388e4e4e86a7d9ac62f57834/886bf29b26b04cc6a55896bb6e69337e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2377,
+                    "url": "https://media.sketchfab.com/avatars/69dac071388e4e4e86a7d9ac62f57834/63a4f471be9f4ab89b25a7790c1d8971.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2604,
+                    "url": "https://media.sketchfab.com/avatars/69dac071388e4e4e86a7d9ac62f57834/2954f9ef19084534b571af4ad6bb74ed.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2c84dff7b54d435891254be824e96753"
+    },
+    "vertexCount": 1252,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-industrial-blast-door-pbr-game-ready-02d5d1ecdeeb4790b86df8e257d55934",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Step into the future with this high-quality sci-fi blast door, crafted for seamless integration into games, cinematics, VR/AR projects, and simulations. Designed with clean topology, optimized UVs, and professional PBR texturing, this asset delivers both visual impact and real-time performance.\n\nThe rugged, weathered look conveys heavy industrial use, making it perfect for hangars, starship corridors, military bases, or futuristic complexes. Buyers can easily drop this model into their environments thanks to its modular design and real-world scaling.\n\nFeatures\n> Game-ready 3D model with clean topology and optimized UVs\n\n> PBR texture set included: Albedo, Normal, Roughness, Metallic, AO , Emission\n\n> 4K resolution textures for crisp detail\n\n> Realistic worn metal look with edge wear and dirt buildup\n\n> Optimized for Unreal Engine, Unity, and other real-time engines\n\n> Multiple states possible (closed, open, modular variations)\n\n> Versatile design for sci-fi, futuristic, or industrial settings",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/02d5d1ecdeeb4790b86df8e257d55934/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "SubstancePainter",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T10:03:19.539601",
+    "pbrType": "metalness",
+    "textureCount": 6,
+    "materialCount": 1
+}

@@ -1,0 +1,114 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2025-12-24T15:14:11.885230",
+    "embedUrl": "https://sketchfab.com/models/0315956c281644ad8381e3aecfd8dadc/embed",
+    "faceCount": 18908,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "millennian falcom",
+    "publishedAt": "2025-12-24T15:25:43.362640",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "53be6544c4854af19cfb70e25dc1e6a9",
+                "width": 1920,
+                "height": 1080,
+                "size": 151435,
+                "url": "https://media.sketchfab.com/models/0315956c281644ad8381e3aecfd8dadc/thumbnails/674dea017de94117a6521f821d7f0625/3139889afd274e19b7f56742a705650f.jpeg"
+            },
+            {
+                "uid": "6bed67a5306d4d1fb2c4b1be6fb65c14",
+                "width": 1024,
+                "height": 576,
+                "size": 47573,
+                "url": "https://media.sketchfab.com/models/0315956c281644ad8381e3aecfd8dadc/thumbnails/674dea017de94117a6521f821d7f0625/bbb7d608a4f4489480562016ba5f81d1.jpeg"
+            },
+            {
+                "uid": "bb2ea507f7a44db683776ca9f9dc8392",
+                "width": 720,
+                "height": 405,
+                "size": 26512,
+                "url": "https://media.sketchfab.com/models/0315956c281644ad8381e3aecfd8dadc/thumbnails/674dea017de94117a6521f821d7f0625/2bffa2f8685644ad8a9952cb43804da8.jpeg"
+            },
+            {
+                "uid": "f173c4ee740c436a98c4abfa5f964114",
+                "width": 256,
+                "height": 144,
+                "size": 4850,
+                "url": "https://media.sketchfab.com/models/0315956c281644ad8381e3aecfd8dadc/thumbnails/674dea017de94117a6521f821d7f0625/4ed02f8558314b769fc1ee92c5a9b38e.jpeg"
+            },
+            {
+                "uid": "6fd5395000eb419b8830bbf22a7dc47d",
+                "width": 64,
+                "height": 36,
+                "size": 1117,
+                "url": "https://media.sketchfab.com/models/0315956c281644ad8381e3aecfd8dadc/thumbnails/674dea017de94117a6521f821d7f0625/bb73a1f6214845c7af164564079b47b5.jpeg"
+            }
+        ]
+    },
+    "uid": "0315956c281644ad8381e3aecfd8dadc",
+    "uri": "https://api.sketchfab.com/v3/models/0315956c281644ad8381e3aecfd8dadc",
+    "user": {
+        "uid": "8eb4945aea9e409b837b08a179ddc50d",
+        "username": "davidpenaranda7",
+        "displayName": "davidpenaranda7",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/davidpenaranda7",
+        "avatar": {
+            "uid": "355a7a0340e447f7ae5643279fb26351",
+            "uri": "https://api.sketchfab.com/v3/avatars/355a7a0340e447f7ae5643279fb26351",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1054,
+                    "url": "https://media.sketchfab.com/avatars/355a7a0340e447f7ae5643279fb26351/a4a33403888c4eed97ada09f4963ed5d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1454,
+                    "url": "https://media.sketchfab.com/avatars/355a7a0340e447f7ae5643279fb26351/063841c4daf742f5940e05d08a011fa1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2940,
+                    "url": "https://media.sketchfab.com/avatars/355a7a0340e447f7ae5643279fb26351/e99c4090beb845e4867a2200a2c32cec.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3384,
+                    "url": "https://media.sketchfab.com/avatars/355a7a0340e447f7ae5643279fb26351/45cc92538a5d494eb86e5beb336514da.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8eb4945aea9e409b837b08a179ddc50d"
+    },
+    "vertexCount": 11895,
+    "viewCount": 26,
+    "viewerUrl": "https://sketchfab.com/3d-models/millennian-falcom-0315956c281644ad8381e3aecfd8dadc",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a 3D model of the Millennium Falcon, the iconic Corellian freighter from the Star Wars universe, recreated with attention to detail and adapted for use in a video game or real-time environment.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0315956c281644ad8381e3aecfd8dadc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-24T15:40:10.294960",
+    "pbrType": null,
+    "textureCount": 11,
+    "materialCount": 5
+}

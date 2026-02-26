@@ -1,0 +1,69 @@
+{
+    "category": "Weapons & Military",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.65
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "Low Poly",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Cracked",
+        "Mossy"
+    ],
+    "tags": [
+        "shield",
+        "fortified",
+        "protector",
+        "wooden",
+        "metal",
+        "battle",
+        "ancient",
+        "military"
+    ],
+    "model_id_full": "13ef68a9be9942f5ad931442283810ea_Fortified Protector Shield",
+    "sketchfab_id": "13ef68a9be9942f5ad931442283810ea",
+    "asset_name": "Fortified Protector Shield"
+}

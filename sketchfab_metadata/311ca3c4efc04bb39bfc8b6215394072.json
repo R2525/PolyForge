@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T18:25:43.838076",
+    "embedUrl": "https://sketchfab.com/models/311ca3c4efc04bb39bfc8b6215394072/embed",
+    "faceCount": 144,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Commission !",
+    "publishedAt": "2026-02-20T18:26:09.478587",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "skin",
+            "slug": "skin",
+            "uri": "https://api.sketchfab.com/v3/tags/skin"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f3e0238c49b44b7cabe52c42ec34414f",
+                "width": 1920,
+                "height": 1080,
+                "size": 72070,
+                "url": "https://media.sketchfab.com/models/311ca3c4efc04bb39bfc8b6215394072/thumbnails/b9415de2e5644e1d83d9d7f8494854c4/4d40fbe8b7204e0fbfd73376d7854145.jpeg"
+            },
+            {
+                "uid": "37a5708d8a284b5da07cd36f838f793c",
+                "width": 1024,
+                "height": 576,
+                "size": 27937,
+                "url": "https://media.sketchfab.com/models/311ca3c4efc04bb39bfc8b6215394072/thumbnails/b9415de2e5644e1d83d9d7f8494854c4/28bd747e12104257a911c08e094cc3d6.jpeg"
+            },
+            {
+                "uid": "a4b1d34aeca04882bd1f847b6426a40e",
+                "width": 720,
+                "height": 405,
+                "size": 17182,
+                "url": "https://media.sketchfab.com/models/311ca3c4efc04bb39bfc8b6215394072/thumbnails/b9415de2e5644e1d83d9d7f8494854c4/b58c6be9a65b45d6b9ac2d3e744bc526.jpeg"
+            },
+            {
+                "uid": "d244334015b0483bbff4587babead412",
+                "width": 256,
+                "height": 144,
+                "size": 4208,
+                "url": "https://media.sketchfab.com/models/311ca3c4efc04bb39bfc8b6215394072/thumbnails/b9415de2e5644e1d83d9d7f8494854c4/2ec9f5ebe4a04aeb94a785326b80429b.jpeg"
+            },
+            {
+                "uid": "fc53cfbbf80f4868b3a71b285923c262",
+                "width": 64,
+                "height": 36,
+                "size": 1033,
+                "url": "https://media.sketchfab.com/models/311ca3c4efc04bb39bfc8b6215394072/thumbnails/b9415de2e5644e1d83d9d7f8494854c4/10a19e703c6b47b6ba36b4b4eca8aff2.jpeg"
+            }
+        ]
+    },
+    "uid": "311ca3c4efc04bb39bfc8b6215394072",
+    "uri": "https://api.sketchfab.com/v3/models/311ca3c4efc04bb39bfc8b6215394072",
+    "user": {
+        "uid": "fb3c03216892423eb767513260837872",
+        "username": "kaosilol",
+        "displayName": "Meu portfólio !!",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kaosilol",
+        "avatar": {
+            "uid": "211d4e7f2c62481eb203ef18a6f73e86",
+            "uri": "https://api.sketchfab.com/v3/avatars/211d4e7f2c62481eb203ef18a6f73e86",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1200,
+                    "url": "https://media.sketchfab.com/avatars/211d4e7f2c62481eb203ef18a6f73e86/c2bc9cf200364c059ea4abe1d2889eb4.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1858,
+                    "url": "https://media.sketchfab.com/avatars/211d4e7f2c62481eb203ef18a6f73e86/8aa35be100e34ab38f5fc585289880cf.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4989,
+                    "url": "https://media.sketchfab.com/avatars/211d4e7f2c62481eb203ef18a6f73e86/8da252c708be48888ae28757ff993494.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5800,
+                    "url": "https://media.sketchfab.com/avatars/211d4e7f2c62481eb203ef18a6f73e86/f9f88c25a76640e7843882a5692b2211.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fb3c03216892423eb767513260837872"
+    },
+    "vertexCount": 96,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/commission-311ca3c4efc04bb39bfc8b6215394072",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/311ca3c4efc04bb39bfc8b6215394072/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T18:26:09.601748",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

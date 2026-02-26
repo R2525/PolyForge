@@ -1,0 +1,200 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T11:14:11.823759",
+    "embedUrl": "https://sketchfab.com/models/41365aa30af94f60adb9a15240ae0562/embed",
+    "faceCount": 599128,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Rusted Skeleton Knight",
+    "publishedAt": "2026-02-18T11:14:51.077675",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "skeleton",
+            "slug": "skeleton",
+            "uri": "https://api.sketchfab.com/v3/tags/skeleton"
+        },
+        {
+            "name": "rust",
+            "slug": "rust",
+            "uri": "https://api.sketchfab.com/v3/tags/rust"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "undead",
+            "slug": "undead",
+            "uri": "https://api.sketchfab.com/v3/tags/undead"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2fa6dee315614ebfa9fcfd72ff1ce9ac",
+                "width": 1920,
+                "height": 1080,
+                "size": 60127,
+                "url": "https://media.sketchfab.com/models/41365aa30af94f60adb9a15240ae0562/thumbnails/8b4e64ecc3b642e9970605fdd611a0bd/da995ee883024eae9c32e556e62ba975.jpeg"
+            },
+            {
+                "uid": "860ffefcecc94e45869eb89f3192c201",
+                "width": 1024,
+                "height": 576,
+                "size": 19213,
+                "url": "https://media.sketchfab.com/models/41365aa30af94f60adb9a15240ae0562/thumbnails/8b4e64ecc3b642e9970605fdd611a0bd/5d9d150251f241ef8a7bc85441a31d97.jpeg"
+            },
+            {
+                "uid": "46c54d5a8f28453ea9919addcc358d5d",
+                "width": 720,
+                "height": 405,
+                "size": 11190,
+                "url": "https://media.sketchfab.com/models/41365aa30af94f60adb9a15240ae0562/thumbnails/8b4e64ecc3b642e9970605fdd611a0bd/474cc0f6e1dc4f81b296a0579b99a5b4.jpeg"
+            },
+            {
+                "uid": "76f84d58dd3c4d8da88cbd6a45cf5b34",
+                "width": 256,
+                "height": 144,
+                "size": 2465,
+                "url": "https://media.sketchfab.com/models/41365aa30af94f60adb9a15240ae0562/thumbnails/8b4e64ecc3b642e9970605fdd611a0bd/7285f6c9bc8549dfab2a45cd12088cfa.jpeg"
+            },
+            {
+                "uid": "1466e99810364877b21dae6f8de08089",
+                "width": 64,
+                "height": 36,
+                "size": 901,
+                "url": "https://media.sketchfab.com/models/41365aa30af94f60adb9a15240ae0562/thumbnails/8b4e64ecc3b642e9970605fdd611a0bd/d54c8a60eb034062979abf54b29541b2.jpeg"
+            }
+        ]
+    },
+    "uid": "41365aa30af94f60adb9a15240ae0562",
+    "uri": "https://api.sketchfab.com/v3/models/41365aa30af94f60adb9a15240ae0562",
+    "user": {
+        "uid": "9a8470339da24740804502f2f87aa7e8",
+        "username": "zalexcop",
+        "displayName": "zalexcop",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/zalexcop",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9a8470339da24740804502f2f87aa7e8"
+    },
+    "vertexCount": 299112,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/rusted-skeleton-knight-41365aa30af94f60adb9a15240ae0562",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/BqE5Dh](https://www.meshy.ai/s/BqE5Dh)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/41365aa30af94f60adb9a15240ae0562/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:36:38.309377",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

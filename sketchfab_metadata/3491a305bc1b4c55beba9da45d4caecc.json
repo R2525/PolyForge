@@ -1,0 +1,205 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-07T02:01:24.918630",
+    "embedUrl": "https://sketchfab.com/models/3491a305bc1b4c55beba9da45d4caecc/embed",
+    "faceCount": 18722,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 36,
+    "name": "Stylized Anime Pine & Conifer Tree Pack",
+    "publishedAt": "2026-01-07T02:55:26.175959",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "trunk",
+            "slug": "trunk",
+            "uri": "https://api.sketchfab.com/v3/tags/trunk"
+        },
+        {
+            "name": "bark",
+            "slug": "bark",
+            "uri": "https://api.sketchfab.com/v3/tags/bark"
+        },
+        {
+            "name": "conifer",
+            "slug": "conifer",
+            "uri": "https://api.sketchfab.com/v3/tags/conifer"
+        },
+        {
+            "name": "environment-assets",
+            "slug": "environment-assets",
+            "uri": "https://api.sketchfab.com/v3/tags/environment-assets"
+        },
+        {
+            "name": "stylized-environment",
+            "slug": "stylized-environment",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-environment"
+        },
+        {
+            "name": "pine-tree",
+            "slug": "pine-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/pine-tree"
+        },
+        {
+            "name": "jungle-tree",
+            "slug": "jungle-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/jungle-tree"
+        },
+        {
+            "name": "nature-plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/tags/nature-plants"
+        },
+        {
+            "name": "forest-tree",
+            "slug": "forest-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/forest-tree"
+        },
+        {
+            "name": "ghibli-studio",
+            "slug": "ghibli-studio",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli-studio"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6c8ab244dcdf4fb189c43a48fa38143e",
+                "width": 1920,
+                "height": 1080,
+                "size": 191896,
+                "url": "https://media.sketchfab.com/models/3491a305bc1b4c55beba9da45d4caecc/thumbnails/12fd7d2f6d9e4862bee77cd4738d7e02/3bca9438c8d44b20b59a97687bb18414.jpeg"
+            },
+            {
+                "uid": "4c3c516703cc48c6b29bf7fa41d3cdac",
+                "width": 1024,
+                "height": 576,
+                "size": 58214,
+                "url": "https://media.sketchfab.com/models/3491a305bc1b4c55beba9da45d4caecc/thumbnails/12fd7d2f6d9e4862bee77cd4738d7e02/bd762d57435541169463efe545ba8db9.jpeg"
+            },
+            {
+                "uid": "506e954cd5e240a497b8f2444920a966",
+                "width": 720,
+                "height": 405,
+                "size": 31901,
+                "url": "https://media.sketchfab.com/models/3491a305bc1b4c55beba9da45d4caecc/thumbnails/12fd7d2f6d9e4862bee77cd4738d7e02/228982f570fa4653b3d8e7ce96b16809.jpeg"
+            },
+            {
+                "uid": "afbb063f10b14e978d58b2d8208441d1",
+                "width": 256,
+                "height": 144,
+                "size": 6284,
+                "url": "https://media.sketchfab.com/models/3491a305bc1b4c55beba9da45d4caecc/thumbnails/12fd7d2f6d9e4862bee77cd4738d7e02/af7dd26c3927484fa9c8021d7e1c9de1.jpeg"
+            },
+            {
+                "uid": "66973e946b7f4930ac641dfbe0199d42",
+                "width": 64,
+                "height": 36,
+                "size": 1263,
+                "url": "https://media.sketchfab.com/models/3491a305bc1b4c55beba9da45d4caecc/thumbnails/12fd7d2f6d9e4862bee77cd4738d7e02/ff5b2928bc7b4489ae110164745edfde.jpeg"
+            }
+        ]
+    },
+    "uid": "3491a305bc1b4c55beba9da45d4caecc",
+    "uri": "https://api.sketchfab.com/v3/models/3491a305bc1b4c55beba9da45d4caecc",
+    "user": {
+        "uid": "7547f053f5e141e89b56fdfd9df63a5b",
+        "username": "POLYSCAN3D",
+        "displayName": "POLYSCAN",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/POLYSCAN3D",
+        "avatar": {
+            "uid": "fb5bd098ae604e6e9ebe509cf3af98c2",
+            "uri": "https://api.sketchfab.com/v3/avatars/fb5bd098ae604e6e9ebe509cf3af98c2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 904,
+                    "url": "https://media.sketchfab.com/avatars/fb5bd098ae604e6e9ebe509cf3af98c2/259285d96bc84ee4b16cddbbc653a268.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1144,
+                    "url": "https://media.sketchfab.com/avatars/fb5bd098ae604e6e9ebe509cf3af98c2/ee032bba4ac7456ab260decf4682c99d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1729,
+                    "url": "https://media.sketchfab.com/avatars/fb5bd098ae604e6e9ebe509cf3af98c2/28030dfad3ff456f81c7f750dae3cfd5.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1983,
+                    "url": "https://media.sketchfab.com/avatars/fb5bd098ae604e6e9ebe509cf3af98c2/354c65886248481097d91cd82df11af2.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7547f053f5e141e89b56fdfd9df63a5b"
+    },
+    "vertexCount": 18485,
+    "viewCount": 1774,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-anime-pine-conifer-tree-pack-3491a305bc1b4c55beba9da45d4caecc",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "![](   https://cdnb.artstation.com/p/assets/images/images/082/370/841/large/polyscan-20241128-173547.jpg?1732795561)\nhttps://fab.com/s/e5f8db291e02\n\nThis Stylized Pine Tree Asset Pack includes multiple tree variations with different heights and silhouettes, perfect for creating fantasy forests, stylized open worlds, and cozy nature environments.\n\nEach tree is designed with clean forms, soft stylized foliage clusters, and natural proportions, making it ideal for games inspired by Palia-style, Ghibli-like, or cartoon fantasy aesthetics.\n\nThe pack is optimized for game engines and real-time rendering, suitable for mobile, PC, and indie projects.\n\n🌲 Features:\nMultiple tree size variations (small to tall)\n\nStylized pine / conifer forest trees\n\nClean topology and optimized geometry\n\nConsistent art style for forest environments\n\nGame-ready and lightweight assets\n\n🎮 Ideal For:\nUnity & Unreal Engine projects\n\nIndie & mobile games\n\nStylized forest environments\n\nFantasy RPGs & Open-world",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3491a305bc1b4c55beba9da45d4caecc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-07T08:53:21.399419",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 3
+}

@@ -1,0 +1,172 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T18:00:04.077892",
+    "embedUrl": "https://sketchfab.com/models/3fe19e312eba436aba9843dcde52f5e3/embed",
+    "faceCount": 26914,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Catnap Scary Cat Rigged Ik",
+    "publishedAt": "2026-02-19T18:01:28.740612",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "gaming",
+            "slug": "gaming",
+            "uri": "https://api.sketchfab.com/v3/tags/gaming"
+        },
+        {
+            "name": "purple",
+            "slug": "purple",
+            "uri": "https://api.sketchfab.com/v3/tags/purple"
+        },
+        {
+            "name": "poppy",
+            "slug": "poppy",
+            "uri": "https://api.sketchfab.com/v3/tags/poppy"
+        },
+        {
+            "name": "playtime",
+            "slug": "playtime",
+            "uri": "https://api.sketchfab.com/v3/tags/playtime"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "catnap",
+            "slug": "catnap",
+            "uri": "https://api.sketchfab.com/v3/tags/catnap"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ad38d015d4fa47eaaa81f56af60056dd",
+                "width": 1920,
+                "height": 1080,
+                "size": 46800,
+                "url": "https://media.sketchfab.com/models/3fe19e312eba436aba9843dcde52f5e3/thumbnails/2a29564a76bf41e6a30433acaf63748e/0002c525d751493c966512c998d488ea.jpeg"
+            },
+            {
+                "uid": "38f5f1b6c3d945e4a7c1e39d3c7f299b",
+                "width": 1024,
+                "height": 576,
+                "size": 15409,
+                "url": "https://media.sketchfab.com/models/3fe19e312eba436aba9843dcde52f5e3/thumbnails/2a29564a76bf41e6a30433acaf63748e/adc962bd76184ce3bd9f9c25895ec6c4.jpeg"
+            },
+            {
+                "uid": "8167e1fffe434325aa95bfa3b2cb11f5",
+                "width": 720,
+                "height": 405,
+                "size": 9005,
+                "url": "https://media.sketchfab.com/models/3fe19e312eba436aba9843dcde52f5e3/thumbnails/2a29564a76bf41e6a30433acaf63748e/1c6f3e6365c647f3a0b7d6bb33d6bd3c.jpeg"
+            },
+            {
+                "uid": "ca09ba33d2054fb29ac2a82ecfb61421",
+                "width": 256,
+                "height": 144,
+                "size": 2193,
+                "url": "https://media.sketchfab.com/models/3fe19e312eba436aba9843dcde52f5e3/thumbnails/2a29564a76bf41e6a30433acaf63748e/7f08502219e34207a7e4baa0c4d99115.jpeg"
+            },
+            {
+                "uid": "9ba21378bedc4a0a843c766421f01bc8",
+                "width": 64,
+                "height": 36,
+                "size": 866,
+                "url": "https://media.sketchfab.com/models/3fe19e312eba436aba9843dcde52f5e3/thumbnails/2a29564a76bf41e6a30433acaf63748e/0bf6489d34c0433dbe7ee6f8f0959107.jpeg"
+            }
+        ]
+    },
+    "uid": "3fe19e312eba436aba9843dcde52f5e3",
+    "uri": "https://api.sketchfab.com/v3/models/3fe19e312eba436aba9843dcde52f5e3",
+    "user": {
+        "uid": "119d5a5024274ea8ac5e7961b74b22bb",
+        "username": "tynamala1974",
+        "displayName": "tynamala1974",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/tynamala1974",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/119d5a5024274ea8ac5e7961b74b22bb"
+    },
+    "vertexCount": 13705,
+    "viewCount": 29,
+    "viewerUrl": "https://sketchfab.com/3d-models/catnap-scary-cat-rigged-ik-3fe19e312eba436aba9843dcde52f5e3",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "An animated cat monster with a moon under his head. Rigged With IK bones.",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/3fe19e312eba436aba9843dcde52f5e3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T18:01:29.006717",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

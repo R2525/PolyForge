@@ -1,0 +1,276 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-15T06:29:00.162290",
+    "embedUrl": "https://sketchfab.com/models/37314ffb70504f5fbb572ad794cb9d57/embed",
+    "faceCount": 38912,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Star Wars Keychain",
+    "publishedAt": "2026-02-15T06:36:11.507325",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "text",
+            "slug": "text",
+            "uri": "https://api.sketchfab.com/v3/tags/text"
+        },
+        {
+            "name": "printing",
+            "slug": "printing",
+            "uri": "https://api.sketchfab.com/v3/tags/printing"
+        },
+        {
+            "name": "fan",
+            "slug": "fan",
+            "uri": "https://api.sketchfab.com/v3/tags/fan"
+        },
+        {
+            "name": "font",
+            "slug": "font",
+            "uri": "https://api.sketchfab.com/v3/tags/font"
+        },
+        {
+            "name": "generator",
+            "slug": "generator",
+            "uri": "https://api.sketchfab.com/v3/tags/generator"
+        },
+        {
+            "name": "accessories",
+            "slug": "accessories",
+            "uri": "https://api.sketchfab.com/v3/tags/accessories"
+        },
+        {
+            "name": "diy",
+            "slug": "diy",
+            "uri": "https://api.sketchfab.com/v3/tags/diy"
+        },
+        {
+            "name": "maker",
+            "slug": "maker",
+            "uri": "https://api.sketchfab.com/v3/tags/maker"
+        },
+        {
+            "name": "souvenir",
+            "slug": "souvenir",
+            "uri": "https://api.sketchfab.com/v3/tags/souvenir"
+        },
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "logo",
+            "slug": "logo",
+            "uri": "https://api.sketchfab.com/v3/tags/logo"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "movie",
+            "slug": "movie",
+            "uri": "https://api.sketchfab.com/v3/tags/movie"
+        },
+        {
+            "name": "keychain",
+            "slug": "keychain",
+            "uri": "https://api.sketchfab.com/v3/tags/keychain"
+        },
+        {
+            "name": "typography",
+            "slug": "typography",
+            "uri": "https://api.sketchfab.com/v3/tags/typography"
+        },
+        {
+            "name": "tinkercad",
+            "slug": "tinkercad",
+            "uri": "https://api.sketchfab.com/v3/tags/tinkercad"
+        },
+        {
+            "name": "PRINTABLE",
+            "slug": "printable",
+            "uri": "https://api.sketchfab.com/v3/tags/printable"
+        },
+        {
+            "name": "keyring",
+            "slug": "keyring",
+            "uri": "https://api.sketchfab.com/v3/tags/keyring"
+        },
+        {
+            "name": "svg",
+            "slug": "svg",
+            "uri": "https://api.sketchfab.com/v3/tags/svg"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "mockofun",
+            "slug": "mockofun",
+            "uri": "https://api.sketchfab.com/v3/tags/mockofun"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f39f08db336747eeb1ab81b4b83ee9db",
+                "width": 1920,
+                "height": 1080,
+                "size": 87475,
+                "url": "https://media.sketchfab.com/models/37314ffb70504f5fbb572ad794cb9d57/thumbnails/1cfd202618e34c0386844ec7935c81ea/a111b7a964ed4ceabb013e934612a9d4.jpeg"
+            },
+            {
+                "uid": "e392d840f74d4eaeb8237eafd04efaca",
+                "width": 1024,
+                "height": 576,
+                "size": 32829,
+                "url": "https://media.sketchfab.com/models/37314ffb70504f5fbb572ad794cb9d57/thumbnails/1cfd202618e34c0386844ec7935c81ea/d7ee26d35e1f4320bc50a284534e85e8.jpeg"
+            },
+            {
+                "uid": "71f137dc0d6441948a4e4a88382a0798",
+                "width": 720,
+                "height": 405,
+                "size": 19880,
+                "url": "https://media.sketchfab.com/models/37314ffb70504f5fbb572ad794cb9d57/thumbnails/1cfd202618e34c0386844ec7935c81ea/8c6810d136d64f8db0b07037ea4c6641.jpeg"
+            },
+            {
+                "uid": "e759da08ac9e4df284b81864259f3a63",
+                "width": 256,
+                "height": 144,
+                "size": 4459,
+                "url": "https://media.sketchfab.com/models/37314ffb70504f5fbb572ad794cb9d57/thumbnails/1cfd202618e34c0386844ec7935c81ea/191f350e4c30412db7c5d0ac01b41f43.jpeg"
+            },
+            {
+                "uid": "9820d77629f2418f8305c6242b8ac6d5",
+                "width": 64,
+                "height": 36,
+                "size": 1061,
+                "url": "https://media.sketchfab.com/models/37314ffb70504f5fbb572ad794cb9d57/thumbnails/1cfd202618e34c0386844ec7935c81ea/b73489bf75444e3b8de13cffdf55d932.jpeg"
+            }
+        ]
+    },
+    "uid": "37314ffb70504f5fbb572ad794cb9d57",
+    "uri": "https://api.sketchfab.com/v3/models/37314ffb70504f5fbb572ad794cb9d57",
+    "user": {
+        "uid": "71d1578a21ad4514bf12032fe5f49f09",
+        "username": "Johana-PS",
+        "displayName": "Johana-PS",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Johana-PS",
+        "avatar": {
+            "uid": "3ceed229e2fa4773849201942e408013",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ceed229e2fa4773849201942e408013",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 621,
+                    "url": "https://media.sketchfab.com/avatars/3ceed229e2fa4773849201942e408013/628fbd9461f04186b1f46f0c8b587bbb.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 882,
+                    "url": "https://media.sketchfab.com/avatars/3ceed229e2fa4773849201942e408013/3cce339ed9d34d12a1c155e21d9cfacc.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1898,
+                    "url": "https://media.sketchfab.com/avatars/3ceed229e2fa4773849201942e408013/c6fa1d1bc50241a985b55c1ce59a50da.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2233,
+                    "url": "https://media.sketchfab.com/avatars/3ceed229e2fa4773849201942e408013/4932602efb4f4659985ae67b13269e17.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/71d1578a21ad4514bf12032fe5f49f09"
+    },
+    "vertexCount": 19456,
+    "viewCount": 21,
+    "viewerUrl": "https://sketchfab.com/3d-models/star-wars-keychain-37314ffb70504f5fbb572ad794cb9d57",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is a 3D printable keychain model featuring the iconic Star Wars logo style.\n\n## Workflow:\n\nI created the 2D vector design using the [star wars font generator](https://www.mockofun.com/template/star-wars-font-generator/) from MockoFun. After exporting the design as an SVG, I imported it into Tinkercad to extrude the model and add the keychain loop.\nReady for 3D printing!",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/37314ffb70504f5fbb572ad794cb9d57/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-15T06:37:02.694829",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

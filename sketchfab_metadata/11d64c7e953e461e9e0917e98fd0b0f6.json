@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-30T07:11:46.438508",
+    "embedUrl": "https://sketchfab.com/models/11d64c7e953e461e9e0917e98fd0b0f6/embed",
+    "faceCount": 840,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 6,
+    "name": "T-51 [Fallout]",
+    "publishedAt": "2026-01-30T07:15:01.942355",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "fallout",
+            "slug": "fallout",
+            "uri": "https://api.sketchfab.com/v3/tags/fallout"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "fb0d4387004a4f1f8ccee23d444c670c",
+                "width": 1920,
+                "height": 1080,
+                "size": 89447,
+                "url": "https://media.sketchfab.com/models/11d64c7e953e461e9e0917e98fd0b0f6/thumbnails/e383a3e481e54f39ae32af1efcc2765e/8265d3cdbf9c430c8c528dca2da51bc5.jpeg"
+            },
+            {
+                "uid": "387482209c664df1a01dce32cd1a09a5",
+                "width": 1024,
+                "height": 576,
+                "size": 32006,
+                "url": "https://media.sketchfab.com/models/11d64c7e953e461e9e0917e98fd0b0f6/thumbnails/e383a3e481e54f39ae32af1efcc2765e/ea6bfd163fb04103b01d075b2201fa32.jpeg"
+            },
+            {
+                "uid": "b72c698aabc54b82b8e482325567e7cc",
+                "width": 720,
+                "height": 405,
+                "size": 18726,
+                "url": "https://media.sketchfab.com/models/11d64c7e953e461e9e0917e98fd0b0f6/thumbnails/e383a3e481e54f39ae32af1efcc2765e/de216bfcdb4141b3a4bc592473594ed9.jpeg"
+            },
+            {
+                "uid": "ac3461de545a4aa5a1da01d367d53e7d",
+                "width": 256,
+                "height": 144,
+                "size": 3851,
+                "url": "https://media.sketchfab.com/models/11d64c7e953e461e9e0917e98fd0b0f6/thumbnails/e383a3e481e54f39ae32af1efcc2765e/4f90713ecfd348268b9572223d125295.jpeg"
+            },
+            {
+                "uid": "4ca2f05f9fb7441ba55b3f1e339d4882",
+                "width": 64,
+                "height": 36,
+                "size": 1031,
+                "url": "https://media.sketchfab.com/models/11d64c7e953e461e9e0917e98fd0b0f6/thumbnails/e383a3e481e54f39ae32af1efcc2765e/30e4c7e849de4a24a5e9ae2c10a6d1e1.jpeg"
+            }
+        ]
+    },
+    "uid": "11d64c7e953e461e9e0917e98fd0b0f6",
+    "uri": "https://api.sketchfab.com/v3/models/11d64c7e953e461e9e0917e98fd0b0f6",
+    "user": {
+        "uid": "3f70424839f44b0ead6cd1cc42993ce4",
+        "username": "Tujhrex",
+        "displayName": "Tujhrex",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Tujhrex",
+        "avatar": {
+            "uid": "b26827b1f6f34e7784c8e19ae26a8a0f",
+            "uri": "https://api.sketchfab.com/v3/avatars/b26827b1f6f34e7784c8e19ae26a8a0f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 985,
+                    "url": "https://media.sketchfab.com/avatars/b26827b1f6f34e7784c8e19ae26a8a0f/f57b34accb14465f90e75a303ff30c32.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1326,
+                    "url": "https://media.sketchfab.com/avatars/b26827b1f6f34e7784c8e19ae26a8a0f/990c19511c8b489a82b0288f01cfa6a7.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2692,
+                    "url": "https://media.sketchfab.com/avatars/b26827b1f6f34e7784c8e19ae26a8a0f/63989263eb4e4b35ba1d42644e11ad59.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3038,
+                    "url": "https://media.sketchfab.com/avatars/b26827b1f6f34e7784c8e19ae26a8a0f/2b28fe4f4f534c1daa5117ad4dbe76f4.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3f70424839f44b0ead6cd1cc42993ce4"
+    },
+    "vertexCount": 560,
+    "viewCount": 166,
+    "viewerUrl": "https://sketchfab.com/3d-models/t-51-fallout-11d64c7e953e461e9e0917e98fd0b0f6",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "The model was created in Blockbench.\n\nThe model represents the T-51 power armor from the Fallout universe.\n\nIf you have any questions or just want to chat, message me on Discord: tujhrex",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/11d64c7e953e461e9e0917e98fd0b0f6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-30T07:15:02.280463",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

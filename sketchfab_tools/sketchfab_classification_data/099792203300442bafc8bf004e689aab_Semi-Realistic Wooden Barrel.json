@@ -1,0 +1,66 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.95
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.85
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.75
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.65
+        },
+        {
+            "name": "Digital Art",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Mossy",
+        "Cracked"
+    ],
+    "tags": [
+        "barrel",
+        "wooden",
+        "medieval",
+        "barile",
+        "game asset"
+    ],
+    "model_id_full": "099792203300442bafc8bf004e689aab_Semi-Realistic Wooden Barrel",
+    "sketchfab_id": "099792203300442bafc8bf004e689aab",
+    "asset_name": "Semi-Realistic Wooden Barrel"
+}

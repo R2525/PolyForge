@@ -1,0 +1,145 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-11T14:15:23.436498",
+    "embedUrl": "https://sketchfab.com/models/2451a28998c44c5e9d36714979b69ca3/embed",
+    "faceCount": 1970,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Stylized Voxel Axe Pack",
+    "publishedAt": "2026-02-11T14:17:13.443421",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e64919a2942e4e10b8fbeae9d6d81df1",
+                "width": 1920,
+                "height": 1080,
+                "size": 265183,
+                "url": "https://media.sketchfab.com/models/2451a28998c44c5e9d36714979b69ca3/thumbnails/0b41e69eb391493fa53716601385a410/fc0027c1e42c485f858e80eaa67710fb.jpeg"
+            },
+            {
+                "uid": "cc13d91078ad48a79c349a0a26ec9886",
+                "width": 1024,
+                "height": 576,
+                "size": 31442,
+                "url": "https://media.sketchfab.com/models/2451a28998c44c5e9d36714979b69ca3/thumbnails/0b41e69eb391493fa53716601385a410/81e79c587a734361ba8eec971526e2dd.jpeg"
+            },
+            {
+                "uid": "d24e56a942214416bfdeedef438d77e5",
+                "width": 720,
+                "height": 405,
+                "size": 15334,
+                "url": "https://media.sketchfab.com/models/2451a28998c44c5e9d36714979b69ca3/thumbnails/0b41e69eb391493fa53716601385a410/0895167b06c44ab393a34fdcd60185cf.jpeg"
+            },
+            {
+                "uid": "cf3ea3208dc24fcc9aa3ebc51255148c",
+                "width": 256,
+                "height": 144,
+                "size": 3409,
+                "url": "https://media.sketchfab.com/models/2451a28998c44c5e9d36714979b69ca3/thumbnails/0b41e69eb391493fa53716601385a410/19c52a8b35c644a084f69f58bc6114fe.jpeg"
+            },
+            {
+                "uid": "6da5c222214645a18e630493ea416569",
+                "width": 64,
+                "height": 36,
+                "size": 1019,
+                "url": "https://media.sketchfab.com/models/2451a28998c44c5e9d36714979b69ca3/thumbnails/0b41e69eb391493fa53716601385a410/4db770b2f09e42b8b9d0f3e9f844ba03.jpeg"
+            }
+        ]
+    },
+    "uid": "2451a28998c44c5e9d36714979b69ca3",
+    "uri": "https://api.sketchfab.com/v3/models/2451a28998c44c5e9d36714979b69ca3",
+    "user": {
+        "uid": "9a54afed09794dcb9bd04969e1abae08",
+        "username": "guardabarrancoestudiomaterial",
+        "displayName": "guardabarranco",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/guardabarrancoestudiomaterial",
+        "avatar": {
+            "uid": "e190d89c663548c6a371fa2600b44146",
+            "uri": "https://api.sketchfab.com/v3/avatars/e190d89c663548c6a371fa2600b44146",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 980,
+                    "url": "https://media.sketchfab.com/avatars/e190d89c663548c6a371fa2600b44146/34fa816997c74ee6a9ef8921fb80a23b.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1258,
+                    "url": "https://media.sketchfab.com/avatars/e190d89c663548c6a371fa2600b44146/11b0aa4bc662457e87112923d65f145d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2268,
+                    "url": "https://media.sketchfab.com/avatars/e190d89c663548c6a371fa2600b44146/ae32f84b1c35478cac64bb5578678f2a.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2606,
+                    "url": "https://media.sketchfab.com/avatars/e190d89c663548c6a371fa2600b44146/97ad66c86a384572946332b885910041.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9a54afed09794dcb9bd04969e1abae08"
+    },
+    "vertexCount": 1886,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-voxel-axe-pack-2451a28998c44c5e9d36714979b69ca3",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "https://voxelplayercontroller.lat/",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2451a28998c44c5e9d36714979b69ca3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-02-20T23:32:26.713896",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 10
+}

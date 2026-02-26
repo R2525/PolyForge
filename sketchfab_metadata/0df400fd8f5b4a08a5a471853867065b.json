@@ -1,0 +1,267 @@
+{
+    "animationCount": 121,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-27T21:07:57.922060",
+    "embedUrl": "https://sketchfab.com/models/0df400fd8f5b4a08a5a471853867065b/embed",
+    "faceCount": 1681,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Basic Soldier Hulk Video Game | FMV Tex And Anim",
+    "publishedAt": "2026-01-27T21:12:48.244257",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "body",
+            "slug": "body",
+            "uri": "https://api.sketchfab.com/v3/tags/body"
+        },
+        {
+            "name": "computer",
+            "slug": "computer",
+            "uri": "https://api.sketchfab.com/v3/tags/computer"
+        },
+        {
+            "name": "videogames",
+            "slug": "videogames",
+            "uri": "https://api.sketchfab.com/v3/tags/videogames"
+        },
+        {
+            "name": "soldier",
+            "slug": "soldier",
+            "uri": "https://api.sketchfab.com/v3/tags/soldier"
+        },
+        {
+            "name": "xbox",
+            "slug": "xbox",
+            "uri": "https://api.sketchfab.com/v3/tags/xbox"
+        },
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "pc",
+            "slug": "pc",
+            "uri": "https://api.sketchfab.com/v3/tags/pc"
+        },
+        {
+            "name": "windows",
+            "slug": "windows",
+            "uri": "https://api.sketchfab.com/v3/tags/windows"
+        },
+        {
+            "name": "console",
+            "slug": "console",
+            "uri": "https://api.sketchfab.com/v3/tags/console"
+        },
+        {
+            "name": "hulk",
+            "slug": "hulk",
+            "uri": "https://api.sketchfab.com/v3/tags/hulk"
+        },
+        {
+            "name": "gamecube",
+            "slug": "gamecube",
+            "uri": "https://api.sketchfab.com/v3/tags/gamecube"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "2003",
+            "slug": "2003",
+            "uri": "https://api.sketchfab.com/v3/tags/2003"
+        },
+        {
+            "name": "marvelcomics",
+            "slug": "marvelcomics",
+            "uri": "https://api.sketchfab.com/v3/tags/marvelcomics"
+        },
+        {
+            "name": "GC",
+            "slug": "gc",
+            "uri": "https://api.sketchfab.com/v3/tags/gc"
+        },
+        {
+            "name": "cutscene",
+            "slug": "cutscene",
+            "uri": "https://api.sketchfab.com/v3/tags/cutscene"
+        },
+        {
+            "name": "render",
+            "slug": "render",
+            "uri": "https://api.sketchfab.com/v3/tags/render"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "video",
+            "slug": "video",
+            "uri": "https://api.sketchfab.com/v3/tags/video"
+        },
+        {
+            "name": "basic",
+            "slug": "basic",
+            "uri": "https://api.sketchfab.com/v3/tags/basic"
+        },
+        {
+            "name": "marveluniverse",
+            "slug": "marveluniverse",
+            "uri": "https://api.sketchfab.com/v3/tags/marveluniverse"
+        },
+        {
+            "name": "fmv",
+            "slug": "fmv",
+            "uri": "https://api.sketchfab.com/v3/tags/fmv"
+        },
+        {
+            "name": "xboxoriginal",
+            "slug": "xboxoriginal",
+            "uri": "https://api.sketchfab.com/v3/tags/xboxoriginal"
+        },
+        {
+            "name": "win32",
+            "slug": "win32",
+            "uri": "https://api.sketchfab.com/v3/tags/win32"
+        },
+        {
+            "name": "fbxmodeldownload",
+            "slug": "fbxmodeldownload",
+            "uri": "https://api.sketchfab.com/v3/tags/fbxmodeldownload"
+        },
+        {
+            "name": "basicsoldier",
+            "slug": "basicsoldier",
+            "uri": "https://api.sketchfab.com/v3/tags/basicsoldier"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e23167bb25ff44a997e766c0e6dfed39",
+                "width": 1920,
+                "height": 1080,
+                "size": 98284,
+                "url": "https://media.sketchfab.com/models/0df400fd8f5b4a08a5a471853867065b/thumbnails/c0bec43fbd304176b133e365ff31ab2b/47a43c776d06420ea9c4e63e0ab90f1d.jpeg"
+            },
+            {
+                "uid": "ff520d79aeae4a15bdb717f2dae53170",
+                "width": 1024,
+                "height": 576,
+                "size": 34783,
+                "url": "https://media.sketchfab.com/models/0df400fd8f5b4a08a5a471853867065b/thumbnails/c0bec43fbd304176b133e365ff31ab2b/e8963b9c75b04c8ea21e0eb1c8d3d9fc.jpeg"
+            },
+            {
+                "uid": "6117a46bd3a2492084c9c324a5998717",
+                "width": 720,
+                "height": 405,
+                "size": 21258,
+                "url": "https://media.sketchfab.com/models/0df400fd8f5b4a08a5a471853867065b/thumbnails/c0bec43fbd304176b133e365ff31ab2b/44068edda64b461aaf69c1f4b27474ac.jpeg"
+            },
+            {
+                "uid": "33e3f946cdb247f9b5d21c09a5014c5b",
+                "width": 256,
+                "height": 144,
+                "size": 5111,
+                "url": "https://media.sketchfab.com/models/0df400fd8f5b4a08a5a471853867065b/thumbnails/c0bec43fbd304176b133e365ff31ab2b/2e24ea7bfe5349b48d12e905300f15af.jpeg"
+            },
+            {
+                "uid": "19d64437cfa44a6b904034b2b57f302c",
+                "width": 64,
+                "height": 36,
+                "size": 1258,
+                "url": "https://media.sketchfab.com/models/0df400fd8f5b4a08a5a471853867065b/thumbnails/c0bec43fbd304176b133e365ff31ab2b/c5c1ba06ecee4ad0ad039c1396b94d01.jpeg"
+            }
+        ]
+    },
+    "uid": "0df400fd8f5b4a08a5a471853867065b",
+    "uri": "https://api.sketchfab.com/v3/models/0df400fd8f5b4a08a5a471853867065b",
+    "user": {
+        "uid": "15b16b3b67dc43f0b71447e2eb474143",
+        "username": "TurkishDude",
+        "displayName": "TurkishDude",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/TurkishDude",
+        "avatar": {
+            "uid": "0bbf670dabbe4aa39368fe9cd6005972",
+            "uri": "https://api.sketchfab.com/v3/avatars/0bbf670dabbe4aa39368fe9cd6005972",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2187,
+                    "url": "https://media.sketchfab.com/avatars/0bbf670dabbe4aa39368fe9cd6005972/bd0bc6a28c58462bba3cb2fbadbd865a.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4513,
+                    "url": "https://media.sketchfab.com/avatars/0bbf670dabbe4aa39368fe9cd6005972/55550f8dd1d74a0fb1a6261424b95a57.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 13952,
+                    "url": "https://media.sketchfab.com/avatars/0bbf670dabbe4aa39368fe9cd6005972/1aa375aa567a47fea7f6b05e58880a7b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 16758,
+                    "url": "https://media.sketchfab.com/avatars/0bbf670dabbe4aa39368fe9cd6005972/4021ef74269a4d5da9192a15a3694f5a.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/15b16b3b67dc43f0b71447e2eb474143"
+    },
+    "vertexCount": 855,
+    "viewCount": 45,
+    "viewerUrl": "https://sketchfab.com/3d-models/basic-soldier-hulk-video-game-fmv-tex-and-anim-0df400fd8f5b4a08a5a471853867065b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This is Basic Soldier from The Hulk 2003: Video Game with his video cutscenes (FMV) texture from the source code and his extracted animations, original rigged skeleton from the game in FBX format. The game is made by Radical Entertainment. Credit me if you will use the animations and the texture.\n\nDeviantart:",
+    "price": null,
+    "downloadCount": 8,
+    "editorUrl": "https://sketchfab.com/models/0df400fd8f5b4a08a5a471853867065b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-27T21:12:48.327747",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

@@ -1,0 +1,114 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-03T09:08:17.426346",
+    "embedUrl": "https://sketchfab.com/models/3a7bc25beb2844159dd8664055f61424/embed",
+    "faceCount": 479404,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "4320711 DCQ 26",
+    "publishedAt": "2026-02-03T09:17:25.576974",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "737c249a3ba94d4da9ebbb5eec2ff8ff",
+                "width": 1920,
+                "height": 1080,
+                "size": 84594,
+                "url": "https://media.sketchfab.com/models/3a7bc25beb2844159dd8664055f61424/thumbnails/ebf96b3476304f7c98b8b34c9a57285b/39f37918eaad43cca4d74c396a397857.jpeg"
+            },
+            {
+                "uid": "88a9f0bac5704f58b00dec2272c38aba",
+                "width": 1024,
+                "height": 576,
+                "size": 30255,
+                "url": "https://media.sketchfab.com/models/3a7bc25beb2844159dd8664055f61424/thumbnails/ebf96b3476304f7c98b8b34c9a57285b/7e9b32d5de094e69ae4d99b207d5e32b.jpeg"
+            },
+            {
+                "uid": "f70fc039e86b422d9bc0732bffaee942",
+                "width": 720,
+                "height": 405,
+                "size": 18135,
+                "url": "https://media.sketchfab.com/models/3a7bc25beb2844159dd8664055f61424/thumbnails/ebf96b3476304f7c98b8b34c9a57285b/a89af0f0728d4ebb9676a11d12e2fa7f.jpeg"
+            },
+            {
+                "uid": "c6da07587b1349f980a8acf78f527e05",
+                "width": 256,
+                "height": 144,
+                "size": 4120,
+                "url": "https://media.sketchfab.com/models/3a7bc25beb2844159dd8664055f61424/thumbnails/ebf96b3476304f7c98b8b34c9a57285b/6a5c40189f03448fa436c2c113528766.jpeg"
+            },
+            {
+                "uid": "22e6976778eb407ab793133f24e78125",
+                "width": 64,
+                "height": 36,
+                "size": 1058,
+                "url": "https://media.sketchfab.com/models/3a7bc25beb2844159dd8664055f61424/thumbnails/ebf96b3476304f7c98b8b34c9a57285b/822fb4a69aaf4e5195c100fbc4f6261b.jpeg"
+            }
+        ]
+    },
+    "uid": "3a7bc25beb2844159dd8664055f61424",
+    "uri": "https://api.sketchfab.com/v3/models/3a7bc25beb2844159dd8664055f61424",
+    "user": {
+        "uid": "a603694826be4e16b8ea3e9a68b83117",
+        "username": "dagg.distribution",
+        "displayName": "dagg.distribution",
+        "account": "prem",
+        "profileUrl": "https://sketchfab.com/dagg.distribution",
+        "avatar": {
+            "uid": "69467a7414ae4ecfb60f2150dab9ac3a",
+            "uri": "https://api.sketchfab.com/v3/avatars/69467a7414ae4ecfb60f2150dab9ac3a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1601,
+                    "url": "https://media.sketchfab.com/avatars/69467a7414ae4ecfb60f2150dab9ac3a/4b7cbefdead44647881b3add41479e0c.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2641,
+                    "url": "https://media.sketchfab.com/avatars/69467a7414ae4ecfb60f2150dab9ac3a/5eb0ba3fc76d4d1aad7e69116b06c35f.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5360,
+                    "url": "https://media.sketchfab.com/avatars/69467a7414ae4ecfb60f2150dab9ac3a/1156ba70474c44f19eb7538f7b289fce.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6491,
+                    "url": "https://media.sketchfab.com/avatars/69467a7414ae4ecfb60f2150dab9ac3a/ba12d857899e4859bd1292e5baf37315.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a603694826be4e16b8ea3e9a68b83117"
+    },
+    "vertexCount": 277920,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/4320711-dcq-26-3a7bc25beb2844159dd8664055f61424",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3a7bc25beb2844159dd8664055f61424/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-03T09:17:25.746602",
+    "pbrType": null,
+    "textureCount": 10,
+    "materialCount": 16
+}

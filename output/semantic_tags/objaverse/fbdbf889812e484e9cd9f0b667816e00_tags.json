@@ -1,0 +1,36 @@
+{
+    "category": "Science & Technology",
+    "top_genres": [
+        {
+            "name": "Modern",
+            "score": 0.7
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.6
+        }
+    ],
+    "style": "Abstract",
+    "top_styles": [
+        {
+            "name": "Abstract",
+            "score": 0.9
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "3D model",
+        "abstract",
+        "geometric"
+    ]
+}

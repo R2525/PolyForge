@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.8
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Medieval",
+            "score": 0.7
+        },
+        {
+            "name": "Historic",
+            "score": 0.65
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Stylized",
+            "score": 0.75
+        },
+        {
+            "name": "Digital Rendering",
+            "score": 0.7
+        },
+        {
+            "name": "3D Model",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Mossy",
+        "Weathered",
+        "Dusty",
+        "Cracked",
+        "Rusty"
+    ],
+    "tags": [
+        "stone",
+        "monastery",
+        "church",
+        "ancient",
+        "architecture",
+        "cultural heritage",
+        "religious",
+        "3D model"
+    ],
+    "model_id_full": "035035a6e8e544489e520574ab2d7839_Armenian Stone Monastery Church",
+    "sketchfab_id": "035035a6e8e544489e520574ab2d7839",
+    "asset_name": "Armenian Stone Monastery Church"
+}

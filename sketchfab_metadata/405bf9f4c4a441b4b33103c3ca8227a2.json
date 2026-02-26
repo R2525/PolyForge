@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-18T23:23:39.447380",
+    "embedUrl": "https://sketchfab.com/models/405bf9f4c4a441b4b33103c3ca8227a2/embed",
+    "faceCount": 61967,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 35,
+    "name": "Black Panther King of Wakanda",
+    "publishedAt": "2026-01-18T23:30:36.734312",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "classic",
+            "slug": "classic",
+            "uri": "https://api.sketchfab.com/v3/tags/classic"
+        },
+        {
+            "name": "rivals",
+            "slug": "rivals",
+            "uri": "https://api.sketchfab.com/v3/tags/rivals"
+        },
+        {
+            "name": "blackpanther",
+            "slug": "blackpanther",
+            "uri": "https://api.sketchfab.com/v3/tags/blackpanther"
+        },
+        {
+            "name": "marvel-rivals",
+            "slug": "marvel-rivals",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel-rivals"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7411bf3a68b540349d7cf109600eb8ae",
+                "width": 1920,
+                "height": 1080,
+                "size": 152613,
+                "url": "https://media.sketchfab.com/models/405bf9f4c4a441b4b33103c3ca8227a2/thumbnails/6071e98acedd431c8664987d8ebed7eb/af615b2c132f43e29ef3f6c657473a84.jpeg"
+            },
+            {
+                "uid": "a3a6c75a2aa64a3d9f3c4a3ef501418e",
+                "width": 1024,
+                "height": 576,
+                "size": 34604,
+                "url": "https://media.sketchfab.com/models/405bf9f4c4a441b4b33103c3ca8227a2/thumbnails/6071e98acedd431c8664987d8ebed7eb/2da830fe6dc345ecb343a059cc92c7fe.jpeg"
+            },
+            {
+                "uid": "cdc7df5afb984b66932a63503b0a8f97",
+                "width": 720,
+                "height": 405,
+                "size": 18925,
+                "url": "https://media.sketchfab.com/models/405bf9f4c4a441b4b33103c3ca8227a2/thumbnails/6071e98acedd431c8664987d8ebed7eb/9b4fcf8edff747928a88da9ad01496d1.jpeg"
+            },
+            {
+                "uid": "f797239c4a8e445bb64c7a55fb7350f7",
+                "width": 256,
+                "height": 144,
+                "size": 3803,
+                "url": "https://media.sketchfab.com/models/405bf9f4c4a441b4b33103c3ca8227a2/thumbnails/6071e98acedd431c8664987d8ebed7eb/4878423e37754146add98720b7531eab.jpeg"
+            },
+            {
+                "uid": "bbc7ccde3359499591e1a00b8dcc4331",
+                "width": 64,
+                "height": 36,
+                "size": 959,
+                "url": "https://media.sketchfab.com/models/405bf9f4c4a441b4b33103c3ca8227a2/thumbnails/6071e98acedd431c8664987d8ebed7eb/05d41f0f98e74388be4c2890a0f716cb.jpeg"
+            }
+        ]
+    },
+    "uid": "405bf9f4c4a441b4b33103c3ca8227a2",
+    "uri": "https://api.sketchfab.com/v3/models/405bf9f4c4a441b4b33103c3ca8227a2",
+    "user": {
+        "uid": "a183bfad17764f368b4a14d2bb52f07b",
+        "username": "YEEZY_YE",
+        "displayName": "YE YE",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/YEEZY_YE",
+        "avatar": {
+            "uid": "f7308e227b884312a2e856291a675087",
+            "uri": "https://api.sketchfab.com/v3/avatars/f7308e227b884312a2e856291a675087",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1043,
+                    "url": "https://media.sketchfab.com/avatars/f7308e227b884312a2e856291a675087/307678e6e2ca43fc917a14524def5f32.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1398,
+                    "url": "https://media.sketchfab.com/avatars/f7308e227b884312a2e856291a675087/4b8b2b5848a7427a955b93853d116a75.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2558,
+                    "url": "https://media.sketchfab.com/avatars/f7308e227b884312a2e856291a675087/2b24e401b82143c3a4161c6543747fc6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2924,
+                    "url": "https://media.sketchfab.com/avatars/f7308e227b884312a2e856291a675087/f140447f11e54ddf90464019c23d215c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a183bfad17764f368b4a14d2bb52f07b"
+    },
+    "vertexCount": 33118,
+    "viewCount": 546,
+    "viewerUrl": "https://sketchfab.com/3d-models/black-panther-king-of-wakanda-405bf9f4c4a441b4b33103c3ca8227a2",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "All rights belong to Disney, Marvel Games, and NetEase\n\n# Love, let's talk about love\nIs it anything and everything you hoped for?\n\nOr do the feeling haunt you?\n\nI know the feeling haunt you\n\nThis may be the night that my dreams might let me know\n\nAll the stars approach you\n\nAll the stars approach you\n\nAll the stars approach you",
+    "price": null,
+    "downloadCount": 139,
+    "editorUrl": "https://sketchfab.com/models/405bf9f4c4a441b4b33103c3ca8227a2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T20:23:12.030364",
+    "pbrType": null,
+    "textureCount": 8,
+    "materialCount": 8
+}

@@ -1,0 +1,41 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Toon / Anime",
+            "score": 0.85
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Historical",
+            "score": 0.6
+        }
+    ],
+    "style": "Toon / Anime",
+    "top_styles": [
+        {
+            "name": "Toon / Anime",
+            "score": 0.9
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Blood-stained",
+        "Clean"
+    ],
+    "tags": [
+        "mask",
+        "bird",
+        "decorative"
+    ]
+}

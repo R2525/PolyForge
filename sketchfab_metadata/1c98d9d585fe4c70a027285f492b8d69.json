@@ -1,0 +1,251 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "93e6d27da62149c6b963039835f45997",
+            "name": "People",
+            "slug": "people",
+            "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-11T05:57:48.893056",
+    "embedUrl": "https://sketchfab.com/models/1c98d9d585fe4c70a027285f492b8d69/embed",
+    "faceCount": 328356,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "The Big Brother Neighbor_GGMt",
+    "publishedAt": "2026-01-11T06:01:58.725620",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "coffee",
+            "slug": "coffee",
+            "uri": "https://api.sketchfab.com/v3/tags/coffee"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "porch",
+            "slug": "porch",
+            "uri": "https://api.sketchfab.com/v3/tags/porch"
+        },
+        {
+            "name": "sunset",
+            "slug": "sunset",
+            "uri": "https://api.sketchfab.com/v3/tags/sunset"
+        },
+        {
+            "name": "kind",
+            "slug": "kind",
+            "uri": "https://api.sketchfab.com/v3/tags/kind"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+        },
+        {
+            "name": "protective",
+            "slug": "protective",
+            "uri": "https://api.sketchfab.com/v3/tags/protective"
+        },
+        {
+            "name": "bigbrother",
+            "slug": "bigbrother",
+            "uri": "https://api.sketchfab.com/v3/tags/bigbrother"
+        },
+        {
+            "name": "neighbor",
+            "slug": "neighbor",
+            "uri": "https://api.sketchfab.com/v3/tags/neighbor"
+        },
+        {
+            "name": "denim",
+            "slug": "denim",
+            "uri": "https://api.sketchfab.com/v3/tags/denim"
+        },
+        {
+            "name": "3dscene",
+            "slug": "3dscene",
+            "uri": "https://api.sketchfab.com/v3/tags/3dscene"
+        },
+        {
+            "name": "mature",
+            "slug": "mature",
+            "uri": "https://api.sketchfab.com/v3/tags/mature"
+        },
+        {
+            "name": "leaning",
+            "slug": "leaning",
+            "uri": "https://api.sketchfab.com/v3/tags/leaning"
+        },
+        {
+            "name": "workwear",
+            "slug": "workwear",
+            "uri": "https://api.sketchfab.com/v3/tags/workwear"
+        },
+        {
+            "name": "man",
+            "slug": "man",
+            "uri": "https://api.sketchfab.com/v3/tags/man"
+        },
+        {
+            "name": "male",
+            "slug": "male",
+            "uri": "https://api.sketchfab.com/v3/tags/male"
+        },
+        {
+            "name": "goldenhour",
+            "slug": "goldenhour",
+            "uri": "https://api.sketchfab.com/v3/tags/goldenhour"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6fbedaf8a5a044eda3b3c37d000d13b2",
+                "width": 1920,
+                "height": 1080,
+                "size": 397445,
+                "url": "https://media.sketchfab.com/models/1c98d9d585fe4c70a027285f492b8d69/thumbnails/9a9768cb28c04d009667a27801808530/22c04bdb4fc646d7b529da0ce22ea6fe.jpeg"
+            },
+            {
+                "uid": "1ed284593fa34e838a3e1c9794194bc7",
+                "width": 1024,
+                "height": 576,
+                "size": 44301,
+                "url": "https://media.sketchfab.com/models/1c98d9d585fe4c70a027285f492b8d69/thumbnails/9a9768cb28c04d009667a27801808530/a03e79f28f7e4aa0bf68672ccccab3fc.jpeg"
+            },
+            {
+                "uid": "3e2b19217f994d7bac2b6f44dff8402b",
+                "width": 720,
+                "height": 405,
+                "size": 19173,
+                "url": "https://media.sketchfab.com/models/1c98d9d585fe4c70a027285f492b8d69/thumbnails/9a9768cb28c04d009667a27801808530/50917dc09ab649da917492c475243329.jpeg"
+            },
+            {
+                "uid": "5bdf2a4bfae141268d1fb027e32cffe8",
+                "width": 256,
+                "height": 144,
+                "size": 3221,
+                "url": "https://media.sketchfab.com/models/1c98d9d585fe4c70a027285f492b8d69/thumbnails/9a9768cb28c04d009667a27801808530/ce293e12a65b4ea6864816fe2a0edcdc.jpeg"
+            },
+            {
+                "uid": "0150f143b63745978912369192810174",
+                "width": 64,
+                "height": 36,
+                "size": 961,
+                "url": "https://media.sketchfab.com/models/1c98d9d585fe4c70a027285f492b8d69/thumbnails/9a9768cb28c04d009667a27801808530/6fd176bb1f3f44a09b07f6402ec0aeca.jpeg"
+            }
+        ]
+    },
+    "uid": "1c98d9d585fe4c70a027285f492b8d69",
+    "uri": "https://api.sketchfab.com/v3/models/1c98d9d585fe4c70a027285f492b8d69",
+    "user": {
+        "uid": "8dcd2c23b5da4d0a90cb10bdb0be99a0",
+        "username": "GalaxyAbundant",
+        "displayName": "Galaxy Abundant",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/GalaxyAbundant",
+        "avatar": {
+            "uid": "81412244641947759612e0738f375269",
+            "uri": "https://api.sketchfab.com/v3/avatars/81412244641947759612e0738f375269",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 655,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/e40febffe8cc49248bfd94492ddfac24.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 930,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/b410feb5a6e84f949dd90af0fbde5c59.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1864,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/c0390a25580c4f42a17eadbe55bd9f97.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2110,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/6bb8a6761d5043288f18a3f790417f8b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8dcd2c23b5da4d0a90cb10bdb0be99a0"
+    },
+    "vertexCount": 164172,
+    "viewCount": 90,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-big-brother-neighbor-ggmt-1c98d9d585fe4c70a027285f492b8d69",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "**The Big Brother Neighbor – Sunset Porch Scene**\n\nA hyper-realistic 3D cinematic render capturing the mature \"Big Brother\" neighbor in a candid, narrative moment.\n\nSet during the warm late-afternoon \"golden hour,\" the character is leaning comfortably against a weathered wooden porch railing, holding a coffee mug. He looks toward the viewer with a gentle, helpful, and protective expression. The low, warm sunlight accentuates the highly detailed textures of his weathered face, \"smile lines,\" and short salt-and-pepper hair.\n\nThe lighting plays across the fabric folds of his signature well-worn denim shirt (sleeves rolled) and rugged work trousers, grounding him in the environment.\n\nTechnical Details:\nScene: Narrative environment pose (leaning on porch).\nLighting: Cinematic late-afternoon sunset designed to highlight texture depth and create a warm atmosphere.\nQuality: 8K resolution textures utilized within Unreal Engine 5 for photorealistic skin, fabric, and wood grain.",
+    "price": null,
+    "downloadCount": 24,
+    "editorUrl": "https://sketchfab.com/models/1c98d9d585fe4c70a027285f492b8d69/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-01-11T15:59:19.938301",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

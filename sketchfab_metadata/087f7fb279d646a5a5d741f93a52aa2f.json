@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T23:11:22.653442",
+    "embedUrl": "https://sketchfab.com/models/087f7fb279d646a5a5d741f93a52aa2f/embed",
+    "faceCount": 290,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Lp Beam 2m",
+    "publishedAt": "2026-02-21T23:12:01.279693",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "uv",
+            "slug": "uv",
+            "uri": "https://api.sketchfab.com/v3/tags/uv"
+        },
+        {
+            "name": "manifold",
+            "slug": "manifold",
+            "uri": "https://api.sketchfab.com/v3/tags/manifold"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "construction",
+            "slug": "construction",
+            "uri": "https://api.sketchfab.com/v3/tags/construction"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "45a43d45e199478595c5d5d22560695c",
+                "width": 1920,
+                "height": 1080,
+                "size": 41780,
+                "url": "https://media.sketchfab.com/models/087f7fb279d646a5a5d741f93a52aa2f/thumbnails/e6f75bebffac422f8d6ebe03e8b86141/a71540b659494138aea1161621d5ae52.jpeg"
+            },
+            {
+                "uid": "0d19447cbe584cb9a50c0a7a1d1e43d9",
+                "width": 1024,
+                "height": 576,
+                "size": 13875,
+                "url": "https://media.sketchfab.com/models/087f7fb279d646a5a5d741f93a52aa2f/thumbnails/e6f75bebffac422f8d6ebe03e8b86141/4811a244b38f48ea97589c036a3710e5.jpeg"
+            },
+            {
+                "uid": "16c3947e15b24694ab1dceb594a064ab",
+                "width": 720,
+                "height": 405,
+                "size": 7740,
+                "url": "https://media.sketchfab.com/models/087f7fb279d646a5a5d741f93a52aa2f/thumbnails/e6f75bebffac422f8d6ebe03e8b86141/ad36d553eb24425db9512f8883209326.jpeg"
+            },
+            {
+                "uid": "1c5dd6a032f148ac8fba24dbc68484a6",
+                "width": 256,
+                "height": 144,
+                "size": 1782,
+                "url": "https://media.sketchfab.com/models/087f7fb279d646a5a5d741f93a52aa2f/thumbnails/e6f75bebffac422f8d6ebe03e8b86141/f62d60e908fc43f983e1c78009314832.jpeg"
+            },
+            {
+                "uid": "23a305096e154534afaf3ef71cf7d0a2",
+                "width": 64,
+                "height": 36,
+                "size": 776,
+                "url": "https://media.sketchfab.com/models/087f7fb279d646a5a5d741f93a52aa2f/thumbnails/e6f75bebffac422f8d6ebe03e8b86141/8c5258290c3b4951940d591ff26d93df.jpeg"
+            }
+        ]
+    },
+    "uid": "087f7fb279d646a5a5d741f93a52aa2f",
+    "uri": "https://api.sketchfab.com/v3/models/087f7fb279d646a5a5d741f93a52aa2f",
+    "user": {
+        "uid": "c8fc037c8e5c444a8b8f9f54808496bb",
+        "username": "juliarl",
+        "displayName": "juliarl",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/juliarl",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c8fc037c8e5c444a8b8f9f54808496bb"
+    },
+    "vertexCount": 147,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/lp-beam-2m-087f7fb279d646a5a5d741f93a52aa2f",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the Original format.The Converted version is intended only for use in the web viewer. In the original file, the following are fully preserved:✔ native scene structure✔ complete materials without reduction✔ correct PBR texture maps✔ proper object namingIf you are going to integrate the model into a project, download the original version.low poly beam square 2m w material",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/087f7fb279d646a5a5d741f93a52aa2f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T23:12:01.517755",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

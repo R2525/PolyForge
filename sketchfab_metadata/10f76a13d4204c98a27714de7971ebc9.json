@@ -1,0 +1,185 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T12:48:48.244932",
+    "embedUrl": "https://sketchfab.com/models/10f76a13d4204c98a27714de7971ebc9/embed",
+    "faceCount": 4688,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Low Poly Sci-Fi Botanical Tower Planter Quad",
+    "publishedAt": "2026-02-20T12:49:51.787934",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "realtime",
+            "slug": "realtime",
+            "uri": "https://api.sketchfab.com/v3/tags/realtime"
+        },
+        {
+            "name": "hard-surface",
+            "slug": "hard-surface",
+            "uri": "https://api.sketchfab.com/v3/tags/hard-surface"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "hydroponic",
+            "slug": "hydroponic",
+            "uri": "https://api.sketchfab.com/v3/tags/hydroponic"
+        },
+        {
+            "name": "botanical",
+            "slug": "botanical",
+            "uri": "https://api.sketchfab.com/v3/tags/botanical"
+        },
+        {
+            "name": "space-station",
+            "slug": "space-station",
+            "uri": "https://api.sketchfab.com/v3/tags/space-station"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "tower-planter",
+            "slug": "tower-planter",
+            "uri": "https://api.sketchfab.com/v3/tags/tower-planter"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0d71d0bc51fd467ab897ebc818f50b12",
+                "width": 1920,
+                "height": 1080,
+                "size": 64907,
+                "url": "https://media.sketchfab.com/models/10f76a13d4204c98a27714de7971ebc9/thumbnails/49fa32f1ac11408ab3dc45e7a232f459/a17cd7914133472aabf173c2dec86681.jpeg"
+            },
+            {
+                "uid": "d816e9b8472e4ba097eb32d1ef35ee0b",
+                "width": 1024,
+                "height": 576,
+                "size": 22161,
+                "url": "https://media.sketchfab.com/models/10f76a13d4204c98a27714de7971ebc9/thumbnails/49fa32f1ac11408ab3dc45e7a232f459/4be3f1636a0e4346bbfa1dad6a285baa.jpeg"
+            },
+            {
+                "uid": "52135bc8fdf84081b1c5cab555a3e24c",
+                "width": 720,
+                "height": 405,
+                "size": 13100,
+                "url": "https://media.sketchfab.com/models/10f76a13d4204c98a27714de7971ebc9/thumbnails/49fa32f1ac11408ab3dc45e7a232f459/aa9305ec5e7b49f19b82453fa35cd471.jpeg"
+            },
+            {
+                "uid": "99da6c26f827421ab4440a2a33b8921b",
+                "width": 256,
+                "height": 144,
+                "size": 2931,
+                "url": "https://media.sketchfab.com/models/10f76a13d4204c98a27714de7971ebc9/thumbnails/49fa32f1ac11408ab3dc45e7a232f459/e1cb3fb5213b4587ba8c89d7556c45ce.jpeg"
+            },
+            {
+                "uid": "defbec9f97ea451a9eed2de9972ef9ba",
+                "width": 64,
+                "height": 36,
+                "size": 926,
+                "url": "https://media.sketchfab.com/models/10f76a13d4204c98a27714de7971ebc9/thumbnails/49fa32f1ac11408ab3dc45e7a232f459/ef8c91c7ce2646be9d03b513510fcdcc.jpeg"
+            }
+        ]
+    },
+    "uid": "10f76a13d4204c98a27714de7971ebc9",
+    "uri": "https://api.sketchfab.com/v3/models/10f76a13d4204c98a27714de7971ebc9",
+    "user": {
+        "uid": "1deffb1de4104c2f8a36e3a60018ca6c",
+        "username": "ozeastudio",
+        "displayName": "Ozea Studio",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ozeastudio",
+        "avatar": {
+            "uid": "b05a9490eede47aeb0ae1c79dc946e49",
+            "uri": "https://api.sketchfab.com/v3/avatars/b05a9490eede47aeb0ae1c79dc946e49",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1083,
+                    "url": "https://media.sketchfab.com/avatars/b05a9490eede47aeb0ae1c79dc946e49/8cf24c79beb74df6b69685e7eb4f383e.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1456,
+                    "url": "https://media.sketchfab.com/avatars/b05a9490eede47aeb0ae1c79dc946e49/fa943dcadc454972b4001b15de7faed6.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3160,
+                    "url": "https://media.sketchfab.com/avatars/b05a9490eede47aeb0ae1c79dc946e49/0b350d50f55d46209965a02aaff1c089.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3830,
+                    "url": "https://media.sketchfab.com/avatars/b05a9490eede47aeb0ae1c79dc946e49/9f2e72b00c5349469007fa5ec5e30b4e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1deffb1de4104c2f8a36e3a60018ca6c"
+    },
+    "vertexCount": 3480,
+    "viewCount": 5,
+    "viewerUrl": "https://sketchfab.com/3d-models/low-poly-sci-fi-botanical-tower-planter-quad-10f76a13d4204c98a27714de7971ebc9",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A low-poly sci-fi botanical tower planter quad designed for space stations, research facilities and futuristic bio-domes.\n\nThe model features clean geometric shapes, a vertical quad-sided structure and integrated planter modules on each face, making it suitable as a central vegetation prop or modular hydroponic element in sci-fi interiors, laboratories and survival environments.\n\nOptimized low-poly geometry ensures smooth performance in real-time engines such as Unity, Unreal Engine and Godot, while allowing easy integration into modular interior layouts and bio-environment scenes.\n\nThe asset follows a consistent grey / cyan / orange sci-fi visual language, making it ideal for cohesive futuristic scene building.\n\nThis model is part of a larger modular sci-fi asset collection by Ozea Studio.\n\nTo find the full pack:\nozea-studio.itch.io",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/10f76a13d4204c98a27714de7971ebc9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T12:49:52.112698",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 9
+}

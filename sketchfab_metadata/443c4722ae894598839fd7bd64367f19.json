@@ -1,0 +1,145 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+            "name": "Places & Travel",
+            "slug": "places-travel",
+            "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2024-09-04T07:54:10.494849",
+    "embedUrl": "https://sketchfab.com/models/443c4722ae894598839fd7bd64367f19/embed",
+    "faceCount": 49825,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Train",
+    "publishedAt": "2024-09-04T07:55:44.679105",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "train",
+            "slug": "train",
+            "uri": "https://api.sketchfab.com/v3/tags/train"
+        },
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "afdedc03321642ea83db4e7cea9bc5e2",
+                "width": 1920,
+                "height": 1080,
+                "size": 59252,
+                "url": "https://media.sketchfab.com/models/443c4722ae894598839fd7bd64367f19/thumbnails/9d85170960594f369517cf97fa8cc6a1/071aa14c06cf49eb9c32bf208e75f457.jpeg"
+            },
+            {
+                "uid": "3c7e11d5046043ada575bdb8196ab2ea",
+                "width": 1024,
+                "height": 576,
+                "size": 19023,
+                "url": "https://media.sketchfab.com/models/443c4722ae894598839fd7bd64367f19/thumbnails/9d85170960594f369517cf97fa8cc6a1/2115526c23f44ee4b03df398913ae98f.jpeg"
+            },
+            {
+                "uid": "dda72311f612423891add8a8049a8ebc",
+                "width": 720,
+                "height": 405,
+                "size": 10877,
+                "url": "https://media.sketchfab.com/models/443c4722ae894598839fd7bd64367f19/thumbnails/9d85170960594f369517cf97fa8cc6a1/e3a370f9827247d58be061746ee12ed7.jpeg"
+            },
+            {
+                "uid": "dfc18a546e0a4a77b5d12cebd7f33842",
+                "width": 256,
+                "height": 144,
+                "size": 2414,
+                "url": "https://media.sketchfab.com/models/443c4722ae894598839fd7bd64367f19/thumbnails/9d85170960594f369517cf97fa8cc6a1/362fd63c56bb46f3b18c03620b97c734.jpeg"
+            },
+            {
+                "uid": "c2d050483a8e408482a6ff4581d61ed9",
+                "width": 64,
+                "height": 36,
+                "size": 849,
+                "url": "https://media.sketchfab.com/models/443c4722ae894598839fd7bd64367f19/thumbnails/9d85170960594f369517cf97fa8cc6a1/9f2e47c93ce042f4bb6f6dc9ec99cbed.jpeg"
+            }
+        ]
+    },
+    "uid": "443c4722ae894598839fd7bd64367f19",
+    "uri": "https://api.sketchfab.com/v3/models/443c4722ae894598839fd7bd64367f19",
+    "user": {
+        "uid": "1ce9cb1b478e4164a2eb3e489b2de844",
+        "username": "guillaume.ebras",
+        "displayName": "guillaume.ebras",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/guillaume.ebras",
+        "avatar": {
+            "uid": "eb8146d13f3b4c709906da484df074ab",
+            "uri": "https://api.sketchfab.com/v3/avatars/eb8146d13f3b4c709906da484df074ab",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1092,
+                    "url": "https://media.sketchfab.com/avatars/eb8146d13f3b4c709906da484df074ab/c8fdca946ffb4a6ea06d9b71d316e470.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1546,
+                    "url": "https://media.sketchfab.com/avatars/eb8146d13f3b4c709906da484df074ab/9ae63ed3158b4b14aff0ce269968abd9.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3369,
+                    "url": "https://media.sketchfab.com/avatars/eb8146d13f3b4c709906da484df074ab/4d616c9fe5b8450fa1ae4b69505144fe.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3878,
+                    "url": "https://media.sketchfab.com/avatars/eb8146d13f3b4c709906da484df074ab/7edb5386b2ba48919aec8a687c9ff867.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/1ce9cb1b478e4164a2eb3e489b2de844"
+    },
+    "vertexCount": 24701,
+    "viewCount": 32,
+    "viewerUrl": "https://sketchfab.com/3d-models/train-443c4722ae894598839fd7bd64367f19",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "3D Train Model - FBX Format\n\nBring your projects to life with this highly detailed 3D train model. Ideal for game development, animation, architectural visualizations, or any creative project requiring a realistic train, this FBX model is meticulously crafted to ensure it meets professional standards.\n\nKey Features:\n\nHigh-Resolution Mesh: Carefully designed with clean topology, perfect for close-up shots and high-quality renders.\nTextured & UV Mapped: Includes realistic textures and accurate UV mapping for a lifelike appearance.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/443c4722ae894598839fd7bd64367f19/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2024-09-04T07:55:44.854371",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

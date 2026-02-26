@@ -1,0 +1,204 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T02:17:04.138153",
+    "embedUrl": "https://sketchfab.com/models/27ff4c5e5b6d4037a57974095f4a98c2/embed",
+    "faceCount": 16718,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "beer logo",
+    "publishedAt": "2026-02-20T05:00:45.065296",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "beer",
+            "slug": "beer",
+            "uri": "https://api.sketchfab.com/v3/tags/beer"
+        },
+        {
+            "name": "mid-poly",
+            "slug": "mid-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/mid-poly"
+        },
+        {
+            "name": "handpaintedtexture",
+            "slug": "handpaintedtexture",
+            "uri": "https://api.sketchfab.com/v3/tags/handpaintedtexture"
+        },
+        {
+            "name": "skulpt",
+            "slug": "skulpt",
+            "uri": "https://api.sketchfab.com/v3/tags/skulpt"
+        },
+        {
+            "name": "medievalfantasyassets",
+            "slug": "medievalfantasyassets",
+            "uri": "https://api.sketchfab.com/v3/tags/medievalfantasyassets"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "blender3d",
+            "slug": "blender3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender3d"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7f28baf9f6d849bead968fce023f61a1",
+                "width": 1920,
+                "height": 1080,
+                "size": 123429,
+                "url": "https://media.sketchfab.com/models/27ff4c5e5b6d4037a57974095f4a98c2/thumbnails/5d796f290fb44790af2be04729a201db/5c15e525cc544d5eb61ba033122d6872.jpeg"
+            },
+            {
+                "uid": "1e61048017d44edc895aedb93e45b828",
+                "width": 1024,
+                "height": 576,
+                "size": 41552,
+                "url": "https://media.sketchfab.com/models/27ff4c5e5b6d4037a57974095f4a98c2/thumbnails/5d796f290fb44790af2be04729a201db/59c768d66f9c4937bea9e7380512d7b8.jpeg"
+            },
+            {
+                "uid": "f0cfdfa3d2fe4bf295f0520f0be78f61",
+                "width": 720,
+                "height": 405,
+                "size": 24353,
+                "url": "https://media.sketchfab.com/models/27ff4c5e5b6d4037a57974095f4a98c2/thumbnails/5d796f290fb44790af2be04729a201db/8e313a2bdc2b435a87a9c3feba7abfc7.jpeg"
+            },
+            {
+                "uid": "c5854dd3ec6c49cb98cf1c336f52c76d",
+                "width": 256,
+                "height": 144,
+                "size": 5113,
+                "url": "https://media.sketchfab.com/models/27ff4c5e5b6d4037a57974095f4a98c2/thumbnails/5d796f290fb44790af2be04729a201db/edb7154314d8469c8f749ee13e1d14b6.jpeg"
+            },
+            {
+                "uid": "1d84977e218d4c7ebe7e26aed7eb48c9",
+                "width": 64,
+                "height": 36,
+                "size": 1101,
+                "url": "https://media.sketchfab.com/models/27ff4c5e5b6d4037a57974095f4a98c2/thumbnails/5d796f290fb44790af2be04729a201db/6d942dda1af54a458ccfbf5dfecfcaa6.jpeg"
+            }
+        ]
+    },
+    "uid": "27ff4c5e5b6d4037a57974095f4a98c2",
+    "uri": "https://api.sketchfab.com/v3/models/27ff4c5e5b6d4037a57974095f4a98c2",
+    "user": {
+        "uid": "46d425b8d0ed4d37bfd83a8d31aa8793",
+        "username": "ihollow",
+        "displayName": "iHollow",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ihollow",
+        "avatar": {
+            "uid": "c54f9d82d04a416eb627c5bf31a6a67a",
+            "uri": "https://api.sketchfab.com/v3/avatars/c54f9d82d04a416eb627c5bf31a6a67a",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3961,
+                    "url": "https://media.sketchfab.com/avatars/c54f9d82d04a416eb627c5bf31a6a67a/e1e167f1a32f44bca7817917964495cc.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3334,
+                    "url": "https://media.sketchfab.com/avatars/c54f9d82d04a416eb627c5bf31a6a67a/a5e9090755504f1baecd95ec90c6c825.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1137,
+                    "url": "https://media.sketchfab.com/avatars/c54f9d82d04a416eb627c5bf31a6a67a/3b1670024337488ab37bb8e1a8f09e75.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 597,
+                    "url": "https://media.sketchfab.com/avatars/c54f9d82d04a416eb627c5bf31a6a67a/2b55bfd4dc8a46928dc31a8dc9fbe91e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/46d425b8d0ed4d37bfd83a8d31aa8793"
+    },
+    "vertexCount": 9063,
+    "viewCount": 75,
+    "viewerUrl": "https://sketchfab.com/3d-models/beer-logo-27ff4c5e5b6d4037a57974095f4a98c2",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "well, after a long brake, I had the opportunity to learn new software and practice my handpainting skills. as base concept I took [Masha Kondrateva's](https://www.artstation.com/artwork/e0ldoY) artwork an recreated it in 3d\n\nhttps://www.artstation.com/artwork/NqdBYq",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/27ff4c5e5b6d4037a57974095f4a98c2/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T23:44:17.876601",
+    "pbrType": "metalness",
+    "textureCount": 7,
+    "materialCount": 2
+}

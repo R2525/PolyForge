@@ -1,0 +1,160 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-15T08:44:21.529759",
+    "embedUrl": "https://sketchfab.com/models/11c3b49384af45daa4219b124e5d1c31/embed",
+    "faceCount": 971304,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Angry Birds Star Wars - Death Star Pig 2",
+    "publishedAt": "2026-02-15T08:52:45.448119",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "df7c4f878f2d4fb5a1427d0a598e3d06",
+                "width": 1920,
+                "height": 1080,
+                "size": 146280,
+                "url": "https://media.sketchfab.com/models/11c3b49384af45daa4219b124e5d1c31/thumbnails/ae1dbccb251545cf82de18849262560f/41303401e0e24b1ca648df9a32370d98.jpeg"
+            },
+            {
+                "uid": "74e9829892b745d8a799433d121d805c",
+                "width": 1024,
+                "height": 576,
+                "size": 36245,
+                "url": "https://media.sketchfab.com/models/11c3b49384af45daa4219b124e5d1c31/thumbnails/ae1dbccb251545cf82de18849262560f/e67053696d8b402b93fe6a55ed27fc3c.jpeg"
+            },
+            {
+                "uid": "b648c3a8b10f4449b2924abffd2eced3",
+                "width": 720,
+                "height": 405,
+                "size": 19591,
+                "url": "https://media.sketchfab.com/models/11c3b49384af45daa4219b124e5d1c31/thumbnails/ae1dbccb251545cf82de18849262560f/05b7b880d625443eb34c278a27a58e1c.jpeg"
+            },
+            {
+                "uid": "9ac8db22c6dc4fe8876ade3517b4f99a",
+                "width": 256,
+                "height": 144,
+                "size": 4048,
+                "url": "https://media.sketchfab.com/models/11c3b49384af45daa4219b124e5d1c31/thumbnails/ae1dbccb251545cf82de18849262560f/d9aee078de414f3cb36560e74d05e278.jpeg"
+            },
+            {
+                "uid": "cb5cb70226254b0a888249ef691f5209",
+                "width": 64,
+                "height": 36,
+                "size": 1075,
+                "url": "https://media.sketchfab.com/models/11c3b49384af45daa4219b124e5d1c31/thumbnails/ae1dbccb251545cf82de18849262560f/df2035892d7e4aaaa4adb87728477b7c.jpeg"
+            }
+        ]
+    },
+    "uid": "11c3b49384af45daa4219b124e5d1c31",
+    "uri": "https://api.sketchfab.com/v3/models/11c3b49384af45daa4219b124e5d1c31",
+    "user": {
+        "uid": "c0cd59d5c25d4dcebaeb2a713a3df670",
+        "username": "NBProductions",
+        "displayName": "NB Productions",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/NBProductions",
+        "avatar": {
+            "uid": "22424816022f4c7685ed539cd8ec0b35",
+            "uri": "https://api.sketchfab.com/v3/avatars/22424816022f4c7685ed539cd8ec0b35",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2982,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/c07bc6d104ef4111b89b5e03a8d2cd26.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5509,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/44e36fc67c744e81857f2e1b905ff034.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 12770,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/dbb806198da749a3aedb505c1a09a229.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 14755,
+                    "url": "https://media.sketchfab.com/avatars/22424816022f4c7685ed539cd8ec0b35/2d69f7ae5e444524a9aecd2667805428.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c0cd59d5c25d4dcebaeb2a713a3df670"
+    },
+    "vertexCount": 519100,
+    "viewCount": 75,
+    "viewerUrl": "https://sketchfab.com/3d-models/angry-birds-star-wars-death-star-pig-2-11c3b49384af45daa4219b124e5d1c31",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Here is 3D mdoel design of the death star 2 in Pig form from Angry Birds Star Wars.",
+    "price": null,
+    "downloadCount": 6,
+    "editorUrl": "https://sketchfab.com/models/11c3b49384af45daa4219b124e5d1c31/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-15T08:52:45.535804",
+    "pbrType": null,
+    "textureCount": 8,
+    "materialCount": 9
+}

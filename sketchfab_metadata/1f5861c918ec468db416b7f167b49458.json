@@ -1,0 +1,187 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T21:15:15.632422",
+    "embedUrl": "https://sketchfab.com/models/1f5861c918ec468db416b7f167b49458/embed",
+    "faceCount": 66304,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Medieval Window",
+    "publishedAt": "2026-02-20T21:16:59.969538",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "cathedral",
+            "slug": "cathedral",
+            "uri": "https://api.sketchfab.com/v3/tags/cathedral"
+        },
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "library",
+            "slug": "library",
+            "uri": "https://api.sketchfab.com/v3/tags/library"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "window",
+            "slug": "window",
+            "uri": "https://api.sketchfab.com/v3/tags/window"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "glass",
+            "slug": "glass",
+            "uri": "https://api.sketchfab.com/v3/tags/glass"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9d8ab38e7b824d01b94e75c72ef317fe",
+                "width": 1920,
+                "height": 1080,
+                "size": 86366,
+                "url": "https://media.sketchfab.com/models/1f5861c918ec468db416b7f167b49458/thumbnails/1f129dc27da74f3ba6a9e0a677a41732/5b07046241db4cf9a9ebe6fdabff9c71.jpeg"
+            },
+            {
+                "uid": "f6cdb1283fa1407286e3cfe44ed7e666",
+                "width": 1024,
+                "height": 576,
+                "size": 27542,
+                "url": "https://media.sketchfab.com/models/1f5861c918ec468db416b7f167b49458/thumbnails/1f129dc27da74f3ba6a9e0a677a41732/4d86c75c7b5c4dfc89704ed700caafc3.jpeg"
+            },
+            {
+                "uid": "9a2b4f7e1f224470b9cb6ceb5c2dc746",
+                "width": 720,
+                "height": 405,
+                "size": 15836,
+                "url": "https://media.sketchfab.com/models/1f5861c918ec468db416b7f167b49458/thumbnails/1f129dc27da74f3ba6a9e0a677a41732/781aadaeb20e4387926d932f81c2b16f.jpeg"
+            },
+            {
+                "uid": "71d03221907b4d13a0dc2600e2635413",
+                "width": 256,
+                "height": 144,
+                "size": 3582,
+                "url": "https://media.sketchfab.com/models/1f5861c918ec468db416b7f167b49458/thumbnails/1f129dc27da74f3ba6a9e0a677a41732/1c7692fe12ed463fabccc0f14dfc6fa7.jpeg"
+            },
+            {
+                "uid": "fe4ea79253da440d88ebc8385d732878",
+                "width": 64,
+                "height": 36,
+                "size": 1025,
+                "url": "https://media.sketchfab.com/models/1f5861c918ec468db416b7f167b49458/thumbnails/1f129dc27da74f3ba6a9e0a677a41732/3a95f57fb33a427b94f822874a3e9609.jpeg"
+            }
+        ]
+    },
+    "uid": "1f5861c918ec468db416b7f167b49458",
+    "uri": "https://api.sketchfab.com/v3/models/1f5861c918ec468db416b7f167b49458",
+    "user": {
+        "uid": "073abcf9ee1144ff85e7add17b56daa0",
+        "username": "farhan_3D",
+        "displayName": "farhan_3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/farhan_3D",
+        "avatar": {
+            "uid": "6cbc7bd27b3a48f89f523041e29e49fa",
+            "uri": "https://api.sketchfab.com/v3/avatars/6cbc7bd27b3a48f89f523041e29e49fa",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 965,
+                    "url": "https://media.sketchfab.com/avatars/6cbc7bd27b3a48f89f523041e29e49fa/a4cbd3975c434dcabe6e82dc49af3cd4.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1239,
+                    "url": "https://media.sketchfab.com/avatars/6cbc7bd27b3a48f89f523041e29e49fa/02953c5a02364b6285e6c5fc9d71a1ec.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2883,
+                    "url": "https://media.sketchfab.com/avatars/6cbc7bd27b3a48f89f523041e29e49fa/519b3133b4534d22a3897f7eb0d82657.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3443,
+                    "url": "https://media.sketchfab.com/avatars/6cbc7bd27b3a48f89f523041e29e49fa/637ece6a4d1443d49c398955d306b758.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/073abcf9ee1144ff85e7add17b56daa0"
+    },
+    "vertexCount": 33613,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-window-1f5861c918ec468db416b7f167b49458",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the original file.The viewer version is intended only for use in the web viewer. In the Original format, the following are fully preserved:✔ native scene structure✔ all materials without simplification✔ accurate texture maps✔ original object namesIf you intend to use the asset in a production environment, choose the Original format.wooden Medieval window",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/1f5861c918ec468db416b7f167b49458/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T21:17:00.237500",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

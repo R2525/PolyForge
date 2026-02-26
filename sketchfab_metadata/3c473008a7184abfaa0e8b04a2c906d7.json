@@ -1,0 +1,121 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 2,
+    "createdAt": "2025-12-02T12:59:36.102834",
+    "embedUrl": "https://sketchfab.com/models/3c473008a7184abfaa0e8b04a2c906d7/embed",
+    "faceCount": 2174,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 3,
+    "name": "21st Century Fox and 21st Star Wars logo by Nann",
+    "publishedAt": "2025-12-02T13:00:24.275026",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "245f051d8e1d4cb08d4ce28927b9c1f5",
+                "width": 1920,
+                "height": 1080,
+                "size": 93608,
+                "url": "https://media.sketchfab.com/models/3c473008a7184abfaa0e8b04a2c906d7/thumbnails/33a0b5544670496bad667afe927bf70b/8aa53fe7986a4e2f80432213f3295d74.jpeg"
+            },
+            {
+                "uid": "c7e1af6897a94d498c43bd6db9777398",
+                "width": 1024,
+                "height": 576,
+                "size": 38167,
+                "url": "https://media.sketchfab.com/models/3c473008a7184abfaa0e8b04a2c906d7/thumbnails/33a0b5544670496bad667afe927bf70b/947904dee013495aaf2d3b845fe49018.jpeg"
+            },
+            {
+                "uid": "bebf6745e9f0455f9d8566a4d3bead5a",
+                "width": 720,
+                "height": 405,
+                "size": 23594,
+                "url": "https://media.sketchfab.com/models/3c473008a7184abfaa0e8b04a2c906d7/thumbnails/33a0b5544670496bad667afe927bf70b/8f158a889bc6414cb007d771d1688ce5.jpeg"
+            },
+            {
+                "uid": "0ea40d6230cd4a5dba5f472ad4388f19",
+                "width": 256,
+                "height": 144,
+                "size": 5924,
+                "url": "https://media.sketchfab.com/models/3c473008a7184abfaa0e8b04a2c906d7/thumbnails/33a0b5544670496bad667afe927bf70b/0cca448726f74aaa93ba33991924fd46.jpeg"
+            },
+            {
+                "uid": "13777259b48e46d1941265b9b480b482",
+                "width": 64,
+                "height": 36,
+                "size": 1469,
+                "url": "https://media.sketchfab.com/models/3c473008a7184abfaa0e8b04a2c906d7/thumbnails/33a0b5544670496bad667afe927bf70b/f4a97585f5044aa7a219ef82f4eeab95.jpeg"
+            }
+        ]
+    },
+    "uid": "3c473008a7184abfaa0e8b04a2c906d7",
+    "uri": "https://api.sketchfab.com/v3/models/3c473008a7184abfaa0e8b04a2c906d7",
+    "user": {
+        "uid": "173e39531c8846ed91e16d917e9e3c45",
+        "username": "alex12455",
+        "displayName": "alex12455",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/alex12455",
+        "avatar": {
+            "uid": "dda08b42b3ea44fc8ea050d26f36779f",
+            "uri": "https://api.sketchfab.com/v3/avatars/dda08b42b3ea44fc8ea050d26f36779f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1803,
+                    "url": "https://media.sketchfab.com/avatars/dda08b42b3ea44fc8ea050d26f36779f/f9d0ff5949ac40f5a57b50cc2a4f1a57.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3518,
+                    "url": "https://media.sketchfab.com/avatars/dda08b42b3ea44fc8ea050d26f36779f/032229e97a684e97b5796ffb7df9fa03.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9915,
+                    "url": "https://media.sketchfab.com/avatars/dda08b42b3ea44fc8ea050d26f36779f/3a03dd9a135045d28005891272f144c2.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11637,
+                    "url": "https://media.sketchfab.com/avatars/dda08b42b3ea44fc8ea050d26f36779f/f85160e6e3d847018b8732cf283ad5b8.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/173e39531c8846ed91e16d917e9e3c45"
+    },
+    "vertexCount": 1166,
+    "viewCount": 262,
+    "viewerUrl": "https://sketchfab.com/3d-models/21st-century-fox-and-21st-star-wars-logo-by-nann-3c473008a7184abfaa0e8b04a2c906d7",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Model by TheGiraffeGuy2013",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/3c473008a7184abfaa0e8b04a2c906d7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-02T13:02:19.823178",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 5
+}

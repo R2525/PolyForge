@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.95
+        },
+        {
+            "name": "Historical",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.85
+        },
+        {
+            "name": "Medieval",
+            "score": 0.8
+        },
+        {
+            "name": "Victorian",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.9
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Historical Realism",
+            "score": 0.8
+        },
+        {
+            "name": "Architectural Render",
+            "score": 0.75
+        },
+        {
+            "name": "Digital Sculpture",
+            "score": 0.7
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Mossy",
+        "Cracked",
+        "Dusty",
+        "Rusty"
+    ],
+    "tags": [
+        "epitaph",
+        "stone",
+        "architecture",
+        "historical",
+        "ancient",
+        "monument",
+        "cultural heritage",
+        "building"
+    ],
+    "model_id_full": "470e619543d1478d9b1235d998a5f46d_Epitaphe of Guillaume III Taillefer",
+    "sketchfab_id": "470e619543d1478d9b1235d998a5f46d",
+    "asset_name": "Epitaphe of Guillaume III Taillefer"
+}

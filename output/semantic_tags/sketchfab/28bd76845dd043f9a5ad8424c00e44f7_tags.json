@@ -1,0 +1,40 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Toon / Anime",
+            "score": 0.85
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.75
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.7
+        }
+    ],
+    "style": "Toon / Anime",
+    "top_styles": [
+        {
+            "name": "Toon / Anime",
+            "score": 0.9
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "scarecrow",
+        "sun",
+        "character"
+    ]
+}

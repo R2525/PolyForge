@@ -1,0 +1,132 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-08T06:26:45.475642",
+    "embedUrl": "https://sketchfab.com/models/1a8b4779467c4cf695ffaec758f06da9/embed",
+    "faceCount": 6974,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Reuniclus",
+    "publishedAt": "2026-02-08T06:28:10.784712",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "reuniclus",
+            "slug": "reuniclus",
+            "uri": "https://api.sketchfab.com/v3/tags/reuniclus"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9d44969c618646f79ded31a79a3da9c6",
+                "width": 1920,
+                "height": 1080,
+                "size": 49199,
+                "url": "https://media.sketchfab.com/models/1a8b4779467c4cf695ffaec758f06da9/thumbnails/03f67666d5484d2d94c04a97c3c19790/ff8e2365512f4ba58f69c078f1aa7508.jpeg"
+            },
+            {
+                "uid": "6f735432f521471b9cad3da8ff5faa2e",
+                "width": 1024,
+                "height": 576,
+                "size": 16252,
+                "url": "https://media.sketchfab.com/models/1a8b4779467c4cf695ffaec758f06da9/thumbnails/03f67666d5484d2d94c04a97c3c19790/5d2a763748954e8b9900e6bfa502db8d.jpeg"
+            },
+            {
+                "uid": "6b735c86a0994ffc8a4dfe77cb98b11b",
+                "width": 720,
+                "height": 405,
+                "size": 9398,
+                "url": "https://media.sketchfab.com/models/1a8b4779467c4cf695ffaec758f06da9/thumbnails/03f67666d5484d2d94c04a97c3c19790/246b287ed35743efb712a394d52c72fc.jpeg"
+            },
+            {
+                "uid": "b7bb518b54c24d80b106327dd3dbe627",
+                "width": 256,
+                "height": 144,
+                "size": 2293,
+                "url": "https://media.sketchfab.com/models/1a8b4779467c4cf695ffaec758f06da9/thumbnails/03f67666d5484d2d94c04a97c3c19790/33a437f9b9ba4f0db58967b6598df713.jpeg"
+            },
+            {
+                "uid": "f685074e327c4fcf8be6d53a3dc2ee7a",
+                "width": 64,
+                "height": 36,
+                "size": 837,
+                "url": "https://media.sketchfab.com/models/1a8b4779467c4cf695ffaec758f06da9/thumbnails/03f67666d5484d2d94c04a97c3c19790/d47465852ec644b1bba6616b09802c37.jpeg"
+            }
+        ]
+    },
+    "uid": "1a8b4779467c4cf695ffaec758f06da9",
+    "uri": "https://api.sketchfab.com/v3/models/1a8b4779467c4cf695ffaec758f06da9",
+    "user": {
+        "uid": "4970b3f5dd6045d6966d34c3510b35da",
+        "username": "Highbreed0",
+        "displayName": "Highbreed0",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Highbreed0",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4970b3f5dd6045d6966d34c3510b35da"
+    },
+    "vertexCount": 3599,
+    "viewCount": 13,
+    "viewerUrl": "https://sketchfab.com/3d-models/reuniclus-1a8b4779467c4cf695ffaec758f06da9",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "hi",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/1a8b4779467c4cf695ffaec758f06da9/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-08T06:28:10.885682",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 4
+}

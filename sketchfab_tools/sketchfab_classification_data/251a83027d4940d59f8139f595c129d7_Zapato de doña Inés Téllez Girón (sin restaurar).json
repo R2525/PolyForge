@@ -1,0 +1,69 @@
+{
+    "category": "Cultural Heritage & History",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.95
+        },
+        {
+            "name": "Historical",
+            "score": 0.85
+        },
+        {
+            "name": "Pre-Columbian",
+            "score": 0.75
+        },
+        {
+            "name": "Historical Artifact",
+            "score": 0.7
+        },
+        {
+            "name": "Museum Display",
+            "score": 0.65
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.88
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Historical Reconstruction",
+            "score": 0.75
+        },
+        {
+            "name": "Digital Rendering",
+            "score": 0.7
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusted",
+        "Dusty",
+        "Cracked",
+        "Faded"
+    ],
+    "tags": [
+        "ancient",
+        "shoes",
+        "historical",
+        "artifact",
+        "museum",
+        "museum display",
+        "restoration",
+        "roman"
+    ],
+    "model_id_full": "251a83027d4940d59f8139f595c129d7_Zapato de doña Inés Téllez Girón (sin restaurar)",
+    "sketchfab_id": "251a83027d4940d59f8139f595c129d7",
+    "asset_name": "Zapato de doña Inés Téllez Girón (sin restaurar)"
+}

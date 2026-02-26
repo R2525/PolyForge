@@ -1,0 +1,165 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-16T15:38:39.995570",
+    "embedUrl": "https://sketchfab.com/models/2edde22e6d8940afa40cf22c4c09ad33/embed",
+    "faceCount": 1018396,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "French MS 3: Passion of Our Lord Jesus Christ",
+    "publishedAt": "2026-02-16T15:49:29.269434",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "french",
+            "slug": "french",
+            "uri": "https://api.sketchfab.com/v3/tags/french"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "artec",
+            "slug": "artec",
+            "uri": "https://api.sketchfab.com/v3/tags/artec"
+        },
+        {
+            "name": "manuscript",
+            "slug": "manuscript",
+            "uri": "https://api.sketchfab.com/v3/tags/manuscript"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "passion-of-christ",
+            "slug": "passion-of-christ",
+            "uri": "https://api.sketchfab.com/v3/tags/passion-of-christ"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "70e599f5fba94c30ac9b2fa4a824cc0b",
+                "width": 1920,
+                "height": 1080,
+                "size": 150772,
+                "url": "https://media.sketchfab.com/models/2edde22e6d8940afa40cf22c4c09ad33/thumbnails/bf7c7acc6a1c4a4b86e8b4fb473b1421/6a411ac866f44047bbd6113c8175bda2.jpeg"
+            },
+            {
+                "uid": "438347f301d64e8b83414bd5bbdb373d",
+                "width": 1024,
+                "height": 576,
+                "size": 36373,
+                "url": "https://media.sketchfab.com/models/2edde22e6d8940afa40cf22c4c09ad33/thumbnails/bf7c7acc6a1c4a4b86e8b4fb473b1421/cc490aa74ae04fc5857ee970fb56626e.jpeg"
+            },
+            {
+                "uid": "d9f87a65dad54da7b7c0df83ef738969",
+                "width": 720,
+                "height": 405,
+                "size": 19825,
+                "url": "https://media.sketchfab.com/models/2edde22e6d8940afa40cf22c4c09ad33/thumbnails/bf7c7acc6a1c4a4b86e8b4fb473b1421/e5788cfc4ef543ad9110b59b2b2b5867.jpeg"
+            },
+            {
+                "uid": "bb3615d16c174d5cbfca9fcedc2929f3",
+                "width": 256,
+                "height": 144,
+                "size": 3830,
+                "url": "https://media.sketchfab.com/models/2edde22e6d8940afa40cf22c4c09ad33/thumbnails/bf7c7acc6a1c4a4b86e8b4fb473b1421/b3ea173b60eb457fb4f4084bd05d2bb4.jpeg"
+            },
+            {
+                "uid": "e2334f39a83e49fb91d22233769c47b5",
+                "width": 64,
+                "height": 36,
+                "size": 1062,
+                "url": "https://media.sketchfab.com/models/2edde22e6d8940afa40cf22c4c09ad33/thumbnails/bf7c7acc6a1c4a4b86e8b4fb473b1421/89a163c836af4e3d8bf4b2f9b4679f1f.jpeg"
+            }
+        ]
+    },
+    "uid": "2edde22e6d8940afa40cf22c4c09ad33",
+    "uri": "https://api.sketchfab.com/v3/models/2edde22e6d8940afa40cf22c4c09ad33",
+    "user": {
+        "uid": "4c4f6984a54c410cb2e1346b39ef70f1",
+        "username": "TheJohnRylandsLibrary",
+        "displayName": "The John Rylands Research Institute and Library",
+        "account": "prem",
+        "profileUrl": "https://sketchfab.com/TheJohnRylandsLibrary",
+        "avatar": {
+            "uid": "4822a82fd4e24f98920ea17d69ee31fa",
+            "uri": "https://api.sketchfab.com/v3/avatars/4822a82fd4e24f98920ea17d69ee31fa",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 753,
+                    "url": "https://media.sketchfab.com/avatars/4822a82fd4e24f98920ea17d69ee31fa/ad067e8651104ddf86c6498d434ae5ea.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1267,
+                    "url": "https://media.sketchfab.com/avatars/4822a82fd4e24f98920ea17d69ee31fa/9ae7290ddba246da80aac8432ca893f3.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3422,
+                    "url": "https://media.sketchfab.com/avatars/4822a82fd4e24f98920ea17d69ee31fa/37c831ca23d44569b630f08798d5dfd4.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4037,
+                    "url": "https://media.sketchfab.com/avatars/4822a82fd4e24f98920ea17d69ee31fa/a7d76daf554245bbbc6c7fca1fa67165.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4c4f6984a54c410cb2e1346b39ef70f1"
+    },
+    "vertexCount": 509158,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/french-ms-3-passion-of-our-lord-jesus-christ-2edde22e6d8940afa40cf22c4c09ad33",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "3D scan of French manuscript: Passion de nostre Seigneur Jésus Christ en figures… Prieres à la Vierge (Passion of Our Lord Jesus Christ) 14th -15th century manuscript on vellum 247 mm height 176 mm width",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2edde22e6d8940afa40cf22c4c09ad33/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-17T16:07:59.618490",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

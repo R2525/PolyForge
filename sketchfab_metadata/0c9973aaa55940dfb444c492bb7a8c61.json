@@ -1,0 +1,207 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T21:09:26.472140",
+    "embedUrl": "https://sketchfab.com/models/0c9973aaa55940dfb444c492bb7a8c61/embed",
+    "faceCount": 260854,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Cyclops girl",
+    "publishedAt": "2026-02-23T21:10:07.508244",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "humanoid",
+            "slug": "humanoid",
+            "uri": "https://api.sketchfab.com/v3/tags/humanoid"
+        },
+        {
+            "name": "cyclops",
+            "slug": "cyclops",
+            "uri": "https://api.sketchfab.com/v3/tags/cyclops"
+        },
+        {
+            "name": "horn",
+            "slug": "horn",
+            "uri": "https://api.sketchfab.com/v3/tags/horn"
+        },
+        {
+            "name": "athlete",
+            "slug": "athlete",
+            "uri": "https://api.sketchfab.com/v3/tags/athlete"
+        },
+        {
+            "name": "muscular",
+            "slug": "muscular",
+            "uri": "https://api.sketchfab.com/v3/tags/muscular"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "bold",
+            "slug": "bold",
+            "uri": "https://api.sketchfab.com/v3/tags/bold"
+        },
+        {
+            "name": "creature",
+            "slug": "creature",
+            "uri": "https://api.sketchfab.com/v3/tags/creature"
+        },
+        {
+            "name": "monster",
+            "slug": "monster",
+            "uri": "https://api.sketchfab.com/v3/tags/monster"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "villain",
+            "slug": "villain",
+            "uri": "https://api.sketchfab.com/v3/tags/villain"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ff482681f41845679ef240a8caef7058",
+                "width": 1920,
+                "height": 1080,
+                "size": 63659,
+                "url": "https://media.sketchfab.com/models/0c9973aaa55940dfb444c492bb7a8c61/thumbnails/a327bee64f3648f882698e664b2effe0/d17497a7c0a942a5a0801d23862d29ea.jpeg"
+            },
+            {
+                "uid": "bfc279233b48493fb1b5ce69fb05f8dd",
+                "width": 1024,
+                "height": 576,
+                "size": 23052,
+                "url": "https://media.sketchfab.com/models/0c9973aaa55940dfb444c492bb7a8c61/thumbnails/a327bee64f3648f882698e664b2effe0/beaaf4dbf03640a48932cd74254d9eca.jpeg"
+            },
+            {
+                "uid": "bbbd27919d2b4b5b8295086bdf47fc4e",
+                "width": 720,
+                "height": 405,
+                "size": 14189,
+                "url": "https://media.sketchfab.com/models/0c9973aaa55940dfb444c492bb7a8c61/thumbnails/a327bee64f3648f882698e664b2effe0/b5d91d6b08f84d13b391f7d90aae29f6.jpeg"
+            },
+            {
+                "uid": "13c4811b146349ba993b115bf284bf5e",
+                "width": 256,
+                "height": 144,
+                "size": 3629,
+                "url": "https://media.sketchfab.com/models/0c9973aaa55940dfb444c492bb7a8c61/thumbnails/a327bee64f3648f882698e664b2effe0/553e3c601b9641588a1bae7e2e75f29d.jpeg"
+            },
+            {
+                "uid": "11c51905cbdd469f8e02b2fda83a05ef",
+                "width": 64,
+                "height": 36,
+                "size": 1021,
+                "url": "https://media.sketchfab.com/models/0c9973aaa55940dfb444c492bb7a8c61/thumbnails/a327bee64f3648f882698e664b2effe0/7133923f44b04a70bbe9041df19ed5da.jpeg"
+            }
+        ]
+    },
+    "uid": "0c9973aaa55940dfb444c492bb7a8c61",
+    "uri": "https://api.sketchfab.com/v3/models/0c9973aaa55940dfb444c492bb7a8c61",
+    "user": {
+        "uid": "c43a15f221dd482280ff3a0d20167e84",
+        "username": "n.b.99",
+        "displayName": "n.b.99",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/n.b.99",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c43a15f221dd482280ff3a0d20167e84"
+    },
+    "vertexCount": 130412,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/cyclops-girl-0c9973aaa55940dfb444c492bb7a8c61",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/LgDv6i](https://www.meshy.ai/s/LgDv6i)",
+    "price": null,
+    "downloadCount": 5,
+    "editorUrl": "https://sketchfab.com/models/0c9973aaa55940dfb444c492bb7a8c61/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T21:16:41.771186",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

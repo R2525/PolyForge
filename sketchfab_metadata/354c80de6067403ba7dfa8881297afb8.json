@@ -1,0 +1,196 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-30T10:31:18.894397",
+    "embedUrl": "https://sketchfab.com/models/354c80de6067403ba7dfa8881297afb8/embed",
+    "faceCount": 499972,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 17,
+    "name": "The White Star — Heroine of the Last Light",
+    "publishedAt": "2025-12-30T10:40:46.970168",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "anatomy",
+            "slug": "anatomy",
+            "uri": "https://api.sketchfab.com/v3/tags/anatomy"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "female",
+            "slug": "female",
+            "uri": "https://api.sketchfab.com/v3/tags/female"
+        },
+        {
+            "name": "female-model",
+            "slug": "female-model",
+            "uri": "https://api.sketchfab.com/v3/tags/female-model"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a2bea597fd604bc28ada9f4eef28a79b",
+                "width": 1920,
+                "height": 1080,
+                "size": 74628,
+                "url": "https://media.sketchfab.com/models/354c80de6067403ba7dfa8881297afb8/thumbnails/6f0738d1d3d247cdb0f6d43a707812ba/974d127311c24b72b4fd33ee216fa655.jpeg"
+            },
+            {
+                "uid": "5cb2f03b3fcd44b7aba3bb8b8ecdaf78",
+                "width": 1024,
+                "height": 576,
+                "size": 24257,
+                "url": "https://media.sketchfab.com/models/354c80de6067403ba7dfa8881297afb8/thumbnails/6f0738d1d3d247cdb0f6d43a707812ba/ad04d82eab1145afa25f610b9727e355.jpeg"
+            },
+            {
+                "uid": "56d3a0b5b5b248608be684366875aea4",
+                "width": 720,
+                "height": 405,
+                "size": 14068,
+                "url": "https://media.sketchfab.com/models/354c80de6067403ba7dfa8881297afb8/thumbnails/6f0738d1d3d247cdb0f6d43a707812ba/092cbcddd7cc4fdba896dc5fe5f73172.jpeg"
+            },
+            {
+                "uid": "d1ba36ad46504c75874663fa42e658b2",
+                "width": 256,
+                "height": 144,
+                "size": 3159,
+                "url": "https://media.sketchfab.com/models/354c80de6067403ba7dfa8881297afb8/thumbnails/6f0738d1d3d247cdb0f6d43a707812ba/d58613f081514afd89f7433afa1306f3.jpeg"
+            },
+            {
+                "uid": "07f4ba92f3854462a49b2a6df1d3cd48",
+                "width": 64,
+                "height": 36,
+                "size": 944,
+                "url": "https://media.sketchfab.com/models/354c80de6067403ba7dfa8881297afb8/thumbnails/6f0738d1d3d247cdb0f6d43a707812ba/b8bbe6dec6a04d37afa8db06f5fae292.jpeg"
+            }
+        ]
+    },
+    "uid": "354c80de6067403ba7dfa8881297afb8",
+    "uri": "https://api.sketchfab.com/v3/models/354c80de6067403ba7dfa8881297afb8",
+    "user": {
+        "uid": "e8a554ba047a4d9db72a5761fe22d1bf",
+        "username": "ScaryPizza",
+        "displayName": "ScaryPizza",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ScaryPizza",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e8a554ba047a4d9db72a5761fe22d1bf"
+    },
+    "vertexCount": 249886,
+    "viewCount": 497,
+    "viewerUrl": "https://sketchfab.com/3d-models/the-white-star-heroine-of-the-last-light-354c80de6067403ba7dfa8881297afb8",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "**The White Star — Heroine of the Last Light**\n\nIn an age when darkness consumed worlds one by one, a child was born under a silent sky—no sun, no moon, only a single radiant flare. The sages named her The White Star, believing she was not born of flesh alone, but forged from the last fragment of pure light left in the universe.\n\nOrigin\n\nThe White Star was created when an ancient celestial core shattered during the final war between light and void. One fragment fell to a dying planet, merging with a newborn girl. From that moment, light flowed through her veins. Her skin carried a soft white glow, and her eyes reflected entire galaxies.\n\nShe grew in secrecy, raised by monks who guarded forgotten knowledge. They taught her discipline, compassion, and restraint—for her power was limitless, but uncontrolled light could destroy as easily as darkness.",
+    "price": null,
+    "downloadCount": 69,
+    "editorUrl": "https://sketchfab.com/models/354c80de6067403ba7dfa8881297afb8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-30T10:40:47.056132",
+    "pbrType": "specular",
+    "textureCount": 4,
+    "materialCount": 1
+}

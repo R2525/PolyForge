@@ -1,0 +1,264 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T03:27:38.796812",
+    "embedUrl": "https://sketchfab.com/models/407776404e0748348ef5d364a39a5dd7/embed",
+    "faceCount": 1973364,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "St. Nicholas Cathedral Reconstruction",
+    "publishedAt": "2026-02-21T03:43:33.221121",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "archeology",
+            "slug": "archeology",
+            "uri": "https://api.sketchfab.com/v3/tags/archeology"
+        },
+        {
+            "name": "cathedral",
+            "slug": "cathedral",
+            "uri": "https://api.sketchfab.com/v3/tags/cathedral"
+        },
+        {
+            "name": "historic",
+            "slug": "historic",
+            "uri": "https://api.sketchfab.com/v3/tags/historic"
+        },
+        {
+            "name": "vray",
+            "slug": "vray",
+            "uri": "https://api.sketchfab.com/v3/tags/vray"
+        },
+        {
+            "name": "exterior",
+            "slug": "exterior",
+            "uri": "https://api.sketchfab.com/v3/tags/exterior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "catholic",
+            "slug": "catholic",
+            "uri": "https://api.sketchfab.com/v3/tags/catholic"
+        },
+        {
+            "name": "architectural",
+            "slug": "architectural",
+            "uri": "https://api.sketchfab.com/v3/tags/architectural"
+        },
+        {
+            "name": "landmark",
+            "slug": "landmark",
+            "uri": "https://api.sketchfab.com/v3/tags/landmark"
+        },
+        {
+            "name": "hamburg",
+            "slug": "hamburg",
+            "uri": "https://api.sketchfab.com/v3/tags/hamburg"
+        },
+        {
+            "name": "heritage",
+            "slug": "heritage",
+            "uri": "https://api.sketchfab.com/v3/tags/heritage"
+        },
+        {
+            "name": "reconstruction",
+            "slug": "reconstruction",
+            "uri": "https://api.sketchfab.com/v3/tags/reconstruction"
+        },
+        {
+            "name": "germany",
+            "slug": "germany",
+            "uri": "https://api.sketchfab.com/v3/tags/germany"
+        },
+        {
+            "name": "gothic",
+            "slug": "gothic",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic"
+        },
+        {
+            "name": "christian",
+            "slug": "christian",
+            "uri": "https://api.sketchfab.com/v3/tags/christian"
+        },
+        {
+            "name": "Restoration",
+            "slug": "restoration",
+            "uri": "https://api.sketchfab.com/v3/tags/restoration"
+        },
+        {
+            "name": "gothicarchitecture",
+            "slug": "gothicarchitecture",
+            "uri": "https://api.sketchfab.com/v3/tags/gothicarchitecture"
+        },
+        {
+            "name": "gothic-art",
+            "slug": "gothic-art",
+            "uri": "https://api.sketchfab.com/v3/tags/gothic-art"
+        },
+        {
+            "name": "sketchup",
+            "slug": "sketchup",
+            "uri": "https://api.sketchfab.com/v3/tags/sketchup"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "church",
+            "slug": "church",
+            "uri": "https://api.sketchfab.com/v3/tags/church"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "adae6a2d12174b09b1b0b461ad761bd7",
+                "width": 1920,
+                "height": 1080,
+                "size": 275407,
+                "url": "https://media.sketchfab.com/models/407776404e0748348ef5d364a39a5dd7/thumbnails/127f392eb5384b29a79cbd6c575a98b5/170e77e20cda47d788c1834e90d73b02.jpeg"
+            },
+            {
+                "uid": "8265be03e0994aa2aed7ed1e8f75366c",
+                "width": 1024,
+                "height": 576,
+                "size": 41309,
+                "url": "https://media.sketchfab.com/models/407776404e0748348ef5d364a39a5dd7/thumbnails/127f392eb5384b29a79cbd6c575a98b5/8c729bd22c5443c2bf0062786540bb8a.jpeg"
+            },
+            {
+                "uid": "4a69f033e3f44f88a73012776c93916e",
+                "width": 720,
+                "height": 405,
+                "size": 19569,
+                "url": "https://media.sketchfab.com/models/407776404e0748348ef5d364a39a5dd7/thumbnails/127f392eb5384b29a79cbd6c575a98b5/6107d25a8bbc4c4f93e4001e0ad3802b.jpeg"
+            },
+            {
+                "uid": "ca589260bba443e9b1c421842b97fbfd",
+                "width": 256,
+                "height": 144,
+                "size": 3529,
+                "url": "https://media.sketchfab.com/models/407776404e0748348ef5d364a39a5dd7/thumbnails/127f392eb5384b29a79cbd6c575a98b5/1f143c31c2ae45e39b08b292ace63177.jpeg"
+            },
+            {
+                "uid": "39bdbc95abe74fdeb386a5bb30bb4559",
+                "width": 64,
+                "height": 36,
+                "size": 991,
+                "url": "https://media.sketchfab.com/models/407776404e0748348ef5d364a39a5dd7/thumbnails/127f392eb5384b29a79cbd6c575a98b5/a863c61f8ed94e26bc76cccaf06658e4.jpeg"
+            }
+        ]
+    },
+    "uid": "407776404e0748348ef5d364a39a5dd7",
+    "uri": "https://api.sketchfab.com/v3/models/407776404e0748348ef5d364a39a5dd7",
+    "user": {
+        "uid": "55c2fd0297554277a0f40d9ab7c0202a",
+        "username": "juanatelier",
+        "displayName": "JuanAtelier",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/juanatelier",
+        "avatar": {
+            "uid": "ef72c63e8339489b8315b0dfe6235059",
+            "uri": "https://api.sketchfab.com/v3/avatars/ef72c63e8339489b8315b0dfe6235059",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 978,
+                    "url": "https://media.sketchfab.com/avatars/ef72c63e8339489b8315b0dfe6235059/4d095a5f14e6464d896b97c540e752de.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1962,
+                    "url": "https://media.sketchfab.com/avatars/ef72c63e8339489b8315b0dfe6235059/dda19a810b674bed8e2c9d1d0e6f6787.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5505,
+                    "url": "https://media.sketchfab.com/avatars/ef72c63e8339489b8315b0dfe6235059/4281b5d4366a46b58d7f8bd72273388f.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6464,
+                    "url": "https://media.sketchfab.com/avatars/ef72c63e8339489b8315b0dfe6235059/2efdda83a24a47f1b3eac37ea2be52c5.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/55c2fd0297554277a0f40d9ab7c0202a"
+    },
+    "vertexCount": 1146034,
+    "viewCount": 27,
+    "viewerUrl": "https://sketchfab.com/3d-models/st-nicholas-cathedral-reconstruction-407776404e0748348ef5d364a39a5dd7",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "St. Nicholas Cathedral is a ruined Roman Catholic-turned-Lutheran cathedral located in Hamburg, Germany. It was originally built in the 12th century as a wooden church, and rebuilt in the 14th century as a medieval brick church but destroyed by fire in 1842. The church (and my model) is a Gothic Revival construction commenced in 1874. St. Nicholas Cathedral was finally destroyed in 1943 during WW2, leaving only the belfry tower intact. \n\nHowever, the pattern designs are quite inaccurate and I'm still fixing this model up until right now (I also haven’t even finished the interior). My references to model this cathedral are several original etchings drawn by Willy Müller-Gera, Ludwig Klingenberg, & George Gilbert Scott, as well as some photographs taken in 1910s-1930s. Due to the resolution issues of some old photographs, I ended up freestyling some of the decorative patterns, especially the ones on the west/east facade.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/407776404e0748348ef5d364a39a5dd7/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T03:43:33.711545",
+    "pbrType": null,
+    "textureCount": 8,
+    "materialCount": 11
+}

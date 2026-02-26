@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T06:10:49.616631",
+    "embedUrl": "https://sketchfab.com/models/2c0ad79e05314e6d89ae16666eb11c8b/embed",
+    "faceCount": 1997058,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Spiderman noir",
+    "publishedAt": "2026-02-24T06:18:08.083181",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "superhero",
+            "slug": "superhero",
+            "uri": "https://api.sketchfab.com/v3/tags/superhero"
+        },
+        {
+            "name": "noir",
+            "slug": "noir",
+            "uri": "https://api.sketchfab.com/v3/tags/noir"
+        },
+        {
+            "name": "spiderman",
+            "slug": "spiderman",
+            "uri": "https://api.sketchfab.com/v3/tags/spiderman"
+        },
+        {
+            "name": "avengers",
+            "slug": "avengers",
+            "uri": "https://api.sketchfab.com/v3/tags/avengers"
+        },
+        {
+            "name": "spider-man",
+            "slug": "spider-man",
+            "uri": "https://api.sketchfab.com/v3/tags/spider-man"
+        },
+        {
+            "name": "marvelcomics",
+            "slug": "marvelcomics",
+            "uri": "https://api.sketchfab.com/v3/tags/marvelcomics"
+        },
+        {
+            "name": "nicolascage",
+            "slug": "nicolascage",
+            "uri": "https://api.sketchfab.com/v3/tags/nicolascage"
+        },
+        {
+            "name": "spiderman3d",
+            "slug": "spiderman3d",
+            "uri": "https://api.sketchfab.com/v3/tags/spiderman3d"
+        },
+        {
+            "name": "spidermannoir",
+            "slug": "spidermannoir",
+            "uri": "https://api.sketchfab.com/v3/tags/spidermannoir"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "555e5cb398dc4f89974a30ecb4069e03",
+                "width": 1920,
+                "height": 1080,
+                "size": 80897,
+                "url": "https://media.sketchfab.com/models/2c0ad79e05314e6d89ae16666eb11c8b/thumbnails/40c0b00f95e14893915925a8f5c59c11/a3aa4192780e4db587f60ba38121572b.jpeg"
+            },
+            {
+                "uid": "9c2baf6cdce6491ab47bda3edddc092a",
+                "width": 1024,
+                "height": 576,
+                "size": 26918,
+                "url": "https://media.sketchfab.com/models/2c0ad79e05314e6d89ae16666eb11c8b/thumbnails/40c0b00f95e14893915925a8f5c59c11/95ee604001e24f7e8af45149281c1117.jpeg"
+            },
+            {
+                "uid": "a55c4086c280437e8c6dbbb297da6616",
+                "width": 720,
+                "height": 405,
+                "size": 15770,
+                "url": "https://media.sketchfab.com/models/2c0ad79e05314e6d89ae16666eb11c8b/thumbnails/40c0b00f95e14893915925a8f5c59c11/714c1ee7d9374b37ae32ac4032701909.jpeg"
+            },
+            {
+                "uid": "4c64cbf3fd0e4db99594dbcb3997d5a0",
+                "width": 256,
+                "height": 144,
+                "size": 3419,
+                "url": "https://media.sketchfab.com/models/2c0ad79e05314e6d89ae16666eb11c8b/thumbnails/40c0b00f95e14893915925a8f5c59c11/ed612fe689f54e17a6e62533fec097fb.jpeg"
+            },
+            {
+                "uid": "ffcd6b3b1efd4fe6a5c1d0d4ff1e5614",
+                "width": 64,
+                "height": 36,
+                "size": 968,
+                "url": "https://media.sketchfab.com/models/2c0ad79e05314e6d89ae16666eb11c8b/thumbnails/40c0b00f95e14893915925a8f5c59c11/55cfe7044f7a474688d894284a938f09.jpeg"
+            }
+        ]
+    },
+    "uid": "2c0ad79e05314e6d89ae16666eb11c8b",
+    "uri": "https://api.sketchfab.com/v3/models/2c0ad79e05314e6d89ae16666eb11c8b",
+    "user": {
+        "uid": "361ca8d5db4044e0b09b856bbfd9c636",
+        "username": "jayson_777",
+        "displayName": "ashh_777",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/jayson_777",
+        "avatar": {
+            "uid": "1e8f68ae2927435d97725b1306caa500",
+            "uri": "https://api.sketchfab.com/v3/avatars/1e8f68ae2927435d97725b1306caa500",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1040,
+                    "url": "https://media.sketchfab.com/avatars/1e8f68ae2927435d97725b1306caa500/9629af35053348269ca8e4f6b52c37c3.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1385,
+                    "url": "https://media.sketchfab.com/avatars/1e8f68ae2927435d97725b1306caa500/0991b564114a42bfa9a1e4f7bc5d608b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2650,
+                    "url": "https://media.sketchfab.com/avatars/1e8f68ae2927435d97725b1306caa500/fc6778c87bbe41ddac1adae491a42083.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3091,
+                    "url": "https://media.sketchfab.com/avatars/1e8f68ae2927435d97725b1306caa500/5bd48f259c8e4748ae75f5d71906a6c7.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/361ca8d5db4044e0b09b856bbfd9c636"
+    },
+    "vertexCount": 998237,
+    "viewCount": 29,
+    "viewerUrl": "https://sketchfab.com/3d-models/spiderman-noir-2c0ad79e05314e6d89ae16666eb11c8b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "An accurate version of spider man noir",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/2c0ad79e05314e6d89ae16666eb11c8b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T06:29:49.426467",
+    "pbrType": "metalness",
+    "textureCount": 3,
+    "materialCount": 1
+}

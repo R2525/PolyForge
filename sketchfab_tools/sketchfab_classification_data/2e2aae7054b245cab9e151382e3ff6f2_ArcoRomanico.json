@@ -1,0 +1,69 @@
+{
+    "category": "Architecture",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Victorian",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Digital Rendering",
+            "score": 0.5
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Cracked",
+        "Dusty",
+        "Rusty",
+        "Mossy"
+    ],
+    "tags": [
+        "stone arch",
+        "ruin",
+        "ancient",
+        "historical",
+        "architectural",
+        "Roman",
+        "gate",
+        "remains"
+    ],
+    "model_id_full": "2e2aae7054b245cab9e151382e3ff6f2_ArcoRomanico",
+    "sketchfab_id": "2e2aae7054b245cab9e151382e3ff6f2",
+    "asset_name": "ArcoRomanico"
+}

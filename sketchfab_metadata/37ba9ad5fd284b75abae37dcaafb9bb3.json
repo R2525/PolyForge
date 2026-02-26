@@ -1,0 +1,229 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-13T09:17:48.342903",
+    "embedUrl": "https://sketchfab.com/models/37ba9ad5fd284b75abae37dcaafb9bb3/embed",
+    "faceCount": 16614,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Lightsaber 3d model",
+    "publishedAt": "2026-02-13T09:34:55.666275",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "saber",
+            "slug": "saber",
+            "uri": "https://api.sketchfab.com/v3/tags/saber"
+        },
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "lightsaber",
+            "slug": "lightsaber",
+            "uri": "https://api.sketchfab.com/v3/tags/lightsaber"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "science-fiction",
+            "slug": "science-fiction",
+            "uri": "https://api.sketchfab.com/v3/tags/science-fiction"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "light",
+            "slug": "light",
+            "uri": "https://api.sketchfab.com/v3/tags/light"
+        },
+        {
+            "name": "scifisword",
+            "slug": "scifisword",
+            "uri": "https://api.sketchfab.com/v3/tags/scifisword"
+        },
+        {
+            "name": "lightsaber3d",
+            "slug": "lightsaber3d",
+            "uri": "https://api.sketchfab.com/v3/tags/lightsaber3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ce5d5dff1d14421abbebb2c7bcace9ac",
+                "width": 1920,
+                "height": 1080,
+                "size": 273534,
+                "url": "https://media.sketchfab.com/models/37ba9ad5fd284b75abae37dcaafb9bb3/thumbnails/26bbc2c54f794f6db2ee9306e9d99a21/07fcbe1d5db6451c92341b7c96d92855.jpeg"
+            },
+            {
+                "uid": "1db20cb2f175436db260393aea396dfd",
+                "width": 1024,
+                "height": 576,
+                "size": 55244,
+                "url": "https://media.sketchfab.com/models/37ba9ad5fd284b75abae37dcaafb9bb3/thumbnails/26bbc2c54f794f6db2ee9306e9d99a21/89fa2005df1f40c8bf68603fc55d97df.jpeg"
+            },
+            {
+                "uid": "e2fc6edbb22048aaa2a320e4f630a196",
+                "width": 720,
+                "height": 405,
+                "size": 29232,
+                "url": "https://media.sketchfab.com/models/37ba9ad5fd284b75abae37dcaafb9bb3/thumbnails/26bbc2c54f794f6db2ee9306e9d99a21/6c0d0e9e1a224ef4bcb1df66e63ff05e.jpeg"
+            },
+            {
+                "uid": "9bf9deb6386d40ebae70e43307feb942",
+                "width": 256,
+                "height": 144,
+                "size": 5313,
+                "url": "https://media.sketchfab.com/models/37ba9ad5fd284b75abae37dcaafb9bb3/thumbnails/26bbc2c54f794f6db2ee9306e9d99a21/d9744516631e4fd7bf55c604c361262a.jpeg"
+            },
+            {
+                "uid": "fc237f9a1ae849dd8ef5a550499726ed",
+                "width": 64,
+                "height": 36,
+                "size": 1201,
+                "url": "https://media.sketchfab.com/models/37ba9ad5fd284b75abae37dcaafb9bb3/thumbnails/26bbc2c54f794f6db2ee9306e9d99a21/5f4c0455e0a346a98ffac98df1db5915.jpeg"
+            }
+        ]
+    },
+    "uid": "37ba9ad5fd284b75abae37dcaafb9bb3",
+    "uri": "https://api.sketchfab.com/v3/models/37ba9ad5fd284b75abae37dcaafb9bb3",
+    "user": {
+        "uid": "4a9aebd55de944b7806fc9a2ae4c994c",
+        "username": "kosteapaladii",
+        "displayName": "Kostea Paladii",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kosteapaladii",
+        "avatar": {
+            "uid": "74af08a484c449c48f1c683ad1e56727",
+            "uri": "https://api.sketchfab.com/v3/avatars/74af08a484c449c48f1c683ad1e56727",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1124,
+                    "url": "https://media.sketchfab.com/avatars/74af08a484c449c48f1c683ad1e56727/2b4fc1cced274ef9bf5cde3b568359e9.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1617,
+                    "url": "https://media.sketchfab.com/avatars/74af08a484c449c48f1c683ad1e56727/779139321d6d4c5da72f01554f3a69ca.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3862,
+                    "url": "https://media.sketchfab.com/avatars/74af08a484c449c48f1c683ad1e56727/078a610c1afc4d65b14135f978fbe193.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4468,
+                    "url": "https://media.sketchfab.com/avatars/74af08a484c449c48f1c683ad1e56727/a56d63e8796c4917969edddd19260d76.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4a9aebd55de944b7806fc9a2ae4c994c"
+    },
+    "vertexCount": 8348,
+    "viewCount": 12,
+    "viewerUrl": "https://sketchfab.com/3d-models/lightsaber-3d-model-37ba9ad5fd284b75abae37dcaafb9bb3",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A light saber 3d model created in Blender",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/37ba9ad5fd284b75abae37dcaafb9bb3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-15T04:21:56.740835",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

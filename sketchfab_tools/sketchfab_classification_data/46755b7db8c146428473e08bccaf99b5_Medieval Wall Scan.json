@@ -1,0 +1,43 @@
+{
+    "category": "Architecture",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.9
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Dusty",
+        "Cracked"
+    ],
+    "tags": [
+        "medieval",
+        "stone",
+        "wall",
+        "architecture",
+        "historic",
+        "old",
+        "cast",
+        "tiled"
+    ],
+    "model_id_full": "46755b7db8c146428473e08bccaf99b5_Medieval Wall Scan",
+    "sketchfab_id": "46755b7db8c146428473e08bccaf99b5",
+    "asset_name": "Medieval Wall Scan"
+}

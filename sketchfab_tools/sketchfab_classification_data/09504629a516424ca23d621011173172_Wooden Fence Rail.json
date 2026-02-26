@@ -1,0 +1,66 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.6
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.5
+        },
+        {
+            "name": "Victorian",
+            "score": 0.4
+        }
+    ],
+    "style": "Voxel Art",
+    "top_styles": [
+        {
+            "name": "Voxel Art",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        },
+        {
+            "name": "Stylized Minimalist",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Weathered"
+    ],
+    "tags": [
+        "fence",
+        "wooden",
+        "rail",
+        "home",
+        "barrier",
+        "structure",
+        "picket",
+        "barbed"
+    ],
+    "model_id_full": "09504629a516424ca23d621011173172_Wooden Fence Rail",
+    "sketchfab_id": "09504629a516424ca23d621011173172",
+    "asset_name": "Wooden Fence Rail"
+}

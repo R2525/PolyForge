@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-27T06:07:42.021275",
+    "embedUrl": "https://sketchfab.com/models/32a68a151a5c4716856c59d6d4355c90/embed",
+    "faceCount": 376281,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Outfit",
+    "publishedAt": "2026-01-27T06:16:46.785810",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "post-apocalyptic",
+            "slug": "post-apocalyptic",
+            "uri": "https://api.sketchfab.com/v3/tags/post-apocalyptic"
+        },
+        {
+            "name": "clothes",
+            "slug": "clothes",
+            "uri": "https://api.sketchfab.com/v3/tags/clothes"
+        },
+        {
+            "name": "outfit",
+            "slug": "outfit",
+            "uri": "https://api.sketchfab.com/v3/tags/outfit"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9524269b9fc74d1e9f978e62e6495314",
+                "width": 1920,
+                "height": 1080,
+                "size": 78843,
+                "url": "https://media.sketchfab.com/models/32a68a151a5c4716856c59d6d4355c90/thumbnails/3c5100eb5e0146b883ff1e7501db5014/148fd6c3b04e474f9fe8b565d57f8fff.jpeg"
+            },
+            {
+                "uid": "7eaa0bf151e44a3a95f98cb172ecca76",
+                "width": 1024,
+                "height": 576,
+                "size": 25064,
+                "url": "https://media.sketchfab.com/models/32a68a151a5c4716856c59d6d4355c90/thumbnails/3c5100eb5e0146b883ff1e7501db5014/aa301005ce664d0a99937d90e4376b8f.jpeg"
+            },
+            {
+                "uid": "c142819eed55461989efeedc927d6778",
+                "width": 720,
+                "height": 405,
+                "size": 14478,
+                "url": "https://media.sketchfab.com/models/32a68a151a5c4716856c59d6d4355c90/thumbnails/3c5100eb5e0146b883ff1e7501db5014/7e6a1276222247669d62fe49b02ae0f3.jpeg"
+            },
+            {
+                "uid": "a0657e61924d49a8b7d4fa1f1261cf5a",
+                "width": 256,
+                "height": 144,
+                "size": 3168,
+                "url": "https://media.sketchfab.com/models/32a68a151a5c4716856c59d6d4355c90/thumbnails/3c5100eb5e0146b883ff1e7501db5014/fea707aa5b294c198f84fe5eb5f047c9.jpeg"
+            },
+            {
+                "uid": "5d72b30e03f04f49ad985c1098974a1b",
+                "width": 64,
+                "height": 36,
+                "size": 1026,
+                "url": "https://media.sketchfab.com/models/32a68a151a5c4716856c59d6d4355c90/thumbnails/3c5100eb5e0146b883ff1e7501db5014/ab70d096e1814f76a11af72ae752aaf0.jpeg"
+            }
+        ]
+    },
+    "uid": "32a68a151a5c4716856c59d6d4355c90",
+    "uri": "https://api.sketchfab.com/v3/models/32a68a151a5c4716856c59d6d4355c90",
+    "user": {
+        "uid": "18cf3c2afb4e4e3c9f3384820eb1c8c1",
+        "username": "A9908244",
+        "displayName": "A9908244",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/A9908244",
+        "avatar": {
+            "uid": "2270658683be457e9bc070642ff75f6b",
+            "uri": "https://api.sketchfab.com/v3/avatars/2270658683be457e9bc070642ff75f6b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1053,
+                    "url": "https://media.sketchfab.com/avatars/2270658683be457e9bc070642ff75f6b/8fc808ebcd9e445dbb4976d0b5618099.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1505,
+                    "url": "https://media.sketchfab.com/avatars/2270658683be457e9bc070642ff75f6b/03bc0d6e70d1408bae824d65fea9a19b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3376,
+                    "url": "https://media.sketchfab.com/avatars/2270658683be457e9bc070642ff75f6b/6fd405fbbed24a38aa68631d97423b9f.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3909,
+                    "url": "https://media.sketchfab.com/avatars/2270658683be457e9bc070642ff75f6b/9cf9e280f011485283cef6c3ef83ff93.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/18cf3c2afb4e4e3c9f3384820eb1c8c1"
+    },
+    "vertexCount": 195142,
+    "viewCount": 44,
+    "viewerUrl": "https://sketchfab.com/3d-models/outfit-32a68a151a5c4716856c59d6d4355c90",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Post-apocalyptic outfit",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/32a68a151a5c4716856c59d6d4355c90/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-27T06:16:46.885663",
+    "pbrType": "metalness",
+    "textureCount": 78,
+    "materialCount": 19
+}

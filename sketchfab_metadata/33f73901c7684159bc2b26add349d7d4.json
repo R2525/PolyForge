@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-14T21:12:25.800447",
+    "embedUrl": "https://sketchfab.com/models/33f73901c7684159bc2b26add349d7d4/embed",
+    "faceCount": 4854,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Keyed_ Door_ Knob_ Grey(GLB)",
+    "publishedAt": "2025-12-14T21:24:52.738748",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "security",
+            "slug": "security",
+            "uri": "https://api.sketchfab.com/v3/tags/security"
+        },
+        {
+            "name": "Doorknob",
+            "slug": "doorknob",
+            "uri": "https://api.sketchfab.com/v3/tags/doorknob"
+        },
+        {
+            "name": "doorhandle",
+            "slug": "doorhandle",
+            "uri": "https://api.sketchfab.com/v3/tags/doorhandle"
+        },
+        {
+            "name": "lowpolymodel",
+            "slug": "lowpolymodel",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolymodel"
+        },
+        {
+            "name": "pbr-game-ready",
+            "slug": "pbr-game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-game-ready"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b1bc284965764c97a25b83c1c4c9dd5a",
+                "width": 1920,
+                "height": 1080,
+                "size": 137454,
+                "url": "https://media.sketchfab.com/models/33f73901c7684159bc2b26add349d7d4/thumbnails/4bf93392b28e43bcb72212c27c03127e/278e77262af6497abf6536ffc44a3469.jpeg"
+            },
+            {
+                "uid": "38144415c9354adabc76494ca413f611",
+                "width": 1024,
+                "height": 576,
+                "size": 42762,
+                "url": "https://media.sketchfab.com/models/33f73901c7684159bc2b26add349d7d4/thumbnails/4bf93392b28e43bcb72212c27c03127e/8b795723a45144fba455bcc36c093195.jpeg"
+            },
+            {
+                "uid": "6639e8face9d47b98607d6bf9fb3de84",
+                "width": 720,
+                "height": 405,
+                "size": 23631,
+                "url": "https://media.sketchfab.com/models/33f73901c7684159bc2b26add349d7d4/thumbnails/4bf93392b28e43bcb72212c27c03127e/265dc7836a1541c48c8aa70fc08a9d0e.jpeg"
+            },
+            {
+                "uid": "24f1de565438470fa8662e0e13c8d02a",
+                "width": 256,
+                "height": 144,
+                "size": 4518,
+                "url": "https://media.sketchfab.com/models/33f73901c7684159bc2b26add349d7d4/thumbnails/4bf93392b28e43bcb72212c27c03127e/989dfae9f71d4455b8351ea03243e030.jpeg"
+            },
+            {
+                "uid": "8233d402ad1e4eb2a52d988038bf2174",
+                "width": 64,
+                "height": 36,
+                "size": 1043,
+                "url": "https://media.sketchfab.com/models/33f73901c7684159bc2b26add349d7d4/thumbnails/4bf93392b28e43bcb72212c27c03127e/2195ea82b6a4411980245a5eb115fc6b.jpeg"
+            }
+        ]
+    },
+    "uid": "33f73901c7684159bc2b26add349d7d4",
+    "uri": "https://api.sketchfab.com/v3/models/33f73901c7684159bc2b26add349d7d4",
+    "user": {
+        "uid": "d8cb79082f364330b3beb05ff55c29b2",
+        "username": "theeMAarts",
+        "displayName": "theeMAarts",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/theeMAarts",
+        "avatar": {
+            "uid": "36258ccca5ed4a60a3c64870400a25fb",
+            "uri": "https://api.sketchfab.com/v3/avatars/36258ccca5ed4a60a3c64870400a25fb",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1002,
+                    "url": "https://media.sketchfab.com/avatars/36258ccca5ed4a60a3c64870400a25fb/78e3724efbf24dd78102a33ccffd9624.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1349,
+                    "url": "https://media.sketchfab.com/avatars/36258ccca5ed4a60a3c64870400a25fb/c2932a1b003e4925ababcae1f40f9288.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2462,
+                    "url": "https://media.sketchfab.com/avatars/36258ccca5ed4a60a3c64870400a25fb/42eb18e3b57b42f9af49020d7aefdf3d.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2796,
+                    "url": "https://media.sketchfab.com/avatars/36258ccca5ed4a60a3c64870400a25fb/49c02542cc744324b17bc1b62a1b4eae.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d8cb79082f364330b3beb05ff55c29b2"
+    },
+    "vertexCount": 2429,
+    "viewCount": 47,
+    "viewerUrl": "https://sketchfab.com/3d-models/keyed--door--knob--greyglb-33f73901c7684159bc2b26add349d7d4",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Thank you for downloading the model.\n\n**Description**\nThis Grey Door Knob Model model was modeled in Blender 4.0, and can be imported to other 3D softwares using the various file exchange formats provided.\n\n**Scene**\nThis is a single 3D object that contains only one mesh, oriented similar to an actual real-world positioning.\n\n**Dimensions** - (Not drawn to scale, but it can be scaled up/down effortlessly depending on your scene's demands.)\n- Length(Left-to-Right): 31cm\n- Width: 13cm (Overall)\n- Vertical Height: 43.2cm\n\n**Features**\n- Game-Ready\n- PBR\n- All UVs unwrapped (No Over-lapping UVs)\n- Material Textures included\n\n**Poly Count**\n- Verts: 2,429\n- Faces: 2,427\n- Tris: 4,854\n\n**Materials**\nThis model contains only four image texture maps. All these 4 maps are contained in a ZIP folder for each file exchange format.\n1. Basecolor\n2. Metalness\n3. Roughness\n4. Normal\n\n**File Formats**\n**GLB/GLTF**",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/33f73901c7684159bc2b26add349d7d4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-14T21:24:52.870021",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

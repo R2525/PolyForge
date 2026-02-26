@@ -1,0 +1,269 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-13T21:16:09.212849",
+    "embedUrl": "https://sketchfab.com/models/18e3c339ac634b7e997cee11853b82ad/embed",
+    "faceCount": 68828,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 2,
+    "name": "Locker with shelves",
+    "publishedAt": "2026-02-13T21:33:48.884387",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "wooden",
+            "slug": "wooden",
+            "uri": "https://api.sketchfab.com/v3/tags/wooden"
+        },
+        {
+            "name": "product",
+            "slug": "product",
+            "uri": "https://api.sketchfab.com/v3/tags/product"
+        },
+        {
+            "name": "stand",
+            "slug": "stand",
+            "uri": "https://api.sketchfab.com/v3/tags/stand"
+        },
+        {
+            "name": "shelf",
+            "slug": "shelf",
+            "uri": "https://api.sketchfab.com/v3/tags/shelf"
+        },
+        {
+            "name": "dresser",
+            "slug": "dresser",
+            "uri": "https://api.sketchfab.com/v3/tags/dresser"
+        },
+        {
+            "name": "woodworking",
+            "slug": "woodworking",
+            "uri": "https://api.sketchfab.com/v3/tags/woodworking"
+        },
+        {
+            "name": "kiosk",
+            "slug": "kiosk",
+            "uri": "https://api.sketchfab.com/v3/tags/kiosk"
+        },
+        {
+            "name": "rack",
+            "slug": "rack",
+            "uri": "https://api.sketchfab.com/v3/tags/rack"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "carving",
+            "slug": "carving",
+            "uri": "https://api.sketchfab.com/v3/tags/carving"
+        },
+        {
+            "name": "classic",
+            "slug": "classic",
+            "uri": "https://api.sketchfab.com/v3/tags/classic"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "showcase",
+            "slug": "showcase",
+            "uri": "https://api.sketchfab.com/v3/tags/showcase"
+        },
+        {
+            "name": "shelving",
+            "slug": "shelving",
+            "uri": "https://api.sketchfab.com/v3/tags/shelving"
+        },
+        {
+            "name": "bookcase",
+            "slug": "bookcase",
+            "uri": "https://api.sketchfab.com/v3/tags/bookcase"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "kitchen",
+            "slug": "kitchen",
+            "uri": "https://api.sketchfab.com/v3/tags/kitchen"
+        },
+        {
+            "name": "bookshelf",
+            "slug": "bookshelf",
+            "uri": "https://api.sketchfab.com/v3/tags/bookshelf"
+        },
+        {
+            "name": "storefront",
+            "slug": "storefront",
+            "uri": "https://api.sketchfab.com/v3/tags/storefront"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "hardsurface",
+            "slug": "hardsurface",
+            "uri": "https://api.sketchfab.com/v3/tags/hardsurface"
+        },
+        {
+            "name": "livingroom",
+            "slug": "livingroom",
+            "uri": "https://api.sketchfab.com/v3/tags/livingroom"
+        },
+        {
+            "name": "highpoly",
+            "slug": "highpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/highpoly"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b8d8294ccf624ad581ba2778d24c34ce",
+                "width": 1920,
+                "height": 1080,
+                "size": 246503,
+                "url": "https://media.sketchfab.com/models/18e3c339ac634b7e997cee11853b82ad/thumbnails/b8b5c59cacbc4137b5ab93b7510a6266/1c322655c7bf4fbaa99ebeea77728983.jpeg"
+            },
+            {
+                "uid": "743c9220ce564924ae53086ba5c30310",
+                "width": 1024,
+                "height": 576,
+                "size": 52179,
+                "url": "https://media.sketchfab.com/models/18e3c339ac634b7e997cee11853b82ad/thumbnails/b8b5c59cacbc4137b5ab93b7510a6266/abfe1999a9ff40c0a2f4591b48950776.jpeg"
+            },
+            {
+                "uid": "764f5ea856b34164abdc800079d410f0",
+                "width": 720,
+                "height": 405,
+                "size": 26664,
+                "url": "https://media.sketchfab.com/models/18e3c339ac634b7e997cee11853b82ad/thumbnails/b8b5c59cacbc4137b5ab93b7510a6266/b1fea176fdb043c786b10b01e730af84.jpeg"
+            },
+            {
+                "uid": "92283e182e3a415fafdcf18c9308ca21",
+                "width": 256,
+                "height": 144,
+                "size": 4864,
+                "url": "https://media.sketchfab.com/models/18e3c339ac634b7e997cee11853b82ad/thumbnails/b8b5c59cacbc4137b5ab93b7510a6266/765997677eaa4489b0b0e76eb302c525.jpeg"
+            },
+            {
+                "uid": "e61fef7e214c4872a1499238dc4af311",
+                "width": 64,
+                "height": 36,
+                "size": 1119,
+                "url": "https://media.sketchfab.com/models/18e3c339ac634b7e997cee11853b82ad/thumbnails/b8b5c59cacbc4137b5ab93b7510a6266/56a0f62b95b947caa73d5588b01c4c5a.jpeg"
+            }
+        ]
+    },
+    "uid": "18e3c339ac634b7e997cee11853b82ad",
+    "uri": "https://api.sketchfab.com/v3/models/18e3c339ac634b7e997cee11853b82ad",
+    "user": {
+        "uid": "e95b626f3a6f4c39b59f0a145931e822",
+        "username": "el-i-drel",
+        "displayName": "Roman",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/el-i-drel",
+        "avatar": {
+            "uid": "337ae092b2b84d1c883a1b549402aa04",
+            "uri": "https://api.sketchfab.com/v3/avatars/337ae092b2b84d1c883a1b549402aa04",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 995,
+                    "url": "https://media.sketchfab.com/avatars/337ae092b2b84d1c883a1b549402aa04/90f514dac1204026a0de3e38ddfa8730.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1393,
+                    "url": "https://media.sketchfab.com/avatars/337ae092b2b84d1c883a1b549402aa04/3575d99968dc4ddaba217614dc18eba4.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2910,
+                    "url": "https://media.sketchfab.com/avatars/337ae092b2b84d1c883a1b549402aa04/0ef2881fc86c46ba9356f583f4f422bf.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3298,
+                    "url": "https://media.sketchfab.com/avatars/337ae092b2b84d1c883a1b549402aa04/938bef54a3c94c49858d616b4196d5bf.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e95b626f3a6f4c39b59f0a145931e822"
+    },
+    "vertexCount": 37841,
+    "viewCount": 33,
+    "viewerUrl": "https://sketchfab.com/3d-models/locker-with-shelves-18e3c339ac634b7e997cee11853b82ad",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A cabinet with shelves \nFAB: https://fab.com/s/a54b7b18ff68\nHeight 200 cm\nThe textures are packaged in a \"blend\" file and in a separate archive.\nA total of 3 different textures are used.\nEach of them has maps of Normals, Roughness, Glare.\nTextures 2048x2048\nTexel 40.96px/cm\nSee the UV map in the photo.\n\nThe AO node is connected in a \"blend\" file and you can experiment with its settings to get an interesting result.\n\nAttention: There is only a 3D model of a book locker in the scene.\nOther items (for example: a wooden dish with Chinese trigrams) can be viewed and purchased additionally.\n\n![](https://media.fab.com/image_previews/gallery_images/dd120bf6-c989-4fce-b2de-931d24808cfc/5fec5e13-a819-4238-9297-606a3b3c2a92.jpg)\n\n![](https://media.fab.com/image_previews/gallery_images/a6d1c7c4-70a9-4b27-a52e-7ad3dc4ccd67/1f70c4d9-b212-46c9-8a24-19814fb123df.jpg)\n\n![](https://media.fab.com/image_previews/gallery_images/2cd94e64-4410-41f2-af59-a99f01ed247c/6b4594e3-e6f8-46b2-a8b4-051818553ccc.jpg)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/18e3c339ac634b7e997cee11853b82ad/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T14:49:14.540277",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 5
+}

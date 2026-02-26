@@ -1,0 +1,160 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-05-05T11:34:50.836417",
+    "embedUrl": "https://sketchfab.com/models/18df58a473184b11a490ccdf25bc0566/embed",
+    "faceCount": 86563,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Pikachu",
+    "publishedAt": "2025-06-16T17:08:50.117549",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "pikachu",
+            "slug": "pikachu",
+            "uri": "https://api.sketchfab.com/v3/tags/pikachu"
+        },
+        {
+            "name": "pokemonmodel",
+            "slug": "pokemonmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemonmodel"
+        },
+        {
+            "name": "pokemon3d",
+            "slug": "pokemon3d",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon3d"
+        },
+        {
+            "name": "pikachu3d",
+            "slug": "pikachu3d",
+            "uri": "https://api.sketchfab.com/v3/tags/pikachu3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e70090a0fa344560891e5ea8ef93533b",
+                "width": 1920,
+                "height": 1080,
+                "size": 59188,
+                "url": "https://media.sketchfab.com/models/18df58a473184b11a490ccdf25bc0566/thumbnails/ecb264419c5b411fb1762e564e4a0e04/8e8ee7a67a644d689528867a6b83e17d.jpeg"
+            },
+            {
+                "uid": "2ab5e322729e4c92aaa55c3040b77bd8",
+                "width": 1024,
+                "height": 576,
+                "size": 20010,
+                "url": "https://media.sketchfab.com/models/18df58a473184b11a490ccdf25bc0566/thumbnails/ecb264419c5b411fb1762e564e4a0e04/ccd29acf04ff4ef5b1eadf1b9ea1f205.jpeg"
+            },
+            {
+                "uid": "18a41e3ffdba401ca3dec99c14ab5b02",
+                "width": 720,
+                "height": 405,
+                "size": 11671,
+                "url": "https://media.sketchfab.com/models/18df58a473184b11a490ccdf25bc0566/thumbnails/ecb264419c5b411fb1762e564e4a0e04/cd123608207b4c9eaf9058295107bd2f.jpeg"
+            },
+            {
+                "uid": "a08f656d27e24227859151fb3882199a",
+                "width": 256,
+                "height": 144,
+                "size": 2606,
+                "url": "https://media.sketchfab.com/models/18df58a473184b11a490ccdf25bc0566/thumbnails/ecb264419c5b411fb1762e564e4a0e04/eb33c29bc71e4f0ca03a063d4cadbeb9.jpeg"
+            },
+            {
+                "uid": "7572c806b6b9434b9ab62262760be3b5",
+                "width": 64,
+                "height": 36,
+                "size": 905,
+                "url": "https://media.sketchfab.com/models/18df58a473184b11a490ccdf25bc0566/thumbnails/ecb264419c5b411fb1762e564e4a0e04/b1ab14c9821147a3ba57388f99fd6905.jpeg"
+            }
+        ]
+    },
+    "uid": "18df58a473184b11a490ccdf25bc0566",
+    "uri": "https://api.sketchfab.com/v3/models/18df58a473184b11a490ccdf25bc0566",
+    "user": {
+        "uid": "b103d47e245c45daba775cffc2c15eec",
+        "username": "ferdjinnluneto",
+        "displayName": "Luneto",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ferdjinnluneto",
+        "avatar": {
+            "uid": "d633114776b941778ad2e355673fee20",
+            "uri": "https://api.sketchfab.com/v3/avatars/d633114776b941778ad2e355673fee20",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1029,
+                    "url": "https://media.sketchfab.com/avatars/d633114776b941778ad2e355673fee20/6af6825d716b421e918de99f3a80297a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1352,
+                    "url": "https://media.sketchfab.com/avatars/d633114776b941778ad2e355673fee20/d3f9436903104e25a207a4628d0c9f5d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2546,
+                    "url": "https://media.sketchfab.com/avatars/d633114776b941778ad2e355673fee20/360eb749273d4b708366ce431efeeb00.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2928,
+                    "url": "https://media.sketchfab.com/avatars/d633114776b941778ad2e355673fee20/c52ea43ed23e4739a12b6196bfcdef89.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b103d47e245c45daba775cffc2c15eec"
+    },
+    "vertexCount": 43819,
+    "viewCount": 37,
+    "viewerUrl": "https://sketchfab.com/3d-models/pikachu-18df58a473184b11a490ccdf25bc0566",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Pikachu Ghibli-Style: An Animated Organic Creature.\n\nIntroducing Pikachu Ghibli-Style, a unique and charming reinterpretation of the iconic character, blending the nostalgic and organic style of Studio Ghibli with an original, creative twist. This animated 3D model transforms Pikachu into a living, magical creature, with details that make it feel like a real, organic entity—perfect for any visual project.\n\nDesigned with an aesthetic reminiscent of Ghibli’s worlds but with a completely original take on Pikachu, this model is ideal for a wide range of applications, from video games and animations to interactive multimedia pieces or digital illustrations. The smooth animation and detailed design ensure easy integration into any platform or creative environment.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/18df58a473184b11a490ccdf25bc0566/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-06-16T17:20:50.370948",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

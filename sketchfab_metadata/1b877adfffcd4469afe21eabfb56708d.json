@@ -1,0 +1,229 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-04T02:14:19.883517",
+    "embedUrl": "https://sketchfab.com/models/1b877adfffcd4469afe21eabfb56708d/embed",
+    "faceCount": 9988,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Stylized Alchemist Grimoire Book",
+    "publishedAt": "2026-02-04T02:26:55.748752",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "mystic",
+            "slug": "mystic",
+            "uri": "https://api.sketchfab.com/v3/tags/mystic"
+        },
+        {
+            "name": "alchemist",
+            "slug": "alchemist",
+            "uri": "https://api.sketchfab.com/v3/tags/alchemist"
+        },
+        {
+            "name": "potion",
+            "slug": "potion",
+            "uri": "https://api.sketchfab.com/v3/tags/potion"
+        },
+        {
+            "name": "alchemy",
+            "slug": "alchemy",
+            "uri": "https://api.sketchfab.com/v3/tags/alchemy"
+        },
+        {
+            "name": "spellbook",
+            "slug": "spellbook",
+            "uri": "https://api.sketchfab.com/v3/tags/spellbook"
+        },
+        {
+            "name": "grimoire",
+            "slug": "grimoire",
+            "uri": "https://api.sketchfab.com/v3/tags/grimoire"
+        },
+        {
+            "name": "tome",
+            "slug": "tome",
+            "uri": "https://api.sketchfab.com/v3/tags/tome"
+        },
+        {
+            "name": "recipe",
+            "slug": "recipe",
+            "uri": "https://api.sketchfab.com/v3/tags/recipe"
+        },
+        {
+            "name": "book",
+            "slug": "book",
+            "uri": "https://api.sketchfab.com/v3/tags/book"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "75bb796c306e424f8f38a8d532325289",
+                "width": 1920,
+                "height": 1080,
+                "size": 113851,
+                "url": "https://media.sketchfab.com/models/1b877adfffcd4469afe21eabfb56708d/thumbnails/0a15a0fa7c694ce7a36a30d7842dab80/03558c361e774eda9b1a0ab13bf86d37.jpeg"
+            },
+            {
+                "uid": "7cde1d80b6964e40a854d0953bde329c",
+                "width": 1024,
+                "height": 576,
+                "size": 37951,
+                "url": "https://media.sketchfab.com/models/1b877adfffcd4469afe21eabfb56708d/thumbnails/0a15a0fa7c694ce7a36a30d7842dab80/141a5e56d23c4172800075073590cad9.jpeg"
+            },
+            {
+                "uid": "44b9154c404e4637ac2a1693ed5728b8",
+                "width": 720,
+                "height": 405,
+                "size": 21482,
+                "url": "https://media.sketchfab.com/models/1b877adfffcd4469afe21eabfb56708d/thumbnails/0a15a0fa7c694ce7a36a30d7842dab80/10e3d34ba7b34ea896580870d75a3fed.jpeg"
+            },
+            {
+                "uid": "fd202525071a4d51bb436e5c82dd5431",
+                "width": 256,
+                "height": 144,
+                "size": 4171,
+                "url": "https://media.sketchfab.com/models/1b877adfffcd4469afe21eabfb56708d/thumbnails/0a15a0fa7c694ce7a36a30d7842dab80/904c092081534ef5a7b4e85abb396a9c.jpeg"
+            },
+            {
+                "uid": "6af50621567f49819f61d3c26129879b",
+                "width": 64,
+                "height": 36,
+                "size": 1018,
+                "url": "https://media.sketchfab.com/models/1b877adfffcd4469afe21eabfb56708d/thumbnails/0a15a0fa7c694ce7a36a30d7842dab80/053d4b77fe804f76ae4e9c1f60901c7c.jpeg"
+            }
+        ]
+    },
+    "uid": "1b877adfffcd4469afe21eabfb56708d",
+    "uri": "https://api.sketchfab.com/v3/models/1b877adfffcd4469afe21eabfb56708d",
+    "user": {
+        "uid": "91d719f2c25944aea0de4acda7820c9b",
+        "username": "IanaM",
+        "displayName": "IanaM",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/IanaM",
+        "avatar": {
+            "uid": "01f6bd4b5ef4485d851f98130358a1a4",
+            "uri": "https://api.sketchfab.com/v3/avatars/01f6bd4b5ef4485d851f98130358a1a4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1035,
+                    "url": "https://media.sketchfab.com/avatars/01f6bd4b5ef4485d851f98130358a1a4/75529f8bee9b4b17bf3693f46789a997.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1407,
+                    "url": "https://media.sketchfab.com/avatars/01f6bd4b5ef4485d851f98130358a1a4/f4c6416a918249c1b807c291d7b9026c.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2922,
+                    "url": "https://media.sketchfab.com/avatars/01f6bd4b5ef4485d851f98130358a1a4/1c9dbdfa0fa0417f8801e95a8ee77bf9.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3307,
+                    "url": "https://media.sketchfab.com/avatars/01f6bd4b5ef4485d851f98130358a1a4/ae2e6ca76d0b43eea2ca2a114d0f573a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/91d719f2c25944aea0de4acda7820c9b"
+    },
+    "vertexCount": 5458,
+    "viewCount": 35,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-alchemist-grimoire-book-1b877adfffcd4469afe21eabfb56708d",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "High-quality 3D model of the Alchemist Grimoire, an ancient tome designed for fantasy laboratory environments and RPG storytelling. The asset features professional PBR textures showcasing realistic leather cracks and oxidized copper ornaments.\n\n All decorative metal fittings and the central medallion are separate objects, allowing you to remove or customize the decor as needed.\n\nThe book pagesconsists of separate mesh objects using two different texture variations.\n\nYou can buy the model at the link: https://www.fab.com/listings/eca86ee8-1e62-4b02-a272-ca3cacf5e992\n\nVisit my profile to find more mystical books for various magical themes and scenes. Each grimoire features unique designs and textures to suit your specific project needs.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1b877adfffcd4469afe21eabfb56708d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-04T02:26:56.100311",
+    "pbrType": null,
+    "textureCount": 4,
+    "materialCount": 10
+}

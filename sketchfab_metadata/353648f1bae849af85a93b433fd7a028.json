@@ -1,0 +1,130 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T10:16:57.216032",
+    "embedUrl": "https://sketchfab.com/models/353648f1bae849af85a93b433fd7a028/embed",
+    "faceCount": 639162,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "hORROR NPC",
+    "publishedAt": "2026-02-21T10:17:19.026093",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4e859eb1482e44a985bcd25de608be1f",
+                "width": 1920,
+                "height": 1080,
+                "size": 72679,
+                "url": "https://media.sketchfab.com/models/353648f1bae849af85a93b433fd7a028/thumbnails/16f4cc9331094e4387e5efce554524ed/dff749fced9e4591a5c0cc8d591b4d0b.jpeg"
+            },
+            {
+                "uid": "b35faa1cb3f0411c926174fce77386f2",
+                "width": 1024,
+                "height": 576,
+                "size": 24148,
+                "url": "https://media.sketchfab.com/models/353648f1bae849af85a93b433fd7a028/thumbnails/16f4cc9331094e4387e5efce554524ed/29960345372c41a59dcb88eb39521e27.jpeg"
+            },
+            {
+                "uid": "069f7116885b459fa871ce183892a46a",
+                "width": 720,
+                "height": 405,
+                "size": 13722,
+                "url": "https://media.sketchfab.com/models/353648f1bae849af85a93b433fd7a028/thumbnails/16f4cc9331094e4387e5efce554524ed/3b8a7d88656f48e88eaa7b50955d913a.jpeg"
+            },
+            {
+                "uid": "9dbcb8ba449b4e45a3f0ffe213d546b7",
+                "width": 256,
+                "height": 144,
+                "size": 2837,
+                "url": "https://media.sketchfab.com/models/353648f1bae849af85a93b433fd7a028/thumbnails/16f4cc9331094e4387e5efce554524ed/5e26c61887e2423ab012a47f82bf0453.jpeg"
+            },
+            {
+                "uid": "baf9078079a94babaa17d8fa0e2e5fef",
+                "width": 64,
+                "height": 36,
+                "size": 859,
+                "url": "https://media.sketchfab.com/models/353648f1bae849af85a93b433fd7a028/thumbnails/16f4cc9331094e4387e5efce554524ed/f363171c4e054903ac6c4733cc240aff.jpeg"
+            }
+        ]
+    },
+    "uid": "353648f1bae849af85a93b433fd7a028",
+    "uri": "https://api.sketchfab.com/v3/models/353648f1bae849af85a93b433fd7a028",
+    "user": {
+        "uid": "b3a39228286f43fd8eb74272b4c4bdeb",
+        "username": "G-OD_Volax",
+        "displayName": "G-OD_Volax",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/G-OD_Volax",
+        "avatar": {
+            "uid": "f80e8a01f15942f4bbb17bacbf987246",
+            "uri": "https://api.sketchfab.com/v3/avatars/f80e8a01f15942f4bbb17bacbf987246",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1197,
+                    "url": "https://media.sketchfab.com/avatars/f80e8a01f15942f4bbb17bacbf987246/bcdd59673f79467ca6690a90fe316880.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1804,
+                    "url": "https://media.sketchfab.com/avatars/f80e8a01f15942f4bbb17bacbf987246/6ecf6a724bf34d8e914d70f6712abc49.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4378,
+                    "url": "https://media.sketchfab.com/avatars/f80e8a01f15942f4bbb17bacbf987246/47c23e2ffaad4e05a5f1e91a936b1577.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4945,
+                    "url": "https://media.sketchfab.com/avatars/f80e8a01f15942f4bbb17bacbf987246/55b16adeed294e649b8ec20e6d1b9e4c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b3a39228286f43fd8eb74272b4c4bdeb"
+    },
+    "vertexCount": 319403,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/horror-npc-353648f1bae849af85a93b433fd7a028",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/fVNSGW](https://www.meshy.ai/s/fVNSGW)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/353648f1bae849af85a93b433fd7a028/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T10:17:19.008658",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

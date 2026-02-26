@@ -1,0 +1,67 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.9
+        },
+        {
+            "name": "Medieval",
+            "score": 0.8
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.7
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.6
+        },
+        {
+            "name": "Ancient",
+            "score": 0.5
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "3D Render",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Weathered",
+        "Dusty",
+        "Rusty",
+        "Cracked"
+    ],
+    "tags": [
+        "knight",
+        "armor",
+        "fantasy",
+        "medieval",
+        "character",
+        "3D model"
+    ],
+    "model_id_full": "1763af8d0f6040e0997588b19f92c7a1_Crimson Vanguard",
+    "sketchfab_id": "1763af8d0f6040e0997588b19f92c7a1",
+    "asset_name": "Crimson Vanguard"
+}

@@ -1,0 +1,140 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T20:24:55.705112",
+    "embedUrl": "https://sketchfab.com/models/01b97b50577a4b39b0f3a969e6a3da23/embed",
+    "faceCount": 423412,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Akira Asai Maid",
+    "publishedAt": "2026-02-20T20:29:21.921168",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "383a1adce08d4472aa9f5f3db7ff578c",
+                "width": 1920,
+                "height": 1080,
+                "size": 68571,
+                "url": "https://media.sketchfab.com/models/01b97b50577a4b39b0f3a969e6a3da23/thumbnails/8e899bae94f446b79b652e82251aed14/50c3f0ac3f62497ba3850e8ccbc44d64.jpeg"
+            },
+            {
+                "uid": "affcf45610e34ca0b7a1c81859804457",
+                "width": 1024,
+                "height": 576,
+                "size": 22982,
+                "url": "https://media.sketchfab.com/models/01b97b50577a4b39b0f3a969e6a3da23/thumbnails/8e899bae94f446b79b652e82251aed14/fbde03a4b0f143aea87c78d59c04a6d2.jpeg"
+            },
+            {
+                "uid": "288e463a42884a7987bca0d8350733f8",
+                "width": 720,
+                "height": 405,
+                "size": 13294,
+                "url": "https://media.sketchfab.com/models/01b97b50577a4b39b0f3a969e6a3da23/thumbnails/8e899bae94f446b79b652e82251aed14/6df5fb802f4344748c6a246bdddf6acb.jpeg"
+            },
+            {
+                "uid": "33583be86d8846ccabe727c0bcd61cd1",
+                "width": 256,
+                "height": 144,
+                "size": 2951,
+                "url": "https://media.sketchfab.com/models/01b97b50577a4b39b0f3a969e6a3da23/thumbnails/8e899bae94f446b79b652e82251aed14/190ba4ec26524e928f4252b1091da8a6.jpeg"
+            },
+            {
+                "uid": "f51047ace8e5448fb2139029bc1b8011",
+                "width": 64,
+                "height": 36,
+                "size": 914,
+                "url": "https://media.sketchfab.com/models/01b97b50577a4b39b0f3a969e6a3da23/thumbnails/8e899bae94f446b79b652e82251aed14/a38af3d368c942a3bfcec631879156a9.jpeg"
+            }
+        ]
+    },
+    "uid": "01b97b50577a4b39b0f3a969e6a3da23",
+    "uri": "https://api.sketchfab.com/v3/models/01b97b50577a4b39b0f3a969e6a3da23",
+    "user": {
+        "uid": "e98ee9cec12c4a858a3ef6c9216c5f3e",
+        "username": "Lem404",
+        "displayName": "Lem404",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Lem404",
+        "avatar": {
+            "uid": "749e1c94fa3e48bea7716dc25f391a00",
+            "uri": "https://api.sketchfab.com/v3/avatars/749e1c94fa3e48bea7716dc25f391a00",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 961,
+                    "url": "https://media.sketchfab.com/avatars/749e1c94fa3e48bea7716dc25f391a00/52a3e2c818b14827b6d81562a7ddc0af.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1841,
+                    "url": "https://media.sketchfab.com/avatars/749e1c94fa3e48bea7716dc25f391a00/6a96ddb337e94077968ca6f2a168ddc8.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5385,
+                    "url": "https://media.sketchfab.com/avatars/749e1c94fa3e48bea7716dc25f391a00/292f4dba00324d17ace4785a653b4e83.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6452,
+                    "url": "https://media.sketchfab.com/avatars/749e1c94fa3e48bea7716dc25f391a00/963fec83210a4bb98d04979caa5e661b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e98ee9cec12c4a858a3ef6c9216c5f3e"
+    },
+    "vertexCount": 211352,
+    "viewCount": 60,
+    "viewerUrl": "https://sketchfab.com/3d-models/akira-asai-maid-01b97b50577a4b39b0f3a969e6a3da23",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Model done with AI for a class assignment of Akira Asai in a maid outfit.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/01b97b50577a4b39b0f3a969e6a3da23/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-02-20T20:29:22.222707",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

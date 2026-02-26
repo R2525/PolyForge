@@ -1,0 +1,174 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T22:07:11.487605",
+    "embedUrl": "https://sketchfab.com/models/0af4b15cce0b490fa6e378d1db09f297/embed",
+    "faceCount": 46397,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "KRIO_ Small Props",
+    "publishedAt": "2026-02-23T23:12:20.029017",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "props",
+            "slug": "props",
+            "uri": "https://api.sketchfab.com/v3/tags/props"
+        },
+        {
+            "name": "Gadgets",
+            "slug": "gadgets",
+            "uri": "https://api.sketchfab.com/v3/tags/gadgets"
+        },
+        {
+            "name": "survival-horror",
+            "slug": "survival-horror",
+            "uri": "https://api.sketchfab.com/v3/tags/survival-horror"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3eee1907190447e3b8a8ec1e3ea0e31b",
+                "width": 1920,
+                "height": 1080,
+                "size": 86798,
+                "url": "https://media.sketchfab.com/models/0af4b15cce0b490fa6e378d1db09f297/thumbnails/84a016b7eb76471aae1e721caf1a2881/ef242d986ee34e748bb5302a3bfcbd8c.jpeg"
+            },
+            {
+                "uid": "b71350dd56c542d998c7234ac1bcb814",
+                "width": 1024,
+                "height": 576,
+                "size": 26106,
+                "url": "https://media.sketchfab.com/models/0af4b15cce0b490fa6e378d1db09f297/thumbnails/84a016b7eb76471aae1e721caf1a2881/4700420c7d394d6382896a4fda244629.jpeg"
+            },
+            {
+                "uid": "59658a84148b433ea311a9caa7c404b0",
+                "width": 720,
+                "height": 405,
+                "size": 15267,
+                "url": "https://media.sketchfab.com/models/0af4b15cce0b490fa6e378d1db09f297/thumbnails/84a016b7eb76471aae1e721caf1a2881/9737dd4ac57940e08f5d29902f653011.jpeg"
+            },
+            {
+                "uid": "8be8761f440a4adea012f0295c9197f6",
+                "width": 256,
+                "height": 144,
+                "size": 3302,
+                "url": "https://media.sketchfab.com/models/0af4b15cce0b490fa6e378d1db09f297/thumbnails/84a016b7eb76471aae1e721caf1a2881/b2bd38f42bff4002926c00f83a79fdb1.jpeg"
+            },
+            {
+                "uid": "0748135e8c194b7eb8438033139bf6e8",
+                "width": 64,
+                "height": 36,
+                "size": 983,
+                "url": "https://media.sketchfab.com/models/0af4b15cce0b490fa6e378d1db09f297/thumbnails/84a016b7eb76471aae1e721caf1a2881/49369cd4c5f64dc7b37d8f2ecbe24f86.jpeg"
+            }
+        ]
+    },
+    "uid": "0af4b15cce0b490fa6e378d1db09f297",
+    "uri": "https://api.sketchfab.com/v3/models/0af4b15cce0b490fa6e378d1db09f297",
+    "user": {
+        "uid": "92846b9b1fb24fe1a9faf22695cfec1f",
+        "username": "Jaum",
+        "displayName": "Jaum",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Jaum",
+        "avatar": {
+            "uid": "aff3542033d24e239ae544ffa7d99f06",
+            "uri": "https://api.sketchfab.com/v3/avatars/aff3542033d24e239ae544ffa7d99f06",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4515,
+                    "url": "https://media.sketchfab.com/avatars/aff3542033d24e239ae544ffa7d99f06/e1d57891e9134ba1a9c9948d7c616edc.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3775,
+                    "url": "https://media.sketchfab.com/avatars/aff3542033d24e239ae544ffa7d99f06/4bf1bf8fbbb447ad951b31b814fc6317.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1374,
+                    "url": "https://media.sketchfab.com/avatars/aff3542033d24e239ae544ffa7d99f06/e4ac854d7aa3481eac902346a939e4fc.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 843,
+                    "url": "https://media.sketchfab.com/avatars/aff3542033d24e239ae544ffa7d99f06/d1d795ab2657460b8b8a521ddc0cc375.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/92846b9b1fb24fe1a9faf22695cfec1f"
+    },
+    "vertexCount": 24698,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/krio--small-props-0af4b15cce0b490fa6e378d1db09f297",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Some props from the Kriophobia game\n=========================================\nAlguns Props do Kriophobia",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0af4b15cce0b490fa6e378d1db09f297/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T23:12:20.231369",
+    "pbrType": null,
+    "textureCount": 21,
+    "materialCount": 14
+}

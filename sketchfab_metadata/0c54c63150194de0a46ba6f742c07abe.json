@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2024-10-02T22:16:28.722218",
+    "embedUrl": "https://sketchfab.com/models/0c54c63150194de0a46ba6f742c07abe/embed",
+    "faceCount": 736829,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 2,
+    "name": "Ghibli - D2",
+    "publishedAt": "2024-10-02T22:23:55.524308",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d8fb966c7b094789b79e887607ad27fb",
+                "width": 1920,
+                "height": 1080,
+                "size": 124620,
+                "url": "https://media.sketchfab.com/models/0c54c63150194de0a46ba6f742c07abe/thumbnails/522a0cb2a26c42888c62c6e73a36bea1/356b507c621943b982fbae0361d48ef2.jpeg"
+            },
+            {
+                "uid": "c64f3e46df00498595a65bf080951b10",
+                "width": 1024,
+                "height": 576,
+                "size": 44961,
+                "url": "https://media.sketchfab.com/models/0c54c63150194de0a46ba6f742c07abe/thumbnails/522a0cb2a26c42888c62c6e73a36bea1/5e616bdad49942d08efe9fa1ae3ca606.jpeg"
+            },
+            {
+                "uid": "26494ccca4b34afd8140e893021a539c",
+                "width": 720,
+                "height": 405,
+                "size": 27439,
+                "url": "https://media.sketchfab.com/models/0c54c63150194de0a46ba6f742c07abe/thumbnails/522a0cb2a26c42888c62c6e73a36bea1/ae33e7ef681744df807d40bc65651def.jpeg"
+            },
+            {
+                "uid": "78c6f075d14749a48fa551de4111a65b",
+                "width": 256,
+                "height": 144,
+                "size": 6269,
+                "url": "https://media.sketchfab.com/models/0c54c63150194de0a46ba6f742c07abe/thumbnails/522a0cb2a26c42888c62c6e73a36bea1/50dad51816e248049f6a340860aea759.jpeg"
+            },
+            {
+                "uid": "72f77b0b9c584de9b74835502906f70a",
+                "width": 64,
+                "height": 36,
+                "size": 1338,
+                "url": "https://media.sketchfab.com/models/0c54c63150194de0a46ba6f742c07abe/thumbnails/522a0cb2a26c42888c62c6e73a36bea1/d2bc62845dee445799aa14a2a82e6fb7.jpeg"
+            }
+        ]
+    },
+    "uid": "0c54c63150194de0a46ba6f742c07abe",
+    "uri": "https://api.sketchfab.com/v3/models/0c54c63150194de0a46ba6f742c07abe",
+    "user": {
+        "uid": "a3439c422cee4e37b987293bd45cdca1",
+        "username": "s6602051810021",
+        "displayName": "s6602051810021",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/s6602051810021",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a3439c422cee4e37b987293bd45cdca1"
+    },
+    "vertexCount": 371251,
+    "viewCount": 35,
+    "viewerUrl": "https://sketchfab.com/3d-models/ghibli-d2-0c54c63150194de0a46ba6f742c07abe",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 21,
+    "editorUrl": "https://sketchfab.com/models/0c54c63150194de0a46ba6f742c07abe/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2024-10-02T22:24:14.345492",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 34
+}

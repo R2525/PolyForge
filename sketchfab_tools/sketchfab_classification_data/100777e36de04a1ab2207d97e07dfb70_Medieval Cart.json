@@ -1,0 +1,70 @@
+{
+    "category": "Cars & Vehicles",
+    "genre": "Medieval",
+    "top_genres": [
+        {
+            "name": "Medieval",
+            "score": 0.95
+        },
+        {
+            "name": "Historical",
+            "score": 0.85
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.75
+        },
+        {
+            "name": "Wagon",
+            "score": 0.8
+        },
+        {
+            "name": "Historical Vehicle",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "3D Render",
+            "score": 0.8
+        },
+        {
+            "name": "Historical Art",
+            "score": 0.75
+        },
+        {
+            "name": "Renaissance",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.65
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Mossy",
+        "Polished"
+    ],
+    "tags": [
+        "wagon",
+        "medieval",
+        "cart",
+        "historical",
+        "vehicle",
+        "wooden",
+        "canvas",
+        "horse",
+        "travel"
+    ],
+    "model_id_full": "100777e36de04a1ab2207d97e07dfb70_Medieval Cart",
+    "sketchfab_id": "100777e36de04a1ab2207d97e07dfb70",
+    "asset_name": "Medieval Cart"
+}

@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-06T12:48:01.972943",
+    "embedUrl": "https://sketchfab.com/models/168b006b124b4538ae6bb4980c83b9eb/embed",
+    "faceCount": 951809,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Reconstruction of Blansko castle",
+    "publishedAt": "2026-02-06T13:09:21.957743",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "Blansko",
+            "slug": "blansko",
+            "uri": "https://api.sketchfab.com/v3/tags/blansko"
+        },
+        {
+            "name": "moravian-karst",
+            "slug": "moravian-karst",
+            "uri": "https://api.sketchfab.com/v3/tags/moravian-karst"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "40d2e293589e49b785de96de289c3824",
+                "width": 1920,
+                "height": 1080,
+                "size": 374085,
+                "url": "https://media.sketchfab.com/models/168b006b124b4538ae6bb4980c83b9eb/thumbnails/118ebb3939634dd1996155b96d9f1b12/a29920496c5d4679b17d1ae4034700ff.jpeg"
+            },
+            {
+                "uid": "c723e5d2ec044207bc356e58ec84100c",
+                "width": 1024,
+                "height": 576,
+                "size": 53282,
+                "url": "https://media.sketchfab.com/models/168b006b124b4538ae6bb4980c83b9eb/thumbnails/118ebb3939634dd1996155b96d9f1b12/26486517efe147fbb183c9e099fc9772.jpeg"
+            },
+            {
+                "uid": "afe8a98277924aedb16c668c9be951f6",
+                "width": 720,
+                "height": 405,
+                "size": 29625,
+                "url": "https://media.sketchfab.com/models/168b006b124b4538ae6bb4980c83b9eb/thumbnails/118ebb3939634dd1996155b96d9f1b12/3ddabafbe91f4d18854f0957d8aec456.jpeg"
+            },
+            {
+                "uid": "eed1dac4153c4b9a9d92ce19c7606a17",
+                "width": 256,
+                "height": 144,
+                "size": 6125,
+                "url": "https://media.sketchfab.com/models/168b006b124b4538ae6bb4980c83b9eb/thumbnails/118ebb3939634dd1996155b96d9f1b12/a1ee59719843457c85fcbb019f3e76c0.jpeg"
+            },
+            {
+                "uid": "752e7ce8b2c34391a80497a35ab7d12f",
+                "width": 64,
+                "height": 36,
+                "size": 1302,
+                "url": "https://media.sketchfab.com/models/168b006b124b4538ae6bb4980c83b9eb/thumbnails/118ebb3939634dd1996155b96d9f1b12/7d6833785a1742a2a570df3a8d782aa7.jpeg"
+            }
+        ]
+    },
+    "uid": "168b006b124b4538ae6bb4980c83b9eb",
+    "uri": "https://api.sketchfab.com/v3/models/168b006b124b4538ae6bb4980c83b9eb",
+    "user": {
+        "uid": "ac447fa53ce24bb58df8137750ac579d",
+        "username": "kuratorMzB",
+        "displayName": "Muzeum Blanenska",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kuratorMzB",
+        "avatar": {
+            "uid": "8f261480f94e4820933c4da1659ca447",
+            "uri": "https://api.sketchfab.com/v3/avatars/8f261480f94e4820933c4da1659ca447",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1142,
+                    "url": "https://media.sketchfab.com/avatars/8f261480f94e4820933c4da1659ca447/f685fce683d14fa6914c61bedfcd03fa.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1674,
+                    "url": "https://media.sketchfab.com/avatars/8f261480f94e4820933c4da1659ca447/009d60681a8c49708daa4a8fa4c0ba59.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4002,
+                    "url": "https://media.sketchfab.com/avatars/8f261480f94e4820933c4da1659ca447/47d8a045350c441f8779f14d1be52579.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4731,
+                    "url": "https://media.sketchfab.com/avatars/8f261480f94e4820933c4da1659ca447/faf81d9bd05242e98f39fd80616382f7.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ac447fa53ce24bb58df8137750ac579d"
+    },
+    "vertexCount": 487375,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/reconstruction-of-blansko-castle-168b006b124b4538ae6bb4980c83b9eb",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Rekonstrukce hradu Blansko na základě aktuálních poznatků. Autoři: Jan Štětina, Marek Novák, Zdeněk Brachtl Autor vizualizace: 3D ateliér ÚAM FF MU v Brně. Pořízeno díky projektu Národní plán obnovy.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/168b006b124b4538ae6bb4980c83b9eb/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-06T13:09:22.150575",
+    "pbrType": null,
+    "textureCount": 67,
+    "materialCount": 30
+}

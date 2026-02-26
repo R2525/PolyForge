@@ -1,0 +1,371 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T18:08:41.324835",
+    "embedUrl": "https://sketchfab.com/models/219c630d53524649bb5791e60fd8e714/embed",
+    "faceCount": 336722,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "💩2nd-Crucifi❌ion-Of-'Dj.Kaji.Music'💩",
+    "publishedAt": "2026-02-17T18:13:48.314425",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ugly",
+            "slug": "ugly",
+            "uri": "https://api.sketchfab.com/v3/tags/ugly"
+        },
+        {
+            "name": "death",
+            "slug": "death",
+            "uri": "https://api.sketchfab.com/v3/tags/death"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "Enemy",
+            "slug": "enemy",
+            "uri": "https://api.sketchfab.com/v3/tags/enemy"
+        },
+        {
+            "name": "crucifixion",
+            "slug": "crucifixion",
+            "uri": "https://api.sketchfab.com/v3/tags/crucifixion"
+        },
+        {
+            "name": "uvmapped",
+            "slug": "uvmapped",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped"
+        },
+        {
+            "name": "christianity",
+            "slug": "christianity",
+            "uri": "https://api.sketchfab.com/v3/tags/christianity"
+        },
+        {
+            "name": "church-architecture",
+            "slug": "church-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/church-architecture"
+        },
+        {
+            "name": "horrorgame",
+            "slug": "horrorgame",
+            "uri": "https://api.sketchfab.com/v3/tags/horrorgame"
+        },
+        {
+            "name": "fantasy-gameasset",
+            "slug": "fantasy-gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-gameasset"
+        },
+        {
+            "name": "ancient-cultures",
+            "slug": "ancient-cultures",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient-cultures"
+        },
+        {
+            "name": "crucified",
+            "slug": "crucified",
+            "uri": "https://api.sketchfab.com/v3/tags/crucified"
+        },
+        {
+            "name": "medieval-prop",
+            "slug": "medieval-prop",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-prop"
+        },
+        {
+            "name": "horror-game",
+            "slug": "horror-game",
+            "uri": "https://api.sketchfab.com/v3/tags/horror-game"
+        },
+        {
+            "name": "deaths",
+            "slug": "deaths",
+            "uri": "https://api.sketchfab.com/v3/tags/deaths"
+        },
+        {
+            "name": "horrorgamecharacter",
+            "slug": "horrorgamecharacter",
+            "uri": "https://api.sketchfab.com/v3/tags/horrorgamecharacter"
+        },
+        {
+            "name": "crucifixion-group",
+            "slug": "crucifixion-group",
+            "uri": "https://api.sketchfab.com/v3/tags/crucifixion-group"
+        },
+        {
+            "name": "pbr-game-ready",
+            "slug": "pbr-game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-game-ready"
+        },
+        {
+            "name": "death-sentence",
+            "slug": "death-sentence",
+            "uri": "https://api.sketchfab.com/v3/tags/death-sentence"
+        },
+        {
+            "name": "golgotha",
+            "slug": "golgotha",
+            "uri": "https://api.sketchfab.com/v3/tags/golgotha"
+        },
+        {
+            "name": "church-furniture",
+            "slug": "church-furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/church-furniture"
+        },
+        {
+            "name": "pbr-textures",
+            "slug": "pbr-textures",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr-textures"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "ancient-architecture",
+            "slug": "ancient-architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient-architecture"
+        },
+        {
+            "name": "deathscene",
+            "slug": "deathscene",
+            "uri": "https://api.sketchfab.com/v3/tags/deathscene"
+        },
+        {
+            "name": "fantasy-furniture",
+            "slug": "fantasy-furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy-furniture"
+        },
+        {
+            "name": "christian-church",
+            "slug": "christian-church",
+            "uri": "https://api.sketchfab.com/v3/tags/christian-church"
+        },
+        {
+            "name": "enemy-monster",
+            "slug": "enemy-monster",
+            "uri": "https://api.sketchfab.com/v3/tags/enemy-monster"
+        },
+        {
+            "name": "hated",
+            "slug": "hated",
+            "uri": "https://api.sketchfab.com/v3/tags/hated"
+        },
+        {
+            "name": "medieval-cross",
+            "slug": "medieval-cross",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval-cross"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "christian-art",
+            "slug": "christian-art",
+            "uri": "https://api.sketchfab.com/v3/tags/christian-art"
+        },
+        {
+            "name": "tripo3d",
+            "slug": "tripo3d",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo3d"
+        },
+        {
+            "name": "tripo",
+            "slug": "tripo",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo"
+        },
+        {
+            "name": "tripoai",
+            "slug": "tripoai",
+            "uri": "https://api.sketchfab.com/v3/tags/tripoai"
+        },
+        {
+            "name": "tripo3dai",
+            "slug": "tripo3dai",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo3dai"
+        },
+        {
+            "name": "xx696",
+            "slug": "xx696",
+            "uri": "https://api.sketchfab.com/v3/tags/xx696"
+        },
+        {
+            "name": "xscorngames",
+            "slug": "xscorngames",
+            "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+        },
+        {
+            "name": "tripo-model",
+            "slug": "tripo-model",
+            "uri": "https://api.sketchfab.com/v3/tags/tripo-model"
+        },
+        {
+            "name": "tripomodel",
+            "slug": "tripomodel",
+            "uri": "https://api.sketchfab.com/v3/tags/tripomodel"
+        },
+        {
+            "name": "uvmapped-model",
+            "slug": "uvmapped-model",
+            "uri": "https://api.sketchfab.com/v3/tags/uvmapped-model"
+        },
+        {
+            "name": "death-scene",
+            "slug": "death-scene",
+            "uri": "https://api.sketchfab.com/v3/tags/death-scene"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3d23dbed054c4d258b92d4e6198ef680",
+                "width": 1920,
+                "height": 1080,
+                "size": 266507,
+                "url": "https://media.sketchfab.com/models/219c630d53524649bb5791e60fd8e714/thumbnails/27c445ddefe7417aaa303e10042e36ba/54cb5f56c41b47cd87ff7b2a289e528f.jpeg"
+            },
+            {
+                "uid": "2faaddcf32a8438f8a4f9e2b44678634",
+                "width": 1024,
+                "height": 576,
+                "size": 41062,
+                "url": "https://media.sketchfab.com/models/219c630d53524649bb5791e60fd8e714/thumbnails/27c445ddefe7417aaa303e10042e36ba/d86370a68e344e31818a369050fa81fd.jpeg"
+            },
+            {
+                "uid": "5bf4d15599b04887a8daf8ee18b3321c",
+                "width": 720,
+                "height": 405,
+                "size": 20601,
+                "url": "https://media.sketchfab.com/models/219c630d53524649bb5791e60fd8e714/thumbnails/27c445ddefe7417aaa303e10042e36ba/96460d083a9b41f1bbab34126bf3cdae.jpeg"
+            },
+            {
+                "uid": "b67a67c9c56946baad44b2c84daf4345",
+                "width": 256,
+                "height": 144,
+                "size": 3998,
+                "url": "https://media.sketchfab.com/models/219c630d53524649bb5791e60fd8e714/thumbnails/27c445ddefe7417aaa303e10042e36ba/b7ee6e0d88af46f082da52505a6d26b6.jpeg"
+            },
+            {
+                "uid": "0087333743024a57a88329f2eb3f5339",
+                "width": 64,
+                "height": 36,
+                "size": 1095,
+                "url": "https://media.sketchfab.com/models/219c630d53524649bb5791e60fd8e714/thumbnails/27c445ddefe7417aaa303e10042e36ba/938f57a6d3ee4538875d19a869fd8d89.jpeg"
+            }
+        ]
+    },
+    "uid": "219c630d53524649bb5791e60fd8e714",
+    "uri": "https://api.sketchfab.com/v3/models/219c630d53524649bb5791e60fd8e714",
+    "user": {
+        "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+        "username": "XX-XX",
+        "displayName": "-X-ScornGames",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/XX-XX",
+        "avatar": {
+            "uid": "5482b0fc6bf1462a9785a4279780f8c4",
+            "uri": "https://api.sketchfab.com/v3/avatars/5482b0fc6bf1462a9785a4279780f8c4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1225,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/395d2517636f464aae3c32fc2682da96.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1788,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/ba53588e2d9c4d8ea0d3a9d6c3e2a6bb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4271,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/4f19e76ef0eb4d6ab1b4ab79a8e9ae09.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4970,
+                    "url": "https://media.sketchfab.com/avatars/5482b0fc6bf1462a9785a4279780f8c4/dd9846b0abb143baadc92c8aa8f63d16.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+    },
+    "vertexCount": 168345,
+    "viewCount": 48,
+    "viewerUrl": "https://sketchfab.com/3d-models/2nd-crucifiion-of-djkajimusic-219c630d53524649bb5791e60fd8e714",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Another Day, Another A$$hole! \n\n[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+    "price": null,
+    "downloadCount": 11,
+    "editorUrl": "https://sketchfab.com/models/219c630d53524649bb5791e60fd8e714/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T19:33:49.409555",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

@@ -1,0 +1,180 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T20:26:03.677750",
+    "embedUrl": "https://sketchfab.com/models/34d1a25031e7488cb34dbe4bc55a405f/embed",
+    "faceCount": 418168,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Azure Serenade",
+    "publishedAt": "2026-02-24T20:27:11.179928",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "mage",
+            "slug": "mage",
+            "uri": "https://api.sketchfab.com/v3/tags/mage"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "female",
+            "slug": "female",
+            "uri": "https://api.sketchfab.com/v3/tags/female"
+        },
+        {
+            "name": "blue",
+            "slug": "blue",
+            "uri": "https://api.sketchfab.com/v3/tags/blue"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "14d7844c95c8416dacee2bb32975f158",
+                "width": 1920,
+                "height": 1080,
+                "size": 81941,
+                "url": "https://media.sketchfab.com/models/34d1a25031e7488cb34dbe4bc55a405f/thumbnails/c46b42eb16ec43fea0e79521c945bde8/f8ef43ef03164a7f94cd45e209aae9a9.jpeg"
+            },
+            {
+                "uid": "4948cf0f8e6d40aebf7b39607c3fd784",
+                "width": 1024,
+                "height": 576,
+                "size": 28338,
+                "url": "https://media.sketchfab.com/models/34d1a25031e7488cb34dbe4bc55a405f/thumbnails/c46b42eb16ec43fea0e79521c945bde8/c26c6596ab0c46c7bb6f42156b352537.jpeg"
+            },
+            {
+                "uid": "b810e87624a84eaba151f9f07b348a96",
+                "width": 720,
+                "height": 405,
+                "size": 16525,
+                "url": "https://media.sketchfab.com/models/34d1a25031e7488cb34dbe4bc55a405f/thumbnails/c46b42eb16ec43fea0e79521c945bde8/9b033d9733d943fcaa5e0c41bbe228a1.jpeg"
+            },
+            {
+                "uid": "169adf72371e41548a497cb5512c39d5",
+                "width": 256,
+                "height": 144,
+                "size": 3332,
+                "url": "https://media.sketchfab.com/models/34d1a25031e7488cb34dbe4bc55a405f/thumbnails/c46b42eb16ec43fea0e79521c945bde8/b51c7e1ee233457180e29d420b00101c.jpeg"
+            },
+            {
+                "uid": "a4443c5a81ca4060a7aef7b800a7c83c",
+                "width": 64,
+                "height": 36,
+                "size": 941,
+                "url": "https://media.sketchfab.com/models/34d1a25031e7488cb34dbe4bc55a405f/thumbnails/c46b42eb16ec43fea0e79521c945bde8/96219380af9a40a288283d4c2ace2b34.jpeg"
+            }
+        ]
+    },
+    "uid": "34d1a25031e7488cb34dbe4bc55a405f",
+    "uri": "https://api.sketchfab.com/v3/models/34d1a25031e7488cb34dbe4bc55a405f",
+    "user": {
+        "uid": "498b31d3a3364ed5bac0875ffefef518",
+        "username": "BerserkerDracon",
+        "displayName": "BerserkerDracon",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/BerserkerDracon",
+        "avatar": {
+            "uid": "e06efd1255bb409abc99391c9a9f29ca",
+            "uri": "https://api.sketchfab.com/v3/avatars/e06efd1255bb409abc99391c9a9f29ca",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 974,
+                    "url": "https://media.sketchfab.com/avatars/e06efd1255bb409abc99391c9a9f29ca/38f72e8566eb45f9963dc33f880207c4.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1296,
+                    "url": "https://media.sketchfab.com/avatars/e06efd1255bb409abc99391c9a9f29ca/4273c0e587314540b2db861f63d7f00b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2710,
+                    "url": "https://media.sketchfab.com/avatars/e06efd1255bb409abc99391c9a9f29ca/3c176571eedb4eff8db2a6389dab1b39.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3137,
+                    "url": "https://media.sketchfab.com/avatars/e06efd1255bb409abc99391c9a9f29ca/1c2e75bd46204280a9a3dcee8c3517c8.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/498b31d3a3364ed5bac0875ffefef518"
+    },
+    "vertexCount": 208939,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/azure-serenade-34d1a25031e7488cb34dbe4bc55a405f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/KfbNn3](https://www.meshy.ai/s/KfbNn3)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/34d1a25031e7488cb34dbe4bc55a405f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:27:11.148086",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

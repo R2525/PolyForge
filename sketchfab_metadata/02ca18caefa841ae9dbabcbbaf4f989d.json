@@ -1,0 +1,176 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-06-17T08:10:53.384287",
+    "embedUrl": "https://sketchfab.com/models/02ca18caefa841ae9dbabcbbaf4f989d/embed",
+    "faceCount": 49078,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Plant Robot",
+    "publishedAt": "2025-06-17T08:31:09.043755",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "plantbot",
+            "slug": "plantbot",
+            "uri": "https://api.sketchfab.com/v3/tags/plantbot"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e35b992ee0234bfcac8c29a51418e74d",
+                "width": 1920,
+                "height": 1080,
+                "size": 112305,
+                "url": "https://media.sketchfab.com/models/02ca18caefa841ae9dbabcbbaf4f989d/thumbnails/76239df139e24703b0fa18e127973970/cd46b9b1c1e746d4b5c24eb8f453187d.jpeg"
+            },
+            {
+                "uid": "1a617b0a35be4a1c9ba29b687a071853",
+                "width": 1024,
+                "height": 576,
+                "size": 30993,
+                "url": "https://media.sketchfab.com/models/02ca18caefa841ae9dbabcbbaf4f989d/thumbnails/76239df139e24703b0fa18e127973970/b6b6f86fc8d640ac8ab8e99be6f73e0c.jpeg"
+            },
+            {
+                "uid": "a75bb7ebcb244a70aae8b10bc16e8b8e",
+                "width": 720,
+                "height": 405,
+                "size": 18392,
+                "url": "https://media.sketchfab.com/models/02ca18caefa841ae9dbabcbbaf4f989d/thumbnails/76239df139e24703b0fa18e127973970/0053d8d7f63a4c37a31546bbe1786027.jpeg"
+            },
+            {
+                "uid": "71e41cd91a8b4bdf91e5dc8b8eceda6a",
+                "width": 256,
+                "height": 144,
+                "size": 4133,
+                "url": "https://media.sketchfab.com/models/02ca18caefa841ae9dbabcbbaf4f989d/thumbnails/76239df139e24703b0fa18e127973970/34562baf874f4e239b7dee77c9957b04.jpeg"
+            },
+            {
+                "uid": "4f867bef7b5c4f979a9a539b94f738ac",
+                "width": 64,
+                "height": 36,
+                "size": 1089,
+                "url": "https://media.sketchfab.com/models/02ca18caefa841ae9dbabcbbaf4f989d/thumbnails/76239df139e24703b0fa18e127973970/a3c6dc6b3c8f43439b247a517bb18be7.jpeg"
+            }
+        ]
+    },
+    "uid": "02ca18caefa841ae9dbabcbbaf4f989d",
+    "uri": "https://api.sketchfab.com/v3/models/02ca18caefa841ae9dbabcbbaf4f989d",
+    "user": {
+        "uid": "d05b22abc3e44b5d8e5cddf3e2c1ac3f",
+        "username": "Dusselig",
+        "displayName": "Dusselig",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Dusselig",
+        "avatar": {
+            "uid": "02086d7fb2134d348537a8d82ac2b6ae",
+            "uri": "https://api.sketchfab.com/v3/avatars/02086d7fb2134d348537a8d82ac2b6ae",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 822,
+                    "url": "https://media.sketchfab.com/avatars/02086d7fb2134d348537a8d82ac2b6ae/3e15bb12f205471abcdcaaf6e1f210ef.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1022,
+                    "url": "https://media.sketchfab.com/avatars/02086d7fb2134d348537a8d82ac2b6ae/e52a88c73c8a474498871401a2fe7f97.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1793,
+                    "url": "https://media.sketchfab.com/avatars/02086d7fb2134d348537a8d82ac2b6ae/c1e249f2788b4908aa87751c581a3b9d.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1973,
+                    "url": "https://media.sketchfab.com/avatars/02086d7fb2134d348537a8d82ac2b6ae/d33d01f9d3484e2a9e66930912cd89bc.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/d05b22abc3e44b5d8e5cddf3e2c1ac3f"
+    },
+    "vertexCount": 24821,
+    "viewCount": 31,
+    "viewerUrl": "https://sketchfab.com/3d-models/plant-robot-02ca18caefa841ae9dbabcbbaf4f989d",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Ghibli insperated robot",
+    "price": null,
+    "downloadCount": 12,
+    "editorUrl": "https://sketchfab.com/models/02ca18caefa841ae9dbabcbbaf4f989d/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-06-17T14:15:18.385021",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 4
+}

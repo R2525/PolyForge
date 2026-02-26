@@ -1,0 +1,175 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T03:50:45.721888",
+    "embedUrl": "https://sketchfab.com/models/131983911a9647e68ee966787422c8b0/embed",
+    "faceCount": 12016,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Jougamine Aki (Scum of the Brave)",
+    "publishedAt": "2026-02-20T04:29:20.901863",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "toon",
+            "slug": "toon",
+            "uri": "https://api.sketchfab.com/v3/tags/toon"
+        },
+        {
+            "name": "schooluniform",
+            "slug": "schooluniform",
+            "uri": "https://api.sketchfab.com/v3/tags/schooluniform"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "yuushanokuzu",
+            "slug": "yuushanokuzu",
+            "uri": "https://api.sketchfab.com/v3/tags/yuushanokuzu"
+        },
+        {
+            "name": "scumofthebrave",
+            "slug": "scumofthebrave",
+            "uri": "https://api.sketchfab.com/v3/tags/scumofthebrave"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "ced4853c9b494ea7985b051efdbb8e54",
+                "width": 1920,
+                "height": 1080,
+                "size": 136083,
+                "url": "https://media.sketchfab.com/models/131983911a9647e68ee966787422c8b0/thumbnails/4809aef217d34a3491abc560a87122ce/1f91dc9369864ebcb1b6624736cc6521.jpeg"
+            },
+            {
+                "uid": "60b4b3f49e944b1b9c2dc2a028dbdb94",
+                "width": 1024,
+                "height": 576,
+                "size": 50812,
+                "url": "https://media.sketchfab.com/models/131983911a9647e68ee966787422c8b0/thumbnails/4809aef217d34a3491abc560a87122ce/70322a6cbd2c4eb180e0a17b4b2a9632.jpeg"
+            },
+            {
+                "uid": "a28cec187dca472bad7841fc6a818532",
+                "width": 720,
+                "height": 405,
+                "size": 30335,
+                "url": "https://media.sketchfab.com/models/131983911a9647e68ee966787422c8b0/thumbnails/4809aef217d34a3491abc560a87122ce/687937b505b34184829bbbe20feed8b6.jpeg"
+            },
+            {
+                "uid": "8272278ca0b24f5c8fef802487efa3eb",
+                "width": 256,
+                "height": 144,
+                "size": 6230,
+                "url": "https://media.sketchfab.com/models/131983911a9647e68ee966787422c8b0/thumbnails/4809aef217d34a3491abc560a87122ce/509cc14175d446c4957321a2c1c68826.jpeg"
+            },
+            {
+                "uid": "514467e4f8d9415387f0a1aa7cdccea0",
+                "width": 64,
+                "height": 36,
+                "size": 1210,
+                "url": "https://media.sketchfab.com/models/131983911a9647e68ee966787422c8b0/thumbnails/4809aef217d34a3491abc560a87122ce/58469f6068bd4c9c8d70827844b51260.jpeg"
+            }
+        ]
+    },
+    "uid": "131983911a9647e68ee966787422c8b0",
+    "uri": "https://api.sketchfab.com/v3/models/131983911a9647e68ee966787422c8b0",
+    "user": {
+        "uid": "26e0a880809943e89fa9f379f28e4047",
+        "username": "nicochristian",
+        "displayName": "Prakaryan Nico",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/nicochristian",
+        "avatar": {
+            "uid": "f44c48e56e16481fba0f327cb5120ce2",
+            "uri": "https://api.sketchfab.com/v3/avatars/f44c48e56e16481fba0f327cb5120ce2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1889,
+                    "url": "https://media.sketchfab.com/avatars/f44c48e56e16481fba0f327cb5120ce2/ffa6d1d3f18740a09424b5be4a72bfb7.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3424,
+                    "url": "https://media.sketchfab.com/avatars/f44c48e56e16481fba0f327cb5120ce2/2cfc08314c9d432097a9513b6efe51bd.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 8247,
+                    "url": "https://media.sketchfab.com/avatars/f44c48e56e16481fba0f327cb5120ce2/7f228a015d634084b06334772f9f0900.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 9603,
+                    "url": "https://media.sketchfab.com/avatars/f44c48e56e16481fba0f327cb5120ce2/a9ef90ebcbb141bbaebfffe9f344b3cb.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/26e0a880809943e89fa9f379f28e4047"
+    },
+    "vertexCount": 6682,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/jougamine-aki-scum-of-the-brave-131983911a9647e68ee966787422c8b0",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "I really like the show, so i made 3D model fanart of Aki for training.\n( Yuusha no Kuzu / Scum of the Brave )",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/131983911a9647e68ee966787422c8b0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T04:30:23.794039",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 3
+}

@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T16:07:46.517699",
+    "embedUrl": "https://sketchfab.com/models/1605786da50b455f92dee7c79ac84e86/embed",
+    "faceCount": 81904,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sci Fi Rifle",
+    "publishedAt": "2026-02-21T16:08:26.756992",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rifle",
+            "slug": "rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "99b1bdcce64b4614baafa26eb4b4d71f",
+                "width": 1920,
+                "height": 1080,
+                "size": 36316,
+                "url": "https://media.sketchfab.com/models/1605786da50b455f92dee7c79ac84e86/thumbnails/fde9d1f66b75472680b4a37167b0bb51/d158c3336e5648f08a3fc069266e5fe4.jpeg"
+            },
+            {
+                "uid": "2997cc40c5fe49f1b5bd030a2e71e53d",
+                "width": 1024,
+                "height": 576,
+                "size": 11248,
+                "url": "https://media.sketchfab.com/models/1605786da50b455f92dee7c79ac84e86/thumbnails/fde9d1f66b75472680b4a37167b0bb51/c13f0492568e4602808892925321d1ea.jpeg"
+            },
+            {
+                "uid": "b4e5de74f4c34f84a697251064695c35",
+                "width": 720,
+                "height": 405,
+                "size": 6217,
+                "url": "https://media.sketchfab.com/models/1605786da50b455f92dee7c79ac84e86/thumbnails/fde9d1f66b75472680b4a37167b0bb51/389e449b251a436aa2e4cc79f7fdc987.jpeg"
+            },
+            {
+                "uid": "06c1267bb2f04916bb57abfc1833db85",
+                "width": 256,
+                "height": 144,
+                "size": 1425,
+                "url": "https://media.sketchfab.com/models/1605786da50b455f92dee7c79ac84e86/thumbnails/fde9d1f66b75472680b4a37167b0bb51/bd0c3f9cce3d4720a39b79d1295fa54f.jpeg"
+            },
+            {
+                "uid": "27a73ccb494e43d68c315a0b73f554a6",
+                "width": 64,
+                "height": 36,
+                "size": 731,
+                "url": "https://media.sketchfab.com/models/1605786da50b455f92dee7c79ac84e86/thumbnails/fde9d1f66b75472680b4a37167b0bb51/a67e7b76e03d4e25b8d84ca63ebfac72.jpeg"
+            }
+        ]
+    },
+    "uid": "1605786da50b455f92dee7c79ac84e86",
+    "uri": "https://api.sketchfab.com/v3/models/1605786da50b455f92dee7c79ac84e86",
+    "user": {
+        "uid": "ad6ccd8646b540d69dd46fc3c919a1e2",
+        "username": "trabuncresha1975",
+        "displayName": "trabuncresha1975",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/trabuncresha1975",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ad6ccd8646b540d69dd46fc3c919a1e2"
+    },
+    "vertexCount": 43309,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-rifle-1605786da50b455f92dee7c79ac84e86",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the source format.The Converted version is intended exclusively for browser preview. In the original file, the following are fully preserved:✔ original scene hierarchy✔ unsimplified materials✔ proper texture maps✔ proper object namingIf you are going to integrate the model into a project, download the source file.simple sci fi reflewith textures",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/1605786da50b455f92dee7c79ac84e86/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T16:08:26.907329",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 9
+}

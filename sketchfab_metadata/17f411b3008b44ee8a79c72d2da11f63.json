@@ -1,0 +1,247 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-21T05:33:27.041873",
+    "embedUrl": "https://sketchfab.com/models/17f411b3008b44ee8a79c72d2da11f63/embed",
+    "faceCount": 1226,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Push Dagger",
+    "publishedAt": "2025-12-21T05:34:37.671823",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "melee",
+            "slug": "melee",
+            "uri": "https://api.sketchfab.com/v3/tags/melee"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "ar",
+            "slug": "ar",
+            "uri": "https://api.sketchfab.com/v3/tags/ar"
+        },
+        {
+            "name": "push-dagger",
+            "slug": "push-dagger",
+            "uri": "https://api.sketchfab.com/v3/tags/push-dagger"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "knife",
+            "slug": "knife",
+            "uri": "https://api.sketchfab.com/v3/tags/knife"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "sketchfab",
+            "slug": "sketchfab",
+            "uri": "https://api.sketchfab.com/v3/tags/sketchfab"
+        },
+        {
+            "name": "dagger",
+            "slug": "dagger",
+            "uri": "https://api.sketchfab.com/v3/tags/dagger"
+        },
+        {
+            "name": "blade",
+            "slug": "blade",
+            "uri": "https://api.sketchfab.com/v3/tags/blade"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "383796ffeccf4ebb953dd42c49fe5ae9",
+                "width": 1920,
+                "height": 1080,
+                "size": 173558,
+                "url": "https://media.sketchfab.com/models/17f411b3008b44ee8a79c72d2da11f63/thumbnails/809054c555c8451d94233e5a538d0c76/38f2c14eb82f411383cb4deee33a5795.jpeg"
+            },
+            {
+                "uid": "c5f78b4f81bb4073acbd4ad95734cb8a",
+                "width": 1024,
+                "height": 576,
+                "size": 43152,
+                "url": "https://media.sketchfab.com/models/17f411b3008b44ee8a79c72d2da11f63/thumbnails/809054c555c8451d94233e5a538d0c76/a7b7e36301fb4bccad855095dc3c7e9b.jpeg"
+            },
+            {
+                "uid": "ebe3a10e5e9743a08ac9a6fae9bc30f8",
+                "width": 720,
+                "height": 405,
+                "size": 21986,
+                "url": "https://media.sketchfab.com/models/17f411b3008b44ee8a79c72d2da11f63/thumbnails/809054c555c8451d94233e5a538d0c76/76f182b44cb349f797a3b920c17d175d.jpeg"
+            },
+            {
+                "uid": "48ff1e934eb1439db59d07f5346c20f3",
+                "width": 256,
+                "height": 144,
+                "size": 4093,
+                "url": "https://media.sketchfab.com/models/17f411b3008b44ee8a79c72d2da11f63/thumbnails/809054c555c8451d94233e5a538d0c76/1694492485f945cabb683d67d0216330.jpeg"
+            },
+            {
+                "uid": "ae0190c4745d4c9f9998292c49303119",
+                "width": 64,
+                "height": 36,
+                "size": 1050,
+                "url": "https://media.sketchfab.com/models/17f411b3008b44ee8a79c72d2da11f63/thumbnails/809054c555c8451d94233e5a538d0c76/6492e1ca0d6d4ba8a49c4c72224c2ff6.jpeg"
+            }
+        ]
+    },
+    "uid": "17f411b3008b44ee8a79c72d2da11f63",
+    "uri": "https://api.sketchfab.com/v3/models/17f411b3008b44ee8a79c72d2da11f63",
+    "user": {
+        "uid": "b9cb71bcd1184c12ab1bb88298c8b034",
+        "username": "ShannanTaylor",
+        "displayName": "Shannan Taylor",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ShannanTaylor",
+        "avatar": {
+            "uid": "71d3b42f626b45e19e4797c6970a137d",
+            "uri": "https://api.sketchfab.com/v3/avatars/71d3b42f626b45e19e4797c6970a137d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 857,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/cba2e22d0aec46d89833f32d54118d72.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1796,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/74db0555fd244506959afd9a28ca5d11.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5860,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/a8d957a90fb94ee5a3ecf364e098f73b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 7162,
+                    "url": "https://media.sketchfab.com/avatars/71d3b42f626b45e19e4797c6970a137d/ded7e9a563a84bea935dccdd8f7e5a7f.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b9cb71bcd1184c12ab1bb88298c8b034"
+    },
+    "vertexCount": 615,
+    "viewCount": 27,
+    "viewerUrl": "https://sketchfab.com/3d-models/push-dagger-17f411b3008b44ee8a79c72d2da11f63",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A Push Dagger is a compact, close-combat blade designed with a distinctive “T”-shaped handle that fits securely in the palm, allowing the blade to protrude forward between the fingers for powerful thrusts. Historically used as a self-defense weapon and in trench fighting, this compact design delivers maximum control and impact with minimal reach.\n\nThis 3D model is a ready-to-use weapon prop, ideal for game environments, CGI scenes, VR/AR projects, 3D printing, and animation. It features clean geometry with realistic proportions and a balanced form that works well as both a hero prop or a background asset.\n\nFeatures\n\nSharp double-edged blade design\n\nBalanced, ergonomic push handle\n\nOptimized for rendering and real-time engines\n\nDownloadable and customizable for varied workflows\n\nPerfect for game developers, digital artists, prop designers, and hobbyists looking to enhance their weapon asset libraries.",
+    "price": null,
+    "downloadCount": 7,
+    "editorUrl": "https://sketchfab.com/models/17f411b3008b44ee8a79c72d2da11f63/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "SubstancePainter",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-03T06:21:46.649952",
+    "pbrType": "metalness",
+    "textureCount": 7,
+    "materialCount": 1
+}

@@ -1,0 +1,226 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T18:00:44.891445",
+    "embedUrl": "https://sketchfab.com/models/0eef80f2523b4f24a4e86c121ece46f4/embed",
+    "faceCount": 786305,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "3rd EYE SKULL",
+    "publishedAt": "2026-02-20T18:02:16.360343",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "eye",
+            "slug": "eye",
+            "uri": "https://api.sketchfab.com/v3/tags/eye"
+        },
+        {
+            "name": "skeleton",
+            "slug": "skeleton",
+            "uri": "https://api.sketchfab.com/v3/tags/skeleton"
+        },
+        {
+            "name": "geometry",
+            "slug": "geometry",
+            "uri": "https://api.sketchfab.com/v3/tags/geometry"
+        },
+        {
+            "name": "bone",
+            "slug": "bone",
+            "uri": "https://api.sketchfab.com/v3/tags/bone"
+        },
+        {
+            "name": "surreal",
+            "slug": "surreal",
+            "uri": "https://api.sketchfab.com/v3/tags/surreal"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "thirdeye",
+            "slug": "thirdeye",
+            "uri": "https://api.sketchfab.com/v3/tags/thirdeye"
+        },
+        {
+            "name": "necromancy",
+            "slug": "necromancy",
+            "uri": "https://api.sketchfab.com/v3/tags/necromancy"
+        },
+        {
+            "name": "skull",
+            "slug": "skull",
+            "uri": "https://api.sketchfab.com/v3/tags/skull"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3d4542c413444b8eab8f2b4d95e94fe2",
+                "width": 1920,
+                "height": 1080,
+                "size": 84016,
+                "url": "https://media.sketchfab.com/models/0eef80f2523b4f24a4e86c121ece46f4/thumbnails/62bcb9c7d1b847f08f06436ad83f4572/30b9d5b124b340ddbb8a60534bc406d6.jpeg"
+            },
+            {
+                "uid": "b20b065e8bb74241b92572869dee6f28",
+                "width": 1024,
+                "height": 576,
+                "size": 28197,
+                "url": "https://media.sketchfab.com/models/0eef80f2523b4f24a4e86c121ece46f4/thumbnails/62bcb9c7d1b847f08f06436ad83f4572/2fcfdc5deb7a4dcc8a5387f1d5840158.jpeg"
+            },
+            {
+                "uid": "a0c2988618ae44d9b21185dea5facf31",
+                "width": 720,
+                "height": 405,
+                "size": 16197,
+                "url": "https://media.sketchfab.com/models/0eef80f2523b4f24a4e86c121ece46f4/thumbnails/62bcb9c7d1b847f08f06436ad83f4572/ae1fb432622c414e8cdec03c70eed6a8.jpeg"
+            },
+            {
+                "uid": "85f142ff987e40ab90190feb2a7df48a",
+                "width": 256,
+                "height": 144,
+                "size": 3295,
+                "url": "https://media.sketchfab.com/models/0eef80f2523b4f24a4e86c121ece46f4/thumbnails/62bcb9c7d1b847f08f06436ad83f4572/ccf599929ff34ed4b9d9bdb89b419f5c.jpeg"
+            },
+            {
+                "uid": "5c1520bb435648558d4a02bb80ea68a1",
+                "width": 64,
+                "height": 36,
+                "size": 904,
+                "url": "https://media.sketchfab.com/models/0eef80f2523b4f24a4e86c121ece46f4/thumbnails/62bcb9c7d1b847f08f06436ad83f4572/fe7d04f964ee4f7bb6dac577502da959.jpeg"
+            }
+        ]
+    },
+    "uid": "0eef80f2523b4f24a4e86c121ece46f4",
+    "uri": "https://api.sketchfab.com/v3/models/0eef80f2523b4f24a4e86c121ece46f4",
+    "user": {
+        "uid": "93426e1085f446eb9d3c2b951aa4bdc2",
+        "username": "paulanto.pb",
+        "displayName": "Nobleirish",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/paulanto.pb",
+        "avatar": {
+            "uid": "ae9da348025746e5bc9d078c53a46ed0",
+            "uri": "https://api.sketchfab.com/v3/avatars/ae9da348025746e5bc9d078c53a46ed0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1169,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/3c0b41c9ce764f4e8532d10fcb073252.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1726,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/15b99207584842109985bbcb4d979665.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4171,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/984df33ab29d4da5b46d62925f536a59.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4826,
+                    "url": "https://media.sketchfab.com/avatars/ae9da348025746e5bc9d078c53a46ed0/22a452cabe1a4902be71e495f8475008.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/93426e1085f446eb9d3c2b951aa4bdc2"
+    },
+    "vertexCount": 392928,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/3rd-eye-skull-0eef80f2523b4f24a4e86c121ece46f4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/HfDquH](https://www.meshy.ai/s/HfDquH)",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/0eef80f2523b4f24a4e86c121ece46f4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T18:03:37.942623",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

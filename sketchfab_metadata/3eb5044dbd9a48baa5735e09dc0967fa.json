@@ -1,0 +1,244 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T19:30:25.632608",
+    "embedUrl": "https://sketchfab.com/models/3eb5044dbd9a48baa5735e09dc0967fa/embed",
+    "faceCount": 583154,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "USAF Thiokol 601 Snowcat Low Poly",
+    "publishedAt": "2026-02-23T19:40:35.319927",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "usaf",
+            "slug": "usaf",
+            "uri": "https://api.sketchfab.com/v3/tags/usaf"
+        },
+        {
+            "name": "vintage",
+            "slug": "vintage",
+            "uri": "https://api.sketchfab.com/v3/tags/vintage"
+        },
+        {
+            "name": "miniature",
+            "slug": "miniature",
+            "uri": "https://api.sketchfab.com/v3/tags/miniature"
+        },
+        {
+            "name": "hard-surface",
+            "slug": "hard-surface",
+            "uri": "https://api.sketchfab.com/v3/tags/hard-surface"
+        },
+        {
+            "name": "diorama",
+            "slug": "diorama",
+            "uri": "https://api.sketchfab.com/v3/tags/diorama"
+        },
+        {
+            "name": "airforce",
+            "slug": "airforce",
+            "uri": "https://api.sketchfab.com/v3/tags/airforce"
+        },
+        {
+            "name": "601",
+            "slug": "601",
+            "uri": "https://api.sketchfab.com/v3/tags/601"
+        },
+        {
+            "name": "Blender-3D",
+            "slug": "blender-3d",
+            "uri": "https://api.sketchfab.com/v3/tags/blender-3d"
+        },
+        {
+            "name": "arctic",
+            "slug": "arctic",
+            "uri": "https://api.sketchfab.com/v3/tags/arctic"
+        },
+        {
+            "name": "hoscale",
+            "slug": "hoscale",
+            "uri": "https://api.sketchfab.com/v3/tags/hoscale"
+        },
+        {
+            "name": "187",
+            "slug": "187",
+            "uri": "https://api.sketchfab.com/v3/tags/187"
+        },
+        {
+            "name": "scale-model",
+            "slug": "scale-model",
+            "uri": "https://api.sketchfab.com/v3/tags/scale-model"
+        },
+        {
+            "name": "digital-art",
+            "slug": "digital-art",
+            "uri": "https://api.sketchfab.com/v3/tags/digital-art"
+        },
+        {
+            "name": "snowcat",
+            "slug": "snowcat",
+            "uri": "https://api.sketchfab.com/v3/tags/snowcat"
+        },
+        {
+            "name": "tracked-vehicle",
+            "slug": "tracked-vehicle",
+            "uri": "https://api.sketchfab.com/v3/tags/tracked-vehicle"
+        },
+        {
+            "name": "no-ai",
+            "slug": "no-ai",
+            "uri": "https://api.sketchfab.com/v3/tags/no-ai"
+        },
+        {
+            "name": "thiokol",
+            "slug": "thiokol",
+            "uri": "https://api.sketchfab.com/v3/tags/thiokol"
+        },
+        {
+            "name": "historical-accuracy",
+            "slug": "historical-accuracy",
+            "uri": "https://api.sketchfab.com/v3/tags/historical-accuracy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "09da44d843634973b71803b7fdd50e8f",
+                "width": 1920,
+                "height": 1080,
+                "size": 69742,
+                "url": "https://media.sketchfab.com/models/3eb5044dbd9a48baa5735e09dc0967fa/thumbnails/3e733f2fd86a4712ab1b71af9aa7d492/6daeff5a372b4adfbb3d7a697f3872c7.jpeg"
+            },
+            {
+                "uid": "6ea2f955a77f4a0fbd44eca7bfe184d3",
+                "width": 1024,
+                "height": 576,
+                "size": 24316,
+                "url": "https://media.sketchfab.com/models/3eb5044dbd9a48baa5735e09dc0967fa/thumbnails/3e733f2fd86a4712ab1b71af9aa7d492/f36c35169b864220a6a642f4a184ecd8.jpeg"
+            },
+            {
+                "uid": "523d4c6e8a3543e2ba9da7fcc5e77d56",
+                "width": 720,
+                "height": 405,
+                "size": 14119,
+                "url": "https://media.sketchfab.com/models/3eb5044dbd9a48baa5735e09dc0967fa/thumbnails/3e733f2fd86a4712ab1b71af9aa7d492/0d06d5fec49b48019f538eb067b2666b.jpeg"
+            },
+            {
+                "uid": "243fff0dc0974edebaab4a4964e7f13e",
+                "width": 256,
+                "height": 144,
+                "size": 3284,
+                "url": "https://media.sketchfab.com/models/3eb5044dbd9a48baa5735e09dc0967fa/thumbnails/3e733f2fd86a4712ab1b71af9aa7d492/004e9a905ef141bea28c23d4d56461fe.jpeg"
+            },
+            {
+                "uid": "8c207796dad94e508204a7efd2e0f8ba",
+                "width": 64,
+                "height": 36,
+                "size": 991,
+                "url": "https://media.sketchfab.com/models/3eb5044dbd9a48baa5735e09dc0967fa/thumbnails/3e733f2fd86a4712ab1b71af9aa7d492/b0c117b466094a2aabe21c9c6a89284f.jpeg"
+            }
+        ]
+    },
+    "uid": "3eb5044dbd9a48baa5735e09dc0967fa",
+    "uri": "https://api.sketchfab.com/v3/models/3eb5044dbd9a48baa5735e09dc0967fa",
+    "user": {
+        "uid": "004e4999d3ee4f64906d2e4c79ae2509",
+        "username": "Kkt1990",
+        "displayName": "Kadir Kaan TOK",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Kkt1990",
+        "avatar": {
+            "uid": "48253b396dea4dd58d74fc84eaacab61",
+            "uri": "https://api.sketchfab.com/v3/avatars/48253b396dea4dd58d74fc84eaacab61",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1097,
+                    "url": "https://media.sketchfab.com/avatars/48253b396dea4dd58d74fc84eaacab61/e2e9a7c8960643698715b8e1b5b7c7ae.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1544,
+                    "url": "https://media.sketchfab.com/avatars/48253b396dea4dd58d74fc84eaacab61/1e42765222ad4c2a83f782ad287dbc78.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3321,
+                    "url": "https://media.sketchfab.com/avatars/48253b396dea4dd58d74fc84eaacab61/c8580764726148b1b0e9946863944baf.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3858,
+                    "url": "https://media.sketchfab.com/avatars/48253b396dea4dd58d74fc84eaacab61/058ede1f864f46a5a60ec68e2dc9bc3e.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/004e4999d3ee4f64906d2e4c79ae2509"
+    },
+    "vertexCount": 293511,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/usaf-thiokol-601-snowcat-low-poly-3eb5044dbd9a48baa5735e09dc0967fa",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a professionally crafted 3D model of the iconic Thiokol 601 Snowcat, historically used by the US Air Force (USAF) for arctic operations. The model has been meticulously designed in Blender with a focus on both digital environments and high-quality 3D printing.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/3eb5044dbd9a48baa5735e09dc0967fa/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T19:40:35.791806",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 10
+}

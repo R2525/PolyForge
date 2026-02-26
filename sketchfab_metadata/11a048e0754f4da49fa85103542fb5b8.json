@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T12:11:46.388743",
+    "embedUrl": "https://sketchfab.com/models/11a048e0754f4da49fa85103542fb5b8/embed",
+    "faceCount": 640,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Rusty Soviet Canned Food Tin",
+    "publishedAt": "2026-02-20T12:12:57.644070",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "food",
+            "slug": "food",
+            "uri": "https://api.sketchfab.com/v3/tags/food"
+        },
+        {
+            "name": "soviet",
+            "slug": "soviet",
+            "uri": "https://api.sketchfab.com/v3/tags/soviet"
+        },
+        {
+            "name": "rust",
+            "slug": "rust",
+            "uri": "https://api.sketchfab.com/v3/tags/rust"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "rusty",
+            "slug": "rusty",
+            "uri": "https://api.sketchfab.com/v3/tags/rusty"
+        },
+        {
+            "name": "tin",
+            "slug": "tin",
+            "uri": "https://api.sketchfab.com/v3/tags/tin"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "USSR",
+            "slug": "ussr",
+            "uri": "https://api.sketchfab.com/v3/tags/ussr"
+        },
+        {
+            "name": "decay",
+            "slug": "decay",
+            "uri": "https://api.sketchfab.com/v3/tags/decay"
+        },
+        {
+            "name": "canned",
+            "slug": "canned",
+            "uri": "https://api.sketchfab.com/v3/tags/canned"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "57423575d69d47b9867d859584fd19b7",
+                "width": 1920,
+                "height": 1080,
+                "size": 85986,
+                "url": "https://media.sketchfab.com/models/11a048e0754f4da49fa85103542fb5b8/thumbnails/e428526c48ae4c6191e1d3e1ebca1efe/45a0477ec1194565a117ce8d1d43689e.jpeg"
+            },
+            {
+                "uid": "d8ecb1afec9c41f880c7c36377ba33df",
+                "width": 1024,
+                "height": 576,
+                "size": 25071,
+                "url": "https://media.sketchfab.com/models/11a048e0754f4da49fa85103542fb5b8/thumbnails/e428526c48ae4c6191e1d3e1ebca1efe/66c2e24ca71141048285c6fd47174181.jpeg"
+            },
+            {
+                "uid": "5552f3ce2c98477c8dc2e736f5461cc0",
+                "width": 720,
+                "height": 405,
+                "size": 13883,
+                "url": "https://media.sketchfab.com/models/11a048e0754f4da49fa85103542fb5b8/thumbnails/e428526c48ae4c6191e1d3e1ebca1efe/6ffa57e826474b22951a5e61b2943643.jpeg"
+            },
+            {
+                "uid": "d9e3a4f4396749a18cc5399e5d607657",
+                "width": 256,
+                "height": 144,
+                "size": 2942,
+                "url": "https://media.sketchfab.com/models/11a048e0754f4da49fa85103542fb5b8/thumbnails/e428526c48ae4c6191e1d3e1ebca1efe/a8d82be674c644ddbed1d1b650fba34c.jpeg"
+            },
+            {
+                "uid": "2494b8bfad524ec9bf4af3181ce6fb93",
+                "width": 64,
+                "height": 36,
+                "size": 977,
+                "url": "https://media.sketchfab.com/models/11a048e0754f4da49fa85103542fb5b8/thumbnails/e428526c48ae4c6191e1d3e1ebca1efe/f866389e53dd425ab85c741689cb8563.jpeg"
+            }
+        ]
+    },
+    "uid": "11a048e0754f4da49fa85103542fb5b8",
+    "uri": "https://api.sketchfab.com/v3/models/11a048e0754f4da49fa85103542fb5b8",
+    "user": {
+        "uid": "0c274095db534d6e9ad6104714e037b5",
+        "username": "Shubham_Artist",
+        "displayName": "Shubham_Artist",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Shubham_Artist",
+        "avatar": {
+            "uid": "3e63732941df4437a96fe2ffa8e20965",
+            "uri": "https://api.sketchfab.com/v3/avatars/3e63732941df4437a96fe2ffa8e20965",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 841,
+                    "url": "https://media.sketchfab.com/avatars/3e63732941df4437a96fe2ffa8e20965/26efe03f0884427b91da4c9887d3033f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1406,
+                    "url": "https://media.sketchfab.com/avatars/3e63732941df4437a96fe2ffa8e20965/79a9872590344d43bf431614414e0330.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3961,
+                    "url": "https://media.sketchfab.com/avatars/3e63732941df4437a96fe2ffa8e20965/86c3832f5f9b4d77acd7da9d90557cb6.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4705,
+                    "url": "https://media.sketchfab.com/avatars/3e63732941df4437a96fe2ffa8e20965/1998120149d04209850b67ec25c9b16a.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0c274095db534d6e9ad6104714e037b5"
+    },
+    "vertexCount": 322,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/rusty-soviet-canned-food-tin-11a048e0754f4da49fa85103542fb5b8",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the Original format.The converted file is intended for web viewing only. In the original file, the following are fully preserved:✔ full scene structure✔ all materials without simplification✔ accurate texture maps✔ original object namesIf you intend to use the asset in a production environment, download the source file.This model showcases a dirty and rusty Soviet era canned food tin perfect for post apocalyptic or vintage projects. Featuring elements of corrosion and wear the model adds a sense of time and aging fitting seamlessly into scenes with abandoned buildings or old warehouses. The combination of realistic textures and detailed geometry makes it ideal for games animations and visual effects.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/11a048e0754f4da49fa85103542fb5b8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T12:12:57.883560",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

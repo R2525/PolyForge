@@ -1,0 +1,214 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 2,
+    "createdAt": "2025-12-22T14:23:10.214055",
+    "embedUrl": "https://sketchfab.com/models/36ef650744c34dbb8077c9e83ec57a19/embed",
+    "faceCount": 32012,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 15,
+    "name": "Star Wars ISB Tactical Blaster Rifle",
+    "publishedAt": "2025-12-22T14:38:46.965154",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rifle",
+            "slug": "rifle",
+            "uri": "https://api.sketchfab.com/v3/tags/rifle"
+        },
+        {
+            "name": "empire",
+            "slug": "empire",
+            "uri": "https://api.sketchfab.com/v3/tags/empire"
+        },
+        {
+            "name": "stormtrooper",
+            "slug": "stormtrooper",
+            "uri": "https://api.sketchfab.com/v3/tags/stormtrooper"
+        },
+        {
+            "name": "blaster",
+            "slug": "blaster",
+            "uri": "https://api.sketchfab.com/v3/tags/blaster"
+        },
+        {
+            "name": "imperial",
+            "slug": "imperial",
+            "uri": "https://api.sketchfab.com/v3/tags/imperial"
+        },
+        {
+            "name": "wars",
+            "slug": "wars",
+            "uri": "https://api.sketchfab.com/v3/tags/wars"
+        },
+        {
+            "name": "star",
+            "slug": "star",
+            "uri": "https://api.sketchfab.com/v3/tags/star"
+        },
+        {
+            "name": "TheCloneWars",
+            "slug": "theclonewars",
+            "uri": "https://api.sketchfab.com/v3/tags/theclonewars"
+        },
+        {
+            "name": "clonewars",
+            "slug": "clonewars",
+            "uri": "https://api.sketchfab.com/v3/tags/clonewars"
+        },
+        {
+            "name": "clonetrooper",
+            "slug": "clonetrooper",
+            "uri": "https://api.sketchfab.com/v3/tags/clonetrooper"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "starwars",
+            "slug": "starwars",
+            "uri": "https://api.sketchfab.com/v3/tags/starwars"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d4c70fb3b5994b2baff3590cee359754",
+                "width": 1920,
+                "height": 1080,
+                "size": 472473,
+                "url": "https://media.sketchfab.com/models/36ef650744c34dbb8077c9e83ec57a19/thumbnails/4ae7525b0d254921966318b2d793cb09/aec0bae1e2fd4ccea69ecae841713364.jpeg"
+            },
+            {
+                "uid": "22aa5642a7c847d59bc4b33b292cb753",
+                "width": 1024,
+                "height": 576,
+                "size": 53405,
+                "url": "https://media.sketchfab.com/models/36ef650744c34dbb8077c9e83ec57a19/thumbnails/4ae7525b0d254921966318b2d793cb09/767a07f29acc4bcaa3d3d799b2995689.jpeg"
+            },
+            {
+                "uid": "394585391e4a47b58a01da5b22daa3b6",
+                "width": 720,
+                "height": 405,
+                "size": 24144,
+                "url": "https://media.sketchfab.com/models/36ef650744c34dbb8077c9e83ec57a19/thumbnails/4ae7525b0d254921966318b2d793cb09/de1b322cbd634e5fbfa144e1879c606e.jpeg"
+            },
+            {
+                "uid": "b7d76d37781347e6a8eeaf55fe8f3440",
+                "width": 256,
+                "height": 144,
+                "size": 4456,
+                "url": "https://media.sketchfab.com/models/36ef650744c34dbb8077c9e83ec57a19/thumbnails/4ae7525b0d254921966318b2d793cb09/f47e27a6e10d4610a212f154a6facc6b.jpeg"
+            },
+            {
+                "uid": "b9dde48a51244a99bc7461c554350c13",
+                "width": 64,
+                "height": 36,
+                "size": 1162,
+                "url": "https://media.sketchfab.com/models/36ef650744c34dbb8077c9e83ec57a19/thumbnails/4ae7525b0d254921966318b2d793cb09/33dd6124ad694ac38e4100aa281ece45.jpeg"
+            }
+        ]
+    },
+    "uid": "36ef650744c34dbb8077c9e83ec57a19",
+    "uri": "https://api.sketchfab.com/v3/models/36ef650744c34dbb8077c9e83ec57a19",
+    "user": {
+        "uid": "a8c44b3a450541ea9e5ffaaadd5a9e1e",
+        "username": "outworldstudios",
+        "displayName": "Outworld Studios",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/outworldstudios",
+        "avatar": {
+            "uid": "6861e87ba1c841c69575badeb76c6f7c",
+            "uri": "https://api.sketchfab.com/v3/avatars/6861e87ba1c841c69575badeb76c6f7c",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1099,
+                    "url": "https://media.sketchfab.com/avatars/6861e87ba1c841c69575badeb76c6f7c/aac87fde2a5b4d20a0eafef95fe99a77.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1620,
+                    "url": "https://media.sketchfab.com/avatars/6861e87ba1c841c69575badeb76c6f7c/78d27d05114341aaa091e588323f5758.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3833,
+                    "url": "https://media.sketchfab.com/avatars/6861e87ba1c841c69575badeb76c6f7c/09695cc8c9a24d10aa1d73019570c925.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4345,
+                    "url": "https://media.sketchfab.com/avatars/6861e87ba1c841c69575badeb76c6f7c/705092e7f4494eb6b9ad0a0f7aa3ca64.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a8c44b3a450541ea9e5ffaaadd5a9e1e"
+    },
+    "vertexCount": 16334,
+    "viewCount": 597,
+    "viewerUrl": "https://sketchfab.com/3d-models/star-wars-isb-tactical-blaster-rifle-36ef650744c34dbb8077c9e83ec57a19",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Star Wars ISB Tactical Blaster Rifle - Model/Art by Outworld Studios\n\nMust give credit to Outworld Studios if using this asset\n\nShow support by joining my discord: https://discord.gg/EgWSkp8Cxn",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/36ef650744c34dbb8077c9e83ec57a19/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-22T14:38:47.148819",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

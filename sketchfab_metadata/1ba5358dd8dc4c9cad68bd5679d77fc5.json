@@ -1,0 +1,184 @@
+{
+    "animationCount": 1,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-24T18:19:02.124939",
+    "embedUrl": "https://sketchfab.com/models/1ba5358dd8dc4c9cad68bd5679d77fc5/embed",
+    "faceCount": 5160,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "BlockéMon Valentine's Skins",
+    "publishedAt": "2026-02-24T19:32:30.023661",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "pixel-art",
+            "slug": "pixel-art",
+            "uri": "https://api.sketchfab.com/v3/tags/pixel-art"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "cobblemon",
+            "slug": "cobblemon",
+            "uri": "https://api.sketchfab.com/v3/tags/cobblemon"
+        },
+        {
+            "name": "noai",
+            "slug": "noai",
+            "uri": "https://api.sketchfab.com/v3/tags/noai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "eaa12eac22f44abd9f0f7ba3ace38e4d",
+                "width": 1920,
+                "height": 1080,
+                "size": 167072,
+                "url": "https://media.sketchfab.com/models/1ba5358dd8dc4c9cad68bd5679d77fc5/thumbnails/1f6b9c6de2cf44e2b7c2f7cee0592185/98687a6f5d0f49fdbb9932b4cc66c43d.jpeg"
+            },
+            {
+                "uid": "cbdbd8fd0f9c43f4b7522e11d03e9cc2",
+                "width": 1024,
+                "height": 576,
+                "size": 60006,
+                "url": "https://media.sketchfab.com/models/1ba5358dd8dc4c9cad68bd5679d77fc5/thumbnails/1f6b9c6de2cf44e2b7c2f7cee0592185/f167b39e2a0342d5921a28b6bdd3cb04.jpeg"
+            },
+            {
+                "uid": "0de149e305b24135a9d214979f350f55",
+                "width": 720,
+                "height": 405,
+                "size": 35594,
+                "url": "https://media.sketchfab.com/models/1ba5358dd8dc4c9cad68bd5679d77fc5/thumbnails/1f6b9c6de2cf44e2b7c2f7cee0592185/0fe2e9f5faaa469db341c428b77232a6.jpeg"
+            },
+            {
+                "uid": "a6a9c530cfd44bfebc9bb901415f3bee",
+                "width": 256,
+                "height": 144,
+                "size": 7863,
+                "url": "https://media.sketchfab.com/models/1ba5358dd8dc4c9cad68bd5679d77fc5/thumbnails/1f6b9c6de2cf44e2b7c2f7cee0592185/63cb4778a8db4928998fbf139419b257.jpeg"
+            },
+            {
+                "uid": "7fd9e586c9de4baebd6777577551a1b2",
+                "width": 64,
+                "height": 36,
+                "size": 1503,
+                "url": "https://media.sketchfab.com/models/1ba5358dd8dc4c9cad68bd5679d77fc5/thumbnails/1f6b9c6de2cf44e2b7c2f7cee0592185/a442e1b87bf249a99a34efd89d1588f4.jpeg"
+            }
+        ]
+    },
+    "uid": "1ba5358dd8dc4c9cad68bd5679d77fc5",
+    "uri": "https://api.sketchfab.com/v3/models/1ba5358dd8dc4c9cad68bd5679d77fc5",
+    "user": {
+        "uid": "0e603fd0527e4485a584f1f1acc8d8aa",
+        "username": "talchao",
+        "displayName": "talchao",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/talchao",
+        "avatar": {
+            "uid": "0625ce6e1d4b4e6aa62274bd9e570f4f",
+            "uri": "https://api.sketchfab.com/v3/avatars/0625ce6e1d4b4e6aa62274bd9e570f4f",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1983,
+                    "url": "https://media.sketchfab.com/avatars/0625ce6e1d4b4e6aa62274bd9e570f4f/936e2b7322324c1ca71de39da9c3f327.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3638,
+                    "url": "https://media.sketchfab.com/avatars/0625ce6e1d4b4e6aa62274bd9e570f4f/d019f9bef9414203b053e888dd7b7f65.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9050,
+                    "url": "https://media.sketchfab.com/avatars/0625ce6e1d4b4e6aa62274bd9e570f4f/65b30fc1583b400cbf6a10ce420b6709.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 10678,
+                    "url": "https://media.sketchfab.com/avatars/0625ce6e1d4b4e6aa62274bd9e570f4f/ad8017b408d2475e8e7af4e2e35aa506.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0e603fd0527e4485a584f1f1acc8d8aa"
+    },
+    "vertexCount": 3440,
+    "viewCount": 8,
+    "viewerUrl": "https://sketchfab.com/3d-models/blockemon-valentines-skins-1ba5358dd8dc4c9cad68bd5679d77fc5",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Minecraft Pokemon textures/models made for blockemon.gg for Valentine's Day 2026. Original models property of Cobblemon.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1ba5358dd8dc4c9cad68bd5679d77fc5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T19:32:30.184676",
+    "pbrType": null,
+    "textureCount": 6,
+    "materialCount": 6
+}

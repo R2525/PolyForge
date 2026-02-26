@@ -1,0 +1,67 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Gothic",
+    "top_genres": [
+        {
+            "name": "Gothic",
+            "score": 0.95
+        },
+        {
+            "name": "Dark Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.85
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.75
+        },
+        {
+            "name": "Medieval",
+            "score": 0.7
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.85
+        },
+        {
+            "name": "Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.75
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Polished",
+        "Cracked"
+    ],
+    "tags": [
+        "dark",
+        "gothic",
+        "dragon",
+        "knight",
+        "armor",
+        "wings",
+        "sword",
+        "mossy"
+    ],
+    "model_id_full": "44683c2678144b5d810f23adf8ad0d69_Winged Dark Gothic Knight with Dragon Helmet",
+    "sketchfab_id": "44683c2678144b5d810f23adf8ad0d69",
+    "asset_name": "Winged Dark Gothic Knight with Dragon Helmet"
+}

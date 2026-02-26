@@ -1,0 +1,68 @@
+{
+    "category": "Architecture",
+    "genre": "Vibrant Fantasy",
+    "top_genres": [
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.8
+        },
+        {
+            "name": "Ancient Roman",
+            "score": 0.7
+        },
+        {
+            "name": "Medieval",
+            "score": 0.6
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.5
+        }
+    ],
+    "style": "Hand-painted Stylized",
+    "top_styles": [
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.8
+        },
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "3D Modeling",
+            "score": 0.5
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Polished",
+        "Mossy",
+        "Dusty",
+        "Weathered"
+    ],
+    "tags": [
+        "castle",
+        "white",
+        "towers",
+        "blue-roofed",
+        "island",
+        "fairy tale",
+        "magic",
+        "fantasy"
+    ],
+    "model_id_full": "430713afd1144d81b335b25bd391bc92_The White Castle",
+    "sketchfab_id": "430713afd1144d81b335b25bd391bc92",
+    "asset_name": "The White Castle"
+}

@@ -1,0 +1,264 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T10:57:57.085823",
+    "embedUrl": "https://sketchfab.com/models/23f2f4d031bf46c9b2d84ef1826e0d60/embed",
+    "faceCount": 98280,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Wooden Swing Bench",
+    "publishedAt": "2026-02-25T11:16:26.817643",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "bench",
+            "slug": "bench",
+            "uri": "https://api.sketchfab.com/v3/tags/bench"
+        },
+        {
+            "name": "couch",
+            "slug": "couch",
+            "uri": "https://api.sketchfab.com/v3/tags/couch"
+        },
+        {
+            "name": "sitting",
+            "slug": "sitting",
+            "uri": "https://api.sketchfab.com/v3/tags/sitting"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "seat",
+            "slug": "seat",
+            "uri": "https://api.sketchfab.com/v3/tags/seat"
+        },
+        {
+            "name": "swing",
+            "slug": "swing",
+            "uri": "https://api.sketchfab.com/v3/tags/swing"
+        },
+        {
+            "name": "furniture",
+            "slug": "furniture",
+            "uri": "https://api.sketchfab.com/v3/tags/furniture"
+        },
+        {
+            "name": "outdoor",
+            "slug": "outdoor",
+            "uri": "https://api.sketchfab.com/v3/tags/outdoor"
+        },
+        {
+            "name": "sit",
+            "slug": "sit",
+            "uri": "https://api.sketchfab.com/v3/tags/sit"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "real",
+            "slug": "real",
+            "uri": "https://api.sketchfab.com/v3/tags/real"
+        },
+        {
+            "name": "lovers",
+            "slug": "lovers",
+            "uri": "https://api.sketchfab.com/v3/tags/lovers"
+        },
+        {
+            "name": "romantic",
+            "slug": "romantic",
+            "uri": "https://api.sketchfab.com/v3/tags/romantic"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "chair",
+            "slug": "chair",
+            "uri": "https://api.sketchfab.com/v3/tags/chair"
+        },
+        {
+            "name": "couples",
+            "slug": "couples",
+            "uri": "https://api.sketchfab.com/v3/tags/couples"
+        },
+        {
+            "name": "3dee",
+            "slug": "3dee",
+            "uri": "https://api.sketchfab.com/v3/tags/3dee"
+        },
+        {
+            "name": "hanging-chair",
+            "slug": "hanging-chair",
+            "uri": "https://api.sketchfab.com/v3/tags/hanging-chair"
+        },
+        {
+            "name": "swingbench",
+            "slug": "swingbench",
+            "uri": "https://api.sketchfab.com/v3/tags/swingbench"
+        },
+        {
+            "name": "hanging-bench",
+            "slug": "hanging-bench",
+            "uri": "https://api.sketchfab.com/v3/tags/hanging-bench"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "9fe8d422017d472e9bb27fdf109f51bb",
+                "width": 1920,
+                "height": 1080,
+                "size": 136242,
+                "url": "https://media.sketchfab.com/models/23f2f4d031bf46c9b2d84ef1826e0d60/thumbnails/048bcb19bbea4718aafe07b29a6dd9f4/aeb4307934d84a8b881fd94aaea8176a.jpeg"
+            },
+            {
+                "uid": "54fad726bd144361b516e4f1ae8e6a2a",
+                "width": 1024,
+                "height": 576,
+                "size": 40691,
+                "url": "https://media.sketchfab.com/models/23f2f4d031bf46c9b2d84ef1826e0d60/thumbnails/048bcb19bbea4718aafe07b29a6dd9f4/a78fd67d46d442beac12f04891bbd765.jpeg"
+            },
+            {
+                "uid": "dc4cafd044ea49a0b2fc66d6832a0196",
+                "width": 720,
+                "height": 405,
+                "size": 23002,
+                "url": "https://media.sketchfab.com/models/23f2f4d031bf46c9b2d84ef1826e0d60/thumbnails/048bcb19bbea4718aafe07b29a6dd9f4/a2a71fb37ff14d07b45f0962752761a1.jpeg"
+            },
+            {
+                "uid": "fddaeb2b506e4bef879b1f454010b85d",
+                "width": 256,
+                "height": 144,
+                "size": 4646,
+                "url": "https://media.sketchfab.com/models/23f2f4d031bf46c9b2d84ef1826e0d60/thumbnails/048bcb19bbea4718aafe07b29a6dd9f4/aa31a03dd129419f85882d4b9b759acd.jpeg"
+            },
+            {
+                "uid": "874f8320a53a425cb007adb468fd0838",
+                "width": 64,
+                "height": 36,
+                "size": 1099,
+                "url": "https://media.sketchfab.com/models/23f2f4d031bf46c9b2d84ef1826e0d60/thumbnails/048bcb19bbea4718aafe07b29a6dd9f4/a62968a32ee94e3494c372156993ae85.jpeg"
+            }
+        ]
+    },
+    "uid": "23f2f4d031bf46c9b2d84ef1826e0d60",
+    "uri": "https://api.sketchfab.com/v3/models/23f2f4d031bf46c9b2d84ef1826e0d60",
+    "user": {
+        "uid": "c3c8f083f67c49cda3b8b73765f956de",
+        "username": "mellydeeis",
+        "displayName": "3Dee",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mellydeeis",
+        "avatar": {
+            "uid": "a744c8fd79dc4debb56b95bd06604da4",
+            "uri": "https://api.sketchfab.com/v3/avatars/a744c8fd79dc4debb56b95bd06604da4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 759,
+                    "url": "https://media.sketchfab.com/avatars/a744c8fd79dc4debb56b95bd06604da4/cd5f836e8a144f349ab30896a642287d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1196,
+                    "url": "https://media.sketchfab.com/avatars/a744c8fd79dc4debb56b95bd06604da4/622dc30aa23d42398d17e32bdd41c559.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2918,
+                    "url": "https://media.sketchfab.com/avatars/a744c8fd79dc4debb56b95bd06604da4/167c840f936b41569dfd1cad19d8b3c0.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3324,
+                    "url": "https://media.sketchfab.com/avatars/a744c8fd79dc4debb56b95bd06604da4/880f9db5b79a47f3901d1238ec23b4fe.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c3c8f083f67c49cda3b8b73765f956de"
+    },
+    "vertexCount": 49272,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/wooden-swing-bench-23f2f4d031bf46c9b2d84ef1826e0d60",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A Wooden Swing Bench Hanging From Chains.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/23f2f4d031bf46c9b2d84ef1826e0d60/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T11:16:26.977218",
+    "pbrType": "metalness",
+    "textureCount": 7,
+    "materialCount": 2
+}

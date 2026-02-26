@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T02:04:33.511549",
+    "embedUrl": "https://sketchfab.com/models/1e76afadc6304978bbac401ef5eb2741/embed",
+    "faceCount": 17862,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Pylon Capitals",
+    "publishedAt": "2026-02-22T02:05:44.797926",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ruins",
+            "slug": "ruins",
+            "uri": "https://api.sketchfab.com/v3/tags/ruins"
+        },
+        {
+            "name": "theater",
+            "slug": "theater",
+            "uri": "https://api.sketchfab.com/v3/tags/theater"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "338080078da34c1bb1ef4d31578af679",
+                "width": 1920,
+                "height": 1080,
+                "size": 36044,
+                "url": "https://media.sketchfab.com/models/1e76afadc6304978bbac401ef5eb2741/thumbnails/da9a31d485e84fe4a938b54bac3bb4b3/0bca1bcdbfa34ed89faf4559f935f455.jpeg"
+            },
+            {
+                "uid": "90e07a8a776446d3806f36f41326d94b",
+                "width": 1024,
+                "height": 576,
+                "size": 11084,
+                "url": "https://media.sketchfab.com/models/1e76afadc6304978bbac401ef5eb2741/thumbnails/da9a31d485e84fe4a938b54bac3bb4b3/7a9e5e9585da4bd9a468c684a5255b0d.jpeg"
+            },
+            {
+                "uid": "e942d139da154ed2852ab648f4e972bc",
+                "width": 720,
+                "height": 405,
+                "size": 6054,
+                "url": "https://media.sketchfab.com/models/1e76afadc6304978bbac401ef5eb2741/thumbnails/da9a31d485e84fe4a938b54bac3bb4b3/249972ac64b74bf7b1d7c03cfa449025.jpeg"
+            },
+            {
+                "uid": "541f4c22444d43acb4c9f30fc5f6173d",
+                "width": 256,
+                "height": 144,
+                "size": 1445,
+                "url": "https://media.sketchfab.com/models/1e76afadc6304978bbac401ef5eb2741/thumbnails/da9a31d485e84fe4a938b54bac3bb4b3/2c921df873c14434ad68c5376ef79489.jpeg"
+            },
+            {
+                "uid": "55703351b47e4912939a47de04a9317c",
+                "width": 64,
+                "height": 36,
+                "size": 719,
+                "url": "https://media.sketchfab.com/models/1e76afadc6304978bbac401ef5eb2741/thumbnails/da9a31d485e84fe4a938b54bac3bb4b3/f97e73d70e1845fb98011b8953b97392.jpeg"
+            }
+        ]
+    },
+    "uid": "1e76afadc6304978bbac401ef5eb2741",
+    "uri": "https://api.sketchfab.com/v3/models/1e76afadc6304978bbac401ef5eb2741",
+    "user": {
+        "uid": "89a69888b3284a2590f7e1946eaa20a1",
+        "username": "Jimbo.Designs",
+        "displayName": "Jimbo.Designs",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Jimbo.Designs",
+        "avatar": {
+            "uid": "4d333be9ecbb4f26bc13e73deaed2b06",
+            "uri": "https://api.sketchfab.com/v3/avatars/4d333be9ecbb4f26bc13e73deaed2b06",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1079,
+                    "url": "https://media.sketchfab.com/avatars/4d333be9ecbb4f26bc13e73deaed2b06/4127305c53ca46b49598ddcc58edd3c5.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1692,
+                    "url": "https://media.sketchfab.com/avatars/4d333be9ecbb4f26bc13e73deaed2b06/a7bc30c09a0e45e7adadd7a4c23233bd.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4881,
+                    "url": "https://media.sketchfab.com/avatars/4d333be9ecbb4f26bc13e73deaed2b06/03fa7e5cdd2f401188e6b1444724bbbb.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5725,
+                    "url": "https://media.sketchfab.com/avatars/4d333be9ecbb4f26bc13e73deaed2b06/5f7e663ebb374e7e93d90a31ede6c08f.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/89a69888b3284a2590f7e1946eaa20a1"
+    },
+    "vertexCount": 9005,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/pylon-capitals-1e76afadc6304978bbac401ef5eb2741",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Capitals Mean for theatrical use! You can disable the visibility of the pylons if neccesary!",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/1e76afadc6304978bbac401ef5eb2741/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T02:06:10.810974",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 2
+}

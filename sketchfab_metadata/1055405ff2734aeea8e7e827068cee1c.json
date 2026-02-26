@@ -1,0 +1,281 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2026-02-09T00:06:44.462354",
+    "embedUrl": "https://sketchfab.com/models/1055405ff2734aeea8e7e827068cee1c/embed",
+    "faceCount": 1602,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/b9ddc40b93e34cdca1fc152f39b9f375",
+        "label": "CC Attribution-ShareAlike",
+        "fullName": "Creative Commons Attribution-ShareAlike",
+        "requirements": "Author must be credited. Modified versions must have the same license. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by-sa/4.0/",
+        "slug": "by-sa"
+    },
+    "likeCount": 6,
+    "name": "TVA Time Theater",
+    "publishedAt": "2026-02-09T00:13:12.151901",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "theatre",
+            "slug": "theatre",
+            "uri": "https://api.sketchfab.com/v3/tags/theatre"
+        },
+        {
+            "name": "time",
+            "slug": "time",
+            "uri": "https://api.sketchfab.com/v3/tags/time"
+        },
+        {
+            "name": "marvel",
+            "slug": "marvel",
+            "uri": "https://api.sketchfab.com/v3/tags/marvel"
+        },
+        {
+            "name": "doctor",
+            "slug": "doctor",
+            "uri": "https://api.sketchfab.com/v3/tags/doctor"
+        },
+        {
+            "name": "theater",
+            "slug": "theater",
+            "uri": "https://api.sketchfab.com/v3/tags/theater"
+        },
+        {
+            "name": "loki",
+            "slug": "loki",
+            "uri": "https://api.sketchfab.com/v3/tags/loki"
+        },
+        {
+            "name": "guard",
+            "slug": "guard",
+            "uri": "https://api.sketchfab.com/v3/tags/guard"
+        },
+        {
+            "name": "doom",
+            "slug": "doom",
+            "uri": "https://api.sketchfab.com/v3/tags/doom"
+        },
+        {
+            "name": "thor",
+            "slug": "thor",
+            "uri": "https://api.sketchfab.com/v3/tags/thor"
+        },
+        {
+            "name": "variant",
+            "slug": "variant",
+            "uri": "https://api.sketchfab.com/v3/tags/variant"
+        },
+        {
+            "name": "Disney",
+            "slug": "disney",
+            "uri": "https://api.sketchfab.com/v3/tags/disney"
+        },
+        {
+            "name": "Sylvie",
+            "slug": "sylvie",
+            "uri": "https://api.sketchfab.com/v3/tags/sylvie"
+        },
+        {
+            "name": "Mobius",
+            "slug": "mobius",
+            "uri": "https://api.sketchfab.com/v3/tags/mobius"
+        },
+        {
+            "name": "Kang",
+            "slug": "kang",
+            "uri": "https://api.sketchfab.com/v3/tags/kang"
+        },
+        {
+            "name": "Agency",
+            "slug": "agency",
+            "uri": "https://api.sketchfab.com/v3/tags/agency"
+        },
+        {
+            "name": "Season",
+            "slug": "season",
+            "uri": "https://api.sketchfab.com/v3/tags/season"
+        },
+        {
+            "name": "mcu",
+            "slug": "mcu",
+            "uri": "https://api.sketchfab.com/v3/tags/mcu"
+        },
+        {
+            "name": "authority",
+            "slug": "authority",
+            "uri": "https://api.sketchfab.com/v3/tags/authority"
+        },
+        {
+            "name": "timeline",
+            "slug": "timeline",
+            "uri": "https://api.sketchfab.com/v3/tags/timeline"
+        },
+        {
+            "name": "tva",
+            "slug": "tva",
+            "uri": "https://api.sketchfab.com/v3/tags/tva"
+        },
+        {
+            "name": "timekeeper",
+            "slug": "timekeeper",
+            "uri": "https://api.sketchfab.com/v3/tags/timekeeper"
+        },
+        {
+            "name": "man",
+            "slug": "man",
+            "uri": "https://api.sketchfab.com/v3/tags/man"
+        },
+        {
+            "name": "variance",
+            "slug": "variance",
+            "uri": "https://api.sketchfab.com/v3/tags/variance"
+        },
+        {
+            "name": "timely",
+            "slug": "timely",
+            "uri": "https://api.sketchfab.com/v3/tags/timely"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4d895215b62a49c896b851041acbbf2a",
+                "width": 1920,
+                "height": 1080,
+                "size": 263065,
+                "url": "https://media.sketchfab.com/models/1055405ff2734aeea8e7e827068cee1c/thumbnails/a6c6677b13724c0bbdb99f04f13c4f48/add4e5710d6c443393bbf0d75e7e871a.jpeg"
+            },
+            {
+                "uid": "1bb4bd4a702b4f84ad17cf63f9a4b359",
+                "width": 1024,
+                "height": 576,
+                "size": 60134,
+                "url": "https://media.sketchfab.com/models/1055405ff2734aeea8e7e827068cee1c/thumbnails/a6c6677b13724c0bbdb99f04f13c4f48/fa8eca6a899c407b90a8a9de86113cc0.jpeg"
+            },
+            {
+                "uid": "71a2525835cc4a35b284759d9cf28b59",
+                "width": 720,
+                "height": 405,
+                "size": 35286,
+                "url": "https://media.sketchfab.com/models/1055405ff2734aeea8e7e827068cee1c/thumbnails/a6c6677b13724c0bbdb99f04f13c4f48/f919803f5cdf456dbf28b0044ef8b71a.jpeg"
+            },
+            {
+                "uid": "0cbb352036834e7d935bc2deb318828c",
+                "width": 256,
+                "height": 144,
+                "size": 7940,
+                "url": "https://media.sketchfab.com/models/1055405ff2734aeea8e7e827068cee1c/thumbnails/a6c6677b13724c0bbdb99f04f13c4f48/006225c4397641e1819d195670e0a8be.jpeg"
+            },
+            {
+                "uid": "b0f0b038b70c41619d3cdf4f68bc5e1a",
+                "width": 64,
+                "height": 36,
+                "size": 1575,
+                "url": "https://media.sketchfab.com/models/1055405ff2734aeea8e7e827068cee1c/thumbnails/a6c6677b13724c0bbdb99f04f13c4f48/1ba5701b0eb248fc94b8469c7a58c2d8.jpeg"
+            }
+        ]
+    },
+    "uid": "1055405ff2734aeea8e7e827068cee1c",
+    "uri": "https://api.sketchfab.com/v3/models/1055405ff2734aeea8e7e827068cee1c",
+    "user": {
+        "uid": "3dfd79ab30074372adc0b5637eefc741",
+        "username": "DodoBabypop",
+        "displayName": "DodoBabypop",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/DodoBabypop",
+        "avatar": {
+            "uid": "dc4cb72a6799419398c2eabe5aab21af",
+            "uri": "https://api.sketchfab.com/v3/avatars/dc4cb72a6799419398c2eabe5aab21af",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1095,
+                    "url": "https://media.sketchfab.com/avatars/dc4cb72a6799419398c2eabe5aab21af/b17e79cfc59c459a8fa19cc409c95edb.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1493,
+                    "url": "https://media.sketchfab.com/avatars/dc4cb72a6799419398c2eabe5aab21af/436b28064473431f9a8a4ac79fc9db6c.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2817,
+                    "url": "https://media.sketchfab.com/avatars/dc4cb72a6799419398c2eabe5aab21af/13ff85e13eb2415cbd67f98b01fa9591.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3218,
+                    "url": "https://media.sketchfab.com/avatars/dc4cb72a6799419398c2eabe5aab21af/1f05ca8f356a4090bddad7a64a9971d3.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3dfd79ab30074372adc0b5637eefc741"
+    },
+    "vertexCount": 1109,
+    "viewCount": 70,
+    "viewerUrl": "https://sketchfab.com/3d-models/tva-time-theater-1055405ff2734aeea8e7e827068cee1c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "From marvel studio's *Loki*, the time theater is a stylized room used for interrogating variants in the show.",
+    "price": null,
+    "downloadCount": 9,
+    "editorUrl": "https://sketchfab.com/models/1055405ff2734aeea8e7e827068cee1c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T16:45:44.316779",
+    "pbrType": null,
+    "textureCount": 5,
+    "materialCount": 6
+}

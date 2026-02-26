@@ -1,0 +1,227 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+            "name": "Nature & Plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/categories/1a99e2b67fc84de0b3ea0d3925208a04",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/98a605cec9718b6f02f1a5759039a5ad-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/1a99e2b67fc84de0b3ea0d3925208a04/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-19T16:10:01.231844",
+    "embedUrl": "https://sketchfab.com/models/0be78e674ad545fbbff50f478f792c8b/embed",
+    "faceCount": 28216,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Old crooked tree",
+    "publishedAt": "2026-02-19T17:48:45.646446",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tree",
+            "slug": "tree",
+            "uri": "https://api.sketchfab.com/v3/tags/tree"
+        },
+        {
+            "name": "forest",
+            "slug": "forest",
+            "uri": "https://api.sketchfab.com/v3/tags/forest"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "branches",
+            "slug": "branches",
+            "uri": "https://api.sketchfab.com/v3/tags/branches"
+        },
+        {
+            "name": "creepy",
+            "slug": "creepy",
+            "uri": "https://api.sketchfab.com/v3/tags/creepy"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "midpoly",
+            "slug": "midpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/midpoly"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "crooked",
+            "slug": "crooked",
+            "uri": "https://api.sketchfab.com/v3/tags/crooked"
+        },
+        {
+            "name": "nature",
+            "slug": "nature",
+            "uri": "https://api.sketchfab.com/v3/tags/nature"
+        },
+        {
+            "name": "artist",
+            "slug": "artist",
+            "uri": "https://api.sketchfab.com/v3/tags/artist"
+        },
+        {
+            "name": "dry",
+            "slug": "dry",
+            "uri": "https://api.sketchfab.com/v3/tags/dry"
+        },
+        {
+            "name": "drought",
+            "slug": "drought",
+            "uri": "https://api.sketchfab.com/v3/tags/drought"
+        },
+        {
+            "name": "semi-realistic",
+            "slug": "semi-realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/semi-realistic"
+        },
+        {
+            "name": "game-model",
+            "slug": "game-model",
+            "uri": "https://api.sketchfab.com/v3/tags/game-model"
+        },
+        {
+            "name": "nature-plants",
+            "slug": "nature-plants",
+            "uri": "https://api.sketchfab.com/v3/tags/nature-plants"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "fa8dd70c479a45188758059a26e9b166",
+                "width": 1920,
+                "height": 1080,
+                "size": 113983,
+                "url": "https://media.sketchfab.com/models/0be78e674ad545fbbff50f478f792c8b/thumbnails/e17c2af94c30475f83be1ebd75b9dae8/166205a9a7dc485c9a0c6c9b6558fe28.jpeg"
+            },
+            {
+                "uid": "f30d3d3f6c1f4fe4954d2043a41b638b",
+                "width": 1024,
+                "height": 576,
+                "size": 36463,
+                "url": "https://media.sketchfab.com/models/0be78e674ad545fbbff50f478f792c8b/thumbnails/e17c2af94c30475f83be1ebd75b9dae8/43c654b276cc4200af767e093f3342c6.jpeg"
+            },
+            {
+                "uid": "7c396a3026724e91bb7ab5691df2047f",
+                "width": 720,
+                "height": 405,
+                "size": 21449,
+                "url": "https://media.sketchfab.com/models/0be78e674ad545fbbff50f478f792c8b/thumbnails/e17c2af94c30475f83be1ebd75b9dae8/426ffd8f17434e1280b251154cee4fa6.jpeg"
+            },
+            {
+                "uid": "6a74936f98c84d99a5cc76dc64feb05f",
+                "width": 256,
+                "height": 144,
+                "size": 4267,
+                "url": "https://media.sketchfab.com/models/0be78e674ad545fbbff50f478f792c8b/thumbnails/e17c2af94c30475f83be1ebd75b9dae8/afa1bacef4a8455cb9416e367b5d99b9.jpeg"
+            },
+            {
+                "uid": "24bcd1e227f341c3aa5c441296dbf155",
+                "width": 64,
+                "height": 36,
+                "size": 1029,
+                "url": "https://media.sketchfab.com/models/0be78e674ad545fbbff50f478f792c8b/thumbnails/e17c2af94c30475f83be1ebd75b9dae8/0284d1920d5646eeb3a46272b4d2b6d7.jpeg"
+            }
+        ]
+    },
+    "uid": "0be78e674ad545fbbff50f478f792c8b",
+    "uri": "https://api.sketchfab.com/v3/models/0be78e674ad545fbbff50f478f792c8b",
+    "user": {
+        "uid": "65e23f5120e94fed81a1a0e9ddfaac00",
+        "username": "big000f",
+        "displayName": "b000f",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/big000f",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/65e23f5120e94fed81a1a0e9ddfaac00"
+    },
+    "vertexCount": 14110,
+    "viewCount": 56,
+    "viewerUrl": "https://sketchfab.com/3d-models/old-crooked-tree-0be78e674ad545fbbff50f478f792c8b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Old crooked tree. Made in Blender, textured in Substance Painter. ~14k faces.",
+    "price": null,
+    "downloadCount": 23,
+    "editorUrl": "https://sketchfab.com/models/0be78e674ad545fbbff50f478f792c8b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T17:48:46.271406",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

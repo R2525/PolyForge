@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-27T08:46:53.130293",
+    "embedUrl": "https://sketchfab.com/models/1780cdf594a748518b5e4df4c06bf8e6/embed",
+    "faceCount": 12384,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "Medieval Heater Shield Retextured",
+    "publishedAt": "2025-11-27T08:54:17.354468",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "heater",
+            "slug": "heater",
+            "uri": "https://api.sketchfab.com/v3/tags/heater"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "76ee558d1f7549538cea899d01e14421",
+                "width": 1920,
+                "height": 1080,
+                "size": 88287,
+                "url": "https://media.sketchfab.com/models/1780cdf594a748518b5e4df4c06bf8e6/thumbnails/5a1cec2dc972474397460e8d3f574697/417d754ac0c6437a8e1ff7e5615d4e01.jpeg"
+            },
+            {
+                "uid": "68394f1232da4ef59f65e956a0901cc0",
+                "width": 1024,
+                "height": 576,
+                "size": 25438,
+                "url": "https://media.sketchfab.com/models/1780cdf594a748518b5e4df4c06bf8e6/thumbnails/5a1cec2dc972474397460e8d3f574697/48c17e83f35b4ae0bf9bf0a74f46c3e9.jpeg"
+            },
+            {
+                "uid": "672e288452a048c8af1ec1585c5294ff",
+                "width": 720,
+                "height": 405,
+                "size": 14151,
+                "url": "https://media.sketchfab.com/models/1780cdf594a748518b5e4df4c06bf8e6/thumbnails/5a1cec2dc972474397460e8d3f574697/5afe4e631f22426b894bf6738d71bcb2.jpeg"
+            },
+            {
+                "uid": "dd7abd309cdc4be388a5d4fe0b272775",
+                "width": 256,
+                "height": 144,
+                "size": 2976,
+                "url": "https://media.sketchfab.com/models/1780cdf594a748518b5e4df4c06bf8e6/thumbnails/5a1cec2dc972474397460e8d3f574697/5434b799e8894ade8b229958ef438133.jpeg"
+            },
+            {
+                "uid": "cbe9ac1c646643b283e395fbf619e2c5",
+                "width": 64,
+                "height": 36,
+                "size": 1021,
+                "url": "https://media.sketchfab.com/models/1780cdf594a748518b5e4df4c06bf8e6/thumbnails/5a1cec2dc972474397460e8d3f574697/073403164bc84e0397c10ae63c77c9f2.jpeg"
+            }
+        ]
+    },
+    "uid": "1780cdf594a748518b5e4df4c06bf8e6",
+    "uri": "https://api.sketchfab.com/v3/models/1780cdf594a748518b5e4df4c06bf8e6",
+    "user": {
+        "uid": "78bdb83d868c4f4a93404e75fb554dff",
+        "username": "vilovitz",
+        "displayName": "vilovitz",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/vilovitz",
+        "avatar": {
+            "uid": "fd742455d49c4b28ba470217ae0d85ea",
+            "uri": "https://api.sketchfab.com/v3/avatars/fd742455d49c4b28ba470217ae0d85ea",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 952,
+                    "url": "https://media.sketchfab.com/avatars/fd742455d49c4b28ba470217ae0d85ea/a7e002b531e948968c9c5e25af90cfd1.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1286,
+                    "url": "https://media.sketchfab.com/avatars/fd742455d49c4b28ba470217ae0d85ea/bbd8402a32834dcaa22da4ca2b74712f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3062,
+                    "url": "https://media.sketchfab.com/avatars/fd742455d49c4b28ba470217ae0d85ea/c38607b28607435a98f68b69de9d2384.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3577,
+                    "url": "https://media.sketchfab.com/avatars/fd742455d49c4b28ba470217ae0d85ea/ca1f4a41b5c5478880156cf120aaa907.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/78bdb83d868c4f4a93404e75fb554dff"
+    },
+    "vertexCount": 6395,
+    "viewCount": 40,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-heater-shield-retextured-1780cdf594a748518b5e4df4c06bf8e6",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A retextured version of my heater shield model.",
+    "price": null,
+    "downloadCount": 12,
+    "editorUrl": "https://sketchfab.com/models/1780cdf594a748518b5e4df4c06bf8e6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-27T08:54:17.515970",
+    "pbrType": "metalness",
+    "textureCount": 20,
+    "materialCount": 5
+}

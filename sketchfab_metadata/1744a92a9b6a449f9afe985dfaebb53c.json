@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T04:14:58.846176",
+    "embedUrl": "https://sketchfab.com/models/1744a92a9b6a449f9afe985dfaebb53c/embed",
+    "faceCount": 6868,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Circle Arc Window 108x25x108",
+    "publishedAt": "2026-02-22T04:16:42.536336",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "circle",
+            "slug": "circle",
+            "uri": "https://api.sketchfab.com/v3/tags/circle"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "window",
+            "slug": "window",
+            "uri": "https://api.sketchfab.com/v3/tags/window"
+        },
+        {
+            "name": "arc",
+            "slug": "arc",
+            "uri": "https://api.sketchfab.com/v3/tags/arc"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "plalace",
+            "slug": "plalace",
+            "uri": "https://api.sketchfab.com/v3/tags/plalace"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "1078066cb98a4ef490fb137a98c3c1ab",
+                "width": 1920,
+                "height": 1080,
+                "size": 83697,
+                "url": "https://media.sketchfab.com/models/1744a92a9b6a449f9afe985dfaebb53c/thumbnails/c2cb6afd209d4b4192f3fa71a69248e0/e632ab4031764b218a5bdc2ead321d9b.jpeg"
+            },
+            {
+                "uid": "46a2778c761045de858c382f020d78f4",
+                "width": 1024,
+                "height": 576,
+                "size": 24476,
+                "url": "https://media.sketchfab.com/models/1744a92a9b6a449f9afe985dfaebb53c/thumbnails/c2cb6afd209d4b4192f3fa71a69248e0/9d122ea6e5bc43f48ad3a64a6ab57aa1.jpeg"
+            },
+            {
+                "uid": "2d63690c99b644a0acbc403b2f90787d",
+                "width": 720,
+                "height": 405,
+                "size": 13249,
+                "url": "https://media.sketchfab.com/models/1744a92a9b6a449f9afe985dfaebb53c/thumbnails/c2cb6afd209d4b4192f3fa71a69248e0/acdc87a9ed724e54a2d2a159a7f31b2f.jpeg"
+            },
+            {
+                "uid": "4314a55038d148be8d7128a64be7cece",
+                "width": 256,
+                "height": 144,
+                "size": 2547,
+                "url": "https://media.sketchfab.com/models/1744a92a9b6a449f9afe985dfaebb53c/thumbnails/c2cb6afd209d4b4192f3fa71a69248e0/052f9a68e1c647a2b049fd3cf192a2db.jpeg"
+            },
+            {
+                "uid": "0946d0eb2e7547e1a2c3446263712604",
+                "width": 64,
+                "height": 36,
+                "size": 880,
+                "url": "https://media.sketchfab.com/models/1744a92a9b6a449f9afe985dfaebb53c/thumbnails/c2cb6afd209d4b4192f3fa71a69248e0/6d0f695ce18e47bfa09aaa7321e6882f.jpeg"
+            }
+        ]
+    },
+    "uid": "1744a92a9b6a449f9afe985dfaebb53c",
+    "uri": "https://api.sketchfab.com/v3/models/1744a92a9b6a449f9afe985dfaebb53c",
+    "user": {
+        "uid": "5df7c9a264394e39bfba98fe3ce0515a",
+        "username": "jasonxpec",
+        "displayName": "jasonxpec",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/jasonxpec",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/5df7c9a264394e39bfba98fe3ce0515a"
+    },
+    "vertexCount": 3424,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/circle-arc-window-108x25x108-1744a92a9b6a449f9afe985dfaebb53c",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the source format.The Converted version is intended only for use in the web viewer. In the original file, the following are fully preserved:✔ native scene structure✔ complete materials without reduction✔ correct PBR texture maps✔ correct object namesIf you plan to use this model in production, choose the source file.Circle Arc Window 108x25x108 for modular building",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/1744a92a9b6a449f9afe985dfaebb53c/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T04:16:42.842617",
+    "pbrType": null,
+    "textureCount": 6,
+    "materialCount": 3
+}

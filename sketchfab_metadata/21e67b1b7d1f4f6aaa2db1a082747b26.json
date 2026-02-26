@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T21:10:02.207352",
+    "embedUrl": "https://sketchfab.com/models/21e67b1b7d1f4f6aaa2db1a082747b26/embed",
+    "faceCount": 575574,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "18th Century Steam Tractor",
+    "publishedAt": "2026-02-20T21:15:15.338695",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "industry",
+            "slug": "industry",
+            "uri": "https://api.sketchfab.com/v3/tags/industry"
+        },
+        {
+            "name": "tractor",
+            "slug": "tractor",
+            "uri": "https://api.sketchfab.com/v3/tags/tractor"
+        },
+        {
+            "name": "Machine",
+            "slug": "machine",
+            "uri": "https://api.sketchfab.com/v3/tags/machine"
+        },
+        {
+            "name": "steam",
+            "slug": "steam",
+            "uri": "https://api.sketchfab.com/v3/tags/steam"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2f6def497b654cbfb22575092171eafd",
+                "width": 1920,
+                "height": 1080,
+                "size": 59118,
+                "url": "https://media.sketchfab.com/models/21e67b1b7d1f4f6aaa2db1a082747b26/thumbnails/303de150d09e41b79855e2caa192b7ce/bba9abdfd429449d956b127afb0d232c.jpeg"
+            },
+            {
+                "uid": "87a7efe17bd940c5b24294000aae1ee5",
+                "width": 1024,
+                "height": 576,
+                "size": 19704,
+                "url": "https://media.sketchfab.com/models/21e67b1b7d1f4f6aaa2db1a082747b26/thumbnails/303de150d09e41b79855e2caa192b7ce/0ec9136658a84832846af96f5e76eb55.jpeg"
+            },
+            {
+                "uid": "f674c966cc8348ce86a0da95048b88d9",
+                "width": 720,
+                "height": 405,
+                "size": 11451,
+                "url": "https://media.sketchfab.com/models/21e67b1b7d1f4f6aaa2db1a082747b26/thumbnails/303de150d09e41b79855e2caa192b7ce/ce470697d28f492794a93ef263b7c45d.jpeg"
+            },
+            {
+                "uid": "d2013a7960a14feaa52420528c5c447d",
+                "width": 256,
+                "height": 144,
+                "size": 2666,
+                "url": "https://media.sketchfab.com/models/21e67b1b7d1f4f6aaa2db1a082747b26/thumbnails/303de150d09e41b79855e2caa192b7ce/eed08416d0294816b107fb1f3d07c8d7.jpeg"
+            },
+            {
+                "uid": "166700915cc944d982420a32d3bea4cb",
+                "width": 64,
+                "height": 36,
+                "size": 909,
+                "url": "https://media.sketchfab.com/models/21e67b1b7d1f4f6aaa2db1a082747b26/thumbnails/303de150d09e41b79855e2caa192b7ce/a20727672f374f51935ccb22f2ce8211.jpeg"
+            }
+        ]
+    },
+    "uid": "21e67b1b7d1f4f6aaa2db1a082747b26",
+    "uri": "https://api.sketchfab.com/v3/models/21e67b1b7d1f4f6aaa2db1a082747b26",
+    "user": {
+        "uid": "f3afbbee064441fd8bb7d7b2a028b1aa",
+        "username": "nekrosavant",
+        "displayName": "nekrosavant",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/nekrosavant",
+        "avatar": {
+            "uid": "d9c55d6c696b4b108d835ab408f38578",
+            "uri": "https://api.sketchfab.com/v3/avatars/d9c55d6c696b4b108d835ab408f38578",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 819,
+                    "url": "https://media.sketchfab.com/avatars/d9c55d6c696b4b108d835ab408f38578/752ee787bd0b4b18840ec9aa820da762.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1377,
+                    "url": "https://media.sketchfab.com/avatars/d9c55d6c696b4b108d835ab408f38578/4ea065fb55804a59993c8b4990b7442b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3685,
+                    "url": "https://media.sketchfab.com/avatars/d9c55d6c696b4b108d835ab408f38578/f4d40cf731414df5adb78c24559dfe77.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4351,
+                    "url": "https://media.sketchfab.com/avatars/d9c55d6c696b4b108d835ab408f38578/8860b80beace4475a75607c20c96547c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f3afbbee064441fd8bb7d7b2a028b1aa"
+    },
+    "vertexCount": 292119,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/18th-century-steam-tractor-21e67b1b7d1f4f6aaa2db1a082747b26",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the original file.The converted file is intended exclusively for browser preview. In the original file, the following are fully preserved:✔ original scene hierarchy✔ unsimplified materials✔ proper texture maps✔ proper object namingIf you plan to use this model in production, select the original version.18th Century Steam Tractor fresh from the factory",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/21e67b1b7d1f4f6aaa2db1a082747b26/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T21:15:15.512316",
+    "pbrType": "metalness",
+    "textureCount": 12,
+    "materialCount": 3
+}

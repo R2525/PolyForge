@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T19:56:34.632455",
+    "embedUrl": "https://sketchfab.com/models/283a3116ba1d40999ac3349434011783/embed",
+    "faceCount": 48831,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Circus Baby Robot Rigged",
+    "publishedAt": "2026-02-20T20:00:07.321082",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "baby",
+            "slug": "baby",
+            "uri": "https://api.sketchfab.com/v3/tags/baby"
+        },
+        {
+            "name": "circus",
+            "slug": "circus",
+            "uri": "https://api.sketchfab.com/v3/tags/circus"
+        },
+        {
+            "name": "scary",
+            "slug": "scary",
+            "uri": "https://api.sketchfab.com/v3/tags/scary"
+        },
+        {
+            "name": "fnaf",
+            "slug": "fnaf",
+            "uri": "https://api.sketchfab.com/v3/tags/fnaf"
+        },
+        {
+            "name": "robot",
+            "slug": "robot",
+            "uri": "https://api.sketchfab.com/v3/tags/robot"
+        },
+        {
+            "name": "rigged",
+            "slug": "rigged",
+            "uri": "https://api.sketchfab.com/v3/tags/rigged"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "3318d69092e243088854c75abbc14259",
+                "width": 1920,
+                "height": 1080,
+                "size": 78637,
+                "url": "https://media.sketchfab.com/models/283a3116ba1d40999ac3349434011783/thumbnails/00010050d23b4d7989e3bc0f73075827/29ad88642bb149ada5fa389cd1eca1f1.jpeg"
+            },
+            {
+                "uid": "e0044d0734d447189263f69ee6216b02",
+                "width": 1024,
+                "height": 576,
+                "size": 27077,
+                "url": "https://media.sketchfab.com/models/283a3116ba1d40999ac3349434011783/thumbnails/00010050d23b4d7989e3bc0f73075827/a6944763f491486f8d3dfa61fd58c783.jpeg"
+            },
+            {
+                "uid": "ad6fabe91cfd4d899d0c67e0ebbf8151",
+                "width": 720,
+                "height": 405,
+                "size": 16088,
+                "url": "https://media.sketchfab.com/models/283a3116ba1d40999ac3349434011783/thumbnails/00010050d23b4d7989e3bc0f73075827/50ce50271bb64940a5be02aa0ce22eef.jpeg"
+            },
+            {
+                "uid": "5b9688ea0b2540af91c6d6b2cdc091d6",
+                "width": 256,
+                "height": 144,
+                "size": 3594,
+                "url": "https://media.sketchfab.com/models/283a3116ba1d40999ac3349434011783/thumbnails/00010050d23b4d7989e3bc0f73075827/a2f1cf23ebc644ce9f232a6c4bdcaa32.jpeg"
+            },
+            {
+                "uid": "c9d1f7cc3d82481485a023f642bf2f30",
+                "width": 64,
+                "height": 36,
+                "size": 994,
+                "url": "https://media.sketchfab.com/models/283a3116ba1d40999ac3349434011783/thumbnails/00010050d23b4d7989e3bc0f73075827/7faf11d5a77943ebaa6b57e78a303dff.jpeg"
+            }
+        ]
+    },
+    "uid": "283a3116ba1d40999ac3349434011783",
+    "uri": "https://api.sketchfab.com/v3/models/283a3116ba1d40999ac3349434011783",
+    "user": {
+        "uid": "af539f8169154b01b6119aaf25b0ab34",
+        "username": "paeckelisnas1972",
+        "displayName": "paeckelisnas1972",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/paeckelisnas1972",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/af539f8169154b01b6119aaf25b0ab34"
+    },
+    "vertexCount": 25351,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/circus-baby-robot-rigged-283a3116ba1d40999ac3349434011783",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the Original format.The viewer version is intended exclusively for browser preview. In the source file, the following are fully preserved:✔ full scene structure✔ complete materials without reduction✔ correct PBR texture maps✔ original object namesIf you are going to integrate the model into a project, select the original version.A circus baby animatronic of a girl with a skirt and a orange haircut.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/283a3116ba1d40999ac3349434011783/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T20:00:07.513910",
+    "pbrType": "metalness",
+    "textureCount": 8,
+    "materialCount": 2
+}

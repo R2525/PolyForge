@@ -1,0 +1,197 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-12-05T23:22:53.621985",
+    "embedUrl": "https://sketchfab.com/models/08fa3e7729a04640897614a86243a274/embed",
+    "faceCount": 87548,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/2628dbe5140a4e9592126c8df566c0b7",
+        "label": "CC Attribution-NonCommercial-ShareAlike",
+        "fullName": "CC Attribution-NonCommercial-ShareAlike",
+        "requirements": "Author must be credited. No commercial use. Modified versions must have the same license.",
+        "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "slug": "by-nc-sa"
+    },
+    "likeCount": 38,
+    "name": "2015 J's Racing Type S Acura RSX DC5",
+    "publishedAt": "2025-12-05T23:58:09.914430",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "acura",
+            "slug": "acura",
+            "uri": "https://api.sketchfab.com/v3/tags/acura"
+        },
+        {
+            "name": "2015",
+            "slug": "2015",
+            "uri": "https://api.sketchfab.com/v3/tags/2015"
+        },
+        {
+            "name": "bodykit",
+            "slug": "bodykit",
+            "uri": "https://api.sketchfab.com/v3/tags/bodykit"
+        },
+        {
+            "name": "dc5",
+            "slug": "dc5",
+            "uri": "https://api.sketchfab.com/v3/tags/dc5"
+        },
+        {
+            "name": "rsx",
+            "slug": "rsx",
+            "uri": "https://api.sketchfab.com/v3/tags/rsx"
+        },
+        {
+            "name": "acura-rsx",
+            "slug": "acura-rsx",
+            "uri": "https://api.sketchfab.com/v3/tags/acura-rsx"
+        },
+        {
+            "name": "type-s",
+            "slug": "type-s",
+            "uri": "https://api.sketchfab.com/v3/tags/type-s"
+        },
+        {
+            "name": "need-for-speed-heat",
+            "slug": "need-for-speed-heat",
+            "uri": "https://api.sketchfab.com/v3/tags/need-for-speed-heat"
+        },
+        {
+            "name": "rsx-type-s",
+            "slug": "rsx-type-s",
+            "uri": "https://api.sketchfab.com/v3/tags/rsx-type-s"
+        },
+        {
+            "name": "js-racing",
+            "slug": "js-racing",
+            "uri": "https://api.sketchfab.com/v3/tags/js-racing"
+        },
+        {
+            "name": "acura-rsx-type-s",
+            "slug": "acura-rsx-type-s",
+            "uri": "https://api.sketchfab.com/v3/tags/acura-rsx-type-s"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a7cc777cd9334404b83d82737b5af9bb",
+                "width": 1920,
+                "height": 1080,
+                "size": 341074,
+                "url": "https://media.sketchfab.com/models/08fa3e7729a04640897614a86243a274/thumbnails/494742e69e9941d5945861c58efa463b/0e3371e31e9d4e37a717892e819bdd73.jpeg"
+            },
+            {
+                "uid": "aab8f8d22a3a458fb9c7acbc0d1b617f",
+                "width": 1024,
+                "height": 576,
+                "size": 58061,
+                "url": "https://media.sketchfab.com/models/08fa3e7729a04640897614a86243a274/thumbnails/494742e69e9941d5945861c58efa463b/c960fc0cfda1421092dd25b3d0a5bea7.jpeg"
+            },
+            {
+                "uid": "3f51f8e6bfb24351b666f40199513afb",
+                "width": 720,
+                "height": 405,
+                "size": 33932,
+                "url": "https://media.sketchfab.com/models/08fa3e7729a04640897614a86243a274/thumbnails/494742e69e9941d5945861c58efa463b/39653c8269da4d609930bc37d0a1f546.jpeg"
+            },
+            {
+                "uid": "57a6a18128164f508c05bbee620740bb",
+                "width": 256,
+                "height": 144,
+                "size": 7678,
+                "url": "https://media.sketchfab.com/models/08fa3e7729a04640897614a86243a274/thumbnails/494742e69e9941d5945861c58efa463b/92117e7c0001425f840b931292b81dc6.jpeg"
+            },
+            {
+                "uid": "60ad1d1e4773420fb3fa57510a5e3056",
+                "width": 64,
+                "height": 36,
+                "size": 1508,
+                "url": "https://media.sketchfab.com/models/08fa3e7729a04640897614a86243a274/thumbnails/494742e69e9941d5945861c58efa463b/f0fc1e209bf24dc2ad18b9001adf6524.jpeg"
+            }
+        ]
+    },
+    "uid": "08fa3e7729a04640897614a86243a274",
+    "uri": "https://api.sketchfab.com/v3/models/08fa3e7729a04640897614a86243a274",
+    "user": {
+        "uid": "f55cf43a9e4c446d813b75376e41cdab",
+        "username": "ddiaz-design",
+        "displayName": "Ddiaz Design",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/ddiaz-design",
+        "avatar": {
+            "uid": "21b60b92b1aa4fcd9833347044399b57",
+            "uri": "https://api.sketchfab.com/v3/avatars/21b60b92b1aa4fcd9833347044399b57",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 549,
+                    "url": "https://media.sketchfab.com/avatars/21b60b92b1aa4fcd9833347044399b57/b685fa4f0397486099d29f7189ff7d3f.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 883,
+                    "url": "https://media.sketchfab.com/avatars/21b60b92b1aa4fcd9833347044399b57/1a148a5faecf4f7eb5374a9903829faa.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1781,
+                    "url": "https://media.sketchfab.com/avatars/21b60b92b1aa4fcd9833347044399b57/36c28e85d64147bebdd9815f78a833d6.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 1813,
+                    "url": "https://media.sketchfab.com/avatars/21b60b92b1aa4fcd9833347044399b57/e5bce64685f440cca1731df11d8a3633.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f55cf43a9e4c446d813b75376e41cdab"
+    },
+    "vertexCount": 49877,
+    "viewCount": 626,
+    "viewerUrl": "https://sketchfab.com/3d-models/2015-js-racing-type-s-acura-rsx-dc5-08fa3e7729a04640897614a86243a274",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Repositorio de modelos 3D de Ddiaz Design\n\n![](https://www.ontherunmotorsports.com/cdn/shop/products/J_SRACINGRSXDC5StreetVer.TotalAeroSystemCFRP_earlymodel_800x.jpg?v=1613108061)\n\nJ'S RACING RSX DC5 Street Ver. Total Aero System CFRP\n\nJ'S Racing Street Ver. system is an expression of our consistent “Intension”. The system will provide an excellent match to Street Ver hood and 3D GT Wing.\n\nInstagram del proyecto: https://www.instagram.com/ddiaz.design/\n\nPaypal Donations: https://paypal.me/sergiodd\n\nBased on a Need For Speed Heat 3d model\n\nCredits: https://www.facebook.com/p/GM25-100042237200164/",
+    "price": null,
+    "downloadCount": 163,
+    "editorUrl": "https://sketchfab.com/models/08fa3e7729a04640897614a86243a274/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-05T23:58:10.073808",
+    "pbrType": null,
+    "textureCount": 22,
+    "materialCount": 29
+}

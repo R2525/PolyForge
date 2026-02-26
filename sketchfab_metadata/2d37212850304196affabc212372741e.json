@@ -1,0 +1,329 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-09T20:40:29.289688",
+    "embedUrl": "https://sketchfab.com/models/2d37212850304196affabc212372741e/embed",
+    "faceCount": 12690,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 9,
+    "name": "Halo Magnum",
+    "publishedAt": "2026-02-09T20:41:48.659630",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "5",
+            "slug": "5",
+            "uri": "https://api.sketchfab.com/v3/tags/5"
+        },
+        {
+            "name": "fan",
+            "slug": "fan",
+            "uri": "https://api.sketchfab.com/v3/tags/fan"
+        },
+        {
+            "name": "handgun",
+            "slug": "handgun",
+            "uri": "https://api.sketchfab.com/v3/tags/handgun"
+        },
+        {
+            "name": "hard",
+            "slug": "hard",
+            "uri": "https://api.sketchfab.com/v3/tags/hard"
+        },
+        {
+            "name": "surface",
+            "slug": "surface",
+            "uri": "https://api.sketchfab.com/v3/tags/surface"
+        },
+        {
+            "name": "chief",
+            "slug": "chief",
+            "uri": "https://api.sketchfab.com/v3/tags/chief"
+        },
+        {
+            "name": "master",
+            "slug": "master",
+            "uri": "https://api.sketchfab.com/v3/tags/master"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "engine",
+            "slug": "engine",
+            "uri": "https://api.sketchfab.com/v3/tags/engine"
+        },
+        {
+            "name": "Pistol",
+            "slug": "pistol",
+            "uri": "https://api.sketchfab.com/v3/tags/pistol"
+        },
+        {
+            "name": "halo",
+            "slug": "halo",
+            "uri": "https://api.sketchfab.com/v3/tags/halo"
+        },
+        {
+            "name": "tactical",
+            "slug": "tactical",
+            "uri": "https://api.sketchfab.com/v3/tags/tactical"
+        },
+        {
+            "name": "Magnum",
+            "slug": "magnum",
+            "uri": "https://api.sketchfab.com/v3/tags/magnum"
+        },
+        {
+            "name": "Real-time",
+            "slug": "real-time",
+            "uri": "https://api.sketchfab.com/v3/tags/real-time"
+        },
+        {
+            "name": "UNSC",
+            "slug": "unsc",
+            "uri": "https://api.sketchfab.com/v3/tags/unsc"
+        },
+        {
+            "name": "sidekick",
+            "slug": "sidekick",
+            "uri": "https://api.sketchfab.com/v3/tags/sidekick"
+        },
+        {
+            "name": "m6g",
+            "slug": "m6g",
+            "uri": "https://api.sketchfab.com/v3/tags/m6g"
+        },
+        {
+            "name": "m6c",
+            "slug": "m6c",
+            "uri": "https://api.sketchfab.com/v3/tags/m6c"
+        },
+        {
+            "name": "substancepainter",
+            "slug": "substancepainter",
+            "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+        },
+        {
+            "name": "substance",
+            "slug": "substance",
+            "uri": "https://api.sketchfab.com/v3/tags/substance"
+        },
+        {
+            "name": "painter",
+            "slug": "painter",
+            "uri": "https://api.sketchfab.com/v3/tags/painter"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "art",
+            "slug": "art",
+            "uri": "https://api.sketchfab.com/v3/tags/art"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "low",
+            "slug": "low",
+            "uri": "https://api.sketchfab.com/v3/tags/low"
+        },
+        {
+            "name": "poly",
+            "slug": "poly",
+            "uri": "https://api.sketchfab.com/v3/tags/poly"
+        },
+        {
+            "name": "military",
+            "slug": "military",
+            "uri": "https://api.sketchfab.com/v3/tags/military"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        },
+        {
+            "name": "ue5",
+            "slug": "ue5",
+            "uri": "https://api.sketchfab.com/v3/tags/ue5"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e77b37d0a3924aaab3c17221cb6ab89c",
+                "width": 1920,
+                "height": 1080,
+                "size": 199022,
+                "url": "https://media.sketchfab.com/models/2d37212850304196affabc212372741e/thumbnails/5516793fae5a448198ae8879c614c641/4455447452154f41b24a9000ed67a101.jpeg"
+            },
+            {
+                "uid": "6bd48c4233b6463a99c6a52d2dfd1128",
+                "width": 1024,
+                "height": 576,
+                "size": 57736,
+                "url": "https://media.sketchfab.com/models/2d37212850304196affabc212372741e/thumbnails/5516793fae5a448198ae8879c614c641/35e18676bbbe42e3a661742dfc2149db.jpeg"
+            },
+            {
+                "uid": "bbdcd7e94ab4429480dc88d678053853",
+                "width": 720,
+                "height": 405,
+                "size": 33059,
+                "url": "https://media.sketchfab.com/models/2d37212850304196affabc212372741e/thumbnails/5516793fae5a448198ae8879c614c641/0bdceeb10b064f049c9a1c741c39beef.jpeg"
+            },
+            {
+                "uid": "f46e0af4d7c2414580f79fc06437d45d",
+                "width": 256,
+                "height": 144,
+                "size": 6592,
+                "url": "https://media.sketchfab.com/models/2d37212850304196affabc212372741e/thumbnails/5516793fae5a448198ae8879c614c641/6dff67dcad4f45fab8f50ffe8c0758c5.jpeg"
+            },
+            {
+                "uid": "47c3a1948d904a4db8d77bbb738bb185",
+                "width": 64,
+                "height": 36,
+                "size": 1228,
+                "url": "https://media.sketchfab.com/models/2d37212850304196affabc212372741e/thumbnails/5516793fae5a448198ae8879c614c641/6f7cea243119412480b9d500d7f739fc.jpeg"
+            }
+        ]
+    },
+    "uid": "2d37212850304196affabc212372741e",
+    "uri": "https://api.sketchfab.com/v3/models/2d37212850304196affabc212372741e",
+    "user": {
+        "uid": "7a70d3ca7b8b456f898cfdcab23b0407",
+        "username": "matthall",
+        "displayName": "matthall",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/matthall",
+        "avatar": {
+            "uid": "8c2abc31f90644c2af1c0a1cc6d519dc",
+            "uri": "https://api.sketchfab.com/v3/avatars/8c2abc31f90644c2af1c0a1cc6d519dc",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1021,
+                    "url": "https://media.sketchfab.com/avatars/8c2abc31f90644c2af1c0a1cc6d519dc/825072f3564649df99d09938e9dc71bb.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1429,
+                    "url": "https://media.sketchfab.com/avatars/8c2abc31f90644c2af1c0a1cc6d519dc/3745a77f056945f6b3bb742445790f02.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3047,
+                    "url": "https://media.sketchfab.com/avatars/8c2abc31f90644c2af1c0a1cc6d519dc/9b04e93072c94215bcafe1e741d80022.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3510,
+                    "url": "https://media.sketchfab.com/avatars/8c2abc31f90644c2af1c0a1cc6d519dc/896960e5f4494e46ba18e6ced198c21f.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/7a70d3ca7b8b456f898cfdcab23b0407"
+    },
+    "vertexCount": 6558,
+    "viewCount": 190,
+    "viewerUrl": "https://sketchfab.com/3d-models/halo-magnum-2d37212850304196affabc212372741e",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Project for uni. Based off concept art",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/2d37212850304196affabc212372741e/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "SubstancePainter",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-09T22:36:23.792125",
+    "pbrType": "metalness",
+    "textureCount": 7,
+    "materialCount": 1
+}

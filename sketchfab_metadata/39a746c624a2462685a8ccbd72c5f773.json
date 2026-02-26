@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-12T09:01:53.906955",
+    "embedUrl": "https://sketchfab.com/models/39a746c624a2462685a8ccbd72c5f773/embed",
+    "faceCount": 17930,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 15,
+    "name": "DCA Aspide (WARNO)",
+    "publishedAt": "2026-02-12T12:59:03.436328",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "8fef4501f5404f4789c125ce0b778bea",
+                "width": 1920,
+                "height": 1080,
+                "size": 65339,
+                "url": "https://media.sketchfab.com/models/39a746c624a2462685a8ccbd72c5f773/thumbnails/3a8707e646db4b16b773b62901b52123/328ec12342ef46e6ac68748b27331941.jpeg"
+            },
+            {
+                "uid": "7393369cb3ac413bb5e3a7b8ce40fe3d",
+                "width": 1024,
+                "height": 576,
+                "size": 20320,
+                "url": "https://media.sketchfab.com/models/39a746c624a2462685a8ccbd72c5f773/thumbnails/3a8707e646db4b16b773b62901b52123/a1f37003aa624654a6a3930693862bad.jpeg"
+            },
+            {
+                "uid": "25b4b07adaac41279f375616f833effb",
+                "width": 720,
+                "height": 405,
+                "size": 11805,
+                "url": "https://media.sketchfab.com/models/39a746c624a2462685a8ccbd72c5f773/thumbnails/3a8707e646db4b16b773b62901b52123/6b9a659f41d447028d56cf237368fb6c.jpeg"
+            },
+            {
+                "uid": "d52bf7ac70724099a6684ba09eb2e5b9",
+                "width": 256,
+                "height": 144,
+                "size": 2574,
+                "url": "https://media.sketchfab.com/models/39a746c624a2462685a8ccbd72c5f773/thumbnails/3a8707e646db4b16b773b62901b52123/73f77c03bd7142d2b2bd2c09a10702dc.jpeg"
+            },
+            {
+                "uid": "5f735893523a4a4a8338231a8c1886d0",
+                "width": 64,
+                "height": 36,
+                "size": 888,
+                "url": "https://media.sketchfab.com/models/39a746c624a2462685a8ccbd72c5f773/thumbnails/3a8707e646db4b16b773b62901b52123/c57d98c30b2341cb8148e678ffe80dd3.jpeg"
+            }
+        ]
+    },
+    "uid": "39a746c624a2462685a8ccbd72c5f773",
+    "uri": "https://api.sketchfab.com/v3/models/39a746c624a2462685a8ccbd72c5f773",
+    "user": {
+        "uid": "85f702e7998044b8b856bd10c6f48778",
+        "username": "KojfDiscord",
+        "displayName": "KojfDiscord",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/KojfDiscord",
+        "avatar": {
+            "uid": "d4b1101d955e449cb6d92c0c0c3cb4d0",
+            "uri": "https://api.sketchfab.com/v3/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1207,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/fd0850c6e13f463083f350c151d94de2.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1888,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/b1b01ae81f3042d4a15bcc8172b28a8a.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4524,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/4e5efc15c69a417ba2eb0bab579b27d3.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5180,
+                    "url": "https://media.sketchfab.com/avatars/d4b1101d955e449cb6d92c0c0c3cb4d0/07fd657217a44f10aee40cf096ee0193.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/85f702e7998044b8b856bd10c6f48778"
+    },
+    "vertexCount": 10664,
+    "viewCount": 112,
+    "viewerUrl": "https://sketchfab.com/3d-models/dca-aspide-warno-39a746c624a2462685a8ccbd72c5f773",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 37,
+    "editorUrl": "https://sketchfab.com/models/39a746c624a2462685a8ccbd72c5f773/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-12T12:59:03.529782",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

@@ -1,0 +1,339 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-11-02T09:06:49.363091",
+    "embedUrl": "https://sketchfab.com/models/2e6982c4aae74f218043689952a32d86/embed",
+    "faceCount": 9392,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 7,
+    "name": "Anime Style Apartment Arena",
+    "publishedAt": "2025-11-02T09:17:53.451937",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "scene",
+            "slug": "scene",
+            "uri": "https://api.sketchfab.com/v3/tags/scene"
+        },
+        {
+            "name": "tower",
+            "slug": "tower",
+            "uri": "https://api.sketchfab.com/v3/tags/tower"
+        },
+        {
+            "name": "room",
+            "slug": "room",
+            "uri": "https://api.sketchfab.com/v3/tags/room"
+        },
+        {
+            "name": "school",
+            "slug": "school",
+            "uri": "https://api.sketchfab.com/v3/tags/school"
+        },
+        {
+            "name": "greek",
+            "slug": "greek",
+            "uri": "https://api.sketchfab.com/v3/tags/greek"
+        },
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "toon",
+            "slug": "toon",
+            "uri": "https://api.sketchfab.com/v3/tags/toon"
+        },
+        {
+            "name": "residential",
+            "slug": "residential",
+            "uri": "https://api.sketchfab.com/v3/tags/residential"
+        },
+        {
+            "name": "bath",
+            "slug": "bath",
+            "uri": "https://api.sketchfab.com/v3/tags/bath"
+        },
+        {
+            "name": "urban",
+            "slug": "urban",
+            "uri": "https://api.sketchfab.com/v3/tags/urban"
+        },
+        {
+            "name": "samurai",
+            "slug": "samurai",
+            "uri": "https://api.sketchfab.com/v3/tags/samurai"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "stage",
+            "slug": "stage",
+            "uri": "https://api.sketchfab.com/v3/tags/stage"
+        },
+        {
+            "name": "apartment",
+            "slug": "apartment",
+            "uri": "https://api.sketchfab.com/v3/tags/apartment"
+        },
+        {
+            "name": "fighting",
+            "slug": "fighting",
+            "uri": "https://api.sketchfab.com/v3/tags/fighting"
+        },
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "town",
+            "slug": "town",
+            "uri": "https://api.sketchfab.com/v3/tags/town"
+        },
+        {
+            "name": "combat",
+            "slug": "combat",
+            "uri": "https://api.sketchfab.com/v3/tags/combat"
+        },
+        {
+            "name": "arena",
+            "slug": "arena",
+            "uri": "https://api.sketchfab.com/v3/tags/arena"
+        },
+        {
+            "name": "manga",
+            "slug": "manga",
+            "uri": "https://api.sketchfab.com/v3/tags/manga"
+        },
+        {
+            "name": "background",
+            "slug": "background",
+            "uri": "https://api.sketchfab.com/v3/tags/background"
+        },
+        {
+            "name": "cityscape",
+            "slug": "cityscape",
+            "uri": "https://api.sketchfab.com/v3/tags/cityscape"
+        },
+        {
+            "name": "colorful",
+            "slug": "colorful",
+            "uri": "https://api.sketchfab.com/v3/tags/colorful"
+        },
+        {
+            "name": "celshading",
+            "slug": "celshading",
+            "uri": "https://api.sketchfab.com/v3/tags/celshading"
+        },
+        {
+            "name": "battleground",
+            "slug": "battleground",
+            "uri": "https://api.sketchfab.com/v3/tags/battleground"
+        },
+        {
+            "name": "handpainted",
+            "slug": "handpainted",
+            "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "girl",
+            "slug": "girl",
+            "uri": "https://api.sketchfab.com/v3/tags/girl"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "city",
+            "slug": "city",
+            "uri": "https://api.sketchfab.com/v3/tags/city"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "anime",
+            "slug": "anime",
+            "uri": "https://api.sketchfab.com/v3/tags/anime"
+        },
+        {
+            "name": "japanese",
+            "slug": "japanese",
+            "uri": "https://api.sketchfab.com/v3/tags/japanese"
+        },
+        {
+            "name": "nime",
+            "slug": "nime",
+            "uri": "https://api.sketchfab.com/v3/tags/nime"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b62b8db377c34d8f85e87b4ecdd2ac2b",
+                "width": 1920,
+                "height": 1080,
+                "size": 709988,
+                "url": "https://media.sketchfab.com/models/2e6982c4aae74f218043689952a32d86/thumbnails/f854c984c39e480cbe2e5cfdd4cb7ab5/b05eae4326c84ceaa54abf6c7fdbcf33.jpeg"
+            },
+            {
+                "uid": "ebcea2d0e8024757baec6dbb2503e856",
+                "width": 1024,
+                "height": 576,
+                "size": 185073,
+                "url": "https://media.sketchfab.com/models/2e6982c4aae74f218043689952a32d86/thumbnails/f854c984c39e480cbe2e5cfdd4cb7ab5/87477c3fce144d09878aad3141ec7188.jpeg"
+            },
+            {
+                "uid": "2348d3526b8545b4a5d730f6f438c4db",
+                "width": 720,
+                "height": 405,
+                "size": 99274,
+                "url": "https://media.sketchfab.com/models/2e6982c4aae74f218043689952a32d86/thumbnails/f854c984c39e480cbe2e5cfdd4cb7ab5/d40c04ee177f4046a51500386dbbb8be.jpeg"
+            },
+            {
+                "uid": "49ec52c2ba5749dc8e0d263b6c82afb3",
+                "width": 256,
+                "height": 144,
+                "size": 15290,
+                "url": "https://media.sketchfab.com/models/2e6982c4aae74f218043689952a32d86/thumbnails/f854c984c39e480cbe2e5cfdd4cb7ab5/ff0cd3c80eab4e06b164a07e57efdd9d.jpeg"
+            },
+            {
+                "uid": "9b4d9dac970f4ccc94a4fd540b82786e",
+                "width": 64,
+                "height": 36,
+                "size": 1615,
+                "url": "https://media.sketchfab.com/models/2e6982c4aae74f218043689952a32d86/thumbnails/f854c984c39e480cbe2e5cfdd4cb7ab5/fe0506fc43414716bae4a70c88585fbb.jpeg"
+            }
+        ]
+    },
+    "uid": "2e6982c4aae74f218043689952a32d86",
+    "uri": "https://api.sketchfab.com/v3/models/2e6982c4aae74f218043689952a32d86",
+    "user": {
+        "uid": "74077753057942289970d6ba926a8566",
+        "username": "kasuga",
+        "displayName": "Kasuga𓅂",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kasuga",
+        "avatar": {
+            "uid": "7e17ab214d6746b087de5f26b0cb7cb2",
+            "uri": "https://api.sketchfab.com/v3/avatars/7e17ab214d6746b087de5f26b0cb7cb2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1136,
+                    "url": "https://media.sketchfab.com/avatars/7e17ab214d6746b087de5f26b0cb7cb2/67cb75062cbb4784964e687b2ff958d9.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1563,
+                    "url": "https://media.sketchfab.com/avatars/7e17ab214d6746b087de5f26b0cb7cb2/5d886a1f9f4d4a32ba5668463ae45dd0.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3167,
+                    "url": "https://media.sketchfab.com/avatars/7e17ab214d6746b087de5f26b0cb7cb2/659466a6995a40ab81f2a920a661b51a.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3447,
+                    "url": "https://media.sketchfab.com/avatars/7e17ab214d6746b087de5f26b0cb7cb2/f8a40b2bda6445ffbb9a7619999c8eda.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/74077753057942289970d6ba926a8566"
+    },
+    "vertexCount": 5372,
+    "viewCount": 260,
+    "viewerUrl": "https://sketchfab.com/3d-models/anime-style-apartment-arena-2e6982c4aae74f218043689952a32d86",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This is a Anime Style Arena Apartment. it is super optimized///\n**Give Credit if used!**\n\n*Commercial/Personal use allowed.*",
+    "price": null,
+    "downloadCount": 10,
+    "editorUrl": "https://sketchfab.com/models/2e6982c4aae74f218043689952a32d86/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-11-20T13:32:46.115519",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

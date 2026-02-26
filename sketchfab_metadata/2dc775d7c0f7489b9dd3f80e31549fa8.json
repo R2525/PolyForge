@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T06:17:53.173615",
+    "embedUrl": "https://sketchfab.com/models/2dc775d7c0f7489b9dd3f80e31549fa8/embed",
+    "faceCount": 4118,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Medieval Hinges",
+    "publishedAt": "2026-02-21T06:19:37.351327",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "rusty",
+            "slug": "rusty",
+            "uri": "https://api.sketchfab.com/v3/tags/rusty"
+        },
+        {
+            "name": "old",
+            "slug": "old",
+            "uri": "https://api.sketchfab.com/v3/tags/old"
+        },
+        {
+            "name": "iron",
+            "slug": "iron",
+            "uri": "https://api.sketchfab.com/v3/tags/iron"
+        },
+        {
+            "name": "Hinge",
+            "slug": "hinge",
+            "uri": "https://api.sketchfab.com/v3/tags/hinge"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "670eb343978e4ac49e61f1158c200d9c",
+                "width": 1920,
+                "height": 1080,
+                "size": 55969,
+                "url": "https://media.sketchfab.com/models/2dc775d7c0f7489b9dd3f80e31549fa8/thumbnails/eb457bc48a2f420eaba4e0803fb19b6b/ae736e44154e45da9d6175e40be92fcd.jpeg"
+            },
+            {
+                "uid": "62913e06f08446daacba4d3da8b02b6d",
+                "width": 1024,
+                "height": 576,
+                "size": 18630,
+                "url": "https://media.sketchfab.com/models/2dc775d7c0f7489b9dd3f80e31549fa8/thumbnails/eb457bc48a2f420eaba4e0803fb19b6b/962a37ec6e8f4b478c00440fda680459.jpeg"
+            },
+            {
+                "uid": "6b7ec13191004a359bf487d26de2975b",
+                "width": 720,
+                "height": 405,
+                "size": 10677,
+                "url": "https://media.sketchfab.com/models/2dc775d7c0f7489b9dd3f80e31549fa8/thumbnails/eb457bc48a2f420eaba4e0803fb19b6b/8c08d6cc709d42b9bd02bf7b79bddb44.jpeg"
+            },
+            {
+                "uid": "f80b09059a574dc8bd7688877a9b721a",
+                "width": 256,
+                "height": 144,
+                "size": 2660,
+                "url": "https://media.sketchfab.com/models/2dc775d7c0f7489b9dd3f80e31549fa8/thumbnails/eb457bc48a2f420eaba4e0803fb19b6b/c38edfc9c8874883a770055d27484345.jpeg"
+            },
+            {
+                "uid": "b72f2b8bddc94f0fb34dfcc34039e667",
+                "width": 64,
+                "height": 36,
+                "size": 961,
+                "url": "https://media.sketchfab.com/models/2dc775d7c0f7489b9dd3f80e31549fa8/thumbnails/eb457bc48a2f420eaba4e0803fb19b6b/86253121aeae42879ef854c98da86230.jpeg"
+            }
+        ]
+    },
+    "uid": "2dc775d7c0f7489b9dd3f80e31549fa8",
+    "uri": "https://api.sketchfab.com/v3/models/2dc775d7c0f7489b9dd3f80e31549fa8",
+    "user": {
+        "uid": "3ae39e10f0884810905f6b04961da45c",
+        "username": "timore",
+        "displayName": "timore",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/timore",
+        "avatar": {
+            "uid": "9b9930b4e90a44688753e10871a0855a",
+            "uri": "https://api.sketchfab.com/v3/avatars/9b9930b4e90a44688753e10871a0855a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 865,
+                    "url": "https://media.sketchfab.com/avatars/9b9930b4e90a44688753e10871a0855a/1886544707d145a891fdd2a076e33cbb.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1117,
+                    "url": "https://media.sketchfab.com/avatars/9b9930b4e90a44688753e10871a0855a/bfeed06f315a496c8a6621066be0c8a6.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2041,
+                    "url": "https://media.sketchfab.com/avatars/9b9930b4e90a44688753e10871a0855a/eccf5031b4dd456098e6d707ed1d2738.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2297,
+                    "url": "https://media.sketchfab.com/avatars/9b9930b4e90a44688753e10871a0855a/3c8afd895361431e8762002937baf57d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/3ae39e10f0884810905f6b04961da45c"
+    },
+    "vertexCount": 2634,
+    "viewCount": 6,
+    "viewerUrl": "https://sketchfab.com/3d-models/medieval-hinges-2dc775d7c0f7489b9dd3f80e31549fa8",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For production-ready use, we recommend downloading the original file.The Converted version is intended only for use in the web viewer. In the source file, the following are fully preserved:✔ original scene hierarchy✔ all materials without simplification✔ correct PBR texture maps✔ correct object namesIf you are going to integrate the model into a project, download the original version.An old rusty iron medieval hinge. 2k textures channel packed. Lowpoly",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/2dc775d7c0f7489b9dd3f80e31549fa8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T06:19:37.641029",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

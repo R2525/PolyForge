@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T17:23:58.021428",
+    "embedUrl": "https://sketchfab.com/models/0a0d31330a2443c299de49177e3e441b/embed",
+    "faceCount": 440276,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "horror trapinch",
+    "publishedAt": "2026-02-22T17:24:17.348705",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "pokemon",
+            "slug": "pokemon",
+            "uri": "https://api.sketchfab.com/v3/tags/pokemon"
+        },
+        {
+            "name": "toy",
+            "slug": "toy",
+            "uri": "https://api.sketchfab.com/v3/tags/toy"
+        },
+        {
+            "name": "plush",
+            "slug": "plush",
+            "uri": "https://api.sketchfab.com/v3/tags/plush"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "5677cfe961064cf88da0fd93e7756232",
+                "width": 1920,
+                "height": 1080,
+                "size": 52772,
+                "url": "https://media.sketchfab.com/models/0a0d31330a2443c299de49177e3e441b/thumbnails/dc6f448eca444bcfb763f4a10cc4ee76/37ebd827786f4976ba75a98ddaf607a1.jpeg"
+            },
+            {
+                "uid": "61a9fe3bf5c8419099350d7e8823db40",
+                "width": 1024,
+                "height": 576,
+                "size": 17631,
+                "url": "https://media.sketchfab.com/models/0a0d31330a2443c299de49177e3e441b/thumbnails/dc6f448eca444bcfb763f4a10cc4ee76/18510737408a4809928dba0241a458cf.jpeg"
+            },
+            {
+                "uid": "e38b3cabf2674029aaec133abf0f3355",
+                "width": 720,
+                "height": 405,
+                "size": 10401,
+                "url": "https://media.sketchfab.com/models/0a0d31330a2443c299de49177e3e441b/thumbnails/dc6f448eca444bcfb763f4a10cc4ee76/8d6e2e3d76444308b02b5b81eff3bc57.jpeg"
+            },
+            {
+                "uid": "ee319906fff24af6b1366827a862ac6a",
+                "width": 256,
+                "height": 144,
+                "size": 2472,
+                "url": "https://media.sketchfab.com/models/0a0d31330a2443c299de49177e3e441b/thumbnails/dc6f448eca444bcfb763f4a10cc4ee76/5928aa228d9a434d807da89226c5135e.jpeg"
+            },
+            {
+                "uid": "5557060d78e94f82a51400078adf4cdb",
+                "width": 64,
+                "height": 36,
+                "size": 843,
+                "url": "https://media.sketchfab.com/models/0a0d31330a2443c299de49177e3e441b/thumbnails/dc6f448eca444bcfb763f4a10cc4ee76/6f32ac9b6a634618a84c1eacff23fad6.jpeg"
+            }
+        ]
+    },
+    "uid": "0a0d31330a2443c299de49177e3e441b",
+    "uri": "https://api.sketchfab.com/v3/models/0a0d31330a2443c299de49177e3e441b",
+    "user": {
+        "uid": "0a06fda6cd9244ef976778827a70c2ea",
+        "username": "StormAlong2085",
+        "displayName": "StormAlong2085",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/StormAlong2085",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0a06fda6cd9244ef976778827a70c2ea"
+    },
+    "vertexCount": 220133,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/horror-trapinch-0a0d31330a2443c299de49177e3e441b",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "This model was generated using Meshy,",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0a0d31330a2443c299de49177e3e441b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-24T20:32:35.894401",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 1
+}

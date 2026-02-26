@@ -1,0 +1,165 @@
+{
+    "animationCount": 3,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T11:15:39.811969",
+    "embedUrl": "https://sketchfab.com/models/22a5eb3fec56496098f265b57feec6e8/embed",
+    "faceCount": 2328,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Sailing Ship",
+    "publishedAt": "2026-02-23T11:18:01.304590",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "sailing",
+            "slug": "sailing",
+            "uri": "https://api.sketchfab.com/v3/tags/sailing"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "sailing-ship",
+            "slug": "sailing-ship",
+            "uri": "https://api.sketchfab.com/v3/tags/sailing-ship"
+        },
+        {
+            "name": "sailingship",
+            "slug": "sailingship",
+            "uri": "https://api.sketchfab.com/v3/tags/sailingship"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e372ce2d59e74d7b94e7aa746a6b9e6f",
+                "width": 1920,
+                "height": 1080,
+                "size": 123900,
+                "url": "https://media.sketchfab.com/models/22a5eb3fec56496098f265b57feec6e8/thumbnails/2c6b2a5bdf74405fac536f79ea336d3d/b71d82a214bb48cf88efcbe386731c5a.jpeg"
+            },
+            {
+                "uid": "b2aa8790b9b040d49b4dfed4944f3dcf",
+                "width": 1024,
+                "height": 576,
+                "size": 45391,
+                "url": "https://media.sketchfab.com/models/22a5eb3fec56496098f265b57feec6e8/thumbnails/2c6b2a5bdf74405fac536f79ea336d3d/de3468a839f3479888d3782eaee1ffd9.jpeg"
+            },
+            {
+                "uid": "32b9e1a69e63423fbf887d4f75a8101d",
+                "width": 720,
+                "height": 405,
+                "size": 26875,
+                "url": "https://media.sketchfab.com/models/22a5eb3fec56496098f265b57feec6e8/thumbnails/2c6b2a5bdf74405fac536f79ea336d3d/406ee42e7e594cb09a5d00d2db90651d.jpeg"
+            },
+            {
+                "uid": "ba2f9d0fa82d4e9bb7f863eeac666466",
+                "width": 256,
+                "height": 144,
+                "size": 5630,
+                "url": "https://media.sketchfab.com/models/22a5eb3fec56496098f265b57feec6e8/thumbnails/2c6b2a5bdf74405fac536f79ea336d3d/3db671b6334a4128a750362bfcc10232.jpeg"
+            },
+            {
+                "uid": "2f11c05e24ae454cb4ecf1cb3641fe04",
+                "width": 64,
+                "height": 36,
+                "size": 1213,
+                "url": "https://media.sketchfab.com/models/22a5eb3fec56496098f265b57feec6e8/thumbnails/2c6b2a5bdf74405fac536f79ea336d3d/826ad51aad904d31951d053fec50afe1.jpeg"
+            }
+        ]
+    },
+    "uid": "22a5eb3fec56496098f265b57feec6e8",
+    "uri": "https://api.sketchfab.com/v3/models/22a5eb3fec56496098f265b57feec6e8",
+    "user": {
+        "uid": "f59569a91911420b9feaf1a4b062ee4c",
+        "username": "NopesCreations",
+        "displayName": "Nope",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/NopesCreations",
+        "avatar": {
+            "uid": "f91169d147614d50a791f7a8f4090e42",
+            "uri": "https://api.sketchfab.com/v3/avatars/f91169d147614d50a791f7a8f4090e42",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 992,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/7036d821a82f47598a8783521d573953.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1406,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/280c37667f554b8b99ac9d070d89443e.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3412,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/8020031926994ebaaf414a27a39d9b00.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3919,
+                    "url": "https://media.sketchfab.com/avatars/f91169d147614d50a791f7a8f4090e42/99592f6d7ec34ebbb1b5cd42f38ff58c.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f59569a91911420b9feaf1a4b062ee4c"
+    },
+    "vertexCount": 1552,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/sailing-ship-22a5eb3fec56496098f265b57feec6e8",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Small low poly fantasy sailing ship.",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/22a5eb3fec56496098f265b57feec6e8/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T11:18:01.490313",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

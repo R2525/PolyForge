@@ -1,0 +1,189 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "ed9e048550b2478eb1ab2faaba192832",
+            "name": "Animals & Pets",
+            "slug": "animals-pets",
+            "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/926733e187aa5a479aedd2581bffb3ea-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-23T05:39:10.895117",
+    "embedUrl": "https://sketchfab.com/models/37a15ed97c6444178c25ea865523744f/embed",
+    "faceCount": 450,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Hytale Desert Clan Series - Ram",
+    "publishedAt": "2026-02-23T05:43:37.939974",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "anthro",
+            "slug": "anthro",
+            "uri": "https://api.sketchfab.com/v3/tags/anthro"
+        },
+        {
+            "name": "furry",
+            "slug": "furry",
+            "uri": "https://api.sketchfab.com/v3/tags/furry"
+        },
+        {
+            "name": "blockbench",
+            "slug": "blockbench",
+            "uri": "https://api.sketchfab.com/v3/tags/blockbench"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "voxel",
+            "slug": "voxel",
+            "uri": "https://api.sketchfab.com/v3/tags/voxel"
+        },
+        {
+            "name": "hytale",
+            "slug": "hytale",
+            "uri": "https://api.sketchfab.com/v3/tags/hytale"
+        },
+        {
+            "name": "no-ai",
+            "slug": "no-ai",
+            "uri": "https://api.sketchfab.com/v3/tags/no-ai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "da42646fad9d47edb0d9f79cf69643bf",
+                "width": 1920,
+                "height": 1080,
+                "size": 466707,
+                "url": "https://media.sketchfab.com/models/37a15ed97c6444178c25ea865523744f/thumbnails/edf42a6fd80e454ea9bd30842e5755f6/bbe4d0e736184ab8832394ea8c94fa22.jpeg"
+            },
+            {
+                "uid": "1c0964ab7ef745f0a3cd2302cd001f79",
+                "width": 1024,
+                "height": 576,
+                "size": 53519,
+                "url": "https://media.sketchfab.com/models/37a15ed97c6444178c25ea865523744f/thumbnails/edf42a6fd80e454ea9bd30842e5755f6/3423834d286f42fa8f0cc9fd08066a78.jpeg"
+            },
+            {
+                "uid": "7e1b19e003d8418e91d9757449b931fe",
+                "width": 720,
+                "height": 405,
+                "size": 24581,
+                "url": "https://media.sketchfab.com/models/37a15ed97c6444178c25ea865523744f/thumbnails/edf42a6fd80e454ea9bd30842e5755f6/e9fae85941d4463da7b16ddd7dc33a56.jpeg"
+            },
+            {
+                "uid": "2f37e20707664c01bc317703f8978484",
+                "width": 256,
+                "height": 144,
+                "size": 4690,
+                "url": "https://media.sketchfab.com/models/37a15ed97c6444178c25ea865523744f/thumbnails/edf42a6fd80e454ea9bd30842e5755f6/086717edcbd74f0ba16a4f80e6feac26.jpeg"
+            },
+            {
+                "uid": "22eacd7541254669bc025af20958eb89",
+                "width": 64,
+                "height": 36,
+                "size": 1150,
+                "url": "https://media.sketchfab.com/models/37a15ed97c6444178c25ea865523744f/thumbnails/edf42a6fd80e454ea9bd30842e5755f6/8d76317d5fea4e4da43ca3c7ceaacc3f.jpeg"
+            }
+        ]
+    },
+    "uid": "37a15ed97c6444178c25ea865523744f",
+    "uri": "https://api.sketchfab.com/v3/models/37a15ed97c6444178c25ea865523744f",
+    "user": {
+        "uid": "f53d4c09c27d40149cf5ab9bff2dac64",
+        "username": "artbybradley",
+        "displayName": "ArtByBradley",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/artbybradley",
+        "avatar": {
+            "uid": "254e0eb8ac2d462fb346e47f2228e810",
+            "uri": "https://api.sketchfab.com/v3/avatars/254e0eb8ac2d462fb346e47f2228e810",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 4958,
+                    "url": "https://media.sketchfab.com/avatars/254e0eb8ac2d462fb346e47f2228e810/e09325345fda4200afd9ff8fb2dc99e3.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 6661,
+                    "url": "https://media.sketchfab.com/avatars/254e0eb8ac2d462fb346e47f2228e810/f142a2a086b14ec5b65d53287ab7a64c.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 11538,
+                    "url": "https://media.sketchfab.com/avatars/254e0eb8ac2d462fb346e47f2228e810/3c28fc1d3df64357b68e0e9ab2d8765d.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 12746,
+                    "url": "https://media.sketchfab.com/avatars/254e0eb8ac2d462fb346e47f2228e810/ca68e1a19d5b41219ee4d7f903bd042d.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f53d4c09c27d40149cf5ab9bff2dac64"
+    },
+    "vertexCount": 384,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/hytale-desert-clan-series-ram-37a15ed97c6444178c25ea865523744f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Have you been playing Hytale and saw all of the cool animals in the game and though, “Gee. I wish I could be an anthro of THAT.”\n\nWell, so did I! And because of that, I decided to make these Hytale characters. I decided to start with creatures of Orbis’ Desert so meet the second critter of the Desert Clan, the Ram!\n\nIf you want to own the Hytale-ready model itself, you can find it over my my ko-fi shop! Or, if you like my style but want you personal fursona created, I have commission information on my Ko-fi page as well!\n\nhttps://ko-fi.com/s/7c51a4777a",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/37a15ed97c6444178c25ea865523744f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "blockbench",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T05:43:38.078445",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 3
+}

@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-01-28T01:47:13.021260",
+    "embedUrl": "https://sketchfab.com/models/2f7c2bbc09614f1eba8e6ec7d8eb00e0/embed",
+    "faceCount": 137252,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 21,
+    "name": "Spirited Away Train",
+    "publishedAt": "2025-01-28T01:59:03.648978",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "train",
+            "slug": "train",
+            "uri": "https://api.sketchfab.com/v3/tags/train"
+        },
+        {
+            "name": "studio",
+            "slug": "studio",
+            "uri": "https://api.sketchfab.com/v3/tags/studio"
+        },
+        {
+            "name": "ghibli",
+            "slug": "ghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/ghibli"
+        },
+        {
+            "name": "chihiro",
+            "slug": "chihiro",
+            "uri": "https://api.sketchfab.com/v3/tags/chihiro"
+        },
+        {
+            "name": "Totoro",
+            "slug": "totoro",
+            "uri": "https://api.sketchfab.com/v3/tags/totoro"
+        },
+        {
+            "name": "spiritedaway",
+            "slug": "spiritedaway",
+            "uri": "https://api.sketchfab.com/v3/tags/spiritedaway"
+        },
+        {
+            "name": "spirited-away",
+            "slug": "spirited-away",
+            "uri": "https://api.sketchfab.com/v3/tags/spirited-away"
+        },
+        {
+            "name": "studioghibli",
+            "slug": "studioghibli",
+            "uri": "https://api.sketchfab.com/v3/tags/studioghibli"
+        },
+        {
+            "name": "hayaomiyazaki",
+            "slug": "hayaomiyazaki",
+            "uri": "https://api.sketchfab.com/v3/tags/hayaomiyazaki"
+        },
+        {
+            "name": "hayao_miyazaki",
+            "slug": "hayao_miyazaki",
+            "uri": "https://api.sketchfab.com/v3/tags/hayao_miyazaki"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "67f2eda9f84c4e0ea61290d9f3101ee9",
+                "width": 1920,
+                "height": 1080,
+                "size": 119216,
+                "url": "https://media.sketchfab.com/models/2f7c2bbc09614f1eba8e6ec7d8eb00e0/thumbnails/c87481ed5559449191b31d780d901461/c1a1a4d2cc824a7a80053abdf92ba095.jpeg"
+            },
+            {
+                "uid": "7a85ce374c074ab3b34f9aaed0109eda",
+                "width": 1024,
+                "height": 576,
+                "size": 38422,
+                "url": "https://media.sketchfab.com/models/2f7c2bbc09614f1eba8e6ec7d8eb00e0/thumbnails/c87481ed5559449191b31d780d901461/8c02e74808224734a993ac7335d2d8be.jpeg"
+            },
+            {
+                "uid": "feb4fa39ac444f4db36b44951b1d9ebb",
+                "width": 720,
+                "height": 405,
+                "size": 22116,
+                "url": "https://media.sketchfab.com/models/2f7c2bbc09614f1eba8e6ec7d8eb00e0/thumbnails/c87481ed5559449191b31d780d901461/ecbbd2e681a54d36b7fec3ca06b9c739.jpeg"
+            },
+            {
+                "uid": "3052eecf5cc049e8b890ea8569e78bdc",
+                "width": 256,
+                "height": 144,
+                "size": 4711,
+                "url": "https://media.sketchfab.com/models/2f7c2bbc09614f1eba8e6ec7d8eb00e0/thumbnails/c87481ed5559449191b31d780d901461/bda4dac52dbe47398e2bde602c76c1a9.jpeg"
+            },
+            {
+                "uid": "0260265766474548b1bb3873a94a57d1",
+                "width": 64,
+                "height": 36,
+                "size": 1136,
+                "url": "https://media.sketchfab.com/models/2f7c2bbc09614f1eba8e6ec7d8eb00e0/thumbnails/c87481ed5559449191b31d780d901461/614fcc305d894c07830d36f9f3604cec.jpeg"
+            }
+        ]
+    },
+    "uid": "2f7c2bbc09614f1eba8e6ec7d8eb00e0",
+    "uri": "https://api.sketchfab.com/v3/models/2f7c2bbc09614f1eba8e6ec7d8eb00e0",
+    "user": {
+        "uid": "e1f722de6512426980c977ed0a8facee",
+        "username": "judpro",
+        "displayName": "judpro",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/judpro",
+        "avatar": {
+            "uid": "03bf8eaa29b84b5f8fa3c373c8fe1b4b",
+            "uri": "https://api.sketchfab.com/v3/avatars/03bf8eaa29b84b5f8fa3c373c8fe1b4b",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1764,
+                    "url": "https://media.sketchfab.com/avatars/03bf8eaa29b84b5f8fa3c373c8fe1b4b/e6a322b2fc094ecf8277d4768f1ffc36.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4948,
+                    "url": "https://media.sketchfab.com/avatars/03bf8eaa29b84b5f8fa3c373c8fe1b4b/826d752b9d3a408ebeabd8643ab1380b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14530,
+                    "url": "https://media.sketchfab.com/avatars/03bf8eaa29b84b5f8fa3c373c8fe1b4b/a137a0b57d774168aff6412b3bcc6bc1.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17690,
+                    "url": "https://media.sketchfab.com/avatars/03bf8eaa29b84b5f8fa3c373c8fe1b4b/128a55907f384f99adc1ae9c1061e409.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e1f722de6512426980c977ed0a8facee"
+    },
+    "vertexCount": 71086,
+    "viewCount": 1257,
+    "viewerUrl": "https://sketchfab.com/3d-models/spirited-away-train-2f7c2bbc09614f1eba8e6ec7d8eb00e0",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "The train from the famous scene from Spirited Away by Studio Ghibli.\nMade in Maya and textured in Substance Painter\nQuite a messy model and obviously I haven't textured the inside properly.",
+    "price": null,
+    "downloadCount": 276,
+    "editorUrl": "https://sketchfab.com/models/2f7c2bbc09614f1eba8e6ec7d8eb00e0/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-01-28T02:12:58.204820",
+    "pbrType": "metalness",
+    "textureCount": 19,
+    "materialCount": 9
+}

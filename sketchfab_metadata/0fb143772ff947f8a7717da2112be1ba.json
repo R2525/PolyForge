@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-03T19:05:28.590224",
+    "embedUrl": "https://sketchfab.com/models/0fb143772ff947f8a7717da2112be1ba/embed",
+    "faceCount": 13246,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Arma Retro-Futurista 3D – Pistola Mecánica",
+    "publishedAt": "2026-02-03T22:32:35.536694",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "rust",
+            "slug": "rust",
+            "uri": "https://api.sketchfab.com/v3/tags/rust"
+        },
+        {
+            "name": "fantasyweapon",
+            "slug": "fantasyweapon",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasyweapon"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "wood",
+            "slug": "wood",
+            "uri": "https://api.sketchfab.com/v3/tags/wood"
+        },
+        {
+            "name": "3dmodel",
+            "slug": "3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+        },
+        {
+            "name": "gun",
+            "slug": "gun",
+            "uri": "https://api.sketchfab.com/v3/tags/gun"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "abd62ba83edf4569b1dff0a0159afbb8",
+                "width": 1920,
+                "height": 1080,
+                "size": 427870,
+                "url": "https://media.sketchfab.com/models/0fb143772ff947f8a7717da2112be1ba/thumbnails/6de1e4e6e3ff4b8588fe27f69601bb47/34ce69ceb0194b818facb005fcde49ea.jpeg"
+            },
+            {
+                "uid": "2180fa501ac2435aa88c8feeecf97911",
+                "width": 1024,
+                "height": 576,
+                "size": 60062,
+                "url": "https://media.sketchfab.com/models/0fb143772ff947f8a7717da2112be1ba/thumbnails/6de1e4e6e3ff4b8588fe27f69601bb47/ed79dc2b42ab4a6b94962a0259560fa7.jpeg"
+            },
+            {
+                "uid": "8ae4475e2c2d40e389a39f8938bbaf3c",
+                "width": 720,
+                "height": 405,
+                "size": 32597,
+                "url": "https://media.sketchfab.com/models/0fb143772ff947f8a7717da2112be1ba/thumbnails/6de1e4e6e3ff4b8588fe27f69601bb47/46245e5c665b4597a3d27fb3ab9197e2.jpeg"
+            },
+            {
+                "uid": "1f8a5f1bf7874d0fac719d35d4af8776",
+                "width": 256,
+                "height": 144,
+                "size": 6756,
+                "url": "https://media.sketchfab.com/models/0fb143772ff947f8a7717da2112be1ba/thumbnails/6de1e4e6e3ff4b8588fe27f69601bb47/3a36eab629084d6dad9bca02ad1509b4.jpeg"
+            },
+            {
+                "uid": "385558138a914aaf83a888d351ef852e",
+                "width": 64,
+                "height": 36,
+                "size": 1410,
+                "url": "https://media.sketchfab.com/models/0fb143772ff947f8a7717da2112be1ba/thumbnails/6de1e4e6e3ff4b8588fe27f69601bb47/45b362d95b0e44f2998a9417c99834c0.jpeg"
+            }
+        ]
+    },
+    "uid": "0fb143772ff947f8a7717da2112be1ba",
+    "uri": "https://api.sketchfab.com/v3/models/0fb143772ff947f8a7717da2112be1ba",
+    "user": {
+        "uid": "cddecefe2de94c8491c5448bb27d8a79",
+        "username": "AG.RA",
+        "displayName": "AoG.ra",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/AG.RA",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/cddecefe2de94c8491c5448bb27d8a79"
+    },
+    "vertexCount": 6676,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/arma-retro-futurista-3d-pistola-mecanica-0fb143772ff947f8a7717da2112be1ba",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Este modelo presenta un arma retro-futurista creada en 3D, combinando materiales metálicos envejecidos con detalles en madera que aportan carácter y autenticidad al diseño.\n\nEl arma destaca por su estructura mecánica visible, su cilindro central robusto y una empuñadura ergonómica con acabado de madera, dando la sensación de un dispositivo experimental o artesanal. El desgaste y las imperfecciones de los materiales refuerzan un estilo usado, ideal para mundos postapocalípticos, dieselpunk o ciencia ficción alternativa.\n\nEste modelo es ideal para videojuegos, renders, animaciones, cinemáticas o proyectos conceptuales, así como para artistas que buscan una pieza con identidad visual fuerte y un enfoque estilizado.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/0fb143772ff947f8a7717da2112be1ba/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-03T22:33:52.774854",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

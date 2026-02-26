@@ -1,0 +1,40 @@
+{
+    "category": "Characters & Creatures",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.8
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Military",
+            "score": 0.5
+        }
+    ],
+    "style": "Stylized",
+    "top_styles": [
+        {
+            "name": "Stylized",
+            "score": 0.9
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.7
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "camel",
+        "rider",
+        "3D model"
+    ]
+}

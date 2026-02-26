@@ -1,0 +1,182 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T15:59:07.978900",
+    "embedUrl": "https://sketchfab.com/models/137605779531449abcb86b74bb5ac3a5/embed",
+    "faceCount": 4264,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Door Handle Steel",
+    "publishedAt": "2026-02-19T16:01:01.136171",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "lock",
+            "slug": "lock",
+            "uri": "https://api.sketchfab.com/v3/tags/lock"
+        },
+        {
+            "name": "handle",
+            "slug": "handle",
+            "uri": "https://api.sketchfab.com/v3/tags/handle"
+        },
+        {
+            "name": "accesories",
+            "slug": "accesories",
+            "uri": "https://api.sketchfab.com/v3/tags/accesories"
+        },
+        {
+            "name": "knob",
+            "slug": "knob",
+            "uri": "https://api.sketchfab.com/v3/tags/knob"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "door",
+            "slug": "door",
+            "uri": "https://api.sketchfab.com/v3/tags/door"
+        },
+        {
+            "name": "steel",
+            "slug": "steel",
+            "uri": "https://api.sketchfab.com/v3/tags/steel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7572625e4b6f4301a67cce0a905e343f",
+                "width": 1920,
+                "height": 1080,
+                "size": 46239,
+                "url": "https://media.sketchfab.com/models/137605779531449abcb86b74bb5ac3a5/thumbnails/b160a7ecbae3418c874cb9dd22fb06c7/c0cf2819df56456da53f42b901d4909c.jpeg"
+            },
+            {
+                "uid": "acf45d83ffa4450cad112669663de9b7",
+                "width": 1024,
+                "height": 576,
+                "size": 15035,
+                "url": "https://media.sketchfab.com/models/137605779531449abcb86b74bb5ac3a5/thumbnails/b160a7ecbae3418c874cb9dd22fb06c7/412eeee329b441d788774d5e8dddecf7.jpeg"
+            },
+            {
+                "uid": "cd752ea87d874de4967a98c2ef4f915b",
+                "width": 720,
+                "height": 405,
+                "size": 8686,
+                "url": "https://media.sketchfab.com/models/137605779531449abcb86b74bb5ac3a5/thumbnails/b160a7ecbae3418c874cb9dd22fb06c7/51fb9fde3d2a4bedad79678e4d70b49f.jpeg"
+            },
+            {
+                "uid": "f99fb70f50494e99835e090fb6877cf2",
+                "width": 256,
+                "height": 144,
+                "size": 2200,
+                "url": "https://media.sketchfab.com/models/137605779531449abcb86b74bb5ac3a5/thumbnails/b160a7ecbae3418c874cb9dd22fb06c7/f55db3ccfa5e472d93d6136422378907.jpeg"
+            },
+            {
+                "uid": "48c755c445c04c3d8e98184d1ee2292a",
+                "width": 64,
+                "height": 36,
+                "size": 860,
+                "url": "https://media.sketchfab.com/models/137605779531449abcb86b74bb5ac3a5/thumbnails/b160a7ecbae3418c874cb9dd22fb06c7/a02d6878538e4b78841eb1c2bef7caa1.jpeg"
+            }
+        ]
+    },
+    "uid": "137605779531449abcb86b74bb5ac3a5",
+    "uri": "https://api.sketchfab.com/v3/models/137605779531449abcb86b74bb5ac3a5",
+    "user": {
+        "uid": "c8f76a9b90e44214b6f1a6ecc5767682",
+        "username": "FlamePaladinn",
+        "displayName": "Flame Paladinn",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/FlamePaladinn",
+        "avatar": {
+            "uid": "21f98fc8d6044174ba508acb8cb01389",
+            "uri": "https://api.sketchfab.com/v3/avatars/21f98fc8d6044174ba508acb8cb01389",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 934,
+                    "url": "https://media.sketchfab.com/avatars/21f98fc8d6044174ba508acb8cb01389/c7565b57f7db4d96840a47595ecfe1e0.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1151,
+                    "url": "https://media.sketchfab.com/avatars/21f98fc8d6044174ba508acb8cb01389/c386d33fb52b4a3c8848f68e35b0a17d.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2004,
+                    "url": "https://media.sketchfab.com/avatars/21f98fc8d6044174ba508acb8cb01389/b633cfac49804cffbe5c971270c28f40.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2314,
+                    "url": "https://media.sketchfab.com/avatars/21f98fc8d6044174ba508acb8cb01389/004e22098edb42089616a795753f60d1.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c8f76a9b90e44214b6f1a6ecc5767682"
+    },
+    "vertexCount": 2344,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/door-handle-steel-137605779531449abcb86b74bb5ac3a5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Door handle and lock made of steel. 2k textures channel packed. Lowpoly",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/137605779531449abcb86b74bb5ac3a5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T16:01:01.461148",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 2
+}

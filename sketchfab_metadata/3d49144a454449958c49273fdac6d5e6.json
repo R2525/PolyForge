@@ -1,0 +1,221 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T20:43:31.065635",
+    "embedUrl": "https://sketchfab.com/models/3d49144a454449958c49273fdac6d5e6/embed",
+    "faceCount": 664,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "PSX Retro Eyeball Pad",
+    "publishedAt": "2026-02-21T20:48:12.075212",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "object",
+            "slug": "object",
+            "uri": "https://api.sketchfab.com/v3/tags/object"
+        },
+        {
+            "name": "retro",
+            "slug": "retro",
+            "uri": "https://api.sketchfab.com/v3/tags/retro"
+        },
+        {
+            "name": "creepy",
+            "slug": "creepy",
+            "uri": "https://api.sketchfab.com/v3/tags/creepy"
+        },
+        {
+            "name": "ps2",
+            "slug": "ps2",
+            "uri": "https://api.sketchfab.com/v3/tags/ps2"
+        },
+        {
+            "name": "psx",
+            "slug": "psx",
+            "uri": "https://api.sketchfab.com/v3/tags/psx"
+        },
+        {
+            "name": "ps1",
+            "slug": "ps1",
+            "uri": "https://api.sketchfab.com/v3/tags/ps1"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "ps1-graphics",
+            "slug": "ps1-graphics",
+            "uri": "https://api.sketchfab.com/v3/tags/ps1-graphics"
+        },
+        {
+            "name": "ps1model",
+            "slug": "ps1model",
+            "uri": "https://api.sketchfab.com/v3/tags/ps1model"
+        },
+        {
+            "name": "ps1-style",
+            "slug": "ps1-style",
+            "uri": "https://api.sketchfab.com/v3/tags/ps1-style"
+        },
+        {
+            "name": "retro-horror",
+            "slug": "retro-horror",
+            "uri": "https://api.sketchfab.com/v3/tags/retro-horror"
+        },
+        {
+            "name": "retro-arcade-games",
+            "slug": "retro-arcade-games",
+            "uri": "https://api.sketchfab.com/v3/tags/retro-arcade-games"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "72b6a0d4d54e45aaa2bcb441bb979c0e",
+                "width": 1920,
+                "height": 1080,
+                "size": 569907,
+                "url": "https://media.sketchfab.com/models/3d49144a454449958c49273fdac6d5e6/thumbnails/ba272328f11742ab995e3e0c3557368a/60b63f226af94472aaa167882e100a9d.jpeg"
+            },
+            {
+                "uid": "4382168b94964456a86087b144705681",
+                "width": 1024,
+                "height": 576,
+                "size": 82742,
+                "url": "https://media.sketchfab.com/models/3d49144a454449958c49273fdac6d5e6/thumbnails/ba272328f11742ab995e3e0c3557368a/35c54f4287d34be49c1ea5a92ca572c6.jpeg"
+            },
+            {
+                "uid": "268496837d0e49ed947f8c49678ab62e",
+                "width": 720,
+                "height": 405,
+                "size": 40968,
+                "url": "https://media.sketchfab.com/models/3d49144a454449958c49273fdac6d5e6/thumbnails/ba272328f11742ab995e3e0c3557368a/5e6ce0ff62c54112984e206e88b3bece.jpeg"
+            },
+            {
+                "uid": "f79ed2de4f5a431cb2ded922f06e04ba",
+                "width": 256,
+                "height": 144,
+                "size": 7533,
+                "url": "https://media.sketchfab.com/models/3d49144a454449958c49273fdac6d5e6/thumbnails/ba272328f11742ab995e3e0c3557368a/87f80127e40245f99e020ec6ba33f58d.jpeg"
+            },
+            {
+                "uid": "fad306ad26ea4043bd4eae54e11891d0",
+                "width": 64,
+                "height": 36,
+                "size": 1437,
+                "url": "https://media.sketchfab.com/models/3d49144a454449958c49273fdac6d5e6/thumbnails/ba272328f11742ab995e3e0c3557368a/23c772838ac4477caebb68f8f7bb6ca8.jpeg"
+            }
+        ]
+    },
+    "uid": "3d49144a454449958c49273fdac6d5e6",
+    "uri": "https://api.sketchfab.com/v3/models/3d49144a454449958c49273fdac6d5e6",
+    "user": {
+        "uid": "f2df995bf8e048c08797d7cd3a32d70a",
+        "username": "near20110",
+        "displayName": "Near20110",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/near20110",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f2df995bf8e048c08797d7cd3a32d70a"
+    },
+    "vertexCount": 337,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/psx-retro-eyeball-pad-3d49144a454449958c49273fdac6d5e6",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Used as an ammo spawner in my game.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/3d49144a454449958c49273fdac6d5e6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T20:48:12.189145",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

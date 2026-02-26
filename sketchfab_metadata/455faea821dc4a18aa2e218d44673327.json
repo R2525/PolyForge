@@ -1,0 +1,207 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2025-08-13T11:14:23.173702",
+    "embedUrl": "https://sketchfab.com/models/455faea821dc4a18aa2e218d44673327/embed",
+    "faceCount": 490,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Kiki's Radio | Kiki's Delivery Service Low-Poly",
+    "publishedAt": "2025-08-13T11:21:32.717448",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "lowpolygon",
+            "slug": "lowpolygon",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolygon"
+        },
+        {
+            "name": "lowpolyart",
+            "slug": "lowpolyart",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolyart"
+        },
+        {
+            "name": "lowresolution",
+            "slug": "lowresolution",
+            "uri": "https://api.sketchfab.com/v3/tags/lowresolution"
+        },
+        {
+            "name": "low-poly-model",
+            "slug": "low-poly-model",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly-model"
+        },
+        {
+            "name": "lowpolymodel",
+            "slug": "lowpolymodel",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolymodel"
+        },
+        {
+            "name": "lowpolygon-model",
+            "slug": "lowpolygon-model",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpolygon-model"
+        },
+        {
+            "name": "kikisdeliveryservice",
+            "slug": "kikisdeliveryservice",
+            "uri": "https://api.sketchfab.com/v3/tags/kikisdeliveryservice"
+        },
+        {
+            "name": "low-resolution",
+            "slug": "low-resolution",
+            "uri": "https://api.sketchfab.com/v3/tags/low-resolution"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "radio",
+            "slug": "radio",
+            "uri": "https://api.sketchfab.com/v3/tags/radio"
+        },
+        {
+            "name": "low-res-low-polygon-count",
+            "slug": "low-res-low-polygon-count",
+            "uri": "https://api.sketchfab.com/v3/tags/low-res-low-polygon-count"
+        },
+        {
+            "name": "kikis-delivery-service",
+            "slug": "kikis-delivery-service",
+            "uri": "https://api.sketchfab.com/v3/tags/kikis-delivery-service"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "d7bf242ea2354979b4f922e365ec6720",
+                "width": 1920,
+                "height": 1080,
+                "size": 62060,
+                "url": "https://media.sketchfab.com/models/455faea821dc4a18aa2e218d44673327/thumbnails/1a81fe76dbd246aca131da9419299468/7c506d52e442491bb7c60a610894cfba.jpeg"
+            },
+            {
+                "uid": "e2a95861f2614bc08dfba61212227d2c",
+                "width": 1024,
+                "height": 576,
+                "size": 22413,
+                "url": "https://media.sketchfab.com/models/455faea821dc4a18aa2e218d44673327/thumbnails/1a81fe76dbd246aca131da9419299468/ff6bc9e2fe4f48ce8aa438884b2b256f.jpeg"
+            },
+            {
+                "uid": "1c0d6232587f46ae892c209cbd52bdb5",
+                "width": 720,
+                "height": 405,
+                "size": 13608,
+                "url": "https://media.sketchfab.com/models/455faea821dc4a18aa2e218d44673327/thumbnails/1a81fe76dbd246aca131da9419299468/7ba762d4847947bbaa0546d315d41d7a.jpeg"
+            },
+            {
+                "uid": "38835eab7ed642048841c2b7ec4038bf",
+                "width": 256,
+                "height": 144,
+                "size": 3176,
+                "url": "https://media.sketchfab.com/models/455faea821dc4a18aa2e218d44673327/thumbnails/1a81fe76dbd246aca131da9419299468/db9ea9d937a44499a489df4c82ecacde.jpeg"
+            },
+            {
+                "uid": "b0cbf323a3bf44d7ab6ed8a4f330a663",
+                "width": 64,
+                "height": 36,
+                "size": 963,
+                "url": "https://media.sketchfab.com/models/455faea821dc4a18aa2e218d44673327/thumbnails/1a81fe76dbd246aca131da9419299468/0d20616beb1345acada6ea95d3e78555.jpeg"
+            }
+        ]
+    },
+    "uid": "455faea821dc4a18aa2e218d44673327",
+    "uri": "https://api.sketchfab.com/v3/models/455faea821dc4a18aa2e218d44673327",
+    "user": {
+        "uid": "89778d3e93de418da2f4599bc675583c",
+        "username": "bekamillar",
+        "displayName": "bekamillar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/bekamillar",
+        "avatar": {
+            "uid": "ff194fba1e624192a8f7642c5d7a063a",
+            "uri": "https://api.sketchfab.com/v3/avatars/ff194fba1e624192a8f7642c5d7a063a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1036,
+                    "url": "https://media.sketchfab.com/avatars/ff194fba1e624192a8f7642c5d7a063a/4f1dfe5f21c1463e93bb49c65285e7e5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1395,
+                    "url": "https://media.sketchfab.com/avatars/ff194fba1e624192a8f7642c5d7a063a/e1613985c34f4907b1bd47066534ba9b.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2773,
+                    "url": "https://media.sketchfab.com/avatars/ff194fba1e624192a8f7642c5d7a063a/93b6763284cc442686ea8fb8729c2d0c.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3179,
+                    "url": "https://media.sketchfab.com/avatars/ff194fba1e624192a8f7642c5d7a063a/b9cba02b65014adaa79edcbcd4c4ea19.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/89778d3e93de418da2f4599bc675583c"
+    },
+    "vertexCount": 246,
+    "viewCount": 73,
+    "viewerUrl": "https://sketchfab.com/3d-models/kikis-radio-kikis-delivery-service-low-poly-455faea821dc4a18aa2e218d44673327",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Low-polygon (<500 poly) model of Kiki's radio, from Studio Ghibli's Kiki's Delivery Service, with a 128x128px handpainted texture.",
+    "price": null,
+    "downloadCount": 25,
+    "editorUrl": "https://sketchfab.com/models/455faea821dc4a18aa2e218d44673327/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-08-18T01:41:46.655955",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 1
+}

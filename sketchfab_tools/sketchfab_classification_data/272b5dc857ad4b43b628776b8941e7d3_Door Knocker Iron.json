@@ -1,0 +1,68 @@
+{
+    "category": "Furniture & Home",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Historic",
+            "score": 0.5
+        },
+        {
+            "name": "Art & Abstract",
+            "score": 0.4
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.7
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Stylized",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Rusty",
+        "Dusty",
+        "Polished",
+        "Mossy"
+    ],
+    "tags": [
+        "door knocker",
+        "iron",
+        "ancient",
+        "furniture",
+        "home",
+        "historical",
+        "decorative"
+    ],
+    "model_id_full": "272b5dc857ad4b43b628776b8941e7d3_Door Knocker Iron",
+    "sketchfab_id": "272b5dc857ad4b43b628776b8941e7d3",
+    "asset_name": "Door Knocker Iron"
+}

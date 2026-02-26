@@ -1,0 +1,42 @@
+{
+    "category": "Electronics & Gadgets",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.85
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.7
+        },
+        {
+            "name": "Post-Apocalyptic",
+            "score": 0.6
+        }
+    ],
+    "style": "Photorealistic",
+    "top_styles": [
+        {
+            "name": "Photorealistic",
+            "score": 0.95
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.9
+        },
+        {
+            "name": "Cyberpunk",
+            "score": 0.8
+        }
+    ],
+    "surface_conditions": [
+        "Glow",
+        "Blood-stained",
+        "Broken"
+    ],
+    "tags": [
+        "door",
+        "mechanical",
+        "ring"
+    ]
+}

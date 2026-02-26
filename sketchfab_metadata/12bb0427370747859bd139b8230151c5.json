@@ -1,0 +1,192 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T21:09:42.860007",
+    "embedUrl": "https://sketchfab.com/models/12bb0427370747859bd139b8230151c5/embed",
+    "faceCount": 236410,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Medium-Poly Asian-styled Cyberpunk HouseTwo-Pack",
+    "publishedAt": "2026-02-22T21:13:53.205255",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "buildings",
+            "slug": "buildings",
+            "uri": "https://api.sketchfab.com/v3/tags/buildings"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "asian",
+            "slug": "asian",
+            "uri": "https://api.sketchfab.com/v3/tags/asian"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "dystopian",
+            "slug": "dystopian",
+            "uri": "https://api.sketchfab.com/v3/tags/dystopian"
+        },
+        {
+            "name": "meetmat17",
+            "slug": "meetmat17",
+            "uri": "https://api.sketchfab.com/v3/tags/meetmat17"
+        },
+        {
+            "name": "house",
+            "slug": "house",
+            "uri": "https://api.sketchfab.com/v3/tags/house"
+        },
+        {
+            "name": "building",
+            "slug": "building",
+            "uri": "https://api.sketchfab.com/v3/tags/building"
+        },
+        {
+            "name": "buildings-pack",
+            "slug": "buildings-pack",
+            "uri": "https://api.sketchfab.com/v3/tags/buildings-pack"
+        },
+        {
+            "name": "cyberpunk-building",
+            "slug": "cyberpunk-building",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk-building"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7503f2713cb14d5295c4b5a808c9b96f",
+                "width": 1920,
+                "height": 1080,
+                "size": 59691,
+                "url": "https://media.sketchfab.com/models/12bb0427370747859bd139b8230151c5/thumbnails/c3d1f7e5b0214c7ca53304c0c027ecdb/0ff63aef225947f0ba7dcf36523ed4ea.jpeg"
+            },
+            {
+                "uid": "98c2cde4bd6b43e983e6c39dfbff0c7e",
+                "width": 1024,
+                "height": 576,
+                "size": 18223,
+                "url": "https://media.sketchfab.com/models/12bb0427370747859bd139b8230151c5/thumbnails/c3d1f7e5b0214c7ca53304c0c027ecdb/20ca166206a940fb8c12c7d3e2433cfd.jpeg"
+            },
+            {
+                "uid": "a2d1c8e851364b28aa6a50b11ae88575",
+                "width": 720,
+                "height": 405,
+                "size": 10143,
+                "url": "https://media.sketchfab.com/models/12bb0427370747859bd139b8230151c5/thumbnails/c3d1f7e5b0214c7ca53304c0c027ecdb/3e6cf3206e404ccb8831ea67bebb9262.jpeg"
+            },
+            {
+                "uid": "180aef9bb4f345139496cf9832ed8b0d",
+                "width": 256,
+                "height": 144,
+                "size": 2154,
+                "url": "https://media.sketchfab.com/models/12bb0427370747859bd139b8230151c5/thumbnails/c3d1f7e5b0214c7ca53304c0c027ecdb/fa3030eb6d6745dda10432cdb196c6e8.jpeg"
+            },
+            {
+                "uid": "55aa409d792949b39021c6b4ef293073",
+                "width": 64,
+                "height": 36,
+                "size": 802,
+                "url": "https://media.sketchfab.com/models/12bb0427370747859bd139b8230151c5/thumbnails/c3d1f7e5b0214c7ca53304c0c027ecdb/420fac3987ea4fc49e791e67509fc5b6.jpeg"
+            }
+        ]
+    },
+    "uid": "12bb0427370747859bd139b8230151c5",
+    "uri": "https://api.sketchfab.com/v3/models/12bb0427370747859bd139b8230151c5",
+    "user": {
+        "uid": "e6962c108e914c43bdb8f58407ec4d73",
+        "username": "PolyDavid",
+        "displayName": "PolyDavid",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/PolyDavid",
+        "avatar": {
+            "uid": "94455accac93462f975e1cc2bac76d0d",
+            "uri": "https://api.sketchfab.com/v3/avatars/94455accac93462f975e1cc2bac76d0d",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2744,
+                    "url": "https://media.sketchfab.com/avatars/94455accac93462f975e1cc2bac76d0d/8b9482c4d4be44a69ac1603f99dd4d97.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5837,
+                    "url": "https://media.sketchfab.com/avatars/94455accac93462f975e1cc2bac76d0d/d29cb29eee82469f8c1ee8732ae48986.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 18590,
+                    "url": "https://media.sketchfab.com/avatars/94455accac93462f975e1cc2bac76d0d/a9b192f21a0b4e0fb01e3ed2277659e5.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 22504,
+                    "url": "https://media.sketchfab.com/avatars/94455accac93462f975e1cc2bac76d0d/bf62712788434b4cb5be4a7bdf1fe046.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/e6962c108e914c43bdb8f58407ec4d73"
+    },
+    "vertexCount": 119934,
+    "viewCount": 14,
+    "viewerUrl": "https://sketchfab.com/3d-models/medium-poly-asian-styled-cyberpunk-housetwo-pack-12bb0427370747859bd139b8230151c5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "- exactly what the title says\n- med-poly, good for close ups and far shots",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/12bb0427370747859bd139b8230151c5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-22T21:13:53.319526",
+    "pbrType": "metalness",
+    "textureCount": 17,
+    "materialCount": 20
+}

@@ -1,0 +1,329 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "name": "Fashion & Style",
+            "slug": "fashion-style",
+            "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-25T02:55:10.554577",
+    "embedUrl": "https://sketchfab.com/models/1aa633edd64f4c8dbb56d63ae99fc8af/embed",
+    "faceCount": 513495,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Cyberpunk Neon Mask - Game Ready",
+    "publishedAt": "2026-02-25T03:05:58.299711",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "style",
+            "slug": "style",
+            "uri": "https://api.sketchfab.com/v3/tags/style"
+        },
+        {
+            "name": "future",
+            "slug": "future",
+            "uri": "https://api.sketchfab.com/v3/tags/future"
+        },
+        {
+            "name": "fashion",
+            "slug": "fashion",
+            "uri": "https://api.sketchfab.com/v3/tags/fashion"
+        },
+        {
+            "name": "tech",
+            "slug": "tech",
+            "uri": "https://api.sketchfab.com/v3/tags/tech"
+        },
+        {
+            "name": "accessories",
+            "slug": "accessories",
+            "uri": "https://api.sketchfab.com/v3/tags/accessories"
+        },
+        {
+            "name": "cyberpunk",
+            "slug": "cyberpunk",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunk"
+        },
+        {
+            "name": "accessory",
+            "slug": "accessory",
+            "uri": "https://api.sketchfab.com/v3/tags/accessory"
+        },
+        {
+            "name": "fbx",
+            "slug": "fbx",
+            "uri": "https://api.sketchfab.com/v3/tags/fbx"
+        },
+        {
+            "name": "neon",
+            "slug": "neon",
+            "uri": "https://api.sketchfab.com/v3/tags/neon"
+        },
+        {
+            "name": "glow",
+            "slug": "glow",
+            "uri": "https://api.sketchfab.com/v3/tags/glow"
+        },
+        {
+            "name": "3D Model,",
+            "slug": "3d-model",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-model"
+        },
+        {
+            "name": "unrealengine",
+            "slug": "unrealengine",
+            "uri": "https://api.sketchfab.com/v3/tags/unrealengine"
+        },
+        {
+            "name": "gamereadyasset",
+            "slug": "gamereadyasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gamereadyasset"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "sci-fi",
+            "slug": "sci-fi",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi"
+        },
+        {
+            "name": "futuristic",
+            "slug": "futuristic",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic"
+        },
+        {
+            "name": "technology",
+            "slug": "technology",
+            "uri": "https://api.sketchfab.com/v3/tags/technology"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "gear",
+            "slug": "gear",
+            "uri": "https://api.sketchfab.com/v3/tags/gear"
+        },
+        {
+            "name": "gameready",
+            "slug": "gameready",
+            "uri": "https://api.sketchfab.com/v3/tags/gameready"
+        },
+        {
+            "name": "3d-mask",
+            "slug": "3d-mask",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-mask"
+        },
+        {
+            "name": "face-accessory",
+            "slug": "face-accessory",
+            "uri": "https://api.sketchfab.com/v3/tags/face-accessory"
+        },
+        {
+            "name": "cyberpunkmask",
+            "slug": "cyberpunkmask",
+            "uri": "https://api.sketchfab.com/v3/tags/cyberpunkmask"
+        },
+        {
+            "name": "uefnready",
+            "slug": "uefnready",
+            "uri": "https://api.sketchfab.com/v3/tags/uefnready"
+        },
+        {
+            "name": "uefn",
+            "slug": "uefn",
+            "uri": "https://api.sketchfab.com/v3/tags/uefn"
+        },
+        {
+            "name": "sci-fi-mask",
+            "slug": "sci-fi-mask",
+            "uri": "https://api.sketchfab.com/v3/tags/sci-fi-mask"
+        },
+        {
+            "name": "futuristic-mask",
+            "slug": "futuristic-mask",
+            "uri": "https://api.sketchfab.com/v3/tags/futuristic-mask"
+        },
+        {
+            "name": "neon-glow",
+            "slug": "neon-glow",
+            "uri": "https://api.sketchfab.com/v3/tags/neon-glow"
+        },
+        {
+            "name": "cyber-accessory",
+            "slug": "cyber-accessory",
+            "uri": "https://api.sketchfab.com/v3/tags/cyber-accessory"
+        },
+        {
+            "name": "digital-mask",
+            "slug": "digital-mask",
+            "uri": "https://api.sketchfab.com/v3/tags/digital-mask"
+        },
+        {
+            "name": "tech-mask",
+            "slug": "tech-mask",
+            "uri": "https://api.sketchfab.com/v3/tags/tech-mask"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "df7776252898470082f67f0b385cd3dc",
+                "width": 1920,
+                "height": 1080,
+                "size": 69863,
+                "url": "https://media.sketchfab.com/models/1aa633edd64f4c8dbb56d63ae99fc8af/thumbnails/508a5eddb29e4e51814b1e8b53893e15/18e8369d9fe142f39406ccb4ffd6918e.jpeg"
+            },
+            {
+                "uid": "185f6a6e4d2c472295ba841a5b0d1cfb",
+                "width": 1024,
+                "height": 576,
+                "size": 22744,
+                "url": "https://media.sketchfab.com/models/1aa633edd64f4c8dbb56d63ae99fc8af/thumbnails/508a5eddb29e4e51814b1e8b53893e15/f3de92dc093f4190b6cdf908baca7eec.jpeg"
+            },
+            {
+                "uid": "abe4091bc68a4539b6c0c24db7868977",
+                "width": 720,
+                "height": 405,
+                "size": 13136,
+                "url": "https://media.sketchfab.com/models/1aa633edd64f4c8dbb56d63ae99fc8af/thumbnails/508a5eddb29e4e51814b1e8b53893e15/50884bb1c8144bb6b3c2bbda749c6c9b.jpeg"
+            },
+            {
+                "uid": "af743fe822a248d1b930b8e7bbd4fdf0",
+                "width": 256,
+                "height": 144,
+                "size": 2856,
+                "url": "https://media.sketchfab.com/models/1aa633edd64f4c8dbb56d63ae99fc8af/thumbnails/508a5eddb29e4e51814b1e8b53893e15/e92180d6ed13406695360370460a3b6c.jpeg"
+            },
+            {
+                "uid": "8acde4ecd62c4be3bd32fd4c90604519",
+                "width": 64,
+                "height": 36,
+                "size": 963,
+                "url": "https://media.sketchfab.com/models/1aa633edd64f4c8dbb56d63ae99fc8af/thumbnails/508a5eddb29e4e51814b1e8b53893e15/82eaaac61a244221aa055e2fc6f0dc58.jpeg"
+            }
+        ]
+    },
+    "uid": "1aa633edd64f4c8dbb56d63ae99fc8af",
+    "uri": "https://api.sketchfab.com/v3/models/1aa633edd64f4c8dbb56d63ae99fc8af",
+    "user": {
+        "uid": "b8a28e0716fe4b1e998d4842f4a134a1",
+        "username": "MILEVEN3D",
+        "displayName": "MILEVEN3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/MILEVEN3D",
+        "avatar": {
+            "uid": "07e66a8507474993a03e02747e84ca81",
+            "uri": "https://api.sketchfab.com/v3/avatars/07e66a8507474993a03e02747e84ca81",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1634,
+                    "url": "https://media.sketchfab.com/avatars/07e66a8507474993a03e02747e84ca81/dab1450a07014f24a5ce5bd74612b9e0.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3232,
+                    "url": "https://media.sketchfab.com/avatars/07e66a8507474993a03e02747e84ca81/03a8748c259b4a3dac29b449b3607bb8.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 9221,
+                    "url": "https://media.sketchfab.com/avatars/07e66a8507474993a03e02747e84ca81/24a1b8a73aa64c539962d980cf6c14c0.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11075,
+                    "url": "https://media.sketchfab.com/avatars/07e66a8507474993a03e02747e84ca81/71d75292373d4e449a12ba21ede525fe.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/b8a28e0716fe4b1e998d4842f4a134a1"
+    },
+    "vertexCount": 256787,
+    "viewCount": 2,
+    "viewerUrl": "https://sketchfab.com/3d-models/cyberpunk-neon-mask-game-ready-1aa633edd64f4c8dbb56d63ae99fc8af",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "Fab: https://www.fab.com/de/listings/59e170df-aa7d-47bc-95b5-ad6471e100b3\n\nThis Cyberpunk Neon Tech Mask is a highly stylized sci-fi accessory designed for futuristic characters, digital avatars, game development, virtual influencers, and 3D art projects.\n\nIt features sleek hard-surface geometry, glowing neon details, clean topology, and a bold cyberpunk aesthetic.\n\nThe model was created using a next-gen AI-assisted 3D workflow and then refined for smooth shading, clean edges, and stable UVs.\n\nPerfect for:\n\nCyberpunk characters\n\nSci-fi environments\n\nVR/AR prototypes\n\nAnimation and stylized renders\n\nGame engines (Unity, Unreal, UEFN)\n\nAvatar customization concepts\n\nFeatures:\n\nClean low-poly geometry (ideal for real-time use)\n\nHigh-quality textures included\n\nNeon glowing elements baked cleanly into the material\n\nOptimized UV layout\n\nCentered & properly scaled\n\nFully separate object — no character mesh included\n\nExport formats: FBX / GLB / GLTF / USDZ (depending on platform)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/1aa633edd64f4c8dbb56d63ae99fc8af/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-25T03:06:26.104662",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

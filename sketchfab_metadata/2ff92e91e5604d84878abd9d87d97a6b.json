@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-19T15:17:38.061355",
+    "embedUrl": "https://sketchfab.com/models/2ff92e91e5604d84878abd9d87d97a6b/embed",
+    "faceCount": 19143,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Elbow Joint",
+    "publishedAt": "2026-02-19T15:20:09.850333",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "steampunk",
+            "slug": "steampunk",
+            "uri": "https://api.sketchfab.com/v3/tags/steampunk"
+        },
+        {
+            "name": "uv",
+            "slug": "uv",
+            "uri": "https://api.sketchfab.com/v3/tags/uv"
+        },
+        {
+            "name": "Machine",
+            "slug": "machine",
+            "uri": "https://api.sketchfab.com/v3/tags/machine"
+        },
+        {
+            "name": "non-manifold",
+            "slug": "non-manifold",
+            "uri": "https://api.sketchfab.com/v3/tags/non-manifold"
+        },
+        {
+            "name": "industrial",
+            "slug": "industrial",
+            "uri": "https://api.sketchfab.com/v3/tags/industrial"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "6a1e8cf985734ea1bc20f1696d861cbd",
+                "width": 1920,
+                "height": 1080,
+                "size": 53021,
+                "url": "https://media.sketchfab.com/models/2ff92e91e5604d84878abd9d87d97a6b/thumbnails/05139a3c51ad4b87bbe7cd7c734880f3/8ad7b3a1381a4786b52c57dc273dc5cb.jpeg"
+            },
+            {
+                "uid": "68816cf5ba3844e5be882dd93199c182",
+                "width": 1024,
+                "height": 576,
+                "size": 17660,
+                "url": "https://media.sketchfab.com/models/2ff92e91e5604d84878abd9d87d97a6b/thumbnails/05139a3c51ad4b87bbe7cd7c734880f3/f0789d4ea2eb427b85c764f746b52989.jpeg"
+            },
+            {
+                "uid": "7baecd6d5b6a42378e1ac028ac4300cd",
+                "width": 720,
+                "height": 405,
+                "size": 10622,
+                "url": "https://media.sketchfab.com/models/2ff92e91e5604d84878abd9d87d97a6b/thumbnails/05139a3c51ad4b87bbe7cd7c734880f3/b91c0fa7a1a541ed8a4f3f26fe4a5b68.jpeg"
+            },
+            {
+                "uid": "94e5e63a38e84c1a8591ddc5cc166142",
+                "width": 256,
+                "height": 144,
+                "size": 2784,
+                "url": "https://media.sketchfab.com/models/2ff92e91e5604d84878abd9d87d97a6b/thumbnails/05139a3c51ad4b87bbe7cd7c734880f3/35213604ebd54baa996aaab14c92ebb7.jpeg"
+            },
+            {
+                "uid": "0263fd7c0ce9410b9683be499e8a40ca",
+                "width": 64,
+                "height": 36,
+                "size": 982,
+                "url": "https://media.sketchfab.com/models/2ff92e91e5604d84878abd9d87d97a6b/thumbnails/05139a3c51ad4b87bbe7cd7c734880f3/bd62865aeff24e6fa8f548b7338b75ab.jpeg"
+            }
+        ]
+    },
+    "uid": "2ff92e91e5604d84878abd9d87d97a6b",
+    "uri": "https://api.sketchfab.com/v3/models/2ff92e91e5604d84878abd9d87d97a6b",
+    "user": {
+        "uid": "a9e3ced00def49b59c134374df46b1ca",
+        "username": "montyarchu",
+        "displayName": "monty18",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/montyarchu",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/a9e3ced00def49b59c134374df46b1ca"
+    },
+    "vertexCount": 9694,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/elbow-joint-2ff92e91e5604d84878abd9d87d97a6b",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Antique Steam Engine Part",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/2ff92e91e5604d84878abd9d87d97a6b/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-19T15:20:10.023061",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

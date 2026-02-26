@@ -1,0 +1,261 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+            "name": "Food & Drink",
+            "slug": "food-drink",
+            "uri": "https://api.sketchfab.com/v3/categories/b3631aefd82b4eeba37aa5fc0b73b05a",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/dac08ea5b8779b2cef7a4c81327df721-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/b3631aefd82b4eeba37aa5fc0b73b05a/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-11-21T15:29:23.538595",
+    "embedUrl": "https://sketchfab.com/models/0e1595f0749b456eb88f66c0ee00a709/embed",
+    "faceCount": 821739,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 24,
+    "name": "Ornate Baroque Gravy Boat with Savory Sauce",
+    "publishedAt": "2025-11-21T15:33:32.043072",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "food",
+            "slug": "food",
+            "uri": "https://api.sketchfab.com/v3/tags/food"
+        },
+        {
+            "name": "ornate",
+            "slug": "ornate",
+            "uri": "https://api.sketchfab.com/v3/tags/ornate"
+        },
+        {
+            "name": "luxury",
+            "slug": "luxury",
+            "uri": "https://api.sketchfab.com/v3/tags/luxury"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "antique",
+            "slug": "antique",
+            "uri": "https://api.sketchfab.com/v3/tags/antique"
+        },
+        {
+            "name": "table",
+            "slug": "table",
+            "uri": "https://api.sketchfab.com/v3/tags/table"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "dessert",
+            "slug": "dessert",
+            "uri": "https://api.sketchfab.com/v3/tags/dessert"
+        },
+        {
+            "name": "baroque",
+            "slug": "baroque",
+            "uri": "https://api.sketchfab.com/v3/tags/baroque"
+        },
+        {
+            "name": "dining",
+            "slug": "dining",
+            "uri": "https://api.sketchfab.com/v3/tags/dining"
+        },
+        {
+            "name": "sauce",
+            "slug": "sauce",
+            "uri": "https://api.sketchfab.com/v3/tags/sauce"
+        },
+        {
+            "name": "gravy",
+            "slug": "gravy",
+            "uri": "https://api.sketchfab.com/v3/tags/gravy"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "boat",
+            "slug": "boat",
+            "uri": "https://api.sketchfab.com/v3/tags/boat"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "26cfa5de9fa341f9b571501ae6dd4d18",
+                "width": 1920,
+                "height": 1080,
+                "size": 459121,
+                "url": "https://media.sketchfab.com/models/0e1595f0749b456eb88f66c0ee00a709/thumbnails/8f900f428ce94e6081e8fb46bb4378b8/59f44271a260434d9de15abb8c85ca7f.jpeg"
+            },
+            {
+                "uid": "f899a4372d644c36896cc09a55400ddc",
+                "width": 1024,
+                "height": 576,
+                "size": 58472,
+                "url": "https://media.sketchfab.com/models/0e1595f0749b456eb88f66c0ee00a709/thumbnails/8f900f428ce94e6081e8fb46bb4378b8/40ec85e9ba4a4615b2a170e0afaabdd6.jpeg"
+            },
+            {
+                "uid": "9504c1277fa44a40ba399285c71ab2f3",
+                "width": 720,
+                "height": 405,
+                "size": 28269,
+                "url": "https://media.sketchfab.com/models/0e1595f0749b456eb88f66c0ee00a709/thumbnails/8f900f428ce94e6081e8fb46bb4378b8/1f8ac3788fcf4eb9b267705f13d354ac.jpeg"
+            },
+            {
+                "uid": "404ff44f0a2446a182ed4055f8d719a6",
+                "width": 256,
+                "height": 144,
+                "size": 5216,
+                "url": "https://media.sketchfab.com/models/0e1595f0749b456eb88f66c0ee00a709/thumbnails/8f900f428ce94e6081e8fb46bb4378b8/d9ca41a03d8e4817bf6fe61184f01169.jpeg"
+            },
+            {
+                "uid": "501ba82240fb433886483ee34458f1b8",
+                "width": 64,
+                "height": 36,
+                "size": 1275,
+                "url": "https://media.sketchfab.com/models/0e1595f0749b456eb88f66c0ee00a709/thumbnails/8f900f428ce94e6081e8fb46bb4378b8/cf400381de6146c8aa834da3e49e2f47.jpeg"
+            }
+        ]
+    },
+    "uid": "0e1595f0749b456eb88f66c0ee00a709",
+    "uri": "https://api.sketchfab.com/v3/models/0e1595f0749b456eb88f66c0ee00a709",
+    "user": {
+        "uid": "8dcd2c23b5da4d0a90cb10bdb0be99a0",
+        "username": "GalaxyAbundant",
+        "displayName": "Galaxy Abundant",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/GalaxyAbundant",
+        "avatar": {
+            "uid": "81412244641947759612e0738f375269",
+            "uri": "https://api.sketchfab.com/v3/avatars/81412244641947759612e0738f375269",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 655,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/e40febffe8cc49248bfd94492ddfac24.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 930,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/b410feb5a6e84f949dd90af0fbde5c59.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1864,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/c0390a25580c4f42a17eadbe55bd9f97.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2110,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/6bb8a6761d5043288f18a3f790417f8b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8dcd2c23b5da4d0a90cb10bdb0be99a0"
+    },
+    "vertexCount": 410328,
+    "viewCount": 429,
+    "viewerUrl": "https://sketchfab.com/3d-models/ornate-baroque-gravy-boat-with-savory-sauce-0e1595f0749b456eb88f66c0ee00a709",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A highly detailed, ornate gravy boat (or sauce boat) featuring a deep, dark antique metal finish and a pedestal base. The vessel is filled with a rich, savory, thick sauce.\n\nThis prop is perfect for adding luxury and detail to a variety of scenes, including:\n\nMedieval or Baroque dining halls\n\nFantasy feast tables\n\nHistorical game environments\n\nThe model serves as a beautiful centerpiece for a Thanksgiving, holiday, or general high-class dining environment.",
+    "price": null,
+    "downloadCount": 79,
+    "editorUrl": "https://sketchfab.com/models/0e1595f0749b456eb88f66c0ee00a709/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2025-11-22T12:53:14.532388",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

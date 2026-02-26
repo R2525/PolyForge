@@ -1,0 +1,216 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-13T15:41:19.261968",
+    "embedUrl": "https://sketchfab.com/models/3111d0071a884d2f87738b91ae04f436/embed",
+    "faceCount": 411233,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 9,
+    "name": "Buckled Leather Scoundrel _GGbextM _Highpoly",
+    "publishedAt": "2026-01-13T15:47:22.135467",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "warrior",
+            "slug": "warrior",
+            "uri": "https://api.sketchfab.com/v3/tags/warrior"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "jacket",
+            "slug": "jacket",
+            "uri": "https://api.sketchfab.com/v3/tags/jacket"
+        },
+        {
+            "name": "thief",
+            "slug": "thief",
+            "uri": "https://api.sketchfab.com/v3/tags/thief"
+        },
+        {
+            "name": "buckles",
+            "slug": "buckles",
+            "uri": "https://api.sketchfab.com/v3/tags/buckles"
+        },
+        {
+            "name": "mercenary",
+            "slug": "mercenary",
+            "uri": "https://api.sketchfab.com/v3/tags/mercenary"
+        },
+        {
+            "name": "scoundrel",
+            "slug": "scoundrel",
+            "uri": "https://api.sketchfab.com/v3/tags/scoundrel"
+        },
+        {
+            "name": "character",
+            "slug": "character",
+            "uri": "https://api.sketchfab.com/v3/tags/character"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "rogue",
+            "slug": "rogue",
+            "uri": "https://api.sketchfab.com/v3/tags/rogue"
+        },
+        {
+            "name": "streetwise",
+            "slug": "streetwise",
+            "uri": "https://api.sketchfab.com/v3/tags/streetwise"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "4a35e1a659094594bedb2e38168113b6",
+                "width": 1920,
+                "height": 1080,
+                "size": 413242,
+                "url": "https://media.sketchfab.com/models/3111d0071a884d2f87738b91ae04f436/thumbnails/a63fcd0c620749368b05ee50f625c7cb/a20f7ca0277843518b408137e8b9556a.jpeg"
+            },
+            {
+                "uid": "6ce0a7db03af4d96ab24dbcde3bef95d",
+                "width": 1024,
+                "height": 576,
+                "size": 47868,
+                "url": "https://media.sketchfab.com/models/3111d0071a884d2f87738b91ae04f436/thumbnails/a63fcd0c620749368b05ee50f625c7cb/5192f6131cbf4c1a972061aeff0462e9.jpeg"
+            },
+            {
+                "uid": "0cf93ddabd2a4f6ca6b0f428aa884df1",
+                "width": 720,
+                "height": 405,
+                "size": 21120,
+                "url": "https://media.sketchfab.com/models/3111d0071a884d2f87738b91ae04f436/thumbnails/a63fcd0c620749368b05ee50f625c7cb/8016d7fde2174c32b762e1c9fac28660.jpeg"
+            },
+            {
+                "uid": "2883c1ede0d843919e4094173fbd072d",
+                "width": 256,
+                "height": 144,
+                "size": 3488,
+                "url": "https://media.sketchfab.com/models/3111d0071a884d2f87738b91ae04f436/thumbnails/a63fcd0c620749368b05ee50f625c7cb/f83514bdb93641249ebbf83580b6eb38.jpeg"
+            },
+            {
+                "uid": "57b4046777e44b90af6e81ee998c44db",
+                "width": 64,
+                "height": 36,
+                "size": 973,
+                "url": "https://media.sketchfab.com/models/3111d0071a884d2f87738b91ae04f436/thumbnails/a63fcd0c620749368b05ee50f625c7cb/8b51083511c4495082719bef987fc4f2.jpeg"
+            }
+        ]
+    },
+    "uid": "3111d0071a884d2f87738b91ae04f436",
+    "uri": "https://api.sketchfab.com/v3/models/3111d0071a884d2f87738b91ae04f436",
+    "user": {
+        "uid": "8dcd2c23b5da4d0a90cb10bdb0be99a0",
+        "username": "GalaxyAbundant",
+        "displayName": "Galaxy Abundant",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/GalaxyAbundant",
+        "avatar": {
+            "uid": "81412244641947759612e0738f375269",
+            "uri": "https://api.sketchfab.com/v3/avatars/81412244641947759612e0738f375269",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 655,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/e40febffe8cc49248bfd94492ddfac24.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 930,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/b410feb5a6e84f949dd90af0fbde5c59.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 1864,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/c0390a25580c4f42a17eadbe55bd9f97.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2110,
+                    "url": "https://media.sketchfab.com/avatars/81412244641947759612e0738f375269/6bb8a6761d5043288f18a3f790417f8b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/8dcd2c23b5da4d0a90cb10bdb0be99a0"
+    },
+    "vertexCount": 205580,
+    "viewCount": 268,
+    "viewerUrl": "https://sketchfab.com/3d-models/buckled-leather-scoundrel--ggbextm--highpoly-3111d0071a884d2f87738b91ae04f436",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "The Streetwise Rogue - Buckled Leather Scoundrel \n\nA high-fidelity, professional-grade 3D character model of a medieval fantasy scoundrel. This model focuses on high-detail utility gear and a lean, athletic build, making it ideal for main protagonists or high-tier NPCs in action-RPG or stealth titles.\n\nKey Features:\n\nUnique Design: Features a detailed brown leather utility jacket with multiple functional buckles, a beige linen undershirt, and dark olive-drab trousers.\nCharacter Details: Sharp facial features including a visible scar over the eye and a confident, signature smirk.\nEquipment: Includes realistic fingerless hand wraps, a heavy-duty utility belt with multiple pouches, a hip-mounted sheathed dagger, and tall buckled leather boots.",
+    "price": null,
+    "downloadCount": 44,
+    "editorUrl": "https://sketchfab.com/models/3111d0071a884d2f87738b91ae04f436/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2026-01-15T09:26:10.369707",
+    "pbrType": "specular",
+    "textureCount": 4,
+    "materialCount": 1
+}

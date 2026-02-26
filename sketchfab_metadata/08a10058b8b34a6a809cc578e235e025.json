@@ -1,0 +1,351 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "17d20ca7b35243d4a45171838b50704c",
+            "name": "Science & Technology",
+            "slug": "science-technology",
+            "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-18T16:43:15.966397",
+    "embedUrl": "https://sketchfab.com/models/08a10058b8b34a6a809cc578e235e025/embed",
+    "faceCount": 1004,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sentinel Ballista Pedestal",
+    "publishedAt": "2026-02-18T16:55:58.432737",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "tower",
+            "slug": "tower",
+            "uri": "https://api.sketchfab.com/v3/tags/tower"
+        },
+        {
+            "name": "room",
+            "slug": "room",
+            "uri": "https://api.sketchfab.com/v3/tags/room"
+        },
+        {
+            "name": "castle",
+            "slug": "castle",
+            "uri": "https://api.sketchfab.com/v3/tags/castle"
+        },
+        {
+            "name": "bronze",
+            "slug": "bronze",
+            "uri": "https://api.sketchfab.com/v3/tags/bronze"
+        },
+        {
+            "name": "high",
+            "slug": "high",
+            "uri": "https://api.sketchfab.com/v3/tags/high"
+        },
+        {
+            "name": "installation",
+            "slug": "installation",
+            "uri": "https://api.sketchfab.com/v3/tags/installation"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "pedestal",
+            "slug": "pedestal",
+            "uri": "https://api.sketchfab.com/v3/tags/pedestal"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "bolt",
+            "slug": "bolt",
+            "uri": "https://api.sketchfab.com/v3/tags/bolt"
+        },
+        {
+            "name": "detail",
+            "slug": "detail",
+            "uri": "https://api.sketchfab.com/v3/tags/detail"
+        },
+        {
+            "name": "historical",
+            "slug": "historical",
+            "uri": "https://api.sketchfab.com/v3/tags/historical"
+        },
+        {
+            "name": "throne",
+            "slug": "throne",
+            "uri": "https://api.sketchfab.com/v3/tags/throne"
+        },
+        {
+            "name": "artillery",
+            "slug": "artillery",
+            "uri": "https://api.sketchfab.com/v3/tags/artillery"
+        },
+        {
+            "name": "defense",
+            "slug": "defense",
+            "uri": "https://api.sketchfab.com/v3/tags/defense"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "siege",
+            "slug": "siege",
+            "uri": "https://api.sketchfab.com/v3/tags/siege"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "Machine",
+            "slug": "machine",
+            "uri": "https://api.sketchfab.com/v3/tags/machine"
+        },
+        {
+            "name": "Defensive",
+            "slug": "defensive",
+            "uri": "https://api.sketchfab.com/v3/tags/defensive"
+        },
+        {
+            "name": "iron",
+            "slug": "iron",
+            "uri": "https://api.sketchfab.com/v3/tags/iron"
+        },
+        {
+            "name": "thrower",
+            "slug": "thrower",
+            "uri": "https://api.sketchfab.com/v3/tags/thrower"
+        },
+        {
+            "name": "Sentinel",
+            "slug": "sentinel",
+            "uri": "https://api.sketchfab.com/v3/tags/sentinel"
+        },
+        {
+            "name": "ballista",
+            "slug": "ballista",
+            "uri": "https://api.sketchfab.com/v3/tags/ballista"
+        },
+        {
+            "name": "rampart",
+            "slug": "rampart",
+            "uri": "https://api.sketchfab.com/v3/tags/rampart"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/tags/architecture"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "stone",
+            "slug": "stone",
+            "uri": "https://api.sketchfab.com/v3/tags/stone"
+        },
+        {
+            "name": "structure",
+            "slug": "structure",
+            "uri": "https://api.sketchfab.com/v3/tags/structure"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "war",
+            "slug": "war",
+            "uri": "https://api.sketchfab.com/v3/tags/war"
+        },
+        {
+            "name": "engineering",
+            "slug": "engineering",
+            "uri": "https://api.sketchfab.com/v3/tags/engineering"
+        },
+        {
+            "name": "modular",
+            "slug": "modular",
+            "uri": "https://api.sketchfab.com/v3/tags/modular"
+        },
+        {
+            "name": "environment",
+            "slug": "environment",
+            "uri": "https://api.sketchfab.com/v3/tags/environment"
+        },
+        {
+            "name": "temple",
+            "slug": "temple",
+            "uri": "https://api.sketchfab.com/v3/tags/temple"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "fdffaa0315cf438f8c139afaf407f715",
+                "width": 1920,
+                "height": 1080,
+                "size": 56142,
+                "url": "https://media.sketchfab.com/models/08a10058b8b34a6a809cc578e235e025/thumbnails/22182bad0f4e42d4877bd07d3b55500d/afdc1e085b194a8eb0fd52fc7f173907.jpeg"
+            },
+            {
+                "uid": "2404b9c266294c979fa1fa933d178874",
+                "width": 1024,
+                "height": 576,
+                "size": 20088,
+                "url": "https://media.sketchfab.com/models/08a10058b8b34a6a809cc578e235e025/thumbnails/22182bad0f4e42d4877bd07d3b55500d/86f886d54f774dba8e8a9eb220473736.jpeg"
+            },
+            {
+                "uid": "a1fbeccfff914895a738f0688a614269",
+                "width": 720,
+                "height": 405,
+                "size": 12051,
+                "url": "https://media.sketchfab.com/models/08a10058b8b34a6a809cc578e235e025/thumbnails/22182bad0f4e42d4877bd07d3b55500d/b2be340975b14150a34075b0ad369c30.jpeg"
+            },
+            {
+                "uid": "7fd7d0fb5f114530b02c833a738dbe90",
+                "width": 256,
+                "height": 144,
+                "size": 2927,
+                "url": "https://media.sketchfab.com/models/08a10058b8b34a6a809cc578e235e025/thumbnails/22182bad0f4e42d4877bd07d3b55500d/a705a700403142cb983cfe22feb4c468.jpeg"
+            },
+            {
+                "uid": "df2a78414bed42b1931f878e19d2aede",
+                "width": 64,
+                "height": 36,
+                "size": 921,
+                "url": "https://media.sketchfab.com/models/08a10058b8b34a6a809cc578e235e025/thumbnails/22182bad0f4e42d4877bd07d3b55500d/63668e8ecb1446fa939bdfd680291aa2.jpeg"
+            }
+        ]
+    },
+    "uid": "08a10058b8b34a6a809cc578e235e025",
+    "uri": "https://api.sketchfab.com/v3/models/08a10058b8b34a6a809cc578e235e025",
+    "user": {
+        "uid": "2a778f6161c5462397bec4953bffb618",
+        "username": "Raul-DGS",
+        "displayName": "DGS",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Raul-DGS",
+        "avatar": {
+            "uid": "90750069b7234dba9ded5b9698e62fa1",
+            "uri": "https://api.sketchfab.com/v3/avatars/90750069b7234dba9ded5b9698e62fa1",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1358,
+                    "url": "https://media.sketchfab.com/avatars/90750069b7234dba9ded5b9698e62fa1/fffb3bb45281465e93505c07a47be560.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2475,
+                    "url": "https://media.sketchfab.com/avatars/90750069b7234dba9ded5b9698e62fa1/4220793bcb66442ea32145687172e0e2.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 6528,
+                    "url": "https://media.sketchfab.com/avatars/90750069b7234dba9ded5b9698e62fa1/6f038fbc81e64f669b131716e67c7703.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 7695,
+                    "url": "https://media.sketchfab.com/avatars/90750069b7234dba9ded5b9698e62fa1/458ff3113b4e4f18ac06a818a9a0ca56.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/2a778f6161c5462397bec4953bffb618"
+    },
+    "vertexCount": 524,
+    "viewCount": 3,
+    "viewerUrl": "https://sketchfab.com/3d-models/sentinel-ballista-pedestal-08a10058b8b34a6a809cc578e235e025",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Best if this is for a fantasy or historical game.\n\nThe Sentinel Ballista is a heavy-duty, fixed-position defense installation. Crafted from reinforced bronze and weathered iron, this model represents the pinnacle of medieval engineering. Designed to guard castle ramparts or narrow temple corridors, the ballista is mounted on a massive stone-hewn pedestal that allows for a wide field of fire.\n\nThe installation features a dual-tension limb system and a deep-groove bolt channel, ensuring maximum penetration against armored targets. Whether it's a centerpiece for a throne room or a functional asset in a tower defense level, this model brings a sense of grounded, mechanical power to any environment.",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/08a10058b8b34a6a809cc578e235e025/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-18T16:55:59.682399",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

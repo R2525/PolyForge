@@ -1,0 +1,121 @@
+{
+    "animationCount": 0,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-01-09T06:46:22.759547",
+    "embedUrl": "https://sketchfab.com/models/395b8a0753144cb9b5192d96edb64cb6/embed",
+    "faceCount": 484,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Extant(DC)",
+    "publishedAt": "2026-01-09T06:48:39.380711",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "11944d677b174d589aaf4dd479baabbc",
+                "width": 1920,
+                "height": 1080,
+                "size": 68950,
+                "url": "https://media.sketchfab.com/models/395b8a0753144cb9b5192d96edb64cb6/thumbnails/eb580b9c32744d46ab7c9c72988e4d65/daa3c57eb0df4a6bafee05434281f7a5.jpeg"
+            },
+            {
+                "uid": "4ec4413fd2124754b115b1f4cc0151aa",
+                "width": 1024,
+                "height": 576,
+                "size": 22333,
+                "url": "https://media.sketchfab.com/models/395b8a0753144cb9b5192d96edb64cb6/thumbnails/eb580b9c32744d46ab7c9c72988e4d65/4985a9cce0af4fec9fbdc3ebc78520a3.jpeg"
+            },
+            {
+                "uid": "833329731f074a63a39a36eb1e48da55",
+                "width": 720,
+                "height": 405,
+                "size": 12515,
+                "url": "https://media.sketchfab.com/models/395b8a0753144cb9b5192d96edb64cb6/thumbnails/eb580b9c32744d46ab7c9c72988e4d65/150ca19145df4a1797e601f2309d6084.jpeg"
+            },
+            {
+                "uid": "21adcc16c4604b68b2cbdd4b55eeba9a",
+                "width": 256,
+                "height": 144,
+                "size": 2823,
+                "url": "https://media.sketchfab.com/models/395b8a0753144cb9b5192d96edb64cb6/thumbnails/eb580b9c32744d46ab7c9c72988e4d65/3e0fe8cd75cd4bbdafcbf5a0075dc479.jpeg"
+            },
+            {
+                "uid": "68f9244882e1451fa8fae8b087a40a5b",
+                "width": 64,
+                "height": 36,
+                "size": 941,
+                "url": "https://media.sketchfab.com/models/395b8a0753144cb9b5192d96edb64cb6/thumbnails/eb580b9c32744d46ab7c9c72988e4d65/0c7459b6c75c437b8cb34a0e412c3e84.jpeg"
+            }
+        ]
+    },
+    "uid": "395b8a0753144cb9b5192d96edb64cb6",
+    "uri": "https://api.sketchfab.com/v3/models/395b8a0753144cb9b5192d96edb64cb6",
+    "user": {
+        "uid": "34bdaec9495f41ae81f50b96ca4cef97",
+        "username": "mitchellgarcia1009",
+        "displayName": "mitchellgarcia1009",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/mitchellgarcia1009",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/34bdaec9495f41ae81f50b96ca4cef97"
+    },
+    "vertexCount": 238,
+    "viewCount": 7,
+    "viewerUrl": "https://sketchfab.com/3d-models/extantdc-395b8a0753144cb9b5192d96edb64cb6",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/395b8a0753144cb9b5192d96edb64cb6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-09T06:48:39.491622",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

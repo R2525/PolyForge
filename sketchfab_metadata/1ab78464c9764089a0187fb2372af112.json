@@ -1,0 +1,226 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+            "name": "Characters & Creatures",
+            "slug": "characters-creatures",
+            "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-17T10:04:24.012257",
+    "embedUrl": "https://sketchfab.com/models/1ab78464c9764089a0187fb2372af112/embed",
+    "faceCount": 654800,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Blue Crest Archer",
+    "publishedAt": "2026-02-17T10:33:23.682907",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "armor",
+            "slug": "armor",
+            "uri": "https://api.sketchfab.com/v3/tags/armor"
+        },
+        {
+            "name": "bow",
+            "slug": "bow",
+            "uri": "https://api.sketchfab.com/v3/tags/bow"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "hero",
+            "slug": "hero",
+            "uri": "https://api.sketchfab.com/v3/tags/hero"
+        },
+        {
+            "name": "archer",
+            "slug": "archer",
+            "uri": "https://api.sketchfab.com/v3/tags/archer"
+        },
+        {
+            "name": "Ranged",
+            "slug": "ranged",
+            "uri": "https://api.sketchfab.com/v3/tags/ranged"
+        },
+        {
+            "name": "AI",
+            "slug": "ai",
+            "uri": "https://api.sketchfab.com/v3/tags/ai"
+        },
+        {
+            "name": "blue",
+            "slug": "blue",
+            "uri": "https://api.sketchfab.com/v3/tags/blue"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "shield",
+            "slug": "shield",
+            "uri": "https://api.sketchfab.com/v3/tags/shield"
+        },
+        {
+            "name": "knight",
+            "slug": "knight",
+            "uri": "https://api.sketchfab.com/v3/tags/knight"
+        },
+        {
+            "name": "createdwithai",
+            "slug": "createdwithai",
+            "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+        },
+        {
+            "name": "meshy",
+            "slug": "meshy",
+            "uri": "https://api.sketchfab.com/v3/tags/meshy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7e8c29d38c704f91ac6f3d5f7a4cded9",
+                "width": 1920,
+                "height": 1080,
+                "size": 69300,
+                "url": "https://media.sketchfab.com/models/1ab78464c9764089a0187fb2372af112/thumbnails/aa94142ea6fc4aa3801184b349d5091f/233448b5bb7f48c88faf656a5198193b.jpeg"
+            },
+            {
+                "uid": "5c84e987859c46bcaee698bf50781f42",
+                "width": 1024,
+                "height": 576,
+                "size": 22512,
+                "url": "https://media.sketchfab.com/models/1ab78464c9764089a0187fb2372af112/thumbnails/aa94142ea6fc4aa3801184b349d5091f/dcea6dc01b7944b1ace1b656c40ae78a.jpeg"
+            },
+            {
+                "uid": "357bf2d7a3e4406eb916ca1953cdadfc",
+                "width": 720,
+                "height": 405,
+                "size": 12617,
+                "url": "https://media.sketchfab.com/models/1ab78464c9764089a0187fb2372af112/thumbnails/aa94142ea6fc4aa3801184b349d5091f/3f5ce7ae0fad49918f43daeecada36ba.jpeg"
+            },
+            {
+                "uid": "d9548fce71444c20a23998c842089e87",
+                "width": 256,
+                "height": 144,
+                "size": 2529,
+                "url": "https://media.sketchfab.com/models/1ab78464c9764089a0187fb2372af112/thumbnails/aa94142ea6fc4aa3801184b349d5091f/7b7727bb3373479d8e95e42f68fcd5ee.jpeg"
+            },
+            {
+                "uid": "b674a49cb9674ed5bd96fb11d4b2d396",
+                "width": 64,
+                "height": 36,
+                "size": 797,
+                "url": "https://media.sketchfab.com/models/1ab78464c9764089a0187fb2372af112/thumbnails/aa94142ea6fc4aa3801184b349d5091f/c4fd96ec0b9a4a70aeb7f2fcae26f03c.jpeg"
+            }
+        ]
+    },
+    "uid": "1ab78464c9764089a0187fb2372af112",
+    "uri": "https://api.sketchfab.com/v3/models/1ab78464c9764089a0187fb2372af112",
+    "user": {
+        "uid": "6722833a13c24b54af9757e64201cbfe",
+        "username": "kmkrtchyan70",
+        "displayName": "Ded Makar",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/kmkrtchyan70",
+        "avatar": {
+            "uid": "e426f8f1bdcc46e0a45fa572af73859a",
+            "uri": "https://api.sketchfab.com/v3/avatars/e426f8f1bdcc46e0a45fa572af73859a",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1182,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/efb9a0da56c64d7b8c866671a862673a.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1673,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01b13b16a4c84c0da2a7b25e9d870279.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 3615,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/883afddce77a4ecf9d2d26c8dc259872.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 4214,
+                    "url": "https://media.sketchfab.com/avatars/e426f8f1bdcc46e0a45fa572af73859a/01042899c933428d8a46f9387a1c5717.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6722833a13c24b54af9757e64201cbfe"
+    },
+    "vertexCount": 327306,
+    "viewCount": 53,
+    "viewerUrl": "https://sketchfab.com/3d-models/blue-crest-archer-1ab78464c9764089a0187fb2372af112",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "This model was generated using Meshy, an AI-powered 3D creation toolkit. Meshy helps creators turn ideas into high-quality 3D models with ease. View the original model and claim a free month of Pro on Meshy: [https://www.meshy.ai/s/EQSBhM](https://www.meshy.ai/s/EQSBhM)",
+    "price": null,
+    "downloadCount": 12,
+    "editorUrl": "https://sketchfab.com/models/1ab78464c9764089a0187fb2372af112/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-17T10:33:24.124702",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 1
+}

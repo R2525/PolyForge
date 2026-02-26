@@ -1,0 +1,167 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T19:40:22.123369",
+    "embedUrl": "https://sketchfab.com/models/04fd7a933d89437a97115018e09f2201/embed",
+    "faceCount": 14776,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Sci Fi Ventilation",
+    "publishedAt": "2026-02-21T19:45:38.347742",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "vent",
+            "slug": "vent",
+            "uri": "https://api.sketchfab.com/v3/tags/vent"
+        },
+        {
+            "name": "ventilation",
+            "slug": "ventilation",
+            "uri": "https://api.sketchfab.com/v3/tags/ventilation"
+        },
+        {
+            "name": "scifi",
+            "slug": "scifi",
+            "uri": "https://api.sketchfab.com/v3/tags/scifi"
+        },
+        {
+            "name": "air",
+            "slug": "air",
+            "uri": "https://api.sketchfab.com/v3/tags/air"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "37044a04ed3e4f2583d7234acc498871",
+                "width": 1920,
+                "height": 1080,
+                "size": 53636,
+                "url": "https://media.sketchfab.com/models/04fd7a933d89437a97115018e09f2201/thumbnails/a392993d20ec427897c41f300530df3e/a9384dfa8e754374a4cc66ff0eb21a9d.jpeg"
+            },
+            {
+                "uid": "876cb26451a84b379a7079bccc54fc54",
+                "width": 1024,
+                "height": 576,
+                "size": 17681,
+                "url": "https://media.sketchfab.com/models/04fd7a933d89437a97115018e09f2201/thumbnails/a392993d20ec427897c41f300530df3e/a6209d752d08403681affe102b18caea.jpeg"
+            },
+            {
+                "uid": "7df5244e3b90411c953bbfe2319ef5f0",
+                "width": 720,
+                "height": 405,
+                "size": 9941,
+                "url": "https://media.sketchfab.com/models/04fd7a933d89437a97115018e09f2201/thumbnails/a392993d20ec427897c41f300530df3e/dc48e8832e7a4772af9a22e3032f1e64.jpeg"
+            },
+            {
+                "uid": "3bb286665ae54b5788cf7d7cdee69d9b",
+                "width": 256,
+                "height": 144,
+                "size": 2606,
+                "url": "https://media.sketchfab.com/models/04fd7a933d89437a97115018e09f2201/thumbnails/a392993d20ec427897c41f300530df3e/37099229f56c4982b3b6bb6f8a7cf75e.jpeg"
+            },
+            {
+                "uid": "6fdca5303d56447a964be447e012a910",
+                "width": 64,
+                "height": 36,
+                "size": 885,
+                "url": "https://media.sketchfab.com/models/04fd7a933d89437a97115018e09f2201/thumbnails/a392993d20ec427897c41f300530df3e/070f9a2e27234296abf6350d24bcaf97.jpeg"
+            }
+        ]
+    },
+    "uid": "04fd7a933d89437a97115018e09f2201",
+    "uri": "https://api.sketchfab.com/v3/models/04fd7a933d89437a97115018e09f2201",
+    "user": {
+        "uid": "ced0fa218900440c9690a4d612c34448",
+        "username": "hbomber",
+        "displayName": "H-Bomber",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/hbomber",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ced0fa218900440c9690a4d612c34448"
+    },
+    "vertexCount": 7721,
+    "viewCount": 1,
+    "viewerUrl": "https://sketchfab.com/3d-models/sci-fi-ventilation-04fd7a933d89437a97115018e09f2201",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the Original format.The viewer version is intended exclusively for browser preview. In the Original format, the following are fully preserved:✔ original scene hierarchy✔ complete materials without reduction✔ accurate texture maps✔ correct object namesIf you plan to use this model in production, download the Original format.Made for your sci fi scenes",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/04fd7a933d89437a97115018e09f2201/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T19:45:38.519082",
+    "pbrType": "metalness",
+    "textureCount": 13,
+    "materialCount": 9
+}

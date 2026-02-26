@@ -1,0 +1,177 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-21T04:59:39.749677",
+    "embedUrl": "https://sketchfab.com/models/31e4db9b8b0849fdac8bd2fc3924b0c3/embed",
+    "faceCount": 9360,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Bloody Sword",
+    "publishedAt": "2026-02-21T05:03:03.765290",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "bloody",
+            "slug": "bloody",
+            "uri": "https://api.sketchfab.com/v3/tags/bloody"
+        },
+        {
+            "name": "brown",
+            "slug": "brown",
+            "uri": "https://api.sketchfab.com/v3/tags/brown"
+        },
+        {
+            "name": "rope",
+            "slug": "rope",
+            "uri": "https://api.sketchfab.com/v3/tags/rope"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "sword",
+            "slug": "sword",
+            "uri": "https://api.sketchfab.com/v3/tags/sword"
+        },
+        {
+            "name": "black",
+            "slug": "black",
+            "uri": "https://api.sketchfab.com/v3/tags/black"
+        },
+        {
+            "name": "steel",
+            "slug": "steel",
+            "uri": "https://api.sketchfab.com/v3/tags/steel"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "2589213e899d4b93b03ce9b1c933066f",
+                "width": 1920,
+                "height": 1080,
+                "size": 40174,
+                "url": "https://media.sketchfab.com/models/31e4db9b8b0849fdac8bd2fc3924b0c3/thumbnails/6b788eb75eb346dbbdd2b5ca935d0f43/eedbf333056c4f0090d494a900bd243f.jpeg"
+            },
+            {
+                "uid": "013a70cf61ef47ccb2e12b9850b31190",
+                "width": 1024,
+                "height": 576,
+                "size": 12682,
+                "url": "https://media.sketchfab.com/models/31e4db9b8b0849fdac8bd2fc3924b0c3/thumbnails/6b788eb75eb346dbbdd2b5ca935d0f43/1cf003bbb88b4a17aae5f14d2dd979a1.jpeg"
+            },
+            {
+                "uid": "3376134b9865403bba26b34cf9ee1bf6",
+                "width": 720,
+                "height": 405,
+                "size": 7121,
+                "url": "https://media.sketchfab.com/models/31e4db9b8b0849fdac8bd2fc3924b0c3/thumbnails/6b788eb75eb346dbbdd2b5ca935d0f43/af7c6b55de3c4171a8088684a0324593.jpeg"
+            },
+            {
+                "uid": "a03d3f2d05754510b9045237b3fc9ba1",
+                "width": 256,
+                "height": 144,
+                "size": 1832,
+                "url": "https://media.sketchfab.com/models/31e4db9b8b0849fdac8bd2fc3924b0c3/thumbnails/6b788eb75eb346dbbdd2b5ca935d0f43/9f87360d384f46b594808d4121e0ed2e.jpeg"
+            },
+            {
+                "uid": "f765ae0bca7f4e0da8b6ba7e1d1f97ef",
+                "width": 64,
+                "height": 36,
+                "size": 757,
+                "url": "https://media.sketchfab.com/models/31e4db9b8b0849fdac8bd2fc3924b0c3/thumbnails/6b788eb75eb346dbbdd2b5ca935d0f43/9f8b6fa8f81d46679586bcf765ff4de9.jpeg"
+            }
+        ]
+    },
+    "uid": "31e4db9b8b0849fdac8bd2fc3924b0c3",
+    "uri": "https://api.sketchfab.com/v3/models/31e4db9b8b0849fdac8bd2fc3924b0c3",
+    "user": {
+        "uid": "6585a98dd16e4c4bb6e5d36befca81e0",
+        "username": "nalarude1985",
+        "displayName": "nalarude1985",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/nalarude1985",
+        "avatar": {
+            "uid": "51af6a870cce449eb75b0345feebaebb",
+            "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+            "images": [
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5719,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6496,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1359,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2584,
+                    "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6585a98dd16e4c4bb6e5d36befca81e0"
+    },
+    "vertexCount": 4708,
+    "viewCount": 4,
+    "viewerUrl": "https://sketchfab.com/3d-models/bloody-sword-31e4db9b8b0849fdac8bd2fc3924b0c3",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For full functionality, we recommend downloading the original file.The converted file is intended only for use in the web viewer. In the original file, the following are fully preserved:✔ full scene structure✔ complete materials without reduction✔ correct PBR texture maps✔ original object namesIf you intend to use the asset in a production environment, select the Original format.High Detailed Photorealistic Sword made with blender and rendered by cycles .",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/31e4db9b8b0849fdac8bd2fc3924b0c3/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-21T05:03:03.975809",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

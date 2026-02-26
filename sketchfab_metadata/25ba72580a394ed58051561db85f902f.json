@@ -1,0 +1,155 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-15T21:36:50.604054",
+    "embedUrl": "https://sketchfab.com/models/25ba72580a394ed58051561db85f902f/embed",
+    "faceCount": 1140,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 0,
+    "name": "Man at Arms Morning Star",
+    "publishedAt": "2026-01-15T21:58:34.586765",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "weapons-game-objects-3d-models",
+            "slug": "weapons-game-objects-3d-models",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons-game-objects-3d-models"
+        },
+        {
+            "name": "props-game",
+            "slug": "props-game",
+            "uri": "https://api.sketchfab.com/v3/tags/props-game"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "b2dbe05e100d4cd28371f03f3e4da42f",
+                "width": 1920,
+                "height": 1080,
+                "size": 250258,
+                "url": "https://media.sketchfab.com/models/25ba72580a394ed58051561db85f902f/thumbnails/47d500a07f354fbcbc0bfa77454b3dc2/5df22cdcd1f74648a08209804325f056.jpeg"
+            },
+            {
+                "uid": "dc9ddebf95364d36ae258a6e7a54fb95",
+                "width": 1024,
+                "height": 576,
+                "size": 24421,
+                "url": "https://media.sketchfab.com/models/25ba72580a394ed58051561db85f902f/thumbnails/47d500a07f354fbcbc0bfa77454b3dc2/9431ae89551e4d54b9e1e8fc6176bdb7.jpeg"
+            },
+            {
+                "uid": "845bdc22ef5d4ff5a14cffacafa01cbf",
+                "width": 720,
+                "height": 405,
+                "size": 13545,
+                "url": "https://media.sketchfab.com/models/25ba72580a394ed58051561db85f902f/thumbnails/47d500a07f354fbcbc0bfa77454b3dc2/a392fed5d361404ebb5bd81e1f5ce6d8.jpeg"
+            },
+            {
+                "uid": "05de96c3ace9436baab5a967e2a97000",
+                "width": 256,
+                "height": 144,
+                "size": 3057,
+                "url": "https://media.sketchfab.com/models/25ba72580a394ed58051561db85f902f/thumbnails/47d500a07f354fbcbc0bfa77454b3dc2/5c01e1f73fc146ba8431f2632592742f.jpeg"
+            },
+            {
+                "uid": "16cab1577a314bfaa54c3a1e8d3fa7b0",
+                "width": 64,
+                "height": 36,
+                "size": 977,
+                "url": "https://media.sketchfab.com/models/25ba72580a394ed58051561db85f902f/thumbnails/47d500a07f354fbcbc0bfa77454b3dc2/a18169c9bb564755a42e026e59005abf.jpeg"
+            }
+        ]
+    },
+    "uid": "25ba72580a394ed58051561db85f902f",
+    "uri": "https://api.sketchfab.com/v3/models/25ba72580a394ed58051561db85f902f",
+    "user": {
+        "uid": "0d617f0f500f4afb9288666a351613ca",
+        "username": "Hima_97",
+        "displayName": "Hendrixart97",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Hima_97",
+        "avatar": {
+            "uid": "a89254a6640c4dc89725a8bf7fec8717",
+            "uri": "https://api.sketchfab.com/v3/avatars/a89254a6640c4dc89725a8bf7fec8717",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1217,
+                    "url": "https://media.sketchfab.com/avatars/a89254a6640c4dc89725a8bf7fec8717/a3c0256c47674b9d9c37e9ac542f2615.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1823,
+                    "url": "https://media.sketchfab.com/avatars/a89254a6640c4dc89725a8bf7fec8717/82ffd95b124c4bcc83fbc17bc55980a1.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4414,
+                    "url": "https://media.sketchfab.com/avatars/a89254a6640c4dc89725a8bf7fec8717/4f2ad84cfa784310ae6e0e1abb817546.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5114,
+                    "url": "https://media.sketchfab.com/avatars/a89254a6640c4dc89725a8bf7fec8717/62d0efa2f1b64192b5430bdb19577615.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/0d617f0f500f4afb9288666a351613ca"
+    },
+    "vertexCount": 652,
+    "viewCount": 9,
+    "viewerUrl": "https://sketchfab.com/3d-models/man-at-arms-morning-star-25ba72580a394ed58051561db85f902f",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "A basic Morning Star made in Blender and textured with Quixel mats.\n\nQuixel Mats:\nRusty Metal Sheet\nWalnut Veneer",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/25ba72580a394ed58051561db85f902f/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-15T22:00:10.165309",
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2
+}

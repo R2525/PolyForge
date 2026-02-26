@@ -1,0 +1,162 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-20T10:34:13.346117",
+    "embedUrl": "https://sketchfab.com/models/1e2d0dbf7ee146368b15d8e49eed92d5/embed",
+    "faceCount": 1004589,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Subaru Rally Car",
+    "publishedAt": "2026-02-20T10:35:54.181086",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "subaru",
+            "slug": "subaru",
+            "uri": "https://api.sketchfab.com/v3/tags/subaru"
+        },
+        {
+            "name": "impreza",
+            "slug": "impreza",
+            "uri": "https://api.sketchfab.com/v3/tags/impreza"
+        },
+        {
+            "name": "photorealistic",
+            "slug": "photorealistic",
+            "uri": "https://api.sketchfab.com/v3/tags/photorealistic"
+        },
+        {
+            "name": "car",
+            "slug": "car",
+            "uri": "https://api.sketchfab.com/v3/tags/car"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "a744dd05f9bd4e1197fdb279cc11fe71",
+                "width": 1920,
+                "height": 1080,
+                "size": 63426,
+                "url": "https://media.sketchfab.com/models/1e2d0dbf7ee146368b15d8e49eed92d5/thumbnails/baa2b37b960f41b1932c767728bcbd0c/d10eb2dca34d45b6ac24df0fba0b66f5.jpeg"
+            },
+            {
+                "uid": "7f4dc62908c942d89a019a5f15523deb",
+                "width": 1024,
+                "height": 576,
+                "size": 21763,
+                "url": "https://media.sketchfab.com/models/1e2d0dbf7ee146368b15d8e49eed92d5/thumbnails/baa2b37b960f41b1932c767728bcbd0c/6defd6041aea41b6a8325dc0adb28b0d.jpeg"
+            },
+            {
+                "uid": "cc108f1c90e44a559964bcbb9fba0b9e",
+                "width": 720,
+                "height": 405,
+                "size": 12723,
+                "url": "https://media.sketchfab.com/models/1e2d0dbf7ee146368b15d8e49eed92d5/thumbnails/baa2b37b960f41b1932c767728bcbd0c/e7d1b8f9deb74a0b8b68bf1ea43c1dd1.jpeg"
+            },
+            {
+                "uid": "d4c1f37421e344aa950ac29e3ab7ad5e",
+                "width": 256,
+                "height": 144,
+                "size": 2964,
+                "url": "https://media.sketchfab.com/models/1e2d0dbf7ee146368b15d8e49eed92d5/thumbnails/baa2b37b960f41b1932c767728bcbd0c/448c94553e66406e8eab05e296fe4f44.jpeg"
+            },
+            {
+                "uid": "089653b2911848bb8662f7dc4925d591",
+                "width": 64,
+                "height": 36,
+                "size": 957,
+                "url": "https://media.sketchfab.com/models/1e2d0dbf7ee146368b15d8e49eed92d5/thumbnails/baa2b37b960f41b1932c767728bcbd0c/b507f06e48b84378bf44a7660cd05722.jpeg"
+            }
+        ]
+    },
+    "uid": "1e2d0dbf7ee146368b15d8e49eed92d5",
+    "uri": "https://api.sketchfab.com/v3/models/1e2d0dbf7ee146368b15d8e49eed92d5",
+    "user": {
+        "uid": "c1204bbddddf403ebc012241fd311c99",
+        "username": "carlosm18",
+        "displayName": "Carlos",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/carlosm18",
+        "avatar": {
+            "uid": "cfece89039574ab1bb84caee7bd0b406",
+            "uri": "https://api.sketchfab.com/v3/avatars/cfece89039574ab1bb84caee7bd0b406",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 658,
+                    "url": "https://media.sketchfab.com/avatars/cfece89039574ab1bb84caee7bd0b406/d3ab7da1e5954cdaa29c10c62e281a7f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 993,
+                    "url": "https://media.sketchfab.com/avatars/cfece89039574ab1bb84caee7bd0b406/c97c5061c6504b3aaadd7f83d1f99009.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2128,
+                    "url": "https://media.sketchfab.com/avatars/cfece89039574ab1bb84caee7bd0b406/f1db0ff45a8f4eee8bd598c60267cb31.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 2506,
+                    "url": "https://media.sketchfab.com/avatars/cfece89039574ab1bb84caee7bd0b406/d0dc0702d98d4e20bcd14d61d1b5a65d.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/c1204bbddddf403ebc012241fd311c99"
+    },
+    "vertexCount": 515106,
+    "viewCount": 11,
+    "viewerUrl": "https://sketchfab.com/3d-models/subaru-rally-car-1e2d0dbf7ee146368b15d8e49eed92d5",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "For proper use, we recommend downloading the source format.The converted file is intended exclusively for browser preview. In the source file, the following are fully preserved:✔ original scene hierarchy✔ complete materials without reduction✔ accurate texture maps✔ correct object namesIf you intend to use the asset in a production environment, download the Original format.This is a detailed 3D model of the Subaru Impreza WRX Sti. The exterior is modeled with great detail and there is also parts modelled at the bottom of the car. There is NO interior modeled for this car.",
+    "price": null,
+    "downloadCount": 3,
+    "editorUrl": "https://sketchfab.com/models/1e2d0dbf7ee146368b15d8e49eed92d5/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-20T10:35:54.373027",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 29
+}

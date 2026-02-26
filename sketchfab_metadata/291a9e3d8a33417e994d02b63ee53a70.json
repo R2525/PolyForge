@@ -1,0 +1,214 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "f825c721edb541dbbc8cd210123616c7",
+            "name": "Architecture",
+            "slug": "architecture",
+            "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2025-11-25T22:26:46.155218",
+    "embedUrl": "https://sketchfab.com/models/291a9e3d8a33417e994d02b63ee53a70/embed",
+    "faceCount": 1900672,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Winter Medieval Server Spawn",
+    "publishedAt": "2025-11-25T22:28:46.365947",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "winter",
+            "slug": "winter",
+            "uri": "https://api.sketchfab.com/v3/tags/winter"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "christmas",
+            "slug": "christmas",
+            "uri": "https://api.sketchfab.com/v3/tags/christmas"
+        },
+        {
+            "name": "hub",
+            "slug": "hub",
+            "uri": "https://api.sketchfab.com/v3/tags/hub"
+        },
+        {
+            "name": "spawn",
+            "slug": "spawn",
+            "uri": "https://api.sketchfab.com/v3/tags/spawn"
+        },
+        {
+            "name": "lobby",
+            "slug": "lobby",
+            "uri": "https://api.sketchfab.com/v3/tags/lobby"
+        },
+        {
+            "name": "christmas-tree",
+            "slug": "christmas-tree",
+            "uri": "https://api.sketchfab.com/v3/tags/christmas-tree"
+        },
+        {
+            "name": "winter-environment",
+            "slug": "winter-environment",
+            "uri": "https://api.sketchfab.com/v3/tags/winter-environment"
+        },
+        {
+            "name": "mineways",
+            "slug": "mineways",
+            "uri": "https://api.sketchfab.com/v3/tags/mineways"
+        },
+        {
+            "name": "minecraft",
+            "slug": "minecraft",
+            "uri": "https://api.sketchfab.com/v3/tags/minecraft"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "christmas-decorations",
+            "slug": "christmas-decorations",
+            "uri": "https://api.sketchfab.com/v3/tags/christmas-decorations"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "34beaef99cf14442a6e03d6124663e35",
+                "width": 1920,
+                "height": 1080,
+                "size": 242200,
+                "url": "https://media.sketchfab.com/models/291a9e3d8a33417e994d02b63ee53a70/thumbnails/ce5f43f92ff44db7ab918ac3e5272f8b/428e27b8cd7242a3b1ae4de9032229d9.jpeg"
+            },
+            {
+                "uid": "629b1c3a3d2343449f0b758cd5bb4d19",
+                "width": 1024,
+                "height": 576,
+                "size": 60412,
+                "url": "https://media.sketchfab.com/models/291a9e3d8a33417e994d02b63ee53a70/thumbnails/ce5f43f92ff44db7ab918ac3e5272f8b/2e9b7f892c21415e9018bd04ba90cc50.jpeg"
+            },
+            {
+                "uid": "fe8843a3f36f483da38b06fa2aabeb04",
+                "width": 720,
+                "height": 405,
+                "size": 32010,
+                "url": "https://media.sketchfab.com/models/291a9e3d8a33417e994d02b63ee53a70/thumbnails/ce5f43f92ff44db7ab918ac3e5272f8b/78d5c5bd7fd34d1aa9dd24e8a243fc8f.jpeg"
+            },
+            {
+                "uid": "32eca6a0be674f4b8681720cd8cc5d9e",
+                "width": 256,
+                "height": 144,
+                "size": 5645,
+                "url": "https://media.sketchfab.com/models/291a9e3d8a33417e994d02b63ee53a70/thumbnails/ce5f43f92ff44db7ab918ac3e5272f8b/888cadf940e349fe8b349f0922a5b8ab.jpeg"
+            },
+            {
+                "uid": "d27cda3036854d29a1296bb81c0e45f0",
+                "width": 64,
+                "height": 36,
+                "size": 1144,
+                "url": "https://media.sketchfab.com/models/291a9e3d8a33417e994d02b63ee53a70/thumbnails/ce5f43f92ff44db7ab918ac3e5272f8b/ef527879522e49c79bf5de40e65cf103.jpeg"
+            }
+        ]
+    },
+    "uid": "291a9e3d8a33417e994d02b63ee53a70",
+    "uri": "https://api.sketchfab.com/v3/models/291a9e3d8a33417e994d02b63ee53a70",
+    "user": {
+        "uid": "082453d9f4fb482bbe8782672c3fd0a9",
+        "username": "BreadBuilds",
+        "displayName": "BreadBuilds",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/BreadBuilds",
+        "avatar": {
+            "uid": "f1896e29d7154584ae9e29a6c9b781ed",
+            "uri": "https://api.sketchfab.com/v3/avatars/f1896e29d7154584ae9e29a6c9b781ed",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2803,
+                    "url": "https://media.sketchfab.com/avatars/f1896e29d7154584ae9e29a6c9b781ed/8692a3833126495e8715bb0defec1075.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 4936,
+                    "url": "https://media.sketchfab.com/avatars/f1896e29d7154584ae9e29a6c9b781ed/163dc843a8574d35bce77211bb22b48b.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 10446,
+                    "url": "https://media.sketchfab.com/avatars/f1896e29d7154584ae9e29a6c9b781ed/abfce75ca98c4d61a1a5e13b7f2681e1.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 11702,
+                    "url": "https://media.sketchfab.com/avatars/f1896e29d7154584ae9e29a6c9b781ed/c37d73b985884ca3b1094efb3e535a56.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/082453d9f4fb482bbe8782672c3fd0a9"
+    },
+    "vertexCount": 1211678,
+    "viewCount": 158,
+    "viewerUrl": "https://sketchfab.com/3d-models/winter-medieval-server-spawn-291a9e3d8a33417e994d02b63ee53a70",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "❄️ Winter version of the original map:      \n❄️ Medieval Server Spawn      \n\nSize: **329x330**      \nVersions: **1.8 - 1.21+**      \nInteriors: **Yes**      \n\n* 5 places for NPCs\n* 2 places for Crates\n* 6 markets\n* Enchanting spot\n* Blacksmith spot\n* Port\n* Spawnpoint\n* and so much more...\n\n\n[![](https://storage.googleapis.com/breadbuilds-renders/winter-medieval-server-spawn.png)](https://www.breadbuilds.com/?ref=sketchfab)\n[![](https://storage.googleapis.com/breadbuilds-graphics/banner-sketchfab.png)](https://www.breadbuilds.com/?ref=sketchfab)\n\n**Website:** [View our website](https://www.breadbuilds.com/?ref=sketchfab)      \n**Discord:**  [Join the discord](https://discord.gg/breadbuilds-594484981930262551)",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/291a9e3d8a33417e994d02b63ee53a70/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "mineways",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-27T20:32:22.191013",
+    "pbrType": null,
+    "textureCount": 1,
+    "materialCount": 20
+}

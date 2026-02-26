@@ -1,0 +1,157 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "d7cebaeca8604ebab1480e413404b679",
+            "name": "Electronics & Gadgets",
+            "slug": "electronics-gadgets",
+            "uri": "https://api.sketchfab.com/v3/categories/d7cebaeca8604ebab1480e413404b679",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/336c224334b7e53e277d236a8355e90a-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/d7cebaeca8604ebab1480e413404b679/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-02-01T15:39:38.222390",
+    "embedUrl": "https://sketchfab.com/models/103c18c5ae934c57beae01c9c6b271a6/embed",
+    "faceCount": 29963,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Industrial Gear Cable Winder & Desk Clamp",
+    "publishedAt": "2026-02-01T15:39:48.883218",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "3d-print",
+            "slug": "3d-print",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-print"
+        },
+        {
+            "name": "Gadgets",
+            "slug": "gadgets",
+            "uri": "https://api.sketchfab.com/v3/tags/gadgets"
+        },
+        {
+            "name": "ai-generated",
+            "slug": "ai-generated",
+            "uri": "https://api.sketchfab.com/v3/tags/ai-generated"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e264436b64a4425793542df1a8afd912",
+                "width": 1920,
+                "height": 1080,
+                "size": 54994,
+                "url": "https://media.sketchfab.com/models/103c18c5ae934c57beae01c9c6b271a6/thumbnails/3201986b5d9142fc87640d10b25ec5ad/af3d7111ec5948f3943ac70257f7c4a3.jpeg"
+            },
+            {
+                "uid": "80b0e0568bc643a599a12e1f620f84ef",
+                "width": 1024,
+                "height": 576,
+                "size": 18988,
+                "url": "https://media.sketchfab.com/models/103c18c5ae934c57beae01c9c6b271a6/thumbnails/3201986b5d9142fc87640d10b25ec5ad/f2d45c1b68b843d5a2dd13a2cc076121.jpeg"
+            },
+            {
+                "uid": "60d6c11ce9d64ec795b163b3d94abe9b",
+                "width": 720,
+                "height": 405,
+                "size": 11197,
+                "url": "https://media.sketchfab.com/models/103c18c5ae934c57beae01c9c6b271a6/thumbnails/3201986b5d9142fc87640d10b25ec5ad/0b2db88afc9649c2b13ff60a03f6b167.jpeg"
+            },
+            {
+                "uid": "28375e60fcf64b8d9b817b999c7963a4",
+                "width": 256,
+                "height": 144,
+                "size": 2598,
+                "url": "https://media.sketchfab.com/models/103c18c5ae934c57beae01c9c6b271a6/thumbnails/3201986b5d9142fc87640d10b25ec5ad/edb1cdb4294d468b8baa52e2bf659803.jpeg"
+            },
+            {
+                "uid": "e970d2075cd44224b0a1d6871d4100c6",
+                "width": 64,
+                "height": 36,
+                "size": 801,
+                "url": "https://media.sketchfab.com/models/103c18c5ae934c57beae01c9c6b271a6/thumbnails/3201986b5d9142fc87640d10b25ec5ad/ddba3c3446874db2aa55f316f4ec9216.jpeg"
+            }
+        ]
+    },
+    "uid": "103c18c5ae934c57beae01c9c6b271a6",
+    "uri": "https://api.sketchfab.com/v3/models/103c18c5ae934c57beae01c9c6b271a6",
+    "user": {
+        "uid": "9ecc13ec5d194c0687e0790c845064de",
+        "username": "noob122044",
+        "displayName": "noob122044",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/noob122044",
+        "avatar": {
+            "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 680,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1253,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2797,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3215,
+                    "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/9ecc13ec5d194c0687e0790c845064de"
+    },
+    "vertexCount": 14915,
+    "viewCount": 13,
+    "viewerUrl": "https://sketchfab.com/3d-models/industrial-gear-cable-winder-desk-clamp-103c18c5ae934c57beae01c9c6b271a6",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "Upgrade your workspace with this Mechanical Industrial Gear Cable Organizer. Designed with a rugged, heavy-duty aesthetic, this functional gadget features rotating gears that allow you to wind and manage cables with ease. The integrated sturdy desktop clamp ensures a secure fit on any table edge, keeping your workspace clutter-free and professional. Optimized for both FDM and Resin printing, the model captures intricate metallic textures and mechanical details. For the best results on FDM printers, we recommend a 0.15mm layer height with 20-25% infill for durability. No supports are needed for the main gear teeth, but a brim is suggested for the clamp screw. Whether you are a fan of steampunk aesthetics or industrial design, this slate grey gear winder is the perfect blend of form and function. Ideal for USB cables, charging leads, and headphone wires.",
+    "price": null,
+    "downloadCount": 2,
+    "editorUrl": "https://sketchfab.com/models/103c18c5ae934c57beae01c9c6b271a6/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "unknown",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-01T15:39:48.860053",
+    "pbrType": null,
+    "textureCount": null,
+    "materialCount": 1
+}

@@ -1,0 +1,69 @@
+{
+    "category": "Characters & Creatures",
+    "genre": "Ancient Roman",
+    "top_genres": [
+        {
+            "name": "Ancient Roman",
+            "score": 0.9
+        },
+        {
+            "name": "Gothic",
+            "score": 0.7
+        },
+        {
+            "name": "Vibrant Fantasy",
+            "score": 0.6
+        },
+        {
+            "name": "Medieval",
+            "score": 0.5
+        },
+        {
+            "name": "Fantasy",
+            "score": 0.4
+        }
+    ],
+    "style": "Weathered Photorealistic",
+    "top_styles": [
+        {
+            "name": "Weathered Photorealistic",
+            "score": 0.8
+        },
+        {
+            "name": "Voxel Art",
+            "score": 0.7
+        },
+        {
+            "name": "Hand-painted Stylized",
+            "score": 0.6
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.5
+        },
+        {
+            "name": "Stylized",
+            "score": 0.4
+        }
+    ],
+    "surface_conditions": [
+        "Weathered",
+        "Mossy",
+        "Dusty",
+        "Cracked",
+        "Rusty"
+    ],
+    "tags": [
+        "shaman",
+        "ancient",
+        "bog",
+        "spiritual",
+        "mystic",
+        "noble",
+        "giant",
+        "sacred"
+    ],
+    "model_id_full": "16965064a377431aabcd18b755e18760_Ancient Bog Shaman",
+    "sketchfab_id": "16965064a377431aabcd18b755e18760",
+    "asset_name": "Ancient Bog Shaman"
+}

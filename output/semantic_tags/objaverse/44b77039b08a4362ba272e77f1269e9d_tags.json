@@ -1,0 +1,36 @@
+{
+    "category": "Science & Technology",
+    "top_genres": [
+        {
+            "name": "Sci-Fi",
+            "score": 0.8
+        },
+        {
+            "name": "Military",
+            "score": 0.6
+        }
+    ],
+    "style": "Abstract",
+    "top_styles": [
+        {
+            "name": "Abstract",
+            "score": 0.9
+        },
+        {
+            "name": "Sci-Fi",
+            "score": 0.7
+        },
+        {
+            "name": "Low-Poly",
+            "score": 0.5
+        }
+    ],
+    "surface_conditions": [
+        "Clean"
+    ],
+    "tags": [
+        "object",
+        "3D",
+        "model"
+    ]
+}

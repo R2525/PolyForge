@@ -1,0 +1,331 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "e56c5de1e9344241909de76c5886f551",
+            "name": "Art & Abstract",
+            "slug": "art-abstract",
+            "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 1,
+    "createdAt": "2026-02-02T14:15:31.932079",
+    "embedUrl": "https://sketchfab.com/models/37326e940e37421b9b92f9d3c53e2be4/embed",
+    "faceCount": 181070,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 4,
+    "name": "Crystal Of The Elder Staff",
+    "publishedAt": "2026-02-02T14:21:18.489599",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "ancient",
+            "slug": "ancient",
+            "uri": "https://api.sketchfab.com/v3/tags/ancient"
+        },
+        {
+            "name": "high",
+            "slug": "high",
+            "uri": "https://api.sketchfab.com/v3/tags/high"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "unreal",
+            "slug": "unreal",
+            "uri": "https://api.sketchfab.com/v3/tags/unreal"
+        },
+        {
+            "name": "staff",
+            "slug": "staff",
+            "uri": "https://api.sketchfab.com/v3/tags/staff"
+        },
+        {
+            "name": "detail",
+            "slug": "detail",
+            "uri": "https://api.sketchfab.com/v3/tags/detail"
+        },
+        {
+            "name": "crystal",
+            "slug": "crystal",
+            "uri": "https://api.sketchfab.com/v3/tags/crystal"
+        },
+        {
+            "name": "epic",
+            "slug": "epic",
+            "uri": "https://api.sketchfab.com/v3/tags/epic"
+        },
+        {
+            "name": "artifact",
+            "slug": "artifact",
+            "uri": "https://api.sketchfab.com/v3/tags/artifact"
+        },
+        {
+            "name": "vr",
+            "slug": "vr",
+            "uri": "https://api.sketchfab.com/v3/tags/vr"
+        },
+        {
+            "name": "ar",
+            "slug": "ar",
+            "uri": "https://api.sketchfab.com/v3/tags/ar"
+        },
+        {
+            "name": "high-poly",
+            "slug": "high-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/high-poly"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "Relic",
+            "slug": "relic",
+            "uri": "https://api.sketchfab.com/v3/tags/relic"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "mythical",
+            "slug": "mythical",
+            "uri": "https://api.sketchfab.com/v3/tags/mythical"
+        },
+        {
+            "name": "enchanted",
+            "slug": "enchanted",
+            "uri": "https://api.sketchfab.com/v3/tags/enchanted"
+        },
+        {
+            "name": "Arcane",
+            "slug": "arcane",
+            "uri": "https://api.sketchfab.com/v3/tags/arcane"
+        },
+        {
+            "name": "game-asset",
+            "slug": "game-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+        },
+        {
+            "name": "free-asset",
+            "slug": "free-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/free-asset"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "unity",
+            "slug": "unity",
+            "uri": "https://api.sketchfab.com/v3/tags/unity"
+        },
+        {
+            "name": "low-poly",
+            "slug": "low-poly",
+            "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "blender",
+            "slug": "blender",
+            "uri": "https://api.sketchfab.com/v3/tags/blender"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "sketchfab",
+            "slug": "sketchfab",
+            "uri": "https://api.sketchfab.com/v3/tags/sketchfab"
+        },
+        {
+            "name": "magic",
+            "slug": "magic",
+            "uri": "https://api.sketchfab.com/v3/tags/magic"
+        },
+        {
+            "name": "cinematic-asset",
+            "slug": "cinematic-asset",
+            "uri": "https://api.sketchfab.com/v3/tags/cinematic-asset"
+        },
+        {
+            "name": "stylized-3d",
+            "slug": "stylized-3d",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized-3d"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "26fa66d41d404bc7b8be01a44e9c2aa0",
+                "width": 1920,
+                "height": 1080,
+                "size": 64429,
+                "url": "https://media.sketchfab.com/models/37326e940e37421b9b92f9d3c53e2be4/thumbnails/1c0be14bea874e1bbcc596662245983e/ff97893ee5f34ea7b8a21c8f9fbe7308.jpeg"
+            },
+            {
+                "uid": "205b6f3e3f4246498cca65dfc04a4cb3",
+                "width": 1024,
+                "height": 576,
+                "size": 20403,
+                "url": "https://media.sketchfab.com/models/37326e940e37421b9b92f9d3c53e2be4/thumbnails/1c0be14bea874e1bbcc596662245983e/f73efa7c053e458aa06cdf3e5a43fd80.jpeg"
+            },
+            {
+                "uid": "584e9b94b0334282965f18478bddd10d",
+                "width": 720,
+                "height": 405,
+                "size": 11713,
+                "url": "https://media.sketchfab.com/models/37326e940e37421b9b92f9d3c53e2be4/thumbnails/1c0be14bea874e1bbcc596662245983e/42f0fad0a55d4b85a0a705c54d3b470c.jpeg"
+            },
+            {
+                "uid": "001b26a096384e7fb72ab4a96cd5c794",
+                "width": 256,
+                "height": 144,
+                "size": 2593,
+                "url": "https://media.sketchfab.com/models/37326e940e37421b9b92f9d3c53e2be4/thumbnails/1c0be14bea874e1bbcc596662245983e/545abbd80c9c438eaa664fb54ca08add.jpeg"
+            },
+            {
+                "uid": "fc79857fd06243d58085051e3df4224d",
+                "width": 64,
+                "height": 36,
+                "size": 918,
+                "url": "https://media.sketchfab.com/models/37326e940e37421b9b92f9d3c53e2be4/thumbnails/1c0be14bea874e1bbcc596662245983e/cf5d9d14dbd2437e99cc44443801894c.jpeg"
+            }
+        ]
+    },
+    "uid": "37326e940e37421b9b92f9d3c53e2be4",
+    "uri": "https://api.sketchfab.com/v3/models/37326e940e37421b9b92f9d3c53e2be4",
+    "user": {
+        "uid": "f1ec06ea1594482bb780a65d0f9afb45",
+        "username": "f1ec06ea1594482bb780a65d0f9afb",
+        "displayName": "ItsKrish7",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/f1ec06ea1594482bb780a65d0f9afb",
+        "avatar": {
+            "uid": "78fa317e46024a5283765aa34df5e508",
+            "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+            "images": [
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 6421,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 2518,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 5653,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+                },
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1350,
+                    "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f1ec06ea1594482bb780a65d0f9afb45"
+    },
+    "vertexCount": 90520,
+    "viewCount": 44,
+    "viewerUrl": "https://sketchfab.com/3d-models/crystal-of-the-elder-staff-37326e940e37421b9b92f9d3c53e2be4",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "## ☕ buymeacoffee.com/krishbharal",
+    "price": null,
+    "downloadCount": 13,
+    "editorUrl": "https://sketchfab.com/models/37326e940e37421b9b92f9d3c53e2be4/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-02T14:23:38.117741",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

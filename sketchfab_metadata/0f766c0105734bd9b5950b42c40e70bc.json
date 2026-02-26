@@ -1,0 +1,246 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "86f23935367b4a1f9647c8a20e03d716",
+            "name": "Cultural Heritage & History",
+            "slug": "cultural-heritage-history",
+            "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+                }
+            ]
+        },
+        {
+            "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "name": "Furniture & Home",
+            "slug": "furniture-home",
+            "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2026-01-13T16:04:11.424334",
+    "embedUrl": "https://sketchfab.com/models/0f766c0105734bd9b5950b42c40e70bc/embed",
+    "faceCount": 3232,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 0,
+    "name": "Stylized Blacksmith Anvil",
+    "publishedAt": "2026-01-13T16:14:21.326440",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "forge",
+            "slug": "forge",
+            "uri": "https://api.sketchfab.com/v3/tags/forge"
+        },
+        {
+            "name": "blacksmith",
+            "slug": "blacksmith",
+            "uri": "https://api.sketchfab.com/v3/tags/blacksmith"
+        },
+        {
+            "name": "anvil",
+            "slug": "anvil",
+            "uri": "https://api.sketchfab.com/v3/tags/anvil"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "iron",
+            "slug": "iron",
+            "uri": "https://api.sketchfab.com/v3/tags/iron"
+        },
+        {
+            "name": "Game-ready",
+            "slug": "game-ready",
+            "uri": "https://api.sketchfab.com/v3/tags/game-ready"
+        },
+        {
+            "name": "crafting",
+            "slug": "crafting",
+            "uri": "https://api.sketchfab.com/v3/tags/crafting"
+        },
+        {
+            "name": "3D Model,",
+            "slug": "3d-model",
+            "uri": "https://api.sketchfab.com/v3/tags/3d-model"
+        },
+        {
+            "name": "cartoon",
+            "slug": "cartoon",
+            "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+        },
+        {
+            "name": "lowpoly",
+            "slug": "lowpoly",
+            "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+        },
+        {
+            "name": "gameasset",
+            "slug": "gameasset",
+            "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "weapon-smith",
+            "slug": "weapon-smith",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon-smith"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "0ebad7698fd947498bc63f0fd15ed74b",
+                "width": 1920,
+                "height": 1080,
+                "size": 54039,
+                "url": "https://media.sketchfab.com/models/0f766c0105734bd9b5950b42c40e70bc/thumbnails/d30a5ade27ad4bb5bf70358831fa26c1/0d7f5b99aca049449a9c3b16375d209d.jpeg"
+            },
+            {
+                "uid": "168e3a8d51a84549a5c44c7493821a1a",
+                "width": 1024,
+                "height": 576,
+                "size": 18446,
+                "url": "https://media.sketchfab.com/models/0f766c0105734bd9b5950b42c40e70bc/thumbnails/d30a5ade27ad4bb5bf70358831fa26c1/5271408cb5ae4d4aaa3e052c995e06b5.jpeg"
+            },
+            {
+                "uid": "ca01319bfbbf4e0d96bcde06bbc879fb",
+                "width": 720,
+                "height": 405,
+                "size": 10998,
+                "url": "https://media.sketchfab.com/models/0f766c0105734bd9b5950b42c40e70bc/thumbnails/d30a5ade27ad4bb5bf70358831fa26c1/b2058fac3b0f4d888d9cb49293511c4f.jpeg"
+            },
+            {
+                "uid": "cf4310a4110c4180978632bbaa26f2b3",
+                "width": 256,
+                "height": 144,
+                "size": 2927,
+                "url": "https://media.sketchfab.com/models/0f766c0105734bd9b5950b42c40e70bc/thumbnails/d30a5ade27ad4bb5bf70358831fa26c1/3a1d15cd6e6242069c259d62ad4de51f.jpeg"
+            },
+            {
+                "uid": "212c864ab9c0498ab4516a098582d18e",
+                "width": 64,
+                "height": 36,
+                "size": 942,
+                "url": "https://media.sketchfab.com/models/0f766c0105734bd9b5950b42c40e70bc/thumbnails/d30a5ade27ad4bb5bf70358831fa26c1/2aee2a81bcd34013b086cf8dac366bbf.jpeg"
+            }
+        ]
+    },
+    "uid": "0f766c0105734bd9b5950b42c40e70bc",
+    "uri": "https://api.sketchfab.com/v3/models/0f766c0105734bd9b5950b42c40e70bc",
+    "user": {
+        "uid": "bbab143e3c0742e487b158ac03a42a60",
+        "username": "FrieDev",
+        "displayName": "FrieDev",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/FrieDev",
+        "avatar": {
+            "uid": "748d4c4e4a2d496c8e983802390cfce5",
+            "uri": "https://api.sketchfab.com/v3/avatars/748d4c4e4a2d496c8e983802390cfce5",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 1176,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/a361f16cac9d4d14a2ea796ad3278909.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1723,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/d6a96def3f054d6aa09b4e59ce11920f.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 4912,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/5fe66f328b384198997ff49534dd4227.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 5798,
+                    "url": "https://media.sketchfab.com/avatars/748d4c4e4a2d496c8e983802390cfce5/2b4a2115380940fbb4277d15d6f5b068.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/bbab143e3c0742e487b158ac03a42a60"
+    },
+    "vertexCount": 1629,
+    "viewCount": 17,
+    "viewerUrl": "https://sketchfab.com/3d-models/stylized-blacksmith-anvil-0f766c0105734bd9b5950b42c40e70bc",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "A heavy, stylized iron anvil designed for fantasy and adventure game environments. This model features a clean, chunky silhouette with smooth bevels, perfect for a blacksmith's forge, dungeon crafting area, or village market scene.",
+    "price": null,
+    "downloadCount": 8,
+    "editorUrl": "https://sketchfab.com/models/0f766c0105734bd9b5950b42c40e70bc/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-01-13T16:14:21.692114",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

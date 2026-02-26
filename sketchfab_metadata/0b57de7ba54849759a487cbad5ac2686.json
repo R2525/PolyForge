@@ -1,0 +1,177 @@
+{
+    "animationCount": 1,
+    "categories": [],
+    "commentCount": 0,
+    "createdAt": "2026-02-22T05:42:42.167978",
+    "embedUrl": "https://sketchfab.com/models/0b57de7ba54849759a487cbad5ac2686/embed",
+    "faceCount": 22530,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 1,
+    "name": "DARKWELL",
+    "publishedAt": "2026-02-22T06:00:54.453754",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "scary",
+            "slug": "scary",
+            "uri": "https://api.sketchfab.com/v3/tags/scary"
+        },
+        {
+            "name": "highquality",
+            "slug": "highquality",
+            "uri": "https://api.sketchfab.com/v3/tags/highquality"
+        },
+        {
+            "name": "simple3dmodel",
+            "slug": "simple3dmodel",
+            "uri": "https://api.sketchfab.com/v3/tags/simple3dmodel"
+        },
+        {
+            "name": "vrgame",
+            "slug": "vrgame",
+            "uri": "https://api.sketchfab.com/v3/tags/vrgame"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "free",
+            "slug": "free",
+            "uri": "https://api.sketchfab.com/v3/tags/free"
+        },
+        {
+            "name": "dark",
+            "slug": "dark",
+            "uri": "https://api.sketchfab.com/v3/tags/dark"
+        },
+        {
+            "name": "horror",
+            "slug": "horror",
+            "uri": "https://api.sketchfab.com/v3/tags/horror"
+        },
+        {
+            "name": "gorillatag",
+            "slug": "gorillatag",
+            "uri": "https://api.sketchfab.com/v3/tags/gorillatag"
+        },
+        {
+            "name": "gorillataghorror",
+            "slug": "gorillataghorror",
+            "uri": "https://api.sketchfab.com/v3/tags/gorillataghorror"
+        },
+        {
+            "name": "gorillatagrig",
+            "slug": "gorillatagrig",
+            "uri": "https://api.sketchfab.com/v3/tags/gorillatagrig"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "7854cd1aa5f449d08e2d675a503a3c3b",
+                "width": 1920,
+                "height": 1080,
+                "size": 49006,
+                "url": "https://media.sketchfab.com/models/0b57de7ba54849759a487cbad5ac2686/thumbnails/0610870d4dad4b4e8277669c4a01ee1a/bcd0ce61d539419393d91d42000042b4.jpeg"
+            },
+            {
+                "uid": "69f643233d0e47078c680ad942cedce7",
+                "width": 1024,
+                "height": 576,
+                "size": 12172,
+                "url": "https://media.sketchfab.com/models/0b57de7ba54849759a487cbad5ac2686/thumbnails/0610870d4dad4b4e8277669c4a01ee1a/5131524cce2d44f997ddd135cbb7eb31.jpeg"
+            },
+            {
+                "uid": "4abbdd69a563433283e5402efa9cd2ed",
+                "width": 720,
+                "height": 405,
+                "size": 6712,
+                "url": "https://media.sketchfab.com/models/0b57de7ba54849759a487cbad5ac2686/thumbnails/0610870d4dad4b4e8277669c4a01ee1a/be477a061667484f86b27e67118bcb91.jpeg"
+            },
+            {
+                "uid": "6734fd1e8468412ab98243d0c9cb7203",
+                "width": 256,
+                "height": 144,
+                "size": 1628,
+                "url": "https://media.sketchfab.com/models/0b57de7ba54849759a487cbad5ac2686/thumbnails/0610870d4dad4b4e8277669c4a01ee1a/d620e3dd7deb415d898353afc6b91d94.jpeg"
+            },
+            {
+                "uid": "72c3c84f07454f70a8b6803b8985b840",
+                "width": 64,
+                "height": 36,
+                "size": 734,
+                "url": "https://media.sketchfab.com/models/0b57de7ba54849759a487cbad5ac2686/thumbnails/0610870d4dad4b4e8277669c4a01ee1a/cccb1481651941fe8673abcfe5bcc323.jpeg"
+            }
+        ]
+    },
+    "uid": "0b57de7ba54849759a487cbad5ac2686",
+    "uri": "https://api.sketchfab.com/v3/models/0b57de7ba54849759a487cbad5ac2686",
+    "user": {
+        "uid": "fe89e6f263504d949704b2c7f3ce4b24",
+        "username": "gorillahorror",
+        "displayName": "GP DARKWELL",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/gorillahorror",
+        "avatar": {
+            "uid": "dc10c9a866d146f597fe3aeb750f27b4",
+            "uri": "https://api.sketchfab.com/v3/avatars/dc10c9a866d146f597fe3aeb750f27b4",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 508,
+                    "url": "https://media.sketchfab.com/avatars/dc10c9a866d146f597fe3aeb750f27b4/f47a9d439ff9425aa00c128338057e5d.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 1214,
+                    "url": "https://media.sketchfab.com/avatars/dc10c9a866d146f597fe3aeb750f27b4/0d3712fc86f4463f820031e893d9e68e.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 2418,
+                    "url": "https://media.sketchfab.com/avatars/dc10c9a866d146f597fe3aeb750f27b4/cbbc1f813bdc40b3b8fc1c703f3b9b27.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 3085,
+                    "url": "https://media.sketchfab.com/avatars/dc10c9a866d146f597fe3aeb750f27b4/3cfe6406aefb4aa2b022212ff0882949.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/fe89e6f263504d949704b2c7f3ce4b24"
+    },
+    "vertexCount": 11313,
+    "viewCount": 10,
+    "viewerUrl": "https://sketchfab.com/3d-models/darkwell-0b57de7ba54849759a487cbad5ac2686",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "**its watching you\n\nspeed:70\n(10 times faster then you)",
+    "price": null,
+    "downloadCount": 1,
+    "editorUrl": "https://sketchfab.com/models/0b57de7ba54849759a487cbad5ac2686/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2026-02-23T05:11:11.985021",
+    "pbrType": null,
+    "textureCount": 3,
+    "materialCount": 6
+}

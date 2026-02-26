@@ -1,0 +1,295 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "3badf36bd9f549bdba295334d75e04d3",
+            "name": "Weapons & Military",
+            "slug": "weapons-military",
+            "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 3,
+    "createdAt": "2025-12-05T02:03:46.629750",
+    "embedUrl": "https://sketchfab.com/models/0e8ced246e4b4353aeb070c460a803ef/embed",
+    "faceCount": 140188,
+    "isAgeRestricted": false,
+    "license": {},
+    "likeCount": 1,
+    "name": "Kingslayer – Dwarven War Axe",
+    "publishedAt": "2025-12-05T20:47:57.418136",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [
+        {
+            "name": "rpg",
+            "slug": "rpg",
+            "uri": "https://api.sketchfab.com/v3/tags/rpg"
+        },
+        {
+            "name": "ornate",
+            "slug": "ornate",
+            "uri": "https://api.sketchfab.com/v3/tags/ornate"
+        },
+        {
+            "name": "trim",
+            "slug": "trim",
+            "uri": "https://api.sketchfab.com/v3/tags/trim"
+        },
+        {
+            "name": "textures",
+            "slug": "textures",
+            "uri": "https://api.sketchfab.com/v3/tags/textures"
+        },
+        {
+            "name": "prop",
+            "slug": "prop",
+            "uri": "https://api.sketchfab.com/v3/tags/prop"
+        },
+        {
+            "name": "dwarf",
+            "slug": "dwarf",
+            "uri": "https://api.sketchfab.com/v3/tags/dwarf"
+        },
+        {
+            "name": "viking",
+            "slug": "viking",
+            "uri": "https://api.sketchfab.com/v3/tags/viking"
+        },
+        {
+            "name": "medieval",
+            "slug": "medieval",
+            "uri": "https://api.sketchfab.com/v3/tags/medieval"
+        },
+        {
+            "name": "double",
+            "slug": "double",
+            "uri": "https://api.sketchfab.com/v3/tags/double"
+        },
+        {
+            "name": "legendary",
+            "slug": "legendary",
+            "uri": "https://api.sketchfab.com/v3/tags/legendary"
+        },
+        {
+            "name": "artifact",
+            "slug": "artifact",
+            "uri": "https://api.sketchfab.com/v3/tags/artifact"
+        },
+        {
+            "name": "ready",
+            "slug": "ready",
+            "uri": "https://api.sketchfab.com/v3/tags/ready"
+        },
+        {
+            "name": "4k",
+            "slug": "4k",
+            "uri": "https://api.sketchfab.com/v3/tags/4k"
+        },
+        {
+            "name": "metal",
+            "slug": "metal",
+            "uri": "https://api.sketchfab.com/v3/tags/metal"
+        },
+        {
+            "name": "realistic",
+            "slug": "realistic",
+            "uri": "https://api.sketchfab.com/v3/tags/realistic"
+        },
+        {
+            "name": "battle",
+            "slug": "battle",
+            "uri": "https://api.sketchfab.com/v3/tags/battle"
+        },
+        {
+            "name": "Dwarven",
+            "slug": "dwarven",
+            "uri": "https://api.sketchfab.com/v3/tags/dwarven"
+        },
+        {
+            "name": "Nordic",
+            "slug": "nordic",
+            "uri": "https://api.sketchfab.com/v3/tags/nordic"
+        },
+        {
+            "name": "kingslayer",
+            "slug": "kingslayer",
+            "uri": "https://api.sketchfab.com/v3/tags/kingslayer"
+        },
+        {
+            "name": "weapon",
+            "slug": "weapon",
+            "uri": "https://api.sketchfab.com/v3/tags/weapon"
+        },
+        {
+            "name": "handpainted",
+            "slug": "handpainted",
+            "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+        },
+        {
+            "name": "asset",
+            "slug": "asset",
+            "uri": "https://api.sketchfab.com/v3/tags/asset"
+        },
+        {
+            "name": "game",
+            "slug": "game",
+            "uri": "https://api.sketchfab.com/v3/tags/game"
+        },
+        {
+            "name": "3d",
+            "slug": "3d",
+            "uri": "https://api.sketchfab.com/v3/tags/3d"
+        },
+        {
+            "name": "weapons",
+            "slug": "weapons",
+            "uri": "https://api.sketchfab.com/v3/tags/weapons"
+        },
+        {
+            "name": "pbr",
+            "slug": "pbr",
+            "uri": "https://api.sketchfab.com/v3/tags/pbr"
+        },
+        {
+            "name": "model",
+            "slug": "model",
+            "uri": "https://api.sketchfab.com/v3/tags/model"
+        },
+        {
+            "name": "axe",
+            "slug": "axe",
+            "uri": "https://api.sketchfab.com/v3/tags/axe"
+        },
+        {
+            "name": "stylized",
+            "slug": "stylized",
+            "uri": "https://api.sketchfab.com/v3/tags/stylized"
+        },
+        {
+            "name": "fantasy",
+            "slug": "fantasy",
+            "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+        },
+        {
+            "name": "war",
+            "slug": "war",
+            "uri": "https://api.sketchfab.com/v3/tags/war"
+        },
+        {
+            "name": "gold",
+            "slug": "gold",
+            "uri": "https://api.sketchfab.com/v3/tags/gold"
+        }
+    ],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "f9316717c06748e3838cf68a7c2987e6",
+                "width": 1920,
+                "height": 1080,
+                "size": 492235,
+                "url": "https://media.sketchfab.com/models/0e8ced246e4b4353aeb070c460a803ef/thumbnails/57f3214fab77431d9e59c30a1aa7a9db/6e33f930b267488ea9ae6a764a853f85.jpeg"
+            },
+            {
+                "uid": "030ad2a2ea2f4316a60e6d3c4a3ef828",
+                "width": 1024,
+                "height": 576,
+                "size": 55764,
+                "url": "https://media.sketchfab.com/models/0e8ced246e4b4353aeb070c460a803ef/thumbnails/57f3214fab77431d9e59c30a1aa7a9db/d440bae1b19c4cebb9b7f38a240a5375.jpeg"
+            },
+            {
+                "uid": "0853349df1e1481d866a4749d5eb4cda",
+                "width": 720,
+                "height": 405,
+                "size": 23677,
+                "url": "https://media.sketchfab.com/models/0e8ced246e4b4353aeb070c460a803ef/thumbnails/57f3214fab77431d9e59c30a1aa7a9db/a4a70b8475604e0bbf77e6ac05eed592.jpeg"
+            },
+            {
+                "uid": "c52a7258414f48ba95069ad20182078f",
+                "width": 256,
+                "height": 144,
+                "size": 3405,
+                "url": "https://media.sketchfab.com/models/0e8ced246e4b4353aeb070c460a803ef/thumbnails/57f3214fab77431d9e59c30a1aa7a9db/e850328ab6e84b698440a433aae630f9.jpeg"
+            },
+            {
+                "uid": "20df457018d34f4bbb49385c9e915a72",
+                "width": 64,
+                "height": 36,
+                "size": 1009,
+                "url": "https://media.sketchfab.com/models/0e8ced246e4b4353aeb070c460a803ef/thumbnails/57f3214fab77431d9e59c30a1aa7a9db/7ef5e2ca0a134a8b87fc35cc3fcd0be4.jpeg"
+            }
+        ]
+    },
+    "uid": "0e8ced246e4b4353aeb070c460a803ef",
+    "uri": "https://api.sketchfab.com/v3/models/0e8ced246e4b4353aeb070c460a803ef",
+    "user": {
+        "uid": "f8869327889d41749d8bd41ff40bb0d9",
+        "username": "Ando3d",
+        "displayName": "ANDO3D",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/Ando3d",
+        "avatar": {
+            "uid": "64022415080c4329b24a963fbfae6abb",
+            "uri": "https://api.sketchfab.com/v3/avatars/64022415080c4329b24a963fbfae6abb",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2156,
+                    "url": "https://media.sketchfab.com/avatars/64022415080c4329b24a963fbfae6abb/cb744cc89b6f4b21a112891b78e13d32.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 3721,
+                    "url": "https://media.sketchfab.com/avatars/64022415080c4329b24a963fbfae6abb/30c9e0b888ab4f7199214f60f7144295.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 7843,
+                    "url": "https://media.sketchfab.com/avatars/64022415080c4329b24a963fbfae6abb/8fe98621995a4e759ecab60bbd30d80b.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 8959,
+                    "url": "https://media.sketchfab.com/avatars/64022415080c4329b24a963fbfae6abb/f1250a66db294dfb844f14acaef80cd9.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/f8869327889d41749d8bd41ff40bb0d9"
+    },
+    "vertexCount": 72042,
+    "viewCount": 63,
+    "viewerUrl": "https://sketchfab.com/3d-models/kingslayer-dwarven-war-axe-0e8ced246e4b4353aeb070c460a803ef",
+    "isDownloadable": false,
+    "isProtected": false,
+    "description": "“Kingslayer” is a fully handcrafted dwarven war axe, designed as a legendary artifact from a dark fantasy world.\nInspired by dwarven craftsmanship, ancient runes and royal ornaments, this weapon blends heavy metal design with noble, ornate shapes.\n\nThe axe carries a carved crown symbol, and beneath it tally marks—each one representing a fallen king claimed by this blade.\nA small storytelling detail that turns the model into a relic with its own history.\n\nIncluded:\n- complete 3D mesh\n- clean UV map\n- custom-made PBR textures (metalness/roughness)\n- realistic edge damage, wear and gold detailing\n\nPerfect for:\n- game development (RPG, fantasy, action)\n- cinematics / animation\n- marketing renders\n- concept art\n- world-building projects",
+    "price": null,
+    "downloadCount": 0,
+    "editorUrl": "https://sketchfab.com/models/0e8ced246e4b4353aeb070c460a803ef/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": false,
+    "updatedAt": "2025-12-05T20:47:59.176807",
+    "pbrType": "metalness",
+    "textureCount": 4,
+    "materialCount": 1
+}

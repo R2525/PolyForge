@@ -1,0 +1,141 @@
+{
+    "animationCount": 0,
+    "categories": [
+        {
+            "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+            "name": "Cars & Vehicles",
+            "slug": "cars-vehicles",
+            "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+            "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+            "thumbnails": [
+                {
+                    "width": "512",
+                    "height": "288",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+                },
+                {
+                    "width": "800",
+                    "height": "450",
+                    "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+                }
+            ]
+        }
+    ],
+    "commentCount": 0,
+    "createdAt": "2025-04-10T16:54:46.911126",
+    "embedUrl": "https://sketchfab.com/models/2844caa6781048e3b2fae25074e3ff12/embed",
+    "faceCount": 749390,
+    "isAgeRestricted": false,
+    "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+    },
+    "likeCount": 22,
+    "name": "Maserati Ghibli coupe 1967",
+    "publishedAt": "2025-04-10T16:55:22.796394",
+    "soundCount": 0,
+    "staffpickedAt": null,
+    "tags": [],
+    "thumbnails": {
+        "images": [
+            {
+                "uid": "e3e231ea0dab4151a185353f61509f10",
+                "width": 1920,
+                "height": 1080,
+                "size": 75150,
+                "url": "https://media.sketchfab.com/models/2844caa6781048e3b2fae25074e3ff12/thumbnails/0a865140183f482696eefcaeeae69863/6aeeba3bbc1e4b96a6642b36967a87d8.jpeg"
+            },
+            {
+                "uid": "1b737dfcd6584dd8a84bb33c8cc88648",
+                "width": 1024,
+                "height": 576,
+                "size": 24124,
+                "url": "https://media.sketchfab.com/models/2844caa6781048e3b2fae25074e3ff12/thumbnails/0a865140183f482696eefcaeeae69863/7e1322ccc02443138a0dc875140ae189.jpeg"
+            },
+            {
+                "uid": "f88b072e2d6b407abe9c1e8d4351ab87",
+                "width": 720,
+                "height": 405,
+                "size": 13893,
+                "url": "https://media.sketchfab.com/models/2844caa6781048e3b2fae25074e3ff12/thumbnails/0a865140183f482696eefcaeeae69863/4e8a3272ba2849769bdfd06b079bfae0.jpeg"
+            },
+            {
+                "uid": "993a0257b73c4f11a6c78dba7c9b817a",
+                "width": 256,
+                "height": 144,
+                "size": 3039,
+                "url": "https://media.sketchfab.com/models/2844caa6781048e3b2fae25074e3ff12/thumbnails/0a865140183f482696eefcaeeae69863/ef017ca4b9f34cee978e2333467057a5.jpeg"
+            },
+            {
+                "uid": "b694c733ba124b099d371386e233c7f9",
+                "width": 64,
+                "height": 36,
+                "size": 947,
+                "url": "https://media.sketchfab.com/models/2844caa6781048e3b2fae25074e3ff12/thumbnails/0a865140183f482696eefcaeeae69863/4ddb9c79fbf94c8fb3dc3292aba126a4.jpeg"
+            }
+        ]
+    },
+    "uid": "2844caa6781048e3b2fae25074e3ff12",
+    "uri": "https://api.sketchfab.com/v3/models/2844caa6781048e3b2fae25074e3ff12",
+    "user": {
+        "uid": "714d7e36847a443eaefb5ecacdc16452",
+        "username": "niev",
+        "displayName": "Nieve5677",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/niev",
+        "avatar": {
+            "uid": "8d6fa0e43ab24a43b79fe42c4982b9e2",
+            "uri": "https://api.sketchfab.com/v3/avatars/8d6fa0e43ab24a43b79fe42c4982b9e2",
+            "images": [
+                {
+                    "width": 32,
+                    "height": 32,
+                    "size": 2543,
+                    "url": "https://media.sketchfab.com/avatars/8d6fa0e43ab24a43b79fe42c4982b9e2/1d5b99bd1f5e4702bd72bf68ff10c818.png"
+                },
+                {
+                    "width": 48,
+                    "height": 48,
+                    "size": 5030,
+                    "url": "https://media.sketchfab.com/avatars/8d6fa0e43ab24a43b79fe42c4982b9e2/7a39cd0025e04fce8cda31c50a591f86.png"
+                },
+                {
+                    "width": 90,
+                    "height": 90,
+                    "size": 14373,
+                    "url": "https://media.sketchfab.com/avatars/8d6fa0e43ab24a43b79fe42c4982b9e2/38f304c5fe3b48aaa0ecb00fa51d2b6f.png"
+                },
+                {
+                    "width": 100,
+                    "height": 100,
+                    "size": 17263,
+                    "url": "https://media.sketchfab.com/avatars/8d6fa0e43ab24a43b79fe42c4982b9e2/e61279dbfc4543d6a50181bd012e868b.png"
+                }
+            ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/714d7e36847a443eaefb5ecacdc16452"
+    },
+    "vertexCount": 461454,
+    "viewCount": 324,
+    "viewerUrl": "https://sketchfab.com/3d-models/maserati-ghibli-coupe-1967-2844caa6781048e3b2fae25074e3ff12",
+    "isDownloadable": true,
+    "isProtected": false,
+    "description": "",
+    "price": null,
+    "downloadCount": 128,
+    "editorUrl": "https://sketchfab.com/models/2844caa6781048e3b2fae25074e3ff12/edit",
+    "status": {
+        "warning": {},
+        "processing": "SUCCEEDED"
+    },
+    "source": "website",
+    "hasCommentsDisabled": true,
+    "updatedAt": "2025-04-10T16:55:37.948191",
+    "pbrType": null,
+    "textureCount": 0,
+    "materialCount": 18
+}
