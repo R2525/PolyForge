@@ -1,0 +1,41 @@
+{
+    "category": "Cultural Heritage & History",
+    "top_genres": [
+        {
+            "name": "Historical",
+            "score": 0.85
+        },
+        {
+            "name": "Art & Abstract",
+            "score": 0.7
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.6
+        }
+    ],
+    "style": "Abstract",
+    "top_styles": [
+        {
+            "name": "Abstract",
+            "score": 0.95
+        },
+        {
+            "name": "Retro / PS1",
+            "score": 0.7
+        },
+        {
+            "name": "Photorealistic",
+            "score": 0.6
+        }
+    ],
+    "surface_conditions": [
+        "Rusty",
+        "Dusty"
+    ],
+    "tags": [
+        "ancient",
+        "artifact",
+        "medieval"
+    ]
+}

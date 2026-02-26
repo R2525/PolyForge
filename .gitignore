@@ -12,16 +12,29 @@ __pycache__/
 venv/
 .env
 
-# Datasets (STRICTLY EXCLUDE IMAGES)
+# Datasets (STRICTLY EXCLUDE IMAGES & 3D ASSETS)
 objaverse_mass_data/
 sketchfab_data/
 objaverse_chairs/
+classification/assets/
 objaverse_mass_data/**
 sketchfab_data/**
 *.jpg
 *.jpeg
 *.png
 *.webp
+*.gif
+*.tga
+*.tiff
+*.fbx
+*.obj
+*.glb
+*.blend
+*.stl
+*.zip
+*.unitypackage
+*.mat
+*.meta
 
 # Metadata & Analysis Results (INCLUDE)
 # We want to keep the semantic tags and embeddings as a lightweight index
